@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     116C|ro 18 lis  23:12:30
+OL,0,      BTVP3     116Cczw 19 lis  00:00:13
 OL,1,A]            GPoradnik                 
 OL,2,A]G]       @Pierwsza pomoc           Q
 OL,3,Q##!                                 "##
@@ -34,7 +34,7 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     116C|ro 18 lis  23:12:30
+OL,0,      BTVP3     116Cczw 19 lis  00:00:13
 OL,1,A]            GPoradnik                 
 OL,2,A]G]       @Pierwsza pomoc           Q
 OL,3,Q##!                                 "##
@@ -56,4 +56,54 @@ OL,20,Cco najmniej 2 oddechy). Je{eli masz
 OL,21,Cjakiekolwiek w@tpliwo|ci czy oddech    
 OL,22,Cjest prawid}owy, dzia}aj tak, jakby    
 OL,23,Cby} nieprawid}owy.                 >>> 
+FL,115,117,100,100,0,100
+PN,11603
+SC,0003
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP3     116Cczw 19 lis  00:00:14
+OL,1,A]            GPoradnik                 
+OL,2,A]G]       @Pierwsza pomoc           Q
+OL,3,Q##!                                 "##
+OL,4,  CJe{eli oddech jest prawid}owy:       
+OL,6,C*Gu}_{ poszkodowanego w pozycji        
+OL,7,   bezpiecznej,                         
+OL,8,C*Gwy|lij kogo| lub sam udaj si` po     
+OL,9,   pomoc (wezwij pogotowie),            
+OL,10,C*Gregularnie oceniaj oddech.           
+OL,12,  CJe{eli oddech nie jest prawid}owy:   
+OL,14,C*Gwy|lij kogo| po pomoc lub sam wezwij 
+OL,15,   pogotowie, a nast`pnie rozpocznij    
+OL,16,   resuscytacj` kr@{eniowo-oddechow@    
+OL,17,   w cyklu 30 uci|ni`^ - 2 wdechy do:   
+OL,18,C*Gprzyjazdu ratownik_w,                
+OL,19,C*Godzyskania oddechu przez             
+OL,20,   poszkodowanego,                      
+OL,21,C*Gutraty si} lub wyst@pienia sytuacji  
+OL,22,   zagra{aj@cej twojemu bezpiecze$stwu. 
+OL,23,                                   C>>> 
+FL,115,117,100,100,0,100
+PN,11604
+SC,0004
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP3     116Cczw 19 lis  00:00:14
+OL,1,A]            GPoradnik                 
+OL,2,A]G]       @Pierwsza pomoc           Q
+OL,3,Q##!                                 "##
+OL,5,     CUci|ni`cia klatki piersiowej:     
+OL,7, splecione d}onie, wyprostowane         
+OL,8, w }okciach, r`ce na |rodku klatki      
+OL,9, piersiowej, ucisk na g}`boko|^ co      
+OL,10, najmniej 5 cm w rytmie ok. 100 uci|ni`^
+OL,11, na minut`;                             
+OL,13,        COddechy ratownicze:            
+OL,15, zaci|ni`ty dwoma palcami nos           
+OL,16, poszkodowanego, wdmuchni`cie powietrza 
+OL,17, w usta poszkodowanego, aby unios}a si` 
+OL,18, jego klatka piersiowa. Je{eli masz     
+OL,19, opory przed wykonaniem oddech_w,       
+OL,20, prowad~ bez przerwy uci|ni`cia mostka. 
 FL,115,117,100,100,0,100

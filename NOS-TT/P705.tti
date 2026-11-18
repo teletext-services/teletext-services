@@ -3,9 +3,9 @@ PN,70501
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  705Cwoe 18 nov  23:40:56
+OL,0,       BNOS-TT  705Cdon 19 nov  00:11:20
 OL,1,D]                 Fweerrapport   F 1/5 
-OL,2,R]MDW E E R  L       NEDERLAND 23:30 uur
+OL,2,R]MDW E E R  L       NEDERLAND 00:00 uur
 OL,3,B]                                      
 OL,4,T#############BTemp FWind   BZicht FDruk
 OL,5,F                       m/s          hPa
@@ -13,16 +13,16 @@ OL,6,BTerschelling
 OL,7,Fdroog         B  7 F  Z  3 B>10km F 988
 OL,8,F                                       
 OL,9,BLeeuwarden                             
-OL,10,Fgeheel bewolktB  5 F  Z  2 B>10km F 988
+OL,10,Fgeheel bewolktB  6 F  Z  2 B>10km F 989
 OL,12,BEelde                                  
-OL,13,Fgeheel bewolktB  3 F  Z  2 B>10km F 989
+OL,13,Fgeheel bewolktB  4 F  Z  2 B>10km F 989
 OL,14,F                                       
 OL,15,BDen Helder                             
-OL,16,Fregen         B  7 FZZO  2 B>10km F 988
+OL,16,Fgeheel bewolktB  8 FZZO  3 B>10km F 988
 OL,18,BLelystad                               
-OL,19,Fregen         B  8 F ZO  1 B3100m F 989
+OL,19,Fregen         B  9 F  Z  2 B5400m F 989
 OL,21,BSchiphol                               
-OL,22,Fregen         B  9 FZZW  4 B>10km F 989
+OL,22,Fbuien         B  9 FZZW  5 B>10km F 988
 OL,23,T,,,,,,,,,,,Bwww.weerplaza.nlT,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -30,26 +30,26 @@ PN,70502
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  705Cwoe 18 nov  23:41:03
+OL,0,       BNOS-TT  705Cdon 19 nov  00:11:37
 OL,1,D]                 Fweerrapport   F 2/5 
-OL,2,R]MDW E E R  L       NEDERLAND 23:30 uur
+OL,2,R]MDW E E R  L       NEDERLAND 00:00 uur
 OL,3,B]                                      
 OL,4,T#############BTemp FWind   BZicht FDruk
 OL,5,F                       m/s          hPa
 OL,6,BEnschede                               
-OL,7,Fregen         B  8 FZZW  3 B8800m F 990
+OL,7,Fregen         B  8 FZZW  2 B5300m F 990
 OL,8,F                                       
 OL,9,BDe Bilt                                
-OL,10,Fgeheel bewolktB  9 FZZW  4 B>10km F 989
+OL,10,Fzwaar bewolkt B  9 FZZW  4 B>10km F 989
 OL,12,BRotterdam                              
-OL,13,Fgeheel bewolktB  9 FZZW  7 B>10km F 989
+OL,13,Fgeheel bewolktB 10 FZZW  6 B>10km F 989
 OL,14,F                                       
 OL,15,BEindhoven                              
-OL,16,Fzwaar bewolkt B  8 FZZW  4 B>10km F 991
+OL,16,Fgeheel bewolktB  9 FZZW  4 B>10km F 990
 OL,18,BVlissingen                             
 OL,19,Fgeheel bewolktB 10 FZZW  8 B>10km F 989
 OL,21,BMaastricht                             
-OL,22,Fregen         B 10 FZZW  7 B>10km F 992
+OL,22,Fgeheel bewolktB  9 FZZW  5 B>10km F 992
 OL,23,T,,,,,,,,,,,Bwww.weerplaza.nlT,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -57,7 +57,7 @@ PN,70503
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  705Cwoe 18 nov  23:41:03
+OL,0,       BNOS-TT  705Cdon 19 nov  00:11:20
 OL,1,D]                 Fweerrapport   F 3/5 
 OL,2,R]MDW E E R  L      NEDERLAND 19:00 uur 
 OL,3,B]                                      
@@ -87,7 +87,7 @@ PN,70504
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  705Cwoe 18 nov  23:41:03
+OL,0,       BNOS-TT  705Cdon 19 nov  00:11:37
 OL,1,D]                 Fweerrapport   F 4/5 
 OL,2,R]MDW E E R  L     EUROPA 22:00 Ned.Tijd
 OL,3,B]                                      
@@ -117,7 +117,7 @@ PN,70505
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  705Cwoe 18 nov  23:40:51
+OL,0,       BNOS-TT  705Cdon 19 nov  00:11:38
 OL,1,D]                 Fweerrapport   F 5/5 
 OL,2,R]MDW E E R  L     WERELD 22:00 Ned.Tijd
 OL,3,B]                                      

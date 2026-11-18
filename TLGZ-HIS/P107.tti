@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BHISTORIA 107C|ro 18 lis  23:12:28
+OL,0,      BHISTORIA 107Cczw 19 lis  00:00:10
 OL,1,D]G18/11/2026 P
 OL,2,D] GGodzinaC]Dwschodu i zachodu S}o$ca  
 OL,3,T##############                         
@@ -34,7 +34,7 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BHISTORIA 107C|ro 18 lis  23:12:29
+OL,0,      BHISTORIA 107Cczw 19 lis  00:00:10
 OL,1,D]G18/11/2026 P
 OL,2,D] GGodzinaC]Dwschodu i zachodu S}o$ca  
 OL,3,T##############                         
@@ -64,7 +64,7 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BHISTORIA 107C|ro 18 lis  23:12:29
+OL,0,      BHISTORIA 107Cczw 19 lis  00:00:10
 OL,1,D]G18/11/2026 P
 OL,2,D] GGodzinaC]Dwschodu i zachodu S}o$ca  
 OL,3,T##############                         
@@ -87,4 +87,174 @@ OL,20,  23/12/2026     C7:44F15:26  G7:42
 OL,21,  30/12/2026     C7:45F15:31  G7:46     
 OL,22,Tpppppppppppppp                         
 OL,23,D]         S
+FL,106,108,300,300,0,100
+PN,10704
+SC,0004
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BHISTORIA 107Cczw 19 lis  00:00:11
+OL,1,D]GWsch_d     P
+OL,2,D]GS}o$ca  S
+OL,3,T##############                         
+OL,4,CWsch_d S}o$caGto moment, w kt_rym g_rny
+OL,5, punkt tarczy s}onecznej przekracza     
+OL,6, lini` horyzontu.                       
+OL,8,CZach_d S}o$caGto moment, w kt_rym g_rna
+OL,9, cz`|^ tarczy s}onecznej przekracza     
+OL,10, lini` horyzontu (moment przej|cia pod  
+OL,11, horyzont).                             
+OL,13,CBrzaskG(przed|wit, zaranie, jutrzenka) 
+OL,14, to |wiat}o widoczne na niebie przed    
+OL,15, wschodem S}o$ca, czyli po|wiata nad    
+OL,16, horyzontem pochodz@ca od ci@gle znaj-  
+OL,17, duj@cego si` pod horyzontem S}o$ca.    
+OL,19,C\witGto czas, w kt_rym pierwszy        
+OL,20, fragment tarczy S}o$ca staje si`       
+OL,21, widoczny nad horyzontem.               
+OL,22,Tpppppppppppppp                         
+OL,23,D]         S
+FL,106,108,300,300,0,100
+PN,10705
+SC,0005
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BHISTORIA 107Cczw 19 lis  00:00:11
+OL,1,D]G\wit astro-P
+OL,2,D]GnomicznyS
+OL,3,T##############                         
+OL,4,C\wit astronomicznyGto okres przed      
+OL,5, wschodem S}o$ca, gdy promienie S}o$ca  
+OL,6,F(brzask)Gna tyle roz|wietlaj@ niebo, {e
+OL,7, przestaje ono by^ czarne. \rodek tarczy
+OL,8, S}o$ca znajduje si` ju{ wy{ej ni{ 18   
+OL,9, poni{ej linii horyzontu i trwa do      
+OL,10, momentu, gdy |rodek tarczy S}o$ca      
+OL,11, przekroczy wysoko|^ 12  poni{ej linii  
+OL,12, horyzontu, w_wczas zaczyna si`F|wit    
+OL,13,F{eglarski.                             
+OL,15,C\wit {eglarskiG(|wit nawigacyjny lub   
+OL,16, |wit nautyczny) wyst`puje, gdy |rodek  
+OL,17, tarczy S}o$ca znajduje si` ju{ wy{ej   
+OL,18, ni{ 12  poni{ej linii horyzontu, ale   
+OL,19, ci@gle poni{ej 6  poni{ej linii hory-  
+OL,20, zontu, czyli S}o$ce jest pod horyzontem
+OL,21, mi`dzy 6 i 12 stopniem.                
+OL,22,Tpppppppppppppp                         
+OL,23,D]         S
+FL,106,108,300,300,0,100
+PN,10706
+SC,0006
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BHISTORIA 107Cczw 19 lis  00:00:11
+OL,1,D]G\wit       P
+OL,2,D]G{eglarskiS
+OL,3,T##############                         
+OL,4,C\wit {eglarskiGto czas przedFwschodem  
+OL,5,FS}o$ca,Ggdy horyzont i krajobraz staj@ 
+OL,6, si` na tyle widoczne, {e mo{liwa staje 
+OL,7, si` nawigacja w oparciu o o|wietlone   
+OL,8,FbrzaskiemGobiekty na ziemi lub morzu,  
+OL,9, a na niebie s@ jeszcze widoczne naj-   
+OL,10, ja|niejsze gwiazdy, wobec kt_rych mo{na
+OL,11, okre|li^ pozycj`.                      
+OL,13,D]G\wit       P
+OL,14,D]Gcywilny S
+OL,15,T##############                         
+OL,16,C\wit cywilnyGto czas przedFwschodem    
+OL,17,FS}o$ca,Gkiedy |rodek tarczy S}o$ca     
+OL,18, znajduje si` ju{ wy{ej ni{ 6  poni{ej  
+OL,19, linii horyzontu. \wit cywilny nast`puje
+OL,20, poF|wicie {eglarskim.                  
+OL,22,Tpppppppppppppp                         
+OL,23,D]         S
+FL,106,108,300,300,0,100
+PN,10707
+SC,0007
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BHISTORIA 107Cczw 19 lis  00:00:11
+OL,1,D]GZmierzch   P
+OL,2,D]G{eglarskiS
+OL,3,T##############                         
+OL,4,CZmierzch {eglarskiG(zmierzch nautyczny 
+OL,5, lub zmierzch nawigacyjny, zwany r_wnie{
+OL,6,Fzmrokiem)Gto okres po zachodzie S}o$ca,
+OL,7, kiedy |rodek tarczy s}onecznej znajduje
+OL,8, si` ju{ poni{ej 6  poni{ej horyzontu   
+OL,9, ale ci@gle jest jeszcze wy{ej ni{ 12   
+OL,10, poni{ej horyzontu. PrzedCzmierzchem    
+OL,11,C{eglarskimGwyst`pujeFzmierzch cywilny, 
+OL,12, a po nim -Fzmierzch astronomiczny.     
+OL,13,CZmierzch cywilnyGto fazaFzachodu S}o$- 
+OL,14,Fca,Gw kt_rej |rodek tarczy s}onecznej  
+OL,15, znajdzie si` nie wi`cej ni{ 6  poni{ej 
+OL,16, horyzontu. Na niebie pojawiaj@ si`     
+OL,17, najja|niejsze gwiazdy i planety.       
+OL,18,CZmierzch astronomicznyGto fazaFzachodu 
+OL,19,FS}o$ca,Gw kt_rej |rodek tarczy s}onecz-
+OL,20, nej znajdzie si` pomi`dzy 12 a 18      
+OL,21, poni{ej horyzontu.                     
+OL,22,Tpppppppppppppp                         
+OL,23,D]         S
+FL,106,108,300,300,0,100
+PN,10708
+SC,0008
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BHISTORIA 107Cczw 19 lis  00:00:11
+OL,1,D]GNoc        P
+OL,2,D]         S
+OL,3,T##############                         
+OL,4, KoniecFzmierzchu astronomicznegoGjest  
+OL,5, pocz@tkiemFnocy astronomicznej.        
+OL,7,CNoc astronomicznaGto okres kiedy |rodek
+OL,8, tarczy s}onecznej schodzi poni{ej 18   
+OL,9, k@towych pod lini@ horyzontu. W pasie  
+OL,10, zawartym pomi`dzy r_wnole{nikami  49   
+OL,11, noc astronomiczna wyst`puje przez ca}y 
+OL,12, rok. W Polsce natomiast przez pewien   
+OL,13, okres (maj-lipiec) nie ma nocy astro-  
+OL,14, nomicznej, gdy{ po zmierzchu astro-    
+OL,15, nomicznym nast`puje bezpo|rednio |wit  
+OL,16, astronomiczny. S}o$ce nie schodzi      
+OL,17, poni{ej 18  pod horyzont - przesuwa    
+OL,18, si` nisko pod horyzontem od zachodu do 
+OL,19, wschodu i wywo}uj@c jasn@ }un` na      
+OL,20, p_}nocnej stronie nieba.               
+OL,22,Tpppppppppppppp                         
+OL,23,D]         S
+FL,106,108,300,300,0,100
+PN,10709
+SC,0009
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BHISTORIA 107Cczw 19 lis  00:00:11
+OL,1,D]GNajd}u{szy P7ssssssssssssk
+OL,2,D]  Gdzie$ S5]D2 0 2 6  T5
+OL,3,T##############           *,,,,,,,,,,,,%
+OL,4,CMiejsce w Polsce z najkr_tszym         
+OL,5,Cdniem w ci@gu roku:                    
+OL,6, Rozewie, 21 grudnia:  7:12:01          
+OL,7,C- z najd}u{szym najkr_tszym dniem:     
+OL,8, Sianki,  21 grudnia:  8:13:15          
+OL,10,C- z najkr_tszym najd}u{szym dniem:     
+OL,11, Sianki,  21 czerwca: 16:12:19          
+OL,12,C- z najd}u{szym dniem:                 
+OL,13, Rozewie, 21 czerwca: 17:20:00          
+OL,15,CSiankiG- miejscowo|^ po}o{ona przy     
+OL,16, granicy polsko-ukrai$skiej nad Sanem   
+OL,17, w wojew_dztwie podkarpackim.           
+OL,19,CNajd}u{szy dzie$ w Warszawie b`dzie    
+OL,20,C21 czerwca, trwa}G16:46:38             
+OL,21,CNajkr_tszy b`dzie 21 grudnia:G7:42:00. 
+OL,22,Tpppppppppppppp                         
+OL,23,D]         C]   DFazy Ksi`{yca > 108    
+OL,24,AUrodzinyBKalendarium   CCzas   FKsi`{yc
 FL,106,108,300,300,0,100

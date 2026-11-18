@@ -1,10 +1,10 @@
 DE,TLGZ-OTV 117
-PN,11700
-SC,0000
-PS,8000
+PN,11701
+SC,0001
+PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     117C|ro 18 lis  23:12:30
+OL,0,      BTVP3     117Cczw 19 lis  00:00:14
 OL,1,A]            GPoradnik                 
 OL,2,A]G]           @Pow_d~               Q
 OL,3,A]G]       @Przed powodzi@           Q
@@ -28,4 +28,77 @@ OL,20, }@czania zasilania i dop}ywu medi_w.Nie
 OL,21, przechowuj wra{liwych urz@dze$ w piwni-
 OL,22, cach.  Utrzymuj sprawny system odprowa-
 OL,23, dzania w_d.                        C>>>
+FL,116,120,100,100,0,100
+PN,11702
+SC,0002
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP3     117Cczw 19 lis  00:00:14
+OL,1,A]            GPoradnik                 
+OL,2,A]G]           @Pow_d~               Q
+OL,3,A]G]@W sytuacji zagro{enia powodzi@  Q
+OL,4,Q##!                                 "##
+OL,5,C1.\led~ informacje:Gs}uchaj komunikat_w
+OL,6, o zagro{eniu w lokalnych mediach.      
+OL,8,C2.Ewakuacja os_b:GRozwa{ ewakuacj`     
+OL,9, dzieci i os_b starszych do bezpiecznego
+OL,10, miejsca.                               
+OL,12,C3.Zabezpiecz mienie: Gprzenie|  warto|-
+OL,13, ciowe przedmioty na wy{sze kondygnacje.
+OL,15,C4.Zapasy:Gzgromad~ {ywno|^  d}ugotermi-
+OL,16, now@,  wod`,  odzie{,  latarki,   koce,
+OL,17, |rodki higieniczne.                    
+OL,19,C5.Przygotuj pojazdy: Gprzenie|  pojazdy
+OL,20, na niezagro{one tereny.                
+OL,22,C6.Zabezpiecz zwierz`ta: GRozwa{  wcze|-
+OL,23, niejsz@ ewakuacj` zwierz@t.        C>>>
+FL,116,120,100,100,0,100
+PN,11703
+SC,0003
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP3     117Cczw 19 lis  00:00:14
+OL,1,A]            GPoradnik                 
+OL,2,A]G]           @Pow_d~               Q
+OL,3,A]G]      @W trakcie powodzi         Q
+OL,4,Q##!                                 "##
+OL,6,C1.Zapobiegaj panice:Gzachowaj  spok_j  
+OL,7, i podejmuj racjonalne dzia}ania.       
+OL,10,C2.Bezpiecze$stwo:Gwy}@cz  instalacje,  
+OL,11, unikaj kontaktu z zalaniem.            
+OL,14,C3.Ewakuacja:Gb@d~ got_w  do  ewakuacji,
+OL,15, zadbaj o apteczk`, {ywno|^, wod`, ubra-
+OL,16, nia.                                   
+OL,19,C4.Komunikacja:Gutrzymuj }@czno|^, s}u- 
+OL,20, chaj lokalnych stacji radiowych.       
+OL,23,                                    C>>>
+FL,116,120,100,100,0,100
+PN,11704
+SC,0004
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP3     117Cczw 19 lis  00:00:14
+OL,1,A]            GPoradnik                 
+OL,2,A]G]           @Pow_d~               Q
+OL,3,A]G]         @Po powodzi             Q
+OL,4,Q##!                                 "##
+OL,6,C1. Bezpieczny powr_t:Gwr_^ do domu  do-
+OL,7, piero po oficjalnym og}oszeniu  bezpie-
+OL,8, cze$stwa.                              
+OL,9,C2. Inspekcja domu:Gsprawd~ budynek  pod
+OL,10, k@tem uszkodze$ i bezpiecze$stwa.      
+OL,11,C3. Oczyszczanie i dezynfekcja:Gprzepro-
+OL,12, wad~ gruntowne czyszczenie zalanych ob-
+OL,13, szar_w.                                
+OL,14,C4. Pomoc po powodzi:Gskontaktuj   si`  
+OL,15, z ubezpieczycielem, zg}o| si` po pomoc 
+OL,16, finansow@.                             
+OL,18,CTelefony alarmowe:                     
+OL,19,  F112 GNumer alarmowy                  
+OL,20,  F999 GPogotowie ratunkowe             
+OL,21,  F998 GStra{ po{arna                   
+OL,22,  F997 GPolicja                         
 FL,116,120,100,100,0,100

@@ -3,42 +3,39 @@ PN,70601
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G706  RTS 2     18.11.26 23:41:03
-OL,1,A]GRTS 2     ]@mercredi 18 novembre     
+OL,0,       G706  RTS 2     19.11.26 00:11:40
+OL,1,A]GRTS 2     ]@jeudi 19 novembre        
 OL,2,                                    1/2 
-OL,4,G23:50 GHistoire vivante                
-OL,5,       GMattmark, chronique d'un        
-OL,6,       Gdrame annonc#CS-TC(R)           
-OL,7,F00:40 F36.9  Sant#                     
-OL,8,E 0210 CS-TC(R)                         
-OL,9,G01:55 GCouleurs locales                
-OL,10,E 0130 CS-TC(R)                         
-OL,11,F02:15 F19h30 - Sign#                   
-OL,12,E 0150 CS-TCLSC(R)                      
-OL,13,G02:45 G36.9  Sant#                     
-OL,14,E 0250 CS-TC(R)                         
-OL,15,F03:55 FCouleurs locales                
-OL,16,E 0410 CS-TC(R)                         
-OL,17,G04:15 G19h30 - Sign#                   
-OL,18,E 0430 CS-TCLSC(R)                      
-OL,19,F04:45 F36.9  Sant#                     
-OL,20,E 0450 CS-TC(R)                         
+OL,4,G03:20 G19h30 - Sign#                   
+OL,5,E 0335 CS-TCLSC(R)                      
+OL,6,F03:50 FCouleurs locales                
+OL,7,E 0410 CS-TC(R)                         
+OL,8,G04:10 G19h30 - Sign#                   
+OL,9,E 0430 CS-TCLSC(R)                      
+OL,10,F04:40 FCouleurs locales                
+OL,11,E 0510 CS-TC(R)                         
+OL,12,G04:55 G19h30 - Sign#                   
+OL,13,E 0530 CS-TCLSC(R)                      
+OL,14,F05:30 FCouleurs locales                
+OL,15,E 0535 CS-TC(R)                         
+OL,16,G05:45 G19h30 - Sign#                   
+OL,17,E 0540 CS-TCLSC(R)                      
+OL,18,F06:15 FCouleurs locales                
+OL,19,E 0545 CS-TC(R)                         
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,70602
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G706  RTS 2     18.11.26 23:41:03
-OL,1,A]GRTS 2     ]@mercredi 18 novembre     
+OL,0,       G706  RTS 2     19.11.26 00:11:40
+OL,1,A]GRTS 2     ]@jeudi 19 novembre        
 OL,2,                                    2/2 
-OL,4,G06:00 GCouleurs locales                
-OL,5,E 0510 CS-TC(R)                         
-OL,6,F06:15 F19h30 - Sign#                   
-OL,7,E 0530 CS-TCLSC(R)                      
-OL,8,G06:45 GRTS Info                        
-OL,9,E 0555 GL'actualit# en continuCS-T      
-OL,10,F07:00 FLa Matinale                     
-OL,11,       FLa Matinale en vid#oCS-T        
+OL,4,G06:35 GCouleurs locales                
+OL,5,E 0625 CS-TC(R)                         
+OL,6,F06:50 FRTS Info                        
+OL,7,E 0555 FL'actualit# en continuCS-T      
+OL,8,G07:00 GLa Matinale                     
+OL,9,       GLa Matinale en vid#oCS-T        
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

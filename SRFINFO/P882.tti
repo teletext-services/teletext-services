@@ -3,14 +3,14 @@ PN,88201
 SC,0001
 PS,C200
 CT,8,T
-OL,0,       G882  SRF info  18.11.26 23:44:50
-OL,1,D]GPC-Date 18/11/2026  GDOG4 AT 23:41:32
+OL,0,       G882  SRF info  19.11.26 00:15:07
+OL,1,D]GPC-Date 19/11/2026  GDOG4 AT 00:14:31
 OL,2,G]                                      
 OL,3,G]                                      
 OL,4,G]                                      
-OL,5,F]D23:05 SRDRS              D23:38 TICKX
-OL,6,G]D23:40 TVSF1 D23:31 TVSFi F23:37 WDPRO
-OL,7,G]D22:29 TVSF2                          
+OL,5,F]G00:10 SRDRS              G00:12 TICKX
+OL,6,G]F00:13 TVSF1 F00:13 TVSFi F00:12 WDPRO
+OL,7,G]F00:05 TVSF2                          
 OL,8,F]                                      
 OL,9,G]                                      
 OL,10,G]              0                       
@@ -19,9 +19,9 @@ OL,12,G]
 OL,13,G]                          F18.00 METSF
 OL,14,F]                                      
 OL,15,G]                                      
-OL,16,G]             D18:00 METSIG            
-OL,17,F]             D18SR1D18SR2GD18SI1D18SI2
-OL,18,G]             G  /0  AGTICGD23:40 PRZCH
+OL,16,G]             F00:01 METSIG            
+OL,17,F]             GnaSR1GnaSR2GGnaSI1GnaSI2
+OL,18,G]             G  /0  AGTICGF00:10 PRZCH
 OL,19,G]             G22!07GSECO2             
 OL,20,F] 0            0                       
 OL,21,G]                                      
@@ -33,28 +33,28 @@ PN,88202
 SC,0002
 PS,C200
 CT,8,T
-OL,0,       G882  SRF info  18.11.26 23:44:50
-OL,1,D]GSTXTS0 D]GF18.11. 23:00 /G   23:43:55
+OL,0,       G882  SRF info  19.11.26 00:15:07
+OL,1,D]GSTXTS0 D]GF19.11. 00:00 /G   00:14:23
 OL,2,D]GDSK Us/Te IntmLk PLnk1 Plnk2 Dog Time
-OL,3,C1G424G 5/ 5GOKG   G 0000G 0000G 0G23:43
-OL,4,C2G265G 0/ 0GOKG   G    0G    0G 0G23:43
+OL,3,C1G424G 4/ 4GOKG   G 0000G 0000G 0G00:13
+OL,4,C2G265G 0/ 0GOKG   G    0G    0G 0G00:13
 OL,5,CDG584G  /  GOKG OKG     G     F 1F07:08
 OL,6,D]GDK0 Que  Max SQue Sts PmemST DogGADMN
-OL,7,Z1E   G   0G   0   0G   G      F  F     
-OL,8,Z2E   G    G    G   E   G      F  F     
-OL,9,G1E   G   0G   0   0G   G      F  F     
-OL,10,G2E   G    G    G   E   G      F  F     
-OL,11,L1E   G   0G   0   0G   G      F  F     
-OL,12,L2E   G    G    G   E   G      F  F     
-OL,13,P1E   G    G   0   0G   G      F  F     
-OL,14,P2E   G    G    G   E   G      F  F     
-OL,15,TxE   G    G   0   0GA  G      F  F     
-OL,16,ZoE   G    G   0   0GA  G      F  F     
+OL,7,Z1E   G   0G   0G  0G   G      F  C     
+OL,8,Z2E   G    G    G   E   G      F  C     
+OL,9,G1E   G   0G   0G  0G   G      F  C     
+OL,10,G2E   G    G    G   E   G      F  C     
+OL,11,L1E   G   0G   0G  0G   G      F  C     
+OL,12,L2E   G    G    G   E   G      F  C     
+OL,13,P1E   G    G   0G   G   G      F  C     
+OL,14,P2E   G    G    G   E   G      F  C     
+OL,15,TxE   G    G   0G   GA  G      F  F     
+OL,16,ZoE   G    G   0G   GA  G      F  F     
 OL,17,D]G    Que  Max SQue Sts PmemST    GASRC
-OL,18,41G       0G   0   0G   G      G  G     
-OL,19,42G       0G   0   0G   G      G  G     
-OL,20,  G        G   0   0G   G      G  G     
-OL,21,  G        G   0   0G   G      G  G     
+OL,18,41G       0G   0G  0G   G      G  G     
+OL,19,42G       0G   0G  0G   G      G  G     
+OL,20,  G        G    G   G   G      G  G     
+OL,21,  G        G    G   G   G      G  G     
 OL,22,D]G 770Xheld G"coX60 99.98 to 60 9G07:00
 OL,23,D]G                                     
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio

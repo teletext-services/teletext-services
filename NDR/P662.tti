@@ -3,7 +3,7 @@ PN,66201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G662FNDR TEXT GMi 18.11.B23:40:52
+OL,0,       G662FNDR TEXT GDo 19.11.B00:11:06
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTERWERTE                 
@@ -32,28 +32,28 @@ PN,66202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G662FNDR TEXT GMi 18.11.B23:40:52
+OL,0,       G662FNDR TEXT GDo 19.11.B00:11:06
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTERWERTE                 
 OL,4,F]T  %D     Norddeutschland             
-OL,5, Stand: 18.11.2026             22:00 Uhr
+OL,5, Stand: 18.11.2026             23:00 Uhr
 OL,6,FTmp: Aktuelle Lufttemperatur in `C     
 OL,7,FWetter: Aktueller Wetterzustand        
 OL,8,FNsl: Niederschlag letzte Stunde in l/qm
 OL,10,F             Tmp Wetter             Nsl
-OL,11, Fehmarn ....   7 bedeckt ......... <0,1
-OL,12,FHamburg ....   7 Spr}hregen ...... <0,1
+OL,11, Fehmarn ....   7 bedeckt .........    0
+OL,12,FHamburg ....   7 bedeckt ......... <0,1
 OL,13, Helgoland ..   8 bedeckt .........    0
-OL,14,FHusum ......   5 nach Regen ......    0
-OL,15, Itzehoe ....   6 Spr}hregen ...... <0,1
-OL,16,FKiel .......   6 Spr}hregen ......  0,1
-OL,17, L}beck .....   7 stark bew|lkt ... <0,1
-OL,18,FRendsburg ..   5 nicht gemeldet .. <0,1
-OL,19, Schleswig ..   5 nach Nieders. ...  0,1
-OL,20,FSch|nhagen .   5 nach Regen ...... <0,1
-OL,21, St.Peter-Ord   6 bedeckt ......... <0,1
-OL,22,FSylt .......   5 bedeckt .........    0
+OL,14,FHusum ......   5 bedeckt .........    0
+OL,15, Itzehoe ....   6 bedeckt ......... <0,1
+OL,16,FKiel .......   5 nach Nieders. ... <0,1
+OL,17, L}beck .....   7 bedeckt .........    0
+OL,18,FRendsburg ..   5 nicht gemeldet ..  0,2
+OL,19, Schleswig ..   5 bedeckt ......... <0,1
+OL,20,FSch|nhagen .   5 Spr}hregen ......  0,1
+OL,21, St.Peter-Ord   6 stark bew|lkt ...    0
+OL,22,FSylt .......   4 wolkig ..........    0
 OL,23,D]G650<                   WEITER >663 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(2/3)
 FL,101,200,300,650,0,100
@@ -61,27 +61,27 @@ PN,66203
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G662FNDR TEXT GMi 18.11.B23:40:52
+OL,0,       G662FNDR TEXT GDo 19.11.B00:11:06
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTERWERTE                 
 OL,4,F]T  %D     Norddeutschland             
-OL,5, Stand: 18.11.2026             22:00 Uhr
+OL,5, Stand: 18.11.2026             23:00 Uhr
 OL,6,FTmp: Aktuelle Lufttemperatur in `C     
 OL,7,FWetter: Aktueller Wetterzustand        
 OL,8,FNsl: Niederschlag letzte Stunde in l/qm
 OL,10,F             Tmp Wetter             Nsl
-OL,11, Arkona/R}gen   7 nach Regen ...... <0,1
-OL,12,FBarth ......   7 Spr}hregen ......  0,1
-OL,13, Boizenburg .   7 nach Regen ...... <0,1
-OL,14,FBoltenhagen.   7 bedeckt ......... <0,1
-OL,15, Greifswald .   7 nach Regen ......  0,1
-OL,16,FMarnitz ....   7 stark bew|lkt ... <0,1
-OL,17, Neubrandenb.   6 nach Regen ......  0,6
-OL,18,FPutbus/R}gen   7 Spr}hregen ......    0
-OL,19, Rostock/Warn   8 nach Regen ......  0,3
+OL,11, Arkona/R}gen   7 Spr}hregen ...... <0,1
+OL,12,FBarth ......   7 nach Regen ......  0,1
+OL,13, Boizenburg .   7 Regen ........... <0,1
+OL,14,FBoltenhagen.   7 nach Regen ...... <0,1
+OL,15, Greifswald .   7 nach Nieders. ...  0,1
+OL,16,FMarnitz ....   7 stark bew|lkt ...    0
+OL,17, Neubrandenb.   6 nicht gemeldet ..  0,2
+OL,18,FPutbus/R}gen   6 wolkig ..........  0,9
+OL,19, Rostock/Warn   8 nach Nieders. ...  0,4
 OL,20,FSchwerin ...   7 bedeckt .........    0
-OL,21, Ueckerm}nde.   7 stark bew|lkt ...  0,3
+OL,21, Ueckerm}nde.   7 nach Nieders. ...    0
 OL,22,FWaren ......   7 bedeckt .........    0
 OL,23,D]G650<                   WEITER >663 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)

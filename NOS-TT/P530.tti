@@ -3,22 +3,22 @@ PN,53001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  530Cwoe 18 nov  23:38:35
+OL,0,       BNOS-TT  530Cdon 19 nov  00:08:48
 OL,1,S  <$4<4<4<4<$4<$<$4C             C 1/9 
 OL,2,D]S7!5557555u05w1w1u0C FUTURES@@@@@@@@@@
-OL,3,T,,vssssssssssssssssy,,C 17/11 SLOTT,,,@
+OL,3,T,,vssssssssssssssssy,,C 18/11 SLOTT,,,@
 OL,4,BseriesBvorigB koersBomzetB  biedB  laat
 OL,5,BAEX-IND FUTURE B(FTI) B098,73B(1109,89)
-OL,6,FNov26F134,66C110,60C32092F105,60F112,85
-OL,7,FDec26F137,26C113,00C19068F106,75F117,50
-OL,8,FJan27F140,41C      C    0F      F      
-OL,9,FMrt27F144,26C146,25C    1F      F      
-OL,10,FJun27F139,46C      C    0F      F      
-OL,11,FSep27F142,26C      C    0F      F      
+OL,6,FNov26F110,19C101,60C20996F      F104,10
+OL,7,FDec26F112,79C104,50C12554F099,75F108,00
+OL,8,FJan27F115,94C      C    0F      F      
+OL,9,FMrt27F119,64C146,25C    1F      F      
+OL,10,FJun27F114,79C      C    0F      F      
+OL,11,FSep27F117,49C      C    0F      F      
 OL,12,BAEX MINI FUTUREB(MFA) B098,73B(1109,89)
-OL,13,FNov26F134,66C109,50C   16F      F      
-OL,14,FDec26F137,26C113,00C   18F      F      
-OL,15,FJan27F140,41C      C    0F      F      
+OL,13,FNov26F110,19C101,00C    7F      F      
+OL,14,FDec26F112,79C106,00C    8F      F      
+OL,15,FJan27F115,94C      C    0F      F      
 OL,16,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,17,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,18,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -33,29 +33,29 @@ PN,53002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  530Cwoe 18 nov  23:38:35
+OL,0,       BNOS-TT  530Cdon 19 nov  00:08:48
 OL,1,S  <$4<4<4<4<$4<$<$4C             C 2/9 
 OL,2,D]S7!5557555u05w1w1u0C OPTIES@@@@@@@@@@@
-OL,3,T,,vssssssssssssssssy,,C 17/11 SLOTT,,,@
+OL,3,T,,vssssssssssssssssy,,C 18/11 SLOTT,,,@
 OL,4,Bseries       B koersB omzetB biedB laat
 OL,5,BAEX WEEKOPTIE  B(AX1) B098,73B(1109,89)
 OL,6,FC Dec26 1080,0C      C    0F     F     
-OL,7,FP Dec26 1080,0C  5,44C   57F     F     
+OL,7,FP Dec26 1080,0C  8,05C   17F     F     
 OL,8,FC Dec26 1085,0C      C    0F     F     
-OL,9,FP Dec26 1085,0C  3,15C   50F     F     
+OL,9,FP Dec26 1085,0C 10,60C   92F     F     
 OL,10,FC Dec26 1090,0C 55,05C    2F     F     
-OL,11,FP Dec26 1090,0C  4,25C   36F     F     
+OL,11,FP Dec26 1090,0C 10,00C    7F     F     
 OL,12,FC Dec26 1095,0C      C    0F     F     
-OL,13,FP Dec26 1095,0C  8,45C   82F     F     
-OL,14,FC Dec26 1100,0C      C    0F     F     
-OL,15,FP Dec26 1100,0C  9,85C   48F     F     
-OL,16,FC Dec26 1105,0C 41,25C    2F     F     
-OL,17,FP Dec26 1105,0C  7,20C   14F     F     
-OL,18,FC Dec26 1110,0C      C    0F     F     
-OL,19,FP Dec26 1110,0C 14,05C   16F     F     
-OL,20,FC Dec26 1115,0C 14,35C    1F     F     
-OL,21,FP Dec26 1115,0C  9,35C    6F     F     
-OL,22,FC Dec26 1120,0C 14,00C    2F     F     
+OL,13,FP Dec26 1095,0C 12,60C   20F     F     
+OL,14,FC Dec26 1100,0C 16,10C    3F     F     
+OL,15,FP Dec26 1100,0C  9,85C    5F     F     
+OL,16,FC Dec26 1105,0C 13,35C    2F     F     
+OL,17,FP Dec26 1105,0C 11,80C   10F     F     
+OL,18,FC Dec26 1110,0C 11,95C    3F     F     
+OL,19,FP Dec26 1110,0C 13,55C    4F     F     
+OL,20,FC Dec26 1115,0C  9,25C   18F     F     
+OL,21,FP Dec26 1115,0C 16,50C    1F     F     
+OL,22,FC Dec26 1120,0C  6,55C   29F     F     
 OL,23,T,,,,,,,,,,,Cbron:Infront  T,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -63,10 +63,10 @@ PN,53003
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  530Cwoe 18 nov  23:38:35
+OL,0,       BNOS-TT  530Cdon 19 nov  00:08:48
 OL,1,S  <$4<4<4<4<$4<$<$4C             C 3/9 
 OL,2,D]S7!5557555u05w1w1u0C OPTIES@@@@@@@@@@@
-OL,3,T,,vssssssssssssssssy,,C 17/11 SLOTT,,,@
+OL,3,T,,vssssssssssssssssy,,C 18/11 SLOTT,,,@
 OL,4,Bseries       B koersB omzetB biedB laat
 OL,5,BAEX WEEKOPTIE  B(AX2) B098,73B(1109,89)
 OL,6,FP Nov26 1092,0C      C     F     F     
@@ -93,29 +93,29 @@ PN,53004
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  530Cwoe 18 nov  23:38:35
+OL,0,       BNOS-TT  530Cdon 19 nov  00:08:48
 OL,1,S  <$4<4<4<4<$4<$<$4C             C 4/9 
 OL,2,D]S7!5557555u05w1w1u0C OPTIES@@@@@@@@@@@
-OL,3,T,,vssssssssssssssssy,,C 17/11 SLOTT,,,@
+OL,3,T,,vssssssssssssssssy,,C 18/11 SLOTT,,,@
 OL,4,Bseries       B koersB omzetB biedB laat
 OL,5,BAEX WEEKOPTIE  B(AX4) B098,73B(1109,89)
-OL,6,FP Nov26 1092,0C      C     F     F     
-OL,7,FC Nov26 1094,0C      C    0F     F     
-OL,8,FP Nov26 1094,0C  5,50C    3F     F     
+OL,6,FP Nov26 1092,0C  9,45C   10F     F     
+OL,7,FC Nov26 1094,0C 22,44C    1F     F     
+OL,8,FP Nov26 1094,0C  9,67C    9F     F     
 OL,9,FC Nov26 1095,0C      C    0F     F     
-OL,10,FP Nov26 1095,0C  6,10C   45F     F     
-OL,11,FC Nov26 1096,0C      C    0F     F     
-OL,12,FP Nov26 1096,0C      C    0F     F     
+OL,10,FP Nov26 1095,0C  9,95C   98F     F     
+OL,11,FC Nov26 1096,0C 20,89C    1F     F     
+OL,12,FP Nov26 1096,0C 10,35C   43F     F     
 OL,13,FC Nov26 1098,0C      C    0F     F     
-OL,14,FP Nov26 1098,0C  6,63C   92F     F     
-OL,15,FC Nov26 1100,0C 20,00C   26F     F     
-OL,16,FP Nov26 1100,0C  7,19C  214F     F     
-OL,17,FC Nov26 1102,0C      C    0F     F     
-OL,18,FP Nov26 1102,0C      C    0F     F     
-OL,19,FC Nov26 1104,0C      C    0F     F     
+OL,14,FP Nov26 1098,0C 11,20C   40F     F     
+OL,15,FC Nov26 1100,0C 11,25C   25F     F     
+OL,16,FP Nov26 1100,0C 12,05C  224F     F     
+OL,17,FC Nov26 1102,0C 10,25C   59F     F     
+OL,18,FP Nov26 1102,0C 11,60C    2F     F     
+OL,19,FC Nov26 1104,0C  9,25C   34F     F     
 OL,20,FP Nov26 1104,0C      C    0F     F     
-OL,21,FC Nov26 1105,0C      C    0F     F     
-OL,22,FP Nov26 1105,0C  8,55C   38F     F     
+OL,21,FC Nov26 1105,0C 10,63C   83F     F     
+OL,22,FP Nov26 1105,0C 14,53C   46F     F50,00
 OL,23,T,,,,,,,,,,,Cbron:Infront  T,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -123,10 +123,10 @@ PN,53005
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  530Cwoe 18 nov  23:38:35
+OL,0,       BNOS-TT  530Cdon 19 nov  00:08:48
 OL,1,S  <$4<4<4<4<$4<$<$4C             C 5/9 
 OL,2,D]S7!5557555u05w1w1u0C OPTIES@@@@@@@@@@@
-OL,3,T,,vssssssssssssssssy,,C 17/11 SLOTT,,,@
+OL,3,T,,vssssssssssssssssy,,C 18/11 SLOTT,,,@
 OL,4,Bseries       B koersB omzetB biedB laat
 OL,5,BAEX DAGOPTIE   B(A16) B098,73B(1109,89)
 OL,6,FP Nov26 1085,0C  0,03C   30F     F     
@@ -153,10 +153,10 @@ PN,53006
 SC,0006
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  530Cwoe 18 nov  23:38:35
+OL,0,       BNOS-TT  530Cdon 19 nov  00:08:48
 OL,1,S  <$4<4<4<4<$4<$<$4C             C 6/9 
 OL,2,D]S7!5557555u05w1w1u0C OPTIES@@@@@@@@@@@
-OL,3,T,,vssssssssssssssssy,,C 17/11 SLOTT,,,@
+OL,3,T,,vssssssssssssssssy,,C 18/11 SLOTT,,,@
 OL,4,Bseries       B koersB omzetB biedB laat
 OL,5,BAEX DAGOPTIE   B(A17) B098,73B(1109,89)
 OL,6,FC Nov26 1090,0C      C    0F30,90F31,00
@@ -183,29 +183,29 @@ PN,53007
 SC,0007
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  530Cwoe 18 nov  23:38:35
+OL,0,       BNOS-TT  530Cdon 19 nov  00:08:48
 OL,1,S  <$4<4<4<4<$4<$<$4C             C 7/9 
 OL,2,D]S7!5557555u05w1w1u0C OPTIES@@@@@@@@@@@
-OL,3,T,,vssssssssssssssssy,,C 17/11 SLOTT,,,@
+OL,3,T,,vssssssssssssssssy,,C 18/11 SLOTT,,,@
 OL,4,Bseries       B koersB omzetB biedB laat
 OL,5,BAEX DAGOPTIE   B(A18) B098,73B(1109,89)
-OL,6,FC Nov26 1095,0C      C    0F     F     
-OL,7,FP Nov26 1095,0C  0,93C  189F     F     
-OL,8,FC Nov26 1096,0C      C     F     F     
+OL,6,FC Nov26 1095,0C      C    0F 8,05F 8,50
+OL,7,FP Nov26 1095,0C  0,04C   53F     F 0,01
+OL,8,FC Nov26 1096,0C 13,76C    4F 7,05F 7,50
 OL,9,FP Nov26 1096,0C      C     F     F     
-OL,10,FC Nov26 1097,0C      C     F     F     
+OL,10,FC Nov26 1097,0C      C    0F     F     
 OL,11,FP Nov26 1097,0C      C     F     F     
-OL,12,FC Nov26 1098,0C      C     F     F     
+OL,12,FC Nov26 1098,0C 11,91C    4F 5,05F 5,50
 OL,13,FP Nov26 1098,0C      C     F     F     
-OL,14,FC Nov26 1099,0C      C     F     F     
+OL,14,FC Nov26 1099,0C      C    0F     F     
 OL,15,FP Nov26 1099,0C      C     F     F     
-OL,16,FC Nov26 1100,0C 14,00C   11F     F     
-OL,17,FP Nov26 1100,0C  1,50C  552F     F     
-OL,18,FC Nov26 1101,0C      C     F     F     
+OL,16,FC Nov26 1100,0C  3,73C   49F 3,05F 3,50
+OL,17,FP Nov26 1100,0C  0,01C  519F     F 5,00
+OL,18,FC Nov26 1101,0C  1,75C    4F     F     
 OL,19,FP Nov26 1101,0C      C     F     F     
-OL,20,FC Nov26 1102,0C      C    0F     F     
-OL,21,FP Nov26 1102,0C  2,80C   14F     F     
-OL,22,FC Nov26 1103,0C      C     F     F     
+OL,20,FC Nov26 1102,0C  1,25C   72F 1,01F 1,50
+OL,21,FP Nov26 1102,0C  0,03C  414F     F 0,01
+OL,22,FC Nov26 1103,0C  0,08C   74F 0,02F     
 OL,23,T,,,,,,,,,,,Cbron:Infront  T,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -213,29 +213,29 @@ PN,53008
 SC,0008
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  530Cwoe 18 nov  23:38:35
+OL,0,       BNOS-TT  530Cdon 19 nov  00:08:48
 OL,1,S  <$4<4<4<4<$4<$<$4C             C 8/9 
 OL,2,D]S7!5557555u05w1w1u0C OPTIES@@@@@@@@@@@
-OL,3,T,,vssssssssssssssssy,,C 17/11 SLOTT,,,@
+OL,3,T,,vssssssssssssssssy,,C 18/11 SLOTT,,,@
 OL,4,Bseries       B koersB omzetB biedB laat
 OL,5,BAEX DAGOPTIE   B(A19) B098,73B(1109,89)
-OL,6,FP Nov26 1094,0C      C     F     F     
-OL,7,FC Nov26 1096,0C      C     F     F     
-OL,8,FP Nov26 1096,0C      C     F     F     
-OL,9,FC Nov26 1097,0C      C     F     F     
-OL,10,FP Nov26 1097,0C      C     F     F     
-OL,11,FC Nov26 1098,0C      C     F     F     
-OL,12,FP Nov26 1098,0C      C     F     F     
-OL,13,FC Nov26 1099,0C      C     F     F     
-OL,14,FP Nov26 1099,0C      C     F     F     
-OL,15,FC Nov26 1100,0C      C     F     F     
-OL,16,FP Nov26 1100,0C      C     F     F     
-OL,17,FC Nov26 1101,0C      C     F     F     
-OL,18,FP Nov26 1101,0C      C     F     F     
-OL,19,FC Nov26 1102,0C      C     F     F     
-OL,20,FP Nov26 1102,0C      C     F     F     
-OL,21,FC Nov26 1103,0C      C     F     F     
-OL,22,FP Nov26 1103,0C      C     F     F     
+OL,6,FP Nov26 1094,0C  2,68C  323F     F     
+OL,7,FC Nov26 1096,0C  5,90C   15F     F     
+OL,8,FP Nov26 1096,0C  3,40C   93F     F     
+OL,9,FC Nov26 1097,0C      C    0F     F     
+OL,10,FP Nov26 1097,0C  3,70C  115F     F     
+OL,11,FC Nov26 1098,0C  4,70C   65F     F     
+OL,12,FP Nov26 1098,0C  4,05C  148F     F     
+OL,13,FC Nov26 1099,0C  4,20C    1F     F     
+OL,14,FP Nov26 1099,0C  4,70C   14F     F     
+OL,15,FC Nov26 1100,0C  3,75C  241F     F     
+OL,16,FP Nov26 1100,0C  5,10C  159F     F     
+OL,17,FC Nov26 1101,0C  4,90C    1F     F     
+OL,18,FP Nov26 1101,0C  4,80C   43F     F     
+OL,19,FC Nov26 1102,0C  2,75C  144F     F     
+OL,20,FP Nov26 1102,0C  6,25C  103F     F     
+OL,21,FC Nov26 1103,0C  2,50C   50F     F     
+OL,22,FP Nov26 1103,0C  6,90C   33F     F     
 OL,23,T,,,,,,,,,,,Cbron:Infront  T,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -243,29 +243,29 @@ PN,53009
 SC,0009
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  530Cwoe 18 nov  23:38:35
+OL,0,       BNOS-TT  530Cdon 19 nov  00:08:48
 OL,1,S  <$4<4<4<4<$4<$<$4C             C 9/9 
 OL,2,D]S7!5557555u05w1w1u0C OPTIES@@@@@@@@@@@
-OL,3,T,,vssssssssssssssssy,,C 17/11 SLOTT,,,@
+OL,3,T,,vssssssssssssssssy,,C 18/11 SLOTT,,,@
 OL,4,Bseries       B koersB omzetB biedB laat
 OL,5,BAEX            B(AEX) B098,73B(1109,89)
-OL,6,FC Nov26 1098,0C 26,70C    1F     F     
-OL,7,FP Nov26 1098,0C  3,35C  211F     F     
-OL,8,FC Nov26 1100,0C 16,00C   44F     F     
-OL,9,FP Nov26 1100,0C  3,90C  416F 3,35F11,85
-OL,10,FC Dec26 1100,0C 29,25C  121F18,95F     
-OL,11,FP Dec26 1100,0C 14,75C  162F 0,01F15,50
-OL,12,FC Jan27 1100,0C 43,35C    2F     F     
-OL,13,FP Jan27 1100,0C 19,70C   47F     F     
-OL,14,FC Mrt27 1100,0C 57,50C   32F     F     
-OL,15,FP Mrt27 1100,0C 30,50C  215F     F     
-OL,16,FC Jun27 1100,0C 67,25C    5F     F     
-OL,17,FP Jun27 1100,0C 43,70C    6F     F     
+OL,6,FC Nov26 1098,0C  6,70C   52F     F     
+OL,7,FP Nov26 1098,0C  6,10C  218F     F     
+OL,8,FC Nov26 1100,0C  5,55C  607F     F     
+OL,9,FP Nov26 1100,0C  6,75C  668F     F 9,10
+OL,10,FC Dec26 1100,0C 20,70C  192F     F     
+OL,11,FP Dec26 1100,0C 19,50C  242F18,00F     
+OL,12,FC Jan27 1100,0C 29,20C   15F     F     
+OL,13,FP Jan27 1100,0C 25,34C   50F     F27,00
+OL,14,FC Mrt27 1100,0C 42,70C  765F     F     
+OL,15,FP Mrt27 1100,0C 35,24C 2311F     F     
+OL,16,FC Jun27 1100,0C 60,00C    2F51,50F     
+OL,17,FP Jun27 1100,0C 48,10C    5F     F     
 OL,18,FC Sep27 1100,0C 91,25C    2F     F     
-OL,19,FP Sep27 1100,0C 54,00C    1F     F     
-OL,20,FC Dec27 1100,0C 83,95C   15F75,00F125,0
-OL,21,FP Dec27 1100,0C 58,80C    7F40,00F66,95
-OL,22,FC Jun28 1100,0C 99,75C    3F80,00F125,0
+OL,19,FP Sep27 1100,0C 56,85C    1F     F     
+OL,20,FC Dec27 1100,0C 83,95C   15F70,00F99,00
+OL,21,FP Dec27 1100,0C 64,50C    9F47,00F66,95
+OL,22,FC Jun28 1100,0C 90,00C    6F80,00F125,0
 OL,23,T,,,,,,,,,,,Cbron:Infront  T,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
