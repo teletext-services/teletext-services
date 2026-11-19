@@ -4,28 +4,28 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  806Cczw 19 lis  05:13:45
-OL,1,C]            @T e n i s           05:01
+OL,0,      BKULTURA  806Cczw 19 lis  07:14:03
+OL,1,C]            @T e n i s           07:01
 OL,2,C]    @Mecze wg godz. rozpocz`cia       
-OL,3, J.D.H.FriendF1:1GR.Noguchi C6:4 2:6E3:2
-OL,4,CT.SchoolkateF1:0GA.Ayeni       C6:1E4:1
-OL,5, B.HarrisF0:0GM.Schoenhaus          E2:3
-OL,6,F0GFalck / Suarez                     E1
-OL,7,F0 GJung / Rai                        E4
-OL,8, H.Y.HsiouF0:0GZ.Yi                 E0:0
-OL,9, M.Imamura - T.Daniel             B05:15
-OL,10,CEllis / Tu                       B05:30
-OL,11, CHsu / Zhu                             
-OL,12, Banthia / Chandrasekar           B06:30
-OL,13,  Bass / Duncan                         
-OL,14,CHsieh / Smith                    B06:30
-OL,15, CHo / Isaro                            
-OL,16, Reynolds / Watt                  B06:45
-OL,17,  Ichikawa / Shimizu                    
-OL,18,CDev / Sinha                      B07:30
-OL,19, CLoof / Uesugi                         
-OL,20, Arevalo / Pavic                  B11:30
-OL,21,  Luz / Matos                           
+OL,3, H.Y.HsiouF0:1CZ.Yi              5:7E6:6
+OL,4, M.ImamuraF0:1CT.Daniel          2:6E4:1
+OL,5,F0GHsieh / Smith                      E5
+OL,6,F0 GHo / Isaro                        E5
+OL,7, Banthia / Chandrasekar           B07:05
+OL,8,  Bass / Duncan                         
+OL,9,CReynolds / Watt                  B07:15
+OL,10, CIchikawa / Shimizu                    
+OL,11, Dev / Sinha                      B08:20
+OL,12,  Loof / Uesugi                         
+OL,13,CArevalo / Pavic                  B11:30
+OL,14, CLuz / Matos                           
+OL,15, Pereira / W.Lopez                B12:30
+OL,16,  Paul / Vocel                          
+OL,17,CB.Gojo - N.Basavareddy           B12:30
+OL,18, E.Vasa - E.Butvilas              B13:40
+OL,19,CB.Shelton - R.Jodar              B14:00
+OL,20, D.Svrcina - S.Travaglia          B14:00
+OL,21,CL.Bronzetti - C.Monnet           B15:30
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C803      F804   
@@ -35,25 +35,44 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  806Cczw 19 lis  05:13:54
-OL,1,C]            @T e n i s           05:01
+OL,0,      BKULTURA  806Cczw 19 lis  07:14:03
+OL,1,C]            @T e n i s           07:01
 OL,2,C]    @Mecze wg godz. rozpocz`cia       
-OL,3,CPereira / W.Lopez                B12:30
-OL,4, CPaul / Vocel                          
-OL,5, B.Gojo - N.Basavareddy           B12:30
-OL,6,CD.Svrcina - S.Travaglia          B13:40
-OL,7, E.Vasa - E.Butvilas              B13:40
-OL,8,CB.Shelton - R.Jodar              B14:00
-OL,9, L.Bronzetti - C.Monnet           B15:30
-OL,10,CV.Strakhova - V.Erjavec          B15:30
-OL,11, Rojer / Winegar                  B16:00
-OL,12,  Genov / Kittay                        
-OL,13,CA.Ritschard - O.Virtanen         B16:30
-OL,14, Cukierman / Romboli              B16:45
-OL,15,  Johnson / Venus                       
-OL,16,CB.Artnak - A.Gray                B17:00
-OL,17, J.Lee - A.Martin                 B17:00
-OL,18,CS.Kozlov - V.Gogineni            B17:00
+OL,3, Cukierman / Romboli              B15:30
+OL,4,  Johnson / Venus                       
+OL,5,CRojer / Winegar                  B16:00
+OL,6, CGenov / Kittay                        
+OL,7, A.Ritschard - O.Virtanen         B16:30
+OL,8,CB.Artnak - A.Gray                B17:00
+OL,9, V.Strakhova - V.Erjavec          B17:00
+OL,10,CS.Kozlov - V.Gogineni            B17:00
+OL,11, P.Zahraj - C.Chidekh             B17:00
+OL,12,CO.R.Batalla - Z.Kolar            B17:30
+OL,13, Guillen / Villanueva             B17:30
+OL,14,  Drzewiecki / Matuszew.                
+OL,15,CLiutarevich / Pieczonk           B17:40
+OL,16, CSalminen / Vrbensky                   
+OL,17, Heliovaara / Patten              B18:00
+OL,18,  Arribage / Olivetti                   
+OL,19,CS.Dominko - G.Young              B18:00
+OL,20, H.Wendelken - G.Blancaneaux      B18:30
+OL,21,CA.Mayo - H.Barton                B18:30
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80603
+SC,0003
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BKULTURA  806Cczw 19 lis  07:14:10
+OL,1,C]            @T e n i s           07:01
+OL,2,C]    @Mecze wg godz. rozpocz`cia       
+OL,3, L.Wessels - J.K.Trotter          B18:30
+OL,4,CNijboer / Nikles                 B18:40
+OL,5, CHuertas / Zeballos                    
+OL,6, C.S.Jover - T.S.Wild             B19:00
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C803      F804   

@@ -3,28 +3,28 @@ PN,66501
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G665FNDR TEXT GDo 19.11.B07:11:07
+OL,0,       G665FNDR TEXT GDo 19.11.B08:10:49
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD   AKTUELLE TEMPERATUREN     
 OL,4,F]T  %D       Niedersachsen             
-OL,5, Stand: 19.11.2026             06:00 Uhr
-OL,6,RZ          ` `0                        
-OL,7,RZ   ,"!aqqT~V}G            A Aurich   
-OL,8,RZ  <`~~V~Rp"Vu0G          B Bremen   
+OL,5, Stand: 19.11.2026             07:00 Uhr
+OL,6,VZ          ` `0                        
+OL,7,VZ   ,"!aqqT~V}G            A Aurich   
+OL,8,RZ  <`~V~~%p"u0G          B Bremen   
 OL,9,VZ   *oAt{up 0G       G G|ttingen
-OL,10,SZ    jRV}|G     H Hannover 
-OL,11,SZ    jRBV}G    O Osnabr}ck
-OL,12,SZ    zRV//               
-OL,13,SZ   hRV                  
-OL,14,SZ  |~RSRV4                 
-OL,15,RZ   k7kS' ?#RS5                 
-OL,16,RZ   *'S jO4  xHT    |G1`C..3`C  
-OL,17,SZ       */%  *V    |G3`C..5`C  
-OL,18,SZ             o#!R    |G5`C..7`C  
-OL,19,SZ              RS      |G7`C..9`C  
-OL,20,SZ              oGR4                  
-OL,21,SZ               z? !                  
+OL,10,RZ    jV}|G     H Hannover 
+OL,11,RZ    jVBT}G    O Osnabr}ck
+OL,12,RZ    zVTV//               
+OL,13,RZ   hVTV                  
+OL,14,RZ  |~SRV4                 
+OL,15,RZ   k7kS' ?#R5                 
+OL,16,RZ   *'S jO4  xHRT    |G1`C..4`C  
+OL,17,SZ       */%R *SRV    |G4`C..6`C  
+OL,18,RZ             oS#!R    |G6`C..8`C  
+OL,19,RZ              VS      |G8`C..10`C 
+OL,20,RZ              oGV4                  
+OL,21,RZ               z? !                  
 OL,22,RZ               #!                     
 OL,23,D]G650<            Schleswig-Holstein >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/4)
@@ -33,29 +33,29 @@ PN,66502
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G665FNDR TEXT GDo 19.11.B07:11:07
+OL,0,       G665FNDR TEXT GDo 19.11.B08:10:49
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD   AKTUELLE TEMPERATUREN     
 OL,4,F]T  %D       Schleswig-Holstein        
-OL,5, Stand: 19.11.2026             05:00 Uhr
+OL,5, Stand: 19.11.2026             06:00 Uhr
 OL,6,TZ   5 hh|p0  0                         
-OL,7,TZ  (!  FV4G            F Flensburg
+OL,7,TZ  (!  F|4G            F Flensburg
 OL,8,TZ    / *V0G          H Heide    
-OL,9,TZ       jV!G          K Kiel     
-OL,10,VZ     %!&{'`R     `|G  L L}beck   
-OL,11,VZ      pzTVuupR  0#!G M M|lln    
-OL,12,VZ     +/TVK}p~               
-OL,13,TZ       HVR?               
-OL,14,SZ /T    +R?'                
+OL,9,TZ       jV!G          K Kiel     
+OL,10,TZ     %!&{V'`      `|G  L L}beck   
+OL,11,TZ      pzVuup   0#!G M M|lln    
+OL,12,TZ     +/VK}p~               
+OL,13,TZ       HV?               
+OL,14,SZ /T    +V?'                
 OL,15,TZ       |V5                 
-OL,16,TZ       *VL%T   |G-1`C..+2`C
-OL,17,VZ          *TV5     |G+2`C..+4`C
-OL,18,VZ           kT?+VuR    |G+4`C..+6`C
-OL,19,VZ            o/#  MS   |G+6`C..+8`C
-OL,20,RZ                (VQ    |G+8`C..+10`
-OL,21,VZ                 +o7                  
-OL,22,RZ                   !                  
+OL,16,TZ       *VL%T   |G1`C..3`C  
+OL,17,VZ          *TV5     |G3`C..5`C  
+OL,18,VZ           kT?+uR    |G5`C..7`C  
+OL,19,VZ            o/#T MS   |G7`C..9`C  
+OL,20,VZ                (T                 
+OL,21,TZ                 +o7                  
+OL,22,VZ                   !                  
 OL,23,D]G650<        Mecklenburg-Vorpommern >>
 OL,24,AInhalt BSport CFernsehen FWetter G(2/4)
 FL,101,200,300,650,0,100
@@ -63,7 +63,7 @@ PN,66503
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G665FNDR TEXT GDo 19.11.B07:11:07
+OL,0,       G665FNDR TEXT GDo 19.11.B08:10:49
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD   AKTUELLE TEMPERATUREN     
@@ -93,7 +93,7 @@ PN,66504
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G665FNDR TEXT GDo 19.11.B07:11:07
+OL,0,       G665FNDR TEXT GDo 19.11.B08:10:49
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD   AKTUELLE TEMPERATUREN     

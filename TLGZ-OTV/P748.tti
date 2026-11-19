@@ -4,18 +4,18 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     748Cczw 19 lis  05:13:05
+OL,0,      BTVP3     748Cczw 19 lis  08:12:27
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo mazowieckie    Q"##
-OL,4,E19.11.2026  4:00    GStany:            
+OL,4,E19.11.2026  7:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FBug                             
-OL,8,FWyszk_w         B170   F400    450    +
+OL,8,FWyszk_w         B171   F400    450    =
 OL,10, Rzeka:FJeziorka                        
 OL,11,FPiaseczno 2     B184   F300    350    =
 OL,13, Rzeka:FLiwiec                          
-OL,14,FZaliwie-PiegawkiB138   F220    270    =
+OL,14,FZaliwie-PiegawkiB139   F220    270    =
 OL,15, ]och_w          B112   G300    350    =
 OL,17, Rzeka:FNarew                           
 OL,18,FOstro}`ka        B70   F360    380    =
@@ -27,18 +27,18 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     748Cczw 19 lis  05:13:07
+OL,0,      BTVP3     748Cczw 19 lis  08:12:34
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo mazowieckie    Q"##
-OL,4,E19.11.2026  4:00    GStany:            
+OL,4,E19.11.2026  7:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FOmulew                          
 OL,8,FBia}obrzeg Bli{s B94   F180    220    =
 OL,10, Rzeka:FOrzyc                           
-OL,11,FMak_w MazowieckiB148   F370    390    +
+OL,11,FMak_w MazowieckiB155   F370    390    +
 OL,13, Rzeka:FPilica                          
-OL,14,FNowe Miasto      B35   F160    200    =
+OL,14,FNowe Miasto      B36   F160    200    =
 OL,15, Bia}obrzegi     B135   G200    250    =
 OL,17, Rzeka:FRadomka                         
 OL,18,FRogo{ek         B122   F330    380    =
@@ -49,22 +49,22 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     748Cczw 19 lis  05:13:14
+OL,0,      BTVP3     748Cczw 19 lis  08:12:34
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo mazowieckie    Q"##
-OL,4,E19.11.2026  4:00    GStany:            
+OL,4,E19.11.2026  7:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:F\wider                          
 OL,8,FW_lka Ml@dzka    B70   F210    300    =
 OL,10, Rzeka:FWis}a                           
 OL,11,FGusin           B134   F370    420    =
-OL,12, Warszawa BulwaryB137   G600    650    =
-OL,13,FModlin          B216   F650    700    =
-OL,14, Wyszogr_d       B249   G500    550    =
-OL,15,FK`pa Polska     B178   F450    500    +
+OL,12, Warszawa BulwaryB138   G600    650    =
+OL,13,FModlin          B218   F650    700    =
+OL,14, Wyszogr_d       B248   G500    550    -
+OL,15,FK`pa Polska     B178   F450    500    =
 OL,17, Rzeka:FWkra                            
-OL,18,FTrzciniec       B183   F280    330    =
-OL,19, Borkowo         B121   G280    300    =
+OL,18,FTrzciniec       B184   F280    330    =
+OL,19, Borkowo         B120   G280    300    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,747,749,100,100,0,100

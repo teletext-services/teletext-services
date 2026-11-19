@@ -3,10 +3,11 @@ PN,88100
 SC,0000
 PS,8080
 CT,10,T
-OL,0,       G881  RTS 2     19.11.26 07:15:15
-OL,2,19/11/2026;07:13:17;                    
+OL,0,       G881  RTS 2     19.11.26 08:15:02
+OL,2,19/11/2026;08:13:38;                    
 OL,3,BS-disks-ok;BS-queue-ok;;               
 OL,4,BS-dog-ok;BS-times-ok;                  
-OL,5,BS-users-ok;BS-upl-ok;;                 
+OL,5,CW-user-METSI;BS-upl-ok;;               
+OL,11,G]             E00:01 METSIG            
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
