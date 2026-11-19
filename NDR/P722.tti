@@ -3,29 +3,28 @@ PN,72200
 SC,0000
 PS,8200
 CT,10,T
-OL,0,       G722FNDR TEXT GDo 19.11.B08:12:11
+OL,0,       G722FNDR TEXT GDo 19.11.B09:12:30
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN HANNOVER          
-OL,4,F]T  %D     Abflug       Stand 08:04    
+OL,4,F]T  %D     Abflug       Stand 09:04    
 OL,5,BFLUG    NACH          PLAN ERW. TER/BEM
-OL,6, X3 2144 Teneriffa     1150      A      
-OL,7,FX3 4564 Larnaca       1230      C      
-OL,8, X3 2148 Fuerteventura 1230      B      
-OL,9,FPC 1034 Istanbul-Sab. 1230      C      
-OL,10, X3 2260 Gran Canaria  1310      A      
-OL,11,FVL 2093 M}nchen       1335      A      
-OL,12, XQ  975 Izmir         1400      C      
-OL,13,FLH  045 Frankfurt     1505      A      
-OL,14, OS  274 Wien          1510      A      
-OL,15,FVF  086 Istanbul-Sab. 1540      C      
-OL,16, XQ 1721 Diyarbakir    1545      C      
-OL,17,FVL 2095 M}nchen       1715      A      
-OL,18, KL 1792 Amsterdam     1815      A      
-OL,19,FLH  047 Frankfurt     1900      A      
-OL,20, AF 1839 Paris - CDG   1910      A      
-OL,21,FSK 1668 Kopenhagen    1920      A      
-OL,22, BA  929 London-Heathr 1930      C      
+OL,6, XQ  975 Izmir         1400      C      
+OL,7,FLH  045 Frankfurt     1505      A      
+OL,8, OS  274 Wien          1510      A      
+OL,9,FVF  086 Istanbul-Sab. 1540      C      
+OL,10, XQ 1721 Diyarbakir    1545      C      
+OL,11,FVL 2095 M}nchen       1715      A      
+OL,12, KL 1792 Amsterdam     1815      A      
+OL,13,FLH  047 Frankfurt     1900      A      
+OL,14, AF 1839 Paris - CDG   1910      A      
+OL,15,FSK 1668 Kopenhagen    1920      A      
+OL,16, BA  929 London-Heathr 1930      C      
+OL,17,FLH 2097 M}nchen       1945      A      
+OL,18, LX  829 Z}rich        2010      A      
+OL,19,FOS  278 Wien          2025      A      
+OL,20,C        -- Am 20.11.2026 --            
+OL,21,FPC 1036 Istanbul-Sab. 0010      D      
 OL,23,A]G700<                     ANKUNFT >725
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

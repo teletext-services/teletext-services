@@ -3,7 +3,7 @@ PN,66001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G660FNDR TEXT GDo 19.11.B08:10:47
+OL,0,       G660FNDR TEXT GDo 19.11.B09:11:10
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD AGRARWETTER                 
@@ -31,29 +31,29 @@ PN,66002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G660FNDR TEXT GDo 19.11.B08:10:47
+OL,0,       G660FNDR TEXT GDo 19.11.B09:11:10
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD AGRARWETTER                 
 OL,4,F]T  %D     Bericht/Empfehlungen        
-OL,5, Stand: 18.11.2026             11:35 Uhr
+OL,5, Stand: 19.11.2026             08:35 Uhr
 OL,6,FA: Lufttemperatur Vortag in `C         
 OL,7,FB: Tiefsttemperatur am Boden in `C     
 OL,8,FC: mittl. Krumentemperatur Vortag in `C
 OL,9,FD: Sonnenscheindauer Vortag in Stunden 
 OL,10,F                 A      A              
 OL,11,F            MITTEL    MAX    B   C    D
-OL,12, Boizenburg     3,8    4,5    1   4    -
-OL,13,FBraunschweig   5,2    8,2    6   4  0,0
-OL,14, D|rnick        3,5    4,8    3   4  0,0
-OL,15,FEmden          4,7    8,7    6   4    -
-OL,16, Friesoythe     5,0    9,7    8   4    -
-OL,17,FG|ttingen      5,1   11,3    6   4    -
-OL,18, Hamburg        4,7    5,7    4   5  0,3
-OL,19,FItzehoe        3,7    5,0    3   3  0,0
-OL,20, Schleswig      2,5    4,7    2   2  0,0
-OL,21,FWaren          4,4    4,8    3   4  0,0
-OL,22, Warnem}nde     4,4    5,0    2   4  0,0
+OL,12, Boizenburg     7,9    9,7    3   5    -
+OL,13,FBraunschweig   9,0   10,8    4   6  0,0
+OL,14, D|rnick        7,1    8,5    3   6  0,0
+OL,15,FEmden          8,1    9,2    0   6    -
+OL,16, Friesoythe     8,5   10,2    2   7    -
+OL,17,FG|ttingen      9,1   11,1    5   7    -
+OL,18, Hamburg        8,0    8,9    1   6  0,0
+OL,19,FItzehoe        7,6    8,8   -2   6  0,0
+OL,20, Schleswig      6,4    8,4    2   5  0,1
+OL,21,FWaren          7,8   10,2    1   6  0,8
+OL,22, Warnem}nde     7,7    9,0    5   5  0,0
 OL,23,D]G650<                   WEITER >661 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

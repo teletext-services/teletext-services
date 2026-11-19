@@ -1,0 +1,29 @@
+DE,TEEFAX 753
+PN,75300
+SC,0000
+PS,8000
+CT,10,T
+OL,0,       GTEEFAX 1 753 Thu 19 NovC09:12/48
+OL,1, Enhancement packet 26 feature tests    
+OL,2, Foreground colour from CLUT0 test -> * 
+OL,3, Foreground colour from CLUT1 test -> * 
+OL,4, Foreground colour from CLUT2 test -> * 
+OL,5, Background colour from CLUT0 test -> *\
+OL,6, Background colour from CLUT1 test -> *\
+OL,7, Background colour from CLUT2 test -> *\
+OL,8, Diacritical mark test ------------->   
+OL,9, Flash functions test -------------->A* 
+OL,10, G0 character test ----------------->   
+OL,11, G1 mosaic test -------------------->   
+OL,12, G2 character test ----------------->   
+OL,13, G3 mosaic at level 1.5 test ------->   
+OL,14, G3 mosaic at level 2.5/3.5 test --->   
+OL,15,<- Full row colour test using CLUT 0 -->
+OL,16,<- Full row colour test using CLUT 1 -->
+OL,17,<- Full row colour test using CLUT 2 -->
+OL,18, Style regular italic bold proportional 
+OL,19,  D i s p l a y   a t t r i b u t e s   
+OL,21,AThese tests require a teletext decoder 
+OL,22,Awith support for level 1.5 or greater. 
+OL,23,H*IAlso an up to date version of VBITH* 
+FL,754,754,754,754,0,100

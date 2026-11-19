@@ -1,0 +1,48 @@
+DE,TEEFAX 713
+PN,71301
+SC,0001
+PS,C000
+CT,5,T
+OL,0,       GTEEFAX 1 713 Thu 19 NovC09:12/25
+OL,1,Q pppRpppTpppW  <$p0p0$p0p0p0p0$p0p0G1/2
+OL,2,Q 5|jR5|jT5|jT]W7 55-5555=%=%5 555-5Pj
+OL,3,Q 5/jR5/jT5/jT]W#!!!,%!!!#!#!! !!!,%Pj
+OL,4,Q ###R###T###WG     Information         
+OL,6,Mvhdl-teletext: FPGA teletext decoder   
+OL,9, A teletext decoder and display         
+OL,10, generator implemented in VHDL for      
+OL,11, FPGAs. Features HDMI output with       
+OL,12, selectable resolution and refresh      
+OL,13, rate, and keypad for page selection.   
+OL,14, Accepts a composite video input from   
+OL,15, (e.g.) a Pi or satellite receiver.     
+OL,16, Also supports a limited set of level   
+OL,17, 2.5 features, and the code is open-    
+OL,18, source.                                
+OL,21, For more details, see:                 
+OL,22,Cgithub.com/deveon95/vhdl-teletext      
+OL,24,AIndex B Specs  CSoftware F Test Cards  
+FL,700,704,710,740,0,100
+PN,71302
+SC,0002
+PS,C000
+CT,5,T
+OL,0,       GTEEFAX 1 713 Thu 19 NovC09:12/25
+OL,1,Q pppRpppTpppW  <$p0p0$p0p0p0p0$p0p0G2/2
+OL,2,Q 5|jR5|jT5|jT]W7 55-5555=%=%5 555-5Pj
+OL,3,Q 5/jR5/jT5/jT]W#!!!,%!!!#!#!! !!!,%Pj
+OL,4,Q ###R###T###WG     Information         
+OL,6,MNMS In-Vision Decoder                  
+OL,9, This decoder, by Nathan Dane, uses a   
+OL,10, 'vintage' SAA5244 teletext IC to decode
+OL,11, and display teletext from a CVBS input.
+OL,13, It has native RGB outputs, but also    
+OL,14, uses a CXA1645 IC to encode CVBS and   
+OL,15, S-Video outputs in PAL.                
+OL,17, The board is designed to be highly     
+OL,18, configurable for many use-cases; it can
+OL,19, be controlled from the onboard buttons,
+OL,20, an IR remote, or serial commands.      
+OL,22,Cnathanmediaservices.co.uk/invision/    
+OL,24,AIndex B Specs  CSoftware F Test Cards  
+FL,700,704,710,740,0,100

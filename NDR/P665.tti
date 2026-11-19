@@ -3,28 +3,28 @@ PN,66501
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G665FNDR TEXT GDo 19.11.B08:10:49
+OL,0,       G665FNDR TEXT GDo 19.11.B09:11:12
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD   AKTUELLE TEMPERATUREN     
 OL,4,F]T  %D       Niedersachsen             
-OL,5, Stand: 19.11.2026             07:00 Uhr
+OL,5, Stand: 19.11.2026             08:00 Uhr
 OL,6,VZ          ` `0                        
 OL,7,VZ   ,"!aqqT~V}G            A Aurich   
 OL,8,RZ  <`~V~~%p"u0G          B Bremen   
 OL,9,VZ   *oAt{up 0G       G G|ttingen
 OL,10,RZ    jV}|G     H Hannover 
-OL,11,RZ    jVBT}G    O Osnabr}ck
-OL,12,RZ    zVTV//               
-OL,13,RZ   hVTV                  
-OL,14,RZ  |~SRV4                 
+OL,11,RZ    jBV}G    O Osnabr}ck
+OL,12,RZ    zV//               
+OL,13,RZ   hVR                  
+OL,14,RZ  |~SR4                 
 OL,15,RZ   k7kS' ?#R5                 
-OL,16,RZ   *'S jO4  xHRT    |G1`C..4`C  
-OL,17,SZ       */%R *SRV    |G4`C..6`C  
+OL,16,RZ   *'  jO4S xHRT    |G1`C..4`C  
+OL,17,SZ       */%R *SV    |G4`C..6`C  
 OL,18,RZ             oS#!R    |G6`C..8`C  
 OL,19,RZ              VS      |G8`C..10`C 
-OL,20,RZ              oGV4                  
-OL,21,RZ               z? !                  
+OL,20,SZ              oGV4                  
+OL,21,SZ               z? !                  
 OL,22,RZ               #!                     
 OL,23,D]G650<            Schleswig-Holstein >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/4)
@@ -33,26 +33,26 @@ PN,66502
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G665FNDR TEXT GDo 19.11.B08:10:49
+OL,0,       G665FNDR TEXT GDo 19.11.B09:11:12
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD   AKTUELLE TEMPERATUREN     
 OL,4,F]T  %D       Schleswig-Holstein        
-OL,5, Stand: 19.11.2026             06:00 Uhr
+OL,5, Stand: 19.11.2026             08:00 Uhr
 OL,6,TZ   5 hh|p0  0                         
 OL,7,TZ  (!  F|4G            F Flensburg
-OL,8,TZ    / *V0G          H Heide    
-OL,9,TZ       jV!G          K Kiel     
-OL,10,TZ     %!&{V'`      `|G  L L}beck   
-OL,11,TZ      pzVuup   0#!G M M|lln    
-OL,12,TZ     +/VK}p~               
-OL,13,TZ       HV?               
-OL,14,SZ /T    +V?'                
-OL,15,TZ       |V5                 
-OL,16,TZ       *VL%T   |G1`C..3`C  
-OL,17,VZ          *TV5     |G3`C..5`C  
-OL,18,VZ           kT?+uR    |G5`C..7`C  
-OL,19,VZ            o/#T MS   |G7`C..9`C  
+OL,8,TZ    / *0G          H Heide    
+OL,9,TZ       j!G          K Kiel     
+OL,10,TZ     %!&{'`V     `|G  L L}beck   
+OL,11,TZ      pzuupV  0#!G M M|lln    
+OL,12,TZ     +/K}p~               
+OL,13,TZ       H?               
+OL,14,RZ /T    +?'                
+OL,15,TZ       |5                 
+OL,16,TZ       *L%    |G1`C..4`C  
+OL,17,VZ          *T5V    |G4`C..6`C  
+OL,18,VZ           kT?+uR    |G6`C..8`C  
+OL,19,VZ            o/#T MS   |G8`C..10`C 
 OL,20,VZ                (T                 
 OL,21,TZ                 +o7                  
 OL,22,VZ                   !                  
@@ -63,28 +63,28 @@ PN,66503
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G665FNDR TEXT GDo 19.11.B08:10:49
+OL,0,       G665FNDR TEXT GDo 19.11.B09:11:12
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD   AKTUELLE TEMPERATUREN     
 OL,4,F]T  %D       Mecklenburg-Vorpommern    
-OL,5, Stand: 19.11.2026             06:00 Uhr
-OL,6, G GreifswaldRZ     `|$                 
-OL,7, N NeubrandenburgRZ 6~5T   |G1`C..3`C  
-OL,8, P Plau am SeeRZpp00hpV   |G3`C..5`C  
-OL,9, R RostockRZ   zz0ht|'+    |G5`C..7`C  
-OL,10, S SchwerinRZ `2-S     |G7`C..9`C  
-OL,11,RZ           hR00`00              
-OL,12,VZ        |RGou              
-OL,13,VZ    00`zR}"mt            
-OL,14,VZ  `}ppR?z/-            
-OL,15,VZ  ~RVRt0             
-OL,16,VZ  /TVR}            
-OL,17,VZ   STVNR?o5           
-OL,18,VZ  hTPVR%%o}           
-OL,19,VZ xTVR   j           
-OL,20,VZ +/oT5#Vo?/R    %           
-OL,21,VZ   "?/!R   "+//!                   
+OL,5, Stand: 19.11.2026             08:00 Uhr
+OL,6, G GreifswaldVZ     `|$                 
+OL,7, N NeubrandenburgRZ 6~5T   |G1`C..4`C  
+OL,8, P Plau am SeeRZpp0Vhp    |G4`C..6`C  
+OL,9, R RostockVZ   zz0ht|'+R   |G6`C..8`C  
+OL,10, S SchwerinVZ `T2-S     |G8`C..10`C 
+OL,11,VZ           hRT0V`00              
+OL,12,TZ        |VGou              
+OL,13,TZ    00`zV}"mt            
+OL,14,TZ  `}ppV?z/-            
+OL,15,TZ  ~VTVt0             
+OL,16,TZ  /VTV}            
+OL,17,VZ   STNV?o5           
+OL,18,VZ  hTP%Vo}           
+OL,19,VZ xTV   j           
+OL,20,VZ +/oT5#VoT?/V    %           
+OL,21,VZ   "?/!    "+//!                   
 OL,22,VZ    "o/                               
 OL,23,D]G650<                       Hamburg >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/4)
@@ -93,25 +93,25 @@ PN,66504
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G665FNDR TEXT GDo 19.11.B08:10:49
+OL,0,       G665FNDR TEXT GDo 19.11.B09:11:12
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD   AKTUELLE TEMPERATUREN     
 OL,4,F]T  %D       Hamburg                   
-OL,5, Stand: 19.11.2026             06:00 Uhr
+OL,5, Stand: 19.11.2026             08:00 Uhr
 OL,7,TZ              `px7                    
 OL,8,TZ              j'G       A Altona     
 OL,9,VZ            ||~pG       B Bergedorf  
-OL,10,VZ         ppxT}G      H Harburg    
-OL,11,VZ        jWT$G     W Wandsbek   
-OL,12,VZ    |  `T                    
-OL,13,VZ    }xR?/                    
-OL,14,VZ   *oAR}                     
-OL,15,VZ    jR                     
-OL,16,VZ    *RtpT      |G1`C..3`C  
-OL,17,VZ     jHR4V     |G3`C..5`C  
-OL,18,VZ     *0R    |G5`C..7`C  
-OL,19,VZ      +7 k' *B0S   |G7`C..9`C  
+OL,10,VZ         ppx}G      H Harburg    
+OL,11,VZ        jW$G     W Wandsbek   
+OL,12,VZ    |  `                    
+OL,13,VZ    }x?/                    
+OL,14,VZ   *oA}                     
+OL,15,VZ    j                     
+OL,16,VZ    *tpT      |G1`C..4`C  
+OL,17,VZ     jH4      |G4`C..6`C  
+OL,18,VZ     *0R    |G6`C..8`C  
+OL,19,VZ      +7 k' *B0S   |G8`C..10`C 
 OL,20,VZ         *+'   "o?!                
 OL,21,VZ                 +/                  
 OL,23,D]G650<       Niederschlagsradar >666 >>

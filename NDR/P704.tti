@@ -1,13 +1,13 @@
 DE,NDR 704
-PN,70400
-SC,0000
-PS,8200
+PN,70401
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       G704FNDR TEXT GDo 19.11.B08:11:53
+OL,0,       G704FNDR TEXT GDo 19.11.B09:12:18
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
-OL,4,F]T  %D     Bundesstra~en    Stand 08:10
+OL,4,F]T  %D     Bundesstra~en    Stand 09:05
 OL,5, Die B108 Waren - Klein Lantow ist      
 OL,6, zwischen Abzweig Neu Heinde und Abzweig
 OL,7, Diekhof nach einem Unfall in beiden    
@@ -17,10 +17,34 @@ OL,11,F- Hardegsen Die ]berleitungen sind
 OL,12,Fwegen Bauarbeiten, bis circa 17 Uhr, in
 OL,13,Fbeiden Richtungen gesperrt. Bitte      
 OL,14,Ffolgen Sie der Umleitungsbeschilderung.
+OL,16, Hamburg: Amsinckstra~e, stadteinw{rts  
+OL,17, zwischen der B75 und Schultzweg        
+OL,18, stockender Verkehr                     
+OL,23,A]G701<               NIEDERSACHSEN >705
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,70402
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       G704FNDR TEXT GDo 19.11.B09:12:18
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
+OL,4,F]T  %D     Bundesstra~en    Stand 09:10
+OL,5, Hannover: S}dschnellweg Richtung       
+OL,6, Ricklingen zwischen Seelhorster Kreuz  
+OL,7, und Hildesheimer Stra~e ist wegen      
+OL,8, Bergungsarbeiten nur eine Spur frei,   
+OL,9, dadurch staut es sich                  
+OL,11,FStau in Bremen: Auf der B6,            
+OL,12,Fstadteinw{rts zwischen der A27,        
+OL,13,F]berseestadt und Neustadt nach einem   
+OL,14,FUnfall                                 
 OL,16, B75 Delmenhorst Richtung Bremen        
 OL,17, zwischen Delmenhorster Dreieck und     
 OL,18, Carl-Francke-Stra~e 4 km Stau wegen    
 OL,19, Bergungsarbeiten                       
 OL,23,A]G701<               NIEDERSACHSEN >705
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100
