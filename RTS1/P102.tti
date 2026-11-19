@@ -3,7 +3,7 @@ PN,10200
 SC,0000
 PS,8080
 CT,10,T
-OL,0,       G102  RTS 1     19.11.26 05:00:08
+OL,0,       G102  RTS 1     19.11.26 06:00:08
 OL,1,A]GTICKER                       A]GRTS  
 OL,4,G                                       
 OL,5,C23:19S(CSport d`s 180                  
@@ -18,10 +18,10 @@ OL,13,G
 OL,14,C22:21S(CSport d`s 180                  
 OL,15,GHOCKEY: rien @ faire pour Ajoie        
 OL,16,G                                       
-OL,19,D]GMeteo Flash           18.11.26 17:55 
-OL,20,G  Jeudi, quelques averses locales.     
-OL,21,G  Temp#rature min. 10 C, max. 13 C.    
-OL,22,G  Vent du sud-ouest temp#tueux.        
+OL,19,D]GMeteo Flash           19.11.26 05:55 
+OL,20,G  Aujourd'hui, averses intermittentes. 
+OL,21,G  Max. 13 C. Vent du sud-ouest         
+OL,22,G  temp#tueux.                          
 OL,23,TCM#t#o d`s 500T
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

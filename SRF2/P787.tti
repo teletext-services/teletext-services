@@ -3,16 +3,16 @@ PN,78701
 SC,0001
 PS,C200
 CT,8,T
-OL,0,       G787  SRF zwei  19.11.26 05:13:17
+OL,0,       G787  SRF zwei  19.11.26 06:13:29
 OL,1,A]GRADIO SRF 4 NEWSG]@19.November       
 OL,2,                                    1/3 
-OL,3,G]AJetzt:\                              
+OL,3,G]AEs folgt:\                           
 OL,4,G                                       
-OL,5,CKultur kompakt                         
+OL,5,CNewsflash                              
 OL,6,G                                       
-OL,7,G]A05:30 - 05:33\                       
+OL,7,G]A06:20 - 06:30\                       
 OL,8,G                                       
-OL,9,CNachrichten                            
+OL,9,CSRF 4 News aktuell                     
 OL,23,A]G        GGwww.srf4news.ch            
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100
@@ -20,29 +20,29 @@ PN,78702
 SC,0002
 PS,C200
 CT,8,T
-OL,0,       G787  SRF zwei  19.11.26 05:13:17
+OL,0,       G787  SRF zwei  19.11.26 06:13:29
 OL,1,A]GRADIO SRF 4 NEWSG]@19.November       
 OL,2,                                    2/3 
-OL,3,G                                       
-OL,4,G]A06:00 - 06:10 / 06:30 - 06:40 / 07:00
-OL,5,G                                       
-OL,6,CHeuteMorgen                            
-OL,7,G                                       
-OL,8,G]A06:15 - 06:17 / 06:45 - 06:47 / 07:15
-OL,9,G                                       
-OL,10,CNewsflash                              
-OL,11,G                                       
-OL,12,G]A06:20 - 06:30 / 07:20 - 07:30 / 08:20
-OL,13,G                                       
-OL,14,CSRF 4 News aktuell                     
-OL,15,G                                       
-OL,16,G]A06:56 - 07:00 / 07:56 - 08:00\       
-OL,17,G                                       
-OL,18,CB|rse New York                         
-OL,19,G                                       
-OL,20,G]A09:26 - 09:30\                       
-OL,21,G                                       
-OL,22,CTageschronik                           
+OL,3,G]A06:15 - 06:17 / 06:45 - 06:47 / 07:15
+OL,4,G                                       
+OL,5,CNewsflash                              
+OL,6,G                                       
+OL,7,G]A06:20 - 06:30 / 07:20 - 07:30 / 08:20
+OL,8,G                                       
+OL,9,CSRF 4 News aktuell                     
+OL,10,G                                       
+OL,11,G]A06:56 - 07:00 / 07:56 - 08:00\       
+OL,12,G                                       
+OL,13,CB|rse New York                         
+OL,14,G                                       
+OL,15,G]A09:26 - 09:30\                       
+OL,16,G                                       
+OL,17,CTageschronik                           
+OL,18,G                                       
+OL,19,G]A09:33 - 10:00 / 14:33 - 15:00 / 21:33
+OL,20,G                                       
+OL,21,CGeschichte                             
+OL,22,G                                       
 OL,23,A]G        GGwww.srf4news.ch            
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100
@@ -50,25 +50,20 @@ PN,78703
 SC,0003
 PS,C200
 CT,8,T
-OL,0,       G787  SRF zwei  19.11.26 05:13:17
+OL,0,       G787  SRF zwei  19.11.26 06:13:29
 OL,1,A]GRADIO SRF 4 NEWSG]@19.November       
 OL,2,                                    3/3 
-OL,3,G                                       
-OL,4,G]A09:33 - 10:00 / 14:33 - 15:00 / 21:33
-OL,5,G                                       
-OL,6,CGeschichte                             
-OL,7,G                                       
-OL,8,G]A12:00 - 12:14 / 17:00 - 17:14\       
-OL,9,G                                       
-OL,10,CInfo 3                                 
-OL,11,G                                       
-OL,12,G]A12:30 - 13:00\                       
-OL,13,G                                       
-OL,14,CRendez-vous                            
-OL,15,G                                       
-OL,16,G]A14:34 - 15:00 / 21:33 - 22:00\       
-OL,17,G                                       
-OL,18,CInternational                          
+OL,3,G]A12:00 - 12:14 / 17:00 - 17:14\       
+OL,4,G                                       
+OL,5,CInfo 3                                 
+OL,6,G                                       
+OL,7,G]A12:30 - 13:00\                       
+OL,8,G                                       
+OL,9,CRendez-vous                            
+OL,10,G                                       
+OL,11,G]A14:34 - 15:00 / 21:33 - 22:00\       
+OL,12,G                                       
+OL,13,CInternational                          
 OL,23,A]G        GGwww.srf4news.ch            
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

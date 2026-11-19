@@ -4,8 +4,8 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  813Cczw 19 lis  04:13:31
-OL,1,F]            @H o k e j           03:57
+OL,0,      BKULTURA  813Cczw 19 lis  05:13:58
+OL,1,F]            @H o k e j           05:01
 OL,2,F] @Mecze wed}ug kategorii rozgrywek    
 OL,3,F------------ Kanada - OHL -------------
 OL,4, Peterborough PeteF4:0GBrantford Bulldog
@@ -18,13 +18,14 @@ OL,10,F----------- Kanada - QMJHL ------------
 OL,11, Victoriaville TigresF3:8GCape Breton   
 OL,12,                            C0:4 2:3 1:1
 OL,13,F------------ Kanada - WHL -------------
-OL,14, Moose Jaw WarriorsE1:3GWenatchee Wild  
-OL,15,                            C1:2 0:1E0:0
-OL,16, SC BroncosE2:3GEdmonton Oil Kings      
-OL,17,                                C1:1E1:2
-OL,18, George CougarsE0:0GRegina Pats C0:0E0:0
-OL,19, Victoria RoyalsE2:1GKamloops Blazers   
-OL,20,                                    E2:1
+OL,14, Moose Jaw WarriorsF1:4GWenatchee Wild  
+OL,15,                            C1:2 0:1 0:1
+OL,16, SC BroncosE3:3GEdmonton Oil Kings      
+OL,17,                      C1:1 1:2 1:0 d.0:0
+OL,18, George CougarsE0:1GRegina Pats         
+OL,19,                            C0:0 0:1E0:0
+OL,20, Victoria RoyalsE2:2GKamloops Blazers   
+OL,21,                            C2:1 0:1E0:0
 OL,22,V
 OL,23,V
 OL,24,   A800      B801      C802      F803   
@@ -34,8 +35,8 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  813Cczw 19 lis  04:13:31
-OL,1,F]            @H o k e j           03:57
+OL,0,      BKULTURA  813Cczw 19 lis  05:13:58
+OL,1,F]            @H o k e j           05:01
 OL,2,F] @Mecze wed}ug kategorii rozgrywek    
 OL,3,F------------ Liga Mistrz_w ------------
 OL,4, FribourgF3:3GServette Geneve           
@@ -49,11 +50,12 @@ OL,11, Syracuse CrunchF1:2GRochester Americans
 OL,12,                            C0:0 0:1 1:1
 OL,13, Grand RapidsF6:3GManitoba Moose        
 OL,14,                            C2:1 2:1 2:1
-OL,15, CalgaryE3:2GCoachella Valley           
-OL,16,                            C2:2 1:0E0:0
-OL,17, Henderson Silver-San Jose BarracuB04:00
-OL,18, Ontario Reign-Abbotsford Canucks B04:00
-OL,19, San Diego Gulls-Bakersfield CondoB04:00
+OL,15, CalgaryF4:3GCoachella Valley           
+OL,16,                            C2:2 1:0 1:1
+OL,17, San Diego GullsE3:0GBakersfield Condors
+OL,18,                                    E3:0
+OL,19, Henderson SilverE1:0GSan Jose Barracuda
+OL,20,                                C1:0E0:0
 OL,22,V
 OL,23,V
 OL,24,   A800      B801      C802      F803   
@@ -63,23 +65,27 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  813Cczw 19 lis  04:13:32
-OL,1,F]            @H o k e j           03:57
+OL,0,      BKULTURA  813Cczw 19 lis  05:14:04
+OL,1,F]            @H o k e j           05:01
 OL,2,F] @Mecze wed}ug kategorii rozgrywek    
-OL,3,F------------- USA - ECHL --------------
-OL,4, Norfolk AdmiralsF3:6GTrenton Ironhawks 
-OL,5,                            C0:4 1:0 2:2
-OL,6, Florida EverbladeE3:1GOrlando Solar Bea
-OL,7,                            C2:0 0:1E1:0
-OL,8, Wichita ThunderE1:2GAllen Americans    
-OL,9,                            C1:0 0:2E0:0
-OL,10, Idaho SteelheadsE1:0GMaine MarinersE1:0
-OL,11,F-------------- USA - NHL --------------
-OL,12, Detroit Red WingsE1:3GBoston Bruins    
-OL,13,                            C1:0 0:2E0:1
-OL,14, New Jersey DevilsE2:3GMontreal Canadien
-OL,15,                            C2:2 0:0E0:1
-OL,16, Utah Mammoth - Colorado AvalancheB04:00
+OL,3,F-------------- USA - AHL --------------
+OL,4, Ontario ReignE1:0GAbbotsford Canucks   
+OL,5,                                    E1:0
+OL,6,F------------- USA - ECHL --------------
+OL,7, Norfolk AdmiralsF3:6GTrenton Ironhawks 
+OL,8,                            C0:4 1:0 2:2
+OL,9, Florida EverbladeF3:1GOrlando Solar Bea
+OL,10,                            C2:0 0:1 1:0
+OL,11, Wichita ThunderF2:5GAllen Americans    
+OL,12,                            C1:0 0:2 1:3
+OL,13, Idaho SteelheadsE2:0GMaine Mariners    
+OL,14,                                C1:0E1:0
+OL,15,F-------------- USA - NHL --------------
+OL,16, Detroit Red WingsF1:4GBoston Bruins    
+OL,17,                            C1:0 0:2 0:2
+OL,18, New Jersey DevilsF2:3GMontreal Canadien
+OL,19,                            C2:2 0:0 0:1
+OL,20, Utah MammothE0:0GColorado AvalancheC0:0
 OL,22,V
 OL,23,V
 OL,24,   A800      B801      C802      F803   
