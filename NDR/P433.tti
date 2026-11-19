@@ -3,27 +3,28 @@ PN,43301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G433FNDR TEXT GDo 19.11.B00:06:45
+OL,0,       G433FNDR TEXT GDo 19.11.B01:06:37
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD    NDR INFO SPEZIAL         
-OL,4,F]T  %D        Mittwoch 18.11.2026      
+OL,4,F]T  %D        Donnerstag 19.11.2026    
 OL,6, 00:00  ARD Infonacht: Gut informiert   
 OL,7,        durch die Nacht                 
 OL,8,F06:00  Infoprogramm: NDR Info - Die    
 OL,9,F       Nachrichten f}r den Norden      
-OL,10, 10:00  Evangelischer Gottesdienst zum  
-OL,11,        Bu~- und Bettag: aus der        
-OL,12,        "Jerusalemkirche" in Hamburg    
-OL,13,F11:00  Infoprogramm: NDR Info - Die    
-OL,14,F       Nachrichten f}r den Norden      
-OL,15, 14:00  COSMO - Das junge europ{ische   
-OL,16,        Kulturradio auf NDR Info        
-OL,17,        Spezial: COSMO - Das aktuelle   
-OL,18,        Nachmittagsprogramm             
-OL,19,F19:00  Nachrichten                     
-OL,20, 19:03  Infoprogramm: NDR Info - Die    
-OL,21,        Nachrichten f}r den Norden      
+OL,10, 14:00  COSMO - Das junge europ{ische   
+OL,11,        Kulturradio auf NDR Info        
+OL,12,        Spezial: COSMO - Das aktuelle   
+OL,13,        Nachmittagsprogramm             
+OL,14,F19:00  Nachrichten                     
+OL,15, 19:03  Infoprogramm: NDR Info - Die    
+OL,16,        Nachrichten f}r den Norden      
+OL,17,F20:00  Tagesschau: NDR Info pr{sentiert
+OL,18,F       die Tagesschau                  
+OL,19, 20:15  Mitreden! Deutschland diskutiert
+OL,20,F22:00  ARD Infonacht: Gut informiert   
+OL,21,F       durch die Nacht                 
+OL,22, 23:03  Seewetterbericht                
 OL,23,F]D400<                        WEITER >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
 FL,101,200,300,650,0,100
@@ -31,20 +32,13 @@ PN,43302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G433FNDR TEXT GDo 19.11.B00:06:45
+OL,0,       G433FNDR TEXT GDo 19.11.B01:06:37
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD    NDR INFO SPEZIAL         
-OL,4,F]T  %D        Mittwoch 18.11.2026      
-OL,6, 20:00  Tagesschau: NDR Info pr{sentiert
-OL,7,        die Tagesschau                  
-OL,8,F20:15  ARD Infoabend: Gut informiert   
-OL,9,F       durch den Abend                 
-OL,10, 22:00  ARD Infonacht: Gut informiert   
-OL,11,        durch die Nacht                 
-OL,12,F23:03  Seewetterbericht                
-OL,13, 23:25  ARD Infonacht: Gut informiert   
-OL,14,        durch die Nacht                 
+OL,4,F]T  %D        Donnerstag 19.11.2026    
+OL,6, 23:25  ARD Infonacht: Gut informiert   
+OL,7,        durch die Nacht                 
 OL,23,F]D400<                   WEITER >434 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

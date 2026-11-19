@@ -3,25 +3,25 @@ PN,19501
 SC,0001
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
 OL,6, W62429   Istanbul IST    05:00     2B  
 OL,7,FW62325   Tel Aviv TLV    05:00     2B  
-OL,8, W62247   Kutaisi         05:25     2B  
-OL,9,FW62373   Amman AMM       05:30     2B  
-OL,10, W62487   Ankara ESB      05:30     2B  
-OL,11,FW62213A  Hurghada        05:40     2B  
-OL,12, W62441   Athens          05:55     2B  
-OL,13,FFR197    Berlin BER      05:55     2B  
-OL,14, W62293   Chisinau        05:55     2B  
-OL,15,FFR6712   Madrid MAD      05:55     2B  
-OL,16, FR3571   Malaga          05:55     2B  
-OL,17,FW62375   Barcelona       06:00     2B  
-OL,18, W62201   London LTN      06:00     2B  
-OL,19,FAF1695   Paris CDG       06:00     2A  
+OL,8, W62391   Madrid MAD      05:25     2B  
+OL,9,FW62387   Alicante        05:30     2B  
+OL,10, W62389   Malaga          05:30     2B  
+OL,11,FFR197    Berlin BER      05:45     2B  
+OL,12, FR2273   Malaga          05:45     2B  
+OL,13,FFR2515   London STN      05:50     2B  
+OL,14, FR4229   Paris BVA       05:50     2B  
+OL,15,FW62441   Athens          05:55     2B  
+OL,16, W62375   Barcelona       06:00     2B  
+OL,17,FW62201   London LTN      06:00     2B  
+OL,18, AF1695   Paris CDG       06:00     2A  
+OL,19,FDL8359   Paris CDG       06:00     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -29,22 +29,22 @@ PN,19502
 SC,0002
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, DL8359   Paris CDG       06:00     2A  
-OL,7,FSK9719   Paris CDG       06:00     2A  
-OL,8, KQ3801   Paris CDG       06:00     2A  
-OL,9,FMU1890   Paris CDG       06:00     2A  
-OL,10, WS5086   Paris CDG       06:00     2A  
-OL,11,FFR1618   Torino          06:00     2B  
-OL,12, FR9621   Lamezia Terme   06:05     2B  
-OL,13,FW62339   Rome FCO        06:05     2B  
-OL,14, W62213   Hurghada        06:10     2B  
-OL,15,FW62281   Brussels CRL    06:15     2B  
-OL,16, FR1026   Dublin          06:15     2B  
+OL,6, SK9719   Paris CDG       06:00     2A  
+OL,7,FKQ3801   Paris CDG       06:00     2A  
+OL,8, MU1890   Paris CDG       06:00     2A  
+OL,9,FWS5086   Paris CDG       06:00     2A  
+OL,10, FR5248   Cagliari        06:05     2B  
+OL,11,FW62339   Rome FCO        06:05     2B  
+OL,12, W62229A  Skopje          06:05     2B  
+OL,13,FW62259   Sharm el Sheikh 06:10     2B  
+OL,14, W62281   Brussels CRL    06:15     2B  
+OL,15,FFR54     Brussels CRL    06:15     2B  
+OL,16, FR8325   Milan MXP       06:15     2B  
 OL,17,FW62367   Paris ORY       06:15     2B  
 OL,18, LX2253   Zurich          06:15     2A  
 OL,19,FSN2830   Brussels BRU    06:20     2A  
@@ -55,25 +55,25 @@ PN,19503
 SC,0003
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
 OL,6, AC6313   Brussels BRU    06:20     2A  
 OL,7,FTP7451   Brussels BRU    06:20     2A  
 OL,8, UA9970   Brussels BRU    06:20     2A  
-OL,9,FKL1362   Amsterdam       06:30     2A  
-OL,10, DL9293   Amsterdam       06:30     2A  
-OL,11,FSK6733   Amsterdam       06:30     2A  
-OL,12, GA9253   Amsterdam       06:30     2A  
-OL,13,FW62251   Copenhagen      06:30     2B  
-OL,14, W62467   Warsaw WAW      06:30     2B  
-OL,15,FLH1341   Frankfurt       06:40     2A  
-OL,16, AC9023   Frankfurt       06:40     2A  
-OL,17,FCX6706   Frankfurt       06:40     2A  
-OL,18, NH5466   Frankfurt       06:40     2A  
-OL,19,FSN7148   Frankfurt       06:40     2A  
+OL,9,FW62467   Warsaw WAW      06:20     2B  
+OL,10, KL1362   Amsterdam       06:30     2A  
+OL,11,FDL9293   Amsterdam       06:30     2A  
+OL,12, SK6733   Amsterdam       06:30     2A  
+OL,13,FGA9253   Amsterdam       06:30     2A  
+OL,14, W62251   Copenhagen      06:30     2B  
+OL,15,FFR2968   Gran Canaria    06:30     2B  
+OL,16, LH1341   Frankfurt       06:40     2A  
+OL,17,FAC9023   Frankfurt       06:40     2A  
+OL,18, CX6706   Frankfurt       06:40     2A  
+OL,19,FNH5466   Frankfurt       06:40     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -81,24 +81,24 @@ PN,19504
 SC,0004
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, SQ2141   Frankfurt       06:40     2A  
-OL,7,FTP7505   Frankfurt       06:40     2A  
-OL,8, UA9023   Frankfurt       06:40     2A  
-OL,9,FW62269   Basel           06:45     2B  
-OL,10, FR9943   Tenerife TFS    06:45     2B  
+OL,6, SN7148   Frankfurt       06:40     2A  
+OL,7,FSQ2141   Frankfurt       06:40     2A  
+OL,8, TP7505   Frankfurt       06:40     2A  
+OL,9,FUA9023   Frankfurt       06:40     2A  
+OL,10, W62269   Basel           06:45     2B  
 OL,11,FW62271   Eindhoven       06:50     2B  
-OL,12, FR7599   Stockholm ARN   07:00     2B  
-OL,13,FW62349   Torino          07:00     2B  
-OL,14, BA871    London LHR      07:35     2B  
-OL,15,FAA6713   London LHR      07:35     2B  
-OL,16, JL6546   London LHR      07:35     2B  
-OL,17,FFR629    Venice          07:35     2B  
-OL,18, W62451   Larnaca         07:45     2B  
+OL,12, BA871    London LHR      06:50     2B  
+OL,13,FAA6713   London LHR      06:50     2B  
+OL,14, JL6546   London LHR      06:50     2B  
+OL,15,FW62483   Brasov          06:55     2B  
+OL,16, FR9752   Krakow          07:20     2B  
+OL,17,FFR3591   London STN      07:35     2B  
+OL,18, W62317   Berlin BER      07:45     2B  
 OL,19,FLH1683   Munich          07:50     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
@@ -107,25 +107,25 @@ PN,19505
 SC,0005
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
 OL,6, EY3763   Munich          07:50     2A  
 OL,7,FNH5862   Munich          07:50     2A  
 OL,8, TP7977   Munich          07:50     2A  
 OL,9,FUA9143   Munich          07:50     2A  
-OL,10, OS640    Vienna          07:50     2A  
-OL,11,FAC6197   Vienna          07:50     2A  
+OL,10, FR4255   Nurnberg        07:50     2B  
+OL,11,FOS640    Vienna          07:50     2A  
 OL,12, LG1780   Vienna          07:50     2A  
-OL,13,FTP8706   Vienna          07:50     2A  
-OL,14, UA9824   Vienna          07:50     2A  
-OL,15,FDV490    Shymkent        08:15     2B  
-OL,16, W42333   Milan MXP       08:25     2B  
-OL,17,FW62221   London LGW      08:30     2B  
-OL,18, FR2108   Milan BGY       08:35     2B  
-OL,19,FTK1036   Istanbul IST    09:10     2A  
+OL,13,FNH6312   Vienna          07:50     2A  
+OL,14, TP8706   Vienna          07:50     2A  
+OL,15,FUA9824   Vienna          07:50     2A  
+OL,16, W67864   Yerevan EVN     07:55     2B  
+OL,17,FFR8247   Rome CIA        08:05     2B  
+OL,18, W42333   Milan MXP       08:25     2B  
+OL,19,FW62221   London LGW      08:30     2B  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -133,25 +133,25 @@ PN,19506
 SC,0006
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, TG9165   Istanbul IST    09:10     2A  
-OL,7,FEW9783   Dusseldorf DUS  09:25     2A  
-OL,8, FR80     Copenhagen      09:30     2B  
-OL,9,FLX2251   Zurich          09:40     2A  
-OL,10, AC6831   Zurich          09:40     2A  
-OL,11,FTP8199   Zurich          09:40     2A  
-OL,12, UA9795   Zurich          09:40     2A  
-OL,13,FFR5190   Bari            09:45     2B  
-OL,14, LO534    Warsaw WAW      09:45     2A  
-OL,15,FFR8247   Rome CIA        09:50     2B  
-OL,16, LH1675   Munich          09:55     2A  
-OL,17,FAC9175   Munich          09:55     2A  
-OL,18, UA8824   Munich          09:55     2A  
-OL,19,FLH1333   Frankfurt       10:00     2A  
+OL,6, FR3330   Paphos          08:40     2B  
+OL,7,FFR1923   Warsaw WMI      08:55     2B  
+OL,8, FR1422   Barcelona       09:00     2B  
+OL,9,FFR80     Copenhagen      09:00     2B  
+OL,10, TK1036   Istanbul IST    09:10     2A  
+OL,11,FTG9165   Istanbul IST    09:10     2A  
+OL,12, QR202    Doha DOH        09:20     2B  
+OL,13,FAY1252   Helsinki HEL    09:20     2B  
+OL,14, FR3165   Milan BGY       09:20     2B  
+OL,15,FFR6712   Madrid MAD      09:35     2B  
+OL,16, LX2251   Zurich          09:40     2A  
+OL,17,FAC6831   Zurich          09:40     2A  
+OL,18, TP8199   Zurich          09:40     2A  
+OL,19,FUA9795   Zurich          09:40     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -159,25 +159,25 @@ PN,19507
 SC,0007
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, AC9039   Frankfurt       10:00     2A  
-OL,7,FSN7140   Frankfurt       10:00     2A  
-OL,8, TG7667   Frankfurt       10:00     2A  
-OL,9,FTP7507   Frankfurt       10:00     2A  
-OL,10, UA9065   Frankfurt       10:00     2A  
-OL,11,FLY2366   Tel Aviv TLV    10:05     2B  
-OL,12, BT6670   Tel Aviv TLV    10:05     2B  
-OL,13,FW62317   Berlin BER      10:10     2B  
-OL,14, W63292   Bucharest BBU   10:10     2B  
-OL,15,FSK780    Copenhagen      10:25     2A  
-OL,16, FR2301   Valencia        10:25     2B  
-OL,17,FFR4277   Thessaloniki    10:30     2B  
-OL,18, FR2517   London STN      10:40     2B  
-OL,19,FFR4243   Porto           10:50     2B  
+OL,6, LY2366   Tel Aviv TLV    09:50     2B  
+OL,7,FFR4277   Thessaloniki    09:50     2B  
+OL,8, LH1675   Munich          09:55     2A  
+OL,9,FAC9175   Munich          09:55     2A  
+OL,10, TP7981   Munich          09:55     2A  
+OL,11,FUA8824   Munich          09:55     2A  
+OL,12, LH1333   Frankfurt       10:00     2A  
+OL,13,FAC9039   Frankfurt       10:00     2A  
+OL,14, SN7140   Frankfurt       10:00     2A  
+OL,15,FTG7667   Frankfurt       10:00     2A  
+OL,16, TP7507   Frankfurt       10:00     2A  
+OL,17,FUA9065   Frankfurt       10:00     2A  
+OL,18, W63292   Bucharest BBU   10:10     2B  
+OL,19,FFR1018   Edinburgh       10:20     2B  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -185,25 +185,25 @@ PN,19508
 SC,0008
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, 6H730    Tel Aviv TLV    10:50     2B  
-OL,7,FW62289   Stuttgart       11:00     2B  
-OL,8, FR8012   Alicante        11:10     2B  
-OL,9,FIB870    Madrid MAD      11:10     2A  
-OL,10, AA8834   Madrid MAD      11:10     2A  
-OL,11,FVY5508   Madrid MAD      11:10     2A  
-OL,12, EZY3378  Liverpool       11:15     2B  
-OL,13,FJU141    Belgrade        11:25     2B  
-OL,14, FR1018   Edinburgh       11:30     2B  
-OL,15,FFM870    Shanghai PVG    11:30     2A  
-OL,16, MU8640   Shanghai PVG    11:30     2A  
-OL,17,FAY1252   Helsinki HEL    11:35     2B  
-OL,18, LH1335   Frankfurt       11:40     2A  
-OL,19,FAC9333   Frankfurt       11:40     2A  
+OL,6, SK780    Copenhagen      10:25     2A  
+OL,7,FFR1026   Dublin          10:30     2B  
+OL,8, FR2204   Malta           10:30     2B  
+OL,9,FFR4411   Gdansk          10:35     2B  
+OL,10, EZY8732  London LGW      10:40     2B  
+OL,11,FRO232    Bucharest OTP   10:50     2A  
+OL,12, FR8357   Manchester      10:50     2B  
+OL,13,F6H730    Tel Aviv TLV    10:50     2B  
+OL,14, EI673    Dublin          10:55     2B  
+OL,15,FEZY5738  London SEN      10:55     2B  
+OL,16, W62289   Stuttgart       11:00     2B  
+OL,17,FFR5190   Bari            11:10     2B  
+OL,18, IB870    Madrid MAD      11:10     2B  
+OL,19,FAA8834   Madrid MAD      11:10     2B  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -211,25 +211,25 @@ PN,19509
 SC,0009
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, UA9221   Frankfurt       11:40     2A  
-OL,7,FSN7142   Frankfurt       11:40     2A  
-OL,8, CZ650    Guangzhou       11:45     2A  
-OL,9,FFR8859   Lisbon          11:45     2B  
-OL,10, RO232    Bucharest OTP   11:50     2A  
-OL,11,FW62301   Jeddah          11:55     2B  
-OL,12, W62483   Brasov          12:00     2B  
-OL,13,FFR4275   Marseille       12:00     2B  
-OL,14, W62485   Tirgu Mures     12:00     2B  
-OL,15,FDY1551   Oslo            12:10     2B  
-OL,16, BA867    London LHR      12:20     2B  
-OL,17,FAA7198   London LHR      12:20     2B  
-OL,18, IB3691   London LHR      12:20     2B  
-OL,19,FKL1364   Amsterdam       12:25     2A  
+OL,6, VY5508   Madrid MAD      11:10     2B  
+OL,7,FFR221    East Midlands   11:15     2B  
+OL,8, FR1659   London STN      11:25     2B  
+OL,9,FFM870    Shanghai PVG    11:30     2A  
+OL,10, MU8640   Shanghai PVG    11:30     2A  
+OL,11,FW62425   Vilnius         11:30     2B  
+OL,12, FR8012   Alicante        11:35     2B  
+OL,13,FLH1335   Frankfurt       11:40     2A  
+OL,14, UA9221   Frankfurt       11:40     2A  
+OL,15,FSN7142   Frankfurt       11:40     2A  
+OL,16, W62233   Tirana          11:45     2B  
+OL,17,FW62421   Bergen          11:50     2B  
+OL,18, BA867    London LHR      11:55     2B  
+OL,19,FAA7198   London LHR      11:55     2B  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -237,25 +237,25 @@ PN,19510
 SC,0010
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, LY2360   Tel Aviv TLV    12:25     2B  
-OL,7,FFR6887   Tirana          12:35     2B  
-OL,8, AF1395   Paris CDG       12:40     2A  
-OL,9,FDL8454   Paris CDG       12:40     2A  
-OL,10, UU8395   Paris CDG       12:40     2A  
-OL,11,FSK9720   Paris CDG       12:40     2A  
-OL,12, MU1888   Paris CDG       12:40     2A  
-OL,13,FW62319   Billund         12:50     2B  
-OL,14, W62203   London LTN      12:50     2B  
-OL,15,FLO536    Warsaw WAW      12:55     2A  
-OL,16, W62361   Bari            13:15     2B  
-OL,17,FFR3827   Bologna         13:20     2B  
-OL,18, QU3647   Marsa Alam      13:30     2B  
-OL,19,FLH1677   Munich          13:30     2A  
+OL,6, IB3691   London LHR      11:55     2B  
+OL,7,FW62485   Tirgu Mures     12:00     2B  
+OL,8, DY1551   Oslo            12:10     2B  
+OL,9,FFR9943   Tenerife TFS    12:10     2B  
+OL,10, FR4329   Shannon         12:15     2B  
+OL,11,FKL1364   Amsterdam       12:25     2A  
+OL,12, AF1395   Paris CDG       12:40     2A  
+OL,13,FDL8454   Paris CDG       12:40     2A  
+OL,14, UU8395   Paris CDG       12:40     2A  
+OL,15,FSK9720   Paris CDG       12:40     2A  
+OL,16, MU1888   Paris CDG       12:40     2A  
+OL,17,FEZS1212  Basel           12:45     2B  
+OL,18, FR4034   Prague PRG      12:45     2B  
+OL,19,FW62203   London LTN      12:50     2B  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -263,25 +263,25 @@ PN,19511
 SC,0011
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, TP7979   Munich          13:30     2A  
-OL,7,FUA9037   Munich          13:30     2A  
-OL,8, LG5808   Luxembourg      13:35     2B  
-OL,9,FW62493   Tenerife TFS    13:45     2B  
-OL,10, W62263   Nice            13:50     2B  
-OL,11,FKL1368   Amsterdam       13:55     2A  
-OL,12, DL9488   Amsterdam       13:55     2A  
-OL,13,FMU1856   Amsterdam       13:55     2A  
-OL,14, SK6735   Amsterdam       13:55     2A  
-OL,15,FGA9519   Amsterdam       13:55     2A  
-OL,16, TK1034   Istanbul IST    13:55     2A  
-OL,17,FTG9163   Istanbul IST    13:55     2A  
-OL,18, RJ3737   Istanbul IST    13:55     2A  
-OL,19,FFR2273   Malaga          14:15     2B  
+OL,6, LO536    Warsaw WAW      12:55     2A  
+OL,7,FFR6748   Gothenburg GOT  13:00     2B  
+OL,8, W62447   Thessaloniki    13:10     2B  
+OL,9,FW62361   Bari            13:15     2B  
+OL,10, LH1677   Munich          13:30     2A  
+OL,11,FTP7979   Munich          13:30     2A  
+OL,12, UA9037   Munich          13:30     2A  
+OL,13,FFR605    Copenhagen      13:40     2B  
+OL,14, W62493   Tenerife TFS    13:45     2B  
+OL,15,FFR3827   Bologna         13:50     2B  
+OL,16, FR2277   Malta           13:50     2B  
+OL,17,FW62263   Nice            13:50     2B  
+OL,18, KL1368   Amsterdam       13:55     2A  
+OL,19,FDL9488   Amsterdam       13:55     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -289,25 +289,25 @@ PN,19512
 SC,0012
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, W62327   Tel Aviv TLV    14:20     2B  
-OL,7,FLH1337   Frankfurt       14:25     2A  
-OL,8, AC9664   Frankfurt       14:25     2A  
-OL,9,FEY3764   Frankfurt       14:25     2A  
-OL,10, NH5468   Frankfurt       14:25     2A  
-OL,11,FSN7144   Frankfurt       14:25     2A  
-OL,12, TP7511   Frankfurt       14:25     2A  
-OL,13,FUA9537   Frankfurt       14:25     2A  
-OL,14, FR4229   Paris BVA       14:25     2B  
-OL,15,FW62273   Eindhoven       14:35     2B  
-OL,16, VF110    Istanbul SAW    14:35     2A  
-OL,17,FBZ441    Tel Aviv TLV    14:35     2A  
-OL,18, QR200    Doha DOH        14:45     2B  
-OL,19,FW62573   Reykjavik KEF   14:45     2B  
+OL,6, MU1856   Amsterdam       13:55     2A  
+OL,7,FSK6735   Amsterdam       13:55     2A  
+OL,8, GA9519   Amsterdam       13:55     2A  
+OL,9,FTK1034   Istanbul IST    13:55     2A  
+OL,10, TG9163   Istanbul IST    13:55     2A  
+OL,11,FRJ3737   Istanbul IST    13:55     2A  
+OL,12, FR1243   Athens          14:15     2B  
+OL,13,FW42337   Milan MXP       14:15     2B  
+OL,14, EJU4698  Paris CDG       14:15     2B  
+OL,15,FFR5712   Madrid MAD      14:20     2B  
+OL,16, W62327   Tel Aviv TLV    14:20     2B  
+OL,17,FLH1337   Frankfurt       14:25     2A  
+OL,18, AC9664   Frankfurt       14:25     2A  
+OL,19,FEY3764   Frankfurt       14:25     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -315,25 +315,25 @@ PN,19513
 SC,0013
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, OS634    Vienna          14:55     2A  
-OL,7,FLG1786   Vienna          14:55     2A  
-OL,8, W62425   Vilnius         14:55     2B  
-OL,9,FLX2255   Zurich          14:55     2A  
-OL,10, TP8197   Zurich          14:55     2A  
-OL,11,FFR8325   Milan MXP       15:05     2B  
-OL,12, JU143    Belgrade        15:10     2B  
-OL,13,FEK112    Dubai DXB       15:10     2B  
-OL,14, GF5403   Dubai DXB       15:10     2B  
-OL,15,FQF8112   Dubai DXB       15:10     2B  
-OL,16, FR9752   Krakow          15:25     2B  
-OL,17,FPC332    Istanbul SAW    15:40     2A  
-OL,18, W62329   Tel Aviv TLV    15:40     2B  
-OL,19,FW62371   Madrid MAD      15:45     2B  
+OL,6, NH5468   Frankfurt       14:25     2A  
+OL,7,FSN7144   Frankfurt       14:25     2A  
+OL,8, TP7511   Frankfurt       14:25     2A  
+OL,9,FUA9537   Frankfurt       14:25     2A  
+OL,10, W62397   Funchal         14:30     2B  
+OL,11,FW62273   Eindhoven       14:35     2B  
+OL,12, W62451   Larnaca         14:40     2B  
+OL,13,FFR4243   Porto           14:45     2B  
+OL,14, W62315   Berlin BER      14:50     2B  
+OL,15,FOS634    Vienna          14:55     2A  
+OL,16, LG1786   Vienna          14:55     2A  
+OL,17,FLX2255   Zurich          14:55     2A  
+OL,18, TP8197   Zurich          14:55     2A  
+OL,19,FJU143    Belgrade        15:10     2B  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -341,25 +341,25 @@ PN,19514
 SC,0014
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, FR3591   London STN      15:55     2B  
-OL,7,FFR1243   Athens          16:00     2B  
-OL,8, W62393   Lisbon          16:00     2B  
-OL,9,FW62459   Marrakesh       16:05     2B  
-OL,10, W62307   Cairo Giza SPX  16:20     2B  
-OL,11,FFR8357   Manchester      16:20     2B  
-OL,12, FR2204   Malta           16:25     2B  
-OL,13,FFR4034   Prague PRG      16:35     2B  
-OL,14, FR5712   Madrid MAD      16:45     2B  
-OL,15,FFR5023   Pisa            17:00     2B  
-OL,16, IZ292    Tel Aviv TLV    17:00     2B  
-OL,17,FLH1679   Munich          17:10     2A  
-OL,18, EY4176   Munich          17:10     2A  
-OL,19,FTP7975   Munich          17:10     2A  
+OL,6, EK112    Dubai DXB       15:10     2B  
+OL,7,FGF5403   Dubai DXB       15:10     2B  
+OL,8, QF8112   Dubai DXB       15:10     2B  
+OL,9,FPC332    Istanbul SAW    15:10     2A  
+OL,10, FR5023   Pisa            15:10     2B  
+OL,11,FW64350   Sofia           15:35     2B  
+OL,12, EJU4490  Lyon LYS        15:45     2B  
+OL,13,FW62371   Madrid MAD      15:45     2B  
+OL,14, FR9894   Sevilla         15:50     2B  
+OL,15,FA3877    Athens          16:00     2A  
+OL,16, MS752    Cairo           16:00     2A  
+OL,17,FSM8752   Cairo           16:00     2A  
+OL,18, ET1456   Cairo           16:00     2A  
+OL,19,FLO5297   Cairo           16:00     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -367,25 +367,25 @@ PN,19515
 SC,0015
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, KL1370   Amsterdam       17:20     2A  
-OL,7,FSK6739   Amsterdam       17:20     2A  
-OL,8, GA9239   Amsterdam       17:20     2A  
-OL,9,FW62377   Barcelona       17:20     2B  
-OL,10, W62205   London LTN      17:30     2B  
-OL,11,FW62423   Tallinn         17:30     2B  
-OL,12, W62267   Basel           17:45     2B  
-OL,13,FSN2826   Brussels BRU    17:50     2A  
-OL,14, EY7254   Brussels BRU    17:50     2A  
-OL,15,FW62291   Dortmund        18:00     2B  
-OL,16, AF1295   Paris CDG       18:00     2A  
-OL,17,FUU8295   Paris CDG       18:00     2A  
-OL,18, SK9882   Paris CDG       18:00     2A  
-OL,19,FKQ3803   Paris CDG       18:00     2A  
+OL,6, WB3220   Cairo           16:00     2A  
+OL,7,FW62393   Lisbon          16:00     2B  
+OL,8, W62385   Valencia        16:05     2B  
+OL,9,FW62365   Baku            16:15     2B  
+OL,10, W62413   Bilbao          16:20     2B  
+OL,11,FFR4275   Marseille       16:30     2B  
+OL,12, W42341   Rome FCO        16:45     2B  
+OL,13,FLH1679   Munich          17:10     2A  
+OL,14, EY4176   Munich          17:10     2A  
+OL,15,FTP7975   Munich          17:10     2A  
+OL,16, FR8492   Milan MXP       17:15     2B  
+OL,17,FKL1370   Amsterdam       17:20     2A  
+OL,18, SK6739   Amsterdam       17:20     2A  
+OL,19,FGA9239   Amsterdam       17:20     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -393,25 +393,25 @@ PN,19516
 SC,0016
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, LO538    Warsaw WAW      18:00     2A  
-OL,7,FW62295   Memmingen       18:05     2B  
-OL,8, EZY8734  London LGW      18:10     2A  
-OL,9,FBA869    London LHR      18:25     2B  
-OL,10, IB3693   London LHR      18:25     2B  
-OL,11,FFR1659   London STN      18:25     2B  
-OL,12, LH1339   Frankfurt       18:35     2A  
-OL,13,FET1554   Frankfurt       18:35     2A  
-OL,14, SN7146   Frankfurt       18:35     2A  
-OL,15,FSQ2147   Frankfurt       18:35     2A  
-OL,16, FR6068   Catania CTA     18:55     2B  
-OL,17,FW62343   Rome FCO        19:00     2B  
-OL,18, FR624    Bristol         19:10     2B  
-OL,19,FAY1256   Helsinki HEL    19:15     2A  
+OL,6, W61690   Gdansk          17:20     2B  
+OL,7,FFR6515   Rome CIA        17:20     2B  
+OL,8, W62377   Barcelona       17:25     2B  
+OL,9,FFR8393   Barcelona       17:25     2B  
+OL,10, W62205   London LTN      17:30     2B  
+OL,11,FFR2517   London STN      17:40     2B  
+OL,12, FR2301   Valencia        17:40     2B  
+OL,13,FW46710   Venice          17:40     2B  
+OL,14, W62291   Dortmund        17:45     2B  
+OL,15,FW62403   Stockholm ARN   17:45     2B  
+OL,16, SN2826   Brussels BRU    17:50     2A  
+OL,17,FEY7254   Brussels BRU    17:50     2A  
+OL,18, AF1295   Paris CDG       18:00     2A  
+OL,19,FUU8295   Paris CDG       18:00     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -419,25 +419,25 @@ PN,19517
 SC,0017
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, LS590    Newcastle       19:15     2B  
-OL,7,FFR54     Brussels CRL    19:20     2B  
-OL,8, FR8374   Manchester      19:30     2B  
-OL,9,FKE964    Seoul ICN       19:30     2B  
-OL,10, OZ9814   Seoul ICN       19:30     2B  
-OL,11,FCA720    Beijing PEK     19:35     2B  
-OL,12, LS898    Manchester      19:35     2B  
-OL,13,FFR5212   Bari            19:50     2B  
-OL,14, W62315   Berlin BER      19:50     2B  
-OL,15,FSK762    Copenhagen      19:50     2A  
-OL,16, FM898    Ningbo          19:55     2A  
-OL,17,FMU8624   Ningbo          19:55     2A  
-OL,18, 6H726    Tel Aviv TLV    20:00     2B  
-OL,19,FLX2259   Zurich          20:00     2A  
+OL,6, SK9882   Paris CDG       18:00     2A  
+OL,7,FKQ3803   Paris CDG       18:00     2A  
+OL,8, LO538    Warsaw WAW      18:00     2A  
+OL,9,FW62283   Brussels CRL    18:10     2B  
+OL,10, W42335   Milan MXP       18:10     2B  
+OL,11,FRO238    Bucharest OTP   18:20     2A  
+OL,12, W62241   Oslo            18:20     2B  
+OL,13,FFR5212   Bari            18:25     2B  
+OL,14, BA869    London LHR      18:25     2B  
+OL,15,FIB3693   London LHR      18:25     2B  
+OL,16, FR7599   Stockholm ARN   18:25     2B  
+OL,17,FLS3042   East Midlands   18:30     2B  
+OL,18, LH1339   Frankfurt       18:35     2A  
+OL,19,FET1554   Frankfurt       18:35     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100
@@ -445,25 +445,75 @@ PN,19518
 SC,0018
 PS,C100
 CT,10,T
-OL,0,        C195BMTVA    G2026.11.19. C00:00
+OL,0,        C195BMTVA    G2026.11.19. C01:00
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
-OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.19
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
 OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
-OL,6, TK1038   Istanbul IST    20:05     2A  
-OL,7,FTG9194   Istanbul IST    20:05     2A  
-OL,8, FR1024   Dublin          20:10     2B  
-OL,9,FEJU4698  Paris CDG       20:10     2A  
-OL,10, FR6515   Rome CIA        20:10     2B  
-OL,11,FEW2785   Stuttgart       20:10     2A  
-OL,12, W67638   Podgorica       20:15     2B  
-OL,13,FEW9785   Dusseldorf DUS  20:25     2A  
-OL,14, EZS1568  Geneva          20:25     2A  
-OL,15,FBA877    London LHR      20:25     2B  
-OL,16, EZS1214  Basel           20:30     2A  
-OL,17,FLY2368   Tel Aviv TLV    20:40     2B  
-OL,18, FR2020   Palermo         21:20     2B  
-OL,19,FW42335   Milan MXP       21:55     2B  
+OL,6, SN7146   Frankfurt       18:35     2A  
+OL,7,FSQ2147   Frankfurt       18:35     2A  
+OL,8, W62353   Catania CTA     18:40     2B  
+OL,9,FFR1650   Toulouse TLS    18:40     2B  
+OL,10, FR4305   Treviso         18:40     2B  
+OL,11,FJU145    Belgrade        18:45     2B  
+OL,12, W62561   Malta           19:00     2B  
+OL,13,FW62343   Rome FCO        19:00     2B  
+OL,14, FR2108   Milan BGY       19:05     2B  
+OL,15,FLS1322   Birmingham      19:10     2B  
+OL,16, FR6068   Catania CTA     19:10     2B  
+OL,17,FFR4263   Brussels CRL    19:15     2B  
+OL,18, LS432    Leeds           19:15     2B  
+OL,19,FLS148    Glasgow         19:20     2B  
+OL,21,  http://www.bud.hu                     
+OL,22,D]CMai `rkez`s 1, 2A ............... 190
+FL,101,175,200,300,0,100
+PN,19519
+SC,0019
+PS,C100
+CT,10,T
+OL,0,        C195BMTVA    G2026.11.19. C01:00
+OL,1, ]        DBUDAPEST AIRPORT ZRT.        
+OL,2, ]   DK|zponti telefonszam: 296-9696    
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
+OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
+OL,6, W62229   Skopje          19:30     2B  
+OL,7,FCA720    Beijing PEK     19:35     2B  
+OL,8, LS898    Manchester      19:35     2B  
+OL,9,FSK762    Copenhagen      19:50     2A  
+OL,10, W62419   Krakow          19:50     2B  
+OL,11,FEZS1568  Geneva          20:00     2B  
+OL,12, LX2259   Zurich          20:00     2A  
+OL,13,FTK1038   Istanbul IST    20:05     2A  
+OL,14, TG9194   Istanbul IST    20:05     2A  
+OL,15,FFR8374   Manchester      20:10     2B  
+OL,16, EJU4790  Nantes          20:10     2B  
+OL,17,FNP7502   Hurghada        20:15     2B  
+OL,18, LO532    Warsaw WAW      20:20     2A  
+OL,19,FEW9785   Dusseldorf DUS  20:25     2A  
+OL,21,  http://www.bud.hu                     
+OL,22,D]CMai `rkez`s 1, 2A ............... 190
+FL,101,175,200,300,0,100
+PN,19520
+SC,0020
+PS,C100
+CT,10,T
+OL,0,        C195BMTVA    G2026.11.19. C01:00
+OL,1, ]        DBUDAPEST AIRPORT ZRT.        
+OL,2, ]   DK|zponti telefonszam: 296-9696    
+OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.20
+OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
+OL,6, FR1078   Edinburgh       20:25     2B  
+OL,7,FEW2785   Stuttgart       20:25     2A  
+OL,8, FR1618   Torino          20:25     2B  
+OL,9,FFR624    Bristol         20:30     2B  
+OL,10, EW7781   Hamburg         20:45     2A  
+OL,11,FEZS1214  Basel           21:15     2B  
+OL,12, FR7595   Athens          21:30     2B  
+OL,13,FFR3718   London STN      21:30     2B  
+OL,14, FR1024   Dublin          21:40     2B  
+OL,15,FEJU1872  Bordeaux        22:15     2B  
+OL,16, FZ1406   Dubai DXB       22:20     2A  
+OL,17,FEK2453   Dubai DXB       22:20     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CMai `rkez`s 1, 2A ............... 190
 FL,101,175,200,300,0,100

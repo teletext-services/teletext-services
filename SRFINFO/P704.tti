@@ -3,14 +3,26 @@ PN,70400
 SC,0000
 PS,8200
 CT,10,T
-OL,0,       G704  SRF info  19.11.26 00:11:37
+OL,0,       G704  SRF info  19.11.26 01:11:43
 OL,1,A]GSRF info G]@Mittwoch, 18. November   
 OL,2,G                                       
-OL,3,G04:20 GNewsflash SRF 1 (W)CDDCUT...C   
-OL,4,F04:25 F10 vor 10 (W)CDDCUT.........C   
-OL,5,G04:50 GMeteo (W)...................C   
-OL,6,       GSp{tausgabeCDDCUT               
-OL,7,F04:55 FSportflash (W)..............C730
-OL,8,       FDie Sportnews des TagesCDD      
+OL,3,G05:30 GTelesguard (W)CDDCUT........C731
+OL,4,F05:40 FSchweiz aktuell (W)CDDCUT...C765
+OL,5,G06:00 GSportflash (W)..............C737
+OL,6,       GDie Sportnews des TagesCDD      
+OL,7,F06:10 FSchweiz aktuell (W)CDDCUT...C738
+OL,8,G06:30 GSportflash (W)..............C739
+OL,9,       GDie Sportnews des TagesCDD      
+OL,10,F06:40 FSchweiz aktuell (W)CDDCUT...C740
+OL,11,G07:05 GSportflash (W)..............C741
+OL,12,       GDie Sportnews des TagesCDD      
+OL,13,F07:10 FSchweiz aktuell (W)CDDCUT...C742
+OL,14,G07:35 GSportflash (W)..............C743
+OL,15,       GDie Sportnews des TagesCDD      
+OL,16,F07:45 FSchweiz aktuell (W)CDDCUT...C744
+OL,17,G08:05 GRundschau in................C745
+OL,18,       GGeb{rdensprache                 
+OL,19,       GJung, politisch, unzufrieden -  
+OL,20,       GEuropas Jugend rebelliertCGSCUT 
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

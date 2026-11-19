@@ -3,22 +3,26 @@ PN,72000
 SC,0000
 PS,8200
 CT,10,T
-OL,0,       G720  SRF info  19.11.26 00:11:55
+OL,0,       G720  SRF info  19.11.26 01:12:25
 OL,1,A]GSRF info G]@Donnerstag, 19. November 
 OL,2,G                                       
-OL,3,F03:20 FNewsflash SRF 1 (W)CDDCUT...C   
-OL,4,G03:25 G10 vor 10 (W)CDDCUT.........C   
-OL,5,F03:50 FMeteo (W)...................C   
-OL,6,       FSp{tausgabeCDDCUT               
-OL,7,G03:55 GSportflash (W)..............C   
-OL,8,       GDie Sportnews des TagesCDD      
-OL,9,F04:00 FNewsflash SRF 1 (W)CDDCUT...C   
-OL,10,G04:10 G10 vor 10 (W)CDDCUT.........C   
-OL,11,F04:35 FMeteo (W)...................C   
-OL,12,       FSp{tausgabeCDDCUT               
-OL,13,G04:40 GSportflash (W)..............C   
-OL,14,       GDie Sportnews des TagesCDD      
-OL,15,F04:45 FNewsflash SRF 1 (W)CDDCUT...C   
-OL,16,G04:50 G10 vor 10 (W)CDDCUT.........C   
+OL,3,F00:50 FSportflash (W)..............C   
+OL,4,       FDie Sportnews des TagesCDD      
+OL,5,G00:55 GNewsflash SRF 1 (W)CDDCUT...C   
+OL,6,F01:00 F10 vor 10 (W)CDDCUT.........C   
+OL,7,G01:25 GMeteo (W)...................C   
+OL,8,       GSp{tausgabeCDDCUT               
+OL,9,F01:30 FSportflash (W)..............C   
+OL,10,       FDie Sportnews des TagesCDD      
+OL,11,G01:35 GNewsflash SRF 1 (W)CDDCUT...C   
+OL,12,F01:40 F10 vor 10 (W)CDDCUT.........C   
+OL,13,G02:05 GMeteo (W)...................C   
+OL,14,       GSp{tausgabeCDDCUT               
+OL,15,F02:10 FSportflash (W)..............C   
+OL,16,       FDie Sportnews des TagesCDD      
+OL,17,G02:15 GNewsflash SRF 1 (W)CDDCUT...C   
+OL,18,F02:20 F10 vor 10 (W)CDDCUT.........C   
+OL,19,G02:45 GMeteo (W)...................C   
+OL,20,       GSp{tausgabeCDDCUT               
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

@@ -3,14 +3,16 @@ PN,75200
 SC,0000
 PS,8200
 CT,10,T
-OL,0,       G752FNDR TEXT GMi 18.11.B23:42:58
+OL,0,       G752FNDR TEXT GDo 19.11.B01:12:55
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN SYLT              
 OL,4,F]T  %D     Ankunft      Stand 00:00    
 OL,5,BFLUG    VON           PLAN ERW. TER/BEM
-OL,6,C        -- Am 19.11.2026 --            
-OL,7,FXF2446  Nuernberg     1315             
+OL,6, XF2446  Nuernberg     1315             
+OL,7,C        -- Am 20.11.2026 --            
+OL,8, XF2446  Nuernberg     1315             
+OL,9,FEW9008  Duesseldorf   1705             
 OL,23,A]G700<                    BAHNH\FE >760
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100
