@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  701Cczw 19 lis  00:11:31
+OL,0,      BPOLONIA  701Cczw 19 lis  06:11:37
 OL,1,BTABELA KURSOW NR 224/A/NBP/2026 z dnia 
 OL,2,B18.11.2026GBie{@ce kursy |rednie walut 
 OL,3, obcych w z}otych okre|lonych w S 2 pkt 
@@ -31,7 +31,7 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  701Cczw 19 lis  00:11:40
+OL,0,      BPOLONIA  701Cczw 19 lis  06:11:43
 OL,1,BTABELA NR 224/A/NBP/2026    18.11.2026 
 OL,2,R,,,,,,,,,,,,,,,,,,,<,,,,,,,,,,<,,,,,,,,
 OL,3,BNAZWA WALUTY      R5  BKOD   R5 BKURS  
@@ -58,7 +58,7 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  701Cczw 19 lis  00:11:47
+OL,0,      BPOLONIA  701Cczw 19 lis  06:11:43
 OL,1,BTABELA NR 224/A/NBP/2026    18.11.2026 
 OL,2,R,,,,,,,,,,,,,,,,,,,<,,,,,,,,,,<,,,,,,,,
 OL,3,BNAZWA WALUTY      R5  BKOD   R5 BKURS  
@@ -81,7 +81,7 @@ SC,0004
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  701Cczw 19 lis  00:11:56
+OL,0,      BPOLONIA  701Cczw 19 lis  06:11:51
 OL,1,BTABELA KURSOW NR 224/C/NBP/2026 z dnia 
 OL,2,B17.11.2026 obowi@zuj@ca od 18.11.2026  
 OL,3, Bie{@ce kursy kupna i sprzeda{y walut  
@@ -101,4 +101,28 @@ OL,16,R,,,,,,,,,,,,,,,,,-,,,,,,.,,,,,,,,,,,,,,
 OL,17, dolar ameryka$ski  1 USD B3,9645 4,0445
 OL,18,Bdolar australijski 1 AUD  2,6724 2,7264
 OL,19, dolar kanadyjski   1 CAD B2,7733 2,8293
+FL,700,702,702,100,0,100
+PN,70105
+SC,0005
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BPOLONIA  701Cczw 19 lis  06:11:51
+OL,1,BTABELA KURSOW NR 224/C/NBP/2026 z dnia 
+OL,2,B17.11.2026 obowi@zuj@ca od 18.11.2026  
+OL,4,R,,,,,,,,,,,,,,,,,<,,,,,,l,,,,,,,,,,,,,,
+OL,5,                 R5      j    BKURS     
+OL,6,BNAZWA WALUTY    R5BKOD RjBKUPNA  SPRZE-
+OL,7,                 R5WALUTYj        BDA[Y 
+OL,8,R,,,,,,,,,,,,,,,,,-,,,,,,.,,,,,,,,,,,,,,
+OL,9, euro               1 EUR B4,3572 4,4452
+OL,10,Bforint (W`gry)   100 HUF A1,1898 1,2138
+OL,11, frank szwajcarski  1 CHF B4,7135 4,8087
+OL,12,Bfunt szterling     1 GBP  5,2301 5,3357
+OL,13, jen (Japonia)    100 JPY B2,4870 2,5372
+OL,14,Bkorona czeska      1 CZK  0,1787 0,1823
+OL,15, korona du$ska      1 DKK B0,5829 0,5947
+OL,16,Bkorona norweska    1 NOK  0,4121 0,4205
+OL,17, korona szwedzka    1 SEK A0,3915 0,3995
+OL,18,BSDR (MFW)          1 XDR  5,3230 5,4306
 FL,700,702,702,100,0,100

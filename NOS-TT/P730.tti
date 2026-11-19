@@ -3,29 +3,29 @@ PN,73001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  730Cdon 19 nov  06:11:37
-OL,1,D]                    Fbinnenland F 1/2 
+OL,0,       BNOS-TT  730Cdon 19 nov  07:11:53
+OL,1,D]                    Fbinnenland F 1/8 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
-OL,4,D]F actueel            19 nov. 06:10 uur
+OL,4,D]F actueel            19 nov. 07:10 uur
 OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,6,F  Files:@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,F-BA15 Rotterdam->EuropoortFtussen@@@@@@
-OL,8,F  Havens 5500-5700 en de Suurhoffbrug 4
-OL,9,F  km,9 min.,wegwerkzaamheden.@@@@@@@@@@
-OL,10,F-BA73 Nijmegen->MaasbrachtFbij de@@@@@@
-OL,11,F  Swalmentunnel 2 km,4 min.,te hoog@@@@
-OL,12,F  voertuig,dicht.@@@@@@@@@@@@@@@@@@@@@@
-OL,13,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,14,F  Afsluiting/Omleiding:@@@@@@@@@@@@@@@@
-OL,15,F-BA27 Gorinchem->BredaFtussen@@@@@@@@@@
-OL,16,F  Industriegebied Avelingen en@@@@@@@@@
-OL,17,F  Werkendam voor zware vrachtwagens,@@@
-OL,18,F  dicht.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,19,F-BN3 Dordrecht->PapendrechtFtussen@@@@@
-OL,20,F  afrit Dordrecht-Centrum en@@@@@@@@@@@
-OL,21,F  Papendrecht wegwerkzaamheden,dicht.@@
-OL,22,F  Verwachte eindtijd: 21 apr.05:00@@@@@
+OL,7,F-BA2 Eindhoven->UtrechtFtussen afrit@@@
+OL,8,F  Sint-Michielsgestel en knp.Empel 4@@@
+OL,9,F  km,9 min..@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,10,F-BA2 Maastricht->EindhovenFtussen@@@@@@
+OL,11,F  Nederweert en Maarheeze 4 km,7 min..@
+OL,12,F-BA2 's-Hertogenbosch->UtrechtFtussen@@
+OL,13,F  knp.Hintham en Waardenburg 12 km,16@@
+OL,14,F  min..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,15,F-BA4 Den Haag->AmsterdamFtussen@@@@@@@@
+OL,16,F  Leidschendam en knp.Hofvliet 6 km,5@@
+OL,17,F  min..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,18,F-BA9 Alkmaar->AmstelveenFtussen knp.@@@
+OL,19,F  Kooimeer en Uitgeest 6 km,9 min.,@@@@
+OL,20,F  door een ongeluk,de linkerrijstrook@@
+OL,21,F  is dicht.@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -33,11 +33,191 @@ PN,73002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  730Cdon 19 nov  06:11:52
-OL,1,D]                    Fbinnenland F 2/2 
+OL,0,       BNOS-TT  730Cdon 19 nov  07:11:57
+OL,1,D]                    Fbinnenland F 2/8 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
-OL,4,D]F actueel            19 nov. 06:10 uur
+OL,4,D]F actueel            19 nov. 07:10 uur
+OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BA12 Duitse grens->ArnhemFtussen afrit
+OL,7,F  Beek en Duiven 8 km,7 min..@@@@@@@@@@
+OL,8,F-BA12 Utrecht->Den HaagFtussen Reeuwijk
+OL,9,F  en knp.Gouwe 4 km,5 min..@@@@@@@@@@@@
+OL,10,F-BA15 Nijmegen->GorinchemFtussen@@@@@@@
+OL,11,F  Echteld en Wadenoijen 8 km,26 min.,@@
+OL,12,F  door een ongeluk.@@@@@@@@@@@@@@@@@@@@
+OL,13,F-BA15 Gorinchem->RotterdamFtussen@@@@@@
+OL,14,F  Hardinxveld-Giessendam en@@@@@@@@@@@@
+OL,15,F  Sliedrecht-West 4 km,8 min..@@@@@@@@@
+OL,16,F-BA15 Rotterdam->EuropoortFtussen@@@@@@
+OL,17,F  Havens 5500-5700 en de Suurhoffbrug 4
+OL,18,F  km,14 min.,wegwerkzaamheden.@@@@@@@@@
+OL,19,F-BA16 Breda->RotterdamFtussen@@@@@@@@@@
+OL,20,F  Breda-Noord en Lage Zwaluwe 5 km,11@@
+OL,21,F  min..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,73003
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       BNOS-TT  730Cdon 19 nov  07:11:58
+OL,1,D]                    Fbinnenland F 3/8 
+OL,2,B]DMVERKEERSINFORMATIE                  
+OL,3,B]                                      
+OL,4,D]F actueel            19 nov. 07:10 uur
+OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BA16 Breda->RotterdamFtussen Lage@@@@@
+OL,7,F  Zwaluwe en Hendrik-Ido-Ambacht 17 km,
+OL,8,F  26 min..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,9,F-BA20 Hoek van Holland->GoudaFtussen@@@
+OL,10,F  Rotterdam-Prins Alexander en@@@@@@@@@
+OL,11,F  Moordrecht 4 km,5 min..@@@@@@@@@@@@@@
+OL,12,F-BA20 Gouda->Hoek van HollandFtussen@@@
+OL,13,F  knp.Gouwe en Moordrecht 2 km,30@@@@@@
+OL,14,F  min.,door een ongeluk,dicht,u@@@@@@@@
+OL,15,F  wordt via de af- en oprit omgeleid.@@
+OL,16,F  Omrijden via Den Haag en Delft (A12,@
+OL,17,F  A13).@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,18,F-BA27 Breda->GorinchemFtussen@@@@@@@@@@
+OL,19,F  Geertruidenberg en Nieuwendijk 3 km,@
+OL,20,F  6 min..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,73004
+SC,0004
+PS,C200
+CT,10,T
+OL,0,       BNOS-TT  730Cdon 19 nov  07:11:49
+OL,1,D]                    Fbinnenland F 4/8 
+OL,2,B]DMVERKEERSINFORMATIE                  
+OL,3,B]                                      
+OL,4,D]F actueel            19 nov. 07:10 uur
+OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BA27 Breda->GorinchemFtussen@@@@@@@@@@
+OL,7,F  Nieuwendijk en Industriegebied@@@@@@@
+OL,8,F  Avelingen 3 km,2 min.,@@@@@@@@@@@@@@@
+OL,9,F  veiligheidsmaatregelen,voor zware@@@@
+OL,10,F  vrachtwagens.Verbod voor@@@@@@@@@@@@@
+OL,11,F  vrachtverkeer en autobussen@@@@@@@@@@
+OL,12,F  (>3500kg).Lijnbussen toegestaan.@@@@@
+OL,13,F-BA27 Breda->UtrechtFtussen knp.@@@@@@@
+OL,14,F  Gorinchem en Lexmond 4 km,6 min..@@@@
+OL,15,F-BA28 Zwolle->AmersfoortFtussen Strand@
+OL,16,F  Nulde en knp.Hoevelaken 6 km,19@@@@@@
+OL,17,F  min..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,18,F-BA29 Bergen op Zoom->RotterdamFtussen@
+OL,19,F  knp.Sabina en afrit Numansdorp 6 km,@
+OL,20,F  5 min..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,73005
+SC,0005
+PS,C200
+CT,10,T
+OL,0,       BNOS-TT  730Cdon 19 nov  07:12:02
+OL,1,D]                    Fbinnenland F 5/8 
+OL,2,B]DMVERKEERSINFORMATIE                  
+OL,3,B]                                      
+OL,4,D]F actueel            19 nov. 07:10 uur
+OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BA29 Bergen op Zoom->RotterdamFtussen@
+OL,7,F  afrit Numansdorp en afrit@@@@@@@@@@@@
+OL,8,F  Oud-Beijerland 3 km,6 min..@@@@@@@@@@
+OL,9,F-BA50 Eindhoven->ArnhemFtussen Oss-Oost
+OL,10,F  en Ravenstein 4 km,6 min..@@@@@@@@@@@
+OL,11,F-BA50 Arnhem->OssFtussen knp.Valburg@@@
+OL,12,F  en Ravenstein 9 km,9 min..@@@@@@@@@@@
+OL,13,F-BA58 Breda->TilburgFtussen@@@@@@@@@@@@
+OL,14,F  Tilburg-Reeshof en Tilburg-Centrum@@@
+OL,15,F  Oost 4 km,11 min.,door een ongeluk@@@
+OL,16,F  met een vrachtwagen,de@@@@@@@@@@@@@@@
+OL,17,F  rechterrijstrook is dicht.@@@@@@@@@@@
+OL,18,F-BA58 Breda->EindhovenFtussen knp.De@@@
+OL,19,F  Baars en Oirschot 6 km,12 min..@@@@@@
+OL,20,F-BA67 Venlo->EindhovenFtussen afrit@@@@
+OL,21,F  Someren en knp.Leenderheide 8 km,9@@@
+OL,22,F  min..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,73006
+SC,0006
+PS,C200
+CT,10,T
+OL,0,       BNOS-TT  730Cdon 19 nov  07:11:45
+OL,1,D]                    Fbinnenland F 6/8 
+OL,2,B]DMVERKEERSINFORMATIE                  
+OL,3,B]                                      
+OL,4,D]F actueel            19 nov. 07:10 uur
+OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BA326 Nijmegen->RavensteinFtussen@@@@@
+OL,7,F  afrit Bergharen en knp.Bankhoef 2@@@@
+OL,8,F  km,8 min..@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,9,F-BN11 Leiden->BodegravenFtussen@@@@@@@@
+OL,10,F  Bodegraven-Centrum en de aansluiting@
+OL,11,F  met de A12 3 km,9 min..@@@@@@@@@@@@@@
+OL,12,F-BN33 Veendam->EemshavenFtussen@@@@@@@@
+OL,13,F  Roodeschool en Industriegebied@@@@@@@
+OL,14,F  7200-7300 3 km,6 min..@@@@@@@@@@@@@@@
+OL,15,F-BN57 Middelburg->RotterdamFtussen@@@@@
+OL,16,F  afrit Hellevoetsluis/Oudenhoorn en de
+OL,17,F  aansluiting met de A15 5 km,7 min..@@
+OL,18,F-BN218 Spijkenisse->OostvoorneFtussen@@
+OL,19,F  Brielle en de aansluiting met de N15@
+OL,20,F  3 km,18 min..@@@@@@@@@@@@@@@@@@@@@@@@
+OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,73007
+SC,0007
+PS,C200
+CT,10,T
+OL,0,       BNOS-TT  730Cdon 19 nov  07:12:02
+OL,1,D]                    Fbinnenland F 7/8 
+OL,2,B]DMVERKEERSINFORMATIE                  
+OL,3,B]                                      
+OL,4,D]F actueel            19 nov. 07:10 uur
+OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BN233 Kesteren->VeenendaalFtussen de@@
+OL,7,F  aansluiting met de A15 en Rhenen 4@@@
+OL,8,F  km,19 min..@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,9,F-BN279 Roermond->'s-HertogenboschF@@@@@
+OL,10,F  tussen Helmond-Noord en Beek en Donk@
+OL,11,F  4 km,5 min..@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,12,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,13,F  Afsluiting/Omleiding:@@@@@@@@@@@@@@@@
+OL,14,F-BA27 Gorinchem->BredaFtussen@@@@@@@@@@
+OL,15,F  Industriegebied Avelingen en@@@@@@@@@
+OL,16,F  Werkendam voor zware vrachtwagens,@@@
+OL,17,F  dicht.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,18,F-BN3 Dordrecht->PapendrechtFtussen@@@@@
+OL,19,F  afrit Dordrecht-Centrum en@@@@@@@@@@@
+OL,20,F  Papendrecht wegwerkzaamheden,dicht.@@
+OL,21,F  Verwachte eindtijd: 21 apr.05:00@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,73008
+SC,0008
+PS,C200
+CT,10,T
+OL,0,       BNOS-TT  730Cdon 19 nov  07:12:02
+OL,1,D]                    Fbinnenland F 8/8 
+OL,2,B]DMVERKEERSINFORMATIE                  
+OL,3,B]                                      
+OL,4,D]F actueel            19 nov. 07:10 uur
 OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,6,F-BN3 Papendrecht->DordrechtFtussen@@@@@
 OL,7,F  Papendrecht en afrit@@@@@@@@@@@@@@@@@
