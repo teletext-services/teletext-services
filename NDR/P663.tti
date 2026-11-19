@@ -3,28 +3,28 @@ PN,66301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G663FNDR TEXT GDo 19.11.B03:10:24
+OL,0,       G663FNDR TEXT GDo 19.11.B04:10:53
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTERWERTE                 
 OL,4,F]T  %D     Deutschland und Europa      
-OL,5, Stand: 19.11.2026             01:00 Uhr
+OL,5, Stand: 19.11.2026             03:00 Uhr
 OL,6,FTmp: Aktuelle Lufttemperatur in `C     
 OL,7,FWetter: Aktueller Wetterzustand        
 OL,8,FNsl: Niederschlag letzte Stunde in l/qm
 OL,10,F             Tmp Wetter             Nsl
 OL,11, Berlin .....   8 bedeckt .........    0
-OL,12,FDresden ....   8 Regen ...........  0,3
-OL,13, Erfurt .....   9 bedeckt .........    0
+OL,12,FDresden ....   8 Spr}hregen ......  0,1
+OL,13, Erfurt .....   8 leicht bew|lkt ..    0
 OL,14,FFrankfurt/M.   9 nicht gemeldet ..    0
-OL,15, Freiburg ...  13 bedeckt .........    0
+OL,15, Freiburg ...  10 bedeckt .........    0
 OL,16,FK|ln/Bonn ..   9 bedeckt .........    0
-OL,17, Magdeburg ..   7 fast wolkenlos ..    0
-OL,18,FM}nchen ....   8 leicht bew|lkt ..    0
-OL,19, N}rnberg ...   6 fast wolkenlos ..    0
-OL,20,FSaarbr}cken.   8 bedeckt .........  0,1
-OL,21, Stuttgart ..   7 bedeckt .........    0
-OL,22,FZugspitze ..  -8 wolkig ..........    -
+OL,17, Magdeburg ..   7 bedeckt .........    0
+OL,18,FM}nchen ....   8 wolkig ..........    0
+OL,19, N}rnberg ...   7 stark bew|lkt ...    0
+OL,20,FSaarbr}cken.   9 nach Regen ......  0,4
+OL,21, Stuttgart ..   8 bedeckt .........    0
+OL,22,FZugspitze ..  -8 nach Nebel ......    -
 OL,23,D]G650<                   WEITER >664 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -32,29 +32,29 @@ PN,66302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G663FNDR TEXT GDo 19.11.B03:10:24
+OL,0,       G663FNDR TEXT GDo 19.11.B04:10:53
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTERWERTE                 
 OL,4,F]T  %D     Deutschland und Europa      
-OL,5, Stand: 19.11.2026             01:00 Uhr
+OL,5, Stand: 19.11.2026             03:00 Uhr
 OL,6,F              Wetter         Temperatur
-OL,7, Amsterdam ..  nach Regen ......    9 `C
+OL,7, Amsterdam ..  bedeckt .........    8 `C
 OL,8,FAthen ......  leicht bew|lkt ..   17 `C
-OL,9, Br}ssel ....  wolkig ..........    9 `C
-OL,10,FBudapest ...  bedeckt .........    9 `C
-OL,11, Dublin .....  leichter Regen ..    6 `C
-OL,12,FKopenhagen .  Regenschauer ....    5 `C
-OL,13, London .....  leichter Regen ..    9 `C
-OL,14,FMadrid .....  Regen ...........   15 `C
-OL,15, Oslo .......  leicht bew|lkt ..   -3 `C
+OL,9, Br}ssel ....  etwas Regen .....   10 `C
+OL,10,FBudapest ...  Nebel ...........    9 `C
+OL,11, Dublin .....  nach Regen ......    5 `C
+OL,12,FKopenhagen .  leichter Regen ..    4 `C
+OL,13, London .....  nach Regen ......    8 `C
+OL,14,FMadrid .....  nach Regen ......   14 `C
+OL,15, Oslo .......  leicht bew|lkt ..   -4 `C
 OL,16,FParis ......  bedeckt .........   12 `C
-OL,17, Prag .......  nach Regen ......    9 `C
-OL,18,FRom ........  wolkenlos .......   16 `C
-OL,19, Stockholm ..  etwas Schnee ....   -3 `C
-OL,20,FWarschau ...  wolkig ..........    9 `C
+OL,17, Prag .......  stark bew|lkt ...    8 `C
+OL,18,FRom ........  stark bew|lkt ...   17 `C
+OL,19, Stockholm ..  bedeckt .........   -2 `C
+OL,20,FWarschau ...  stark bew|lkt ...   11 `C
 OL,21, Wien .......  fast wolkenlos ..   12 `C
-OL,22,FZ}rich .....  leicht bew|lkt ..   10 `C
+OL,22,FZ}rich .....  wolkig ..........    7 `C
 OL,23,D]G650<                   WEITER >664 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(2/3)
 FL,101,200,300,650,0,100
@@ -62,29 +62,29 @@ PN,66303
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G663FNDR TEXT GDo 19.11.B03:10:24
+OL,0,       G663FNDR TEXT GDo 19.11.B04:10:53
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTERWERTE                 
 OL,4,F]T  %D     Deutschland und Europa      
-OL,5, Stand: 19.11.2026             01:00 Uhr
+OL,5, Stand: 19.11.2026             03:00 Uhr
 OL,6,F              Wetter         Temperatur
-OL,7, Algarve ....  leichter Regen ..   20 `C
-OL,8,FAntalya ....  wolkig ..........   18 `C
-OL,9, Djerba .....  fast wolkenlos ..   22 `C
-OL,10,FGran Canaria  etwas Niesel ....   22 `C
-OL,11, Ibiza ......  wolkig ..........   20 `C
-OL,12,FKorfu ......  wolkig ..........   18 `C
-OL,13, Korsika ....  stark bew|lkt ...   16 `C
-OL,14,FKreta ......  wolkig ..........   22 `C
-OL,15, Malaga .....  wolkig ..........   18 `C
-OL,16,FMallorca ...  dunstig .........   20 `C
-OL,17, Mykonos ....  nicht gemeldet ..   21 `C
-OL,18,FNizza ......  wolkig ..........   15 `C
-OL,19, Rimini .....  Nebel ...........    6 `C
-OL,20,FSardinien ..  wolkig ..........   17 `C
+OL,7, Algarve ....  leicht bew|lkt ..   18 `C
+OL,8,FAntalya ....  wolkig ..........   17 `C
+OL,9, Djerba .....  leicht bew|lkt ..   22 `C
+OL,10,FGran Canaria  nach Nieders. ...   22 `C
+OL,11, Ibiza ......  leicht bew|lkt ..   20 `C
+OL,12,FKorfu ......  wolkig ..........   17 `C
+OL,13, Korsika ....  bedeckt .........   14 `C
+OL,14,FKreta ......  wolkig ..........   21 `C
+OL,15, Malaga .....  bedeckt .........   17 `C
+OL,16,FMallorca ...  wolkig ..........   20 `C
+OL,17, Mykonos ....  nicht gemeldet ..    - `C
+OL,18,FNizza ......  nach Regen ......   14 `C
+OL,19, Rimini .....  Nebel ...........    9 `C
+OL,20,FSardinien ..  leicht bew|lkt ..   17 `C
 OL,21, Teneriffa ..  wolkig ..........   23 `C
-OL,22,FZypern .....  stark bew|lkt ...   22 `C
+OL,22,FZypern .....  leicht bew|lkt ..   20 `C
 OL,23,D]G650<                   WEITER >664 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100
