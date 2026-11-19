@@ -3,37 +3,12 @@ PN,70601
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G706  RTS 1     19.11.26 04:12:00
-OL,1,D]GRTS 1     ]@mercredi 18 novembre     
+OL,0,       G706  RTS 1     19.11.26 05:11:59
+OL,1,D]GRTS 1     ]@jeudi 19 novembre        
 OL,2,                                    1/3 
-OL,4,F11:15 FTop ModelsCI/IICS-T             
-OL,5,E 1125                                  
-OL,6,G11:40 GPlus belle la vie, encore       
-OL,7,E 1145 Gplus belleCS-T                  
-OL,9,F12:05 FDemain nous appartientCS-T      
-OL,10,G12:45 G12h45                           
-OL,11,       CS-T                             
-OL,12,F13:10 FM#t#o                           
-OL,13,E 1305 CS-T                             
-OL,14,G13:15 GDouze d#fis pour No[l           
-OL,15,       CI/IICS-T                        
-OL,16,F14:55 FLa fabuleuse parade de No[l     
-OL,17,       CS-T                             
-OL,18,G16:45 GMeurtres au paradis.........C707
-OL,19,E 1700 GTh#rapies de couplesCI/II       
-OL,20,       CS-T                             
-OL,24,AIndex    BSport     CMeteo    FTV&Radio
-FL,101,180,500,700,0,100
-PN,70602
-SC,0002
-PS,C080
-CT,8,T
-OL,0,       G706  RTS 1     19.11.26 04:12:00
-OL,1,D]GRTS 1     ]@mercredi 18 novembre     
-OL,2,                                    2/3 
 OL,4,F17:50 FIci tout commenceCS-T           
 OL,5,E 1810                                  
-OL,6,G18:25 GC'est ma question...........C708
+OL,6,G18:25 GC'est ma question...........C707
 OL,7,E 1820 CS-T                             
 OL,8,F18:55 FM#t#o r#gionale                 
 OL,9,E 1850 CS-T                             
@@ -45,15 +20,42 @@ OL,14,G19:30 G19h30
 OL,15,       CS-T                             
 OL,16,F20:00 FM#t#o                           
 OL,17,E 1955 FsoirCS-T                        
-OL,18,G20:10 G36.9  Sant#.................C709
-OL,19,E 2005 CS-T                             
+OL,18,G20:10 GTemps pr#sent...............C738
+OL,19,E 2000 GLe business du bien, la         
+OL,20,       Gface cach#e de la               
+OL,21,       Gphilanthropie.CS-T              
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,70602
+SC,0002
+PS,C080
+CT,8,T
+OL,0,       G706  RTS 1     19.11.26 05:11:59
+OL,1,D]GRTS 1     ]@jeudi 19 novembre        
+OL,2,                                    2/3 
+OL,4,F21:15 FAstrid et Rapha[lle.........C708
+OL,5,E 2045 FLa bombe #carlateCS-T           
+OL,6,G22:05 GAstrid et Rapha[lle.........C709
+OL,7,E 2130 GLe livre de thotCS-T            
+OL,8,F23:10 FRamdam......................C710
+OL,9,E 2300 FMourir sur sc`neCS-T            
+OL,10,G23:40 GAilleurs si j'y suis .......C711
+OL,11,E 2330 CS-T                             
+OL,12,F01:25 FCouleurs locales                
+OL,13,E 0000 CS-TC(R)                         
+OL,14,G01:40 G19h30                           
+OL,15,E 0235 CS-TC(R)                         
+OL,16,F02:15 FTemps pr#sent                   
+OL,17,E 0139 FLe business du bien, la         
+OL,18,       Fface cach#e de la               
+OL,19,       Fphilanthropie.CS-TC(R)          
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,70603
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G706  RTS 1     19.11.26 04:12:00
+OL,0,       G706  RTS 1     19.11.26 05:11:59
 OL,1,D]GRTS 1     ]@jeudi 19 novembre        
 OL,2,                                    3/3 
 OL,4,G03:10 GM#t#o                           

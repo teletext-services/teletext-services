@@ -4,16 +4,16 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     128Cczw 19 lis  04:00:16
+OL,0,      BTVP3     128Cczw 19 lis  05:00:16
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
-OL,4,E19.11.2026  2:00    GStany:            
+OL,4,E19.11.2026  4:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FBiebrza                         
 OL,8,FSztabin         B137   F270    290    =
 OL,9, D`bowo          B105   G270    300    =
-OL,10,FOsowiec         B269   F400    430    =
+OL,10,FOsowiec         B270   F400    430    +
 OL,11, Burzyn          B180   G380    400     
 OL,13, Rzeka:FBug                             
 OL,14,FFrankopol        B44   F250    350    =
@@ -27,11 +27,11 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     128Cczw 19 lis  04:00:17
+OL,0,      BTVP3     128Cczw 19 lis  05:00:16
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
-OL,4,E19.11.2026  2:00    GStany:            
+OL,4,E19.11.2026  4:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FLega                            
 OL,8,FRajgr_d         B108   F140    160    =
@@ -40,8 +40,8 @@ OL,11,FNarew           B132   F170    200    =
 OL,12, Sura{           B116   G320    340    =
 OL,13,FStr`kowa G_ra   B140   F420    440    =
 OL,14, Wizna           B186   G440    470    =
-OL,15,FPi@tnica - ]om{a B97   F410    460    =
-OL,16, Nowogr_d        B152   G360    400    =
+OL,15,FPi@tnica - ]om{a B98   F410    460    =
+OL,16, Nowogr_d        B153   G360    400    =
 OL,18, Rzeka:FNurzec                          
 OL,19,FBra$sk           B75   F250    300    =
 OL,23,                        ~r_d}o: IMGW-PIB
@@ -51,19 +51,19 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     128Cczw 19 lis  04:00:17
+OL,0,      BTVP3     128Cczw 19 lis  05:00:16
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
-OL,4,E19.11.2026  2:00    GStany:            
+OL,4,E19.11.2026  4:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FPisa                            
 OL,8,FPtaki            B59   F210    240    =
-OL,9, Dobrylas         B84   G250    290    -
+OL,9, Dobrylas         B84   G250    290    =
 OL,11, Rzeka:FSoko}da                         
 OL,12,FSoko}da         B190   F250    300    =
 OL,14, Rzeka:FSupra|l                         
 OL,15,FSupra|l         B109   F220    260    =
-OL,16, Fasty           B119   G220    250    =
+OL,16, Fasty           B118   G220    250    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,127,129,100,100,0,100
