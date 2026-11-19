@@ -3,7 +3,7 @@ PN,70601
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  706Cdon 19 nov  02:11:52
+OL,0,       BNOS-TT  706Cdon 19 nov  03:11:35
 OL,1,D]                 Fweerbeeld     F 1/5 
 OL,2,B]MD W E E R  E U R O P A               
 OL,3,B]                                      
@@ -19,12 +19,12 @@ OL,12,Feen graad of 5.
 OL,13,F                                       
 OL,14,BAlborg        FZonnig              4 C@
 OL,15,BBergen        FZonnig              2 C@
-OL,16,BHammerfest    FBewolkt             2 C@
-OL,17,BHelsinki      FRegenbui            4 C@
+OL,16,BHammerfest    FBewolkt             3 C@
+OL,17,BHelsinki      FRegen               5 C@
 OL,18,BKajaani       FSneeuw              1 C@
-OL,19,BKiruna        FMist               -5 C@
+OL,19,BKiruna        FSneeuw             -4 C@
 OL,20,BKopenhagen    FHalf bewolkt        5 C@
-OL,21,BOslo          FHalf bewolkt        2 C@
+OL,21,BOslo          FZonnig              2 C@
 OL,22,BStockholm     FNat.Sneeuw          1 C@
 OL,23,T,,,,,,,,,,,Bwww.weerplaza.nlT,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
@@ -33,7 +33,7 @@ PN,70602
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  706Cdon 19 nov  02:11:52
+OL,0,       BNOS-TT  706Cdon 19 nov  03:11:35
 OL,1,D]                 Fweerbeeld     F 2/5 
 OL,2,B]MD W E E R  E U R O P A               
 OL,3,B]                                      
@@ -63,7 +63,7 @@ PN,70603
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  706Cdon 19 nov  02:11:52
+OL,0,       BNOS-TT  706Cdon 19 nov  03:11:35
 OL,1,D]                 Fweerbeeld     F 3/5 
 OL,2,B]MD W E E R  E U R O P A               
 OL,3,B]                                      
@@ -83,9 +83,9 @@ OL,16,BLissabon      FHalf bewolkt       17 C@
 OL,17,BMadrid        FHalf bewolkt       14 C@
 OL,18,BMalaga        FHalf bewolkt       21 C@
 OL,19,BMilaan        FHalf bewolkt       13 C@
-OL,20,BNapels        FHalf bewolkt       19 C@
-OL,21,BPorto         FRegen              16 C@
-OL,22,BRome          FZonnig             20 C@
+OL,20,BNapels        FRegenbui           19 C@
+OL,21,BPorto         FRegen              15 C@
+OL,22,BRome          FZonnig             19 C@
 OL,23,T,,,,,,,,,,,Bwww.weerplaza.nlT,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -93,7 +93,7 @@ PN,70604
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  706Cdon 19 nov  02:11:53
+OL,0,       BNOS-TT  706Cdon 19 nov  03:11:35
 OL,1,D]                 Fweerbeeld     F 4/5 
 OL,2,B]MD W E E R  E U R O P A               
 OL,3,B]                                      
@@ -111,11 +111,11 @@ OL,14,BAntalya       FOnweer             23 C@
 OL,15,BAthene        FOnweer             24 C@
 OL,16,BBoekarest     FOnweer             16 C@
 OL,17,BDubrovnik     FOnweer             19 C@
-OL,18,BHeraklion     FHalf bewolkt       26 C@
+OL,18,BHeraklion     FHalf bewolkt       27 C@
 OL,19,BIstanbul      FOnweer             21 C@
 OL,20,BLjubljana     FHalf bewolkt       12 C@
-OL,21,BSofia         FZonnig             16 C@
-OL,22,BSplit         FRegenbui           16 C@
+OL,21,BSofia         FZonnig             17 C@
+OL,22,BSplit         FOnweer             17 C@
 OL,23,T,,,,,,,,,,,Bwww.weerplaza.nlT,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -123,7 +123,7 @@ PN,70605
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  706Cdon 19 nov  02:11:53
+OL,0,       BNOS-TT  706Cdon 19 nov  03:11:35
 OL,1,D]                 Fweerbeeld     F 5/5 
 OL,2,B]MD W E E R  E U R O P A               
 OL,3,B]                                      
@@ -139,11 +139,11 @@ OL,12,Fgraden.
 OL,13,F                                       
 OL,14,BBerlijn       FMotregen            6 C@
 OL,15,BBern          FMotregen           10 C@
-OL,16,BBoedapest     FMotregen           13 C@
-OL,17,BFrankfurt     FMotregen           10 C@
+OL,16,BBoedapest     FMotregen           12 C@
+OL,17,BFrankfurt     FMotregen           11 C@
 OL,18,BMunchen       FMotregen           10 C@
-OL,19,BPraag         FMotregen            9 C@
-OL,20,BWarschau      FRegen               9 C@
+OL,19,BPraag         FRegen               9 C@
+OL,20,BWarschau      FMotregen            8 C@
 OL,21,BWenen         FBewolkt            13 C@
 OL,22,BZurich        FRegen              10 C@
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

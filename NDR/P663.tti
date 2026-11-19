@@ -3,7 +3,7 @@ PN,66301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G663FNDR TEXT GDo 19.11.B02:10:41
+OL,0,       G663FNDR TEXT GDo 19.11.B03:10:24
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTERWERTE                 
@@ -32,29 +32,29 @@ PN,66302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G663FNDR TEXT GDo 19.11.B02:10:41
+OL,0,       G663FNDR TEXT GDo 19.11.B03:10:24
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTERWERTE                 
 OL,4,F]T  %D     Deutschland und Europa      
-OL,5, Stand: 19.11.2026             00:00 Uhr
+OL,5, Stand: 19.11.2026             01:00 Uhr
 OL,6,F              Wetter         Temperatur
-OL,7, Amsterdam ..  Regenschauer ....    9 `C
-OL,8,FAthen ......  leicht bew|lkt ..   19 `C
-OL,9, Br}ssel ....  wolkig ..........   10 `C
-OL,10,FBudapest ...  bedeckt .........    8 `C
-OL,11, Dublin .....  leichter Regen ..    7 `C
+OL,7, Amsterdam ..  nach Regen ......    9 `C
+OL,8,FAthen ......  leicht bew|lkt ..   17 `C
+OL,9, Br}ssel ....  wolkig ..........    9 `C
+OL,10,FBudapest ...  bedeckt .........    9 `C
+OL,11, Dublin .....  leichter Regen ..    6 `C
 OL,12,FKopenhagen .  Regenschauer ....    5 `C
-OL,13, London .....  Regen ...........   10 `C
-OL,14,FMadrid .....  dunstig .........   17 `C
-OL,15, Oslo .......  wolkig ..........   -3 `C
-OL,16,FParis ......  nach Regen ......   11 `C
-OL,17, Prag .......  leicht bew|lkt ..    9 `C
-OL,18,FRom ........  dunstig .........   16 `C
-OL,19, Stockholm ..  bedeckt .........   -3 `C
-OL,20,FWarschau ...  wolkig ..........   10 `C
+OL,13, London .....  leichter Regen ..    9 `C
+OL,14,FMadrid .....  Regen ...........   15 `C
+OL,15, Oslo .......  leicht bew|lkt ..   -3 `C
+OL,16,FParis ......  bedeckt .........   12 `C
+OL,17, Prag .......  nach Regen ......    9 `C
+OL,18,FRom ........  wolkenlos .......   16 `C
+OL,19, Stockholm ..  etwas Schnee ....   -3 `C
+OL,20,FWarschau ...  wolkig ..........    9 `C
 OL,21, Wien .......  fast wolkenlos ..   12 `C
-OL,22,FZ}rich .....  wolkig ..........    9 `C
+OL,22,FZ}rich .....  leicht bew|lkt ..   10 `C
 OL,23,D]G650<                   WEITER >664 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(2/3)
 FL,101,200,300,650,0,100
@@ -62,29 +62,29 @@ PN,66303
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G663FNDR TEXT GDo 19.11.B02:10:41
+OL,0,       G663FNDR TEXT GDo 19.11.B03:10:24
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTERWERTE                 
 OL,4,F]T  %D     Deutschland und Europa      
-OL,5, Stand: 19.11.2026             00:00 Uhr
+OL,5, Stand: 19.11.2026             01:00 Uhr
 OL,6,F              Wetter         Temperatur
-OL,7, Algarve ....  stark bew|lkt ...   20 `C
+OL,7, Algarve ....  leichter Regen ..   20 `C
 OL,8,FAntalya ....  wolkig ..........   18 `C
-OL,9, Djerba .....  leicht bew|lkt ..   22 `C
-OL,10,FGran Canaria  Niederschlag ....   21 `C
-OL,11, Ibiza ......  bedeckt .........   20 `C
+OL,9, Djerba .....  fast wolkenlos ..   22 `C
+OL,10,FGran Canaria  etwas Niesel ....   22 `C
+OL,11, Ibiza ......  wolkig ..........   20 `C
 OL,12,FKorfu ......  wolkig ..........   18 `C
 OL,13, Korsika ....  stark bew|lkt ...   16 `C
 OL,14,FKreta ......  wolkig ..........   22 `C
-OL,15, Malaga .....  nach Nieders. ...   18 `C
-OL,16,FMallorca ...  wolkig ..........   20 `C
-OL,17, Mykonos ....  nicht gemeldet ..    - `C
-OL,18,FNizza ......  wolkig ..........   14 `C
-OL,19, Rimini .....  Nebel ...........    5 `C
+OL,15, Malaga .....  wolkig ..........   18 `C
+OL,16,FMallorca ...  dunstig .........   20 `C
+OL,17, Mykonos ....  nicht gemeldet ..   21 `C
+OL,18,FNizza ......  wolkig ..........   15 `C
+OL,19, Rimini .....  Nebel ...........    6 `C
 OL,20,FSardinien ..  wolkig ..........   17 `C
 OL,21, Teneriffa ..  wolkig ..........   23 `C
-OL,22,FZypern .....  wolkig ..........   22 `C
+OL,22,FZypern .....  stark bew|lkt ...   22 `C
 OL,23,D]G650<                   WEITER >664 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

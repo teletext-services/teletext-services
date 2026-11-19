@@ -3,29 +3,29 @@ PN,72500
 SC,0000
 PS,8200
 CT,10,T
-OL,0,       G725FNDR TEXT GDo 19.11.B02:12:02
+OL,0,       G725FNDR TEXT GDo 19.11.B03:12:15
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN HANNOVER          
-OL,4,F]T  %D     Ankunft      Stand 01:20    
+OL,4,F]T  %D     Ankunft      Stand 02:20    
 OL,5,BFLUG    VON           PLAN ERW. TER/BEM
-OL,6,C        -- Vortag --                   
-OL,7,FVL 2100 M}nchen       2310 2307 A Gelan
-OL,8, X3 2263 Gran Canaria  2325 2321 C Gelan
-OL,9,FEW 3537 Gran Canaria  2325 2326 C Gelan
-OL,10,C        -- Heute --                    
-OL,11,FX3 2189 Lanzarote     0040 0106 B Gelan
-OL,12, XQ  230 Antalya       0145 0204 C      
-OL,13,FXQ  232 Antalya       0150 0156 C      
-OL,14, SM 2932 Hurghada      0240 0310 C      
-OL,15,FVL 2090 M}nchen       0835      A      
-OL,16, LX  814 Z}rich        0850      A      
-OL,17,FTK 1553 Istanbul      0940      C      
-OL,18, OS  271 Wien          0940      A      
-OL,19,FLH  040 Frankfurt     0950      A      
-OL,20, SK  669 Kopenhagen    0950      A      
-OL,21,FAF 1338 Paris - CDG   1015      A      
-OL,22, KL 1787 Amsterdam     1020      A      
+OL,6, X3 2189 Lanzarote     0040 0106 B Gelan
+OL,7,FXQ  230 Antalya       0145 0201 C Gelan
+OL,8, XQ  232 Antalya       0150 0142 C Gelan
+OL,9,FSM 2932 Hurghada      0240 0310 C      
+OL,10, VL 2090 M}nchen       0835      A      
+OL,11,FLX  814 Z}rich        0850      A      
+OL,12, OS  271 Wien          0940      A      
+OL,13,FTK 1553 Istanbul      0940      C      
+OL,14, LH  040 Frankfurt     0950      A      
+OL,15,FSK  669 Kopenhagen    0950      A      
+OL,16, AF 1338 Paris - CDG   1015      A      
+OL,17,FKL 1787 Amsterdam     1020      A      
+OL,18, BA  922 London-Heathr 1040      C      
+OL,19,FX3 2147 P. de Mallorc 1055      A      
+OL,20, PC 1033 Istanbul-Sab. 1125      C      
+OL,21,FX3 2275 Jerez         1130      A      
+OL,22, VL 2092 M}nchen       1250      A      
 OL,23,A]G700<                      WEITER >726
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100
