@@ -3,26 +3,27 @@ PN,70300
 SC,0000
 PS,8200
 CT,10,T
-OL,0,       G703  SRF info  19.11.26 00:11:36
+OL,0,       G703  SRF info  19.11.26 02:11:52
 OL,1,A]GSRF info G]@Mittwoch, 18. November   
 OL,2,G                                       
-OL,3,G02:10 GNewsflash SRF 1 (W)CDDCUT...C   
-OL,4,F02:15 F10 vor 10 (W)CDDCUT.........C   
-OL,5,G02:40 GMeteo (W)...................C   
-OL,6,       GSp{tausgabeCDDCUT               
-OL,7,F02:45 FSportflash (W)..............C727
-OL,8,       FDie Sportnews des TagesCDD      
-OL,9,G02:55 GNewsflash SRF 1 (W)CDDCUT...C   
-OL,10,F03:00 F10 vor 10 (W)CDDCUT.........C   
-OL,11,G03:25 GMeteo (W)...................C   
-OL,12,       GSp{tausgabeCDDCUT               
-OL,13,F03:30 FSportflash (W)..............C728
-OL,14,       FDie Sportnews des TagesCDD      
-OL,15,G03:35 GNewsflash SRF 1 (W)CDDCUT...C   
-OL,16,F03:45 F10 vor 10 (W)CDDCUT.........C   
-OL,17,G04:05 GMeteo (W)...................C   
-OL,18,       GSp{tausgabeCDDCUT               
-OL,19,F04:10 FSportflash (W)..............C729
-OL,20,       FDie Sportnews des TagesCDD      
+OL,3,G04:10 GSportflash (W)..............C729
+OL,4,       GDie Sportnews des TagesCDD      
+OL,5,F04:20 FNewsflash SRF 1 (W)CDDCUT...C   
+OL,6,G04:25 G10 vor 10 (W)CDDCUT.........C   
+OL,7,F04:50 FMeteo (W)...................C   
+OL,8,       FSp{tausgabeCDDCUT               
+OL,9,G04:55 GSportflash (W)..............C730
+OL,10,       GDie Sportnews des TagesCDD      
+OL,11,F05:05 F10 vor 10 (W)CDDCUT.........C   
+OL,12,G05:30 GTelesguard (W)CDDCUT........C731
+OL,13,F05:40 FSchweiz aktuell (W)CDDCUT...C765
+OL,14,G06:00 GSportflash (W)..............C737
+OL,15,       GDie Sportnews des TagesCDD      
+OL,16,F06:10 FSchweiz aktuell (W)CDDCUT...C738
+OL,17,G06:30 GSportflash (W)..............C739
+OL,18,       GDie Sportnews des TagesCDD      
+OL,19,F06:40 FSchweiz aktuell (W)CDDCUT...C740
+OL,20,G07:05 GSportflash (W)..............C741
+OL,21,       GDie Sportnews des TagesCDD      
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

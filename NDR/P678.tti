@@ -3,7 +3,7 @@ PN,67801
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G678FNDR TEXT GDo 19.11.B01:11:34
+OL,0,       G678FNDR TEXT GDo 19.11.B02:11:12
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD LUFTG]TEDATEN               
@@ -11,15 +11,15 @@ OL,4,F]T  %D     Hamburg
 OL,5, EINSTUNDENMITTEL F]R OZON UND NO2 UND  
 OL,6, GESTRIGE FEINSTAUB-TAGESMITTEL (PM10)  
 OL,7, in Mikrogramm je Kubikmeter Luft       
-OL,9,FStand: 18. November 2026    24:00 Uhr  
+OL,9,FStand: 19. November 2026    01:00 Uhr  
 OL,10, STATION            OZON    NO2   PM10  
 OL,11, -------------------------------------  
-OL,12,FAltona Elbhang        -      5      5  
-OL,13, Bergstedt            40      2      -  
+OL,12,FAltona Elbhang        -      9      5  
+OL,13, Bergstedt            36      2      -  
 OL,14,FFinkenwerder Airbus   -      2      -  
 OL,15, Finkenwerder West     -      7      4  
-OL,16,FFlughafen            46      4      4  
-OL,17, Habichtstra~e         -      8      6  
+OL,16,FFlughafen            46      2      4  
+OL,17, Habichtstra~e         -      7      6  
 OL,18,FKieler Stra~e         -      7      6  
 OL,23,D]G673<                      BREMEN >679
 OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
@@ -28,7 +28,7 @@ PN,67802
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G678FNDR TEXT GDo 19.11.B01:11:34
+OL,0,       G678FNDR TEXT GDo 19.11.B02:11:12
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD LUFTG]TEDATEN               
@@ -36,16 +36,16 @@ OL,4,F]T  %D     Hamburg
 OL,5, EINSTUNDENMITTEL F]R OZON UND NO2 UND  
 OL,6, GESTRIGE FEINSTAUB-TAGESMITTEL (PM10)  
 OL,7, in Mikrogramm je Kubikmeter Luft       
-OL,9,FStand: 18. November 2026    24:00 Uhr  
+OL,9,FStand: 19. November 2026    01:00 Uhr  
 OL,10, STATION            OZON    NO2   PM10  
 OL,11, -------------------------------------  
-OL,12,FMax-Brauer-Allee      -      8      6  
-OL,13, Neugraben            46      2      4  
-OL,14,FNiendorf              -      6      5  
-OL,15, Sternschanze         46      2      5  
-OL,16,FStresemannstra~e      -      9      6  
-OL,17, Veddel                -     14      5  
-OL,18,FWilhelmsburg         25     25      5  
+OL,12,FMax-Brauer-Allee      -      9      6  
+OL,13, Neugraben            44      2      4  
+OL,14,FNiendorf              -      5      5  
+OL,15, Sternschanze         45      5      5  
+OL,16,FStresemannstra~e      -     11      6  
+OL,17, Veddel                -     20      5  
+OL,18,FWilhelmsburg         27     20      5  
 OL,21, Internet:  https://luft.hamburg.de     
 OL,23,D]G673<                      BREMEN >679
 OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
