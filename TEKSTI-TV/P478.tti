@@ -3,8 +3,8 @@ PN,47801
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G478 YLE TEKSTI-TV 19.03.22:55:22
-OL,1,D]G      Futisvakio 6 KRS 47       1/3  
+OL,0,       G478 YLE TEKSTI-TV 20.03.17:42:28
+OL,1,D]G      Futisvakio 6 KRS 47       1/4  
 OL,2,B        TULOKSET 18.11.2026            
 OL,3,  1 Irlanti U21  - Suomi U21   B  2-1 1 
 OL,4,  2 Tanska       - Norja       B  2-3 2 
@@ -33,8 +33,8 @@ PN,47802
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G478 YLE TEKSTI-TV 19.03.22:55:22
-OL,1,D]G      L{tk{vakio 7 KRS 47       2/3  
+OL,0,       G478 YLE TEKSTI-TV 20.03.17:42:28
+OL,1,D]G      L{tk{vakio 7 KRS 47       2/4  
 OL,2,B        TULOKSET 19.11.2026            
 OL,3,  1 KalPa        - Lukko       B  3-7 2 
 OL,4,  2 K-Espoo      - Ilves       B  2-5 2 
@@ -63,8 +63,8 @@ PN,47803
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G478 YLE TEKSTI-TV 19.03.22:55:22
-OL,1,D]G      Futisvakio 8 KRS 47       3/3  
+OL,0,       G478 YLE TEKSTI-TV 20.03.17:42:28
+OL,1,D]G      Futisvakio 8 KRS 47       3/4  
 OL,2,B        TULOKSET 19.11.2026            
 OL,3,  1 Portugalete  - Real Union  B  0-0 X 
 OL,4,  2 Utebo FC     - Sabadell    B  0-3 2 
@@ -87,5 +87,35 @@ OL,20,BVoitonjako:G12 oikein    550,16 E (12)
 OL,21,G            11 oikein     24,57 E      
 OL,22,G            10 oikein      3,07 E      
 OL,23,BMinivakio: G7 oikein      88,52 E (23) 
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47804
+SC,0004
+PS,C100
+CT,10,T
+OL,0,       G478 YLE TEKSTI-TV 20.03.17:42:28
+OL,1,D]G       NHL-Vakio 9 KRS 47       4/4  
+OL,2,B        TULOKSET 20.11.2026            
+OL,3,  1 Carolina     - Montreal    B  1-1 X 
+OL,4,  2 Tampa Bay    - Edmonton    B  3-1 1 
+OL,5,  3 Washington   - Buffalo     B  3-6 2 
+OL,6,B-------------------------------------- 
+OL,7,  4 Pittsburgh   - St.Louis    B  2-5 2 
+OL,8,  5 Ottawa       - PhiladelphiaB  5-5 X 
+OL,9,  6 Toronto      - Los Angeles B  3-3 X 
+OL,10,B-------------------------------------- 
+OL,11,  7 Winnipeg     - NY IslandersB  3-3 X 
+OL,12,  8 Calgary      - Minnesota   B  1-4 2 
+OL,13,  9 Chicago      - Columbus    B  2-4 2 
+OL,14,B-------------------------------------- 
+OL,15, 10 Colorado     - Anaheim     B  4-0 1 
+OL,16, 11 Seattle      - Vancouver   B  5-1 1 
+OL,17, 12 Vegas        - Dallas      B  3-3 X 
+OL,18,FKohteet 1 - 7 Minivakiota              
+OL,19,K                                       
+OL,20,BVoitonjako:G12 oikein   6 804,12 E (1) 
+OL,21,G            11 oikein     438,97 E     
+OL,22,G            10 oikein      43,27 E     
+OL,23,BMinivakio: G7 oikein      415,05 E (5) 
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

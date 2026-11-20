@@ -3,7 +3,7 @@ PN,59101
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G591 YLE TEKSTI-TV 20.03.01:57:22
+OL,0,       G591 YLE TEKSTI-TV 20.03.17:45:00
 OL,1,C]A      D X - K U U N T E L U      1/7 
 OL,2,C]D        Suomen DX-Liitto ry          
 OL,3,K                                       
@@ -33,7 +33,7 @@ PN,59102
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G591 YLE TEKSTI-TV 20.03.01:57:22
+OL,0,       G591 YLE TEKSTI-TV 20.03.17:45:00
 OL,1,F]A   D X - K U U N T E L U         2/7 
 OL,2,G31.8.                                  
 OL,3,K                                       
@@ -63,7 +63,7 @@ PN,59103
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G591 YLE TEKSTI-TV 20.03.01:57:22
+OL,0,       G591 YLE TEKSTI-TV 20.03.17:45:00
 OL,1,C]   AD X  -  K U U N T E L U       3/7 
 OL,2,G]DRADIOMAAILMAN UUTISIA (UTC= SA -2 h) 
 OL,3,K                                       
@@ -93,7 +93,7 @@ PN,59104
 SC,0004
 PS,C100
 CT,10,T
-OL,0,       G591 YLE TEKSTI-TV 20.03.01:57:22
+OL,0,       G591 YLE TEKSTI-TV 20.03.17:45:00
 OL,1,C]   AD X  -  K U U N T E L U       4/7 
 OL,2,G] DKUUNTELUVIHJEIT[   (UTC = SA -2 h)  
 OL,3,FUTC     kHz asema, l{hetinpaikkakunta  
@@ -123,7 +123,7 @@ PN,59105
 SC,0005
 PS,C100
 CT,10,T
-OL,0,       G591 YLE TEKSTI-TV 20.03.01:57:22
+OL,0,       G591 YLE TEKSTI-TV 20.03.17:45:00
 OL,1,C]     AD X - K U U N T E L U       5/7 
 OL,2,G]DKAUKOKUUNTELIJOIDEN KOKOONTUMISIA    
 OL,3,CLAHTI:GPaikallistoiminnasta infoa      
@@ -153,29 +153,29 @@ PN,59106
 SC,0006
 PS,C100
 CT,10,T
-OL,0,       G591 YLE TEKSTI-TV 20.03.01:57:22
-OL,1,COLL LOKAUKSIA 20/11/2026 0055 UTC      
-OL,2,G 750 19 1232 ALS: KFQD Anchorage AK    
-OL,3,G 930 19 1200 ALS: KNSA Unalakleet AK   
-OL,4,G 920 19 1159 ALS: KSRM Soldotna        
-OL,5,G1340 19 1159 USA: KATA Arcata CA       
-OL,6,G 660 19 1154 ALS: KFAR Fairbanks AK    
-OL,7,G 780 19 1150 ALS: KNOM Nome AK         
-OL,8,G 790 19 1145 ALS: KCAM Glennallen AK   
-OL,9,G1090 19 0802 USA: KBOZ Bozeman MT      
-OL,10,G1060 19 0800 USA: KDYL South Salt Lake 
-OL,11,G1230 19 0800 USA: KXLO Lewiston MT     
-OL,12,G1330 19 0800 USA: KOVE Lander WY       
-OL,13,G 960 19 0759 USA: KLAD Klamath Falls OR
-OL,14,G1450 19 0759 USA: KGRZ Missoula MT     
-OL,15,G1460 19 0759 USA: KZNT Colorado Springs
-OL,16,G1290 19 0000 USA: WDZY Colonial Heights
-OL,17,G1570 19 0000 USA: WTWB Auburndale FL   
-OL,18,G1590 19 0000 USA: WPVL Platteville WI  
-OL,19,G4835 18 1925 AUS: Shortwave Australia, 
-OL,20,G1670 18 0602 MEX: XEFCR Focus R, Reynos
-OL,21,G1540 18 0601 MEX: XESTN La Octava, Mont
-OL,22,CTnx! TUL JKZ AIH ARK ARS               
+OL,0,       G591 YLE TEKSTI-TV 20.03.17:45:00
+OL,1,COLL LOKAUKSIA 20/11/2026 1640 UTC      
+OL,2,A5055 20 1606 AUS: R 4DX, Innisfail QLD 
+OL,3,G 910 20 1259 USA: KMTT Vancouver WA    
+OL,4,G 873 20 0630 G: BBC R Norfolk, West Lyn
+OL,5,G1413 20 0600 G: BBC R Gloucestershire  
+OL,6,G1116 20 0559 G: BBC R Derby, Burnaston 
+OL,7,G 837 20 0552 G: BBC Cumbria, Barrow-in-
+OL,8,G1566 20 0548 G: BBC Somerset, Taunton  
+OL,9,G1440 20 0530 DOM: HIAK R Impactante, Sa
+OL,10,G1260 20 0100 PAK: R Pakistan, Peshawar 
+OL,11,G1251 20 0100 TJK: BBC Yangiyul         
+OL,12,G 750 19 1232 ALS: KFQD Anchorage AK    
+OL,13,G 930 19 1200 ALS: KNSA Unalakleet AK   
+OL,14,G 920 19 1159 ALS: KSRM Soldotna        
+OL,15,G1340 19 1159 USA: KATA Arcata CA       
+OL,16,G 660 19 1154 ALS: KFAR Fairbanks AK    
+OL,17,G 780 19 1150 ALS: KNOM Nome AK         
+OL,18,G 790 19 1145 ALS: KCAM Glennallen AK   
+OL,19,G1090 19 0802 USA: KBOZ Bozeman MT      
+OL,20,G1060 19 0800 USA: KDYL South Salt Lake 
+OL,21,G1230 19 0800 USA: KXLO Lewiston MT     
+OL,22,CTnx! ARK AIH JP PEH PUL TUL JKZ        
 OL,23,CL{hde https://log.hard-core-dx.com     
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -183,8 +183,8 @@ PN,59107
 SC,0007
 PS,C100
 CT,10,T
-OL,0,       G591 YLE TEKSTI-TV 20.03.01:57:22
-OL,1,COLL LOKAUKSIA 20/11/2026 0055 UTC      
+OL,0,       G591 YLE TEKSTI-TV 20.03.17:45:00
+OL,1,COLL LOKAUKSIA 20/11/2026 1640 UTC      
 OL,2,G 98.6 14 0748 ROU: Romantic FM         
 OL,3,G 99.3 13 1155 D: rbb Reins Belzig (brb)
 OL,4,G106.2 28 1610 S: R Aftonbladet         

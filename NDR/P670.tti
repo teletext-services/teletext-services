@@ -3,23 +3,23 @@ PN,67001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G670FNDR TEXT GFr 20.11.B04:02:45
+OL,0,       G670FNDR TEXT GFr 20.11.B13:40:29
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTER                      
 OL,4,F]T  %D     Seewetter Nordsee/Ostsee    
-OL,5, Stand: 19.11.2026             19:00 Uhr
+OL,5, Stand: 20.11.2026             09:00 Uhr
 OL,7,FVorhersage          Wind (Bft)    See- 
-OL,8,Ff}r Fr, 12 Uhr      St{rke B|en   gang 
-OL,10, Nordfriesische NW      5    6    0,4 m 
+OL,8,Ff}r Sa, 00 Uhr      St{rke B|en   gang 
+OL,10, Nordfriesische NW      5    6    0,5 m 
 OL,11, Inseln             Wasser:  8 C        
-OL,12,FElbm}ndung bis W       5         0,8 m 
+OL,12,FElbm}ndung bis NW      5    6    1,5 m 
 OL,13,FHelgoland          Wasser:  9 C        
-OL,14, Elbe v.Hamburg W     4-5         0,4 m 
+OL,14, Elbe v.Hamburg NW      5    6    0,5 m 
 OL,15, bis Cuxhaven       Wasser:  8 C        
-OL,16,FOstfriesische  W-NW    4         0,5 m 
+OL,16,FOstfriesische  NW      5    6    1,3 m 
 OL,17,FInseln             Wasser: 10 C        
-OL,19, Steinhuder     NW      1               
+OL,19, Steinhuder     W       3               
 OL,20, Meer               Wasser:  7 C        
 OL,21,FM}ritz         W-SW    2               
 OL,22,F                   Wasser:  6 C        
@@ -30,28 +30,28 @@ PN,67002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G670FNDR TEXT GFr 20.11.B04:02:45
+OL,0,       G670FNDR TEXT GFr 20.11.B13:40:29
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTER                      
 OL,4,F]T  %D     Seewetter Nordsee/Ostsee    
-OL,5, Stand: 19.11.2026             19:00 Uhr
+OL,5, Stand: 20.11.2026             09:00 Uhr
 OL,7,FVorhersage          Wind (Bft)     See-
-OL,8,Ff}r Fr, 12 Uhr      St{rke B|en    gang
-OL,9, Schleim}ndung  W     4-5         0,7 m 
+OL,8,Ff}r Sa, 00 Uhr      St{rke B|en    gang
+OL,9, Schleim}ndung  W-NW    5    7    0,5 m 
 OL,10, bis F}nen          Wasser:  8 C        
-OL,11,FEckernf|rder-  W-SW    5    6    0,7 m 
-OL,12,Fu Kieler Bucht     Wasser:  8 C        
-OL,13, L}becker       W-SW    5    6    0,6 m 
-OL,14, Bucht              Wasser:  8 C        
-OL,15,FMecklenburger  W-SW    5    6    0,9 m 
+OL,11,FEckernf|rder-  W-NW  4-5    6    0,5 m 
+OL,12,Fu Kieler Bucht     Wasser:  6 C        
+OL,13, L}becker       W-NW  4-5         0,4 m 
+OL,14, Bucht              Wasser:  9 C        
+OL,15,FMecklenburger  W       4         0,6 m 
 OL,16,FBucht              Wasser:  8 C        
-OL,17, Boddengew{sser W     5-6    6    0,9 m 
-OL,18, westlich R}gen     Wasser:  9 C        
-OL,19,FGreifsw.Bodden W       5    6    0,8 m 
+OL,17, Boddengew{sser W-NW    4         0,5 m 
+OL,18, westlich R}gen     Wasser:  8 C        
+OL,19,FGreifsw.Bodden W-NW    4         0,6 m 
 OL,20,Fbis Usedom         Wasser:  8 C        
-OL,21, Stett.Haff     W     4-5               
-OL,22,                    Wasser:  8 C        
+OL,21, Stett.Haff     W       4               
+OL,22,                    Wasser:  7 C        
 OL,23,D]G650<                    Pegel >671 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

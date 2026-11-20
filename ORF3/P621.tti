@@ -3,24 +3,24 @@ PN,62101
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G621FORF IIIGFr 20.11.26 02:44:13
+OL,0,       G621FORF IIIGFr 20.11.26 14:42:35
 OL,1,A]G                                Ozon 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       1/9  
 OL,4,FNordost|sterreich - Wien, N\, Nord-    
 OL,5,Fund Mittelburgenland                   
-OL,6,G20.11.,02:00                           
+OL,6,G20.11.,14:00                           
 OL,7,CWert Station                 Tagesmax. 
-OL,8,G 82 Wiener Neustadt/N         84 00:00 
-OL,9,F 67 Wiesmath/N                83 00:00 
-OL,10,G 79 Annaberg/N                79 01:00 
-OL,11,F 75 Bad V|slau/N              78 00:00 
-OL,12,G 78 Liesing - Gewerbegebiet   78 02:00 
-OL,13,F 78 Stephansdom/W             78 01:00 
-OL,14,G 77 Schwechat/N               77 01:00 
-OL,15,F 75 Himberg/N                 76 01:00 
-OL,16,G 74 M|dling/N                 76 01:00 
-OL,17,F 76 Schafberg                 76 02:00 
+OL,8,G 82 Schafberg                 85 11:00 
+OL,9,F 78 Annaberg/N                84 09:00 
+OL,10,G 79 Wiener Neustadt/N         84 00:00 
+OL,11,F -  Wiesmath/N                83 00:00 
+OL,12,G 78 Himberg/N                 82 12:00 
+OL,13,F 82 Kematen an der Ybbs/N     82 14:00 
+OL,14,G 76 Liesing - Gewerbegebiet   82 11:00 
+OL,15,F 77 Lobau/W                   82 11:00 
+OL,16,G 80 Stephansdom/W             82 11:00 
+OL,17,F 78 Kittsee/B                 81 13:00 
 OL,19,GEinstundenmittelwerte in ug/m3,        
 OL,20,GErstellt aus ungesichteten Daten (1.von
 OL,21,G4 Kontrollstufen) vom Umweltbundesamt  
@@ -31,24 +31,24 @@ PN,62102
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G621FORF IIIGFr 20.11.26 02:44:13
+OL,0,       G621FORF IIIGFr 20.11.26 14:42:35
 OL,1,A]G                                Ozon 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       2/9  
 OL,4,FS}d- und Oststeiermark und s}dliches   
 OL,5,FBurgenland                             
-OL,6,G20.11.,02:00                           
+OL,6,G20.11.,14:00                           
 OL,7,CWert Station                 Tagesmax. 
-OL,8,G 78 Rennfeld/St               79 00:00 
-OL,9,F 62 Masenberg/St              65 00:00 
-OL,10,G 56 Kl|ch/St                  57 01:00 
-OL,11,F 40 Arnfels/St                44 00:00 
-OL,12,G 37 Deutschlandsberg/St       38 00:00 
-OL,13,F -  F}rstenfeld/St            38 01:00 
-OL,14,G 25 M}rzzuschlag/St           36 00:00 
-OL,15,F 23 Graz Lustb}hel/St         23 02:00 
-OL,16,G 22 Weiz Bahnhofstra~e/St     22 02:00 
-OL,17,F 14 Leoben/St                 21 01:00 
+OL,8,G 79 Rennfeld/St               86 11:00 
+OL,9,F 75 Masenberg/St              76 13:00 
+OL,10,G -  Kl|ch/St                  57 01:00 
+OL,11,F 44 Weiz Bahnhofstra~e/St     53 13:00 
+OL,12,G 51 K|flach                   51 14:00 
+OL,13,F 42 Arnfels/St                45 05:00 
+OL,14,G 23 Graz Lustb}hel/St         38 03:00 
+OL,15,F 20 Deutschlandsberg/St       38 00:00 
+OL,16,G 10 F}rstenfeld/St            38 01:00 
+OL,17,F -  M}rzzuschlag/St           36 00:00 
 OL,19,GEinstundenmittelwerte in ug/m3,        
 OL,20,GErstellt aus ungesichteten Daten (1.von
 OL,21,G4 Kontrollstufen) vom Umweltbundesamt  
@@ -59,23 +59,23 @@ PN,62103
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G621FORF IIIGFr 20.11.26 02:44:13
+OL,0,       G621FORF IIIGFr 20.11.26 14:42:35
 OL,1,A]G                                Ozon 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       3/9  
 OL,4,FOber|sterreich und n|rdliches Salzburg 
-OL,6,G20.11.,02:00                           
+OL,6,G20.11.,14:00                           
 OL,7,CWert Station                 Tagesmax. 
-OL,8,G 83 Feuerkogel/O              84 00:00 
-OL,9,F 75 St. Koloman/S             80 00:00 
-OL,10,G 80 Zoebelboden/O             80 00:00 
-OL,11,F 79 Wels/O                    79 02:00 
-OL,12,G 79 Haunsberg/S               79 01:00 
-OL,13,F 75 Traun/O                   75 02:00 
-OL,14,G 75 Lenzing Hauptstra~e       75 02:00 
-OL,15,F 73 V|cklabruck               73 02:00 
-OL,16,G 71 Steyr/O                   73 01:00 
-OL,17,F 72 Enzenkirchen/O            72 02:00 
+OL,8,G 90 Feuerkogel/O              90 14:00 
+OL,9,F 75 St. Koloman/S             86 08:00 
+OL,10,G 86 Haunsberg/S               86 14:00 
+OL,11,F 84 Zoebelboden/O             84 14:00 
+OL,12,G 77 Wels/O                    81 05:00 
+OL,13,F -  Steyr/O                   81 12:00 
+OL,14,G 78 Lenzing Hauptstra~e       80 04:00 
+OL,15,F 45 Hallein Winterstall/S     80 08:00 
+OL,16,G 79 Enzenkirchen/O            79 14:00 
+OL,17,F 75 Traun/O                   77 04:00 
 OL,19,GEinstundenmittelwerte in ug/m3,        
 OL,20,GErstellt aus ungesichteten Daten (1.von
 OL,21,G4 Kontrollstufen) vom Umweltbundesamt  
@@ -86,19 +86,19 @@ PN,62104
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G621FORF IIIGFr 20.11.26 02:44:13
+OL,0,       G621FORF IIIGFr 20.11.26 14:42:35
 OL,1,A]G                                Ozon 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       4/9  
 OL,4,FPinzgau, Pongau, Steiermark n|rdlich   
 OL,5,Fder Niederen Tauern)                   
-OL,6,G20.11.,02:00                           
+OL,6,G20.11.,14:00                           
 OL,7,CWert Station                 Tagesmax. 
-OL,8,G 89 Sonnblick/S               89 00:00 
-OL,9,F -  Grundlsee/St              64 01:00 
-OL,10,G -  Liezen Pyhrnbach/St       24 00:00 
-OL,11,F 17 Zell am See Freizeitzent  22 01:00 
-OL,12,G 11 St. Johann i.Pongau/S     11 02:00 
+OL,8,G 93 Sonnblick/S               94 09:00 
+OL,9,F 70 Grundlsee/St              70 14:00 
+OL,10,G 32 Zell am See Freizeitzent  32 14:00 
+OL,11,F 32 Liezen Pyhrnbach/St       32 14:00 
+OL,12,G 25 St. Johann i.Pongau/S     25 14:00 
 OL,19,GEinstundenmittelwerte in ug/m3,        
 OL,20,GErstellt aus ungesichteten Daten (1.von
 OL,21,G4 Kontrollstufen) vom Umweltbundesamt  
@@ -109,21 +109,21 @@ PN,62105
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       G621FORF IIIGFr 20.11.26 02:44:13
+OL,0,       G621FORF IIIGFr 20.11.26 14:42:35
 OL,1,A]G                                Ozon 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       5/9  
 OL,4,FNordtirol                              
-OL,6,G20.11.,02:00                           
+OL,6,G20.11.,14:00                           
 OL,7,CWert Station                 Tagesmax. 
-OL,8,G -  Nordkette/T               90 00:00 
-OL,9,F 85 St. Anton am Arlberg - G  87 01:00 
-OL,10,G 52 Innsbruck Sadrach/T       52 02:00 
-OL,11,F 47 H|fen L{rchbichl/T        47 02:00 
-OL,12,G -  Heiterwang/T              40 01:00 
-OL,13,F  6 Kufstein Festung/T         7 01:00 
-OL,14,G -  Kramsach Angerberg/T       5 01:00 
-OL,15,F -1 Innsbruck Reichenau/T     -1 02:00 
+OL,8,G 94 Nordkette/T               99 08:00 
+OL,9,F 89 St. Anton am Arlberg - G  94 07:00 
+OL,10,G 73 Innsbruck Sadrach/T       73 14:00 
+OL,11,F 73 Heiterwang/T              73 14:00 
+OL,12,G 69 H|fen L{rchbichl/T        69 13:00 
+OL,13,F 61 Innsbruck Reichenau/T     61 14:00 
+OL,14,G 20 Kufstein Festung/T        25 13:00 
+OL,15,F 10 Kramsach Angerberg/T      24 12:00 
 OL,19,GEinstundenmittelwerte in ug/m3,        
 OL,20,GErstellt aus ungesichteten Daten (1.von
 OL,21,G4 Kontrollstufen) vom Umweltbundesamt  
@@ -134,13 +134,17 @@ PN,62106
 SC,0006
 PS,C200
 CT,10,T
-OL,0,       G621FORF IIIGFr 20.11.26 02:44:13
+OL,0,       G621FORF IIIGFr 20.11.26 14:42:35
 OL,1,A]G                                Ozon 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       6/9  
 OL,4,FVorarlberg                             
-OL,6,G20.11.,02:00                           
+OL,6,G20.11.,14:00                           
 OL,7,CWert Station                 Tagesmax. 
+OL,8,G -  Sulzberg/V                86 06:00 
+OL,9,F -  Lustenau/V                81 03:00 
+OL,10,G -  Bludenz/V                 54 13:00 
+OL,11,F -  Wald am Arlberg/V         54 13:00 
 OL,19,GEinstundenmittelwerte in ug/m3,        
 OL,20,GErstellt aus ungesichteten Daten (1.von
 OL,21,G4 Kontrollstufen) vom Umweltbundesamt  
@@ -151,23 +155,23 @@ PN,62107
 SC,0007
 PS,C200
 CT,10,T
-OL,0,       G621FORF IIIGFr 20.11.26 02:44:14
+OL,0,       G621FORF IIIGFr 20.11.26 14:42:35
 OL,1,A]G                                Ozon 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       7/9  
 OL,4,FK{rnten und Osttirol                   
-OL,6,G20.11.,02:00                           
+OL,6,G20.11.,14:00                           
 OL,7,CWert Station                 Tagesmax. 
-OL,8,G 91 Gerlitzen/K               95 00:00 
-OL,9,F 66 Vorhegg/K                 66 02:00 
-OL,10,G 63 Kraiger Berg              63 00:00 
-OL,11,F 33 Obervellach/K             34 01:00 
-OL,12,G 31 Arnoldstein/K             31 02:00 
-OL,13,F 25 St.Georgen-Herzogberg/K   29 01:00 
-OL,14,G 23 Klagenfurt Kreuzbergl/K   24 00:00 
-OL,15,F 21 Klagenfurt Sterneckstra~  21 02:00 
-OL,16,G 14 Lienz Tristacher-See-Str  14 02:00 
-OL,17,F 11 Spittal a.d.Drau/K        11 02:00 
+OL,8,G 80 Gerlitzen/K               95 00:00 
+OL,9,F 34 Vorhegg/K                 66 03:00 
+OL,10,G 51 Kraiger Berg              63 00:00 
+OL,11,F 29 Obervellach/K             38 13:00 
+OL,12,G 32 St.Georgen-Herzogberg/K   35 12:00 
+OL,13,F 23 Klagenfurt Kreuzbergl/K   31 07:00 
+OL,14,G 29 Arnoldstein/K             31 02:00 
+OL,15,F 23 Klagenfurt Sterneckstra~  25 06:00 
+OL,16,G 22 Wolfsberg/K               25 12:00 
+OL,17,F 25 Lienz Tristacher-See-Str  25 06:00 
 OL,19,GEinstundenmittelwerte in ug/m3,        
 OL,20,GErstellt aus ungesichteten Daten (1.von
 OL,21,G4 Kontrollstufen) vom Umweltbundesamt  
@@ -178,17 +182,17 @@ PN,62108
 SC,0008
 PS,C200
 CT,10,T
-OL,0,       G621FORF IIIGFr 20.11.26 02:44:14
+OL,0,       G621FORF IIIGFr 20.11.26 14:42:35
 OL,1,A]G                                Ozon 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       8/9  
 OL,4,FLungau und oberes Murtal               
-OL,6,G20.11.,02:00                           
+OL,6,G20.11.,14:00                           
 OL,7,CWert Station                 Tagesmax. 
-OL,8,G 81 Grebenzen/St              81 02:00 
-OL,9,F 32 Judenburg/St              32 02:00 
-OL,10,G 19 Tamsweg/S                 23 00:00 
-OL,11,F 18 Zederhaus Lamm            18 02:00 
+OL,8,G 77 Grebenzen/St              84 07:00 
+OL,9,F 15 Judenburg/St              32 02:00 
+OL,10,G 16 Zederhaus Lamm            25 04:00 
+OL,11,F 16 Tamsweg/S                 23 00:00 
 OL,19,GEinstundenmittelwerte in ug/m3,        
 OL,20,GErstellt aus ungesichteten Daten (1.von
 OL,21,G4 Kontrollstufen) vom Umweltbundesamt  
@@ -199,7 +203,7 @@ PN,62109
 SC,0009
 PS,C200
 CT,10,T
-OL,0,       G621FORF IIIGFr 20.11.26 02:44:14
+OL,0,       G621FORF IIIGFr 20.11.26 14:42:35
 OL,1,A]G                                Ozon 
 OL,2,A]GWETTER  ]A            Erl{uterungen \
 OL,3,Q##########G                       9/9  

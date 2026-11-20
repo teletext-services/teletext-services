@@ -1,23 +1,64 @@
 DE,FORUM64 116
-PN,11600
-SC,0000
-PS,8200
+PN,11601
+SC,0001
+PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F13:17:19
+OL,0,         GFORUM64   GFr 20 Nov F12:23:36
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EMimic - Multiplatform                  
-OL,3,EEmulator/RemoteDebugger                
-OL,5,CAntwort:  Bdrazil                      
-OL,6,CComments: B72                          
+OL,2,EU64 Elite II/C64U custom Firmware mit  
+OL,3,Eintegrierter WiC64 Unterst}tzung       
+OL,5,CAntwort:  Bquadflyer8                  
+OL,6,CComments: B60                          
 OL,7,F                                       
-OL,8,FIns n{chste Release kommen auch Sprite 
-OL,9,Fand Rasterline DebugOptions.           
-OL,11,FDiese waren zwar schon drin aber nicht 
-OL,12,Fim Desktop sichtbar                    
-OL,14,CErster Beitrag:                        
-OL,16,GHier werde ich dann so nach und nach   
-OL,17,Gdie neuen Plattformen vorstellen die   
-OL,18,Gder Emulator unterst}tzt. ROM's        
-OL,19,Gvorausgesetzt                          
-OL,24,D]FForum64.de RSS feed                  
+OL,8,Fbin im WIC64 messageboard erfolgreich  
+OL,9,Fmit dem miSTer Core / mit WIC64        
+OL,10,Feingebaut von @sanstarr .              
+OL,12,FSauber... :))))))))                    
+OL,14,Fweitere Tests aber sp{ter, muss los... 
+OL,16,CErster Beitrag:                        
+OL,18,GNach einer Testphase habe ich mich     
+OL,19,Gentschlossen, eine Alpha Version der   
+OL,20,GU64 E-II cfw zur Unterst}tzung eines   
+OL,21,GSoftware-WiC64 zum testen rauszugeben. 
+OL,23,GGetestet bisher auf Ultimate64 Elite II
+OL,24,D]FForum64.de RSS feed            (1/3) 
+FL,0,0,0,0,0,100
+PN,11602
+SC,0002
+PS,C200
+CT,10,T
+OL,0,         GFORUM64   GFr 20 Nov F12:23:36
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,Gmit Firmware 3.15a. Theoretisch sollte 
+OL,4,Ges auch auf einem C64 Ultimate laufen, 
+OL,5,Gaber dies wurde nicht getestet bisher. 
+OL,6,GAuf {ltern Ultimate64 Ger{ten d}rfte es
+OL,7,Gnicht laufen.                          
+OL,9,GBei dieser Firmware handelt es sich    
+OL,10,G(solange sie noch nicht endg}ltig ist) 
+OL,11,Gum eine tempor{re Firmware, d.h., mit  
+OL,12,Gdem Ausschalten des Ultimate64 ist sie 
+OL,13,Gwieder entfernt und muss bei Bedarf    
+OL,14,Gwieder neu geladen werden. Tempor{r    
+OL,15,Ginstalliert wird die Firmware durch    
+OL,16,Gausf}hren der Datei RAM_WiC64.cfw.     
+OL,17,GDanach findet man unter dem F5 Men} den
+OL,18,GEintrag WiC64. Dort kann es gestartet  
+OL,19,Gund gestoppt werden usw. Auch das      
+OL,20,GPortal kann direkt aus diesem Men}     
+OL,21,Gheraus gestartet werden. Man kann aber 
+OL,22,Gauch ganz normal den Launcher vom WiC64
+OL,23,Gladen und benutzen.                    
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,11603
+SC,0003
+PS,C200
+CT,10,T
+OL,0,         GFORUM64   GFr 20 Nov F12:23:36
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GProbleme gibt es derzeit noch bei TLS  
+OL,4,G(HTTPS), da dies aktuell noch zu       
+OL,5,Glangsam ist. Ich hoffe, dass da        
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

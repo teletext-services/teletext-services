@@ -3,28 +3,28 @@ PN,30101
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G301 YLE TEKSTI-TV 19.03.18:12:36
+OL,0,       G301 YLE TEKSTI-TV 20.03.17:38:04
 OL,1,A]         C]                   A   1/2 
-OL,2,A]CTV1     C]A    Torstai 19.11.        
+OL,2,A]CTV1     C]A    Perjantai 20.11.      
 OL,3,Q#########^S############################
-OL,4, 18.00GYle Uutiset 18.00ETBA            
-OL,5, 18.21GPuoli7 t{n{{nET                  
-OL,6, 18.23GYle Uutiset alueeltasi           
-OL,7, 18.30GPuoli seitsem{nBAC>352           
-OL,8, 19.00GOuto historiaG(7)ETBAC>352       
-OL,9, 19.40GKovan viikon ilta: Kaikki muut   
-OL,10,      GuutisetET                        
-OL,11, 19.45GVihreit{ hampurilaisiaBAC>356    
-OL,12, 20.00GLinnaG(S)ETBAC>352               
-OL,13, 20.29GYle Uutiset 20.30FA              
-OL,14, 20.55GUrheiluruutuFA                   
-OL,15, 21.05GA-TalkFAC>356                    
-OL,16, 21.45GYle UutisetFA                    
-OL,17, 21.49GUrheiluruutuFA                   
-OL,18, 21.53GYle Uutiset Uutis-SuomiFA        
-OL,19, 22.01GUlkolinja: Viimeiset pelastajat  
-OL,20,      G(12)BAC>352                      
-OL,21, 22.55GOddasatFA                        
+OL,4, 17.07GMurha kaikilla mausteillaG(12)BA 
+OL,5,      C>351                             
+OL,6, 18.00GYle Uutiset 18.00ETBA            
+OL,7, 18.21GYle Uutiset alueeltasi           
+OL,8, 18.30GPuoli seitsem{n irtiFAC>352      
+OL,9, 19.00GTaiderikosten tutkijatG(12)BA    
+OL,10,      C>352                             
+OL,11, 19.45GLivet - suomenruotsalaisia       
+OL,12,      GtarinoitaBAC>356                 
+OL,13, 19.55GYle 100 -kunniavierasETC>352     
+OL,14, 20.00GUnohtumattomat - Muistikuoron    
+OL,15,      GmatkaG(7)ETBAC>352               
+OL,16, 20.29GYle Uutiset 20.30FA              
+OL,17, 20.55GUrheiluruutuFA                   
+OL,18, 21.05GSohvaperunatETFAC>352            
+OL,19, 21.55GYle UutisetFA                    
+OL,20, 21.59GUrheiluruutuFA                   
+OL,21, 22.03GYle Uutiset Uutis-SuomiFA        
 OL,22,ET = Tekstitys                          
 OL,23,BA = Jo Areenassa   FA = Tulee Areenaan 
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
@@ -33,18 +33,18 @@ PN,30102
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G301 YLE TEKSTI-TV 19.03.18:12:36
+OL,0,       G301 YLE TEKSTI-TV 20.03.17:38:04
 OL,1,A]         C]                   A   2/2 
-OL,2,A]CTV1     C]A    Torstai 19.11.        
+OL,2,A]CTV1     C]A    Perjantai 20.11.      
 OL,3,Q#########^S############################
-OL,4, 21.45GYle UutisetFA                    
-OL,5, 21.49GUrheiluruutuFA                   
-OL,6, 21.53GYle Uutiset Uutis-SuomiFA        
-OL,7, 22.01GUlkolinja: Viimeiset pelastajat  
-OL,8,      G(12)BAC>352                      
-OL,9, 22.55GOddasatFA                        
-OL,10, 23.05GVapautettu vankilastaG(16)BAC>352
-OL,11, 23.40GModernit miehetG(7)ETBAC>352     
+OL,4, 22.11GPerjantai-dokkariG(12)ETBAC>356  
+OL,5, 22.25GTaru Sormusten herrasta:         
+OL,6,      GMahtisormuksetG(12)BAC>352       
+OL,7, 23.25GOddasatFA                        
+OL,8, 23.35GSami Yaffa - Sound Tracker: Intia
+OL,9,      ETBAC>352                         
+OL,10,K                                       
+OL,11,K                                       
 OL,12,K                                       
 OL,13,K                                       
 OL,14,K                                       

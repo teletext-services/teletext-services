@@ -3,24 +3,23 @@ PN,61301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G613CORF SPORT+G20.11.26 02:31:28
+OL,0,       G613CORF SPORT+G20.11.26 14:47:45
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    1/4  
-OL,4, Vorhersage f}r den 20.11.2026,         
-OL,5, vom 19.11.2026, 1700 Uhr lct           
+OL,4, Vorhersage f}r den 21.11.2026,         
+OL,5, vom 20.11.2026, 1700 Uhr lct           
 OL,7,FWetterlage:                            
-OL,8, Die Alpennordseite befindet sich in    
-OL,9, einer st}rmischen Weststr|mung         
-OL,10, mit Zufuhr von feuchter und labil      
-OL,11, geschichteter Atlantikluft.            
+OL,8, Nach Durchzug einer Kaltfront beginnt  
+OL,9, es abzutrocknen. Mit der anhaltend     
+OL,10, kr{ftigen West- bis Nordweststr|mung   
+OL,11, bleibt es aber bei Nordstau.           
 OL,13,FWind freie Atmosph{re 1300 Uhr lct:    
-OL,14,  5000ft amsl 270/45kt                  
-OL,15, 10000ft amsl 270/40kt                  
-OL,16, 15000ft amsl 270/40kt                  
+OL,14,  5000ft amsl 260-320/15-35kt           
+OL,15, 10000ft amsl 280-310/25-50kt           
+OL,16, 15000ft amsl 290-320/25-45kt           
 OL,18,FNullgradgrenze:                        
-OL,19, Zwischen 6000 und 8000ft, in der Fr}h  
-OL,20, zus{tzlich am Boden.                   
+OL,19, Von Nord nach S}d 3000 bis 6000ft amsl.
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -28,25 +27,27 @@ PN,61302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G613CORF SPORT+G20.11.26 02:31:28
+OL,0,       G613CORF SPORT+G20.11.26 14:47:46
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    2/4  
-OL,4, Vorhersage f}r den 20.11.2026,         
-OL,5, vom 19.11.2026, 1700 Uhr lct           
+OL,4, Vorhersage f}r den 21.11.2026,         
+OL,5, vom 20.11.2026, 1700 Uhr lct           
 OL,7,FInformationen Instrumentenflug:        
-OL,8, ]ber Bergen unterhalb von FL130        
-OL,9, turbulent.                             
-OL,11,FInformationen Sichtflug:               
-OL,12, N|rdlich des Alpenhauptkamms           
-OL,13, }berwiegend starke, konvektiv          
-OL,14, durchsetzte Bew|lkung und h{ufig       
-OL,15, Regenschauer. Schneefallgrenze um      
-OL,16, 5000ft amsl. S}dlich des               
-OL,17, Alpenhauptkamms meist nur mittelhohe   
-OL,18, Bew|lkung und gute Sichten, nachdem    
-OL,19, sich die Nebel- und Stratusfelder am   
-OL,20, Vormittag aufgel|st haben.             
+OL,8, Alpennordseitig m{~ige Vereisung unter-
+OL,9, halb FL140 und teils starke Low-Level- 
+OL,10, Turbulenz.                             
+OL,12,FInformationen Sichtflug:               
+OL,13, Entlang und n|rdlich des Alpenhaupt-   
+OL,14, kamms kompakte, tiefbasige Bew|lkung.  
+OL,15, Bis Mittag h{ufig Regen, Schneefall-   
+OL,16, grenze bis unter 3000ft amsl. Am Nach- 
+OL,17, mittag nur noch im W Niederschl{ge,    
+OL,18, Berge und P{sse in Wolken. Von O\ bis  
+OL,19, ins Nordburgenland allm{hlich sonnig.  
+OL,20, Der S}den ist allgemein beg}nstigt,    
+OL,21, hier gibt es nach einigen Fr}hnebel-   
+OL,22, feldern tags}ber gutes Sichtflugwetter.
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -54,25 +55,23 @@ PN,61303
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G613CORF SPORT+G20.11.26 02:31:28
+OL,0,       G613CORF SPORT+G20.11.26 14:47:46
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    3/4  
-OL,4, Vorhersage f}r den 20.11.2026,         
-OL,5, vom 19.11.2026, 1700 Uhr lct           
+OL,4, Vorhersage f}r den 21.11.2026,         
+OL,5, vom 20.11.2026, 1700 Uhr lct           
 OL,7,FInformationen Thermik/Wellen:          
-OL,8, Am Alpenostrand bilden sich Wellen.    
-OL,10,FInformationen Ballonfahrten:           
-OL,11, Im S}den und S}dosten in der Fr}h      
-OL,12, ausgepr{gte Bodeninversion sowie auch  
-OL,13, tags}ber generell schwacher Wind.      
-OL,14, N|rdlich der Alpen hingegen st}rmischer
-OL,15, Westwind und Regen.                    
-OL,17,FVorschau f}r Samstag, den 21.11.:      
-OL,18, Entlang und n|rdlich des               
-OL,19, Alpenhauptkamms kompakte, tiefbasige   
-OL,20, und h{ufig Regen, Schneefallgrenze um  
-OL,21, 3000ft amsl. Der S}den ist beg}nstigt. 
+OL,8, Am Alpenostrand und alpens}dseitig     
+OL,9, hochreichende Wellen.                  
+OL,11,FInformationen Ballonfahrten:           
+OL,12, Oft zu windig, am ehesten in K{rnten   
+OL,13, planbare Bedingungen.                  
+OL,15,FVorschau f}r Sonntag, den 22.11.:      
+OL,16, Die Okklusion eines Italientiefs greift
+OL,17, im Tagesverlauf auf die Alpens}dseite  
+OL,18, }ber. Diese bringt Regen und Schneefall
+OL,19, sowie erhebliche Vereisung bis FL180.  
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -80,26 +79,23 @@ PN,61304
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G613CORF SPORT+G20.11.26 02:31:29
+OL,0,       G613CORF SPORT+G20.11.26 14:47:46
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    4/4  
 OL,4, Flugwetterausblick:                    
-OL,6,FVorschau f}r Sonntag, den 22.11.:      
-OL,7, Im S}den und Westen gibt es anfangs nur
-OL,8, mittelhohe Wolken. Im Tagesverlauf     
-OL,9, sinken hier die Untergrenzen ab, die   
-OL,10, Sichten gehen deutlich zur}ck und      
-OL,11, Niederschlag setzt ein, wobei die      
-OL,12, Schneefallgrenze zwischen 3000 und     
-OL,13, 4000ft amsl liegt. Im S}den gutes      
-OL,14, Sichtflugwetter.                       
-OL,16,FVorschau f}r Montag, den 23.11.:       
-OL,17, Ein kleinr{umiges Tiefdruckgebiet      
-OL,18, schwenkt von Norden her durch - es     
-OL,19, gibt Stau an der Alpennordseite, der   
-OL,20, S}den bleibt beg}nstigt.               
-OL,22,FHinweis zur Prognosesicherheit:        
+OL,6,FVorschau f}r Montag, den 23.11.:       
+OL,7, Abzug des Tiefs nach Osten und Wetter- 
+OL,8, besserung. Im Nordstau noch unbest{ndig
+OL,9, mit Schneeschauern und IMC. Anhaltend  
+OL,10, windig.                                
+OL,12,FVorschau f}r Dienstag, den 24.11.:     
+OL,13, Weiterhin Nordweststr|mung. Nachlassen-
+OL,14, der Nordstau und zunehmend VMC. Nur    
+OL,15, ganz im W noch Schneeschauer.          
+OL,17,FHinweis zur Prognosesicherheit:        
+OL,18, Unsicherheiten insbesondere in Verbin- 
+OL,19, dung mit der Italientiefentwicklung.   
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

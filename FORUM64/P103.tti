@@ -3,66 +3,36 @@ PN,10301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F12:56:32
+OL,0,         GFORUM64   GFr 20 Nov F12:23:42
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EBMX (Bare Metal X) VICE 3.10 und vAmiga
-OL,3,E4.4 f}r Raspberry Pi 4/5               
-OL,5,CAntwort:  Bkdre76                      
-OL,6,CComments: B955                         
-OL,7,F                                       
-OL,8,F( )                                    
-OL,10,FDer neue Kernel belegt ca. 15 MB auf   
-OL,11,Fder SDCard. Dazu kommen noch ca. 2-3 MB
-OL,12,Ff}r die ROMS. Also insgesamt weniger   
-OL,13,Fals 20 MB zus{tzlich.                  
-OL,15,F( )                                    
-OL,17,FDas ist zumindest nicht vorgesehen und 
-OL,18,Fhabe ich auch nicht vor umzusetzen,    
-OL,19,Faber Du kannst bei einer manuellen     
-OL,21,CErster Beitrag:                        
-OL,23,G*** edit cp2, 08.11.2026 *** Die       
-OL,24,D]FForum64.de RSS feed            (1/3) 
+OL,2,ESoftIEC - das leidige Thema            
+OL,4,CAntwort:  Bschorsch3000                
+OL,5,CComments: B5                           
+OL,6,F                                       
+OL,7,Fdas ist mir klar, aber das erkl{rt     
+OL,8,Fimmer noch nicht warum PRG eine bessere
+OL,9,Fidee als SEQ ist f}r ein d64. klar,    
+OL,10,Falles nur ein vorschlag, aber warum ist
+OL,11,Fein vorschlag der nicht funktioniert   
+OL,12,Fbesser als einer der funktioniert?     
+OL,14,CErster Beitrag:                        
+OL,16,GMit der neuen Firmware 1.2.1 soll nun  
+OL,17,Galles anders werden, was das SoftIEC   
+OL,18,Gangeht. Leider scheint das immer noch  
+OL,19,Gnicht das Gelbe vom Ei zu sein. Lasst  
+OL,20,Guns hier Bugs und Probleme sammeln.    
+OL,22,GMich st|rt z.B., dass d64-Dateien immer
+OL,23,Gnoch als SEQ-Dateien im Directory      
+OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,10302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F12:56:32
+OL,0,         GFORUM64   GFr 20 Nov F12:23:42
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gaktuelle URL zum Projekt lautet:       
-OL,4,Ghttps://baremetalx.de/ Hallo Leute,    
-OL,6,GIch habe vorgestern die erste Version  
-OL,7,Gvon BMX (Bare Metal X) ver|ffentlicht. 
-OL,8,GEs setzt da an, wo BMC64 aufgeh|rt hat.
-OL,9,GD.h. es zielt vorallem auf Pi4/5 ab.   
-OL,10,GF}r mich war die Motivation            
-OL,11,Ghaupts{chlich PI 400 und PI 500 als    
-OL,12,GZielplattform zu nutzen, da ich die    
-OL,13,Gbeiden Ger{te eh hier habe.            
-OL,15,GDer Rest aus der Readme auf Englisch:  
-OL,17,GBMX is a bare-metal Commodore emulator 
-OL,18,Gfor the Raspberry PI 4/5 family derived
-OL,19,Gfrom BMC64. The current focus of this  
-OL,20,Gproject is to provide a smooth user    
-OL,21,Gexperience on the Raspberry Pi 400 and 
-OL,22,G500. It should kinda feel like a modern
-OL,23,Gbreadbin. Support for Raspberry Pi <= 3
-OL,24,D]FForum64.de RSS feed            (2/3) 
-FL,0,0,0,0,0,100
-PN,10303
-SC,0003
-PS,C200
-CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F12:56:32
-OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gis removed and left to the original    
-OL,4,GBMC64 project.                         
-OL,6,GThese are the main features of BMX:    
-OL,8,G* Based on VICE 3.10 (C64, C128, VIC20,
-OL,9,GPlus/4 and PET machines are supported) 
-OL,10,G* Circle v20, Step 51 to support the   
-OL,11,GRaspberry Pi4/5 family * Pi5/Pi500 HDMI
-OL,12,Gmodesetting with RGB565 framebuffer and
-OL,13,Ghardware scaling, providing            
-OL,24,D]FForum64.de RSS feed            (3/3) 
+OL,3,Gangezeigt werden, anstatt als          
+OL,4,GPRG-Dateien, wie auf SD2IEC }blich.    
+OL,6,GWas ist euch noch aufgefallen?         
+OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

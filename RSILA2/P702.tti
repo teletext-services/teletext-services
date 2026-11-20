@@ -3,25 +3,25 @@ PN,70201
 SC,0001
 PS,C300
 CT,10,T
-OL,0,    BLAZIO     702.01CVe 20 Nov 04:54:13
+OL,0,    BLAZIO     702.01CVe 20 Nov 15:09:27
 OL,1, V(|0x<(||4|||(||4x|t CVERSANTE         
 OL,2,D]Voo5 $1!" $1  CALPI/VAL PADANA  
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 19 DEL 19    
+OL,4,D]  COSSERVAZIONI ALLE ORE 15 DEL 20    
 OL,5,                                   C1/2 
-OL,6,C]DCAMERI (NO) \ FSereno, Nebbia        
-OL,7,BTemp:F7          BVento:F3 nodi sud    
+OL,6,C]DCAMERI (NO) \ FSereno                
+OL,7,BTemp:F12         BVento:F3 nodi s/se   
 OL,8,BVisib:FOttima                          
 OL,9,D]CBOLZANO     \ FPoco nuvoloso         
-OL,10,FTemp: 4          BVento:F1 nodo var.   
+OL,10,FTemp: 11         BVento:F2 nodi var.   
 OL,11,BVisib:FOttima                          
-OL,12,C]DTREVISO     \ FSereno                
-OL,13,BTemp:F9          BVento:F4 nodi o/so   
+OL,12,C]DTREVISO     \ FPoco nuvoloso         
+OL,13,BTemp:F13         BVento:FAssente       
 OL,14,BVisib:FOttima                          
 OL,15,D]CTARVISIO    \ Fn.p.                  
 OL,16,FOsservazione non disponibile.          
 OL,18,C]DTORINO      \ FSereno                
-OL,19,BTemp:F8          BVento:F4 nodi o/no   
+OL,19,BTemp:F14         BVento:F3 nodi n/e    
 OL,20,BVisib:FOttima                          
 OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
 FL,701,703,100,100,0,100
@@ -29,23 +29,23 @@ PN,70202
 SC,0002
 PS,C300
 CT,10,T
-OL,0,    BLAZIO     702.02CVe 20 Nov 04:54:13
+OL,0,    BLAZIO     702.02CVe 20 Nov 15:09:27
 OL,1, V(|0x<(||4|||(||4x|t CVERSANTE         
 OL,2,D]Voo5 $1!" $1  CALPI/VAL PADANA  
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 19 DEL 19    
+OL,4,D]  COSSERVAZIONI ALLE ORE 15 DEL 20    
 OL,5,                                   C2/2 
-OL,6,C]DMILANO      \ FSereno                
+OL,6,C]DMILANO      \ FPoco nuvoloso         
 OL,7,BTemp:F9          BVento:F2 nodi var.   
-OL,8,BVisib:FOttima                          
-OL,9,D]CPIACENZA    \ FSereno                
-OL,10,FTemp: 8          BVento:F2 nodi var.   
-OL,11,BVisib:FOttima                          
+OL,8,BVisib:FBuona                           
+OL,9,D]CPIACENZA    \ FNuvoloso, Foschia     
+OL,10,FTemp: 9          BVento:F4 nodi est    
+OL,11,BVisib:FDiscreta                        
 OL,12,C]DVERONA      \ FPoco nuvoloso         
-OL,13,BTemp:F10         BVento:F12 nodi oves  
+OL,13,BTemp:F12         BVento:F5 nodi s/so   
 OL,14,BVisib:FOttima                          
 OL,15,D]CBOLOGNA     \ FSereno                
-OL,16,FTemp: 9          BVento:F6 nodi s/so   
-OL,17,BVisib:FOttima                          
+OL,16,FTemp: 11         BVento:F2 nodi var.   
+OL,17,BVisib:FBuona                           
 OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
 FL,701,703,100,100,0,100

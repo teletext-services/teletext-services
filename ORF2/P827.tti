@@ -3,179 +3,179 @@ PN,82701
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G827FORF2   GFr 20.11.26 08:13:41
+OL,0,       G827FORF2   GFr 20.11.26 14:35:44
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/6  
 OL,4,  CFLUG  PLAN AKTUELL         VON       
-OL,5,EW 7750  0750B0745 gelandet .GHamburg   
-OL,6,PE 100   0750B0800 gelandet .GAltenrhein
-OL,7,OS 550   0755B0737 gelandet .GVenice    
-OL,8,OS 038   0800B0751 gelandet .GNewark EWR
-OL,9,FR 946   0805B0753 gelandet .GKrakow    
-OL,10,OS 046   0805B0749 gelandet .GChicago   
-OL,11,OS 726   0805B0756 gelandet .GBelgrade  
-OL,12,BR 061   0810F     landet ...GTaipei    
-OL,13,                          (via Bangkok) 
-OL,14,PC 1673  0810F     landet ...GAnkara    
-OL,15,OS 056   0815F     landet ...GMontreal  
-OL,16,OS 222   0815F     landet ...GFrankfurt 
-OL,17,OS 240   0815F     landet ...GBerlin    
-OL,18,SN 2901  0815B0800 gelandet .GBrussels  
-OL,19,OS 650   0820B0810 gelandet .GPrague    
-OL,20,TK 1883  0820F0842 erwartet .GIstanbul  
-OL,21,BT 271   0825F0840 erwartet .GRiga      
-OL,22,EW 752   0825F     landet ...GCologne   
-OL,23,Q,,F08:12GFlughafen WienF01/7007-0      
+OL,5,OS 754   1350B1409 gelandet .GTirana    
+OL,6,OS 694   1400B1408 gelandet .GBucharest 
+OL,7,SV 153   1410B1409 gelandet .GGassim    
+OL,8,OS 208   1415B1429 gelandet .GFrankfurt 
+OL,9,OS 314   1415B1402 gelandet .GAmsterdam 
+OL,10,OS 918   1420B1403 gelandet .GVilnius   
+OL,11,EW 7752  1430B1429 gelandet .GHamburg   
+OL,12,JU 312   1430B1427 gelandet .GBelgrade  
+OL,13,MS 797   1430B1419 gelandet .GCairo     
+OL,14,OS 228   1430F1456 erwartet .GBerlin    
+OL,15,OS 354   1430B1431 gelandet .GLyon      
+OL,16,FR 215   1435B1413 gelandet .GMilan MXP 
+OL,17,FR 732   1440F     landet ...GLondon STN
+OL,18,OS 802   1445F1631 erwartet .GAthens    
+OL,19,SM 2906  1445F     landet ...GHurghada  
+OL,20,EJU5445  1450A1805 versp{tet GMilan LIN 
+OL,21,EW 754   1455F1517 erwartet .GCologne   
+OL,22,OS 424   1500F1509 erwartet .GMallorca  
+OL,23,Q,,F14:33GFlughafen WienF01/7007-0      
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82702
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G827FORF2   GFr 20.11.26 08:13:41
+OL,0,       G827FORF2   GFr 20.11.26 14:35:45
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    2/6  
 OL,4,  CFLUG  PLAN AKTUELL         VON       
-OL,5,OS 036   0825B0809 gelandet .GNew York  
-OL,6,OS 042   0830F     landet ...GWashington
-OL,7,LO 223   0835F0829 erwartet .GWarsaw    
-OL,8,OS 780   0835F0827 erwartet .GSofia     
-OL,9,OS 084   0840F0834 erwartet .GTel Aviv  
-OL,10,OS 148   0840F0830 erwartet .GZurich    
-OL,11,OS 640   0840G     ..........GBudapest  
-OL,12,BT 831   0845F     landet ...GTallinn   
-OL,13,LG 8851  0845F0838 erwartet .GLuxembourg
-OL,14,OS 530   0845F     landet ...GMilan LIN 
-OL,15,EW 2754  0850F0843 erwartet .GStuttgart 
-OL,16,EW 9750  0850F0839 erwartet .GDusseldorf
-OL,17,OS 320   0855F0851 erwartet .GAmsterdam 
-OL,18,LY 361   0900F0837 erwartet .GTel Aviv  
-OL,19,OS 970   0900F0902 erwartet .GStockholm 
-OL,20,TO 4380  0900F0831 erwartet .GParis ORY 
-OL,21,OS 182   0905F0902 erwartet .GMunich    
-OL,22,OS 260   0905F0924 erwartet .GHamburg   
-OL,23,Q,,F08:12GFlughafen WienF01/7007-0      
+OL,5,VF 535   1500F1453 erwartet .GAnkara    
+OL,6,OS 210   1505F1527 erwartet .GFrankfurt 
+OL,7,DE 4364  1540G     ..........GFrankfurt 
+OL,8,OS 544   1545G     ..........GVenice    
+OL,9,OS 634   1545G     ..........GBudapest  
+OL,10,OS 680   1545G     ..........GKrakow    
+OL,11,VF 019   1545F1524 erwartet .GIstanbul  
+OL,12,OS 652   1555G     ..........GKosice    
+OL,13,OS 730   1600G     ..........GSarajevo  
+OL,14,LG 8853  1605G     ..........GLuxembourg
+OL,15,BA 696   1610F1555 erwartet .GLondon LHR
+OL,16,KL 1905  1615G     ..........GAmsterdam 
+OL,17,OS 106   1615G     ..........GInnsbruck 
+OL,18,OS 664   1620G     ..........GWarsaw    
+OL,19,OS 140   1625G     ..........GZurich    
+OL,20,OS 230   1625G     ..........GBerlin    
+OL,21,OS 708   1625G     ..........GSibiu     
+OL,22,OS 736   1625G     ..........GPodgorica 
+OL,23,Q,,F14:33GFlughafen WienF01/7007-0      
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82703
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G827FORF2   GFr 20.11.26 08:13:42
+OL,0,       G827FORF2   GFr 20.11.26 14:35:45
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    3/6  
 OL,4,  CFLUG  PLAN AKTUELL         VON       
-OL,5,OS 370   0905F0900 erwartet .GParis CDG 
-OL,6,PC 901   0905F0926 erwartet .GIstanbul  
-OL,7,FR 9754  0910F0906 erwartet .GBanja Luka
-OL,8,OS 340   0910F0855 erwartet .GLondon LHR
-OL,9,OU 440   0910G     ..........GZagreb    
-OL,10,JU 310   0915F0912 erwartet .GBelgrade  
-OL,11,OS 806   0915F0917 erwartet .GAthens    
-OL,12,OS 760   0935F0923 erwartet .GTirana    
-OL,13,SK 1693  0935F0922 erwartet .GCopenhagen
-OL,14,EZY2233  0940F0932 erwartet .GManchester
-OL,15,OS 200   0945G     ..........GFrankfurt 
-OL,16,GQ 840   0950F1008 erwartet .GAthens    
-OL,17,LS 4191  0950G     ..........GLondon LGW
-OL,18,FR 050   0955G     ..........GTreviso   
-OL,19,LS 3087  1005F0946 erwartet .GEast Midl.
-OL,20,DE 4362  1020G     ..........GFrankfurt 
-OL,21,LS 959   1020G     ..........GManchester
-OL,22,OS 224   1025G     ..........GBerlin    
-OL,23,Q,,F08:12GFlughafen WienF01/7007-0      
+OL,5,OS 536   1630G     ..........GFlorence  
+OL,6,RJ 159   1630F1555 erwartet .GAmman     
+OL,7,OS 164   1635G     ..........GDusseldorf
+OL,8,OS 186   1635G     ..........GMunich    
+OL,9,OS 266   1635G     ..........GStuttgart 
+OL,10,OS 274   1635G     ..........GHanover   
+OL,11,OS 294   1635G     ..........GBrussels  
+OL,12,OS 254   1640G     ..........GHamburg   
+OL,13,OS 716   1640G     ..........GChisinau  
+OL,14,OS 978   1640G     ..........GOslo OSL  
+OL,15,FR 7192  1645G     ..........GRome FCO  
+OL,16,OS 378   1645G     ..........GNice      
+OL,17,OS 554   1645G     ..........GRome FCO  
+OL,18,OS 704   1645G     ..........GIasi      
+OL,19,FR 1325  1650G     ..........GParis BVA 
+OL,20,LO 221   1650G     ..........GWarsaw    
+OL,21,OS 770   1650G     ..........GVarna     
+OL,22,OS 824   1650G     ..........GSaloniki  
+OL,23,Q,,F14:33GFlughafen WienF01/7007-0      
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82704
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G827FORF2   GFr 20.11.26 08:13:42
+OL,0,       G827FORF2   GFr 20.11.26 14:35:45
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    4/6  
 OL,4,  CFLUG  PLAN AKTUELL         VON       
-OL,5,BA 692   1030F1015 erwartet .GLondon LHR
-OL,6,OS 132   1030G     ..........GZurich    
-OL,7,OS 264   1035G     ..........GStuttgart 
-OL,8,FR 9067  1040G     ..........GBari      
-OL,9,OS 202   1045G     ..........GFrankfurt 
-OL,10,EI 660   1050G     ..........GDublin    
-OL,11,FR 1644  1050G     ..........GRome FCO  
-OL,12,FR 4166  1050F1015 erwartet .GLisbon    
-OL,13,AY 1471  1055G     ..........GHelsinki  
-OL,14,J2 071   1100F1130 erwartet .GBaku      
-OL,15,LS 1953  1105G     ..........GNewcastle 
-OL,16,FR 7357  1110G     ..........GLondon STN
-OL,17,OS 152   1110G     ..........GGeneva    
-OL,18,OS 246   1110G     ..........GCologne   
-OL,19,OS 522   1110G     ..........GMilan LIN 
-OL,20,DY 1632  1115G     ..........GOslo OSL  
-OL,21,LS 1583  1115G     ..........GLondon STN
-OL,22,OS 252   1115G     ..........GHamburg   
-OL,23,Q,,F08:12GFlughafen WienF01/7007-0      
+OL,5,FR 9856  1655F1637 erwartet .GHelsinki  
+OL,6,PE 104   1700G     ..........GAltenrhein
+OL,7,OS 384   1705G     ..........GMarseille 
+OL,8,KE 937   1710F1718 erwartet .GSeoul ICN 
+OL,9,FR 728   1715F1643 erwartet .GFaro      
+OL,10,PC 905   1715G     ..........GIstanbul  
+OL,11,AF 1738  1725G     ..........GParis CDG 
+OL,12,OS 364   1730G     ..........GParis CDG 
+OL,13,SN 2905  1730G     ..........GBrussels  
+OL,14,A3 862   1735G     ..........GAthens    
+OL,15,OS 966   1735G     ..........GStockholm 
+OL,16,FR 433   1740F1731 erwartet .GTenerife  
+OL,17,OS 212   1740G     ..........GFrankfurt 
+OL,18,OS 646   1745G     ..........GPrague    
+OL,19,TO 4388  1750G     ..........GParis ORY 
+OL,20,LS 1307  1755G     ..........GBirmingham
+OL,21,FR 2607  1800G     ..........GMalta     
+OL,22,EW 9756  1805G     ..........GDusseldorf
+OL,23,Q,,F14:33GFlughafen WienF01/7007-0      
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82705
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       G827FORF2   GFr 20.11.26 08:13:42
+OL,0,       G827FORF2   GFr 20.11.26 14:35:45
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    5/6  
 OL,4,  CFLUG  PLAN AKTUELL         VON       
-OL,5,FR 7361  1120G     ..........GMilan BGY 
-OL,6,G9 970   1120F1234 erwartet .GSharjah   
-OL,7,KL 1901  1120G     ..........GAmsterdam 
-OL,8,LS 497   1120G     ..........GLeeds     
-OL,9,FR 4002  1125G     ..........GManchester
-OL,10,FR 4768  1125G     ..........GBologna   
-OL,11,OS 162   1125G     ..........GDusseldorf
-OL,12,OS 662   1130G     ..........GWarsaw    
-OL,13,OS 292   1135G     ..........GBrussels  
-OL,14,OS 992   1135G     ..........GCopenhagen
-OL,15,TP 1270  1135G     ..........GLisbon    
-OL,16,IB 791   1140G     ..........GMadrid    
-OL,17,OS 124   1140G     ..........GBasel     
-OL,18,OS 204   1145G     ..........GFrankfurt 
-OL,19,FR 803   1150G     ..........GValencia  
-OL,20,OS 272   1150G     ..........GHanover   
-OL,21,OS 312   1150G     ..........GAmsterdam 
-OL,22,OS 644   1150G     ..........GPrague    
-OL,23,Q,,F08:12GFlughafen WienF01/7007-0      
+OL,5,OS 336   1805G     ..........GLondon LHR
+OL,6,OS 062   1810F1759 erwartet .GMauritius 
+OL,7,OS 232   1820G     ..........GBerlin    
+OL,8,TK 1887  1820G     ..........GIstanbul  
+OL,9,OS 080   1825G     ..........GTel Aviv  
+OL,10,AY 1475  1830G     ..........GHelsinki  
+OL,11,FR 6195  1830G     ..........GCatania   
+OL,12,BA 698   1835G     ..........GLondon LHR
+OL,13,LO 225   1840G     ..........GWarsaw    
+OL,14,OS 526   1840G     ..........GMilan LIN 
+OL,15,BT 273   1845G     ..........GRiga      
+OL,16,EK 125   1850F1841 erwartet .GDubai     
+OL,17,EW 2758  1850G     ..........GStuttgart 
+OL,18,OU 442   1850G     ..........GZagreb    
+OL,19,EW 7754  1855G     ..........GHamburg   
+OL,20,EW 9754  1855G     ..........GDusseldorf
+OL,21,IB 795   1905G     ..........GMadrid    
+OL,22,OS 142   1905G     ..........GZurich    
+OL,23,Q,,F14:33GFlughafen WienF01/7007-0      
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82706
 SC,0006
 PS,C200
 CT,10,T
-OL,0,       G827FORF2   GFr 20.11.26 08:13:42
+OL,0,       G827FORF2   GFr 20.11.26 14:35:45
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    6/6  
 OL,4,  CFLUG  PLAN AKTUELL         VON       
-OL,5,AF 1138  1155G     ..........GParis CDG 
-OL,6,FR 7008  1155G     ..........GDublin    
-OL,7,OS 552   1155G     ..........GRome FCO  
-OL,8,OS 604   1155G     ..........GZagreb    
-OL,9,OS 110   1200G     ..........GKlagenfurt
-OL,10,OS 134   1200G     ..........GZurich    
-OL,11,OS 362   1200G     ..........GParis CDG 
-OL,12,OS 514   1200G     ..........GBologna   
-OL,13,OS 962   1205G     ..........GStockholm 
-OL,14,OS 402   1210G     ..........GBarcelona 
-OL,15,OS 722   1215G     ..........GBelgrade  
-OL,16,OS 332   1220G     ..........GLondon LHR
-OL,17,EK 127   1225F1207 erwartet .GDubai     
-OL,18,OS 184   1235G     ..........GMunich    
-OL,19,OS 226   1235G     ..........GBerlin    
-OL,20,FR 3765  1240G     ..........GSofia     
-OL,21,LS 373   1255G     ..........GBelfast   
-OL,22,LS 3287  1300G     ..........GLiverpool 
-OL,23,Q,,F08:12GFlughafen WienF01/7007-0      
+OL,5,OS 214   1905G     ..........GFrankfurt 
+OL,6,OS 068   1915G     ..........GMarrakech 
+OL,7,OS 154   1915G     ..........GGeneva    
+OL,8,FR 752   1920G     ..........GPorto     
+OL,9,OS 316   1920G     ..........GAmsterdam 
+OL,10,OS 776   1920G     ..........GSofia     
+OL,11,OS 996   1920G     ..........GCopenhagen
+OL,12,SK 695   1925G     ..........GCopenhagen
+OL,13,OS 296   1930G     ..........GBrussels  
+OL,14,OS 724   1930G     ..........GBelgrade  
+OL,15,EW 756   1935G     ..........GCologne   
+OL,16,OS 006   1935F1957 erwartet .GBangkok   
+OL,17,OS 166   1940G     ..........GDusseldorf
+OL,18,OS 796   1940G     ..........GLarnaca   
+OL,19,KM 516   1945G     ..........GMalta     
+OL,20,OS 108   1950G     ..........GInnsbruck 
+OL,21,OS 234   1950G     ..........GBerlin    
+OL,22,OS 698   1950G     ..........GBucharest 
+OL,23,Q,,F14:33GFlughafen WienF01/7007-0      
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

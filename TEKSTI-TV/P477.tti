@@ -3,8 +3,8 @@ PN,47701
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 19.03.22:54:21
-OL,1,D]G         VOITTAJAVETO 1         1/7  
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         VOITTAJAVETO 1         1/15 
 OL,2,K                                       
 OL,3,BM       Salibandyn MM-kisat 2026       
 OL,5,K                                       
@@ -32,8 +32,66 @@ PN,47702
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 19.03.22:54:21
-OL,1,D]G         SUPERTRIPLA 1          2/7  
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         VOITTAJAVETO 2         2/15 
+OL,2,K                                       
+OL,3,BM       F1, aika-ajot, Las Vegas       
+OL,5,K                                       
+OL,6,K                                       
+OL,7,G 1 Antonelli Kimi                      
+OL,8,G 2 Verstappen Max                      
+OL,9,G 3 Russell George                      
+OL,10,G 4 Hamilton Lewis                      
+OL,11,G 5 Leclerc Charles                     
+OL,12,G 6 Norris Lando                        
+OL,13,G 7 Piastri Oscar                       
+OL,14,G 8 Hadjar Isack                        
+OL,15,G 9 Lawson Liam                         
+OL,16,G10 Gasly Pierre                        
+OL,17,G11 Lindblad Arvid                      
+OL,18,G12 Colapinto Franco                    
+OL,19,G13 Bearman Oliver                      
+OL,20,G14 Bottas Valtteri                     
+OL,21,G15 Muu voittaja                        
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 21.11. klo 06.00.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47703
+SC,0003
+PS,C100
+CT,10,T
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         VOITTAJAVETO 3         3/15 
+OL,2,K                                       
+OL,3,BMF1, aika-ajot, Las Vegas, Valtteri Bot
+OL,5,K                                       
+OL,6,K                                       
+OL,7,G 1 1.-3.                               
+OL,8,G 2 4.-6.                               
+OL,9,G 3 7.-8.                               
+OL,10,G 4 9.-10.                              
+OL,11,G 5 11.-12.                             
+OL,12,G 6 13.-14.                             
+OL,13,G 7 15.-16.                             
+OL,14,G 8 17.                                 
+OL,15,G 9 18.                                 
+OL,16,G10 19.                                 
+OL,17,G11 20.                                 
+OL,18,G12 Muu tulos                           
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 21.11. klo 06.00.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47704
+SC,0004
+PS,C100
+CT,10,T
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         SUPERTRIPLA 1          4/15 
 OL,2,K                                       
 OL,3,BMM{kihyppy, kokonaiskilpailu, miesten m
 OL,5,K                                       
@@ -57,14 +115,72 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy la 21.11. klo 17.50.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47703
-SC,0003
+PN,47705
+SC,0005
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 19.03.22:54:21
-OL,1,D]G         SUPERTRIPLA 4          3/7  
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         SUPERTRIPLA 2          5/15 
 OL,2,K                                       
-OL,3,BM      F1, harjoitus 2, Las Vegas      
+OL,3,BMHiihto, miehet sprintti (p), Ruka, Suo
+OL,5,K                                       
+OL,6,BVoittaja                               
+OL,7,K                                       
+OL,8,G 1 Moilanen Niilo   15 Rantala Eero    
+OL,9,G 2 Vuorinen Lauri   16 Muu voittaja    
+OL,10,G 3 Liekari Emil                        
+OL,11,G 4 M{ki Joni                           
+OL,12,G 5 Haarala Juuso                       
+OL,13,G 6 Ahonen Olli                         
+OL,14,G 7 Pennanen Valtter                    
+OL,15,G 8 Melnits Ike                         
+OL,16,G 9 Berqvist Jalmari                    
+OL,17,G10 Hakola Ristomatt                    
+OL,18,G11 Varis Juuso                         
+OL,19,G12 Karppanen Miro                      
+OL,20,G13 K{h{r{ Jesse                        
+OL,21,G14 Onnela Daniel                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 21.11. klo 12.00.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47706
+SC,0006
+PS,C100
+CT,10,T
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         SUPERTRIPLA 3          6/15 
+OL,2,K                                       
+OL,3,BMHiihto, naiset sprintti (p), Ruka, Suo
+OL,5,K                                       
+OL,6,BVoittaja                               
+OL,7,K                                       
+OL,8,G 1 Joensuu Jasmi    15 L{ms{ Emmi      
+OL,9,G 2 Matintalo Johann 16 Muu voittaja    
+OL,10,G 3 Olkkonen Tiia                       
+OL,11,G 4 Saari Amanda                        
+OL,12,G 5 K{h{r{ Jasmin                       
+OL,13,G 6 Niemel{ Hilla                       
+OL,14,G 7 Haapalehto Ella                     
+OL,15,G 8 Tossavainen Eevi                    
+OL,16,G 9 Kukonlehto Fanny                    
+OL,17,G10 Rossi Selene                        
+OL,18,G11 Kyt{j{ Nora                         
+OL,19,G12 Kyll|nen Anne                       
+OL,20,G13 Jylh{ Vilma                         
+OL,21,G14 Lindroos Anni                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 21.11. klo 11.30.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47707
+SC,0007
+PS,C100
+CT,10,T
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         SUPERTRIPLA 4          7/15 
+OL,2,K                                       
+OL,3,BM       F1, aika-ajot, Las Vegas       
 OL,5,K                                       
 OL,6,BVoittaja                               
 OL,7,K                                       
@@ -83,15 +199,15 @@ OL,19,G12 Colapinto Franco
 OL,20,G13 Bearman Oliver I                    
 OL,21,G14 Bortoleto Gabrie                    
 OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 20.11. klo 06.00.
+OL,23,BPelaaminen p{{ttyy la 21.11. klo 06.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47704
-SC,0004
+PN,47708
+SC,0008
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 19.03.22:54:21
-OL,1,D]G         SUPERTRIPLA 5          4/7  
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         SUPERTRIPLA 5          8/15 
 OL,2,K                                       
 OL,3,BMAmpumahiihto, kokonaiskilpailu, mieste
 OL,5,K                                       
@@ -115,12 +231,12 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy to 26.11. klo 17.15.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47705
-SC,0005
+PN,47709
+SC,0009
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 19.03.22:54:21
-OL,1,D]G         SUPERTRIPLA 6          5/7  
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         SUPERTRIPLA 6          9/15 
 OL,2,K                                       
 OL,3,BMAmpumahiihto, kokonaiskilpailu, naiste
 OL,5,K                                       
@@ -144,47 +260,47 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy pe 27.11. klo 17.15.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47706
-SC,0006
+PN,47710
+SC,0010
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 19.03.22:54:21
-OL,1,D]G         P[IV[N TRIO 1          6/7  
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         SUPERTRIPLA 7          10/15
 OL,2,K                                       
-OL,3,BM        Otteluiden maalim{{r{t        
+OL,3,BMF1, aika-ajot, Las Vegas, ilman k{rkit
 OL,5,K                                       
-OL,6,Bkilpailu 1: Colorado - Anaheim         
-OL,7,Bkilpailu 2: Seattle - Vancouver        
-OL,8,Bkilpailu 3: Vegas - Dallas             
-OL,9,K                                       
-OL,10,G 1 0-1 maalia                          
-OL,11,G 2 2 maalia                            
-OL,12,G 3 3 maalia                            
-OL,13,G 4 4 maalia                            
-OL,14,G 5 5 maalia                            
-OL,15,G 6 6 maalia                            
-OL,16,G 7 7 maalia                            
-OL,17,G 8 8 maalia                            
-OL,18,G 9 9 maalia                            
-OL,19,G10 10 maalia                           
-OL,20,G11 11 maalia                           
-OL,21,G12 12 maalia tai yli                   
+OL,6,BVoittaja                               
+OL,7,K                                       
+OL,8,G 1 Lawson LiamI                        
+OL,9,G 2 Lindblad ArvidI                     
+OL,10,G 3 Gasly PierreI                       
+OL,11,G 4 Colapinto FrancoI                   
+OL,12,G 5 Bearman OliverI                     
+OL,13,G 6 Camara RafaelI                      
+OL,14,G 7 Bortoleto GabrielI                  
+OL,15,G 8 H lkenberg NicoI                    
+OL,16,G 9 Sainz Carlos I                      
+OL,17,G10 Albon AlexanderI                    
+OL,18,G11 Alonso FernandoI                    
+OL,19,G12 Stroll LanceI                       
+OL,20,G13 Bottas ValtteriI                    
+OL,21,G14 Perez SergioI                       
 OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 20.11. klo 04.00.
+OL,23,BPelaaminen p{{ttyy la 21.11. klo 06.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47707
-SC,0007
+PN,47711
+SC,0011
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 19.03.22:54:21
-OL,1,D]G         P[IV[N TRIO 3          7/7  
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         P[IV[N TRIO 1          11/15
 OL,2,K                                       
 OL,3,BM         Puoliaika/lopputulos         
 OL,5,K                                       
-OL,6,Bkilpailu 1: EC Vitoria - RB Bragantino 
-OL,7,Bkilpailu 2: Vasco da Gama - Internacion
-OL,8,Bkilpailu 3: Sao Paulo - Fluminense     
+OL,6,Bkilpailu 1: Troyes - Le Havre          
+OL,7,Bkilpailu 2: Barnsley - Sheffield W     
+OL,8,Bkilpailu 3: Athletic - Espanyol        
 OL,9,K                                       
 OL,10,G 1 1/1                                 
 OL,11,G 2 1/X                                 
@@ -199,6 +315,122 @@ OL,19,K
 OL,20,K                                       
 OL,21,K                                       
 OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 20.11. klo 00.30.
+OL,23,BPelaaminen p{{ttyy pe 20.11. klo 21.45.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47712
+SC,0012
+PS,C100
+CT,10,T
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         P[IV[N TRIO 3          12/15
+OL,2,K                                       
+OL,3,BM       F1, aika-ajot, Las Vegas       
+OL,5,K                                       
+OL,6,Bkilpailu 1: Ryhm{n paras               
+OL,7,K                                       
+OL,8,G 1 Antonelli Kimi                      
+OL,9,G 2 Verstappen Max                      
+OL,10,G 3 Russell George                      
+OL,11,G 4 Hamilton Lewis                      
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 21.11. klo 06.00.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47713
+SC,0013
+PS,C100
+CT,10,T
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         P[IV[N TRIO 3          13/15
+OL,2,K                                       
+OL,3,BM       F1, aika-ajot, Las Vegas       
+OL,5,K                                       
+OL,6,Bkilpailu 2: Ryhm{n paras               
+OL,7,K                                       
+OL,8,G 1 Leclerc Charles                     
+OL,9,G 2 Norris Lando                        
+OL,10,G 3 Piastri Oscar                       
+OL,11,G 4 Hadjar Isack                        
+OL,12,G 5 Lawson Liam                         
+OL,13,G 6 Gasly Pierre                        
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 21.11. klo 06.00.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47714
+SC,0014
+PS,C100
+CT,10,T
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         P[IV[N TRIO 3          14/15
+OL,2,K                                       
+OL,3,BM       F1, aika-ajot, Las Vegas       
+OL,5,K                                       
+OL,6,Bkilpailu 3: Ryhm{n paras               
+OL,7,K                                       
+OL,8,G 1 Lindblad Arvid                      
+OL,9,G 2 Colapinto Franco                    
+OL,10,G 3 Bearman Oliver                      
+OL,11,G 4 Bortoleto Gabriel                   
+OL,12,G 5 H lkenberg Nico                     
+OL,13,G 6 Bottas Valtteri                     
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 21.11. klo 06.00.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47715
+SC,0015
+PS,C100
+CT,10,T
+OL,0,       G477 YLE TEKSTI-TV 20.03.17:42:26
+OL,1,D]G         P[IV[N TRIO 4          15/15
+OL,2,K                                       
+OL,3,BM           Ilves - Tappara            
+OL,5,K                                       
+OL,6,Bkilpailu 1: 1. er{n viimeisen maalin te
+OL,7,Bkilpailu 2: 2. er{n viimeisen maalin te
+OL,8,Bkilpailu 3: 3. er{n viimeisen maalin te
+OL,9,K                                       
+OL,10,G 1 Luke Henman      13 Michael Lindqvis
+OL,11,G 2 Jens L||ke       14 Henrik Haapala  
+OL,12,G 3 Lukas Jasek      15 Oliver Suvanto  
+OL,13,G 4 Dominik Lakatos  16 Jyrki Jokipakka 
+OL,14,G 5 Aleks Haatanen   17 Muu Tapparan pel
+OL,15,G 6 Erik Borg        18 Ei maalia       
+OL,16,G 7 Benjamin Korhone                    
+OL,17,G 8 Tony Sund                           
+OL,18,G 9 Muu Ilveksen pel                    
+OL,19,G10 Joachim Blichfel                    
+OL,20,G11 Benjamin Rautiai                    
+OL,21,G12 Kasper Simontaiv                    
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy pe 20.11. klo 19.30.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

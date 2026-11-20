@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:17
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:17
 OL,1,D]GLigue 1    ]D11/34     A]        GLF 
 OL,2, Troyes         - Le Havre   20.11 20.45
 OL,3,FNice           - PSG        21.11 17.15
@@ -21,7 +21,7 @@ OL,13, Strzelba       1 2 1 2 1 2 1 2 1   F52
 OL,14, RESOVIAK       1 2 1 1 1 2 1 2 1   F50 
 OL,15, FrancoLoco                         F46 
 OL,16, EkrudyDref     1 2 1 1 1 1 1 2 1   F45 
-OL,17, FRAK                               F45 
+OL,17, FRAK           1 2 1 X 1 X 1 2 1   F45 
 OL,18, Go|^1z92       1 2 1 1 1 X 1 2 1   F44 
 OL,19, Hegemon01      2 2 1 2 1 2 1 2 1   F42 
 OL,20, TORSJAN        1 2 1 X 1 1 1 2 1   F42 
@@ -35,7 +35,7 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:18
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:17
 OL,1,D]GLigue 1    ]D12/34     A]        GLF 
 OL,2, Brest          - Paris FC   27.11 20.45
 OL,3,FAngers         - Lens       28.11 17.15
@@ -66,7 +66,7 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:18
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:17
 OL,1,D]GLigue 1    ]D13/34     A]        GLF 
 OL,2, Toulouse       - PSG        04.12 20.45
 OL,3,FLille          - Auxerre    05.12 17.15
@@ -97,7 +97,7 @@ SC,0004
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:18
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:17
 OL,1,D]GLigue 1    ]D14/34     A]        GLF 
 OL,2,FAuxerre        - Toulouse   11.12 20.45
 OL,3, PSG            - Paris FC   12.12 17.15
@@ -128,7 +128,7 @@ SC,0005
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:18
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:17
 OL,1,ABundesliga   ]@10/34     C]        @LN 
 OL,2, Bayern         - Koeln      20.11 20.30
 OL,3,CBorussia M.    - Borussia D.21.11 15.30
@@ -147,7 +147,7 @@ OL,15, Agencik        1 2 1 X 2 2 2 X 1   C46
 OL,16, Go|^1z92       1 2 1 1 2 2 2 2 1   C45 
 OL,17, Hegemon01      1 2 1 1 1 2 2 2 1   C45 
 OL,18, RESOVIAK       1 2 1 1 2 2 2 2 1   C44 
-OL,19, Evertonian                         C42 
+OL,19, Evertonian     1 2 1 X 2 X 2 X X   C42 
 OL,20, Badboy         1 2 1 2 1 2 2 2 1   C39 
 OL,21, EFIALTES       1 2 1 1 X 2 X 1 1   C39 
 OL,22, Lapi63         1 X 1 1 2 2 X X 1   C39 
@@ -159,12 +159,12 @@ SC,0006
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:18
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:17
 OL,1,ABundesliga   ]@10/34     C]        @LN 
 OL,2,             Q,,,,,,,,,,,,,S,,,,,,,,,,,,
 OL,3,               A? ? ? ? ? ? ? ? ?  Cpkt.
 OL,4,             Q,,,,,,,,,,,,,S,,,,,,,,,,,,
-OL,5, FRAK                               C37 
+OL,5, FRAK           1 2 1 1 X 2 X 1 1   C37 
 OL,6, Strzelba       1 2 1 X X 2 1 1 X   C37 
 OL,7, FrancoLoco                         C35 
 OL,8, Spawacz        1 2 1 1 2 2 2 2 1   C29 
@@ -180,7 +180,7 @@ SC,0007
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:18
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:17
 OL,1,ABundesliga   ]@11/34     C]        @LN 
 OL,2, Werder         - Borussia M.27.11 20.30
 OL,3,CKoeln          - Elversberg 28.11 15.30
@@ -205,7 +205,7 @@ SC,0008
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:18
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:17
 OL,1,ABundesliga   ]@12/34     C]        @LN 
 OL,2, Bayer          - Borussia M.      15.30
 OL,3, Bayern         - Paderborn  05.12 15.30
@@ -229,7 +229,7 @@ SC,0009
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:19
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:17
 OL,1,ABundesliga   ]@13/34     C]        @LN 
 OL,2,CHamburger SV- FC Schalke 04 11.12 20.30
 OL,3, Koeln          - Lipsk      12.12 15.30
@@ -252,7 +252,7 @@ SC,0010
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:19
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:18
 OL,1,ABundesliga   ]@14/34     C]        @LN 
 OL,2,CBayern         - Werder     18.12 20.30
 OL,3, Mainz          - Koeln      19.12 15.30
@@ -275,7 +275,7 @@ SC,0011
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:19
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:18
 OL,1,A]CLaLiga     ]A13/38      ]        CLH 
 OL,2,CAth. Bilbao    - Espanyol   20.11 21:00
 OL,3, Alaves         - Deportivo  21.11 14:00
@@ -306,13 +306,13 @@ SC,0012
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:19
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:18
 OL,1,A]CLaLiga     ]A13/38      ]        CLH 
 OL,2,Q,,,,,,,,,,,,,S,,,,,,,,,,,,Q,,,,,,,,,,,,
 OL,3,             A? ? ? ? ? ? ? ? ? ?  Cpkt.
 OL,4,Q,,,,,,,,,,,,,S,,,,,,,,,,,,Q,,,,,,,,,,,,
 OL,5, Badboy       1 2 1 1 1 1 2 1 X 1   C55 
-OL,6, FRAK                               C55 
+OL,6, FRAK         1 1 X 1 1 1 2 1 2 2   C55 
 OL,7, Spawacz      X 1 X X 1 1 X X 2 1   C53 
 OL,8, Hegemon01    1 2 2 2 1 1 2 2 2 2   C48 
 OL,9, Filippo828                         C43 
@@ -327,7 +327,7 @@ SC,0013
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:19
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:18
 OL,1,A]CLaLiga     ]A14/38      ]        CLH 
 OL,2,CLevante        - Santander  27.11 21.00
 OL,3, Betis          - Vallecano  28.11 14.00
@@ -353,7 +353,7 @@ SC,0014
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:19
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:18
 OL,1,A]CLaLiga     ]A14/38      ]        CLH 
 OL,2,CReal Sociedad  - Real Madryt02.12 19:00
 OL,3,CBarcelona      - Atl. Madryt      21:30
@@ -380,7 +380,7 @@ SC,0015
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:19
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:18
 OL,1,B]GSerie A    ]A12/38      ]        GLW 
 OL,2,BComo           - Cagliari   21.11 15.00
 OL,3,BLazio          - Lecce            15.00
@@ -398,7 +398,7 @@ OL,14,R,,,,,,,,,,,,,W,,,,,,,,,,,,Q,,,,,,,,,,,,
 OL,15, EkrudyDref   1 1 2 1 1 1 1 1 2 2   B65 
 OL,16, RESOVIAK     1 1 2 1 1 1 1 1 2 2   B65 
 OL,17, FrancoLoco                         B63 
-OL,18, FRAK                               B62 
+OL,18, FRAK         1 1 2 X 1 1 1 1 X 2   B62 
 OL,19, Go|^1z92     1 1 2 1 1 1 1 1 2 2   B62 
 OL,20, Hegemon01    1 1 2 1 1 1 1 1 2 2   B62 
 OL,21, Lapi63       1 1 2 1 1 1 1 1 X 2   B62 
@@ -411,7 +411,7 @@ SC,0016
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:19
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:18
 OL,1,B]GSerie A    ]A12/38      ]        GLW 
 OL,2,R,,,,,,,,,,,,,W,,,,,,,,,,,,Q,,,,,,,,,,,,
 OL,3,             A? ? ? ? ? ? ? ? ? ?  Bpkt.
@@ -432,7 +432,7 @@ SC,0017
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:19
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:18
 OL,1,B]GSerie A    ]A13/38      ]        GLW 
 OL,2,BVenezia        - Bologna    27.11 20.45
 OL,3, Frosinone      - Parma      28.11 15.00
@@ -458,7 +458,7 @@ SC,0018
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:20
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:18
 OL,1,B]GSerie A    ]A14/38      ]        GLW 
 OL,2,BBologna        - Roma       04.12 20.45
 OL,3, Monza          - Como       05.12 15.00
@@ -484,7 +484,7 @@ SC,0019
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:20
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:18
 OL,1,B]GSerie A    ]A15/38      ]        GLW 
 OL,2,BUdinese        - Frosinone  11.12 20.45
 OL,3, Cagliari       - Venezia    12.12 15.00
@@ -508,7 +508,7 @@ SC,0020
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     296Cczw 19 lis  18:05:20
+OL,0,      BTVP2     296Cpi@ 20 lis  19:13:18
 OL,1,B]GSerie A    ]A16/38      ]        GLW 
 OL,2,BFrosinone      - Lazio      18.12 18.30
 OL,3,BLecce          - Inter            20.45

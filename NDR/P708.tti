@@ -1,14 +1,50 @@
 DE,NDR 708
-PN,70800
-SC,0000
-PS,8200
+PN,70801
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       G708FNDR TEXT GFr 20.11.B05:03:21
+OL,0,       G708FNDR TEXT GFr 20.11.B13:41:55
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
-OL,4,F]T  %D     Hamburg          Stand 04:55
-OL,6, Zurzeit liegen keine Meldungen vor.    
+OL,4,F]T  %D     Hamburg          Stand 13:15
+OL,5, Hamburg: Wegen mehrerer Demonstrationen
+OL,6, muss in Sankt Georg, der Alstadt,      
+OL,7, Rothenbaum sowie Eppendorf bis circa 15
+OL,8, Uhr mit Verkehrsbehinderungen gerechnet
+OL,9, werden.                                
+OL,11,FHamburg: Die Steintorbr}cke Richtung   
+OL,12,FBorgfelde ist wegen einer              
+OL,13,FFahrbahnerneuerung bis morgen fr}h, 5  
+OL,14,FUhr, gesperrt.                         
+OL,16, Hamburg: Die B75 B}rgerweide wird      
+OL,17, zwischen Anckelmannsplatz und          
+OL,18, Wallstra~e wegen Br}ckenarbeiten von 22
+OL,19, Uhr bis Dienstag, circa 22 Uhr, in     
+OL,20, beiden Richtungen gesperrt.            
 OL,23,A]G701<           FLUGHAFEN HAMBURG >710
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,70802
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       G708FNDR TEXT GFr 20.11.B13:41:55
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
+OL,4,F]T  %D     Hamburg          Stand 13:20
+OL,5, Hamburg: Der Berlinertordamm wird wegen
+OL,6, Br}ckenarbeiten von circa 22 Uhr bis   
+OL,7, Montag, circa 22 Uhr, in beiden        
+OL,8, Richtung gesperrt.                     
+OL,10,FHamburg: Die Stra~e Alsterufer ist     
+OL,11,Fzwischen Fontenay und Alsterpark wegen 
+OL,12,Feines Kraneinsatzes bis circa 19 Uhr   
+OL,13,Fgesperrt.                              
+OL,15, Hamburg: An der Kreuzung               
+OL,16, Elbgaustra~e/Farnhornweg sind die      
+OL,17, Ampeln au~er Betrieb.                  
+OL,23,A]G701<           FLUGHAFEN HAMBURG >710
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

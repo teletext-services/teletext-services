@@ -3,27 +3,27 @@ PN,55601
 SC,0001
 PS,C200
 CT,10,T
-OL,0,     G556 WDR Text GFr 20.11.26 01:00:25
+OL,0,     G556 WDR Text GFr 20.11.26 19:31:45
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DD]SSELDORF     ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 01:00            
+OL,4,                 STAND 19:31            
 OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B06:35 XQ 1390 Gaziantep                
-OL,8, 06:40 XQ 1350 Samsun                   
-OL,9,B07:30 EY  133 Abu Dhabi    07:51       
-OL,10, 07:40 KL 1797 Amsterdam                
-OL,11,B07:40 LH 2000 M}nchen                  
-OL,12, 08:00 XC  102 Antalya                  
-OL,13,B08:15 XQ 1320 Kayseri                  
-OL,14, 08:15 EJU3947 Mailand-MXP              
-OL,15,B08:20 EW 8040 Berlin - BER             
-OL,16, 08:40 VL 2004 M}nchen                  
-OL,17,B08:50 AF 1306 Paris - CDG              
-OL,18, 08:50 LX 1016 Zuerich                  
-OL,19,B08:50 LH 5793 Zuerich                  
-OL,20, 09:00 PC 1007 Istanbul-SAW             
-OL,21,B09:05 BA  930 London - LHR             
+OL,7,B17:35 TU  526 Tunis        18:42 geland
+OL,8, 18:05 XQ 1328 Zonguldak    22:08       
+OL,9,B18:50 IB  755 Madrid - MAD 18:43 geland
+OL,10, 18:55 EK  057 Dubai - DXB  18:54 geland
+OL,11,B18:55 QF 8057 Dubai - DXB  18:54 geland
+OL,12, 18:55 PC 1005 Istanbul-SAW 19:15 geland
+OL,13,B18:55 SK  627 Kopenhagen   19:40       
+OL,14, 18:55 LH 2028 M}nchen      19:00 geland
+OL,15,B19:00 DE  869 Beirut       18:59 geland
+OL,16, 19:05 XQ  794 Ankara       19:04 geland
+OL,17,B19:05 EW 8046 Berlin - BER 19:09 geland
+OL,18, 19:05 LO  407 Warschau     19:18 geland
+OL,19,B19:10 BT  233 Riga         19:17 geland
+OL,20, 19:10 OS  167 Wien         19:19 geland
+OL,21,B19:10 LX 1026 Zuerich      19:23 geland
 OL,23,]D555 < ]bersicht       DUS Abflug > 557
 OL,24,A]G- 555B]G+ 557C]DD}sseldorf \   G(1/6)
 FL,555,557,0,0,0,100
@@ -31,27 +31,27 @@ PN,55602
 SC,0002
 PS,C200
 CT,10,T
-OL,0,     G556 WDR Text GFr 20.11.26 01:00:25
+OL,0,     G556 WDR Text GFr 20.11.26 19:31:45
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DD]SSELDORF     ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 01:00            
+OL,4,                 STAND 19:31            
 OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B09:05 OS  161 Wien                     
-OL,8, 09:10 AY 1391 Helsinki                 
-OL,9,B09:20 TK 1523 Istanbul-IST             
-OL,10, 09:30 SK 1629 Kopenhagen               
-OL,11,B09:30 EW 9081 M}nchen                  
-OL,12, 09:35 LH  072 Frankfurt                
-OL,13,B09:40 LH 2006 M}nchen                  
-OL,14, 09:40 LO  403 Warschau                 
-OL,15,B09:50 EI  692 Dublin                   
-OL,16, 09:50 EW 9761 Zuerich                  
-OL,17,B09:55 VF  029 Istanbul-SAW             
-OL,18, 10:00 EW 9031 Hamburg                  
-OL,19,B10:05 EW 9713 Salzburg                 
-OL,20, 10:15 ME  247 Beirut                   
-OL,21,B10:20 EW 9771 Prag                     
+OL,7,B19:10 LH 5797 Zuerich      19:23 geland
+OL,8, 19:40 JU  362 Belgrad      20:07       
+OL,9,B19:40 BA  938 London - LHR 19:59       
+OL,10, 19:50 XQ  180 Antalya      19:50       
+OL,11,B19:50 EI  698 Dublin       19:35 geland
+OL,12, 19:55 AF 1006 Paris - CDG  19:50       
+OL,13,B20:05 EJU3949 Mailand-MXP  20:00       
+OL,14, 20:10 LH 2032 M}nchen      20:23       
+OL,15,B20:15 VY 1096 Barcelona    20:22       
+OL,16, 20:15 XR  506 Fuerte       20:34       
+OL,17,B20:15 EW 9757 Wien         20:13       
+OL,18, 20:20 XR 6814 S.El Sheik   20:05       
+OL,19,B20:25 EW 9983 Hurghada     20:22       
+OL,20, 20:35 DE 1457 Fuerte       20:48       
+OL,21,B20:40 EW 9413 Lyon - LYS   20:44       
 OL,23,]D555 < ]bersicht       DUS Abflug > 557
 OL,24,A]G- 555B]G+ 557C]DD}sseldorf \   G(2/6)
 FL,555,557,0,0,0,100
@@ -59,27 +59,27 @@ PN,55603
 SC,0003
 PS,C200
 CT,10,T
-OL,0,     G556 WDR Text GFr 20.11.26 01:00:25
+OL,0,     G556 WDR Text GFr 20.11.26 19:31:45
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DD]SSELDORF     ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 01:00            
+OL,4,                 STAND 19:31            
 OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B10:25 EW 9331 Birmingham               
-OL,8, 10:25 EW 9341 Manchester               
-OL,9,B10:30 GQ  890 Athen                    
-OL,10, 10:30 EW 9461 London - LHR             
-OL,11,B10:30 EW 9841 Mailand-LIN              
-OL,12, 10:45 AT  696 Nador                    
-OL,13,B10:45 AF 1606 Paris - CDG              
-OL,14, 11:05 KL 1799 Amsterdam                
-OL,15,B11:05 BA  932 London - LHR             
-OL,16, 11:05 EW 9751 Wien                     
-OL,17,B11:10 A3  840 Athen                    
-OL,18, 11:10 SK  818 Oslo - OSL               
-OL,19,B11:15 X3 4107 Heraklion                
-OL,20, 11:20 IB 1319 Madrid - MAD             
-OL,21,B11:20 LH 2012 M}nchen                  
+OL,7,B20:45 X3 2535 Teneriffa    20:58       
+OL,8, 20:55 EW 9511 Madrid - MAD 21:04       
+OL,9,B21:00 X3 2115 Gran Canaria 21:13       
+OL,10, 21:00 DE  069 Hurghada     21:34       
+OL,11,B21:00 EW 9085 M}nchen      21:02       
+OL,12, 21:10 DE 1435 Gran Canaria 21:18       
+OL,13,B21:25 ENT6063 Pristina     21:42       
+OL,14, 21:30 EW 8042 Berlin - BER 21:46       
+OL,15,B21:40 EW 9023 Dresden      21:45       
+OL,16, 21:40 AF 1106 Paris - CDG  21:40       
+OL,17,B21:40 EW 9755 Wien         21:44       
+OL,18, 21:45 EW 9717 Salzburg     21:49       
+OL,19,B21:50 EW 9835 Bologna      22:17       
+OL,20, 21:55 EW 9443 Barcelona    21:59       
+OL,21,B21:55 EW 9365 Edinburgh    21:48       
 OL,23,]D555 < ]bersicht       DUS Abflug > 557
 OL,24,A]G- 555B]G+ 557C]DD}sseldorf \   G(3/6)
 FL,555,557,0,0,0,100
@@ -87,27 +87,27 @@ PN,55604
 SC,0004
 PS,C200
 CT,10,T
-OL,0,     G556 WDR Text GFr 20.11.26 01:00:25
+OL,0,     G556 WDR Text GFr 20.11.26 19:31:45
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DD]SSELDORF     ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 01:00            
+OL,4,                 STAND 19:31            
 OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B11:35 X3 2147 Palma                    
-OL,8, 11:40 PC 1001 Istanbul-SAW             
-OL,9,B11:40 A3  540 Thessaloniki             
-OL,10, 11:45 BQ 1952 Bozen                    
-OL,11,B12:00 EW 9441 Barcelona                
-OL,12, 12:20 TP  540 Lissabon                 
-OL,13,B12:30 EK  055 Dubai - DXB              
-OL,14, 12:30 QF 8055 Dubai - DXB              
-OL,15,B12:30 VF  025 Istanbul-SAW             
-OL,16, 12:35 XQ  184 Antalya                  
-OL,17,B12:35 EW 9885 Rom - FCO                
-OL,18, 12:40 EW 9793 Bukarest                 
-OL,19,B12:50 IV 8220 Pristina                 
-OL,20, 13:00 DY 1132 Oslo - OSL               
-OL,21,B13:05 EW 9815 Catania                  
+OL,7,B21:55 EW 9469 London - LHR 21:57       
+OL,8, 21:55 X3 6643 Marsa Alam   21:59       
+OL,9,B21:55 EW 9217 Stockholm    21:51       
+OL,10, 22:00 EW 9519 Bilbao       21:59       
+OL,11,B22:00 EW 4204 Prag         21:55       
+OL,12, 22:05 EW 9537 Malaga       22:21       
+OL,13,B22:05 EW 9883 Rom - FCO    22:14       
+OL,14, 22:05 EW 9765 Zuerich      22:24       
+OL,15,B22:10 KL 1805 Amsterdam    22:11       
+OL,16, 22:10 EW 9337 Birmingham   22:21       
+OL,17,B22:10 EW 9221 G|teborg     22:03       
+OL,18, 22:15 EW 9785 Budapest     22:15       
+OL,19,B22:15 LH  078 Frankfurt    22:22       
+OL,20, 22:15 EW 9847 Mailand-LIN  22:05       
+OL,21,B22:15 EW 9345 Manchester   22:16       
 OL,23,]D555 < ]bersicht       DUS Abflug > 557
 OL,24,A]G- 555B]G+ 557C]DD}sseldorf \   G(4/6)
 FL,555,557,0,0,0,100
@@ -115,27 +115,27 @@ PN,55605
 SC,0005
 PS,C200
 CT,10,T
-OL,0,     G556 WDR Text GFr 20.11.26 01:00:25
+OL,0,     G556 WDR Text GFr 20.11.26 19:31:45
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DD]SSELDORF     ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 01:00            
+OL,4,                 STAND 19:31            
 OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B13:05 TK 1525 Istanbul-IST             
-OL,8, 13:10 EW 9043 Berlin - BER             
-OL,9,B13:10 QR  085 Doha                     
-OL,10, 13:15 SM 2928 Hurghada                 
-OL,11,B13:15 XQ  958 Izmir                    
-OL,12, 13:20 MS  733 Cairo                    
-OL,13,B13:35 EW 9539 Valencia                 
-OL,14, 13:40 EW 9501 Ibiza                    
-OL,15,B13:45 LH  074 Frankfurt                
-OL,16, 13:45 EW 9581 Palma                    
-OL,17,B13:50 KL 1801 Amsterdam                
-OL,18, 13:50 LX 1018 Zuerich                  
-OL,19,B13:50 LH 5795 Zuerich                  
-OL,20, 14:00 RJ  129 Amman                    
-OL,21,B14:05 AF 1506 Paris - CDG              
+OL,7,B22:20 EW 9247 Kopenhagen   22:12       
+OL,8, 22:20 BA  940 London - LHR 22:29       
+OL,9,B22:25 EW 9735 Warschau     23:11       
+OL,10, 22:30 TK 1529 Istanbul-IST 22:36       
+OL,11,B22:35 X3 2117 Fuerte       22:15       
+OL,12, 22:35 IB 1325 Madrid - MAD 22:25       
+OL,13,B22:40 LH 2040 M}nchen                  
+OL,14, 22:50 X3 6123 Hurghada     23:16       
+OL,15,B06:20 PC 1591 Adana - COV              
+OL,16, 06:40 XQ 1334 Elazig                   
+OL,17,B07:10 QR  087 Doha                     
+OL,18, 07:30 EY  133 Abu Dhabi                
+OL,19,B07:35 DE 3843 La Romana                
+OL,20, 07:40 KL 1797 Amsterdam                
+OL,21,B07:50 VY 1094 Barcelona                
 OL,23,]D555 < ]bersicht       DUS Abflug > 557
 OL,24,A]G- 555B]G+ 557C]DD}sseldorf \   G(5/6)
 FL,555,557,0,0,0,100
@@ -143,27 +143,27 @@ PN,55606
 SC,0006
 PS,C200
 CT,10,T
-OL,0,     G556 WDR Text GFr 20.11.26 01:00:25
+OL,0,     G556 WDR Text GFr 20.11.26 19:31:45
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DD]SSELDORF     ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 01:00            
+OL,4,                 STAND 19:31            
 OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B14:15 OS  163 Wien                     
-OL,8, 14:20 EW 9643 Faro                     
-OL,9,B14:35 PC 1003 Istanbul-SAW             
-OL,10, 14:45 SK 1621 Kopenhagen               
-OL,11,B14:55 EW 9339 Newcastle                
-OL,12, 15:05 EW 9463 London - LHR             
-OL,13,B15:15 LH 2020 M}nchen                  
-OL,14, 15:25 EW 8044 Berlin - BER             
-OL,15,B15:30 EZY8649 London - LGW             
-OL,16, 15:35 VF  027 Istanbul-SAW             
-OL,17,B15:40 VF  005 Ankara                   
-OL,18, 15:45 BA  934 London - LHR             
-OL,19,B16:00 EW 9981 Beirut                   
-OL,20, 16:10 EW 7066 Hamburg                  
-OL,21,B16:15 EW 9733 Krakau                   
+OL,7,B08:00 XC  102 Antalya                  
+OL,8, 08:35 LH 2004 M}nchen                  
+OL,9,B08:45 JU  360 Belgrad                  
+OL,10, 08:45 LX 1016 Zuerich                  
+OL,11,B08:45 LH 5793 Zuerich                  
+OL,12, 08:50 AF 1306 Paris - CDG              
+OL,13,B09:00 PC 1007 Istanbul-SAW             
+OL,14, 09:05 UD  437 Erbil                    
+OL,15,B09:05 BA  930 London - LHR             
+OL,16, 09:05 OS  161 Wien                     
+OL,17,B09:10 AY 1391 Helsinki                 
+OL,18, 09:20 TK 1523 Istanbul-IST             
+OL,19,B09:30 SK 1629 Kopenhagen               
+OL,20, 09:35 LH  072 Frankfurt                
+OL,21,B09:35 LO  403 Warschau                 
 OL,23,]D555 < ]bersicht       DUS Abflug > 557
 OL,24,A]G- 555B]G+ 557C]DD}sseldorf \   G(6/6)
 FL,555,557,0,0,0,100

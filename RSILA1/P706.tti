@@ -3,26 +3,26 @@ PN,70601
 SC,0001
 PS,C300
 CT,10,T
-OL,0,    BTELEVIDEO 706.01CVe 20 Nov 05:01:11
+OL,0,    BTELEVIDEO 706.01CVe 20 Nov 14:59:08
 OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
 OL,2,D]Voo5 $1!" $1 CADRIATICO E IONICO
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 21 DEL 19    
+OL,4,D]  COSSERVAZIONI ALLE ORE 13 DEL 20    
 OL,5,                                   C1/3 
-OL,6,C]DTRIESTE     \ FNuvoloso              
-OL,7,BTemp:F10         BVento:F3 nodi n/e    
+OL,6,C]DTRIESTE     \ FParzialmente nuvoloso 
+OL,7,                  BVento:F3 nodi o/so   
 OL,8,BVisib:FOttima                          
-OL,9,D]CVENEZIA     \ FSereno                
-OL,10,FTemp: 8          BVento:F3 nodi n/o    
-OL,11,BVisib:FOttima                          
-OL,12,C]DUDINE       \ FNuvoloso              
-OL,13,BTemp:F8          BVento:F5 nodi n/ne   
+OL,9,D]CVENEZIA     \ FParzialmente nuvoloso 
+OL,10,FTemp: 15         BVento:F2 nodi var.   
+OL,11,BVisib:FBuona                           
+OL,12,C]DUDINE       \ FPoco nuvoloso         
+OL,13,BTemp:F12         BVento:F6 nodi n/no   
 OL,14,BVisib:FOttima                          
 OL,15,D]CRIMINI      \ FSereno                
-OL,16,FTemp: 8          BVento:F5 nodi o/no   
+OL,16,FTemp: 20         BVento:F19 nodi o/so  
 OL,17,BVisib:FOttima                          
 OL,18,C]DANCONA      \ Fn.p.                  
-OL,19,BTemp:F14         BVento:F10 nodi s/o   
+OL,19,BTemp:F19         BVento:F13 nodi o/so  
 OL,20,BVisib:FOttima                          
 OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
 FL,705,707,100,100,0,100
@@ -30,21 +30,21 @@ PN,70602
 SC,0002
 PS,C300
 CT,10,T
-OL,0,    BTELEVIDEO 706.02CVe 20 Nov 05:01:11
+OL,0,    BTELEVIDEO 706.02CVe 20 Nov 14:59:08
 OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
 OL,2,D]Voo5 $1!" $1 CADRIATICO E IONICO
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 21 DEL 19    
+OL,4,D]  COSSERVAZIONI ALLE ORE 13 DEL 20    
 OL,5,                                   C2/3 
 OL,6,C]DPESCARA     \ Fn.p.                  
-OL,7,BTemp:F20         BVento:F15 nodi o/so  
+OL,7,BTemp:F22         BVento:F5 nodi n/o    
 OL,8,BVisib:FOttima                          
 OL,9,D]CCAMPOBASSO  \ Fn.p.                  
-OL,10,FTemp: 13         BVento:F24 nodi o/so  
+OL,10,FTemp: 14         BVento:F16 nodi var.  
 OL,12,C]DTERMOLI     \ Fn.p.                  
-OL,13,BTemp:F21         BVento:F12 nodi s/o   
-OL,15,D]CBARI        \ FSereno                
-OL,16,FTemp: 21         BVento:F15 nodi s/so  
+OL,13,BTemp:F20         BVento:F2 nodi var.   
+OL,15,D]CBARI        \ FPoco nuvoloso         
+OL,16,FTemp: 21         BVento:F15 nodi o/so  
 OL,17,BVisib:FOttima                          
 OL,18,C]DPOTENZA     \ Fn.p.                  
 OL,19,BOsservazione non disponibile.          
@@ -54,24 +54,24 @@ PN,70603
 SC,0003
 PS,C300
 CT,10,T
-OL,0,    BTELEVIDEO 706.03CVe 20 Nov 05:01:11
+OL,0,    BTELEVIDEO 706.03CVe 20 Nov 14:59:08
 OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
 OL,2,D]Voo5 $1!" $1 CADRIATICO E IONICO
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 21 DEL 19    
+OL,4,D]  COSSERVAZIONI ALLE ORE 13 DEL 20    
 OL,5,                                   C3/3 
 OL,6,C]DBRINDISI    \ FSereno                
-OL,7,BTemp:F22         BVento:F16 nodi s/so  
+OL,7,BTemp:F21         BVento:F14 nodi o/so  
 OL,8,BVisib:FOttima                          
 OL,9,D]CLECCE       \ FSereno                
-OL,10,FTemp: 20         BVento:F7 nodi s/se   
+OL,10,FTemp: 21         BVento:F14 nodi oves  
 OL,11,BVisib:FOttima                          
 OL,12,C]DS.M. LEUCA  \ Fn.p.                  
-OL,13,BTemp:F19         BVento:F16 nodi s/so  
+OL,13,BTemp:F19         BVento:F11 nodi oves  
 OL,15,D]CTARANTO     \ Fn.p.                  
-OL,16,FTemp: 23         BVento:F7 nodi s/o    
+OL,16,FTemp: 22         BVento:F11 nodi oves  
 OL,18,C]DCROTONE     \ FSereno                
-OL,19,BTemp:F23         BVento:F20 nodi s/so  
+OL,19,BTemp:F20         BVento:F12 nodi o/so  
 OL,20,BVisib:FOttima                          
 OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
 FL,705,707,100,100,0,100

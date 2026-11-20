@@ -3,62 +3,65 @@ PN,10601
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F13:01:15
+OL,0,         GFORUM64   GFr 20 Nov F12:23:16
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EDolphinDOS26UL: neues Kernal f}r C64   
-OL,3,Eund C64U (aus C64U-Thread)...          
-OL,5,CAntwort:  Bcruncher                    
-OL,6,CComments: B44                          
+OL,2,E(Release) TRX64 MultiCore f}r C64U und 
+OL,3,EUltimate64 Elite 2                     
+OL,5,CAntwort:  BJondalar                    
+OL,6,CComments: B27                          
 OL,7,F                                       
-OL,8,F( )                                    
-OL,10,FHast du Extra Ram und Parallel Kabel   
-OL,11,Faktiviert?                             
-OL,13,CErster Beitrag:                        
-OL,15,GHallo,                                 
-OL,17,Gich habe ein spezielles Laufwerks und  
-OL,18,GC64 Kernel ROM f}r den C64U erstellt.  
-OL,19,GEs basiert auf DolphinDOS 3 und nennt  
-OL,20,Gsich DolphinDOS26UL. Mit diesem 1541   
-OL,21,Gund C64 Kernal kann der C64U }ber den  
-OL,22,Ginternen Parallelport f}r das Drive A  
-OL,23,Gmit DolphinDOS + Zusatz RAM arbeiten.  
+OL,8,FAh ok, wenn du was findest mach einen  
+OL,9,FPR bitte, ich baue eh neu am           
+OL,10,FWochenende, sonst muss mal die USB     
+OL,11,FTastatur abziehen und eine aus dem C64 
+OL,12,Fdranstecken.                           
+OL,14,CErster Beitrag:                        
+OL,16,GGuten Abend, Nach zwei Monaten Arbeit  
+OL,17,Gerreicht mein kleines Abenteuer in der 
+OL,18,GWelt der FPGA-Firmwares einen          
+OL,19,GMeilenstein.                           
+OL,21,G--> Ab sofort k|nnt ihr TRX64 MultiCore
+OL,22,Gherunterladen.                         
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,10602
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F13:01:15
+OL,0,         GFORUM64   GFr 20 Nov F12:23:16
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GParallel kann der Kernel mit anderen   
-OL,4,GIEC-Ger{ten wie 1541, 1571, PI1541,    
-OL,5,GSD2IEC }ber das JiffyDOS-Protokoll     
-OL,6,Gsprechen ohne den Kernal zu wechseln.  
-OL,7,GSomit hat man immer eine schnelle      
-OL,8,G]bertragung. Der Kernel w{hlt          
-OL,9,Gautomatisch das beste Protokoll        
-OL,10,G(DolphinDOS, JiffyDOS oder original    
-OL,11,GCBM-Seriell).                          
-OL,13,GDas gleiche habe ich auch mit dem      
-OL,14,GSpeedDOS gemacht. Es hei~t jetzt bei   
-OL,15,Gmir SpeedDOS26 und braucht im Gegensatz
-OL,16,Gzu DolphinDOS nicht das Zusatz-RAM in  
-OL,17,Gder Floppy.                            
-OL,19,GDas ganze l{uft nat}rlich auch auf     
-OL,20,Grealer Hardware.                       
-OL,22,GLink:                                  
-OL,23,Ghttps://github.com/FraEgg/DolphinDOS   
+OL,3,GWas ist das? TRX64 MultiCore ist eine  
+OL,4,GArt Bootloader-Firmware f}r C64U (UE2) 
+OL,6,GWas kann ich damit machen? Du kannst   
+OL,7,Gdamit unterschiedliche Firmwares und   
+OL,8,GFPGA-Cores auf eurem Ger{t starten:    
+OL,10,GOriginal-Firmware wie Gideons 3.15 oder
+OL,11,GCommodores 1.2.1 Alternative Firmware  
+OL,12,Gwie TRX64 Andere Computersysteme wie   
+OL,13,GAmiga, C128, VC20, C16/Plus4 und       
+OL,14,Gweitere Wie funktioniert das? Der      
+OL,15,GBootloader bleibt dauerhaft auf dem    
+OL,16,GGer{t. Ihr w{hlt die gew}nschte        
+OL,17,GFirmware beziehungsweise den FPGA-Core 
+OL,18,Gaus, und dieser wird geladen und       
+OL,19,Ggestartet.                             
+OL,21,GIhr m}sst also nicht jedes Mal das     
+OL,22,GGer{t neu flashen, nur weil ihr ein    
+OL,23,Ganderes System ausprobieren m|chtet.   
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,10603
 SC,0003
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F13:01:15
+OL,0,         GFORUM64   GFr 20 Nov F12:23:16
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GWeitere Informationen zum gesamten     
-OL,4,GMulti-Speeder-Projekt unter:           
-OL,6,Ghttps://github.com/FraEgg/Switchless-Mu
-OL,7,Glti-Speeder-Project                    
+OL,3,GDas FPGA-System ist grunds{tzlich frei 
+OL,4,Gprogrammierbar. Im Prinzip k|nnt ihr   
+OL,5,Galles ausf}hren, was die FPGA-Hardware 
+OL,6,Ghergibt und wof}r jemand eine passende 
+OL,7,GFirmware beziehungsweise einen Core    
+OL,8,Gentwickelt hat.                        
+OL,10,GIm                                     
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

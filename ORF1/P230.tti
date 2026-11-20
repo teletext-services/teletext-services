@@ -3,35 +3,62 @@ PN,23001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G230FORF1   GDo 19.11.26 16:18:45
+OL,0,       G230FORF1   GFr 20.11.26 14:09:52
 OL,1,A]G                            Formel 1 
 OL,2,A]GSPORT  ]A     Las Vegas, 21.WM-Lauf \
-OL,3,Q#########G                        1/2  
-OL,4,F50 Runden a 6,201 km = 309,958 km      
-OL,6,CFreitag                                
-OL,7, 1.Training                     1.30hF* 
-OL,8, 2.Training                     5.00hF* 
-OL,10,CSamstag                                
-OL,11, 3.Training                     1.30hF* 
-OL,12, Qualifying                     5.00hF* 
-OL,14,CSonntag                                
-OL,15, Grand Prix                     5.00hF* 
-OL,17,F            * live in ORF1             
-OL,19,FErgebnis 2025                          
-OL,20,  1. Max Verstappen       Red Bull      
-OL,21,  2. George Russell       Mercedes      
-OL,22,  3. Kimi Antonelli       Mercedes      
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,Q#########G                        1/3  
+OL,4,F2.Training, Freitag                    
+OL,5,  1. G.Russell    Mercedes     1:47,272 
+OL,6,  2. P.Gasly      Alpine        + 0,071 
+OL,7,  3. C.Leclerc    Ferrari         0,333 
+OL,8,  4. I.Hadjar     Red Bull        1,135 
+OL,9,  5. O.Piastri    McLaren         1,181 
+OL,10,  6. L.Hamilton   Ferrari         1,211 
+OL,11,  7. L.Norris     McLaren         1,565 
+OL,12,  8. K.Antonelli  Mercedes        1,771 
+OL,13,  9. F.Colapinto  Alpine          1,957 
+OL,14, 10. F.Alonso     Aston Martin    1,959 
+OL,15, 11. L.Stroll     Aston Martin    2,510 
+OL,16, 12. A.Albon      Williams        2,557 
+OL,17, 13. M.Verstappen Red Bull        2,869 
+OL,18, 14. S.Perez      Cadillac        3,159 
+OL,19, 15. O.Bearman    Haas            3,427 
+OL,20, 16. L.Lawson     Racing Bulls    3,737 
+OL,21, 17. A.Lindblad   Racing Bulls    3,876 
+OL,22, 18. C.Sainz      Williams        4,299 
+OL,23,Q,,,Fkeine Zeiten im 1.Training (Regen) 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,23002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G230FORF1   GDo 19.11.26 16:18:45
+OL,0,       G230FORF1   GFr 20.11.26 14:09:52
+OL,1,A]G                            Formel 1 
+OL,2,A]GSPORT  ]A     Las Vegas, 21.WM-Lauf \
+OL,3,Q#########G                        2/3  
+OL,4,F50 Runden a 6,201 km = 309,958 km      
+OL,6,CSamstag                                
+OL,7, 3.Training                     1.30hF* 
+OL,9, Qualifying                     5.00hF* 
+OL,11,CSonntag                                
+OL,12, Grand Prix                     5.00hF* 
+OL,14,F            * live in ORF1             
+OL,16,FErgebnis 2025                          
+OL,17,  1. Max Verstappen       Red Bull      
+OL,18,  2. George Russell       Mercedes      
+OL,19,  3. Kimi Antonelli       Mercedes      
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,23003
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       G230FORF1   GFr 20.11.26 14:09:52
 OL,1,A]G                            Formel 1 
 OL,2,A]GSPORT  ]A         A   AWM-Wertungen \
-OL,3,Q#########G                        2/2  
+OL,3,Q#########G                        3/3  
 OL,4,FStand nach 26 von 29 Bewerben *        
 OL,6,FFahrer-WM                              
 OL,7,  1. KIMI ANTONELLI    ITA/Mercedes 390 

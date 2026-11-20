@@ -3,20 +3,17 @@ PN,22601
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G226CORF SPORT+G19.11.26 16:13:32
+OL,0,       G226CORF SPORT+G20.11.26 14:45:14
 OL,1,A]G                              Tennis 
-OL,2,A]GSPORT  ]A                WTA Finals \
-OL,3,Q#########G                        1/2  
-OL,4,FIndian Wells (USA, 15,5 Mio $, Hard)   
-OL,6,FEinzel, Finale                         
-OL,8,FMirra Andrejewa (RUS/3) -          7 6 
-OL,9,  Elina Switolina (UKR/6)           5 3 
-OL,11, 1.Titel f}r Andrejewa bei Finals       
-OL,13,FHalbfinale                             
-OL,15,FMirra Andrejewa (RUS/3) -          6 6 
-OL,16,  Jessica Pegula (USA/5)            3 4 
-OL,18,FElina Switolina (UKR/6) -          6 6 
-OL,19,  Linda Noskova (CZE/8)             2 1 
+OL,2,A]GSPORT  ]A                 Davis Cup \
+OL,3,Q#########G                        1/3  
+OL,4,FFinal 8 in Bologna                     
+OL,6,FViertelfinal-Tableau                   
+OL,8, Italien (1)     - S}dkorea             
+OL,10, Tschechien (4)  - Kanada               
+OL,12, Deutschland (3) - Gro~britannien       
+OL,14, Spanien (2)     -C\sterreich           
+OL,16,FFinalturnier von 24. bis 29.November   
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -24,19 +21,51 @@ PN,22602
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G226CORF SPORT+G19.11.26 16:13:32
+OL,0,       G226CORF SPORT+G20.11.26 14:45:14
 OL,1,A]G                              Tennis 
-OL,2,A]GSPORT  ]A                WTA Finals \
-OL,3,Q#########G                        2/2  
-OL,4,FIndian Wells (USA, 15,5 Mio $, Hard)   
-OL,6,FDoppel, Finale                         
-OL,8,FSiniakova/Townsend (CZE/USA/2) -   6 6 
-OL,9,  Errani/Paolini (ITA/8)            4 3 
-OL,11,FHalbfinale                             
-OL,13,FSiniakova/Townsend (CZE/USA/2) - * 7 6 
-OL,14,  Dabrowski/Stefani (CAN/BRA/1)     6 3 
-OL,16,FErrani/Paolini (ITA/8) -           6 6 
-OL,17,  Guo/Mladenovic (CHN/FRA/3)        3 4 
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,F* Tiebreak: 7/4 
+OL,2,A]GSPORT  ]                 ADavis Cup \
+OL,3,Q#########G                        2/3  
+OL,4,FViertelfinale in Bologna (Hard/Halle)  
+OL,6,CDienstag, 24.November, 16.00h          
+OL,7,FTschechien     - Kanada        -:-     
+OL,8, Lehecka          Auger-A.              
+OL,9, Mensik           Draxl                 
+OL,10, Machac           Galarneau             
+OL,11, Rikl             Chan                  
+OL,12, Pavlasek         Rice                  
+OL,14,CMittwoch, 25.November, 16.00h          
+OL,15,FItalien        - S}dkorea      -:-     
+OL,16, Cobolli          Kwon                  
+OL,17, Darderi          Chung                 
+OL,18, Musetti          Park                  
+OL,19, Vavassori        Hong                  
+OL,20, Bolelli          Nam                   
+OL,23,Q,,,,,,,,,,,,,,,,FHalbfinale: Fr,16.00h 
+OL,24,A]bersicht  BSport   CFernsehen  FWetter
+FL,100,200,300,600,0,100
+PN,22603
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       G226CORF SPORT+G20.11.26 14:45:14
+OL,1,A]G                              Tennis 
+OL,2,A]GSPORT  ]                 ADavis Cup \
+OL,3,Q#########G                        3/3  
+OL,4,FViertelfinale in Bologna (Hard/Halle)  
+OL,6,CDonnerstag, 26.November, 10.00h        
+OL,7,FGro~britannien - Deutschland   -:-     
+OL,8, Fery             Zverev                
+OL,9, Norrie           Struff                
+OL,10, Patten           Hanfmann              
+OL,11, N.Skupski        Krawietz              
+OL,12,                  P}tz                  
+OL,14,CDonnerstag, 26.November, 17.00h        
+OL,15,F\sterreich     - Spanien       -:-     
+OL,16, Rodionov         Alcaraz               
+OL,17, Neumayer         Jodar                 
+OL,18, Schw{rzler       Merida                
+OL,19, Oberleitner      Martinez              
+OL,20, Miedler          Granollers            
+OL,23,Q,,,,,,,,,,,,,,,,FHalbfinale: Sa,12.00h 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

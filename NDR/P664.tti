@@ -3,27 +3,26 @@ PN,66401
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G664FNDR TEXT GFr 20.11.B03:53:07
+OL,0,       G664FNDR TEXT GFr 20.11.B13:40:22
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD HITLISTE GESTERN            
 OL,4,F]T  %D     Norddeutschland             
-OL,5, Stand: 19.11.2026                      
+OL,5, Stand: 20.11.2026                      
 OL,7,FAM K[LTESTEN (`C)                      
-OL,8, Hattstedt (SH)                     2,9 
-OL,9, Schleswig (SH)                     3,0 
-OL,10, Steinhagen-Negast (MV)             3,1 
-OL,11, Leck (SH)                          3,3 
+OL,8, Itzehoe (SH)                      -1,2 
+OL,9, Hattstedt (SH)                    -0,9 
+OL,10, Leck (SH)                         -0,7 
+OL,11, Quickborn (SH)                     0,3 
 OL,12,FAM W[RMSTEN (`C)                       
-OL,13, Helmstedt-Emmerstedt (NI)         11,3 
-OL,14, Bevern, Kr.Holzminden (NI)        11,1 
-OL,15, G|ttingen (NI)                    11,1 
-OL,16, L}chow (NI)                       11,0 
+OL,13, G|ttingen (NI)                    11,5 
+OL,14, Hameln (NI)                       11,3 
+OL,15, Bevern, Kr.Holzminden (NI)        11,2 
+OL,16, Alfeld (NI)                       11,0 
 OL,17,FAM SONNIGSTEN (Stunden)                
-OL,18, Diepholz (NI)                      1,8 
-OL,19, Kap Arkona/R}gen (MV)              0,5 
-OL,20, Helgoland-S}dhafen (SH)            0,2 
-OL,21, Ueckerm}nde (MV)                   0,1 
+OL,18, Kap Arkona/R}gen (MV)              0,6 
+OL,19, Braunschweig (NI)                  0,1 
+OL,20, sonst bedeckt                          
 OL,23,D]G650<         Temperaturkarten >665 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
 FL,101,200,300,650,0,100
@@ -31,22 +30,22 @@ PN,66402
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G664FNDR TEXT GFr 20.11.B03:53:07
+OL,0,       G664FNDR TEXT GFr 20.11.B13:40:22
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD HITLISTE GESTERN            
 OL,4,F]T  %D     Norddeutschland             
-OL,5, Stand: 19.11.2026                      
+OL,5, Stand: 20.11.2026                      
 OL,7,FAM NIEDERSCHLAGSREICHSTEN (l/qm)       
-OL,8, Braunlage (NI)                    25,7 
-OL,9, Putbus (MV)                       23,3 
-OL,10, Boltenhagen (MV)                  20,8 
-OL,11, Steinhagen-Negast (MV)            19,9 
+OL,8, Verden-Dauelsen (NI)              28,3 
+OL,9, Braunlage (NI)                    27,6 
+OL,10, D|rpen (NI)                       26,2 
+OL,11, Bremen (HB)                       25,9 
 OL,13,FAM WINDIGSTEN (km/h / Bft)             
-OL,14, Spiekeroog West (NI)            103/11 
-OL,15, B}sum (SH)                      102/10 
-OL,16, Helgoland-S}dhafen (SH)          96/10 
-OL,17, Borkum-S}derstra~e (NI)          90/10 
+OL,14, B}ckeburg (NI)                   58/ 7 
+OL,15, Braunlage (NI)                   56/ 7 
+OL,16, Borkum-S}derstra~e (NI)          55/ 7 
+OL,17, Belm (NI)                        52/ 7 
 OL,23,D]G650<         Temperaturkarten >665 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

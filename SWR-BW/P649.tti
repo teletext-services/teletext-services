@@ -3,7 +3,7 @@ PN,64901
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G03:29:24
+OL,0,       BSWR BW C   Fr, 20.11.26G16:52:28
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -23,30 +23,39 @@ PN,64902
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G03:29:24
+OL,0,       BSWR BW C   Fr, 20.11.26G16:52:28
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,7,FWARNUNG vor WINDB\EN                   
-OL,8, G}ltig: Do 20:00 bis Fr 09:00          
-OL,10,FBirkenfeld, Rhein-Hunsr}ck-Kreis       
-OL,11,FKusel                                  
-OL,13, Es treten oberhalb 400 m Windb|en mit  
-OL,14, Geschwindigkeiten zwischen 50 km/h (14 
-OL,15, m/s, 28 kn, Bft 7) und 60 km/h (17 m/s,
-OL,16, 33 kn, Bft 7) aus s}dwestlicher        
-OL,17, Richtung auf. In Schauern{he sowie in  
-OL,18, exponierten Lagen muss mit Sturmb|en   
-OL,19, bis 70 km/h (20 m/s, 38 kn, Bft 8)     
-OL,20, gerechnet werden.                      
-OL,23,D]GQuelle:DWD  Stand:17:10  Hinweise 654
+OL,10,FWARNUNG vor FROST                      
+OL,11, G}ltig: Sa 00:00 bis Sa 09:00          
+OL,13,FBirkenfeld, Rhein-Hunsr}ck-Kreis       
+OL,14,FKusel                                  
+OL,16, Es tritt leichter Frost zwischen 0 `C  
+OL,17, und -3 `C auf.                         
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,64903
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G03:29:24
+OL,0,       BSWR BW C   Fr, 20.11.26G16:52:28
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,11,FWARNUNG vor GL[TTE                     
+OL,12, G}ltig: Sa 00:00 bis Sa 09:00          
+OL,14,FBirkenfeld, Rhein-Hunsr}ck-Kreis       
+OL,16, Es besteht Gl{ttegefahr.               
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64904
+SC,0004
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Fr, 20.11.26G16:52:28
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -60,11 +69,11 @@ OL,17, Richtung auf.
 OL,23,D]GQuelle:DWD  Stand:17:10  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
-PN,64904
-SC,0004
+PN,64905
+SC,0005
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G03:29:24
+OL,0,       BSWR BW C   Fr, 20.11.26G16:52:29
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -76,5 +85,20 @@ OL,15, Intensit{t auf. Dabei werden
 OL,16, Niederschlagsmengen zwischen 30 l/qm   
 OL,17, und 50 l/qm erwartet.                  
 OL,23,D]GQuelle:DWD  Stand:18:19  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64906
+SC,0006
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Fr, 20.11.26G16:52:29
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,11,FWARNUNG vor GL[TTE                     
+OL,12, G}ltig: Sa 02:00 bis Sa 09:00          
+OL,14,FKusel                                  
+OL,16, Es besteht Gl{ttegefahr.               
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

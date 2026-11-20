@@ -3,53 +3,53 @@ PN,70301
 SC,0001
 PS,C300
 CT,10,T
-OL,0,    BLAZIO     703.01CVe 20 Nov 04:56:10
+OL,0,    BLAZIO     703.01CVe 20 Nov 15:08:54
 OL,1, V(|0x<(||4|||(||4x|t CVERSANTE         
 OL,2,D]Voo5 $1!" $1  CALPI/VAL PADANA  
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]    CPREVISIONI PER IL GIORNO 20      
+OL,4,D]    CPREVISIONI PER IL GIORNO 21      
 OL,5,                                   C1/2 
-OL,6,C]DP.ROSA'     \  B-11            -13   
-OL,7,BMolto nuvoloso.FVisibilita' ottima.    
-OL,8,BVento di 2 nodiFda n/o.                
-OL,9,D]CCAMERI (NO) \  B+14             +3   
-OL,10,FParz. nuvoloso. Visibilita' ottima.    
-OL,11,BVento di 1 nodoFda s/so.               
-OL,12,C]DBOLZANO     \   B+4             -4   
-OL,13,BPoco nuvoloso.FVisibilita' scarsa.     
-OL,14,BVento di 1 nodoFda n/no.               
-OL,15,D]CTREVISO     \  B+12             +5   
-OL,16,FParz. nuvoloso. Visibilita' scarsa.    
-OL,17,BVento di 1 nodoFda s/so.               
-OL,18,C]DTARVISIO    \   B+8             -1   
-OL,19,BParz. nuvoloso.FVisibilita' ottima.    
-OL,20,BVento di 1 nodoFda o/so.               
+OL,6,C]DP.ROSA'     \  B-13            -15   
+OL,7,BPoco nuvoloso.FVisibilita' pessima.    
+OL,8,BVento di 1 nodoFda n/o.                
+OL,9,D]CCAMERI (NO) \  B+15             +3   
+OL,10,FSereno. Visibilita' ottima. Vento di 3 
+OL,11,BnodiFda n/no.                          
+OL,12,C]DBOLZANO     \   B+4             -3   
+OL,13,BPoco nuvoloso.FVisibilita' ottima.     
+OL,14,BVento assente                          
+OL,15,D]CTREVISO     \  B+11             +4   
+OL,16,FSereno. Visibilita' pessima. Vento di 1
+OL,17,BnodoFda e/se.                          
+OL,18,C]DTARVISIO    \   B+9              0   
+OL,19,BSereno.FVisibilita' scarsa. Vento di 2 
+OL,20,BnodiFda o/so.                          
 OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
 FL,702,704,100,100,0,100
 PN,70302
 SC,0002
 PS,C300
 CT,10,T
-OL,0,    BLAZIO     703.02CVe 20 Nov 04:56:10
+OL,0,    BLAZIO     703.02CVe 20 Nov 15:08:54
 OL,1, V(|0x<(||4|||(||4x|t CVERSANTE         
 OL,2,D]Voo5 $1!" $1  CALPI/VAL PADANA  
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]    CPREVISIONI PER IL GIORNO 20      
+OL,4,D]    CPREVISIONI PER IL GIORNO 21      
 OL,5,                                   C2/2 
 OL,6,C]DTORINO      \  B+14             +7   
-OL,7,BMolto nuvoloso.FVisibilita' ottima.    
-OL,8,BVento di 2 nodiFda n/ne.               
-OL,9,D]CMILANO      \  B+13             +3   
-OL,10,FParz. nuvoloso. Visibilita' ottima.    
-OL,11,BVento assente                          
-OL,12,C]DPIACENZA    \  B+15             +5   
-OL,13,BPoco nuvoloso.FVisibilita' ottima.     
-OL,14,BVento di 2 nodiFda n/ne.               
-OL,15,D]CVERONA      \  B+12             +3   
-OL,16,FPoco nuvoloso. Visibilita' ottima.     
-OL,17,BVento di 1 nodoFda ovest.              
-OL,18,C]DBOLOGNA     \  B+16             +7   
+OL,7,BPoco nuvoloso.FVisibilita' ottima.     
+OL,8,BVento di 2 nodiFda nord.               
+OL,9,D]CMILANO      \  B+14             +4   
+OL,10,FSereno. Visibilita' ottima. Vento di 4 
+OL,11,BnodiFda o/no.                          
+OL,12,C]DPIACENZA    \  B+16             +8   
+OL,13,BSereno.FVisibilita' ottima. Vento di 4 
+OL,14,BnodiFda n/no.                          
+OL,15,D]CVERONA      \  B+11             +4   
+OL,16,FSereno. Visibilita' pessima. Vento di 3
+OL,17,BnodiFda e/ne.                          
+OL,18,C]DBOLOGNA     \  B+13             +7   
 OL,19,BSereno.FVisibilita' ottima. Vento di 3 
-OL,20,BnodiFdi dir. variabile.                
+OL,20,BnodiFda n/ne.                          
 OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
 FL,702,704,100,100,0,100

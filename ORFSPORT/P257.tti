@@ -3,28 +3,24 @@ PN,25701
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G257CORF SPORT+G19.11.26 17:01:23
+OL,0,       G257CORF SPORT+G20.11.26 14:45:29
 OL,1,A]G                           Eishockey 
 OL,2,A]GSPORT  ]A                       NHL \
-OL,3,Q#########G                        1/3  
-OL,4,CMittwoch                               
-OL,5,FDetroit       - Boston       1:4       
-OL,6, Kasper (D) mit 16:43 min Eiszeit       
-OL,7,FNew Jersey    - Montreal     2:3       
-OL,8, Utah          - Colorado     4:1       
-OL,10,CDonnerstag                             
-OL,11, Carolina      - Montreal               
-OL,12, Ottawa        - Philadelphia           
-OL,13, Pittsburgh    - St.Louis               
-OL,14, Toronto       - Los Angeles            
-OL,15, Washington    - Buffalo                
-OL,16, Winnipeg      - NY Islanders           
-OL,17, Tampa Bay     - Edmonton               
-OL,18, Calgary       - Minnesota              
-OL,19, Chicago       - Columbus               
-OL,20, Colorado      - Anaheim                
-OL,21, Seattle       - Vancouver              
-OL,22, Las Vegas     - Dallas                 
+OL,3,Q#########G                        1/4  
+OL,4,CDonnerstag                             
+OL,5,FSeattle    - Vancouver      5:1        
+OL,6, Rossi (V/14:06 min) ohne Scorerpunkt   
+OL,7,FCarolina   - Montreal       1:2 n.V.   
+OL,8, Ottawa     - Philadelphia   5:6 n.V.   
+OL,9,FPittsburgh - St.Louis       2:5        
+OL,10, Toronto    - Los Angeles    3:4 n.P.   
+OL,11,FWashington - Buffalo        3:6        
+OL,12, Winnipeg   - N.Y.Islanders  4:3 n.V.   
+OL,13,FTampa Bay  - Edmonton       3:1        
+OL,14, Calgary    - Minnesota      1:4        
+OL,15,FChicago    - Columbus       2:4        
+OL,16, Colorado   - Anaheim        4:0        
+OL,17,FLas Vegas  - Dallas         3:4 n.P.   
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -32,28 +28,25 @@ PN,25702
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G257CORF SPORT+G19.11.26 17:01:23
+OL,0,       G257CORF SPORT+G20.11.26 14:45:29
 OL,1,A]G                           Eishockey 
-OL,2,A]GSPORT  ]A   NHL, Eastern Conference \
-OL,3,Q#########G                        2/3  
-OL,4,FAtlantic Division       Sp  S  N OT Pkt
-OL,5,  Tampa Bay LightningF  G21 14  5  2  30
-OL,6,G Ottawa SenatorsF      G22 14  6  2  30
-OL,7,G Montreal CanadiensF   G22 13  5  4  30
-OL,8,  Boston Bruins          22 14  7  1  29
-OL,9,  Florida PanthersF     G23 12  8  3  27
-OL,10,G Buffalo Sabres         21  8  9  4  20
-OL,11,G Detroit Red Wings      22  8 11  3  19
-OL,12,  Toronto Maple Leafs   G23  8 13  2  18
-OL,14,FMetropolitan Division                  
-OL,15,  Carolina Hurricanes    21 16  3  2  34
-OL,16,  New Jersey Devils      22 15  7  0  30
-OL,17,  New York Rangers  G    22 13  8  1  27
-OL,18,  New York Islanders     20 10  6  4  24
-OL,19,  Washington CapitalsG   19 10  9  0  20
-OL,20,  Philadelphia Flyers    24  7 11  6  20
-OL,21,  Pittsburgh Penguins    20  7 11  2  16
-OL,22,  Columbus Blue Jackets  19  7 12  0  14
+OL,2,A]GSPORT  ]A                       NHL \
+OL,3,Q#########G                        2/4  
+OL,4,CSamstag                                
+OL,5, Carolina  - Edmonton                   
+OL,6, Calgary   - Chicago                    
+OL,7, Florida   - Buffalo                    
+OL,8, Nashville - Pittsburgh                 
+OL,9, Boston    - Washington                 
+OL,10, Detroit   - N.Y.Islanders              
+OL,11, Montreal  - Philadelphia               
+OL,12, Ottawa    - Los Angeles                
+OL,13, St.Louis  - New Jersey                 
+OL,14, Toronto   - Columbus                   
+OL,15, Winnipeg  - Vegas                      
+OL,16, Utah      - Anaheim                    
+OL,17, San Jose  - Seattle                    
+OL,18, Vancouver - Minnesota                  
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -61,28 +54,57 @@ PN,25703
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G257CORF SPORT+G19.11.26 17:01:23
+OL,0,       G257CORF SPORT+G20.11.26 14:45:29
+OL,1,A]G                           Eishockey 
+OL,2,A]GSPORT  ]A   NHL, Eastern Conference \
+OL,3,Q#########G                        3/4  
+OL,4,FAtlantic Division       Sp  S  N OT Pkt
+OL,5,  Tampa Bay LightningF  G22 15  5  2  32
+OL,6,G Montreal CanadiensF   G23 14  5  4  32
+OL,7,G Ottawa SenatorsF      G23 14  6  3  31
+OL,8,  Boston Bruins          22 14  7  1  29
+OL,9,  Florida PanthersF     G23 12  8  3  27
+OL,10,G Buffalo Sabres         22  9  9  4  22
+OL,11,G Detroit Red Wings      22  8 11  3  19
+OL,12,  Toronto Maple Leafs   G24  8 13  3  19
+OL,14,FMetropolitan Division                  
+OL,15,  Carolina Hurricanes    22 16  3  3  35
+OL,16,  New Jersey Devils      22 15  7  0  30
+OL,17,  New York Rangers  G    22 13  8  1  27
+OL,18,  New York Islanders     21 10  6  5  25
+OL,19,  Philadelphia Flyers    25  8 11  6  22
+OL,20,  Washington CapitalsG   20 10 10  0  20
+OL,21,  Columbus Blue Jackets  20  8 12  0  16
+OL,22,  Pittsburgh Penguins    21  7 12  2  16
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht  BSport   CFernsehen  FWetter
+FL,100,200,300,600,0,100
+PN,25704
+SC,0004
+PS,C200
+CT,10,T
+OL,0,       G257CORF SPORT+G20.11.26 14:45:29
 OL,1,A]G                           Eishockey 
 OL,2,A]GSPORT  ]A   NHL, Western Conference \
-OL,3,Q#########G                        3/3  
+OL,3,Q#########G                        4/4  
 OL,4,FCentral Division        Sp  S  N OT Pkt
-OL,5,  Minnesota WildF       G23 16  3  4  36
-OL,6,  Dallas StarsF F       G21 13  6  2  28
-OL,7,  Colorado AvalancheF   G22 12  7  3  27
+OL,5,  Minnesota WildF       G24 17  3  4  38
+OL,6,  Dallas StarsF F       G22 14  6  2  30
+OL,7,  Colorado AvalancheF   G23 13  7  3  29
 OL,8,G Nashville Predators    22 11  6  5  27
 OL,9,  Utah Mammoth           23 11  9  3  25
-OL,10,  Winnipeg JetsF F      G22 10  9  3  23
-OL,11,  St.Louis BluesF       G21 10  9  2  22
-OL,12,G Chicago Blackhawks     21  6 13  2  14
+OL,10,  Winnipeg JetsF F      G23 11  9  3  25
+OL,11,  St.Louis BluesF       G22 11  9  2  24
+OL,12,G Chicago Blackhawks     22  6 14  2  14
 OL,14,FPacific Division                       
-OL,15,  Edmonton Oilers       G23 17  3  3  37
-OL,16,  Vegas Golden Knights  G23 13  6  4  30
-OL,17,  Anaheim Ducks          22 11 10  1  23
+OL,15,  Edmonton Oilers       G24 17  4  3  37
+OL,16,  Vegas Golden Knights  G24 13  6  5  31
+OL,17,  Anaheim Ducks          23 11 11  1  23
 OL,18,  San Jose Sharks        24 10 12  2  22
-OL,19,  Calgary Flames         22 10 11  1  21
-OL,20,  Seattle Kraken         18  9  8  1  19
-OL,21,  Los Angeles KingsF    G19  6 11  2  14
-OL,22,  Vancouver Canucks      23  5 17  1  11
+OL,19,  Seattle Kraken         19 10  8  1  21
+OL,20,  Calgary Flames         23 10 12  1  21
+OL,21,  Los Angeles KingsF    G20  7 11  2  16
+OL,22,  Vancouver Canucks      24  5 18  1  11
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

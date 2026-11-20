@@ -3,12 +3,12 @@ PN,69901
 SC,0001
 PS,C200
 CT,10,T
-OL,0,     G699 WDR Text GFr 20.11.26 04:48:58
+OL,0,     G699 WDR Text GFr 20.11.26 19:35:25
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, f}r A443 bis A573                      
-OL,5, Stand: 20.11.2026 00:38 Uhr            
+OL,5, Stand: 20.11.2026 19:33 Uhr            
 OL,7, Auf der A448 Bochum-West Richtung      
 OL,8, Dortmund/Witten ist die Anschlussstelle
 OL,9, Bochum-Wiemelhausen wegen Bauarbeiten  
@@ -29,7 +29,7 @@ PN,69902
 SC,0002
 PS,C200
 CT,10,T
-OL,0,     G699 WDR Text GFr 20.11.26 04:48:58
+OL,0,     G699 WDR Text GFr 20.11.26 19:35:25
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
@@ -48,7 +48,7 @@ OL,17, Bonn-Beuel und Bonn-Auerberg in beiden
 OL,18, Richtungen wegen Br}ckenarbeiten       
 OL,19, gesperrt.                              
 OL,21, Auf der A565 Meckenheim Richtung Bonn  
-OL,22, ist die Auffahrt Meckenheim-Nord bis   
+OL,22, ist die Auffahrt Bonn-Endenich bis     
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]G- 698B]G+ 700  \               G(2/3)
 FL,698,700,0,0,0,100
@@ -56,14 +56,11 @@ PN,69903
 SC,0003
 PS,C200
 CT,10,T
-OL,0,     G699 WDR Text GFr 20.11.26 04:48:58
+OL,0,     G699 WDR Text GFr 20.11.26 19:35:25
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
-OL,4, 20. November gesperrt.                 
-OL,6, Auf der A565 Meckenheim Richtung Bonn  
-OL,7, ist die Auffahrt Bonn-Endenich bis     
-OL,8, Anfang Februar gesperrt.               
+OL,4, Anfang Februar gesperrt.               
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]G- 698B]G+ 700  \               G(3/3)
 FL,698,700,0,0,0,100

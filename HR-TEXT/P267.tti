@@ -3,7 +3,7 @@ PN,26701
 SC,0001
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGDo 19.11.26F17:17:17
+OL,0,           Fhr-textGFr 20.11.26F12:34:46
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A           KOL Frankfurt 
 OL,3,Q#######################################
@@ -25,7 +25,7 @@ PN,26702
 SC,0002
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGDo 19.11.26F17:17:17
+OL,0,           Fhr-textGFr 20.11.26F12:34:46
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A           KOL Frankfurt 
 OL,3,Q#######################################
@@ -54,12 +54,12 @@ PN,26703
 SC,0003
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGDo 19.11.26F17:17:17
+OL,0,           Fhr-textGFr 20.11.26F12:34:46
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A           KOL Offenbach 
 OL,3,Q#######################################
-OL,4,BDonnerstag, 19. November      19.45 Uhr
-OL,5, SV Zellhausen    - Susgo Offenthal. -:-
+OL,4,BDonnerstag, 19. November               
+OL,5, SV Zellhausen    - Susgo Offenthal. 0:4
 OL,7,BSonntag, 22. November         13.00 Uhr
 OL,8, Spvgg.Neu-Isg.II - TSV Heusenstamm. -:-
 OL,9,B                              15.00 Uhr
@@ -76,21 +76,21 @@ PN,26704
 SC,0004
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGDo 19.11.26F17:17:17
+OL,0,           Fhr-textGFr 20.11.26F12:34:46
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A           KOL Offenbach 
 OL,3,Q#######################################
 OL,4,B 1.Kl.-Krotzenbg... 16 10 3  3 44:22 33
 OL,5,C 2.SG Egelsbach.... 16 10 2  4 39:26 32
 OL,6,  3.Germ.Bieber..... 16  9 1  6 42:31 28
-OL,7,  4.Ilirida Offenb.. 16  9 1  6 34:35 28
-OL,8,  5.Spvgg.Seligenst. 16  9 1  6 47:36 28
-OL,9,  6.SVG Steinheim... 15  8 2  5 31:19 26
-OL,10,  7.Susgo Offenthal. 16  8 1  7 37:28 25
+OL,7,  4.Spvgg.Seligenst. 16  9 1  6 47:36 28
+OL,8,  5.Susgo Offenthal. 17  9 1  7 41:28 28
+OL,9,  6.Ilirida Offenb.. 16  9 1  6 34:35 28
+OL,10,  7.SVG Steinheim... 15  8 2  5 31:19 26
 OL,11,  8.TSV Dudenhofen.. 16  7 2  7 31:24 23
 OL,12,  9.Nieder-Roden.... 16  7 2  7 32:34 23
 OL,13, 10.L{mmerspiel..... 16  6 4  6 38:31 22
-OL,14, 11.SV Zellhausen... 16  6 2  8 26:34 20
+OL,14, 11.SV Zellhausen... 17  6 2  9 26:38 20
 OL,15, 12.TSV Heusenstamm. 16  4 5  7 38:48 17
 OL,16, 13.SSG Langen...... 16  5 2  9 36:50 17
 OL,17,C14.T}rk Dietzenb... 15  5 1  9 32:52 16
@@ -103,21 +103,19 @@ PN,26705
 SC,0005
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGDo 19.11.26F17:17:17
+OL,0,           Fhr-textGFr 20.11.26F12:34:46
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A               KOL Hanau 
 OL,3,Q#######################################
-OL,4,BSonntag, 22. November         13.00 Uhr
-OL,5, SC 1960 Hanau II - Wachenbuchen.... -:-
-OL,6,B                              14.30 Uhr
-OL,7, Kilianst{dten    - H}ttenges{~..... -:-
-OL,8,B                              15.00 Uhr
-OL,9, Niederrodenb.    - Oberdorfelden... -:-
-OL,10, FC Hochstadt     - Spvgg.Ro~dorf... -:-
-OL,11, Bischofsheim     - VfB Gro~auheim.. -:-
-OL,12, KSV Eichen       - FSV Neuberg..... -:-
-OL,13, Safakspor Hanau  - Sportf.Ostheim.. -:-
-OL,14, Langenselbold    - G.D|rnigheim II. -:-
+OL,4,BSonntag, 22. November         14.30 Uhr
+OL,5, Kilianst{dten   - H}ttenges{~.....  -:-
+OL,6,B                              15.00 Uhr
+OL,7, Niederrodenb.   - Oberdorfelden...  -:-
+OL,8, FC Hochstadt    - Spvgg.Ro~dorf...  -:-
+OL,9, Bischofsheim    - VfB Gro~auheim..  -:-
+OL,10, KSV Eichen      - FSV Neuberg.....  -:-
+OL,11, Safakspor Hanau - Sportf.Ostheim..  -:-
+OL,12, Langenselbold   - G.D|rnigheim II.  -:-
 OL,23,G]AKOL Wiesb. 268            Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -125,7 +123,7 @@ PN,26706
 SC,0006
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGDo 19.11.26F17:17:17
+OL,0,           Fhr-textGFr 20.11.26F12:34:46
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A               KOL Hanau 
 OL,3,Q#######################################

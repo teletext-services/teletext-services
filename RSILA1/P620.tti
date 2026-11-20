@@ -3,24 +3,27 @@ PN,62001
 SC,0001
 PS,C300
 CT,10,T
-OL,0,    BTELEVIDEO 620.01CVe 20 Nov 02:43:15
-OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4    G1/3 
+OL,0,    BTELEVIDEO 620.01CVe 20 Nov 14:57:09
+OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4    G1/11
 OL,2,  Wz5z5k7ju"-tk7ju?jujuj= CNORD    
 OL,3,  W/*%+/!*%"/'*/'*%*%/*%/*/'*/%CEST     
 OL,4,B]@Provincia: BO                        
 OL,5,EA14  Bologna-Ancona                    
-OL,6,C20/11 ora: 02:23Gpersonale su strada   
-OL,7, causa lavori -  tra Svincolo Bologna   
-OL,8, San Lazzaro (Km 22,2) e Svincolo       
-OL,9, Castel S.Pietro (Km 38,2)  in          
-OL,10, direzione Ancona                       
-OL,12,B]@Provincia: PR                        
+OL,6,C20/11 ora: 14:40Gveicolo fermo o in    
+OL,7, avaria -  tra Svincolo Bologna San     
+OL,8, Lazzaro (Km 22,2) e Svincolo Castel    
+OL,9, S.Pietro (Km 38,2)  in direzione       
+OL,10, Ancona  dalle 14:35 del 20 novembre    
+OL,11, 2026 auto                              
+OL,12,B]@Provincia: MO                        
 OL,13,EA1  Milano-Bologna                     
-OL,14,C20/11 ora: 02:23Gpersonale su strada   
-OL,15, causa lavori -  tra Svincolo Parma (Km 
-OL,16, 110,4) e Allacciamento A15 Parma-La    
-OL,17, Spezia (Km 102)  in direzione Milano   
-OL,21,BAggiornato alle: 02:30 del: 20/11/2026 
+OL,14,C20/11 ora: 14:40Gveicoli scortati per  
+OL,15, maltempo causa perdita di carico -     
+OL,16, tra Svincolo Modena Nord (Km 157,6) e  
+OL,17, Svincolo Modena Sud (Km 171,8)  in     
+OL,18, direzione Bologna  dalle 14:27 del 20  
+OL,19, novembre 2026                          
+OL,21,BAggiornato alle: 14:40 del: 20/11/2026 
 OL,22,C]     @CCISS-Viaggiare Informati       
 OL,23,D]BViabilit{G613            BMeteoG700  
 FL,619,621,100,100,0,100
@@ -28,26 +31,25 @@ PN,62002
 SC,0002
 PS,C300
 CT,10,T
-OL,0,    BTELEVIDEO 620.02CVe 20 Nov 02:43:15
-OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4    G2/3 
+OL,0,    BTELEVIDEO 620.02CVe 20 Nov 14:57:09
+OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4    G2/11
 OL,2,  Wz5z5k7ju"-tk7ju?jujuj= CNORD    
 OL,3,  W/*%+/!*%"/'*/'*%*%/*%/*/'*/%CEST     
-OL,4,B]@Provincia: RO                        
-OL,5,EA13  Bologna-Padova                    
-OL,6,C20/11 ora: 01:24Gpersonale su strada   
-OL,7, causa lavori -  tra Svincolo           
-OL,8, Occhiobello (Km 49,1) e Svincolo       
-OL,9, Rovigo Sud - Villa Marzana (Km 63)  in 
-OL,10, direzione Padova                       
-OL,12,B]@Provincia: UD                        
-OL,13,EA23  Palmanova-Tarvisio                
-OL,14,C20/11 ora: 00:26Gpersonale su strada - 
-OL,15,  tra Svincolo Dogana Di Coccau-Confine 
-OL,16, Di Stato (Km 119,9) e Svincolo         
-OL,17, Tarvisio Sud (Km 108)  in direzione    
-OL,18, autostrada Torino-Trieste  dalle 00:24 
-OL,19, del 20 novembre 2026                   
-OL,21,BAggiornato alle: 02:30 del: 20/11/2026 
+OL,4,B]@Provincia: FC                        
+OL,5,EA14  Bologna-Ancona                    
+OL,6,C20/11 ora: 14:35Gveicolo fermo o in    
+OL,7, avaria -  a Svincolo Cesena Nord (Km   
+OL,8, 93,6) in direzione da Ancona  dalle    
+OL,9, 14:33 del 20 novembre 2026             
+OL,12,B]@Provincia: RN                        
+OL,13,EA14  Bologna-Ancona                    
+OL,14,C20/11 ora: 14:34Gperdita di carico     
+OL,15, causa perdita accidentale -  tra       
+OL,16, Svincolo Rimini Nord (Km 117,3) e      
+OL,17, Svincolo Rimini Sud (Km 127,4)  in     
+OL,18, direzione Ancona  dalle 14:32 del 20   
+OL,19, novembre 2026                          
+OL,21,BAggiornato alle: 14:40 del: 20/11/2026 
 OL,22,C]     @CCISS-Viaggiare Informati       
 OL,23,D]BViabilit{G613            BMeteoG700  
 FL,619,621,100,100,0,100
@@ -55,26 +57,229 @@ PN,62003
 SC,0003
 PS,C300
 CT,10,T
-OL,0,    BTELEVIDEO 620.03CVe 20 Nov 02:43:15
-OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4    G3/3 
+OL,0,    BTELEVIDEO 620.03CVe 20 Nov 14:57:09
+OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4    G3/11
 OL,2,  Wz5z5k7ju"-tk7ju?jujuj= CNORD    
 OL,3,  W/*%+/!*%"/'*/'*%*%/*%/*/'*/%CEST     
-OL,4,B]@Provincia: UD                        
-OL,5,EA23  Palmanova-Tarvisio                
-OL,6,C20/11 ora: 00:25Gpersonale su strada - 
-OL,7,  tra Svincolo Tarvisio Sud (Km 108) e  
-OL,8, Svincolo Tarvisio Nord (Km 116,4)  in  
-OL,9, direzione Tarvisio  dalle 00:23 del 20 
-OL,10, novembre 2026                          
+OL,4,B]@Provincia: MO                        
+OL,5,EA1  Milano-Bologna                     
+OL,6,C20/11 ora: 14:28Gperdita di carico     
+OL,7, causa perdita accidentale -  tra       
+OL,8, Svincolo Modena Nord (Km 157,6) e      
+OL,9, Svincolo Modena Sud (Km 171,8)  in     
+OL,10, direzione Bologna  dalle 14:25 del 20  
+OL,11, novembre 2026 copertone                
+OL,12,B]@Provincia: RN                        
+OL,13,EA14  Pescara-Bari                      
+OL,14,C20/11 ora: 14:04Gvento forte -  tra    
+OL,15, Svincolo Cattolica (Km 143,9) e        
+OL,16, Svincolo Poggio Imperiale (Km 507)  in 
+OL,17, entrambe le direzioni  dalle 14:53 del 
+OL,18, 17 novembre 2026                       
+OL,21,BAggiornato alle: 14:40 del: 20/11/2026 
+OL,22,C]     @CCISS-Viaggiare Informati       
+OL,23,D]BViabilit{G613            BMeteoG700  
+FL,619,621,100,100,0,100
+PN,62004
+SC,0004
+PS,C300
+CT,10,T
+OL,0,    BTELEVIDEO 620.04CVe 20 Nov 14:57:09
+OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4    G4/11
+OL,2,  Wz5z5k7ju"-tk7ju?jujuj= CNORD    
+OL,3,  W/*%+/!*%"/'*/'*%*%/*%/*/'*/%CEST     
+OL,4,B]@Provincia: TV                        
+OL,5,EA27  Mestre-Belluno                    
+OL,6,C20/11 ora: 13:38Gveicolo fermo o in    
+OL,7, avaria -  tra Allacciamento A28        
+OL,8, Venezia-Belluno (Km 41,2) e Svincolo   
+OL,9, Treviso Nord (Km 22,6)  in direzione   
+OL,10, Venezia  dalle 13:15 del 20 novembre   
+OL,11, 2026                                   
+OL,12,B]@Provincia: VR                        
+OL,13,EA4  Brescia-Padova                     
+OL,14,C20/11 ora: 13:20Gchiusura notturna,    
+OL,15, entrata chiusa causa tratto chiuso -   
+OL,16, a Svincolo Sommacampagna (Km 271) in   
+OL,17, direzione Brescia  dalle 23:00 del 26  
+OL,18, alle 05:00 del 27 novembre 2026        
+OL,21,BAggiornato alle: 14:40 del: 20/11/2026 
+OL,22,C]     @CCISS-Viaggiare Informati       
+OL,23,D]BViabilit{G613            BMeteoG700  
+FL,619,621,100,100,0,100
+PN,62005
+SC,0005
+PS,C300
+CT,10,T
+OL,0,    BTELEVIDEO 620.05CVe 20 Nov 14:57:10
+OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4    G5/11
+OL,2,  Wz5z5k7ju"-tk7ju?jujuj= CNORD    
+OL,3,  W/*%+/!*%"/'*/'*%*%/*%/*/'*/%CEST     
+OL,4,B]@Provincia: VR                        
+OL,5,EA4  Brescia-Padova                     
+OL,6,C20/11 ora: 13:16Gchiusura notturna,    
+OL,7, entrata chiusa causa lavori -  a       
+OL,8, Svincolo Peschiera (Km 259,4) in       
+OL,9, direzione Brescia  dalle 21:00 del 27  
+OL,10, alle 06:00 del 28 novembre 2026        
+OL,12,B]@Provincia: BO                        
+OL,13,EA1  Bologna-Firenze                    
+OL,14,C20/11 ora: 13:09Gpersonale su strada   
+OL,15, causa lavori -  tra Svincolo Rioveggio 
+OL,16, (Km 222,7) e Svincolo Pian Del Voglio  
+OL,17, (Km 237,2)  in direzione Firenze       
+OL,21,BAggiornato alle: 14:40 del: 20/11/2026 
+OL,22,C]     @CCISS-Viaggiare Informati       
+OL,23,D]BViabilit{G613            BMeteoG700  
+FL,619,621,100,100,0,100
+PN,62006
+SC,0006
+PS,C300
+CT,10,T
+OL,0,    BTELEVIDEO 620.06CVe 20 Nov 14:57:10
+OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4    G6/11
+OL,2,  Wz5z5k7ju"-tk7ju?jujuj= CNORD    
+OL,3,  W/*%+/!*%"/'*/'*%*%/*%/*/'*/%CEST     
+OL,4,B]@Provincia: VR                        
+OL,5,EA4  Brescia-Padova                     
+OL,6,C20/11 ora: 13:06Gchiusura notturna,    
+OL,7, entrata chiusa causa lavori -  a       
+OL,8, Svincolo Soave (Km 303) in direzione   
+OL,9, Brescia  dalle 21:00 del 26 alle 06:00 
+OL,10, del 28 novembre 2026                   
+OL,12,B]@Provincia: VI                        
+OL,13,EA4  Brescia-Padova                     
+OL,14,C20/11 ora: 13:03Gchiusura notturna,    
+OL,15, entrata chiusa causa lavori -  a       
+OL,16, Svincolo Montebello (Km 311,8) in      
+OL,17, direzione Padova  dalle 21:00 del 23   
+OL,18, alle 06:00 del 26 novembre 2026        
+OL,21,BAggiornato alle: 14:40 del: 20/11/2026 
+OL,22,C]     @CCISS-Viaggiare Informati       
+OL,23,D]BViabilit{G613            BMeteoG700  
+FL,619,621,100,100,0,100
+PN,62007
+SC,0007
+PS,C300
+CT,10,T
+OL,0,    BTELEVIDEO 620.07CVe 20 Nov 14:57:10
+OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4    G7/11
+OL,2,  Wz5z5k7ju"-tk7ju?jujuj= CNORD    
+OL,3,  W/*%+/!*%"/'*/'*%*%/*%/*/'*/%CEST     
+OL,4,B]@Provincia: VR                        
+OL,5,EA4  Brescia-Padova                     
+OL,6,C20/11 ora: 13:00Gchiusura notturna,    
+OL,7, tratto chiuso causa lavori -  tra      
+OL,8, Svincolo Sommacampagna (Km 271) e      
+OL,9, Svincolo Peschiera (Km 259,4)  in      
+OL,10, direzione Brescia  dalle 23:00 del 26  
+OL,11, alle 05:00 del 27 novembre 2026        
 OL,12,B]@Provincia: UD                        
 OL,13,EA23  Palmanova-Tarvisio                
-OL,14,C20/11 ora: 00:25Gpersonale su strada - 
-OL,15,  tra Svincolo Tarvisio Sud (Km 108) e  
-OL,16, Svincolo Dogana Di Coccau-Confine Di   
-OL,17, Stato (Km 119,9)  in direzione Confine 
-OL,18, di Stato  dalle 00:23 del 20 novembre  
-OL,19, 2026                                   
-OL,21,BAggiornato alle: 02:30 del: 20/11/2026 
+OL,14,C20/11 ora: 10:56Gperdita di carico -   
+OL,15, tra Svincolo Udine Nord (Km 27) e      
+OL,16, Svincolo Gemona-Osoppo (Km 43)  in     
+OL,17, direzione Tarvisio  dalle 09:34 del 20 
+OL,18, novembre 2026                          
+OL,21,BAggiornato alle: 14:40 del: 20/11/2026 
+OL,22,C]     @CCISS-Viaggiare Informati       
+OL,23,D]BViabilit{G613            BMeteoG700  
+FL,619,621,100,100,0,100
+PN,62008
+SC,0008
+PS,C300
+CT,10,T
+OL,0,    BTELEVIDEO 620.08CVe 20 Nov 14:57:10
+OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4    G8/11
+OL,2,  Wz5z5k7ju"-tk7ju?jujuj= CNORD    
+OL,3,  W/*%+/!*%"/'*/'*%*%/*%/*/'*/%CEST     
+OL,4,B]@Provincia: MO                        
+OL,5,EA1  Milano-Bologna                     
+OL,6,C20/11 ora: 09:42Gpersonale su strada - 
+OL,7,  tra Svincolo Modena Nord (Km 157,6) e 
+OL,8, Svincolo Reggio Emilia (Km 138,2)  in  
+OL,9, direzione Milano  dalle 09:40 del 20   
+OL,10, novembre 2026                          
+OL,12,B]@Provincia: MO                        
+OL,13,EA1  Milano-Bologna                     
+OL,14,C20/11 ora: 09:40Gpersonale su strada - 
+OL,15,  tra Svincolo Modena Sud (Km 171,8) e  
+OL,16, Svincolo Reggio Emilia (Km 138,2)  in  
+OL,17, direzione Milano  dalle 09:38 del 20   
+OL,18, novembre 2026                          
+OL,21,BAggiornato alle: 14:40 del: 20/11/2026 
+OL,22,C]     @CCISS-Viaggiare Informati       
+OL,23,D]BViabilit{G613            BMeteoG700  
+FL,619,621,100,100,0,100
+PN,62009
+SC,0009
+PS,C300
+CT,10,T
+OL,0,    BTELEVIDEO 620.09CVe 20 Nov 14:57:10
+OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4    G9/9 
+OL,2,  Wz5z5k7ju"-tk7ju?jujuj= CNORD    
+OL,3,  W/*%+/!*%"/'*/'*%*%/*%/*/'*/%CEST     
+OL,4,B]@Provincia: PR                        
+OL,5,EA15  Parma-La Spezia                   
+OL,6,C20/11 ora: 07:41Glavori -  tra         
+OL,7, Svincolo Fornovo (Km 22,8) e Svincolo  
+OL,8, Berceto (Km 51,2)  in direzione La     
+OL,9, Spezia  dalle 07:15 del 20 alle 23:30  
+OL,10, del 21 novembre 2026                   
+OL,12,B]@Provincia: FC                        
+OL,13,EA14  Bologna-Ancona                    
+OL,14,C20/11 ora: 07:41Gpersonale su strada - 
+OL,15,  tra Svincolo Forli' (Km 81,6) e       
+OL,16, Svincolo Cesena Nord (Km 93,6)  in     
+OL,17, direzione Ancona  dalle 07:39 del 20   
+OL,18, novembre 2026                          
+OL,21,BAggiornato alle: 14:30 del: 20/11/2026 
+OL,22,C]     @CCISS-Viaggiare Informati       
+OL,23,D]BViabilit{G613            BMeteoG700  
+FL,619,621,100,100,0,100
+PN,62010
+SC,0010
+PS,C300
+CT,10,T
+OL,0,    BTELEVIDEO 620.10CVe 20 Nov 14:57:10
+OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4   G10/11
+OL,2,  Wz5z5k7ju"-tk7ju?jujuj= CNORD    
+OL,3,  W/*%+/!*%"/'*/'*%*%/*%/*/'*/%CEST     
+OL,4,B]@Provincia: PR                        
+OL,5,EA15  Parma-La Spezia                   
+OL,6,C20/11 ora: 07:41Glavori -  tra         
+OL,7, Allacciamento A1 Milano-Napoli e       
+OL,8, Svincolo Parma Ovest (Km 4,6)  in      
+OL,9, direzione La Spezia  dalle 15:25 del 6 
+OL,10, ottobre 2026                           
+OL,12,B]@Provincia: PR                        
+OL,13,EA15  Parma-La Spezia                   
+OL,14,C20/11 ora: 07:41Glavori -  tra         
+OL,15, Svincolo Fornovo (Km 22,8) e Svincolo  
+OL,16, Berceto (Km 51,2)  in direzione La     
+OL,17, Spezia  dalle 07:15 del 20 alle 23:30  
+OL,18, del 21 novembre 2026                   
+OL,21,BAggiornato alle: 14:10 del: 20/11/2026 
+OL,22,C]     @CCISS-Viaggiare Informati       
+OL,23,D]BViabilit{G613            BMeteoG700  
+FL,619,621,100,100,0,100
+PN,62011
+SC,0011
+PS,C300
+CT,10,T
+OL,0,    BTELEVIDEO 620.11CVe 20 Nov 14:57:10
+OL,1,  Wx|0|h4||`|t`|4||h|t`|th|0h|4   G11/11
+OL,2,  Wz5z5k7ju"-tk7ju?jujuj= CNORD    
+OL,3,  W/*%+/!*%"/'*/'*%*%/*%/*/'*/%CEST     
+OL,4,B]@Provincia: FC                        
+OL,5,EA14  Bologna-Ancona                    
+OL,6,C20/11 ora: 07:41Gpersonale su strada - 
+OL,7,  tra Svincolo Forli' (Km 81,6) e       
+OL,8, Svincolo Cesena Nord (Km 93,6)  in     
+OL,9, direzione Ancona  dalle 07:39 del 20   
+OL,10, novembre 2026                          
+OL,12,R
+OL,21,BAggiornato alle: 14:10 del: 20/11/2026 
 OL,22,C]     @CCISS-Viaggiare Informati       
 OL,23,D]BViabilit{G613            BMeteoG700  
 FL,619,621,100,100,0,100

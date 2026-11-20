@@ -1,30 +1,30 @@
 DE,SWR-RP 564
 PN,56400
 SC,0000
-PS,8200
+PS,8208
 CT,10,T
-OL,0,       BSWR RLPC   Fr, 20.11.26G01:13:13
+OL,0,       BSWR RLPC   Fr, 20.11.26G17:15:29
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 01:00 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 17:10 
 OL,3,T#########"#############################
 OL,4,CAnkunftGvon        Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FX3 2143 Teneriffa  21:55            3 J
-OL,7, LH  401 New York   05:15C05:05     G1 A
-OL,8,FLH  423 Boston     05:20C05:23     F1 A
-OL,9, LH  595 P.Harcourt 05:25C05:22     G1 B
-OL,10,FLH 1327 Tunis      05:25            1 C
-OL,11, LH  573 Johannesbg 05:30C04:57     G1 A
-OL,12,FLH  585 Kairo      05:30            1 C
-OL,13, NH  203 Tokio      05:30C05:17     G1 B
-OL,14,FLH  577 Kapstadt   05:35C05:45     F1 B
-OL,15, LH 3601 K|ln Hbf   05:36            1  
-OL,16,FDE 2291 Kapstadt   05:45C05:14     F1 C
-OL,17, ET  706 Addis Abeb 05:45C05:31     G1 C
-OL,18,FMU  219 Shanghai   05:45C05:45     F3 J
-OL,19, DE 2017 New York   05:55C05:57     G1 B
-OL,20,FDE 2289 Johannesbg 05:55C05:31     F1 B
-OL,21, TG  920 Bangkok    05:55C06:13     G1 B
+OL,6,FOS  211 Wien       15:25C16:53 gel.F1 A
+OL,7, LH 3521 Dus Hbf    15:39C15:39 gel.G1 T
+OL,8,FLH 3621 Dortmund   15:49C15:49 gel.F1 T
+OL,9, LH 3655 Hamburg    15:49C15:49 gel.G1 T
+OL,10,FLH 3553 Basel Bad  16:08C16:08 gel.F1 T
+OL,11, LH 1337 Budapest   16:10C16:54 gel.G1 A
+OL,12,F4Y  619 Lyon       16:15C16:43 gel.F1 A
+OL,13, EN  293 Turin      16:15C16:44 gel.G1 A
+OL,14,FLH 3589 Dortmund   16:19C16:19 gel.F1 T
+OL,15, LH 3465 N}rnberg   16:21C16:21 gel.G1  
+OL,16,FLH  817 G|teborg   16:25C16:58 gel.F1 A
+OL,17, LH 1167 Lissabon   16:25C16:48 gel.G1 A
+OL,18,FLH 1281 Athen      16:30C18:06     F1 A
+OL,19, LH 1345 Warschau   16:30C16:58 gel.G1 B
+OL,20,FLH 1389 Poznan     16:30C16:57 gel.F1 B
+OL,21, OU  412 Split      16:30C16:54 gel.G1 A
 OL,23,D]G< 560       ohne Gew{hr         565 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

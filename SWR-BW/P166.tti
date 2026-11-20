@@ -3,26 +3,26 @@ PN,16601
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Do, 19.11.26G14:36:37
+OL,0,       BSWR BW C   Fr, 20.11.26G16:36:47
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte RLP     P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 19.11.2026 14:25     
+OL,4, WETTERZUSTAND vom 20.11.2026 16:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CEifel                                  
-OL,8, Mayen             Regen             11 
-OL,9,FBitburg           wolkig            10 
-OL,10, Daun              wolkig             9 
-OL,11,FPr}m              wolkig             9 
-OL,12, N}rburg           wolkig             8 
+OL,8, Mayen             Regen              8 
+OL,9,FBitburg           Regen              9 
+OL,10, Daun              Regen              7 
+OL,11,FPr}m              Regen              7 
+OL,12, N}rburg           Regen              6 
 OL,14,CHunsr}ck                               
-OL,15, Hermeskeil        Regen              7 
-OL,16,FIdar-Oberstein    Regen              9 
-OL,17, Kirn              wolkig            11 
+OL,15, Hermeskeil        Regen              8 
+OL,16,FIdar-Oberstein    wolkig             9 
+OL,17, Kirn              wolkig            10 
 OL,18,FMorbach           bedeckt            8 
-OL,19, Deuselbach        bedeckt            8 
-OL,20,FHahn              wolkig             8 
+OL,19, Deuselbach        Regen              8 
+OL,20,FHahn              Regen              8 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -30,23 +30,23 @@ PN,16602
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Do, 19.11.26G14:36:37
+OL,0,       BSWR BW C   Fr, 20.11.26G16:36:47
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte RLP     P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 19.11.2026 14:25     
+OL,4, WETTERZUSTAND vom 20.11.2026 16:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CMittelrhein                            
-OL,8, Bendorf           wolkig            13 
-OL,9,FKoblenz           wolkig            13 
-OL,10, Neuwied           wolkig            12 
-OL,11,FBad Neuenahr      wolkig            12 
+OL,8, Bendorf           Regen              9 
+OL,9,FKoblenz           Regen              9 
+OL,10, Neuwied           Regen              9 
+OL,11,FBad Neuenahr      Regen              8 
 OL,13,CMosel/Saar                             
-OL,14, Bernkastel-Kues   bedeckt           12 
-OL,15,FCochem            wolkig            13 
-OL,16, Konz              wolkig            12 
-OL,17,FTrier             wolkig            12 
+OL,14, Bernkastel-Kues   Regen             10 
+OL,15,FCochem            bedeckt           10 
+OL,16, Konz              Regen             11 
+OL,17,FTrier             wolkig            11 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -54,27 +54,27 @@ PN,16603
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Do, 19.11.26G14:36:37
+OL,0,       BSWR BW C   Fr, 20.11.26G16:36:47
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte RLP     P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 19.11.2026 14:25     
+OL,4, WETTERZUSTAND vom 20.11.2026 16:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CPf{lzer Bergland                       
-OL,8, Kaiserslautern    bedeckt           11 
-OL,9,FKusel             wolkig            11 
+OL,8, Kaiserslautern    wolkig            11 
+OL,9,FKusel             wolkig            10 
 OL,10, Pirmasens         bedeckt            9 
-OL,11,FRamstein-Miesenb. bedeckt           11 
-OL,12, Weinbiet          bedeckt            9 
-OL,13,FZweibr}cken       bedeckt           11 
+OL,11,FRamstein-Miesenb. wolkig            10 
+OL,12, Weinbiet          wolkig             8 
+OL,13,FZweibr}cken       bedeckt           10 
 OL,15,CRheinhessen                            
-OL,16, Alzey             bedeckt           12 
-OL,17,FBad Kreuznach     bedeckt           12 
-OL,18, Bingen am Rhein   bedeckt           13 
-OL,19,FIngelheim         bedeckt           13 
-OL,20, Mainz             bedeckt           13 
-OL,21,FWorms             wolkig            13 
+OL,16, Alzey             bedeckt           11 
+OL,17,FBad Kreuznach     bedeckt           11 
+OL,18, Bingen am Rhein   bedeckt           11 
+OL,19,FIngelheim         bedeckt           10 
+OL,20, Mainz             bedeckt           10 
+OL,21,FWorms             bedeckt           11 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -82,25 +82,25 @@ PN,16604
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Do, 19.11.26G14:36:37
+OL,0,       BSWR BW C   Fr, 20.11.26G16:36:47
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte RLP     P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 19.11.2026 14:25     
+OL,4, WETTERZUSTAND vom 20.11.2026 16:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CTaunus                                 
-OL,8, Kleiner Feldberg  bedeckt            5 
-OL,9,FKatzenelnbogen    bedeckt           11 
-OL,10, Nassau a.d. Lahn  bedeckt           13 
-OL,11,FNast{tten         bedeckt           11 
+OL,8, Kleiner Feldberg  Regen              4 
+OL,9,FKatzenelnbogen    Regen              8 
+OL,10, Nassau a.d. Lahn  Regen              9 
+OL,11,FNast{tten         Regen              8 
 OL,13,CWesterwald                             
-OL,14, Altenkirchen      bedeckt           11 
-OL,15,FBetzdorf          bedeckt           11 
-OL,16, Diez              bedeckt           13 
-OL,17,FMontabaur         bedeckt           11 
-OL,18, Westerburg        bedeckt           10 
-OL,19,FBad Marienberg    bedeckt            8 
+OL,14, Altenkirchen      Regen              8 
+OL,15,FBetzdorf          Regen              8 
+OL,16, Diez              Regen              9 
+OL,17,FMontabaur         Regen              8 
+OL,18, Westerburg        Regen              7 
+OL,19,FBad Marienberg    Regen              6 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -108,19 +108,19 @@ PN,16605
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Do, 19.11.26G14:36:37
+OL,0,       BSWR BW C   Fr, 20.11.26G16:36:47
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte RLP     P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 19.11.2026 14:25     
+OL,4, WETTERZUSTAND vom 20.11.2026 16:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CVorderpfalz                            
-OL,8, Landau i.d. Pfalz bedeckt           12 
-OL,9,FLudwigshafen      wolkig            13 
-OL,10, Neustadt          bedeckt           12 
-OL,11,FSpeyer            wolkig            13 
-OL,12, Kandel            bedeckt           12 
+OL,8, Landau i.d. Pfalz wolkig            11 
+OL,9,FLudwigshafen      bedeckt           12 
+OL,10, Neustadt          wolkig            11 
+OL,11,FSpeyer            bedeckt           11 
+OL,12, Kandel            wolkig            11 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

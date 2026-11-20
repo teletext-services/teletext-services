@@ -1,45 +1,26 @@
 DE,WDR-TEXT 560
-PN,56001
-SC,0001
-PS,C200
+PN,56000
+SC,0000
+PS,8208
 CT,10,T
-OL,0,     G560 WDR Text GFr 20.11.26 01:06:19
+OL,0,     G560 WDR Text GFr 20.11.26 19:31:24
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DM]NSTER/OSNAB. ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 01:01            
+OL,4,                 STAND 19:29            
 OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B08:55 FR 1450 Alicante                 
-OL,8, 09:10 FR 3368 Malaga                   
-OL,9,B09:10 VL 2134 M}nchen                  
-OL,10, 09:25 FR 7249 Palma d.M.               
-OL,11,B16:15 LH 2138 M}nchen                  
-OL,12, 16:35 DE 1323 Teneriffa                
-OL,13,B19:10 IV 5240 Pristina                 
-OL,14, 19:35 LH 2140 M}nchen                  
-OL,15,B21:30 FR 6143 London STN               
-OL,16, 23:15 XQ 250  Antalya                  
-OL,17,B23:30 VL 2142 M}nchen                  
-OL,18, ------Ank}nfte n{chster Tag------------
-OL,19,B09:10 VL 2134 M}nchen            21.11.
-OL,20, 12:20 VL 2136 M}nchen            21.11.
-OL,21,B14:45 FR 7249 Palma d.M.         21.11.
+OL,7,B19:10 IV 5240 Pristina       19:14 ARR 
+OL,8, 19:35 LH 2140 M}nchen        19:26 ARR 
+OL,9,B21:30 FR 6143 London STN               
+OL,10, 23:15 XQ 250  Antalya        22:51 ENR 
+OL,11,B23:30 VL 2142 M}nchen                  
+OL,12, ------Ank}nfte n{chster Tag------------
+OL,13,B09:10 VL 2134 M}nchen            21.11.
+OL,14, 12:20 VL 2136 M}nchen            21.11.
+OL,15,B14:45 FR 7249 Palma d.M.         21.11.
+OL,16, 19:30 VL 2140 M}nchen            21.11.
+OL,17,B20:20 DE 347  Hurghada           21.11.
+OL,18, 23:15 XQ 250  Antalya            21.11.
 OL,23,]D555 < ]bersicht       FMO Abflug > 561
-OL,24,A]G- 559B]G+ 561C]DMuenster \     G(1/2)
-FL,559,561,0,0,0,100
-PN,56002
-SC,0002
-PS,C200
-CT,10,T
-OL,0,     G560 WDR Text GFr 20.11.26 01:06:19
-OL,1,]D]        G]               @]  CSERVICE
-OL,2,]D]GWDR     ]DM]NSTER/OSNAB. ]          
-OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 01:01            
-OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B19:30 VL 2140 M}nchen            21.11.
-OL,8, 20:20 DE 347  Hurghada           21.11.
-OL,9,B23:15 XQ 250  Antalya            21.11.
-OL,23,]D555 < ]bersicht       FMO Abflug > 561
-OL,24,A]G- 559B]G+ 561C]DMuenster \     G(2/2)
+OL,24,A]G- 559B]G+ 561C]DMuenster \           
 FL,559,561,0,0,0,100

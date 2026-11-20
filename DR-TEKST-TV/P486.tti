@@ -3,29 +3,29 @@ PN,48601
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       GDR   S486  tor 19 nov   23:07:59
+OL,0,       GDR   S486  fre 20 nov   12:12:58
 OL,1,D]G                                     
 OL,2,D]G        BILLUND   INDENRIGS/UDENRIGS 
 OL,3,D]G        LUFTHAVN             ANKOMST 
 OL,4,T#######################################
 OL,5,CTID  FORV FLY    FRA          BEMARK   
-OL,6,   -------  2026-11-19  -------         
-OL,7, 2325 2325 LH842  Frankfurt             
-OL,8, 2355      SK1289 Copenhagen            
-OL,9,   -------  2026-11-20  -------         
-OL,10, 0745      BT147  Riga                  
-OL,11, 0755      W43211 Bukarest OTP          
-OL,12, 0940      KL1291 Amsterdam             
-OL,13, 0950      LH836  Frankfurt             
-OL,14, 1015      SK2497 Stockholm             
-OL,15, 1020      DY998  Oslo                  
-OL,16, 1025      SK1281 Copenhagen            
-OL,17, 1125      KL1293 Amsterdam             
-OL,18, 1140      BA820  London LHR            
-OL,19, 1230      WF282  Bergen                
-OL,20, 1250      W61097 Katowice              
-OL,21, 1345      KL1295 Amsterdam             
-OL,22, 1415      W43695 Iasi                  
+OL,6,   -------  2026-11-20  -------         
+OL,7, 1140 1320 BA820  London LHR    Delayed 
+OL,8, 1230 1225 WF282  Bergen                
+OL,9, 1250 1225 W61097 Katowice              
+OL,10, 1345      KL1295 Amsterdam             
+OL,11, 1415 1350 W43695 Iasi                  
+OL,12, 1425      AF1264 Paris CDG             
+OL,13, 1500      SK1285 Copenhagen            
+OL,14, 1535 1530 PC5023 Antalya               
+OL,15, 1550 1600 DK1289 Cyprus LCA            
+OL,16, 1745      RC7145 Fuerteventura         
+OL,17, 1800      KL1299 Amsterdam             
+OL,18, 1810      JTD532 Lanzarote             
+OL,19, 1820      LH840  Frankfurt             
+OL,20, 1835      CAT602 Hurghada              
+OL,21, 1845      CAT702 Santa Cruz Pal        
+OL,22, 1855      SK1905 Oslo                  
 OL,23, ]A485@AFGANG      P5A480@FLY       1/3 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100
@@ -33,13 +33,27 @@ PN,48602
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       GDR   S486  tor 19 nov   23:07:29
+OL,0,       GDR   S486  fre 20 nov   12:12:28
 OL,1,D]G                                     
 OL,2,D]G        BILLUND   INDENRIGS/UDENRIGS 
 OL,3,D]G        LUFTHAVN             ANKOMST 
 OL,4,T#######################################
 OL,5,CTID  FORV FLY    FRA          BEMARK   
-OL,6, 2355      SK1289 Copenhagen            
+OL,6, 1345      KL1295 Amsterdam             
+OL,7, 1425      AF1264 Paris CDG             
+OL,8, 1440      W45191 Tirana                
+OL,9, 1505      SK1285 Copenhagen            
+OL,10, 1800      CAT744 Gran Canaria          
+OL,11, 1800      KL1299 Amsterdam             
+OL,12, 1820      LH840  Frankfurt             
+OL,13, 1830      CAT712 Gran Canaria          
+OL,14, 1840      DK1219 Gran Canaria          
+OL,15, 1940      RC7181 Gran Canaria          
+OL,16, 1945      JTD502 Tenerife              
+OL,17, 2045      D85084 Malaga                
+OL,18, 2145      AF1764 Paris CDG             
+OL,19, 2245      KL1301 Amsterdam             
+OL,20, 2355      SK1289 Copenhagen            
 OL,22, ]                                      
 OL,23, ]A485@AFGANG      P5A480@FLY       3/3 
 OL,24,  ANyheder    BSport    CTV    FVejret  

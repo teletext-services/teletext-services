@@ -3,73 +3,15 @@ PN,47201
 SC,0001
 PS,C200
 CT,25,T
-OL,0,          G472BBMN1Gdo 19.11.26 22:46:53
+OL,0,          G472BBMN1Gvr 20.11.26 11:51:01
 OL,1,T]GEINDHOVEN VERTREKKEN/DEPARTURES 1/5  
 OL,2,T]G                                     
-OL,3,V]DArrecife TransaviaE7:00              
-OL,4,T]FPrague TransaviaE7:00                
-OL,5,V]DLas Palmas de Gran Canaria Transavia 
-OL,6,T]FMarrakech TransaviaE7:08             
-OL,7,V]DAlicante TransaviaE7:30              
-OL,8,T]FMalaga TransaviaE7:52                
-OL,9,V]DSevilla TransaviaE7:57               
-OL,10,T]FEindhoven Olympic AirE8:29           
-OL,11,V]DEindhoven Olympic AirE8:31           
-OL,12,T]FSal TUI fly NetherlandsE8:34         
-OL,13,V]DLondon Ryanair  E8:45                
-OL,14,T]FGdansk Wizz Air E9:24                
-OL,15,V]DSofia Wizz Air  E9:33                
-OL,16,T]FBucharest Wizz Air MaltaE9:51        
-OL,17,V]DBelgrade Wizz AirE10:02              
-OL,18,T]FBudapest Wizz AirE10:12              
-OL,19,V]DEindhoven Olympic AirE10:58          
-OL,20,T]FTirana Ryanair  E11:40               
-OL,21,V]DTirana BUZZ     E11:54               
-OL,22,T]FSanta Cruz de Tenerife TransaviaE12: 
-OL,23,V]DAlicante RyanairE13:13               
-FL,0,0,0,0,0,100
-PN,47202
-SC,0002
-PS,C200
-CT,25,T
-OL,0,          G472BBMN1Gdo 19.11.26 22:46:53
-OL,1,T]GEINDHOVEN VERTREKKEN/DEPARTURES 1/5  
-OL,2,T]G                                     
-OL,3,V]DKatowice Wizz AirE13:44              
-OL,4,T]FMalaga Ryanair  E13:51               
-OL,5,V]DIstanbul PegasusE13:54               
-OL,6,T]FKrakow Ryanair  E14:09               
-OL,7,V]DKrakow BUZZ     E14:10               
-OL,8,T]FSofia Ryanair   E14:25               
-OL,9,V]DBergamo Ryanair E14:30               
-OL,10,T]FSofia BUZZ      E14:42               
-OL,11,V]DIasi Wizz Air MaltaE14:45            
-OL,12,T]FWarsaw Wizz Air E14:51               
-OL,13,V]DPisa Iraqi AirwaysE15:07             
-OL,14,T]FPisa Iraqi AirwaysE15:07             
-OL,15,V]DFaro Transavia  E15:15               
-OL,16,T]FLisbon TransaviaE15:39               
-OL,17,V]DMalaga TransaviaE15:52               
-OL,18,T]FCluj-Napoca Wizz Air MaltaE16:01     
-OL,19,V]DAlicante TransaviaE16:15             
-OL,20,T]FLondon Ryanair  E16:35               
-OL,21,V]DPorto Ryanair   E16:58               
-OL,22,T]FManises TransaviaE17:18              
-OL,23,V]DBudapest Wizz AirE17:28              
-FL,0,0,0,0,0,100
-PN,47203
-SC,0003
-PS,C200
-CT,25,T
-OL,0,          G472BBMN1Gdo 19.11.26 22:46:53
-OL,1,T]GEINDHOVEN VERTREKKEN/DEPARTURES 1/5  
-OL,2,T]G                                     
-OL,3,V]DMadrid Ryanair  E17:35               
-OL,4,T]FFaro Ryanair    E18:29               
-OL,5,V]DVilnius Ryanair E19:24               
-OL,6,T]FVilnius BUZZ    E19:40               
-OL,7,V]DAlicante RyanairE21:27               
-OL,8,T]FManises Ryanair E21:39               
+OL,3,V]DLas Palmas de Gran Canaria Transavia 
+OL,4,T]FOujda Jetalliance FlugbetriebsE11:30 
+OL,5,V]DMalaga Ryanair  E11:54               
+OL,6,T                                       
+OL,7,V                                       
+OL,8,T                                       
 OL,9,V                                       
 OL,10,T                                       
 OL,11,V                                       
@@ -86,20 +28,20 @@ OL,21,V
 OL,22,T                                       
 OL,23,V                                       
 FL,0,0,0,0,0,100
-PN,47204
-SC,0004
+PN,47202
+SC,0002
 PS,C200
 CT,25,T
-OL,0,          G472BBMN1Gdo 19.11.26 22:46:53
+OL,0,          G472BBMN1Gvr 20.11.26 11:51:01
 OL,1,T]GEINDHOVEN AANKOMSTEN/ARRIVALS   1/5  
 OL,2,T]G                                     
-OL,3,V]DSal TUI fly NetherlandsE22:02        
-OL,4,T]FSanta Cruz de Tenerife TransaviaE21: 
-OL,5,V]DFaro Transavia  E21:25               
-OL,6,T]FLisbon TransaviaE22:21               
-OL,7,V]DMalaga TransaviaE21:59               
-OL,8,T]FAlicante TransaviaE22:05             
-OL,9,V]DManises TransaviaE22:25              
+OL,3,V]DMalaga Ryanair  E11:30               
+OL,4,T]FBergamo Ryanair E11:40               
+OL,5,V                                       
+OL,6,T                                       
+OL,7,V                                       
+OL,8,T                                       
+OL,9,V                                       
 OL,10,T                                       
 OL,11,V                                       
 OL,12,T                                       

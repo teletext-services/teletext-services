@@ -3,8 +3,8 @@ PN,48801
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 19.03.23:11:39
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      1/4  
+OL,0,       G488 YLE TEKSTI-TV 20.03.17:42:42
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      1/7  
 OL,2,K                                       
 OL,3,CTULOSVETO                              
 OL,4,G16 Chelsea N - PSG N         1-0  12,66
@@ -22,40 +22,40 @@ OL,15,G 9 Riemu - S-Kiekko          3-0  59,66
 OL,16,G10 F{rjestad - Fr|lunda      2-2  12,98
 OL,17,G11 Lausanne - Z rich         2-5  15,85
 OL,18,G13 Arsenal N - Lyon N        0-2  13,22
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,K                                       
+OL,19,G14 Carolina - Montreal       1-1  42,84
+OL,20,G15 Tampa Bay - Edmonton      3-1  31,64
+OL,21,G16 Sao Paulo - Fluminens     0-1  10,46
+OL,22,G17 MEM Grizz - GS Warrio  126-98 1127,8
+OL,23,G18 HOU Texan - IND Colts    26-3 542,59
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,48802
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 19.03.23:11:39
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      2/4  
+OL,0,       G488 YLE TEKSTI-TV 20.03.17:42:42
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      2/7  
 OL,2,K                                       
-OL,3,CMONIVETO                               
-OL,4,G 7 Cruzeiro - Palmeiras      2-1       
-OL,5,G   Flamengo - CA Paranae     2-1       
-OL,6,G   Gremio PA - Bahia         0-0       
-OL,7,G   1. voittoluokka             1 120,74
-OL,8,K                                       
-OL,9,G 8 New Jersey - Montreal     2-3       
-OL,10,G   Utah - Colorado           4-1       
-OL,11,G   1. voittoluokka               961,75
+OL,3,CTULOSVETO                              
+OL,4,G19 Colorado - Anaheim        4-0  62,37
+OL,5,G13 WS Wander - Adelaid.U     4-2  36,50
+OL,6,K                                       
+OL,7,CMONIVETO                               
+OL,8,G 7 Cruzeiro - Palmeiras      2-1       
+OL,9,G   Flamengo - CA Paranae     2-1       
+OL,10,G   Gremio PA - Bahia         0-0       
+OL,11,G   1. voittoluokka             1 120,74
 OL,12,K                                       
-OL,13,G 9 Tappara - Sport           2-2       
-OL,14,G   IPK - Hermes              1-3       
-OL,15,G   Ketter{ - KeuPa HT        3-1       
-OL,16,G   1. voittoluokka            10 717,86
-OL,17,G   2. voittoluokka                44,52
-OL,18,K                                       
-OL,19,G10 Arsenal N - Lyon N        0-2       
-OL,20,G   Barcelo.N - Servett.N     6-0       
-OL,21,G   Benfica N - Roma N        2-3       
-OL,22,G   1. voittoluokka             3 473,50
+OL,13,G 8 New Jersey - Montreal     2-3       
+OL,14,G   Utah - Colorado           4-1       
+OL,15,G   1. voittoluokka               961,75
+OL,16,K                                       
+OL,17,G 9 Tappara - Sport           2-2       
+OL,18,G   IPK - Hermes              1-3       
+OL,19,G   Ketter{ - KeuPa HT        3-1       
+OL,20,G   1. voittoluokka            10 717,86
+OL,21,G   2. voittoluokka                44,52
+OL,22,K                                       
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -63,21 +63,21 @@ PN,48803
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 19.03.23:11:39
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      3/4  
+OL,0,       G488 YLE TEKSTI-TV 20.03.17:42:42
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      3/7  
 OL,2,K                                       
-OL,3,CVeikkaus.fi:st{ voit hakea pelien      
-OL,4,Ctulokset helposti ja nopeasti.         
-OL,5,K                                       
-OL,6,CP[IV[N TRIO                            
-OL,7,G 1 Otteluiden maalim{{r{t              
-OL,8,G   A: Detroit - Boston                 
-OL,9,G   B: New Jersey - Montreal            
-OL,10,G   C: Utah - Colorado                  
-OL,11,G   A: 5 5 maalia                 143.72
-OL,12,G   B: 5 5 maalia                       
-OL,13,G   C: 5 5 maalia                       
-OL,14,G   Poissa: -                           
+OL,3,CMONIVETO                               
+OL,4,G10 Arsenal N - Lyon N        0-2       
+OL,5,G   Barcelo.N - Servett.N     6-0       
+OL,6,G   Benfica N - Roma N        2-3       
+OL,7,G   1. voittoluokka             3 473,50
+OL,8,K                                       
+OL,9,G11 Colorado - Anaheim        4-0       
+OL,10,G   Vegas - Dallas            3-3       
+OL,11,G   1. voittoluokka             1 060,30
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
 OL,15,K                                       
 OL,16,K                                       
 OL,17,K                                       
@@ -93,8 +93,68 @@ PN,48804
 SC,0004
 PS,C100
 CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 19.03.23:11:39
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      4/4  
+OL,0,       G488 YLE TEKSTI-TV 20.03.17:42:42
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      4/7  
+OL,2,K                                       
+OL,3,CVeikkaus.fi:st{ voit hakea pelien      
+OL,4,Ctulokset helposti ja nopeasti.         
+OL,5,K                                       
+OL,6,CP[IV[N TRIO                            
+OL,7,G 3 Puoliaika/lopputulos                
+OL,8,G   A: EC Vitoria - RB Bragantino       
+OL,9,G   B: Vasco da Gama - Internacional    
+OL,10,G   C: Sao Paulo - Fluminense           
+OL,11,G   A: 1 1/1                       60.75
+OL,12,G   B: 1 1/1                            
+OL,13,G   C: 9 2/2                            
+OL,14,G   Poissa: -                           
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48805
+SC,0005
+PS,C100
+CT,10,T
+OL,0,       G488 YLE TEKSTI-TV 20.03.17:42:42
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      5/7  
+OL,2,K                                       
+OL,3,CP[IV[N TRIO                            
+OL,4,G 1 Otteluiden maalim{{r{t              
+OL,5,G   A: Colorado - Anaheim               
+OL,6,G   B: Seattle - Vancouver              
+OL,7,G   C: Vegas - Dallas                   
+OL,8,G   A: 4 4 maalia                 301.10
+OL,9,G   B: 6 6 maalia                       
+OL,10,G   C: 6 6 maalia                       
+OL,11,G   Poissa: -                           
+OL,12,K                                       
+OL,13,G 1 Otteluiden maalim{{r{t              
+OL,14,G   A: Detroit - Boston                 
+OL,15,G   B: New Jersey - Montreal            
+OL,16,G   C: Utah - Colorado                  
+OL,17,G   A: 5 5 maalia                 143.72
+OL,18,G   B: 5 5 maalia                       
+OL,19,G   C: 5 5 maalia                       
+OL,20,G   Poissa: -                           
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48806
+SC,0006
+PS,C100
+CT,10,T
+OL,0,       G488 YLE TEKSTI-TV 20.03.17:42:42
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      6/7  
 OL,2,K                                       
 OL,3,CP[IV[N TRIO                            
 OL,4,G 2 Puoliaika/lopputulos                
@@ -114,6 +174,36 @@ OL,17,G   A: 4 4 maalia                 130.98
 OL,18,G   B: 4 4 maalia                       
 OL,19,G   C: 4 4 maalia                       
 OL,20,G   Poissa: -                           
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48807
+SC,0007
+PS,C100
+CT,10,T
+OL,0,       G488 YLE TEKSTI-TV 20.03.17:42:42
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      7/7  
+OL,2,K                                       
+OL,3,CSUPERTRIPLA                            
+OL,4,G 4 F1, harjoitus 2, Las Vegas          
+OL,5,G   1: Voittaja                         
+OL,6,G   2: 2. sija                          
+OL,7,G   3: 3. sija                          
+OL,8,G   1: 3 Russell GeorgeI                
+OL,9,G   2: 10 Gasly PierreI                 
+OL,10,G   3: 5 Leclerc CharlesI               
+OL,11,G   Poissa: -                           
+OL,12,BOikeaa voittoyhdistelm{{ ei ole pelattu
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
 OL,21,K                                       
 OL,22,K                                       
 OL,23,K                                       

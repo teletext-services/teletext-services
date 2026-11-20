@@ -3,33 +3,29 @@ PN,83201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G832FORF1   GFr 20.11.26 08:21:43
+OL,0,       G832FORF1   GFr 20.11.26 14:20:54
 OL,1,A]G                 Flughafen Innsbruck 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug    von        Plan aktuell        
-OL,5,FU2 2281 Manchester 0925B0850 erwartet  
-OL,6,GU2 2637 London LTN 0925B0900 erwartet  
-OL,7,FOS 0105 Wien       1400B               
-OL,8,GU2 8697 London LGW 1430B               
-OL,9,FOS 0107 Wien       1810B               
-OL,23,F08:21hGFlugh. InnsbruckF0512/22525-375 
+OL,5,FOS 0105 Wien       1400B1410 gelandet  
+OL,6,GU2 8697 London LGW 1430B1413 gelandet  
+OL,7,FOS 0107 Wien       1810B               
+OL,23,F14:20hGFlugh. InnsbruckF0512/22525-375 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G832FORF1   GFr 20.11.26 08:21:43
+OL,0,       G832FORF1   GFr 20.11.26 14:20:54
 OL,1,A]G                 Flughafen Innsbruck 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug    nach       Plan aktuell        
-OL,5,FU2 2638 London LTN 1010B               
-OL,6,GU2 2282 Manchester 1020B               
-OL,7,FU2 8698 London LGW 1510B               
-OL,8,GOS 0106 Wien       1515B               
-OL,9,FOS 0108 Wien       1850B               
-OL,23,F08:21hGFlugh. InnsbruckF0512/22525-375 
+OL,5,FU2 8698 London LGW 1510BZUR PASSKONTRO 
+OL,6,GOS 0106 Wien       1515Bzum Gate bitte 
+OL,7,FOS 0108 Wien       1850B               
+OL,23,F14:20hGFlugh. InnsbruckF0512/22525-375 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

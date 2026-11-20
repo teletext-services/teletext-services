@@ -3,15 +3,16 @@ PN,40101
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Do, 19.11.26G20:52:35
+OL,0,       BSWR RLPC   Fr, 20.11.26G17:10:08
 OL,1,Qpppppppppp`ppppppppppppppppppppp`pppppp
-OL,2,A]GSWR1 >>P5G19. NOVEMBER       P5GRLP  
+OL,2,A]GSWR1 >>P5G20. NOVEMBER       P5GRLP  
 OL,3,Q##########"#####################"######
 OL,7, 00.00  Hitnacht                        
-OL,11, 05.00  Guten Morgen Rheinland-Pfalz    
-OL,12,        darin: 5.57 - 6.00 Uhr Anst|~e  
-OL,13,               6.57 - 7.00 Uhr Anst|~e  
+OL,10, 05.00  Guten Morgen Rheinland-Pfalz    
+OL,12,       darin: 5.57 - 6.00 Uhr Anst|~e   
+OL,13,              6.57 - 7.00 Uhr Anst|~e   
 OL,16, 10.00  SWR1 Rheinland-Pfalz            
+OL,19, 14.00  SWR1 Rheinland-Pfalz            
 OL,23,A]                                   G>>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -19,14 +20,13 @@ PN,40102
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Do, 19.11.26G20:52:35
+OL,0,       BSWR RLPC   Fr, 20.11.26G17:10:08
 OL,1,Qpppppppppp`ppppppppppppppppppppp`pppppp
-OL,2,A]GSWR1 >>P5G19. NOVEMBER       P5GRLP  
+OL,2,A]GSWR1 >>P5G20. NOVEMBER       P5GRLP  
 OL,3,Q##########"#####################"######
-OL,7, 14.00  SWR1 Rheinland-Pfalz            
-OL,11, 18.00  SWR1 Rheinland-Pfalz            
-OL,15, 20.00  ARD Musikclub Rock              
-OL,19, 00.00  Hitnacht                        
+OL,8, 18.00  SWR1 Rheinland-Pfalz            
+OL,11, 20.00  ARD Musikclub 90er              
+OL,14, 00.00  Hitnacht                        
 OL,23,A]                                   G>>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

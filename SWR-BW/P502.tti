@@ -3,49 +3,80 @@ PN,50201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Do, 19.11.26G23:33:55
+OL,0,       BSWR BW C   Fr, 20.11.26G16:46:58
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
 OL,4,            Gefahrenmeldungen           
-OL,6,CA5FBasel Richtung Karlsruhe            
-OL,7, in H|he Ettlingen Gefahr durch         
-OL,8, umgest}rztes Fahrzeug                  
-OL,10,CA6FMannheim - Heilbronn                
-OL,11, zwischen Bad Rappenau und              
-OL,12, Heilbronn/Untereisesheim in beiden     
-OL,13, Richtungen Aquaplaninggefahr           
-OL,15,CA6FHeilbronn Richtung Mannheim         
-OL,16, zwischen Heilbronn/Untereisesheim und  
-OL,17, Bad Rappenau Gefahr durch defekten PKW 
-OL,18, auf dem Standstreifen                  
-OL,23,D]GStand:19.11. 23:30   ]bersicht 501 >>
+OL,6,CA3FFrankfurt Richtung W}rzburg         
+OL,7, zwischen Bessenbach/Waldaschaff und    
+OL,8, Weibersbrunn Gefahr durch defekten LKW,
+OL,9, Standstreifen blockiert,               
+OL,10, Sichtbehinderungen durch Rauch zu      
+OL,11, erwarten, Kr{fte zur                   
+OL,12, St|rungsbeseitigung sind unterwegs     
+OL,14,CA5FDarmstadt Richtung Heidelberg       
+OL,15, in H|he Kreuz Weinheim Gefahr durch    
+OL,16, defektes Fahrzeug auf dem              
+OL,17, Standstreifen, Gefahr durch Reifenteile
+OL,18, auf der Fahrbahn                       
+OL,23,D]GStand:20.11. 16:45   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,50202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Do, 19.11.26G23:33:55
+OL,0,       BSWR BW C   Fr, 20.11.26G16:46:58
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
 OL,4,            Gefahrenmeldungen           
-OL,6,CA6FHeilbronn Richtung Mannheim         
-OL,7, zwischen Heilbronn/Untereisesheim und  
-OL,8, Bad Rappenau 1 defekter PKW auf dem    
-OL,9, Standstreifen, Aquaplaninggefahr       
-OL,11,CA81FHeilbronn Richtung Stuttgart       
-OL,12, zwischen Weinsberg/Ellhofen und Ilsfeld
-OL,13, Aquaplaninggefahr                      
-OL,23,D]GStand:19.11. 23:30   ]bersicht 501 >>
+OL,6,CA6FMannheim Richtung Heilbronn         
+OL,7, zwischen Wiesloch/Rauenberg und        
+OL,8, Sinsheim Gefahr durch defekten LKW auf 
+OL,9, dem rechten Fahrstreifen und dem       
+OL,10, Standstreifen                          
+OL,12,CA60FBingen Richtung Mainz              
+OL,13, zwischen Ingelheim-Ost und Heidesheim  
+OL,14, Gefahr durch liegengebliebenes Fahrzeug
+OL,15, auf dem rechten Fahrstreifen           
+OL,17,CA62FNonnweiler Richtung Landstuhl      
+OL,18, zwischen Birkenfeld und Freisen Gefahr 
+OL,19, durch Gegenst{nde auf der Fahrbahn     
+OL,23,D]GStand:20.11. 16:45   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,50203
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Do, 19.11.26G23:33:55
+OL,0,       BSWR BW C   Fr, 20.11.26G16:46:58
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,            Gefahrenmeldungen           
+OL,6,CB27FT}bingen Richtung Stuttgart        
+OL,7, zwischen Leinfelden-Echterdingen-Nord  
+OL,8, und A8, Stuttgart-Degerloch (A8) Gefahr
+OL,9, durch defektes Fahrzeug                
+OL,11,CB29FStuttgart Richtung Aalen           
+OL,12, zwischen B|bingen an der Rems und      
+OL,13, M|gglingen-S}d Gefahr durch 4          
+OL,14, Gegenst{nde (Holzteile) auf allen      
+OL,15, Fahrstreifen                           
+OL,17,CB295FStuttgart - Calw                  
+OL,18, zwischen Simmozheim und Althengstett in
+OL,19, beiden Richtungen Gefahr durch         
+OL,20, Gegenst{nde auf der Fahrbahn           
+OL,23,D]GStand:20.11. 16:45   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50204
+SC,0004
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Fr, 20.11.26G16:46:58
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
@@ -53,32 +84,12 @@ OL,4,        Wetterbedingte St|rungen
 OL,6,FEine Unwetterwarnung f}r               
 OL,7,FBaden-W}rttemberg: F}r die             
 OL,8,FRegierungsbezirke Karlsruhe und        
-OL,9,FFreiburg ist bis Donnerstag mit        
-OL,10,FStarkregen zu rechnen. Durch steigende 
-OL,11,FFlusspegel muss mit ]berflutungen      
-OL,12,Fgerechnet werden!  Konkrete Infos      
-OL,13,Ferteilt die                            
-OL,14,FHochwasser-Vorhersage-Zentrale         
-OL,15,FBaden-W}rttemberg.                     
-OL,23,D]GStand:19.11. 23:30   ]bersicht 501 >>
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,50204
-SC,0004
-PS,C200
-CT,10,T
-OL,0,       BSWR BW C   Do, 19.11.26G23:33:56
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
-OL,3,T#########"######################"######
-OL,4,        Wetterbedingte St|rungen        
-OL,6,FEine amtliche Unwetterwarnung f}r      
-OL,7,FTeile von Rheinland-Pfalz Der Deutsche 
-OL,8,FWetterdienst warnt bis Freitagabend vor
-OL,9,Fergiebigem Dauerregen. Erwartet werden 
-OL,10,FNiederschlagsmengen bis 60 Liter pro   
-OL,11,FQuadratmeter. Es besteht Gefahr durch  
-OL,12,F]berflutungen und Erdrutsche.          
-OL,23,D]GStand:19.11. 23:30   ]bersicht 501 >>
+OL,9,FFreiburg ist bis Samstag mit Starkregen
+OL,10,Fzu rechnen. Durch steigende Flusspegel 
+OL,11,Fmuss mit ]berflutungen gerechnet       
+OL,12,Fwerden!  Konkrete Infos erteilt die    
+OL,13,FHochwasser-Vorhersage-Zentrale         
+OL,14,FBaden-W}rttemberg.                     
+OL,23,D]GStand:20.11. 16:45   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

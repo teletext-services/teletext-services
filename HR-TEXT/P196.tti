@@ -3,24 +3,24 @@ PN,19601
 SC,0001
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGDo 19.11.26F15:25:33
+OL,0,           Fhr-textGFr 20.11.26F12:32:35
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G      Nordhessen 
 OL,3,W#######################################
-OL,4,            Do.       Fr.       Tendenz 
-OL,6,BKASSEL    C10 F5    C7  F0    C6  F-1  
-OL,7, Vormittag  etwas     etwas             
-OL,8,            Regen     Regen             
-OL,9, Nachmittag Regen     Regen     wolkig+ 
-OL,10,                                Schauer 
+OL,4,            Fr.       Sa.       Tendenz 
+OL,6,BKASSEL    C7  F0    C6  F-1   C4  F-3  
+OL,7, Vormittag  etwas     wolkig            
+OL,8,            Regen                       
+OL,9, Nachmittag Regen     wolkig    wolkig+ 
+OL,10,                                Nebel   
 OL,11, Abend      wolkig    wolkig            
-OL,14,BKORBACH   C8  F4    C5  F-2   C4  F-3  
-OL,15, Vormittag  Regen     etwas             
-OL,16,                      Regen             
-OL,17, Nachmittag Regen     etwas     wolkig+ 
-OL,18,                      Regen     Schauer 
-OL,19, Abend      wolkig+   leicht            
-OL,20,            Schauer   bew|lkt           
+OL,14,BKORBACH   C5  F-2   C4  F-3   C3  F-4  
+OL,15, Vormittag  etwas     wolkig            
+OL,16,            Regen                       
+OL,17, Nachmittag etwas     wolkig+   leicht  
+OL,18,            Regen     Schauer   bew|lkt 
+OL,19, Abend      leicht    wolkig            
+OL,20,            bew|lkt                     
 OL,22,CH|chstwert TagG/FTiefstwert NachtGin `C
 OL,23,G]DNordhessenwetter 192          1/5 -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
@@ -29,24 +29,23 @@ PN,19602
 SC,0002
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGDo 19.11.26F15:25:33
+OL,0,           Fhr-textGFr 20.11.26F12:32:35
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G       Osthessen 
 OL,3,W#######################################
-OL,4,            Do.       Fr.       Tendenz 
-OL,6,BB.HERSFELDC10 F4    C8  F-1   C7  F-1  
-OL,7, Vormittag  etwas     etwas             
-OL,8,            Regen     Regen             
-OL,9, Nachmittag etwas     Regen     wolkig+ 
-OL,10,            Regen               Schauer 
+OL,4,            Fr.       Sa.       Tendenz 
+OL,6,BB.HERSFELDC8  F-1   C7  F-1   C4  F-3  
+OL,7, Vormittag  etwas     wolkig            
+OL,8,            Regen                       
+OL,9, Nachmittag Regen     wolkig+   wolkig+ 
+OL,10,                      Schauer   Nebel   
 OL,11, Abend      wolkig    wolkig            
-OL,14,BFULDA     C10 F5    C8  F-1   C6  F-2  
-OL,15, Vormittag  Regen     etwas             
-OL,16,                      Regen             
-OL,17, Nachmittag wolkig+   Regen     wolkig  
-OL,18,            Schauer                     
-OL,19, Abend      wolkig+   etwas             
-OL,20,            Schauer   Regen             
+OL,14,BFULDA     C8  F-1   C6  F-2   C4  F-3  
+OL,15, Vormittag  Regen     wolkig            
+OL,17, Nachmittag Regen     wolkig    leicht  
+OL,18,                                bew|lkt 
+OL,19, Abend      etwas     leicht            
+OL,20,            Regen     bew|lkt           
 OL,22,CH|chstwert TagG/FTiefstwert NachtGin `C
 OL,23,G]DOsthessenwetter 193           2/5 -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
@@ -55,25 +54,23 @@ PN,19603
 SC,0003
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGDo 19.11.26F15:25:33
+OL,0,           Fhr-textGFr 20.11.26F12:32:35
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G    Mittelhessen 
 OL,3,W#######################################
-OL,4,            Do.       Fr.       Tendenz 
-OL,6,BMARBURG   C10 F5    C7  F0    C6  F0   
-OL,7, Vormittag  Regen     etwas             
-OL,8,                      Regen             
-OL,9, Nachmittag wolkig+   Regen     wolkig  
-OL,10,            Schauer                     
-OL,11, Abend      wolkig+   etwas             
-OL,12,            Schauer   Regen             
-OL,14,BGIESSEN   C11 F5    C9  F0    C7  F0   
-OL,15, Vormittag  Regen     etwas             
-OL,16,                      Regen             
-OL,17, Nachmittag wolkig+   Regen     wolkig  
-OL,18,            Schauer                     
-OL,19, Abend      wolkig    etwas             
-OL,20,                      Regen             
+OL,4,            Fr.       Sa.       Tendenz 
+OL,6,BMARBURG   C7  F0    C6  F-1   C4  F-2  
+OL,7, Vormittag  Regen     wolkig            
+OL,9, Nachmittag Regen     wolkig    sonnig+ 
+OL,10,                                Nebel   
+OL,11, Abend      etwas     wolkig            
+OL,12,            Regen                       
+OL,14,BGIESSEN   C8  F0    C7  F0    C5  F-2  
+OL,15, Vormittag  Regen     wolkig            
+OL,17, Nachmittag Regen     wolkig    sonnig+ 
+OL,18,                                Nebel   
+OL,19, Abend      etwas     wolkig            
+OL,20,            Regen                       
 OL,22,CH|chstwert TagG/FTiefstwert NachtGin `C
 OL,23,G]DMittelhessenwetter 194        3/5 -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
@@ -82,24 +79,25 @@ PN,19604
 SC,0004
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGDo 19.11.26F15:25:33
+OL,0,           Fhr-textGFr 20.11.26F12:32:35
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G      Rhein-Main 
 OL,3,W#######################################
-OL,4,            Do.       Fr.       Tendenz 
-OL,6,BFRANKFURT C12 F10   C12 F3    C9  F2   
-OL,7, Vormittag  Regen     etwas             
-OL,8,                      Regen             
-OL,9, Nachmittag wolkig+   etwas     wolkig  
-OL,10,            Schauer   Regen             
-OL,11, Abend      wolkig    Regen             
-OL,14,BWIESBADEN C12 F9    C11 F3    C9  F2   
-OL,15, Vormittag  Regen     etwas             
-OL,16,                      Regen             
-OL,17, Nachmittag wolkig+   Regen     wolkig  
-OL,18,            Schauer                     
-OL,19, Abend      wolkig    etwas             
-OL,20,                      Regen             
+OL,4,            Fr.       Sa.       Tendenz 
+OL,6,BFRANKFURT C11 F2    C9  F2    C6  F1   
+OL,7, Vormittag  etwas     wolkig            
+OL,8,            Regen                       
+OL,9, Nachmittag etwas     leicht    wolkig+ 
+OL,10,            Regen     bew|lkt   Nebel   
+OL,11, Abend      Regen     leicht            
+OL,12,                      bew|lkt           
+OL,14,BWIESBADEN C10 F2    C9  F2    C6  F0   
+OL,15, Vormittag  etwas     leicht            
+OL,16,            Regen     bew|lkt           
+OL,17, Nachmittag Regen     wolkig    wolkig+ 
+OL,18,                                Nebel   
+OL,19, Abend      etwas     wolkig            
+OL,20,            Regen                       
 OL,22,CH|chstwert TagG/FTiefstwert NachtGin `C
 OL,23,G]DRhein-Main-Wetter 191         4/5 -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
@@ -108,25 +106,24 @@ PN,19605
 SC,0005
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGDo 19.11.26F15:25:33
+OL,0,           Fhr-textGFr 20.11.26F12:32:35
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G       S}dhessen 
 OL,3,W#######################################
-OL,4,            Do.       Fr.       Tendenz 
-OL,6,BDARMSTADT C13 F8    C12 F3    C9  F1   
-OL,7, Vormittag  Regen     wolkig+           
-OL,8,                      Schauer           
-OL,9, Nachmittag wolkig+   etwas     wolkig  
-OL,10,            Schauer   Regen             
-OL,11, Abend      wolkig+   Regen             
-OL,12,            Schauer                     
-OL,14,BMICHELST. C12 F7    C11 F2    C8  F1   
-OL,15, Vormittag  etwas     wolkig            
-OL,16,            Regen                       
-OL,17, Nachmittag wolkig+   etwas     wolkig  
-OL,18,            Schauer   Regen             
-OL,19, Abend      wolkig    etwas             
-OL,20,                      Regen             
+OL,4,            Fr.       Sa.       Tendenz 
+OL,6,BDARMSTADT C12 F2    C9  F1    C6  F1   
+OL,7, Vormittag  wolkig+   leicht            
+OL,8,            Schauer   bew|lkt           
+OL,9, Nachmittag etwas     wolkig    wolkig  
+OL,10,            Regen                       
+OL,11, Abend      Regen     leicht            
+OL,12,                      bew|lkt           
+OL,14,BMICHELST. C11 F2    C8  F1    C5  F0   
+OL,15, Vormittag  wolkig    wolkig            
+OL,17, Nachmittag etwas     wolkig    wolkig  
+OL,18,            Regen                       
+OL,19, Abend      Regen     leicht            
+OL,20,                      bew|lkt           
 OL,22,CH|chstwert TagG/FTiefstwert NachtGin `C
 OL,23,G]DS}dhessenwetter 195           5/5 -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport

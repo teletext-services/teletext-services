@@ -3,27 +3,58 @@ PN,64701
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G03:25:40
+OL,0,       BSWR BW C   Fr, 20.11.26G16:52:24
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,8,CWARNUNG vor DAUERREGEN                 
-OL,9, G}ltig: Do 11:44 bis Fr 18:00          
-OL,11,FAltenkirchen, Westerwaldkreis          
+OL,9, G}ltig: Fr 04:01 bis Fr 18:00          
+OL,11,FAltenkirchen                           
 OL,13, Nach bisher beobachteten               
-OL,14, Niederschlagsmengen von 25 bis 40 l/qm 
+OL,14, Niederschlagsmengen von 50 bis 80 l/qm 
 OL,15, tritt weiterhin Dauerregen mit         
 OL,16, Unterbrechungen auf. Dabei werden      
-OL,17, nochmals Niederschlagsmengen um 35 l/qm
-OL,18, erwartet.                              
-OL,23,D]GQuelle:DWD  Stand:11:44  Hinweise 654
+OL,17, nochmals Niederschlagsmengen bis 25    
+OL,18, l/qm erwartet.                         
+OL,23,D]GQuelle:DWD  Stand:04:01  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,64702
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G03:25:40
+OL,0,       BSWR BW C   Fr, 20.11.26G16:52:24
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor FROST                      
+OL,11, G}ltig: Fr 21:00 bis Sa 09:00          
+OL,13,FAltenkirchen, Westerwaldkreis          
+OL,15, Es tritt leichter Frost zwischen 0 `C  
+OL,16, und -3 `C auf.                         
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64703
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Fr, 20.11.26G16:52:24
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,11,FWARNUNG vor GL[TTE                     
+OL,12, G}ltig: Fr 21:00 bis Sa 09:00          
+OL,14,FAltenkirchen, Westerwaldkreis          
+OL,16, Es besteht Gl{ttegefahr.               
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64704
+SC,0004
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Fr, 20.11.26G16:52:25
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -35,5 +66,36 @@ OL,15, Intensit{t auf. Dabei werden
 OL,16, Niederschlagsmengen zwischen 30 l/qm   
 OL,17, und 50 l/qm erwartet.                  
 OL,23,D]GQuelle:DWD  Stand:18:19  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64705
+SC,0005
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Fr, 20.11.26G16:52:25
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor FROST                      
+OL,11, G}ltig: Sa 00:00 bis Sa 09:00          
+OL,13,FRhein-Lahn-Kreis                       
+OL,15, Es tritt leichter Frost zwischen 0 `C  
+OL,16, und -3 `C auf.                         
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64706
+SC,0006
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Fr, 20.11.26G16:52:25
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,11,FWARNUNG vor GL[TTE                     
+OL,12, G}ltig: Sa 00:00 bis Sa 09:00          
+OL,14,FRhein-Lahn-Kreis                       
+OL,16, Es besteht Gl{ttegefahr.               
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

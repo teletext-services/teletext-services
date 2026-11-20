@@ -1,16 +1,43 @@
 DE,SWR-BW 510
-PN,51000
-SC,0000
-PS,8200
+PN,51001
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Do, 19.11.26G23:46:23
+OL,0,       BSWR BW C   Fr, 20.11.26G16:47:21
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,              Autobahn A81              
-OL,6,CA81FHeilbronn Richtung Stuttgart       
-OL,7, zwischen Weinsberg/Ellhofen und Ilsfeld
-OL,8, Aquaplaninggefahr                      
-OL,23,D]GStand:19.11. 23:45   ]bersicht 501 >>
+OL,4,             Autobahn A8,A81            
+OL,6,CA8FStuttgart Richtung Karlsruhe        
+OL,7, zwischen Heimsheim und Pforzheim-Nord  
+OL,8, Baustelle, 8 km stockender Verkehr,    
+OL,9, Zeitverlust von bis zu 20 Minuten      
+OL,11,CA8FKarlsruhe Richtung Stuttgart        
+OL,12, zwischen Pforzheim-West und            
+OL,13, Pforzheim-Ost Baustelle, 6 km          
+OL,14, stockender Verkehr, Zeitverlust von bis
+OL,15, zu 15 Minuten                          
+OL,17,CA81FStuttgart Richtung W}rzburg        
+OL,18, zwischen Mundelsheim und               
+OL,19, Weinsberg/Ellhofen Baustelle, 10 km    
+OL,20, stockender Verkehr, Zeitverlust von bis
+OL,21, zu 30 Minuten                          
+OL,23,D]GStand:20.11. 16:45   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,51002
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Fr, 20.11.26G16:47:21
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,             Autobahn A8,A81            
+OL,6,CA81FStuttgart Richtung Singen          
+OL,7, zwischen Kreuz Stuttgart und Ehningen  
+OL,8, Baustelle, 8 km stockender Verkehr,    
+OL,9, Zeitverlust von bis zu 20 Minuten      
+OL,23,D]GStand:20.11. 16:45   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

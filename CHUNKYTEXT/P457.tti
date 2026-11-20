@@ -28,7 +28,7 @@ OL,21,2`q~e~HR`q0`8~I`qG`X~E`q:`8~^`qA`8~=~A~|
 OL,22,`~A/`A~H,`2 ~F\`A~N,h`R~@~8~n`x`q`Q~^`5+
 OL,23,(`HG`Q `t+(`X~[`a~^-`A`8(`p`h~^`x~F`T+(~
 OL,24,H~d`JG`a\,`E,(~@`0`x~NLT$`Q  ~F\h~p~A~gL
-FL,457,200,140,260,0,100
+FL,405,400,0,100,0,100
 PN,45702
 SC,0002
 PS,C000
@@ -58,7 +58,7 @@ OL,21,GGG~d~n~[~k~Y~ZGGG~o~YGGGGGGGG~wGGDATACA
 OL,22,ST TEST RECEIVER~b~e~b (C)hannel:~w~h~Z1
 OL,23,~b~e (D)atachannel: 11~b~e (S)PA:~w~h~\ 
 OL,24,     ~b~e (R)un~b~e (Q)uit~b~e~bBeeps in
-FL,457,200,140,260,0,100
+FL,405,400,0,100,0,100
 PN,45703
 SC,0003
 PS,C000
@@ -77,7 +77,7 @@ OL,10,~e~^\\~c\~f~e\~|`\\~a\~a~a~a\~Z~g\~b\\~a
 OL,11,~|`~|`~|`\~|`\\~a~|`\\~c\~f~[\\~d~g\~\\\
 OL,12,~a~g\~g~g\~f~g\~|`\\~]\~f~e\\~f~g\~f~f\~
 OL,13,f|c                                     
-FL,457,200,140,260,0,100
+FL,405,400,0,100,0,100
 PN,45704
 SC,0004
 PS,C000
@@ -107,7 +107,7 @@ OL,21,s zero containY page header,YndYre follo
 OL,22,wed byGsubsequent packets containingLtex
 OL,23,t_f rows 1^o 24 for display_n^heGtelevis
 OL,24,ion screen.GGWhileY^elevision can_nly di
-FL,457,200,140,260,0,100
+FL,405,400,0,100,0,100
 PN,45705
 SC,0005
 PS,C000
@@ -137,7 +137,7 @@ OL,21,\\\---G   Magazine number:J 8  1  2  3
 OL,22,4  5  6  7  8  1  2  3  4  5  6  7G   Ro
 OL,23,wYddress:JJ(JJ  30JJ  )(JJ  31JJ  )G   \
 OL,24,\\\\\\\\\\\\---GGData channel 0 isYlloca
-FL,457,200,140,260,0,100
+FL,405,400,0,100,0,100
 PN,45706
 SC,0006
 PS,C000
@@ -167,7 +167,7 @@ OL,21, from here_nwards,Ynd packetGrefers^o ID
 OL,22,L format A unless noted_therwise.GGFig.2
 OL,23,: Packet layout:GJJ \\\\\\\\\\\\\G Byte:
 OL,24,J  0J 1J2J3J4   *J*   *   *JvariableJ 40
-FL,457,200,140,260,0,100
+FL,405,400,0,100,0,100
 PN,45707
 SC,0007
 PS,C000
@@ -197,7 +197,7 @@ OL,21,each be given^heir_wnYddress!GGAsLSPA ha
 OL,22,sY variable length,Loffset_fLnext^hree b
 OL,23,ytes isGnot fixed,Ynd indeed^heyYre each
 OL,24,_ptional depending_nLFT byte.GUnlikeLpre
-FL,457,200,140,260,0,100
+FL,405,400,0,100,0,100
 PN,45708
 SC,0008
 PS,C000
@@ -227,7 +227,7 @@ OL,21,k word. This is calculatedGfromLUser Dat
 OL,22,a bytes,YndLCIYnd DL bytes if present. W
 OL,23,henYnGimplicit CI is required,LCRC word 
 OL,24,is modified^o forceLresult_fGthe check c
-FL,457,200,140,260,0,100
+FL,405,400,0,100,0,100
 PN,45709
 SC,0009
 PS,C000
@@ -257,7 +257,7 @@ OL,21,y bytesYnd discard^hem fromLreceived pay
 OL,22,load.GIIIIIIIIIIII__GGGDatabroadcasting 
 OL,23,has been used for many interestingYpplic
 OL,24,ations,Gincluding distributing internal^
-FL,457,200,140,260,0,100
+FL,405,400,0,100,0,100
 PN,45710
 SC,0010
 PS,C000
@@ -287,7 +287,7 @@ OL,21,tware which enables^heGinjection_fZbroad
 OL,22,cast streams intoLgenerated^Ksignal.GGA 
 OL,23,python script which connects^o^his APIYn
 OL,24,d provides demonstrationZGstreams forLDA
-FL,457,200,140,260,0,100
+FL,405,400,0,100,0,100
 PN,45711
 SC,0011
 PS,C000
@@ -302,4 +302,4 @@ OL,6,GFurther details_fLVBIT2Zbroadcast API w
 OL,7,ill be published_nlineYtGhttps://github.
 OL,8,com/peterkvt80/vbit2/wiki inLfuture.GGGG
 OL,9,GGJJJJJJJJ  Page 3GGGGG|c               
-FL,457,200,140,260,0,100
+FL,405,400,0,100,0,100

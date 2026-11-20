@@ -3,24 +3,25 @@ PN,70401
 SC,0001
 PS,C300
 CT,10,T
-OL,0,    BTELEVIDEO 704.01CVe 20 Nov 04:57:42
+OL,0,    BTELEVIDEO 704.01CVe 20 Nov 14:59:06
 OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
 OL,2,D]Voo5 $1!" $1 CLIGURE E TIRRENICO
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 21 DEL 19    
+OL,4,D]  COSSERVAZIONI ALLE ORE 13 DEL 20    
 OL,5,                                   C1/4 
 OL,6,C]DC.MELE (SV) \ Fn.p.                  
-OL,7,BTemp:F13         BVento:Fn.p.          
-OL,9,D]CGENOVA      \ FSereno                
-OL,10,FTemp: 11         BVento:F4 nodi n/ne   
+OL,7,BTemp:F18         BVento:Fn.p.          
+OL,9,D]CGENOVA      \ FPoco nuvoloso         
+OL,10,FTemp: 18         BVento:F7 nodi s/se   
 OL,11,BVisib:FOttima                          
-OL,12,C]DSARZANA (SP)\ Fn.p.                  
-OL,13,BTemp:F12         BVento:F2 nodi n/no   
-OL,15,D]CPISA        \ FPoco nuvoloso         
-OL,16,FTemp: 16         BVento:F20 nodi o/so  
+OL,12,C]DSARZANA (SP)\ FParzialmente nuvoloso 
+OL,13,BTemp:F18         BVento:F11 nodi o/so  
+OL,14,BVisib:FOttima                          
+OL,15,D]CPISA        \ FParzialmente nuvoloso 
+OL,16,FTemp: 17         BVento:F22 nodi o/so  
 OL,17,BVisib:FOttima                          
 OL,18,C]DM.ARGENTARIO\ Fn.p.                  
-OL,19,BTemp:F12         BVento:F11 nodi o/so  
+OL,19,BTemp:F16         BVento:F6 nodi var.   
 OL,20,BVisib:FOttima                          
 OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
 FL,703,705,100,100,0,100
@@ -28,48 +29,51 @@ PN,70402
 SC,0002
 PS,C300
 CT,10,T
-OL,0,    BTELEVIDEO 704.02CVe 20 Nov 04:57:42
+OL,0,    BTELEVIDEO 704.02CVe 20 Nov 14:59:06
 OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
 OL,2,D]Voo5 $1!" $1 CLIGURE E TIRRENICO
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 21 DEL 19    
+OL,4,D]  COSSERVAZIONI ALLE ORE 13 DEL 20    
 OL,5,                                   C2/4 
-OL,6,C]DFIRENZE     \ FNuvoloso              
-OL,7,BTemp:F16         BVento:F6 nodi s/so   
+OL,6,C]DFIRENZE     \ FPoco nuvoloso         
+OL,7,BTemp:F17         BVento:F12 nodi o/so  
 OL,8,BVisib:FOttima                          
-OL,9,D]CPERUGIA     \ FCoperto               
-OL,10,FTemp: 15         BVento:F5 nodi s/so   
+OL,9,D]CPERUGIA     \ FParzialmente nuvoloso 
+OL,10,                  BVento:F7 nodi o/no   
 OL,11,BVisib:FOttima                          
-OL,12,C]DVITERBO     \ Fn.p.                  
-OL,13,BOsservazione non disponibile.          
-OL,15,D]CGROSSETO    \ FPoco nuvoloso         
-OL,16,FTemp: 16         BVento:F10 nodi oves  
+OL,12,C]DVITERBO     \ FPoco nuvoloso         
+OL,13,BTemp:F17         BVento:F9 nodi o/so   
+OL,14,BVisib:FOttima                          
+OL,15,D]CGROSSETO    \ FParzialmente nuvoloso 
+OL,16,FTemp: 18         BVento:F13 nodi oves  
 OL,17,BVisib:FOttima                          
-OL,18,C]DFROSINONE   \ Fn.p.                  
-OL,19,BOsservazione non disponibile.          
+OL,18,C]DFROSINONE   \ FParzialmente nuvoloso 
+OL,19,BTemp:F17         BVento:F2 nodi s/so   
+OL,20,BVisib:FOttima                          
 OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
 FL,703,705,100,100,0,100
 PN,70403
 SC,0003
 PS,C300
 CT,10,T
-OL,0,    BTELEVIDEO 704.03CVe 20 Nov 04:57:42
+OL,0,    BTELEVIDEO 704.03CVe 20 Nov 14:59:06
 OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
 OL,2,D]Voo5 $1!" $1 CLIGURE E TIRRENICO
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 21 DEL 19    
+OL,4,D]  COSSERVAZIONI ALLE ORE 13 DEL 20    
 OL,5,                                   C3/4 
-OL,6,C]DROMA FIUM.  \ FSereno                
-OL,7,BTemp:F18         BVento:F17 nodi o/so  
-OL,8,BVisib:FBuona                           
-OL,9,D]CROMA URBE   \ Fn.p.                  
-OL,10,FOsservazione non disponibile.          
+OL,6,C]DROMA FIUM.  \ FPoco nuvoloso         
+OL,7,BTemp:F20         BVento:F13 nodi o/so  
+OL,8,BVisib:FOttima                          
+OL,9,D]CROMA URBE   \ FSereno                
+OL,10,FTemp: 19         BVento:F1 nodo var.   
+OL,11,BVisib:FOttima                          
 OL,12,C]DTREVICO (AV)\ Fn.p.                  
-OL,13,BTemp:F10         BVento:F19 nodi o/so  
+OL,13,BTemp:F10         BVento:F16 nodi o/so  
 OL,15,D]CPONZA       \ Fn.p.                  
 OL,16,FOsservazione non disponibile.          
-OL,18,C]DNAPOLI      \ FSereno                
-OL,19,BTemp:F18         BVento:F13 nodi o/no  
+OL,18,C]DNAPOLI      \ FParz. nuv., Pioggia   
+OL,19,BTemp:F18         BVento:F11 nodi o/so  
 OL,20,BVisib:FOttima                          
 OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
 FL,703,705,100,100,0,100
@@ -77,14 +81,14 @@ PN,70404
 SC,0004
 PS,C300
 CT,10,T
-OL,0,    BTELEVIDEO 704.04CVe 20 Nov 04:57:42
+OL,0,    BTELEVIDEO 704.04CVe 20 Nov 14:59:06
 OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
 OL,2,D]Voo5 $1!" $1 CLIGURE E TIRRENICO
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 21 DEL 19    
+OL,4,D]  COSSERVAZIONI ALLE ORE 13 DEL 20    
 OL,5,                                   C4/4 
-OL,6,C]DSALERNO     \ FNuvoloso              
-OL,7,BTemp:F18         BVento:F1 nodo var.   
-OL,8,BVisib:FBuona                           
+OL,6,C]DSALERNO     \ FPoco nuvoloso         
+OL,7,BTemp:F20         BVento:F14 nodi o/so  
+OL,8,BVisib:FOttima                          
 OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
 FL,703,705,100,100,0,100

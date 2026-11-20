@@ -3,29 +3,29 @@ PN,72500
 SC,0000
 PS,8200
 CT,10,T
-OL,0,       G725FNDR TEXT GFr 20.11.B05:31:01
+OL,0,       G725FNDR TEXT GFr 20.11.B13:42:19
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN HANNOVER          
-OL,4,F]T  %D     Ankunft      Stand 04:34    
+OL,4,F]T  %D     Ankunft      Stand 13:00    
 OL,5,BFLUG    VON           PLAN ERW. TER/BEM
-OL,6, SM 2932 Hurghada      0240 0210 C Gelan
-OL,7,FLH 2090 M}nchen       0835      A      
-OL,8, LX  814 Z}rich        0850      A      
-OL,9,FPC 1033 Istanbul-Sab. 0935      C      
-OL,10, TK 1553 Istanbul      0940      C      
-OL,11,FOS  271 Wien          0940      A      
-OL,12, LH  040 Frankfurt     0950      A      
-OL,13,FSK  669 Kopenhagen    0950      A      
-OL,14, KL 1787 Amsterdam     1020      A      
-OL,15,FBA  922 London-Heathr 1025      C      
-OL,16, VF  085 Istanbul-Sab. 1120      C      
-OL,17,FVL 2092 M}nchen       1250      A      
-OL,18, X3 4107 Heraklion     1255      A      
-OL,19,C   via D}sseldorf                      
-OL,20, X3 2147 P. de Mallorc 1315      A      
-OL,21,C   via D}sseldorf                      
-OL,22, LX  816 Z}rich        1350      A      
+OL,6, VF  085 Istanbul-Sab. 1120 1125 C Gelan
+OL,7,FVL 2092 M}nchen       1250 1311 A      
+OL,8, X3 4107 Heraklion     1255 1245 A Gelan
+OL,9,C   via D}sseldorf                      
+OL,10, X3 2147 P. de Mallorc 1315 1259 A Gelan
+OL,11,C   via D}sseldorf                      
+OL,12, LX  816 Z}rich        1350 1409 A      
+OL,13,FLH  044 Frankfurt     1420 1432 A      
+OL,14, OS  273 Wien          1425 1426 A      
+OL,15,FVL 2094 M}nchen       1635      A      
+OL,16, TK 1555 Istanbul      1705      C      
+OL,17,FBJ 2598 Monastir      1710      C      
+OL,18, BA  928 London-Heathr 1715      C      
+OL,19,FX3 2149 Fuerteventura 1725      B      
+OL,20, KL 1791 Amsterdam     1745      A      
+OL,21,FLH  046 Frankfurt     1810      A      
+OL,22, AF 1838 Paris - CDG   1830      A      
 OL,23,A]G700<                      WEITER >726
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

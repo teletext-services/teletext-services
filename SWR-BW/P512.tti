@@ -1,19 +1,52 @@
 DE,SWR-BW 512
-PN,51200
-SC,0000
-PS,8200
+PN,51201
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Do, 19.11.26G23:50:08
+OL,0,       BSWR BW C   Fr, 20.11.26G16:47:31
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
 OL,4,             Bundesstra~en              
-OL,6,CB50FRheinb|llen Richtung               
-OL,7,FBernkastel-Kues                        
-OL,8, zwischen Argenthal und Riesweiler      
-OL,9, Unfall, gesperrt, empfohlene Umleitung:
-OL,10, Richtung Bernkastel-Kues }ber          
-OL,11, Mutterschied und Simmern/Hunsr}ck      
-OL,23,D]GStand:19.11. 23:48   ]bersicht 501 >>
+OL,6,CB29, B14FAalen Richtung Backnang       
+OL,7, zwischen Weinstadt-Endersbach und      
+OL,8, Waiblingen-Mitte defekter PKW,         
+OL,9, stockender Verkehr, Stauende liegt im  
+OL,10, Kurvenbereich                          
+OL,12,CB27FT}bingen Richtung Stuttgart        
+OL,13, zwischen Leinfelden-Echterdingen-Nord  
+OL,14, und A8, Stuttgart-Degerloch (A8) Gefahr
+OL,15, durch defektes Fahrzeug                
+OL,17,CB29FStuttgart Richtung Aalen           
+OL,18, zwischen B|bingen an der Rems und      
+OL,19, M|gglingen-S}d Gefahr durch 4          
+OL,20, Gegenst{nde (Holzteile) auf allen      
+OL,21, Fahrstreifen                           
+OL,23,D]GStand:20.11. 16:45   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,51202
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Fr, 20.11.26G16:47:31
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,             Bundesstra~en              
+OL,6,CB295FStuttgart - Calw                  
+OL,7, zwischen Simmozheim und Althengstett in
+OL,8, beiden Richtungen Gefahr durch         
+OL,9, Gegenst{nde auf der Fahrbahn           
+OL,11,CB49FLimburg Richtung Gie~en            
+OL,12, zwischen Solms-Niederbiel und Tunnel   
+OL,13, Wetzlar 3 km Stau                      
+OL,15,CB9FLudwigshafen - Mainz                
+OL,16, zwischen B47, Worms / Rheinbr}cke und  
+OL,17, Worms in beiden Richtungen             
+OL,18, Richtungsfahrbahn gesperrt,            
+OL,19, Bauarbeiten, eine Umleitung ist        
+OL,20, eingerichtet                           
+OL,23,D]GStand:20.11. 16:45   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

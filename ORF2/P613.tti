@@ -3,16 +3,16 @@ PN,61301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G613FORF2   GFr 20.11.26 02:31:20
+OL,0,       G613FORF2   GFr 20.11.26 14:32:57
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    1/4  
 OL,4, Vorhersage f}r den 20.11.2026,         
-OL,5, vom 19.11.2026, 1700 Uhr lct           
+OL,5, vom 20.11.2026, 0500 Uhr lct           
 OL,7,FWetterlage:                            
 OL,8, Die Alpennordseite befindet sich in    
-OL,9, einer st}rmischen Weststr|mung         
-OL,10, mit Zufuhr von feuchter und labil      
+OL,9, einer st}rmischen Weststr|mung mit     
+OL,10, Zufuhr von feuchter und labil          
 OL,11, geschichteter Atlantikluft.            
 OL,13,FWind freie Atmosph{re 1300 Uhr lct:    
 OL,14,  5000ft amsl 270/45kt                  
@@ -20,7 +20,7 @@ OL,15, 10000ft amsl 270/40kt
 OL,16, 15000ft amsl 270/40kt                  
 OL,18,FNullgradgrenze:                        
 OL,19, Zwischen 6000 und 8000ft, in der Fr}h  
-OL,20, zus{tzlich am Boden.                   
+OL,20, auch am Boden.                         
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -28,25 +28,27 @@ PN,61302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G613FORF2   GFr 20.11.26 02:31:20
+OL,0,       G613FORF2   GFr 20.11.26 14:32:57
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    2/4  
 OL,4, Vorhersage f}r den 20.11.2026,         
-OL,5, vom 19.11.2026, 1700 Uhr lct           
+OL,5, vom 20.11.2026, 0500 Uhr lct           
 OL,7,FInformationen Instrumentenflug:        
-OL,8, ]ber Bergen unterhalb von FL130        
-OL,9, turbulent.                             
-OL,11,FInformationen Sichtflug:               
-OL,12, N|rdlich des Alpenhauptkamms           
-OL,13, }berwiegend starke, konvektiv          
-OL,14, durchsetzte Bew|lkung und h{ufig       
-OL,15, Regenschauer. Schneefallgrenze um      
-OL,16, 5000ft amsl. S}dlich des               
-OL,17, Alpenhauptkamms meist nur mittelhohe   
-OL,18, Bew|lkung und gute Sichten, nachdem    
-OL,19, sich die Nebel- und Stratusfelder am   
-OL,20, Vormittag aufgel|st haben.             
+OL,8, Tops der TCU alpennordseitig um FL160. 
+OL,10,FInformationen Sichtflug:               
+OL,11, N|rdlich des Alpenhauptkamms           
+OL,12, }berwiegend starke, konvektiv          
+OL,13, durchsetzte Bew|lkung und h{ufig       
+OL,14, Regenschauer. Die Berge und P{sse der  
+OL,15, Nord- und Zentralalpen sind }berwiegend
+OL,16, in Wolken. Schneefallgrenze um         
+OL,17, 4500ft amsl.                           
+OL,18, S}dlich des Alpenhauptkamms meist nur  
+OL,19, mittelhohe Bew|lkung und gute Sichten, 
+OL,20, nachdem sich teils gefrierende Nebel-  
+OL,21, und Stratusfelder am Vormittag         
+OL,22, aufl|sen.                              
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -54,20 +56,20 @@ PN,61303
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G613FORF2   GFr 20.11.26 02:31:20
+OL,0,       G613FORF2   GFr 20.11.26 14:32:57
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    3/4  
 OL,4, Vorhersage f}r den 20.11.2026,         
-OL,5, vom 19.11.2026, 1700 Uhr lct           
+OL,5, vom 20.11.2026, 0500 Uhr lct           
 OL,7,FInformationen Thermik/Wellen:          
-OL,8, Am Alpenostrand bilden sich Wellen.    
-OL,10,FInformationen Ballonfahrten:           
-OL,11, Im S}den und S}dosten in der Fr}h      
-OL,12, ausgepr{gte Bodeninversion sowie auch  
-OL,13, tags}ber generell schwacher Wind.      
-OL,14, N|rdlich der Alpen hingegen st}rmischer
-OL,15, Westwind und Regen.                    
+OL,8, Am Alpenostrand Wellenbildung m|glich, 
+OL,9, alpennordseitig starker Westwind.      
+OL,11,FInformationen Ballonfahrten:           
+OL,12, N|rdlich der Alpen st}rmischer         
+OL,13, Westwind, im S}den besonders zu den    
+OL,14, Tagesrandzeiten verbreitet Nebel und   
+OL,15, Stratus.                               
 OL,17,FVorschau f}r Samstag, den 21.11.:      
 OL,18, Entlang und n|rdlich des               
 OL,19, Alpenhauptkamms kompakte, tiefbasige   
@@ -80,7 +82,7 @@ PN,61304
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G613FORF2   GFr 20.11.26 02:31:21
+OL,0,       G613FORF2   GFr 20.11.26 14:32:57
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    4/4  

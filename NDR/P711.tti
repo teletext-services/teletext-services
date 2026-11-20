@@ -3,29 +3,29 @@ PN,71100
 SC,0000
 PS,8200
 CT,10,T
-OL,0,       G711FNDR TEXT GFr 20.11.B05:08:10
+OL,0,       G711FNDR TEXT GFr 20.11.B13:41:59
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN HAMBURG           
-OL,4,F]T  %D     Abflug       Stand 04:58    
+OL,4,F]T  %D     Abflug       Stand 13:40    
 OL,5,BFLUG    NACH          PLAN ERW. TER/BEM
-OL,6, AF 1611 Paris/CDG     0600      2      
-OL,7,FTP  565 Lissabon      0600      2      
-OL,8, BA  971 London/LHR    0610      2      
-OL,9,FEW 7642 Faro          0610      1      
-OL,10, KL 1750 Amsterdam     0610      2      
-OL,11,FSK  648 Kopenhagen    0615      2      
-OL,12, LH 2085 M}nchen       0615      2      
-OL,13,FEW 7750 Wien          0620      1      
-OL,14, LH  031 Frankfurt     0630      2      
-OL,15,FEW 7546 Porto         0635      1      
-OL,16, TK 1668 Istanbul      0635 0645 1      
-OL,17,FEW 7526 Fuerte.       0650      1      
-OL,18, IB  778 Madrid        0650      2      
-OL,19,FDE 4031 Frankfurt     0700      1      
-OL,20, EW 7520 Barcelona     0700      1      
-OL,21,FEW 7760 Z}rich        0710      1      
-OL,22, EW 7266 Gran Canaria  0710      1      
+OL,6, FR 1517 London/STN    1315      2 Start
+OL,7,FXQ  171 Antalya       1335      1 Start
+OL,8, EW 7762 Z}rich        1340      1 Start
+OL,9,FTK 1666 Istanbul      1410      1  *   
+OL,10, XQ  915 Izmir         1415      1      
+OL,11,FEW 7462 London/LHR    1425 1425 1      
+OL,12, ATV 502 Friedrichsh.  1435      1      
+OL,13,FKL 1756 Amsterdam     1435 1500 2      
+OL,14, EK  060 Dubai         1440      1      
+OL,15,FEW 7044 Stuttgart     1445      1      
+OL,16, FR 6120 Danzig        1445      2      
+OL,17,FLX 1057 Z}rich        1450 1505 2      
+OL,18, LH  019 Frankfurt     1500      2      
+OL,19,FEJU2996 Rom/FCO       1500      1      
+OL,20, LH 2067 M}nchen       1505      2      
+OL,21,FOS  254 Wien          1510      2      
+OL,22, EW 7066 D}sseldorf    1515      1      
 OL,23,A]G700<   * = zum Einsteigen WEITER >712
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

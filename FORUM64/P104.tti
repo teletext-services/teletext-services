@@ -3,67 +3,46 @@ PN,10401
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F12:58:03
+OL,0,         GFORUM64   GFr 20 Nov F12:23:14
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,ECommodore 64 Ultimate Firmware Updates 
-OL,4,CAntwort:  Bcruncher                    
-OL,5,CComments: B526                         
+OL,2,EPole Position Atarisoft Tape Version   
+OL,4,CAntwort:  Btokra                       
+OL,5,CComments: B1                           
 OL,6,F                                       
-OL,7,F( )                                    
-OL,9,FWie w{re denn dann die Vorgehensweise. 
-OL,10,FSo wie ich es verstanden habe, mu~     
-OL,11,Fzuerst die Firmware installiert sein,  
-OL,12,Fum sie erst extern abzuspeichern.      
-OL,13,FDieses wird ja bei Auswahl }ber's      
-OL,14,FHostmen} nicht geflasht, sondern nur   
-OL,15,Freingeladen, oder?                     
+OL,7,FBin hier dr}ber gestolpert und hab mir 
+OL,8,Fgedacht: "Das muss auch einfacher      
+OL,9,Fgehen".                                
+OL,11,FFolgendes hab ich mal gemacht: - beide 
+OL,12,FModulteile von $6000-$7fff und         
+OL,13,F$a000-$bfff mit Exomizer gepackt -     
+OL,14,Fkleinen Entpacker davor gebastelt mit  
+OL,15,FBASIC-Start - festgestellt, dass       
 OL,17,CErster Beitrag:                        
-OL,19,GDie neue Firmware ist drau~en, tr{gt   
-OL,20,Gdie Nummer 1.1.0                       
-OL,22,Ghttps://www.commodore.net/downloads?cur
-OL,23,Grency=EUR                              
-OL,24,D]FForum64.de RSS feed            (1/3) 
+OL,19,GIch habe hier eine Kassette Version    
+OL,20,Gerstellt. Falls, wenn jemand das Spiel 
+OL,21,Gohne Modul einfach von Datasette       
+OL,22,Gspielen m|chte.                        
+OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,10402
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F12:58:03
+OL,0,         GFORUM64   GFr 20 Nov F12:23:14
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GDas ist das Changelog                  
-OL,5,G( )                                    
-OL,7,GEin paar Sachen, die mir beim Flashen  
-OL,8,Gaufgefallen sind:                      
-OL,10,G- Das Update fragt als erstes, ob das  
-OL,11,GFlashdrive neu formatiert werden muss, 
-OL,12,Gich habe hier "Nein" angew{hlt und     
-OL,13,Gw}rde es - wenn es keine Probleme mit  
-OL,14,Gdem Flashdrive gibt auch nicht         
-OL,15,Gempfehlen zu machen, weil sonst alle   
-OL,16,GRoms, etc. die man dorthin kopiert hat 
-OL,17,Gweg sind                               
-OL,19,G- Das ESP Modul wird w{hrend der       
-OL,20,GFlashens mit aktualisiert              
-OL,22,G- Ich habe die Frage, ob ich die       
-OL,24,D]FForum64.de RSS feed            (2/3) 
-FL,0,0,0,0,0,100
-PN,10403
-SC,0003
-PS,C200
-CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F12:58:03
-OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GKonifguration resetten m|chte mit "Ja" 
-OL,4,Gbeantwortet, hier muss man vorsichtig  
-OL,5,Gsein, der C64U bootet dann, wenn er    
-OL,6,Gvorher }ber RGB lief wieder }ber CVBS, 
-OL,7,Gmein Monitor macht beides, das Bild war
-OL,8,Gdann nur monochrom, aber evtl. kann das
-OL,9,GProbleme bereiten. Ich vermute, dass es
-OL,10,Gbei HDMI egal ist, wei~ es aber nicht. 
-OL,12,G- Das Laden der alten Dolphin DOS      
-OL,13,GKonfiguration klappte nicht auf Anhieb,
-OL,14,Gich musste die Roms neu setzen und auch
-OL,15,Gdas Parallelkabel wieder aktivieren,   
-OL,24,D]FForum64.de RSS feed            (3/3) 
+OL,3,GWas man braucht: 32K                   
+OL,4,GSpeichererweiterung, BLK1 BLK2 BLK3 und
+OL,5,GBLK5 muss aktiv sein.                  
+OL,7,GReset knopf ist notwendig.             
+OL,9,GErst wird die Seite 1 geladen. wichtig:
+OL,10,Ges muss absolut geladen werden. also   
+OL,11,GLOAD "",1,1                            
+OL,13,Gnach dem es geladen wurde, wird die    
+OL,14,GKassette umgedreht und nochmals LOAD   
+OL,15,G"",1,1 die seite zwei geladen. Wenn    
+OL,16,Gfertig, kein run oder sysbefehl        
+OL,17,Geingeben! einfach Resetknopf dr}cken   
+OL,18,Gund das Spiel startet.                 
+OL,20,GViel Spa~                              
+OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

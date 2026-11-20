@@ -3,66 +3,67 @@ PN,10101
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F12:53:36
+OL,0,         GFORUM64   GFr 20 Nov F12:23:38
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,E"UCALC" - eine Tabellenkalkulation f}r 
-OL,3,Eden C64 mit CSV-Import/Export (UTF-8)  
-OL,4,Eund PDF-Ausgabe                        
-OL,6,CAntwort:  BSnoopy                      
-OL,7,CComments: B64                          
-OL,8,F                                       
-OL,9,F( )                                    
-OL,11,FTodo-Liste f}r Omega : - Suchen -      
-OL,12,FSortieren - Datum mit Datumsfunktionen 
-OL,13,F- Farben als Hilfsmittel zur optischen 
-OL,14,FStrukturierung von Tabellen -          
-OL,15,FFehlerkorrekturen (Post #51 ) -        
-OL,16,FFehlerkorrekturen (Post #61 ) -        
-OL,17,FSicherheitsabfrage beim Speichern (Post
-OL,18,F#64 ) - ... - Eier                     
-OL,20,CErster Beitrag:                        
-OL,22,GAufbauend auf UTEXT hatte ich damals   
-OL,23,Gauch eine Tabellenkalkulation          
+OL,2,EDolphinDOS26UL: neues Kernal f}r C64   
+OL,3,Eund C64U (aus C64U-Thread)...          
+OL,5,CAntwort:  BUnseen                      
+OL,6,CComments: B62                          
+OL,7,F                                       
+OL,8,F( )                                    
+OL,10,FBurstmode und Parallelkabel haben      
+OL,11,Fnichts miteinander zu tun.             
+OL,13,FDer Burstmode stammt vom C128 und wird 
+OL,14,Fzur schnelleren ]bertragung }ber das   
+OL,15,Fserielle Kabel mit 157x/1581 verwendet.
+OL,16,FEs gibt ein paar Projekte um den mit   
+OL,17,Fpassender Software oder einem          
+OL,19,CErster Beitrag:                        
+OL,21,GHallo,                                 
+OL,23,Gich habe ein spezielles Laufwerks und  
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,10102
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F12:53:36
+OL,0,         GFORUM64   GFr 20 Nov F12:23:38
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gentwickelt, damit ich quasi meine      
-OL,4,G"Officearbeiten" am C64 vornehmen kann.
-OL,5,GF}r kleinere Texte (UTEXT) und Tabellen
-OL,6,G(UCALC) mache ich das mittlerweile     
-OL,7,Gtats{chlich auch hin und wieder damit. 
-OL,9,GZu einer Ver|ffentlichung konnte ich   
-OL,10,Gmich jedoch nie so richtig aufraffen,  
-OL,11,Gweil es ohne Anleitung eher wenig Sinn 
-OL,12,Gmacht und Anleitungen schreiben nicht  
-OL,13,Gunbedingt mein Lieblingshobby ist. Es  
-OL,14,Glag irgendwie, wie so manches andere,  
-OL,15,Gin der virtuellen Schublade.           
-OL,17,GDa UTEXT ja doch gut ankam, habe ich   
-OL,18,Gmich dieses Wochenende dann doch mal an
-OL,19,Geine Anleitung gesetzt und sie         
-OL,20,Ghoffentlich einigerma~en verst{ndlich  
-OL,21,Gformuliert. Da ist mir erst wieder so  
-OL,22,Grichtig aufgefallen, wie viel bei der  
-OL,23,GTabellenkalkulation doch beschrieben   
+OL,3,GC64 Kernel ROM f}r den C64U erstellt.  
+OL,4,GEs basiert auf DolphinDOS 3 und nennt  
+OL,5,Gsich DolphinDOS26UL. Mit diesem 1541   
+OL,6,Gund C64 Kernal kann der C64U }ber den  
+OL,7,Ginternen Parallelport f}r das Drive A  
+OL,8,Gmit DolphinDOS + Zusatz RAM arbeiten.  
+OL,9,GParallel kann der Kernel mit anderen   
+OL,10,GIEC-Ger{ten wie 1541, 1571, PI1541,    
+OL,11,GSD2IEC }ber das JiffyDOS-Protokoll     
+OL,12,Gsprechen ohne den Kernal zu wechseln.  
+OL,13,GSomit hat man immer eine schnelle      
+OL,14,G]bertragung. Der Kernel w{hlt          
+OL,15,Gautomatisch das beste Protokoll        
+OL,16,G(DolphinDOS, JiffyDOS oder original    
+OL,17,GCBM-Seriell).                          
+OL,19,GDas gleiche habe ich auch mit dem      
+OL,20,GSpeedDOS gemacht. Es hei~t jetzt bei   
+OL,21,Gmir SpeedDOS26 und braucht im Gegensatz
+OL,22,Gzu DolphinDOS nicht das Zusatz-RAM in  
+OL,23,Gder Floppy.                            
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,10103
 SC,0003
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F12:53:36
+OL,0,         GFORUM64   GFr 20 Nov F12:23:38
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gwerden muss. Wer UCALC benutzen will,  
-OL,4,Gsollte tats{chlich mal in die Anleitung
-OL,5,Gschauen, es ist nicht alles            
-OL,6,Gselbsterkl{rend, auch wenn ich darauf -
-OL,7,Gso gut es ging - geachtet habe.        
-OL,9,GBitte                                  
+OL,3,GDas ganze l{uft nat}rlich auch auf     
+OL,4,Grealer Hardware.                       
+OL,6,GLink:                                  
+OL,7,Ghttps://github.com/FraEgg/DolphinDOS   
+OL,9,GWeitere Informationen zum gesamten     
+OL,10,GMulti-Speeder-Projekt unter:           
+OL,12,Ghttps://github.com/FraEgg/Switchless-Mu
+OL,13,Glti-Speeder-Project                    
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

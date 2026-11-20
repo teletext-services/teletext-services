@@ -3,25 +3,23 @@ PN,70500
 SC,0000
 PS,8080
 CT,10,T
-OL,0,       G705  RTS 2     20.11.26 04:59:11
+OL,0,       G705  RTS 2     20.11.26 15:35:15
 OL,1,A]GRTS 2     ]@vendredi 20 novembre     
-OL,4,G20:40 GL'agence tous risques.......C707
-OL,5,E 2035 CI/IICS-T                        
-OL,6,F22:35 FPMU                             
-OL,7,E 2000                                  
-OL,8,G22:40 GZap RTS Sport                   
-OL,9,       CS-T                             
-OL,10,F22:45 FBabylon Berlin..............C708
-OL,11,E 2235 FEpisode 3CI/IICS-TA            
-OL,12,G23:40 GBabylon Berlin..............C709
-OL,13,E 2330 GEpisode 4CI/IICS-TA            
-OL,14,F00:25 FMy son .....................C710
-OL,15,E 0020 CI/IICS-T                        
-OL,16,G01:55 GCouleurs locales                
-OL,17,E 0130 CS-TC(R)                         
-OL,18,F02:10 F19h30 - Sign#                   
-OL,19,E 0150 CS-TCLSC(R)                      
-OL,20,G04:55 GFormule 1...................C711
-OL,21,       GGP de Las Vegas                 
+OL,4,G22:35 GPMU                             
+OL,5,E 2000                                  
+OL,6,F22:44 FZap RTS Sport                   
+OL,7,E 2240 CS-T                             
+OL,8,G22:45 GBabylon Berlin..............C708
+OL,9,E 2235 GEpisode 3CI/IICS-TA            
+OL,10,F23:35 FBabylon Berlin..............C709
+OL,11,E 2330 FEpisode 4CI/IICS-TA            
+OL,12,G00:25 GMy son .....................C710
+OL,13,E 0020 CI/IICS-T                        
+OL,14,F01:55 FCouleurs locales                
+OL,15,E 0130 CS-TC(R)                         
+OL,16,G02:10 G19h30 - Sign#                   
+OL,17,E 0150 CS-TCLSC(R)                      
+OL,18,F02:40 FCouleurs locales                
+OL,19,       CS-TC(R)                         
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

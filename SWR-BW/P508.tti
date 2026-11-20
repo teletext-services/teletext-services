@@ -1,26 +1,73 @@
 DE,SWR-BW 508
-PN,50800
-SC,0000
-PS,8200
+PN,50801
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Do, 19.11.26G23:43:32
+OL,0,       BSWR BW C   Fr, 20.11.26G16:47:11
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,               Autobahn A6              
-OL,6,CA6FMannheim - Heilbronn                
-OL,7, zwischen Bad Rappenau und              
-OL,8, Heilbronn/Untereisesheim in beiden     
-OL,9, Richtungen Aquaplaninggefahr           
-OL,11,CA6FHeilbronn Richtung Mannheim         
-OL,12, zwischen Heilbronn/Untereisesheim und  
-OL,13, Bad Rappenau 1 defekter PKW auf dem    
-OL,14, Standstreifen, Aquaplaninggefahr       
-OL,16,CA6FMetz/Saarbr}cken - Kaiserslautern   
-OL,17, zwischen Dreieck Saarbr}cken und Sankt 
-OL,18, Ingbert-West Staugefahr, beide         
-OL,19, Fahrtrichtungen bis auf weiteres       
-OL,20, gesperrt, Gefahr durch Bergungsarbeiten
-OL,23,D]GStand:19.11. 23:42   ]bersicht 501 >>
+OL,4,    Autobahn A6,A60,A62,A66,A661,A67    
+OL,6,CA6FMannheim Richtung Heilbronn         
+OL,7, zwischen Wiesloch/Rauenberg und        
+OL,8, Sinsheim Gefahr durch defekten LKW auf 
+OL,9, dem rechten Fahrstreifen und dem       
+OL,10, Standstreifen                          
+OL,12,CA60FBingen Richtung Mainz              
+OL,13, zwischen Ingelheim-Ost und Heidesheim  
+OL,14, Gefahr durch liegengebliebenes Fahrzeug
+OL,15, auf dem rechten Fahrstreifen           
+OL,17,CA60FR}sselsheim Richtung Mainz         
+OL,18, zwischen Mainz-Weisenau und Kreuz      
+OL,19, Mainz-S}d 2 km stockender Verkehr      
+OL,23,D]GStand:20.11. 16:45   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50802
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Fr, 20.11.26G16:47:11
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,    Autobahn A6,A60,A62,A66,A661,A67    
+OL,6,CA62FNonnweiler Richtung Landstuhl      
+OL,7, zwischen Birkenfeld und Freisen Gefahr 
+OL,8, durch Gegenst{nde auf der Fahrbahn     
+OL,10,CA66FWiesbaden Richtung Frankfurt       
+OL,11, zwischen Frankfurt am Main-H|chst und  
+OL,12, Nordwestkreuz Frankfurt 4 km stockender
+OL,13, Verkehr                                
+OL,15,CA66FFrankfurt Richtung Wiesbaden       
+OL,16, zwischen Wiesbaden-Mainzer Stra~e und  
+OL,17, Schiersteiner Kreuz 2 km stockender    
+OL,18, Verkehr                                
+OL,23,D]GStand:20.11. 16:45   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50803
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Fr, 20.11.26G16:47:11
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,    Autobahn A6,A60,A62,A66,A661,A67    
+OL,6,CA661FDarmstadt Richtung Bad Homburg    
+OL,7, zwischen Offenbacher Kreuz und         
+OL,8, Frankfurt-Friedberger Landstra~e 5 km  
+OL,9, stockender Verkehr                     
+OL,11,CA67FMannheim Richtung Darmstadt        
+OL,12, zwischen Gernsheim und Darmst{dter     
+OL,13, Kreuz 5 km Stau, Gr}npflege, rechter   
+OL,14, Fahrstreifen gesperrt, Fahrbahn auf    
+OL,15, einen Fahrstreifen verengt, bis heute  
+OL,16, 20:00 Uhr                              
+OL,18,CA67FDarmstadt Richtung Mannheim        
+OL,19, zwischen Weiterstadt und Pfungstadt 5  
+OL,20, km Stau                                
+OL,23,D]GStand:20.11. 16:45   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  877Cpi@ 20 lis  09:35:00
+OL,0,      BPOLONIA  877Cpi@ 20 lis  18:42:11
 OL,1,E] D] A M I G ] O W K A     Zapa}kowe   
 OL,2,E]D] EL O G I C Z N A    ]  Dr_wnania   
 OL,3,U#######################################
@@ -34,23 +34,28 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  877Cpi@ 20 lis  09:35:00
+OL,0,      BPOLONIA  877Cpi@ 20 lis  18:42:11
 OL,1,E] D] A M I G ] O W K A     Zapa}kowe   
 OL,2,E]D] EL O G I C Z N A    ]  Dr_wnania   
 OL,3,U#######################################
 OL,4,     MRozwi@zanieFz godzinyE18:00.      
-OL,6,V`,,$      `   `  `   U,,d      `   `  `
-OL,7,Vj    h    j   j  j     Uj h    j   j  j
-OL,8,V",,d(n,   bbss",,f   U,,f(n,   bbss",,f
-OL,9,   Vj *    j      j     Uj *    j      j
-OL,10, V,,&      "      "   U,,&      "      "
+OL,6,V`,,d   `,,$   `,,$  U`,,d   `,,$    ,,d
+OL,7,Vj  j   j      j     Uj  j   j         j
+OL,8,V",,f(,,b,,dbss",,d  U",,f(,,b,,dbss ,,f
+OL,9,   Vj   j  j      j     Uj   j  j      j
+OL,10, V,,&   ",,&    ,,&   U,,&   ",,&    ,,&
 OL,11, S,,,,,U S,,,,,U S,,,,,U S,,,,,U S,,,,,U
-OL,12,V`,,$   `,,d   `,,$  U`,,$   `,,d   `,,$
-OL,13,Vj      j  j   j     Uj    h j  j   j   
-OL,14,V",,d(,,b  bbssb,,d  U",,d(n,b  bbss",,d
-OL,15,   Vj   j  j   j  j     Uj * j  j      j
-OL,16, V,,&   ",,&   ",,&   U,,&   ",,&    ,,&
+OL,12,   V`    ,,d    ,,d   `,,$      ` ,,d   
+OL,13,   Vj h    j h    j h j         j   j   
+OL,14,   Vb(n,`,,&(n, ,,f(n,b,,dbss   b   b   
+OL,15,   Vj * j    *    j * j  j      j   j   
+OL,16,   V"   ",,$    ,,&   ",,&      "   "   
 OL,17, S,,,,,U S,,,,,U S,,,,,U S,,,,,U S,,,,,U
+OL,18,      U`    ,,d   `,,d   `,,$      ` ,,d
+OL,19,      Uj h    j h j  j h j         j   j
+OL,20,      Ub(n,`,,&(n,",,f(n,",,dbss   b   b
+OL,21,      Uj * j    *    j *    j      j   j
+OL,22,      U"   ",,$    ,,&    ,,&      "   "
 OL,23,E]DNowe godz. 18:00 ] E867 <<< powr_t   
 OL,24, A]amig}_wki  BQUIZ  CSUDOKU  FZAPA]KI  
 FL,876,878,100,100,0,100
@@ -59,22 +64,22 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  877Cpi@ 20 lis  09:35:00
+OL,0,      BPOLONIA  877Cpi@ 20 lis  18:42:11
 OL,1,E] D] A M I G ] O W K A     Zapa}kowe   
 OL,2,E]D] EL O G I C Z N A    ]  Dr_wnania   
 OL,3,U#######################################
 OL,4,     MRozwi@zanieFz godzinyE18:00.      
-OL,6,V`,,d   `,,d   `,,$  U`,,d   `,,$   `,,$
-OL,7,Vj  j h j  j   j     Uj  j h j      j   
-OL,8,Vb  b(n,",,fbssb,,d  Ub  b(n,b,,dbssb,,d
-OL,9,Vj  j *    j   j  j  Uj  j * j  j   j  j
-OL,10,V",,&    ,,&   ",,&  U",,&   ",,&   ",,&
+OL,6,   V`    ,,d   `,,d   U,,d    ,,d   `,,d
+OL,7,   Vj h    j   j  j     Uj      j   j  j
+OL,8,   Vb(n,   bbssb  b     Ub(,,   bbssb  b
+OL,9,   Vj *    j   j  j     Uj      j   j  j
+OL,10,   V"      "   ",,&     U"      "   ",,&
 OL,11, S,,,,,U S,,,,,U S,,,,,U S,,,,,U S,,,,,U
-OL,12,                     U`,,d   `,,d   `,,d
-OL,13,                     Uj  j h j  j   j  j
-OL,14,                     Ub  b(n,",,fbss",,f
-OL,15,                     Uj  j *    j      j
-OL,16,                     U",,&    ,,&    ,,&
+OL,12,                        U`      `   `,,d
+OL,13,                        Uj h    j   j  j
+OL,14,                  U(,,   b(n,   bbssb  b
+OL,15,                        Uj *    j   j  j
+OL,16,                        U"      "   ",,&
 OL,17, S,,,,,U S,,,,,U S,,,,,U S,,,,,U S,,,,,U
 OL,23,E]DNowe godz. 18:00 ] E867 <<< powr_t   
 OL,24, A]amig}_wki  BQUIZ  CSUDOKU  FZAPA]KI  

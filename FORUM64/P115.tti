@@ -3,61 +3,62 @@ PN,11501
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F13:15:30
+OL,0,         GFORUM64   GFr 20 Nov F12:23:32
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EDer Linux-Talk zu allem M|glichen (aus 
-OL,3,E"Kleiner Ausflug...")                  
-OL,5,CAntwort:  BJammet                      
-OL,6,CComments: B463                         
+OL,2,EBMX (Bare Metal X) VICE 3.10 und vAmiga
+OL,3,E4.4 f}r Raspberry Pi 4/5               
+OL,5,CAntwort:  Bcruncher                    
+OL,6,CComments: B958                         
 OL,7,F                                       
-OL,8,F( )                                    
-OL,10,FBitte melde Dich an, um dieses         
-OL,11,FMedienelement zu sehen.                
-OL,13,CErster Beitrag:                        
-OL,15,GJa, Linuxumsteiger und die             
-OL,16,GErwartungshaltung - been there, done   
-OL,17,Gthat ... Einen Unimog mit Metallic-Lack
-OL,18,Gkaufen, aber erwarten ihn wie einen    
-OL,19,GPassat fahren und mit VW Teilen warten 
-OL,20,Gzu k|nnen.                             
-OL,22,GWird OOTB nur f}r die reinen           
-OL,23,GSteam-Gamer funktionieren.. aber da    
+OL,8,FSehr geil, leider sind die St}cke nicht
+OL,9,Fin voller L{nge. Wird es sowas wie     
+OL,10,Feinen Mixer innerhalb von BMX geben, wo
+OL,11,Fman sich die Parameter selber          
+OL,12,Feinstellen kann?                       
+OL,14,CErster Beitrag:                        
+OL,16,G*** edit cp2, 08.11.2026 *** Die       
+OL,17,Gaktuelle URL zum Projekt lautet:       
+OL,18,Ghttps://baremetalx.de/ Hallo Leute,    
+OL,20,GIch habe vorgestern die erste Version  
+OL,21,Gvon BMX (Bare Metal X) ver|ffentlicht. 
+OL,22,GEs setzt da an, wo BMC64 aufgeh|rt hat.
+OL,23,GD.h. es zielt vorallem auf Pi4/5 ab.   
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11502
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F13:15:30
+OL,0,         GFORUM64   GFr 20 Nov F12:23:32
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Grichtig ordentlich, so meine Erfahrung.
-OL,4,GSteam installieren, ein paar Klicks und
-OL,5,Gein Gro~teil der Lib l{uft. Oder (wie  
-OL,6,Gbei vielen, denen ich Linux statt Win  
-OL,7,Ginstalliert habe) User mit Browser und 
-OL,8,GOffice-Standard-Anspr}chen - das       
-OL,9,Gfunktioniert sogar wesentlcih besser   
-OL,10,Gals unter Windows, weil auch der       
-OL,11,GEinfallsvektor f}r Scamware kleiner    
-OL,12,Gist.                                   
-OL,14,GWer sich aber auf neue Konzepte und die
-OL,15,GBedienung einlassen kann und eine      
-OL,16,GLernkurve erklimmen m|chte, der wird   
-OL,17,Gauch nach einiger Zeit merken, das die 
-OL,18,GFreiheit (das Ende der OS Bevormundung)
-OL,19,Gsich besser anf}hlt, auch wenn man sich
-OL,20,Gerst freischwimmen muss. Repositories  
-OL,21,Gund das Updateprozedere unter Linux ist
-OL,22,Geinfach geil. Zuerst hat sich das      
-OL,23,Gkomisch angef}hlt im SW-Centre nach    
+OL,3,GF}r mich war die Motivation            
+OL,4,Ghaupts{chlich PI 400 und PI 500 als    
+OL,5,GZielplattform zu nutzen, da ich die    
+OL,6,Gbeiden Ger{te eh hier habe.            
+OL,8,GDer Rest aus der Readme auf Englisch:  
+OL,10,GBMX is a bare-metal Commodore emulator 
+OL,11,Gfor the Raspberry PI 4/5 family derived
+OL,12,Gfrom BMC64. The current focus of this  
+OL,13,Gproject is to provide a smooth user    
+OL,14,Gexperience on the Raspberry Pi 400 and 
+OL,15,G500. It should kinda feel like a modern
+OL,16,Gbreadbin. Support for Raspberry Pi <= 3
+OL,17,Gis removed and left to the original    
+OL,18,GBMC64 project.                         
+OL,20,GThese are the main features of BMX:    
+OL,22,G* Based on VICE 3.10 (C64, C128, VIC20,
+OL,23,GPlus/4 and PET machines are supported) 
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,11503
 SC,0003
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F13:15:30
+OL,0,         GFORUM64   GFr 20 Nov F12:23:32
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GApps zu suchen und nichts              
+OL,3,G* Circle v20, Step 51 to support the   
+OL,4,GRaspberry Pi4/5 family * Pi5/Pi500 HDMI
+OL,5,Gmodesetting with RGB565 framebuffer and
+OL,6,Ghardware scaling, providing            
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

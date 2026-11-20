@@ -3,24 +3,24 @@ PN,70801
 SC,0001
 PS,C300
 CT,10,T
-OL,0,    BTELEVIDEO 708.01CVe 20 Nov 05:04:25
+OL,0,    BTELEVIDEO 708.01CVe 20 Nov 14:59:10
 OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
 OL,2,D]Voo5 $1!" $1 CTIRRENO MER.-ISOLE
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 21 DEL 19    
+OL,4,D]  COSSERVAZIONI ALLE ORE 13 DEL 20    
 OL,5,                                   C1/2 
 OL,6,C]DC.PALINURO  \ Fn.p.                  
-OL,7,                  BVento:F16 nodi o/no  
+OL,7,                  BVento:F12 nodi n/no  
 OL,9,D]CM.SCURO-SILA\ Fn.p.                  
-OL,10,FTemp: 11         BVento:F14 nodi o/so  
-OL,12,C]DR.CALABRIA  \ FNuvoloso              
-OL,13,BTemp:F25         BVento:F7 nodi n/ne   
+OL,10,FTemp: 6          BVento:F11 nodi o/so  
+OL,12,C]DR.CALABRIA  \ FPoco nuvoloso         
+OL,13,BTemp:F22         BVento:F14 nodi n/no  
 OL,14,BVisib:FOttima                          
-OL,15,D]CPALERMO     \ FSereno                
-OL,16,FTemp: 21         BVento:F10 nodi s/so  
+OL,15,D]CPALERMO     \ FPoco nuvoloso         
+OL,16,FTemp: 20         BVento:F18 nodi oves  
 OL,17,BVisib:FOttima                          
 OL,18,C]DCATANIA     \ FSereno                
-OL,19,BTemp:F21         BVento:F6 nodi o/so   
+OL,19,BTemp:F25         BVento:F18 nodi o/so  
 OL,20,BVisib:FOttima                          
 OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
 FL,707,709,100,100,0,100
@@ -28,24 +28,25 @@ PN,70802
 SC,0002
 PS,C300
 CT,10,T
-OL,0,    BTELEVIDEO 708.02CVe 20 Nov 05:04:25
+OL,0,    BTELEVIDEO 708.02CVe 20 Nov 14:59:10
 OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
 OL,2,D]Voo5 $1!" $1 CTIRRENO MER.-ISOLE
 OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 21 DEL 19    
+OL,4,D]  COSSERVAZIONI ALLE ORE 13 DEL 20    
 OL,5,                                   C2/2 
 OL,6,C]DTRAPANI     \ FPoco nuvoloso         
-OL,7,BTemp:F20         BVento:F6 nodi o/so   
+OL,7,BTemp:F21         BVento:F14 nodi o/no  
 OL,8,BVisib:FOttima                          
 OL,9,D]CENNA        \ Fn.p.                  
-OL,10,FTemp: 16         BVento:F9 nodi n/ne   
-OL,12,C]DALGHERO     \ FSereno                
-OL,13,BTemp:F17         BVento:F7 nodi o/no   
+OL,10,FTemp: 13         BVento:F11 nodi n/ne  
+OL,12,C]DALGHERO     \ FPoco nuvoloso         
+OL,13,BTemp:F19         BVento:F7 nodi o/no   
 OL,14,BVisib:FOttima                          
-OL,15,D]CCAGLIARI    \ Fn.p.                  
-OL,16,FOsservazione non disponibile.          
-OL,18,C]DOLBIA       \ FSereno                
-OL,19,BTemp:F15         BVento:F17 nodi o/so  
+OL,15,D]CCAGLIARI    \ FPoco nuvoloso         
+OL,16,FTemp: 21         BVento:F14 nodi o/no  
+OL,17,BVisib:FOttima                          
+OL,18,C]DOLBIA       \ FParzialmente nuvoloso 
+OL,19,BTemp:F19         BVento:F17 nodi o/so  
 OL,20,BVisib:FOttima                          
 OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
 FL,707,709,100,100,0,100

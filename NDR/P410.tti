@@ -1,26 +1,43 @@
 DE,NDR 410
-PN,41000
-SC,0000
-PS,8200
+PN,41001
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       G410FNDR TEXT GDo 19.11.B21:06:41
+OL,0,       G410FNDR TEXT GFr 20.11.B13:34:33
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD    NDR 1 WELLE NORD         
-OL,4,F]T  %D        Donnerstag 19.11.2026    
+OL,4,F]T  %D        Freitag 20.11.2026       
 OL,6, 00:00  ARD Hitnacht                    
 OL,7,F05:00  Moin Schleswig-Holstein: Mit    
-OL,8,F       Mandy Schmidt und Horst Hoof    
+OL,8,F       Miriam Pede und Horst Hoof      
 OL,9, 10:00  Moin! Schleswig-Holstein        
-OL,10,        mittendrin: Mit Jan Bastick     
+OL,10,        mittendrin: Mit Maja Herzbach   
 OL,11,F15:00  Moin! Der Tag in                
 OL,12,F       Schleswig-Holstein: Mit Julian  
 OL,13,F       Krafftzig                       
 OL,14, 19:00  Moin! Schleswig-Holstein - Von  
 OL,15,        Binnenland und Waterkant        
-OL,16,F21:00  Der ARD Abend - Radio f}r alle: 
-OL,17,F       Die live moderierte Musiksendung
-OL,18, 23:00  ARD Hitnacht                    
-OL,23,F]D400<                      WEITER >411
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,16,F21:00  Moin! Schleswig-Holstein - Von  
+OL,17,F       Binnenland und Waterkant:       
+OL,18,F       Niederdeutsches H|rspiel: Smiet 
+OL,19,F       Rin - Mehr as blots }mtrecken!: 
+OL,20,F       Regina (4)                      
+OL,21, 22:00  Der ARD Abend - Radio f}r alle: 
+OL,22,        Die live moderierte Musiksendung
+OL,23,F]D400<                        WEITER >>
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,41002
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       G410FNDR TEXT GFr 20.11.B13:34:33
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    NDR 1 WELLE NORD         
+OL,4,F]T  %D        Freitag 20.11.2026       
+OL,6, 23:00  ARD Hitnacht                    
+OL,23,F]D400<                   WEITER >411 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

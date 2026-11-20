@@ -3,70 +3,72 @@ PN,11801
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F13:20:12
+OL,0,         GFORUM64   GFr 20 Nov F12:23:44
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,ESD-Karten-Problematik beim MEGA65      
-OL,4,CAntwort:  BUnseen                      
-OL,5,CComments: B20                          
-OL,6,F                                       
-OL,7,F( )                                    
-OL,9,FDa b|te sich doch eine Mischl|sung nach
-OL,10,FArt eines Software-gemanageten TLBs an:
-OL,11,FEs gibt eine kleine Zahl von Eintr{gen 
-OL,12,Fbestehend aus (startoffset, l{nge) ->  
-OL,13,FSD-Sektor, die jeweils einen Bereich in
-OL,14,Fder Datei auf zusammenh{ngende Sektoren
-OL,15,Fauf der                                
-OL,17,CErster Beitrag:                        
-OL,19,GIch hole das mal von hier r}ber, damit 
-OL,20,Gman vielleicht an dieses Problem mal   
-OL,21,Grangehen kann?                         
-OL,23,G( )                                    
+OL,2,EUnser "Internet" der 1980s - Zeitreise 
+OL,3,Ein die Mailbox/C64-Online-Welt ab 1986.
+OL,4,EComputergeschichte - jetzt alles in der
+OL,5,Emodernen ATDT BBS erreichbar           
+OL,7,CAntwort:  BLutz G                      
+OL,8,CComments: B49                          
+OL,9,F                                       
+OL,10,F( )                                    
+OL,12,FJa sehr - und thx                      
+OL,14,F( )                                    
+OL,16,FJa das ging hier in Hamburg auch ab,   
+OL,17,Fdass man auf so Usertreffen, etc war.  
+OL,18,FUnd eben dann die Sysops auch          
+OL,19,Fpers|nlich kennenlernte. Ich war in der
+OL,20,FZeit immer nur User - war gar nicht    
+OL,21,Fscharf drauf Sysop zu sein. Jetzt in   
+OL,22,Fden                                    
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11802
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F13:20:12
+OL,0,         GFORUM64   GFr 20 Nov F12:23:44
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GIch habe von FPGA-Progarmmierung leider
-OL,4,Gnur so viel Ahnung, wie vom            
-OL,5,GRosenz}chten in Neuseeland, aber       
-OL,6,Gzumindest kann ich Claude bedienen und 
-OL,7,Gmir damit helfen lassen, die           
-OL,8,Ginteressanten Stellen herauszufinden.  
-OL,10,GUnd hier habe ich mal zu dem Problem   
-OL,11,Gnachgefragt:                           
-OL,13,G---                                    
-OL,15,GFrage:                                 
-OL,17,GKannst du dieses Github-Repo |ffnen und
-OL,18,Geinsehen?                              
-OL,19,Ghttps://github.com/MEGA65/mega65-core  
-OL,21,GIch habe eine Frage dazu: Kannst du    
-OL,22,Gerkennen, ob und wenn ja, wo sich der  
+OL,3,CErster Beitrag:                        
+OL,5,G4.6.1986 - ganz Deutschland sitzt vor  
+OL,6,Gder Glotze und zieht sich die          
+OL,7,GFu~ball-WM rein.                       
+OL,9,GGanz Deutschland?                      
+OL,11,GNein.                                  
+OL,13,GUm 20:20 Uhr nutzt ein Computerfreak   
+OL,14,Gdie Gunst der Stunde, dass sonst kaum  
+OL,15,Gjemand vor dem Computer h{ngt, und     
+OL,16,Gloggt sich in die Hamburger TMC Mailbox
+OL,17,G(Gr}~e an Dirk!) ein und hinterl{sst   
+OL,18,Geine Nachricht. Damals bedeutete       
+OL,19,G"online sein" noch Akustikkoppler,     
+OL,20,GModem, Commodore 64, 300 Baud und jede 
+OL,21,GMenge Geduld.                          
+OL,23,GSCHOEN, DEUTSCHLAND ZIEHT SICH FUSSBALL
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,11803
 SC,0003
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F13:20:12
+OL,0,         GFORUM64   GFr 20 Nov F12:23:44
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GCode befindet, der f}r den Zugriff des 
-OL,4,GMEGA65 auf die SD-Karte zust{ndig ist? 
-OL,6,GClaude:                                
-OL,8,GJa, ich habe das Repo ge|ffnet (Branch 
-OL,9,Gdevelopment , Stand 31.10.2026). Der   
-OL,10,GSD-Karten-Code ist vorhanden und       
-OL,11,Gverteilt sich auf zwei Ebenen.         
-OL,13,G1. Hardware im FPGA (VHDL)             
-OL,15,Gsrc/vhdl/sdcard.vhdl (688 Zeilen)      
-OL,16,Genth{lt die Entity SdCardCtrl , den    
-OL,17,Geigentlichen SPI-Controller f}r die    
-OL,18,GKarte (Reset/Init, CMD-Sequenzen,      
-OL,19,GLesen/Schreiben von 512-Byte-Bl|cken,  
-OL,20,GSDHC). Er beruht auf einem             
-OL,21,GXESS-Controller (LGPL)                 
+OL,3,GREIN UND ICH HAB ENDLICH MAL NE FREIE  
+OL,4,GLEITUNG BECKENBAUER & CO. SEI DANK!!!  
+OL,6,GBitte melde Dich an, um dieses         
+OL,7,GMedienelement zu sehen.                
+OL,9,GFast 40 Jahre sp{ter habe ich meine    
+OL,10,Galten C64-Disketten wiedergefunden,    
+OL,11,Ggesichert und einen Teil der           
+OL,12,Ghistorischen Mailbox-Inhalte zur}ck ins
+OL,13,GNetz gebracht mit dem gerade neu       
+OL,14,Gerschienenen ATDT BBS System - was sich
+OL,15,GInternet kompatibel wie eine normale   
+OL,16,GNetzseite verh{lt. Dank erstaunlich    
+OL,17,Glanglebiger C64 5,25-Zoll-Disketten    
+OL,18,Gkonnten Nachrichten, Diskussionen und  
+OL,19,GGeschichten aus der Mailbox-Szene der  
+OL,20,G80er Jahre                             
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

@@ -1,27 +1,51 @@
 DE,WDR-TEXT 205
-PN,20500
-SC,0000
-PS,8200
+PN,20501
+SC,0001
+PS,C200
 CT,10,T
-OL,0,     G205 WDR Text GDo 19.11.26 15:39:05
+OL,0,     G205 WDR Text GFr 20.11.26 19:23:46
 OL,1,]D]        G]               @]CAKTUELLES
 OL,2,]D]GWDR     ]DSPORT          ]          
-OL,3,]T5D    Fu~ball: Champions League/F
-OL,4,C5.Spieltag                             
-OL,6,CMittwoch, 18.November                  
-OL,7, Real Madrid - I.Mailand ..... 3:1 (1:1)
-OL,8, BK H{cken - ManCity ......... 0:2 (0:0)
-OL,9, Chelsea - Paris SG .......... 1:0 (0:0)
-OL,10, Juventus - OH Leuven ........ 2:0 (0:0)
-OL,12,CDonnerstag, 19.November       18.45 Uhr
-OL,13, Austria Wien - FC Bayern .... -:- (-:-)
-OL,14,CTore:                                  
-OL,16, Paris FC - HB K|ge .......... -:- (-:-)
-OL,17,                             C21.00 Uhr 
-OL,18, Barcelona - Servette Genf ... -:- (-:-)
-OL,19, Arsenal - OL Lyonnes ........ -:- (-:-)
-OL,20, Benfica - AS Rom ............ -:- (-:-)
-OL,21,CTabelle >> 560                         
+OL,3,]T5D     Fu~ball: Nations League   
+OL,4,CPlay-off-Runde: Viertelfinale          
+OL,6,CHinspiele                              
+OL,7,CDonnerstag, 25.M{rz (R}ck: 28.M{rz)    
+OL,8, Spanien - Frankreich                   
+OL,9, Belgien - Deutschland                  
+OL,11,CSamstag, 27.M{rz (R}ck: 30.M{rz)       
+OL,12, Norwegen - England                     
+OL,13, Niederlande - Portugal                 
+OL,15,CHalbfinale (9.-10.Juni 2027)           
+OL,16, NED/POR - ESP/FRA                      
+OL,17, BEL/GER - NOR/ENG                      
+OL,19,CFinale und Spiel um Platz 3 am 13.Juni 
+OL,20,C2027. Der Austragungsort des Finaltur- 
+OL,21,Cniers steht noch nicht fest.           
+OL,22,]T5D     Fu~ball: Nations League   
 OL,23,]D200 < Sport        weitere Meldungen >
-OL,24,A]G- 204B]G+ 206  \                     
+OL,24,A]G- 204B]G+ 206  \               G(1/2)
+FL,204,206,0,0,0,100
+PN,20502
+SC,0002
+PS,C200
+CT,10,T
+OL,0,     G205 WDR Text GFr 20.11.26 19:23:46
+OL,1,]D]        G]               @]CAKTUELLES
+OL,2,]D]GWDR     ]DSPORT          ]          
+OL,3,CAbstiegs-Playoffs                      
+OL,5,CLiga A/B:                              
+OL,6, Bosnien-Herzegowina - D{nemark         
+OL,7, Irland - Kroatien                      
+OL,8, Ungarn - Serbien                       
+OL,9, Slowenien - Wales                      
+OL,11,CLiga B/C:                              
+OL,12, Zypern - Nordmazedonien                
+OL,13, Estland - Rum{nien                     
+OL,14, F{r|er-Inseln - Georgien               
+OL,15, Belarus - Israel                       
+OL,17,CTermine:GPlay-offs Liga A/B und B/C    
+OL,18, 25.-30.M{rz 2027,                      
+OL,19, Play-offs Liga C/D 23.-28.M{rz 2028    
+OL,23,]D200 < Sport        weitere Meldungen >
+OL,24,A]G- 204B]G+ 206  \               G(2/2)
 FL,204,206,0,0,0,100
