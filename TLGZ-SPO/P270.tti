@@ -4,20 +4,25 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    270Cczw 19 lis  07:02:54
+OL,0,      BSPORT    270Cczw 19 lis  17:23:25
 OL,1,C]DHOKEJ  ]         GN H L              
-OL,6,                  C18.11                
-OL,7,FBoston          - LA Kings       0:3   
-OL,8,FFlorida         - Edmonton       2:5   
-OL,9,FNY Islanders    - Columbus       5:1   
-OL,10,FPhiladelphia    - Buffalo        4:3   
-OL,11,FWinnipeg        - Ottawa         1:2   
-OL,12,FTampa Bay       - Washington     5:2   
-OL,13,FChicago         - Toronto        6:3   
-OL,14,FMinnesota       - Nashville      7:3   
-OL,15,FSt. Louis       - Anaheim        8:6   
-OL,16,FSan Jose        - Calgary        2:5   
-OL,17,FVegas           - Dallas         3:4 D 
+OL,4,                  C19.11                
+OL,5,FDetroit         - Boston         1:4   
+OL,6,FNew Jersey      - Montreal       2:3   
+OL,7,FUtah            - Colorado       4:1   
+OL,8,                  C20.11                
+OL,9,FCarolina        - Montreal      01:00  
+OL,10,FOttawa          - Philadelphia  01:00  
+OL,11,FPittsburgh      - St. Louis     01:00  
+OL,12,FToronto         - LA Kings      01:00  
+OL,13,FWashington      - Buffalo       01:00  
+OL,14,FWinnipeg        - NY Islanders  01:00  
+OL,15,FTampa Bay       - Edmonton      01:30  
+OL,16,FCalgary         - Minnesota     02:00  
+OL,17,FChicago         - Columbus      02:00  
+OL,18,FColorado        - Anaheim       03:00  
+OL,19,FSeattle         - Vancouver     03:40  
+OL,20,FVegas           - Dallas        04:00  
 OL,23,SpppppppppT]WABELEG-> 271  COPIS -> 272 
 OL,24,   A269      B271      C272      F273   
 FL,269,271,272,273,0,100
@@ -26,24 +31,26 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    270Cczw 19 lis  07:02:54
+OL,0,      BSPORT    270Cczw 19 lis  17:23:25
 OL,1,C]DHOKEJ  ]         GN H L              
-OL,4,                  C24.11                
-OL,5,FCharlotte       - Memphis         01:00
-OL,6,FPhiladelphia    - Portland        01:00
-OL,7,FIndiana         - Oklahoma        01:30
-OL,8,FMinnesota       - Brooklyn        01:30
-OL,9,FToronto         - Milwaukee       01:30
-OL,10,FChicago         - Cleveland       02:00
-OL,11,FNew Orlean      - Phoenix         02:00
-OL,12,FHouston         - LA Clippers     02:30
-OL,13,FLA Lakers       - Utah            04:00
-OL,14,FSacramento      - San Antonio     04:00
-OL,16,                  C25.11                
-OL,17,FOrlando         - Detroit         01:00
-OL,18,FWashington      - Boston          02:00
-OL,19,FDenver          - Dallas          04:00
-OL,20,FPhiladelphia    - Miami Heat      23:00
+OL,3,                  C21.11                
+OL,4,FCarolina        - Edmonton      19:00  
+OL,5,FCalgary         - Chicago       21:30  
+OL,7,                  C22.11                
+OL,8,FFlorida         - Buffalo       00:00  
+OL,9,FNashville       - Pittsburgh    00:00  
+OL,10,FBoston          - Washington    01:00  
+OL,11,FDetroit         - NY Islanders  01:00  
+OL,12,FMontreal        - Philadelphia  01:00  
+OL,13,FOttawa          - LA Kings      01:00  
+OL,14,FSt. Louis       - New Jersey    01:00  
+OL,15,FToronto         - Columbus      01:00  
+OL,16,FWinnipeg        - Vegas         01:00  
+OL,17,FUtah            - Anaheim       03:00  
+OL,18,FSan Jose        - Seattle       04:00  
+OL,19,FVancouver       - Minnesota     04:00  
+OL,20,FNY Rangers      - Carolina      18:30  
+OL,21,FTampa Bay       - Buffalo       23:00  
 OL,23,SpppppppppT]WABELEG-> 271  COPIS -> 272 
 OL,24,   A269      B271      C272      F273   
 FL,269,271,272,273,0,100
@@ -52,17 +59,22 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    270Cczw 19 lis  07:03:01
+OL,0,      BSPORT    270Cczw 19 lis  17:23:25
 OL,1,C]DHOKEJ  ]         GN H L              
-OL,8,                  C26.11                
-OL,9,FCharlotte       - Chicago         01:00
-OL,10,FNY Knicks       - Cleveland       01:30
-OL,11,FOklahoma        - Minnesota       01:30
-OL,12,FMemphis         - LA Clippers     02:00
-OL,13,FMilwaukee       - Brooklyn        02:00
-OL,14,FHouston         - Phoenix         02:30
-OL,15,FGolden State    - Sacramento      04:00
-OL,16,FPortland        - San Antonio     04:00
+OL,4,                  C23.11                
+OL,5,FDallas          - Pittsburgh    01:00  
+OL,6,FSt. Louis       - Edmonton      01:00  
+OL,7,FVancouver       - Chicago       02:00  
+OL,9,                  C24.11                
+OL,10,FNew Jersey      - Columbus      01:00  
+OL,11,FMontreal        - LA Kings      01:30  
+OL,12,FNY Islanders    - Toronto       01:30  
+OL,13,FOttawa          - Calgary       01:30  
+OL,14,FWinnipeg        - Utah          01:30  
+OL,15,FSeattle         - Anaheim       03:40  
+OL,16,FSan Jose        - Minnesota     04:00  
+OL,18,                  C25.11                
+OL,19,FEdmonton        - Vegas         02:00  
 OL,23,SpppppppppT]WABELEG-> 271  COPIS -> 272 
 OL,24,   A269      B271      C272      F273   
 FL,269,271,272,273,0,100
@@ -71,21 +83,23 @@ SC,0004
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    270Cczw 19 lis  07:03:01
+OL,0,      BSPORT    270Cczw 19 lis  17:23:25
 OL,1,C]DHOKEJ  ]         GN H L              
-OL,6,                  C28.11                
-OL,7,FNY Knicks       - Miami Heat      01:00
-OL,8,FDetroit         - Milwaukee       01:30
-OL,9,FIndiana         - Philadelphia    01:30
-OL,10,FToronto         - Brooklyn        01:30
-OL,11,FBoston          - Atlanta         02:00
-OL,12,FMinnesota       - Memphis         02:30
-OL,13,FPhoenix         - Dallas          03:00
-OL,14,FLA Clippers     - New Orlean      03:30
-OL,15,FPortland        - Golden State    03:30
-OL,16,FSan Antonio     - LA Lakers       03:30
-OL,17,FUtah            - Denver          03:30
-OL,18,FWashington      - Orlando         23:00
+OL,5,                  C26.11                
+OL,6,FBoston          - Winnipeg        01:00
+OL,7,FBuffalo         - NY Rangers      01:00
+OL,8,FColumbus        - New Jersey      01:00
+OL,9,FFlorida         - Ottawa          01:00
+OL,10,FNY Islanders    - St. Louis       01:00
+OL,11,FPittsburgh      - Calgary         01:00
+OL,12,FTampa Bay       - Carolina        01:00
+OL,13,FWashington      - Philadelphia    01:00
+OL,14,FDetroit         - Vancouver       01:30
+OL,15,FDallas          - Nashville       02:00
+OL,16,FMinnesota       - Utah            02:00
+OL,17,FColorado        - Montreal        03:30
+OL,18,FSeattle         - Chicago         03:40
+OL,19,FAnaheim         - San Jose        04:00
 OL,23,SpppppppppT]WABELEG-> 271  COPIS -> 272 
 OL,24,   A269      B271      C272      F273   
 FL,269,271,272,273,0,100

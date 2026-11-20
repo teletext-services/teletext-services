@@ -3,34 +3,62 @@ PN,10601
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F09:00:10
+OL,0,         GFORUM64   GDo 19 Nov F13:01:15
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EEinstein-R{tsel / Zebra-R{sel auf C64? 
-OL,4,CAntwort:  BJoystick                    
-OL,5,CComments: B0                           
-OL,6,F                                       
-OL,7,FHabe gerade Gemini gefragt, da ich es  
-OL,8,Fin der Gamebase nicht gefunden habe:   
-OL,9,FAngeblich (!) gibt es das klassiche    
-OL,10,FEinstein-R{stel (aka Zebra-R{sel) nicht
-OL,11,Fauf dem C64 (shame shame shame). DA    
-OL,12,Fw{re ich jetzt f}r eine Version -      
-OL,13,Fselbst mit KI (Oh AI I love you so)    
-OL,15,CErster Beitrag:                        
-OL,17,GHabe gerade Gemini gefragt, da ich es  
-OL,18,Gin der Gamebase nicht gefunden habe:   
-OL,19,GAngeblich (!) gibt es das klassiche    
-OL,20,GEinstein-R{stel (aka Zebra-R{sel) nicht
-OL,21,Gauf dem C64 (shame shame shame). DA    
-OL,22,Gw{re ich jetzt f}r eine Version -      
-OL,23,Gselbst mit KI (Oh AI I love you so)    
-OL,24,D]FForum64.de RSS feed            (1/2) 
+OL,2,EDolphinDOS26UL: neues Kernal f}r C64   
+OL,3,Eund C64U (aus C64U-Thread)...          
+OL,5,CAntwort:  Bcruncher                    
+OL,6,CComments: B44                          
+OL,7,F                                       
+OL,8,F( )                                    
+OL,10,FHast du Extra Ram und Parallel Kabel   
+OL,11,Faktiviert?                             
+OL,13,CErster Beitrag:                        
+OL,15,GHallo,                                 
+OL,17,Gich habe ein spezielles Laufwerks und  
+OL,18,GC64 Kernel ROM f}r den C64U erstellt.  
+OL,19,GEs basiert auf DolphinDOS 3 und nennt  
+OL,20,Gsich DolphinDOS26UL. Mit diesem 1541   
+OL,21,Gund C64 Kernal kann der C64U }ber den  
+OL,22,Ginternen Parallelport f}r das Drive A  
+OL,23,Gmit DolphinDOS + Zusatz RAM arbeiten.  
+OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,10602
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F09:00:10
+OL,0,         GFORUM64   GDo 19 Nov F13:01:15
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,D]FForum64.de RSS feed            (2/2) 
+OL,3,GParallel kann der Kernel mit anderen   
+OL,4,GIEC-Ger{ten wie 1541, 1571, PI1541,    
+OL,5,GSD2IEC }ber das JiffyDOS-Protokoll     
+OL,6,Gsprechen ohne den Kernal zu wechseln.  
+OL,7,GSomit hat man immer eine schnelle      
+OL,8,G]bertragung. Der Kernel w{hlt          
+OL,9,Gautomatisch das beste Protokoll        
+OL,10,G(DolphinDOS, JiffyDOS oder original    
+OL,11,GCBM-Seriell).                          
+OL,13,GDas gleiche habe ich auch mit dem      
+OL,14,GSpeedDOS gemacht. Es hei~t jetzt bei   
+OL,15,Gmir SpeedDOS26 und braucht im Gegensatz
+OL,16,Gzu DolphinDOS nicht das Zusatz-RAM in  
+OL,17,Gder Floppy.                            
+OL,19,GDas ganze l{uft nat}rlich auch auf     
+OL,20,Grealer Hardware.                       
+OL,22,GLink:                                  
+OL,23,Ghttps://github.com/FraEgg/DolphinDOS   
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,10603
+SC,0003
+PS,C200
+CT,10,T
+OL,0,         GFORUM64   GDo 19 Nov F13:01:15
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GWeitere Informationen zum gesamten     
+OL,4,GMulti-Speeder-Projekt unter:           
+OL,6,Ghttps://github.com/FraEgg/Switchless-Mu
+OL,7,Glti-Speeder-Project                    
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

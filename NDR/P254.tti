@@ -3,24 +3,20 @@ PN,25401
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G254FNDR TEXT GDo 19.11.B09:02:50
+OL,0,       G254FNDR TEXT GDo 19.11.B16:57:04
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Landesliga M-V West         
-OL,5,BFreitag, 6. November                   
-OL,6, SC Parchim     - Cambs-Leezen      6:0 
-OL,7, Sievershagen   - L'lust/Grabow    11:1 
-OL,9,BSamstag, 7. November                   
-OL,10, SGE Crivitz    - Bentwisch II      1:0 
-OL,11, Ank.Wismar II  - Seenland Warin    3:0 
-OL,13, SG Boizenburg  - FSV Kritzmow      3:2 
-OL,14, G}strower SC   - TSG Gadebusch     5:1 
-OL,16, SV Plate       - Mecklenburg II    0:2 
-OL,18,BSamstag, 14. November                  
-OL,19, SG Boizenburg  - G}strower SC      1:4 
-OL,21,BSonntag, 15. November                  
-OL,22, Bentwisch II   - Seenland Warin    2:3 
+OL,8,BFreitag, 20. November                  
+OL,9, Mecklenburg II - SGE Crivitz       -:- 
+OL,10, Bentwisch II   - G}strower SC      -:- 
+OL,12, L'lust/Grabow  - SV Plate          -:- 
+OL,14,BSamstag, 21. November                  
+OL,15, TSG Gadebusch  - SC Parchim        -:- 
+OL,16, Cambs-Leezen   - SG Boizenburg     -:- 
+OL,18, FSV Kritzmow   - Ank.Wismar II     -:- 
+OL,19, Seenland Warin - Sievershagen      -:- 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -28,7 +24,7 @@ PN,25402
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G254FNDR TEXT GDo 19.11.B09:02:50
+OL,0,       G254FNDR TEXT GDo 19.11.B16:57:04
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -54,20 +50,21 @@ PN,25403
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G254FNDR TEXT GDo 19.11.B09:02:50
+OL,0,       G254FNDR TEXT GDo 19.11.B16:57:04
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Landesliga M-V West         
-OL,8,BFreitag, 20. November                  
-OL,9, Mecklenburg II - SGE Crivitz       -:- 
-OL,10, Bentwisch II   - G}strower SC      -:- 
-OL,12, L'lust/Grabow  - SV Plate          -:- 
-OL,14,BSamstag, 21. November                  
-OL,15, TSG Gadebusch  - SC Parchim        -:- 
-OL,16, Cambs-Leezen   - SG Boizenburg     -:- 
-OL,18, FSV Kritzmow   - Ank.Wismar II     -:- 
-OL,19, Seenland Warin - Sievershagen      -:- 
+OL,7,BFreitag, 27. November                  
+OL,8, G}strower SC   - SC Parchim        -:- 
+OL,10,BSamstag, 28. November                  
+OL,11, SGE Crivitz    - L'lust/Grabow     -:- 
+OL,12, SV Plate       - Seenland Warin    -:- 
+OL,14, Ank.Wismar II  - Cambs-Leezen      -:- 
+OL,15, SG Boizenburg  - TSG Gadebusch     -:- 
+OL,17, Sievershagen   - FSV Kritzmow      -:- 
+OL,19,BSonntag, 29. November                  
+OL,20, Bentwisch II   - Mecklenburg II    -:- 
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

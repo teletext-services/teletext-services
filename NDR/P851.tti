@@ -3,19 +3,20 @@ PN,85101
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G851FNDR TEXT GDo 19.11.B09:14:40
+OL,0,       G851FNDR TEXT GFr 20.11.B08:52:17
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD TISCHTENNIS                 
 OL,4,F]T  %D     1. Bundesliga               
-OL,8,BFreitag, 13. November                  
-OL,9, Bor. Dortmund  - Ochsenhausen      3:0 
-OL,10, TTC Fulda-M.   - B. K|nigshofen    2:3 
-OL,12, Bad Homburg    - SV M}hlhausen     1:3 
-OL,14,BSonntag, 15. November                  
-OL,15, B. D}sseldorf  - Gr}nwettersb.     3:0 
-OL,16, Bergneustadt   - Werder Bremen     2:3 
-OL,18, Saarbr}cken    - TTC Grenzau       3:1 
+OL,8,BSamstag, 21. November                  
+OL,9, B. K|nigshofen - Bad HomburgB    15.00 
+OL,11,BSonntag, 22. November                  
+OL,12, Gr}nwettersb.  - TTC Fulda-M.B   15.00 
+OL,13, Saarbr}cken    - B. D}sseldorfB  15.30 
+OL,15, TTC Grenzau    - BergneustadtB   17.00 
+OL,17,BMontag, 23. November                   
+OL,18, SV M}hlhausen  - Bor. DortmundB  18.30 
+OL,19, Ochsenhausen   - Werder BremenB  19.00 
 OL,23,B]D810<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -23,7 +24,7 @@ PN,85102
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G851FNDR TEXT GDo 19.11.B09:14:40
+OL,0,       G851FNDR TEXT GFr 20.11.B08:52:17
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD TISCHTENNIS                 
@@ -47,20 +48,21 @@ PN,85103
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G851FNDR TEXT GDo 19.11.B09:14:40
+OL,0,       G851FNDR TEXT GFr 20.11.B08:52:17
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD TISCHTENNIS                 
 OL,4,F]T  %D     1. Bundesliga               
-OL,8,BSamstag, 21. November                  
-OL,9, B. K|nigshofen - Bad HomburgB    15.00 
-OL,11,BSonntag, 22. November                  
-OL,12, Gr}nwettersb.  - TTC Fulda-M.B   15.00 
-OL,13, Saarbr}cken    - B. D}sseldorfB  15.30 
-OL,15, TTC Grenzau    - BergneustadtB   17.00 
-OL,17,BMontag, 23. November                   
-OL,18, SV M}hlhausen  - Bor. DortmundB  18.30 
-OL,19, Ochsenhausen   - Werder BremenB  19.00 
+OL,7,BFreitag, 11. Dezember                  
+OL,8, Gr}nwettersb.  - Bad HomburgB    19.00 
+OL,10,BSonntag, 13. Dezember                  
+OL,11, Werder Bremen  - B. K|nigshofenB 15.00 
+OL,12, TTC Fulda-M.   - B. D}sseldorfB  17.30 
+OL,14,BMontag, 14. Dezember                   
+OL,15, Bor. Dortmund  - TTC GrenzauB    19.00 
+OL,16, Bergneustadt   - Saarbr}ckenB    19.30 
+OL,18,BDienstag, 15. Dezember                 
+OL,19, Ochsenhausen   - SV M}hlhausenB  19.00 
 OL,23,B]D810<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

@@ -3,10 +3,10 @@ PN,72401
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G724  RTS 1     19.11.26 09:12:31
+OL,0,       G724  RTS 1     20.11.26 05:29:55
 OL,1,D]GRTS 1     ]@jeudi 26 novembre        
 OL,2,                                    1/4 
-OL,4,G09:05 GQuel temps fait-il ?            
+OL,4,G09:10 GQuel temps fait-il ?            
 OL,5,E 0930 CS-T                             
 OL,6,F09:15 FClassiques du cin#ma            
 OL,7,E 0929 FDu rififi chez les hommes       
@@ -28,7 +28,7 @@ PN,72402
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G724  RTS 1     19.11.26 09:12:31
+OL,0,       G724  RTS 1     20.11.26 05:29:55
 OL,1,D]GRTS 1     ]@jeudi 26 novembre        
 OL,2,                                    2/4 
 OL,4,G13:25 GLe club de No[l                 
@@ -39,7 +39,7 @@ OL,8,G16:45 GMeurtres au paradis
 OL,9,E 1700 GLe monstre marinCI/IICS-T       
 OL,10,F17:55 FIci tout commenceCS-T           
 OL,11,E 1810                                  
-OL,12,G18:30 GC'est ma question               
+OL,12,G18:25 GC'est ma question               
 OL,13,E 1820 CS-T                             
 OL,14,F18:55 FM#t#o r#gionale                 
 OL,15,E 1850 CS-T                             
@@ -55,7 +55,7 @@ PN,72403
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G724  RTS 1     19.11.26 09:12:31
+OL,0,       G724  RTS 1     20.11.26 05:29:55
 OL,1,D]GRTS 1     ]@jeudi 26 novembre        
 OL,2,                                    3/4 
 OL,4,F20:00 FM#t#o                           
@@ -67,30 +67,27 @@ OL,9,F21:05 FAstrid et Rapha[lle
 OL,10,E 2045 FSainte-HonorineCS-T             
 OL,11,G21:55 GAstrid et Rapha[lle             
 OL,12,E 2130 GLes SurvivantsCS-T              
-OL,13,F22:50 FRamdam                          
-OL,14,       FFaut-il dire la v#rit# aux      
-OL,15,       Fenfants?CS-T                    
-OL,16,G23:20 GElisabeth Kubler-Ross -         
-OL,17,       GFaire face @ la mort            
-OL,18,       CS-T                             
-OL,19,F00:20 FTrack Attack                    
-OL,20,E 0015 CS-T                             
+OL,13,F22:50 FElisabeth Kubler-Ross -         
+OL,14,E 2320 FFaire face @ la mort            
+OL,15,       CS-T                             
+OL,16,G23:50 GDocumentaire                    
+OL,17,E 0015 GSur le PontCS-T                 
+OL,18,F00:56 FM#t#o                           
+OL,19,E 0218 CS-TC(R)                         
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,72404
 SC,0004
 PS,C080
 CT,8,T
-OL,0,       G724  RTS 1     19.11.26 09:12:31
+OL,0,       G724  RTS 1     20.11.26 05:29:55
 OL,1,D]GRTS 1     ]@jeudi 26 novembre        
 OL,2,                                    4/4 
-OL,4,G01:30 GM#t#o                           
-OL,5,E 0218 CS-TC(R)                         
-OL,6,F01:31 F19h30                           
-OL,7,E 0235 CS-TC(R)                         
-OL,8,G02:00 GTemps pr#sent                   
-OL,9,E 0139 GL'exfiltration des              
-OL,10,       Gdjihadistes suisses.CS-T        
-OL,11,       C(R)                             
+OL,4,G00:57 G19h30                           
+OL,5,E 0235 CS-TC(R)                         
+OL,6,F01:25 FTemps pr#sent                   
+OL,7,E 0139 FL'exfiltration des              
+OL,8,       Fdjihadistes suisses.CS-T        
+OL,9,       C(R)                             
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

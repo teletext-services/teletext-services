@@ -3,18 +3,22 @@ PN,27201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G272FNDR TEXT GDo 19.11.B09:03:09
+OL,0,       G272FNDR TEXT GDo 19.11.B17:25:13
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Bezirksliga Bremen          
-OL,9,BSonntag, 15. November                  
-OL,10, TSV Lesum-B.   - Habenhausen II    4:1 
-OL,11, SVGO Bremen    - Bremen-Walle      1:2 
-OL,13, Tura Bremen II - TSV Wulsdorf      1:1 
-OL,14, Vict.Bremen    - TSV Grolland      2:0 
-OL,16, Wer.Bremen IV  - Eiche Horn II     0:4 
-OL,17, A.-Vegesack II - BSC Gr}nh|fe      3:5 
+OL,6,BFreitag, 20. November                  
+OL,7, Leher TS II    - Wer.Bremen IV     -:- 
+OL,9,BSonntag, 22. November                  
+OL,10, Eiche Horn II  - TSV Lesum-B.      -:- 
+OL,11, BSC Gr}nh|fe   - Vict.Bremen       -:- 
+OL,13, Habenhausen II - SVGO Bremen       -:- 
+OL,14, Farge Rekum    - TSV Imsum         -:- 
+OL,16, TSV Wulsdorf   - TSV Grolland      -:- 
+OL,17, Bremen-Walle   - A.-Vegesack II    -:- 
+OL,19,BFreitag, 27. November                  
+OL,20, Leher TS II    - TSV Imsum         -:- 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -22,7 +26,7 @@ PN,27202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G272FNDR TEXT GDo 19.11.B09:03:09
+OL,0,       G272FNDR TEXT GDo 19.11.B17:25:13
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -50,22 +54,20 @@ PN,27203
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G272FNDR TEXT GDo 19.11.B09:03:09
+OL,0,       G272FNDR TEXT GDo 19.11.B17:25:13
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Bezirksliga Bremen          
-OL,6,BFreitag, 20. November                  
-OL,7, Leher TS II    - Wer.Bremen IV     -:- 
-OL,9,BSonntag, 22. November                  
-OL,10, Eiche Horn II  - TSV Lesum-B.      -:- 
-OL,11, BSC Gr}nh|fe   - Vict.Bremen       -:- 
-OL,13, Habenhausen II - SVGO Bremen       -:- 
-OL,14, Farge Rekum    - TSV Imsum         -:- 
-OL,16, TSV Wulsdorf   - TSV Grolland      -:- 
-OL,17, Bremen-Walle   - A.-Vegesack II    -:- 
-OL,19,BFreitag, 27. November                  
-OL,20, Leher TS II    - TSV Imsum         -:- 
+OL,8,BSamstag, 5. Dezember                   
+OL,9, TSV Imsum      - Tura Bremen II    -:- 
+OL,10, TSV Lesum-B.   - Leher TS II       -:- 
+OL,12,BSonntag, 6. Dezember                   
+OL,13, SVGO Bremen    - Eiche Horn II     -:- 
+OL,14, TSV Grolland   - BSC Gr}nh|fe      -:- 
+OL,16, Vict.Bremen    - Bremen-Walle      -:- 
+OL,17, Wer.Bremen IV  - Farge Rekum       -:- 
+OL,19, A.-Vegesack II - Habenhausen II    -:- 
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

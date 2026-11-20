@@ -3,22 +3,22 @@ PN,25601
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G256FNDR TEXT GDo 19.11.B09:02:52
+OL,0,       G256FNDR TEXT GDo 19.11.B17:00:16
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Landesliga Schleswig        
-OL,6,BFreitag, 13. November                  
-OL,7, T}rkspor Kiel  - Heikendorf        6:0 
-OL,9,BSamstag, 14. November                  
-OL,10, Heiligenst.    - TuS Nortorf       0:2 
-OL,11, TSV Kropp      - Friedrichsberg    1:1 
-OL,13, Kronshagen     - RS Kiel           5:2 
-OL,14, TSV Klausdorf  - Eid. Molfsee      2:3 
-OL,16, Husumer SV     - TSV Hattstedt     1:1 
-OL,18,BSonntag, 15. November                  
-OL,19, SC Weiche II   - Risum-Lindh.      2:1 
-OL,20, SV D|rpum      - TSV Rantrum       5:2 
+OL,6,BFreitag, 20. November                  
+OL,7, T}rkspor Kiel  - KronshagenB     19.30 
+OL,8, TSV Hattstedt  - SC Weiche IIB   19.30 
+OL,10,BSamstag, 21. November                  
+OL,11, TuS Nortorf    - Husumer SVB     12.00 
+OL,12, Eid. Molfsee   - RS KielB        12.30 
+OL,14, Friedrichsberg - TSV KlausdorfB  13.00 
+OL,16,BSonntag, 22. November                  
+OL,17, TSV Rantrum    - TSV KroppB      14.00 
+OL,18, Risum-Lindh.   - SV D|rpumB      14.00 
+OL,20, Heikendorf     - Heiligenst.B    14.00 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -26,7 +26,7 @@ PN,25602
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G256FNDR TEXT GDo 19.11.B09:02:52
+OL,0,       G256FNDR TEXT GDo 19.11.B17:00:17
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -54,22 +54,21 @@ PN,25603
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G256FNDR TEXT GDo 19.11.B09:02:52
+OL,0,       G256FNDR TEXT GDo 19.11.B17:00:17
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Landesliga Schleswig        
-OL,6,BFreitag, 20. November                  
-OL,7, T}rkspor Kiel  - KronshagenB     19.30 
-OL,8, TSV Hattstedt  - SC Weiche IIB   19.30 
-OL,10,BSamstag, 21. November                  
-OL,11, TuS Nortorf    - Husumer SVB     12.00 
-OL,12, Eid. Molfsee   - RS KielB        12.30 
-OL,14, Friedrichsberg - TSV KlausdorfB  13.00 
-OL,16,BSonntag, 22. November                  
-OL,17, TSV Rantrum    - TSV KroppB      14.00 
-OL,18, Risum-Lindh.   - SV D|rpumB      14.00 
-OL,20, Heikendorf     - Heiligenst.B    14.00 
+OL,7,BSamstag, 28. November                  
+OL,8, Heiligenst.    - T}rkspor KielB  13.00 
+OL,9, TSV Kropp      - Risum-Lindh.B   14.00 
+OL,11, RS Kiel        - FriedrichsbergB 14.00 
+OL,12, Kronshagen     - Eid. MolfseeB   14.00 
+OL,14, Husumer SV     - HeikendorfB     14.00 
+OL,15, TSV Klausdorf  - TSV RantrumB    14.30 
+OL,17,BSonntag, 29. November                  
+OL,18, SC Weiche II   - TuS NortorfB    13.30 
+OL,19, SV D|rpum      - TSV HattstedtB  14.00 
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

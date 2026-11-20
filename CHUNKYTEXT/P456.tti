@@ -1,0 +1,138 @@
+DE,CHUNKYTEXT 456
+PN,45601
+SC,0001
+PS,C000
+CT,5,T
+OL,0,                                        
+OL,1,|B21111|a17MONITOR|l42DC0|s~_1~X|s~t1~W`
+OL,2,HG`aR/ ~F\`p`h`K`x~M`QG`-t`JG`2`H~|`~p~b
+OL,3,|~G`0`x~P~@`x~Jx`U~\~Z`uz.`x~|``U~]~Z`u
+OL,4,{.~H~i`-p`U~]~Z`-q`Qz`5~\~Z`Q.`5~]~ZX`Q~
+OL,5,t`-v`5~h~T`Q`(`-u`5~k~T`Q~=`J~Y ~L\`Q`)`
+OL,6,HG`JG ~L\`X~M`2`q1`X(`q~s`x~D`QG`5~h~Tx`
+OL,7,Mp`5~\~Z`Mq`5~]~ZX`Q~=`JG ~L\`a~M/ ~F\`p
+OL,8,`h~Z`x~M|``q5`X`||H~pi`w~a~t`-v`5~h~T`Q~
+OL,9,w ~F\`Q& ~F\`Q~b ~F\h ~F\`Q`(`-uL~q.`M~T
+OL,10,H`2H`@H`U~h~T)`H`q`(~H~bh`Ph`Rh`-~TlpG`J
+OL,11,G`6~i~T`2H`H8`q~|``8~]`H:~pix`-r`@~pet`-
+OL,12,s`JG`HG`U~j~T`q'~H~p`QG`)r`Mr~pi~|``-r`Q
+OL,13,Ges`-s`p`h*`x~B~H~v`@H`T~j~T`aG`)r`Mr~p
+OL,14,i~|``-r`QGes`-sh`P`p`h*`x~:h`R`6~i~T`QG`
+OL,15,5~j~T~@~8~h`x`@`Q~bEt`-t$u~h:`Mv)`5~h~T
+OL,16,`J#`5~k~T`HG`U~h~T)~h`x~a`p`x~N~@`x~ILB/
+OL,17,`JG~@~H~o`U~h~T) ~H~N~8,`8~d~80`X~|``Q~b
+OL,18,`-t`QG`-u`Q~g`5~i~T`5~k~T`Mv`5~h~TL`2.~n
+OL,19,G~o~YGGGGGGGG~w~q~YTELETEXT SIGNAL MONIT
+OL,20,OR~w~b~[Even~w~b~\field~w~b~_Odd~w~b~|`f
+OL,21,ield~w~h~bSelect channel (1-4): 1~q~\\G~
+OL,22,7~Z~q~]`I~[~7~Z~q~]`I~[!~[~q~]\G!~[~q~]\
+OL,23,G~7~Z~q~\\G_~[~q~]`I~[_~[~q~]`I~[`I~[~q~
+OL,24,]\G`I~[~q~]\G_~[~oG~^~wGGGGGG~n~_|c     
+FL,456,250,301,140,0,100
+PN,45602
+SC,0002
+PS,C000
+CT,5,T
+OL,0,                                        
+OL,1,|B21114|a17MoniTxt|i14Text|l43000|s~_1~e
+OL,2,|s`16______|s`24    |s~c8eletext |s`45 t
+OL,3,he |s~r2 aGGGGTKsignal monitor utilityJJ
+OL,4,JJJJJ ZXGuesser 2024GGGGGA descriptionZn
+OL,5,d brief user manual forLMONITOR program 
+OL,6,forLAcornGtKadapter.GIIIIIIIIIIII__GGGTK
+OL,7,monitor utility:GGThis machine code prog
+OL,8,ram directlyZccessesLAcorn tKadapterGhar
+OL,9,dware to generateZ real-time display ofL
+OL,10,received tKsignals.GGThe channel preset 
+OL,11,is selected by pressing keys 1 to 4ZndLp
+OL,12,rogram canGbe exited withLESCAPE key.GGG
+OL,13,How it works:GGWhen MONITOR starts up it
+OL,14, printsLinterface usingZ series of VDU p
+OL,15,lotGand draw commands, then generatesZ l
+OL,16,ook-up table hiddenZtLend ofGscreen RAM.
+OL,17,GGThis look-up table containsLnumbers 0 
+OL,18,to 256 with their bits reversedGto enabl
+OL,19,eZ fast mirroring ofLbitmap to be plotte
+OL,20,d, soLlowest bitGin each byte of tKdataZ
+OL,21,ppears onLleftZs though lookingZtZGtKsig
+OL,22,nal onZ television screen.GGNext,Loperat
+OL,23,ing system's IRQ1 vector is redirected v
+OL,24,iaZ new interruptGservice routine to han
+FL,456,250,301,140,0,100
+PN,45603
+SC,0003
+PS,C000
+CT,5,T
+OL,0,                                        
+OL,1,|B21214|a17MoniTxt|l43457|s~_1~e|s`16___
+OL,2,___|s`24    |s~c8eletext |s`45 the |s~r2
+OL,3, ator is used forLsake of speed,Znd to p
+OL,4,reventZn installedGTFS or ATS ROM from h
+OL,5,andlingLinterrupt itself.GGWhenZn interr
+OL,6,upt is received,Lprogram checksLtKadapte
+OL,7,r'sGINTZnd DEW flags to see thatZ tKinte
+OL,8,rrupt has occurred,Znd thatGthe hardware
+OL,9, is not currently inLData Entry Window.G
+OL,10,GMONITOR can now loop throughLadapter's 
+OL,11,packet memory, copyingLlineGdirectly (mi
+OL,12,rroringLpixels inLprocess) into screen m
+OL,13,emoryZt theGappropriate locations within
+OL,14,Lrectangles inLUI, or blanking outZnyGli
+OL,15,nes whereZ tKpacket was not received.GGT
+OL,16,he displayZddress calculation is based o
+OL,17,nZ field flag, which toggles onGeach dis
+OL,18,played field,Znd soZlternates betweenLtw
+OL,19,o rectangular boxes.GGGField synchroniza
+OL,20,tion:GGThe Acorn tKadapter has no hardwa
+OL,21,re detection ofLoddZnd evenGtelevision f
+OL,22,ield, but consistently displaying them i
+OL,23,nLdifferent boxesGisZ desirable feature,
+OL,24,Zs it permitsLstudy of tKservices usingG
+FL,456,250,301,140,0,100
+PN,45604
+SC,0004
+PS,C000
+CT,5,T
+OL,0,                                        
+OL,1,|B21314|a17MoniTxt|l43879|s~_1~e|s`16___
+OL,2,___|s`24    |s~c8eletext |s`45 the |s~r2
+OL,3, amonitor utilityJJJJJJJ ZXGuesser 2024G
+OL,4,GGGGdifferent lineZllocations onLoddZnd 
+OL,5,even fields.GGTo distinguish one field f
+OL,6,romLother, MONITOR first makesZ measurem
+OL,7,entGofLinterval betweenLfield syncZndLst
+OL,8,art ofLdata entryGwindow, by pollingLtKa
+OL,9,dapter's FSYNCZnd DEW flags.GGThe nature
+OL,10, ofZ 625 line television signal is such 
+OL,11,thatLvertical syncGpulsesZreZ different 
+OL,12,duration forLtwo fields, so MONITOR wait
+OL,13,s untilGit measuresZ period withinZ cert
+OL,14,ain window consistent withZn odd field.G
+OL,15,GOnce synchronized,Z flag is cleared,Znd
+OL,16,Lfield isZlternated on eachGinterrupt. A
+OL,17, resynchronization is triggered ifLchann
+OL,18,el is changed.GIIIIIIIIIIII__GGGWhy this
+OL,19, program exists:GGMONITOR was my first p
+OL,20,rogram written in 6502Zssembly language.
+OL,21, It gave meGan interesting but small pro
+OL,22,ject to tackle to stimulate learningZ ne
+OL,23,w CPUGarchitecture.GGThe secondary objec
+OL,24,tive was to exerciseLAcorn tKhardwareZtZ
+FL,456,250,301,140,0,100
+PN,45605
+SC,0005
+PS,C000
+CT,5,T
+OL,0,                                        
+OL,1,|B21414|a17MoniTxt|l43CAF|s~_1~e|s`16___
+OL,2,___|s`24    |s~c8eletext |s`45 the |s~r2
+OL,3, a behaviour (developingLfieldGsynchroni
+OL,4,zation technique led toZ better understa
+OL,5,nding,Znd subsequentlyGmoreZccurate emul
+OL,6,ation, ofLhardware's various status flag
+OL,7,s).GGItZdditionally taught me moreZboutL
+OL,8,BBC micro's display modes, VDUGdriver,Zn
+OL,9,d operating system internals - though I 
+OL,10,still haveZ lot more toGlearn.GGGGGGGGGG
+OL,11,GGGGGGGGGGGGGGJJJJJJJJ  Page 2GGGGG|c   
+FL,456,250,301,140,0,100

@@ -3,21 +3,20 @@ PN,25301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G253FNDR TEXT GDo 19.11.B09:02:48
+OL,0,       G253FNDR TEXT GDo 19.11.B16:56:01
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Landesliga M-V Ost          
-OL,7,BSamstag, 7. November                   
-OL,8, SV Pastow II   - Grimmener SV      3:2 
-OL,9, RW Wolgast     - Torgelow-Uecker.  3:2 
-OL,11, VFC Anklam     - SV BW Baabe       3:2 
-OL,12, 1814 Friedland - SV Waren 09       1:4 
-OL,14, SV Barth 1950  - Kickers JuS       5:0 
-OL,15, 1.FC Neubr. II - 1860 Stralsund    2:2 
-OL,17, FSV Malchin    - Neustrelitz II    0:1 
-OL,19,BSamstag, 14. November                  
-OL,20, VFC Anklam     - Torgelow-Uecker.  0:4 
+OL,8,BFreitag, 20. November                  
+OL,9, Grimmener SV     - SV Barth 1950   -:- 
+OL,10, SV Waren 09      - 1.FC Neubr. II  -:- 
+OL,12,BSamstag, 21. November                  
+OL,13, Kickers JuS      - RW Wolgast      -:- 
+OL,14, Torgelow-Uecker. - FSV Malchin     -:- 
+OL,16, Neustrelitz II   - 1814 Friedland  -:- 
+OL,17, SV BW Baabe      - SV Pastow II    -:- 
+OL,19, 1860 Stralsund   - VFC Anklam      -:- 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -25,7 +24,7 @@ PN,25302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G253FNDR TEXT GDo 19.11.B09:02:48
+OL,0,       G253FNDR TEXT GDo 19.11.B16:56:01
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -51,20 +50,20 @@ PN,25303
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G253FNDR TEXT GDo 19.11.B09:02:48
+OL,0,       G253FNDR TEXT GDo 19.11.B16:56:02
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Landesliga M-V Ost          
-OL,8,BFreitag, 20. November                  
-OL,9, Grimmener SV     - SV Barth 1950   -:- 
-OL,10, SV Waren 09      - 1.FC Neubr. II  -:- 
-OL,12,BSamstag, 21. November                  
-OL,13, Kickers JuS      - RW Wolgast      -:- 
-OL,14, Torgelow-Uecker. - FSV Malchin     -:- 
-OL,16, Neustrelitz II   - 1814 Friedland  -:- 
-OL,17, SV BW Baabe      - SV Pastow II    -:- 
-OL,19, 1860 Stralsund   - VFC Anklam      -:- 
+OL,8,BFreitag, 27. November                  
+OL,9, Kickers JuS    - Grimmener SV      -:- 
+OL,11,BSamstag, 28. November                  
+OL,12, SV Pastow II   - 1860 Stralsund    -:- 
+OL,13, RW Wolgast     - FSV Malchin       -:- 
+OL,15, VFC Anklam     - SV Waren 09       -:- 
+OL,16, 1814 Friedland - Torgelow-Uecker.  -:- 
+OL,18, SV Barth 1950  - SV BW Baabe       -:- 
+OL,19, 1.FC Neubr. II - Neustrelitz II    -:- 
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

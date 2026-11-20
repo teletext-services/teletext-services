@@ -3,22 +3,21 @@ PN,26301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G263FNDR TEXT GDo 19.11.B09:02:58
+OL,0,       G263FNDR TEXT GDo 19.11.B17:10:52
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Kreisliga Kiel              
-OL,6,BFreitag, 13. November                  
-OL,7, Felde/Bred.    - Osdorfer SV     abges 
-OL,9,BSamstag, 14. November                  
-OL,10, Sch|nkirchen   - Heikendorf II     2:3 
-OL,11, VfB Kiel       - Fort. Wellsee     4:1 
-OL,13,BSonntag, 15. November                  
-OL,14, VfB UT Kiel    - VfR Laboe         0:1 
-OL,15, MED SV         - Friedrichsort     1:1 
-OL,17, FC Azadi Kiel  - T}rksp.Kiel II    1:3 
-OL,18, TSV Russee     - Kronshagen II     2:8 
-OL,20, Klausdorf II   - Altenholz II      5:2 
+OL,7,BSamstag, 21. November                  
+OL,8, Altenholz II   - T}rksp.Kiel II    -:- 
+OL,9, VfB UT Kiel    - TSV Russee        -:- 
+OL,11, VfB Kiel       - Felde/Bred.       -:- 
+OL,12, Friedrichsort  - Fort. Wellsee     -:- 
+OL,14, VfR Laboe      - Sch|nkirchen      -:- 
+OL,15, Heikendorf II  - MED SV            -:- 
+OL,17, Kronshagen II  - FC Azadi Kiel     -:- 
+OL,19,BSonntag, 22. November                  
+OL,20, Osdorfer SV    - Klausdorf II    abges 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/6)
 FL,101,200,300,650,0,100
@@ -26,7 +25,7 @@ PN,26302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G263FNDR TEXT GDo 19.11.B09:02:58
+OL,0,       G263FNDR TEXT GDo 19.11.B17:10:52
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -56,20 +55,23 @@ PN,26303
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G263FNDR TEXT GDo 19.11.B09:02:58
+OL,0,       G263FNDR TEXT GDo 19.11.B17:10:52
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Kreisliga Westk}ste Mitte   
-OL,8,BFreitag, 13. November                  
-OL,9, SG Holstein    - H'westedt II      4:2 
-OL,11,BSamstag, 14. November                  
-OL,12, SG Padenstedt  - TuS Nortorf II    1:0 
-OL,13, VfR Horst II   - L{gerdorf II      1:2 
-OL,15,BSonntag, 15. November                  
-OL,16, Weddelbrook/N. - TSV Gadeland      4:0 
-OL,17, Ki. Hennstedt  - Bramstedt         3:3 
-OL,19, Edendorfer SV  - SV Peissen        1:1 
+OL,5,BFreitag, 20. November                  
+OL,6, SV Peissen     - TuS Bargstedt     -:- 
+OL,8,BSamstag, 21. November                  
+OL,9, VfR Horst II   - Weddelbrook/N.    -:- 
+OL,10, TSV Bordesholm - SV Boostedt       -:- 
+OL,12, Kiebitzreihe   - TSV Gadeland      -:- 
+OL,13, TuS Nortorf II - SG Holstein       -:- 
+OL,15, Ki. Hennstedt  - H'westedt II      -:- 
+OL,17,BSonntag, 22. November                  
+OL,18, L{gerdorf II   - SG Padenstedt     -:- 
+OL,20,BDienstag, 24. November                 
+OL,21, TuS Bargstedt  - TSV Bordesholm    -:- 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/6)
 FL,101,200,300,650,0,100
@@ -77,7 +79,7 @@ PN,26304
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G263FNDR TEXT GDo 19.11.B09:02:58
+OL,0,       G263FNDR TEXT GDo 19.11.B17:10:52
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -107,21 +109,23 @@ PN,26305
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       G263FNDR TEXT GDo 19.11.B09:02:58
+OL,0,       G263FNDR TEXT GDo 19.11.B17:10:53
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Kreisliga Westk}ste West    
-OL,7,BFreitag, 13. November                  
-OL,8, Wilstermarsch - Hohenaspe          1:0 
-OL,10,BSamstag, 14. November                  
-OL,11, SG Nordholm   - SG Steinburg       3:4 
-OL,12, SV BW Averlak - Hademarschen       4:0 
-OL,14, Norderhamme   - Brunsb}ttel        1:1 
-OL,15, SG TenSar     - Oldenswort-W.      3:2 
-OL,17, TSV Buchholz  - Wesselburen        2:0 
-OL,19,BSonntag, 15. November                  
-OL,20, L}tjenwestedt - FC Burg            5:2 
+OL,5,BSamstag, 21. November                  
+OL,6, Hohenaspe     - L}tjenwestedt      -:- 
+OL,7, SG Steinburg  - TSV Buchholz       -:- 
+OL,9, Wesselburen   - SV Hemme           -:- 
+OL,10, Oldenswort-W. - Norderhamme        -:- 
+OL,12, Brunsb}ttel   - Wilstermarsch      -:- 
+OL,13, FC Burg       - SV BW Averlak      -:- 
+OL,15, SG TenSar     - Hemmingstedt       -:- 
+OL,17,BSonntag, 22. November                  
+OL,18, Hademarschen  - SG Nordholm        -:- 
+OL,20,BMittwoch, 25. November                 
+OL,21, Hademarschen  - Oldenswort-W.      -:- 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(5/6)
 FL,101,200,300,650,0,100
@@ -129,7 +133,7 @@ PN,26306
 SC,0006
 PS,C200
 CT,10,T
-OL,0,       G263FNDR TEXT GDo 19.11.B09:02:58
+OL,0,       G263FNDR TEXT GDo 19.11.B17:10:53
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    

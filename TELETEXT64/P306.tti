@@ -1,0 +1,26 @@
+DE,TELETEXT64 306
+PN,30600
+SC,0000
+PS,8000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 18:21:00
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FVICE emulator            
+OL,3,   EUltimateD]G                         
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,CRunning the program in VICE            
+OL,6, TheFWiC64 stand alone editionGcan be   
+OL,7, run in the VICE emulator.              
+OL,9,BVICE Setup:                            
+OL,10, - Go to Settings (via Preferences menu)
+OL,11, - Click on Peripheral devices          
+OL,12, - Click on Userport devices            
+OL,13, - Select:CUserport WiC64               
+OL,15, WiC64 settings:                        
+OL,16, - remote Timeout:C5                    
+OL,17, - default server:Chttp://x.wic64.net/  
+OL,19, LaunchFteletext64-wic64.prgGby dragging
+OL,20, the file into VICE.                    
+OL,23,D]F305G<<                >>F307 B]D1/1  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100

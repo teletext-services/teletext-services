@@ -1,0 +1,29 @@
+DE,WDR-TEXT 300
+PN,30000
+SC,0000
+PS,8200
+CT,10,T
+OL,0,     G300 WDR Text GDo 19.11.26 18:10:51
+OL,1,]D]        G]               @]CFERNSEHEN
+OL,2,]D]GWDR     ]D]BERSICHT      ]          
+OL,3,]T5                                
+OL,5, Programm heute                     C301
+OL,6,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,7, Programm morgen                    C325
+OL,8,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,9, 7-Tage-Vorschau                    C355
+OL,10,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,11, Jetzt im WDR                       C333
+OL,12,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,13, Erg{nzende Infos: Sendungen A - Z  C352
+OL,14,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,15, Audiodeskription               C353/354
+OL,16,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,17, Hotline WDR Fernsehen              C369
+OL,18,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,19, Einschaltquoten                    C398
+OL,20,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,21, Untertitelte Sendungen             C572
+OL,23,]D100 < Startseite  Programm heute > 301
+OL,24,A]G- 299B]G+ 301C]DFernsehen \          
+FL,299,301,0,0,0,100

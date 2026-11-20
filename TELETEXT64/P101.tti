@@ -1,0 +1,59 @@
+DE,TELETEXT64 101
+PN,10101
+SC,0001
+PS,C000
+CT,20,T
+OL,0,          BTXT64  GThu 19.11.26 12:53:16
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FQuick help               
+OL,3,   EUltimateD]GKey bindings overview    
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,BKey         Description                
+OL,6,C0..9       GEnter page number: 100..899
+OL,7,CHOME       GGo to the start page       
+OL,8,C+G/C-      GPage Up (+1) / Down (-1)   
+OL,9,C,G/C.      GSubpage up / down          
+OL,10,C#          GEnter subpage number       
+OL,11,CSPACE      GStop/cont rotating subpages
+OL,12,C^/Q        GGo back to previous page   
+OL,13,CCursor keysGQuick navigation through   
+OL,14,GorCWASD    Gpage numbers               
+OL,15,CRETURNG/CE GGo to selected page number 
+OL,16,CC          GReveal/hide concealed text 
+OL,17,CT          GToggle bold/thin font      
+OL,18,CP          GPrint Teletext page        
+OL,19,CR          GRefresh page               
+OL,20,C/          GSelect next station        
+OL,21,C?          GSelect previous station    
+OL,22,CM          GStation menu               
+OL,23,D]FPressCMFto choose a station  B]D1/2  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,10102
+SC,0002
+PS,C000
+CT,20,T
+OL,0,          BTXT64  GThu 19.11.26 12:53:16
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FQuick help               
+OL,3,   EUltimateD]GKey bindings overview    
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,BKey         Description                
+OL,6,Cf1..f7     GFastextQRSVGlinks  
+OL,7,Cf4         GToggle Stopwatch ON/OFF    
+OL,8,             Reports time needed to     
+OL,9,             fetch & display a page in  
+OL,10,             jiffies (=1/60 of a second)
+OL,12,C[          GGo back to theFWiC64GPortal
+OL,13,            ENote:Gonly on WiC64 stand  
+OL,14,             alone edition.             
+OL,16,CP          GPrint B/W Teletext page    
+OL,17,             Check pageF308Gfor printer 
+OL,18,             support and how to set up. 
+OL,19,            ENote:Gborder turnsCyellow  
+OL,20,             during printing orAredGif  
+OL,21,             there was an error or no   
+OL,22,             printer found.             
+OL,23,D]FPressCMFto choose a station  B]D2/2  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100

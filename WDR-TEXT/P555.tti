@@ -1,0 +1,49 @@
+DE,WDR-TEXT 555
+PN,55501
+SC,0001
+PS,C200
+CT,10,T
+OL,0,     G555 WDR Text GFr 20.11.26 00:58:24
+OL,1,]D]        G]               @]  CSERVICE
+OL,2,]D]GWDR     ]DVERKEHR        ]          
+OL,3,]T5D     FLUGH[FEN                 
+OL,4,CFlugh{fen in NRW                       
+OL,5, D}sseldorf Ankunft                 C556
+OL,6, D}sseldorf Abflug                  C557
+OL,8, K|ln/Bonn Ankunft                  C558
+OL,9, K|ln/Bonn Abflug                   C559
+OL,11, M}nster/Osnabr}ck Ankunft          C560
+OL,12, M}nster/Osnabr}ck Abflug           C561
+OL,14, Paderborn/Lippstadt Ankunft        C562
+OL,15, Paderborn/Lippstadt Abflug         C563
+OL,17, Dortmund Ankunft                   C564
+OL,18, Dortmund Abflug                    C565
+OL,20, Weeze Ankunft                      C566
+OL,21, Weeze Abflug                       C567
+OL,23,]D500 < Service        DUS Ankunft > 556
+OL,24,A]G- 554B]G+ 556C]DFlugh{fen \    G(1/2)
+FL,554,556,0,0,0,100
+PN,55502
+SC,0002
+PS,C200
+CT,10,T
+OL,0,     G555 WDR Text GFr 20.11.26 00:58:24
+OL,1,]D]        G]               @]  CSERVICE
+OL,2,]D]GWDR     ]DVERKEHR        ]          
+OL,3,]T5D     AUTOBAHNEN & BAHNVERKEHR  
+OL,5,CAutobahnen in NRW                   690
+OL,6, A 1                                C691
+OL,7, A 2                                C692
+OL,8, A 3                                C693
+OL,9, A 4                                C694
+OL,10, A 30/31/33                         C695
+OL,11, A 40/42/43                         C696
+OL,12, A 44/45/46                         C697
+OL,13, A 52/57/59/61                      C698
+OL,14, A 443 - A 573                      C699
+OL,17,CBahnverkehr                            
+OL,18, Regionalverkehr                    C681
+OL,19, Fernverkehr                        C682
+OL,23,]D500 < Service        DUS Ankunft > 556
+OL,24,A]G- 554B]G+ 556C]DFlugh{fen \    G(2/2)
+FL,554,556,0,0,0,100

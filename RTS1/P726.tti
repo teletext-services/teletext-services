@@ -3,22 +3,23 @@ PN,72601
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G726  RTS 1     19.11.26 09:12:32
-OL,1,D]GRTS 1     ]@samedi 21 novembre       
+OL,0,       G726  RTS 1     20.11.26 05:32:53
+OL,1,D]GRTS 1     ]@samedi 28 novembre       
 OL,2,                                    1/4 
 OL,4,G06:00 GJeunesse                        
-OL,6,F10:07 FQuel temps fait-il ?            
+OL,6,F10:11 FQuel temps fait-il ?            
 OL,7,E 1020 CS-T                             
-OL,8,G10:10 GAu coeur de la Suisse           
+OL,8,G10:15 GAu coeur de la Suisse           
 OL,9,E 1035 GEn marche sur les glaciers      
-OL,10,       G- Tremoggia et RosegCS-T        
+OL,10,       G- Sauvetage en altitudeCS-T     
 OL,11,F10:40 FDocumentaires                   
-OL,12,       FDemi Moore, la revancheCS-T     
-OL,13,G11:40 GDes trains pas comme les        
-OL,14,       Gautres                          
-OL,15,       GIstanbulCS-T                    
-OL,16,F12:35 FBurokratik - Le                 
-OL,17,E 1240 Fprotectionnisme                 
+OL,12,E 1050 FVentura, une histoire           
+OL,13,       Fd'hommeCS-T                     
+OL,14,G11:40 GDes trains pas comme les        
+OL,15,E 1145 Gautres                          
+OL,16,       GBavi`reCS-T                     
+OL,17,F12:35 FBurokratik - Le brexit          
+OL,18,E 1240                                  
 OL,19,G12:45 G12h45                           
 OL,20,       CS-T                             
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
@@ -27,71 +28,68 @@ PN,72602
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G726  RTS 1     19.11.26 09:12:32
-OL,1,D]GRTS 1     ]@samedi 21 novembre       
+OL,0,       G726  RTS 1     20.11.26 05:32:53
+OL,1,D]GRTS 1     ]@samedi 28 novembre       
 OL,2,                                    2/4 
 OL,4,F13:10 FM#t#o                           
 OL,5,E 1305 CS-T                             
-OL,6,G13:20 GDocumentaires                   
-OL,7,E 1405 GGuts, une exp#dition            
-OL,8,       Gf#minine en AfriqueCS-T         
-OL,9,F14:30 FDocumentaires                   
-OL,10,E 1425 FLe tr#sor de l'^le de           
-OL,11,       FTerre-NeuveCS-T                 
-OL,12,G15:30 GMonk                            
-OL,13,E 1525 GMonk joue @ la poup#eCI/II      
-OL,14,       CS-T                             
-OL,15,F16:15 FMonk                            
-OL,16,       FLa nouvelle th#rapie de         
-OL,17,       FMonkCI/IICS-T                   
-OL,18,G17:00 GLes carnets de Max              
-OL,19,E 1655 GLiebermann                      
-OL,20,       GLa valse de M#phisto part 2     
-OL,21,       CI/IICS-T                        
+OL,6,G13:15 GDocumentaires                   
+OL,7,E 1300 GL#g`ret#s aquatiquesCS-T        
+OL,8,F15:05 FSc`nes de m#nages               
+OL,9,E 1510                                  
+OL,10,G15:35 GMonk                            
+OL,11,E 1525 GJoyeux anniversaire, Monk !     
+OL,12,       CI/IICS-T                        
+OL,13,F16:20 FMonk                            
+OL,14,E 1610 FMonk et SharonaCI/IICS-T        
+OL,15,G17:05 GMeurtres @ Sandhamn             
+OL,16,       GLinneaCI/IICS-T                 
+OL,17,F18:40 FA la d#couverte des             
+OL,18,E 1841 Farchives de la Soci#t# des      
+OL,19,       FNations : Les b{timents         
+OL,20,       Fdisparus                        
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,72603
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G726  RTS 1     19.11.26 09:12:32
-OL,1,D]GRTS 1     ]@samedi 21 novembre       
+OL,0,       G726  RTS 1     20.11.26 05:32:53
+OL,1,D]GRTS 1     ]@samedi 28 novembre       
 OL,2,                                    3/4 
-OL,4,F18:35 FA la d#couverte des             
-OL,5,       Farchives de la Soci#t# des      
-OL,6,       FNations : Insolites bananes     
-OL,7,       Fs#ch#es                         
-OL,9,G18:45 GLe Miracle Suisse               
-OL,10,       GLa circulationCS-T              
-OL,11,F19:16 FM#t#o                           
-OL,12,E 1915 CS-T                             
-OL,13,G19:20 GSwiss Loto                      
-OL,15,F19:30 F19h30                           
-OL,16,       CS-T                             
-OL,17,G20:00 GM#t#o                           
-OL,18,E 1955 GsoirCS-T                        
-OL,19,F20:10 F52 minutes                      
-OL,20,E 2005 CS-T                             
+OL,4,G18:45 GLe Miracle Suisse               
+OL,5,       GLa cigarette et la drogue       
+OL,6,       CS-T                             
+OL,7,F19:16 FM#t#o                           
+OL,8,E 1915 CS-T                             
+OL,9,G19:20 GSwiss Loto                      
+OL,11,F19:30 F19h30                           
+OL,12,       CS-T                             
+OL,13,G20:00 GM#t#o                           
+OL,14,E 1955 GsoirCS-T                        
+OL,15,F20:05 FCash                            
+OL,16,       FMarch# de Saint-Martin @        
+OL,17,       FPorrentruyCS-T                  
+OL,18,G20:55 G10 jours sans maman             
+OL,19,E 2100 CS-T                             
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,72604
 SC,0004
 PS,C080
 CT,8,T
-OL,0,       G726  RTS 1     19.11.26 09:12:32
-OL,1,D]GRTS 1     ]@samedi 21 novembre       
+OL,0,       G726  RTS 1     20.11.26 05:32:53
+OL,1,D]GRTS 1     ]@samedi 28 novembre       
 OL,2,                                    4/4 
-OL,4,G21:05 GN'avoue jamais                  
-OL,5,       CS-T                             
-OL,6,F22:35 FEmilia Perez                    
-OL,7,E 2305 CI/IICS-TA                      
-OL,8,G00:45 GLast Night In Soho              
-OL,9,E 2245 CI/IICS-TA                      
-OL,10,F02:35 FM#t#o                           
-OL,11,E 0218 CS-TC(R)                         
-OL,12,G02:36 G19h30                           
-OL,13,E 0235 CS-TC(R)                         
-OL,14,F05:30 FLa suisse vue du ciel           
-OL,15,       CS-T                             
+OL,4,F22:35 FThe chef                        
+OL,5,E 2225 CI/IICS-TA                      
+OL,6,G04:08 GM#t#o                           
+OL,7,E 0218 CS-TC(R)                         
+OL,8,F04:10 F19h30                           
+OL,9,E 0235 CS-TC(R)                         
+OL,10,G04:40 GCash                            
+OL,11,E 0241 CS-TC(R)                         
+OL,12,F05:30 FLa suisse vue du ciel           
+OL,13,       CS-T                             
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP1     265Cczw 19 lis  09:03:00
+OL,0,      BTVP1     265Cczw 19 lis  17:15:13
 OL,1,C]DKOSZYKOWKA  ]       GN B A           
 OL,3,                  C18.11                
 OL,4,FToronto         - NY Knicks    102:111 
@@ -33,24 +33,24 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP1     265Cczw 19 lis  09:03:00
+OL,0,      BTVP1     265Cczw 19 lis  17:15:13
 OL,1,C]DKOSZYKOWKA  ]       GN B A           
 OL,4,                  C20.11                
-OL,5,FMemphis         - Golden State    02:00
-OL,6,FMilwaukee       - Portland        02:00
-OL,7,FMinnesota       - NY Knicks       02:00
-OL,8,FSan Antonio     - LA Clippers     02:00
+OL,5,FMemphis         - Golden State  02:00  
+OL,6,FMilwaukee       - Portland      02:00  
+OL,7,FMinnesota       - NY Knicks     02:00  
+OL,8,FSan Antonio     - LA Clippers   02:00  
 OL,10,                  C21.11                
-OL,11,FAtlanta         - Charlotte       01:00
-OL,12,FBrooklyn        - Orlando         01:30
-OL,13,FCleveland       - Indiana         01:30
-OL,14,FDetroit         - Toronto         01:30
-OL,15,FChicago         - Washington      02:00
-OL,16,FOklahoma        - New Orlean      02:00
-OL,17,FUtah            - Phoenix         03:30
-OL,18,FDenver          - Houston         04:00
-OL,19,FLA Lakers       - Sacramento      04:00
-OL,20,FPhiladelphia    - Milwaukee       19:00
+OL,11,FAtlanta         - Charlotte     01:00  
+OL,12,FBrooklyn        - Orlando       01:30  
+OL,13,FCleveland       - Indiana       01:30  
+OL,14,FDetroit         - Toronto       01:30  
+OL,15,FChicago         - Washington    02:00  
+OL,16,FOklahoma        - New Orlean    02:00  
+OL,17,FUtah            - Phoenix       03:30  
+OL,18,FDenver          - Houston       04:00  
+OL,19,FLA Lakers       - Sacramento    04:00  
+OL,20,FPhiladelphia    - Milwaukee     19:00  
 OL,23,SppppppppppppppT]WABELEG>266 OPIS-> 267 
 OL,24,   A264      B266      C267      F268   
 FL,264,266,267,268,0,100
@@ -59,22 +59,48 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP1     265Cczw 19 lis  09:03:00
+OL,0,      BTVP1     265Cczw 19 lis  17:15:13
 OL,1,C]DKOSZYKOWKA  ]       GN B A           
 OL,5,                  C22.11                
-OL,6,FNY Knicks       - Portland        01:30
-OL,7,FDallas          - LA Clippers     02:00
-OL,8,FMinnesota       - Memphis         02:00
-OL,9,FSan Antonio     - New Orlean      02:00
-OL,10,FSacramento      - Boston          04:00
-OL,11,FAtlanta         - Detroit         21:30
+OL,6,FNY Knicks       - Portland      01:30  
+OL,7,FDallas          - LA Clippers   02:00  
+OL,8,FMinnesota       - Memphis       02:00  
+OL,9,FSan Antonio     - New Orlean    02:00  
+OL,10,FSacramento      - Boston        04:00  
+OL,11,FAtlanta         - Detroit       21:30  
 OL,13,                  C23.11                
-OL,14,FMiami Heat      - Oklahoma        00:00
-OL,15,FChicago         - Denver          01:00
-OL,16,FUtah            - Dallas          01:00
-OL,17,FWashington      - Orlando         01:00
-OL,18,FNY Knicks       - Indiana         02:00
-OL,19,FGolden State    - Boston          02:30
+OL,14,FMiami Heat      - Oklahoma      00:00  
+OL,15,FChicago         - Denver        01:00  
+OL,16,FUtah            - Dallas        01:00  
+OL,17,FWashington      - Orlando       01:00  
+OL,18,FNY Knicks       - Indiana       02:00  
+OL,19,FGolden State    - Boston        02:30  
+OL,23,SppppppppppppppT]WABELEG>266 OPIS-> 267 
+OL,24,   A264      B266      C267      F268   
+FL,264,266,267,268,0,100
+PN,26504
+SC,0004
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP1     265Cczw 19 lis  17:15:13
+OL,1,C]DKOSZYKOWKA  ]       GN B A           
+OL,4,                  C24.11                
+OL,5,FCharlotte       - Memphis         01:00
+OL,6,FPhiladelphia    - Portland        01:00
+OL,7,FIndiana         - Oklahoma        01:30
+OL,8,FMinnesota       - Brooklyn        01:30
+OL,9,FToronto         - Milwaukee       01:30
+OL,10,FChicago         - Cleveland       02:00
+OL,11,FNew Orlean      - Phoenix         02:00
+OL,12,FHouston         - LA Clippers     02:30
+OL,13,FLA Lakers       - Utah            04:00
+OL,14,FSacramento      - San Antonio     04:00
+OL,16,                  C25.11                
+OL,17,FOrlando         - Detroit         01:00
+OL,18,FWashington      - Boston          02:00
+OL,19,FDenver          - Dallas          04:00
+OL,20,FPhiladelphia    - Miami Heat      23:00
 OL,23,SppppppppppppppT]WABELEG>266 OPIS-> 267 
 OL,24,   A264      B266      C267      F268   
 FL,264,266,267,268,0,100

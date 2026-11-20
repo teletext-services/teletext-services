@@ -1,0 +1,54 @@
+DE,TELETEXT64 305
+PN,30501
+SC,0001
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 18:19:26
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FMultiple editions        
+OL,3,   EUltimateD]GUltimate, WiC & Meatloaf!
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,CMultiple editions:                     
+OL,6, Right now, there are 4 editions, each  
+OL,7, with their own purpose/target hardware:
+OL,8, -BUltimate D64 image                   
+OL,9, -BWiC64 D64 image                      
+OL,10, -BWiC64 Stand Alone PRG (& WiC Portal) 
+OL,11, -BMeatloaf stand alone PRG             
+OL,13,CD64 editions                           
+OL,14, The D64 editions offer the possibility 
+OL,15, to configure wether to use the default 
+OL,16,Fpetsciiproxy.nlGserver, or to host your
+OL,17, own (local) PetsciiProxy installation. 
+OL,19, On the diskette is a seperateFCONFIG   
+OL,20, program to set user preferences. The   
+OL,21,FUT64Gconfig file is stored locally on  
+OL,22, the diskette.                          
+OL,23,D]F304G<<                >>F306 B]D1/2  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,30502
+SC,0002
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 18:19:26
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FMultiple editions        
+OL,3,   EUltimateD]GUltimate, WiC & Meatloaf!
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5, At startup the program checks from     
+OL,6, which device number it was loaded, and 
+OL,7, uses that to store user preferences.   
+OL,8, Device numbers 8-11 are supported.     
+OL,10,CStand alone PRG editions               
+OL,11, Currently onlyFWiC64GandFMeatloaf.     
+OL,13, These editions require no installation 
+OL,14, and can be run directly by loading and 
+OL,15, running the PRG file.                  
+OL,17, They use theFpetsciiproxy.nlGserver for
+OL,18, both fetching teletext pages and to    
+OL,19, store user preferences, which can be   
+OL,20, set at program start via theBF2Gkey.   
+OL,23,D]F304G<<                >>F306 B]D2/2  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100

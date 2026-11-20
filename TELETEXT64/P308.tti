@@ -1,0 +1,74 @@
+DE,TELETEXT64 308
+PN,30801
+SC,0001
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 18:24:45
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FCommodore MPS            
+OL,3,   EUltimateD]GPrinter support          
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,CPrinting a Teletext page               
+OL,6, A page can be printed inFBlack & WhiteG
+OL,7, Only the Commodore MPS printers are    
+OL,8, supported at this moment.              
+OL,10, PressBPGto print a Teletext page.      
+OL,11,CYellowGborder: data is being sent.     
+OL,12,ARedGborder: no printer found or error. 
+OL,13, When printing is done, the border turns
+OL,14, black again.                           
+OL,16,CC64 Ultimate: printing to a PNG file   
+OL,17, In the PRINTERS menu set:              
+OL,18, - IEC printer  BEnabled                
+OL,19, - Bus ID       B4                      
+OL,20, - Ink density  BHigh (or Medium)       
+OL,21, - Output type  BPNG B&W                
+OL,23,D]F307G<<                >>F309 B]D1/3  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,30802
+SC,0002
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 18:24:45
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FCommodore MPS            
+OL,3,   EUltimateD]GPrinter support          
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,CVICE: printing to a BMP file           
+OL,6, Note: Only theFWiC64 editionGwill work 
+OL,7, with the VICE emulator. Read pageB306  
+OL,8, for more info.                         
+OL,10, Go to the settings in VICE, Peripheral 
+OL,11, devices, Printer. Use these settings   
+OL,12, below:                                 
+OL,14,FPrinter 4:                             
+OL,15, - Emulation type:BFile system          
+OL,16, - Driver:        BCommodore MPS 803    
+OL,17, - Output mode:   BGraphics             
+OL,18, - Check:         BVirtual(bus)         
+OL,20, Important: pressESend formfeedGin the  
+OL,21, VICE settings screen after the print   
+OL,22, job is finished (border is black again)
+OL,23,D]F307G<<                >>F309 B]D2/3  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,30803
+SC,0003
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 18:24:45
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FCommodore MPS            
+OL,3,   EUltimateD]GPrinter support          
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,CMeatloaf                               
+OL,6, The print feature is not yet available 
+OL,7, in the Meatloaf edition due to a bus   
+OL,8, conflict on device _4.                 
+OL,10, Note: theFcolourGprinting feature is   
+OL,11, currently not available. The available 
+OL,12, memory was needed for another feature. 
+OL,23,D]F307G<<                >>F309 B]D3/3  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100

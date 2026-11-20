@@ -3,23 +3,19 @@ PN,29001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G290FNDR TEXT GDo 19.11.B09:03:32
+OL,0,       G290FNDR TEXT GDo 19.11.B17:53:47
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     A-Jun. Regionalliga Nord    
-OL,6,BSamstag, 7. November                   
-OL,7, Eimsb}tt.TV    - VfB Oldenburg     1:1 
-OL,8, Norderstedt    - VfV Hildesheim    2:0 
-OL,10, JFV A/O/B/H/H  - HSC Hannover      2:2 
-OL,11, Niendorf       - JFV L}beck        8:1 
-OL,13,BSonntag, 8. November                   
-OL,14, SV Werder II   - SC Nienstedten    3:1 
-OL,15, JFV Bremen     - Blumenthal        0:2 
-OL,17, SV Eichede     - Calenberger L.    1:3 
-OL,19,BSamstag, 14. November                  
-OL,20, Norderstedt    - Eimsb}tt.TV       4:3 
-OL,21, JFV A/O/B/H/H  - JFV L}beck        1:0 
+OL,8,BSamstag, 21. November                  
+OL,9, Eimsb}tt.TV    - VfV HildesheimB 12.30 
+OL,10, Blumenthal     - SV Werder IIB   13.00 
+OL,12, VfB Oldenburg  - JFV A/O/B/H/HB  13.30 
+OL,13, HSC Hannover   - SV EichedeB     14.00 
+OL,15, JFV L}beck     - JFV BremenB     15.00 
+OL,16, SC Nienstedten - NorderstedtB    15.00 
+OL,18, Calenberger L. - NiendorfB       16.00 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/4)
 FL,101,200,300,650,0,100
@@ -27,7 +23,7 @@ PN,29002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G290FNDR TEXT GDo 19.11.B09:03:32
+OL,0,       G290FNDR TEXT GDo 19.11.B17:53:47
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -53,25 +49,20 @@ PN,29003
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G290FNDR TEXT GDo 19.11.B09:03:32
+OL,0,       G290FNDR TEXT GDo 19.11.B17:53:47
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     A-Jun. Regionalliga NO      
-OL,5,BSamstag, 7. November                   
-OL,6, Berliner SC   - SC Staaken         1:1 
-OL,7, BFC Dynamo    - FSV Zwickau        6:4 
-OL,9, Lok Leipzig   - Frankfurt/O.       1:3 
-OL,10, VFC Plauen    - Vikt. Berlin       3:0 
-OL,12,BSonntag, 8. November                   
-OL,13, TeBe Berlin   - RSV Eintracht      4:1 
-OL,14, Borea Dresden - Meck.Schwerin      1:0 
-OL,15, Stern 1900    - FC Hertha 03       2:4 
-OL,17,BSamstag, 14. November                  
-OL,18, SC Staaken    - Frankfurt/O.       4:1 
-OL,19, Berliner SC   - FC Hertha 03       3:2 
-OL,21,BSonntag, 15. November                  
-OL,22, Borea Dresden - BFC Dynamo         1:2 
+OL,8,BSamstag, 21. November                  
+OL,9, RSV Eintracht - Stern 1900B      12.00 
+OL,10, Meck.Schwerin - BFC DynamoB      12.00 
+OL,12, Frankfurt/O.  - Berliner SCB     12.00 
+OL,13, FC Hertha 03  - Borea DresdenB   13.30 
+OL,15, Vikt. Berlin  - Lok LeipzigB     14.00 
+OL,17,BSonntag, 22. November                  
+OL,18, FSV Zwickau   - VFC PlauenB      12.00 
+OL,19, SC Staaken    - TeBe BerlinB     13.00 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/4)
 FL,101,200,300,650,0,100
@@ -79,7 +70,7 @@ PN,29004
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G290FNDR TEXT GDo 19.11.B09:03:32
+OL,0,       G290FNDR TEXT GDo 19.11.B17:53:48
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    

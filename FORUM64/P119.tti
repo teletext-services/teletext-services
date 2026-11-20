@@ -3,62 +3,60 @@ PN,11901
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F09:00:14
+OL,0,         GFORUM64   GDo 19 Nov F13:22:07
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,ENeue C64-Spiele entdeckt? Hier rein    
-OL,3,Edamit!                                 
-OL,5,CAntwort:  BStefan Both                 
-OL,6,CComments: B91                          
-OL,7,F                                       
-OL,8,F( )                                    
-OL,10,FIs wie fr}her... ... Die eine hat mir  
-OL,11,Fsogar direkt eine geknallt...          
-OL,13,FStefan                                 
-OL,15,CErster Beitrag:                        
-OL,17,GHallo zusammen!                        
-OL,19,GNeue Spiele f}r unseren C64 sind doch  
-OL,20,Gimmer interessant! Auf YouTube, in der 
-OL,21,GZzap!, auf Entwicklerseiten oder in    
-OL,22,GShops tauchen regelm{~ig spannende     
-OL,23,GTitel auf. Damit wir m|glichst wenig   
+OL,2,EU64 Turbo Control Register auslesen    
+OL,4,CAntwort:  Bdarkvision                  
+OL,5,CComments: B5                           
+OL,6,F                                       
+OL,7,FJa, echt Schade... so ein print        
+OL,8,Fpeek(53297) sollte ja jeder            
+OL,9,Fhinbekommen... wenn er denn ein U64 mit
+OL,10,FTurbo-Firmware hat. Hab ich leider     
+OL,11,Fnicht (uralte Firmware und das bleibt  
+OL,12,Fauch so), sonst h{tte ich das selbst   
+OL,13,Fgetestet...                            
+OL,15,FIch h{tte da auch so den               
+OL,17,CErster Beitrag:                        
+OL,19,GHallo Leute, ich versuche gerade mit   
+OL,20,Geinem kurzen Assembler Programm das    
+OL,21,GTurboRegister vom U64 auszulesen. Laut 
+OL,22,GDoku steht dort in $d031 wenn Turbo    
+OL,23,GEnable Bit oder Turbo Registers        
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11902
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F09:00:14
+OL,0,         GFORUM64   GDo 19 Nov F13:22:07
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gdavon verpassen, m|chte ich diesen     
-OL,4,GThread als gemeinsame Sammelstelle     
-OL,5,Gstarten.                               
-OL,7,GAlle sind herzlich eingeladen, sich zu 
-OL,8,Gbeteiligen: Wenn ihr irgendwo ein neues
-OL,9,GC64-Spiel entdeckt, stellt es hier kurz
-OL,10,Gvor. Interessant w{ren vor allem:      
-OL,12,GName des Spiels Link zum Verkauf oder  
-OL,13,GDownload Preis kostenlose Spiele       
-OL,14,Gnat}rlich ebenfalls gerne! Wenn        
-OL,15,Gvorhanden: ein YouTube-Video, damit man
-OL,16,Ggleich einen Eindruck bekommt Mehr     
-OL,17,Gbraucht es gar nicht ein kurzer Beitrag
-OL,18,Greicht v|llig aus. Auch Ank}ndigungen  
-OL,19,Gund spielbare Demos sind willkommen;   
-OL,20,Gschreibt einfach dazu, wenn das Spiel  
-OL,21,Gnoch nicht erschienen ist.             
-OL,23,GNat}rlich soll hier auch }ber die      
+OL,3,Gaktiviert ist, dann kann anhand vom    
+OL,4,GWert in $d031 abgelesen werden auf     
+OL,5,Gwelchen CPU Speedindex 0-15 das U64    
+OL,6,Geingestellt ist. Jetzt habe ich das an 
+OL,7,Geinem U64 Elite I mit Firmware 3.14d   
+OL,8,Gund ein einem U64 Elite II mit Firmware
+OL,9,G3.14e ausprobiert und bekomme als      
+OL,10,GR}ckmeldung immer den Wert $8f bzw. 143
+OL,11,GDezimal. D.h. ich gehe davon aus, ich  
+OL,12,Gmache irgend etwas falsch. Aber was?   
+OL,14,GHier ist mal der Code von mir: //U64   
+OL,15,GTurbo Test                             
+OL,17,G* = $1000                              
+OL,19,Glda $df1d // 170 detect ultimate       
+OL,20,Ghardware and uci cmp #$c9 // 173       
+OL,21,GUltimate found ? beq _dturbo // 175 lda
+OL,22,G#$0d // 177 no jsr $ffd2 // 179 print  
+OL,23,G<cr> ldx #$00 // 182 _c109: lda _c268,x
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,11903
 SC,0003
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GDo 19 Nov F09:00:14
+OL,0,         GFORUM64   GDo 19 Nov F13:22:07
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GSpiele gesprochen werden! Habt ihr     
-OL,4,Geines schon gespielt? Lohnt sich der   
-OL,5,GKauf? Wie gefallen euch Gameplay,      
-OL,6,GGrafik und Musik? Eure Erfahrungen,    
-OL,7,GMeinungen und Tipps helfen allen       
+OL,3,G// 184 jsr                             
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

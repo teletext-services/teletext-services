@@ -3,21 +3,25 @@ PN,82301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G823FNDR TEXT GDo 19.11.B09:14:03
+OL,0,       G823FNDR TEXT GFr 20.11.B08:07:29
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD HANDBALL                    
 OL,4,F]T  %D     3. Liga Nord-Ost            
-OL,7,BFreitag, 13. November                  
-OL,8, Eider Harde   - DHK Flensborg    25:30 
-OL,10,BSamstag, 14. November                  
-OL,11, HC Hamburg II - Empor Rostock    27:33 
-OL,12, EHV Aue       - Stralsund        40:23 
-OL,14, Plauen-Oberl. - Burgdorf II      37:38 
-OL,15, F}chse B. II  - HG Barmbek       33:24 
-OL,17, Magdeburg II  - TSV Altenholz    40:33 
-OL,18, HV GW Werder  - Oranienburg      30:27 
-OL,20, Braunschweig  - Delitzsch        41:23 
+OL,5,BFreitag, 20. November                  
+OL,6, TSV Altenholz - HC Hamburg IIB   20.30 
+OL,8,BSamstag, 21. November                  
+OL,9, Stralsund     - BraunschweigB    18.00 
+OL,10, Oranienburg   - EHV AueB         18.30 
+OL,12, Empor Rostock - F}chse B. IIB    18.30 
+OL,13, Delitzsch     - Eider HardeB     19.00 
+OL,14, HG Barmbek    - Plauen-Oberl.B   20.00 
+OL,15, Burgdorf II   - Magdeburg IIB    20.00 
+OL,17,BSonntag, 22. November                  
+OL,18, DHK Flensborg - HV GW WerderB    16.00 
+OL,20,BMittwoch, 25. November                 
+OL,21, EHV Aue       - F}chse B. IIB    19.00 
+OL,22, Delitzsch     - Burgdorf IIB     19.00 
 OL,23,B]D810<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -25,7 +29,7 @@ PN,82302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G823FNDR TEXT GDo 19.11.B09:14:03
+OL,0,       G823FNDR TEXT GFr 20.11.B08:07:29
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD HANDBALL                    
@@ -53,25 +57,21 @@ PN,82303
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G823FNDR TEXT GDo 19.11.B09:14:03
+OL,0,       G823FNDR TEXT GFr 20.11.B08:07:29
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD HANDBALL                    
 OL,4,F]T  %D     3. Liga Nord-Ost            
-OL,5,BFreitag, 20. November                  
-OL,6, TSV Altenholz - HC Hamburg IIB   20.30 
-OL,8,BSamstag, 21. November                  
-OL,9, Stralsund     - BraunschweigB    18.00 
-OL,10, Oranienburg   - EHV AueB         18.30 
-OL,12, Empor Rostock - F}chse B. IIB    18.30 
-OL,13, Delitzsch     - Eider HardeB     19.00 
-OL,14, HG Barmbek    - Plauen-Oberl.B   20.00 
-OL,15, Burgdorf II   - Magdeburg IIB    20.00 
-OL,17,BSonntag, 22. November                  
-OL,18, DHK Flensborg - HV GW WerderB    16.00 
-OL,20,BMittwoch, 25. November                 
-OL,21, EHV Aue       - F}chse B. IIB    19.00 
-OL,22, Delitzsch     - Burgdorf IIB     19.00 
+OL,7,BFreitag, 27. November                  
+OL,8, TSV Altenholz - HG BarmbekB      20.30 
+OL,10,BSamstag, 28. November                  
+OL,11, DHK Flensborg - DelitzschB       17.00 
+OL,12, F}chse B. II  - Magdeburg IIB    18.00 
+OL,14, Oranienburg   - StralsundB       18.30 
+OL,15, Burgdorf II   - Empor RostockB   19.00 
+OL,17, HV GW Werder  - BraunschweigB    19.30 
+OL,19,BSonntag, 29. November                  
+OL,20, EHV Aue       - Eider HardeB     17.00 
 OL,23,B]D810<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

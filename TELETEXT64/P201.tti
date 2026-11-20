@@ -1,0 +1,80 @@
+DE,TELETEXT64 201
+PN,20101
+SC,0001
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 15:33:25
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FRequirements             
+OL,3,   EUltimateD]GOverview                 
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,BWhat is needed to run this?            
+OL,6, AFCommodore 64 UltimateGor some other  
+OL,7, Ultimate product with networking       
+OL,8, capabilities like theFUltimate 64Gor   
+OL,9,FUltimate EliteGboards.                 
+OL,11, Or use aFstock Commodore 64Gwith aF    
+OL,12, networking device like the:F           
+OL,13,C- Ultimate II+GcartridgeF              
+OL,14,C- WiC64Guser port device               
+OL,15,C- MeatloafGIEC device                  
+OL,17, It also runs fine on aFCommodore 128Gin
+OL,18, in C64 mode with one of the above      
+OL,19, networking devices.                    
+OL,21, That's it. More on the different soft- 
+OL,22, ware editions on the next page.        
+OL,23,D]F200G<<                >>F202 B]D1/3  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,20102
+SC,0002
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 15:33:25
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FRequirements             
+OL,3,   EUltimateD]GOverview                 
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5, Software can be found here:            
+OL,6,Cgithub.com/fputmango/Teletext64U       
+OL,8,BReleasesGcan be found on the right     
+OL,9, side of the GitHub page.               
+OL,11, If you have aFWiC64GorFMeatloafGyou    
+OL,12, don't need GitHub. The program can be  
+OL,13, launched via theEWiC PortalGor via a   
+OL,14,Eshort codeGcommand for the Meatloaf:   
+OL,16,BLOAD "ML:TELETEXT64",8                 
+OL,18, Pretty handy! See pageC305Gfor more    
+OL,19, information.                           
+OL,21, If you have an Ultimate product, you   
+OL,22, have to downloadFTeletext64U.d64       
+OL,23,D]F200G<<                >>F202 B]D2/3  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,20103
+SC,0003
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 15:33:25
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FRequirements             
+OL,3,   EUltimateD]GOverview                 
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,BUltimate edition                       
+OL,6, For the Ultimate version you have to   
+OL,7, enable theFUltimate Command Interface, 
+OL,8, or use theERunMeFirst.cfgGfile that    
+OL,9, enables this for you. It also sets     
+OL,10,FTurbo ControlGtoCC64U Turbo Registers  
+OL,11, (C64 Ultimate/Ultimate 64 systems only)
+OL,13, You could also apply the teletext.vpl  
+OL,14, (VICE palette file) to get bright RGB  
+OL,15, colours. This is optional.             
+OL,17,BRun the program                        
+OL,18, Mount the image and run the teletext   
+OL,19, program. It should work right away.    
+OL,21, If you want a local custom install,    
+OL,22, please read pageC202.                  
+OL,23,D]F200G<<                >>F202 B]D3/3  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100

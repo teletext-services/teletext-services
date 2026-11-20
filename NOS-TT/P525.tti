@@ -3,29 +3,29 @@ PN,52501
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  525Cdon 19 nov  09:09:04
+OL,0,       BNOS-TT  525Cvri 20 nov  00:10:10
 OL,1,S  <$4<4<4<4<$4<$<$4C             C 1/2 
 OL,2,D]S7!5557555u05w1w1u0C BELEGGINGSFONDSEN
-OL,3,T,,vssssssssssssssssy,,C 18/11 10:01T,,,
+OL,3,T,,vssssssssssssssssy,,C 19/11 SLOTT,,,@
 OL,4,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,5,F              B vorig    18/11         
+OL,5,F              B vorig    19/11         
 OL,6,BGS Beleggingsfondsen@@@@@@@@@@@@@@@@@@@
-OL,7,FGS Dyn I        29,49C   29,49G        
-OL,8,FGS Dyn II       37,40C   37,40G        
-OL,9,FGS Dyn III      45,05C   45,05G        
-OL,10,FGS Dyn IV       53,82C   53,82G        
-OL,11,FGS Dyn V        61,88C   61,88G        
-OL,12,FGS DzAand       74,25C   74,25G        
-OL,13,FGS E Small C   117,83C  117,83G        
+OL,7,FGS Dyn I        29,49C   29,51B+  0,07%
+OL,8,FGS Dyn II       37,40C   37,42B+  0,05%
+OL,9,FGS Dyn III      45,05C   45,05G   0,00%
+OL,10,FGS Dyn IV       53,82C   53,81A-  0,02%
+OL,11,FGS Dyn V        61,88C   61,85A-  0,05%
+OL,12,FGS DzAand       74,25C   74,60B+  0,47%
+OL,13,FGS E Small C   117,83C  117,20A-  0,53%
 OL,14,FGS Emerg Eur    34,12C   34,12G        
-OL,15,FGS EU DrzAan P  16,90C   16,90G        
-OL,16,FGS EUR Rente P  12,36C   12,36G        
-OL,17,FGS EuroObl      29,43C   29,43G        
-OL,18,FGS Europe       46,83C   46,83G        
-OL,19,FGS Glob EM      61,66C   61,66G        
-OL,20,FGS Glob Obl     14,38C   14,38G        
-OL,21,FGS Glob RE      81,78C   81,78G        
-OL,22,FGS Global      187,44C  187,44G        
+OL,15,FGS EU DrzAan P  16,90C   16,78A-  0,71%
+OL,16,FGS EUR Rente P  12,36C   12,37B+  0,08%
+OL,17,FGS EuroObl      29,43C   29,45B+  0,07%
+OL,18,FGS Europe       46,83C   46,32A-  1,09%
+OL,19,FGS Glob EM      61,66C   61,76B+  0,16%
+OL,20,FGS Glob Obl     14,38C   14,44B+  0,42%
+OL,21,FGS Glob RE      81,78C   82,13B+  0,43%
+OL,22,FGS Global      187,44C  187,17A-  0,14%
 OL,23,T,,,,,,,,,,,Cbron:Infront  T,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -33,23 +33,23 @@ PN,52502
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  525Cdon 19 nov  09:09:04
+OL,0,       BNOS-TT  525Cvri 20 nov  00:10:10
 OL,1,S  <$4<4<4<4<$4<$<$4C             C 2/2 
 OL,2,D]S7!5557555u05w1w1u0C BELEGGINGSFONDSEN
-OL,3,T,,vssssssssssssssssy,,C 18/11 10:01T,,,
+OL,3,T,,vssssssssssssssssy,,C 19/11 SLOTT,,,@
 OL,4,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,5,F              B vorig    18/11         
+OL,5,F              B vorig    19/11         
 OL,6,BGS Beleggingsfondsen@@@@@@@@@@@@@@@@@@@
-OL,7,FGS GlobOpp      45,85C   45,85G        
-OL,8,FGS HDAand       50,08C   50,08G        
-OL,9,FGS HDObli       16,06C   16,06G        
-OL,10,FGS Lion         28,55C   28,55G        
-OL,11,FGS NrthAm      110,04C  110,04G        
+OL,7,FGS GlobOpp      45,85C   46,28B+  0,94%
+OL,8,FGS HDAand       50,08C   49,79A-  0,58%
+OL,9,FGS HDObli       16,06C   16,02A-  0,25%
+OL,10,FGS Lion         28,55C   28,56B+  0,04%
+OL,11,FGS NrthAm      110,04C  110,19B+  0,14%
 OL,12,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,13,BOptimix Vermogensbeheer@@@@@@@@@@@@@@@@
-OL,14,FOptimixEM       81,33C   81,33G        
-OL,15,FOptimixIF       30,46C   30,46G        
-OL,16,FOptimixMX       44,77C   44,77G        
+OL,14,FOptimixEM       81,73C   81,33A-  0,49%
+OL,15,FOptimixIF       30,46C   30,51B+  0,16%
+OL,16,FOptimixMX       44,77C   44,47A-  0,67%
 OL,17,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,18,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,19,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

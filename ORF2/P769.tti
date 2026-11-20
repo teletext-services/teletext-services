@@ -3,28 +3,27 @@ PN,76901
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G769FORF2   GDo 19.11.26 09:13:03
+OL,0,       G769FORF2   GFr 20.11.26 06:41:15
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A     CL-Ligaphase, 5.Runde \
-OL,3,Q#########G                        1/2  
-OL,4,CDonnerstag, 18.45h                     
-OL,5,FAustria       - Bayern       F-:- (-:-)
-OL,6,FParis FC      - K|ge         F-:- (-:-)
-OL,7,C21.00h                                 
-OL,8,FArsenal       - Lyon         F-:- (-:-)
-OL,9,FBarcelona     - Servette     F-:- (-:-)
-OL,10,FBenfica       - Roma         F-:- (-:-)
-OL,12,CMittwoch                               
-OL,13,FH{cken        - Manchester C.F0:2 (0:0)
-OL,14, Hemp 55., Shaw 77.                     
-OL,15,FReal Madrid   - Inter        F3:1 (1:1)
-OL,16, Beerensteyn 28., Bruun 85.,94./E;      
-OL,17, Cambiaghi 45.+1                        
-OL,18, Rot: Vilhjalmsdottir 42./I             
-OL,19,FChelsea       - Paris SG     F1:0 (0:0)
-OL,20, Buurman 87.                            
-OL,21,FJuventus      - Leuven       F2:0 (0:0)
-OL,22, Serturini 86., Pavan 93.               
+OL,3,Q#########G                        1/3  
+OL,4,CDonnerstag                             
+OL,5,FAustria       - Bayern       F0:4 (0:2)
+OL,6, B}hl 27., Harder 45.+1, Sehitler 75.,  
+OL,7, Proost 92.                             
+OL,8,FParis FC      - K|ge         F2:1 (1:1)
+OL,9, Scott 35., Ould Hocine 94.; Paulson 12.
+OL,10,FArsenal       - Lyon         F0:2 (0:1)
+OL,11, Brand 24., Dumornay 57.                
+OL,12,FBarcelona     - Servette     F6:0 (3:0)
+OL,13, Bonmati 19., Pina 26.,77.,88.,         
+OL,14, Brugts 31., Graham Hansen 62./E        
+OL,15,FBenfica       - Roma         F2:3 (1:1)
+OL,16, M|ller 40., Sabastine 66.;             
+OL,17, van Dooren 17.,54., Jahnukainen 93.    
+OL,19,CMittwoch                               
+OL,20,FH{cken        - Manchester C.F0:2 (0:0)
+OL,21, Hemp 55., Shaw 77.                     
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -32,28 +31,48 @@ PN,76902
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G769FORF2   GDo 19.11.26 09:13:04
+OL,0,       G769FORF2   GFr 20.11.26 06:41:15
+OL,1,A]G                             Fu~ball 
+OL,2,A]GSPORT  ]A     CL-Ligaphase, 5.Runde \
+OL,3,Q#########G                        2/3  
+OL,4,CMittwoch (Forts.)                      
+OL,5,FReal Madrid   - Inter        F3:1 (1:1)
+OL,6, Beerensteyn 28., Bruun 85.,94./E;      
+OL,7, Cambiaghi 45.+1                        
+OL,8, Rot: Vilhjalmsdottir 42./I             
+OL,9,FChelsea       - Paris SG     F1:0 (0:0)
+OL,10, Buurman 87.                            
+OL,11,FJuventus      - Leuven       F2:0 (0:0)
+OL,12, Serturini 86., Pavan 93.               
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,76903
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       G769FORF2   GFr 20.11.26 06:41:15
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A             ACL-Ligaphase \
-OL,3,Q#########G                        2/2  
-OL,4,F 1 Chelsea FC       5  3  2  0  4:0  11
-OL,5,F 2 Olympique Lyon   4  3  1  0 20:0  10
-OL,6,F 3 FC Barcelona     4  3  1  0 20:3  10
-OL,7,F 4 Manchester City  5  2  3  0 10:5   9
-OL,8,G 5 Real Madrid      5  2  3  0 10:5   9
-OL,9,G 6 Juventus Turin   5  3  0  2 10:9   9
-OL,10,G 7 Bayern M}nchen   4  2  2  0  9:5   8
-OL,11,G 8 Arsenal FC       4  2  2  0  7:3   8
-OL,12,G 9 Benfica Liss.    4  2  0  2  5:8   6
-OL,13,G10 Paris SG         5  1  2  2  8:5   5
-OL,14,G11 HB K|ge          4  1  1  2  6:11  4
-OL,15,G12 AS Roma          4  1  1  2  2:9   4
-OL,16,F13 Inter Mailand    5  1  1  3  4:14  4
-OL,17,F14 Servette Genf    4  1  0  3  7:16  3
-OL,18,F15 Paris FC         4  0  2  2  5:11  2
+OL,3,Q#########G                        3/3  
+OL,4,F 1 FC Barcelona     5  4  1  0 26:3  13
+OL,5,F 2 Olympique Lyon   5  4  1  0 22:0  13
+OL,6,F 3 Bayern M}nchen   5  3  2  0 13:5  11
+OL,7,F 4 Chelsea FC       5  3  2  0  4:0  11
+OL,8,G 5 Manchester City  5  2  3  0 10:5   9
+OL,9,G 6 Real Madrid      5  2  3  0 10:5   9
+OL,10,G 7 Juventus Turin   5  3  0  2 10:9   9
+OL,11,G 8 Arsenal FC       5  2  2  1  7:5   8
+OL,12,G 9 AS Roma          5  2  1  2  5:11  7
+OL,13,G10 Benfica Liss.    5  2  0  3  7:11  6
+OL,14,G11 Paris SG         5  1  2  2  8:5   5
+OL,15,G12 Paris FC         5  1  2  2  7:12  5
+OL,16,F13 HB K|ge          5  1  1  3  7:13  4
+OL,17,F14 Inter Mailand    5  1  1  3  4:14  4
+OL,18,F15 Servette Genf    5  1  0  4  7:22  3
 OL,19,F16 BK H{cken        5  0  2  3  1:7   2
 OL,20,F17 OH Leuven        5  0  2  3  2:13  2
-OL,21,F18 Austria Wien     4  0  1  3  3:9   1
+OL,21,F18 Austria Wien     5  0  1  4  3:13  1
 OL,23,Q,,F1-4: ViertelfinaleQ,F5-12: Play-off 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

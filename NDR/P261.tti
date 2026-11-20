@@ -3,22 +3,21 @@ PN,26101
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G261FNDR TEXT GDo 19.11.B09:02:57
+OL,0,       G261FNDR TEXT GDo 19.11.B17:08:55
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Verbandsliga S-H West       
-OL,6,BSamstag, 14. November                  
-OL,7, SG Geest 05    - TuS Krempe        4:0 
-OL,8, Marner TV      - Kalt. TS II       3:1 
-OL,10, Osterr|nfeld   - TSV B}sum         5:1 
-OL,11, F. Gl}ckstadt  - Fetih-Kisdorf     2:1 
-OL,13, Friedrichskoog - TuRa Meldorf      2:1 
-OL,14, GW Todenb}ttel - Alem. Wilster     0:4 
-OL,16,BSonntag, 15. November                  
-OL,17, Kellinghusen   - TuS Jevenstedt    2:2 
-OL,19,BDienstag, 17. November                 
-OL,20, SG Geest 05    - GW Todenb}ttel    6:0 
+OL,7,BFreitag, 20. November                  
+OL,8, Kalt. TS II    - FriedrichskoogB 19.30 
+OL,10,BSamstag, 21. November                  
+OL,11, SV Wasbek      - F. Gl}ckstadtB  14.00 
+OL,12, TSV B}sum      - KellinghusenB   15.00 
+OL,14,BSonntag, 22. November                  
+OL,15, TuRa Meldorf   - Osterr|nfeldB   14.00 
+OL,16, Alem. Wilster  - Marner TVB      14.00 
+OL,18, TuS Krempe     - GW Todenb}ttelB 14.00 
+OL,19, TuS Jevenstedt - Fetih-KisdorfB  14.00 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -26,7 +25,7 @@ PN,26102
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G261FNDR TEXT GDo 19.11.B09:02:57
+OL,0,       G261FNDR TEXT GDo 19.11.B17:08:55
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -55,21 +54,24 @@ PN,26103
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G261FNDR TEXT GDo 19.11.B09:02:57
+OL,0,       G261FNDR TEXT GDo 19.11.B17:08:55
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Verbandsliga S-H West       
-OL,7,BFreitag, 20. November                  
-OL,8, Kalt. TS II    - FriedrichskoogB 19.30 
-OL,10,BSamstag, 21. November                  
-OL,11, SV Wasbek      - F. Gl}ckstadtB  14.00 
-OL,12, TSV B}sum      - KellinghusenB   15.00 
-OL,14,BSonntag, 22. November                  
-OL,15, TuRa Meldorf   - Osterr|nfeldB   14.00 
-OL,16, Alem. Wilster  - Marner TVB      14.00 
-OL,18, TuS Krempe     - GW Todenb}ttelB 14.00 
-OL,19, TuS Jevenstedt - Fetih-KisdorfB  14.00 
+OL,5,BSamstag, 28. November                  
+OL,6, Marner TV      - TuS KrempeB     14.00 
+OL,7, Osterr|nfeld   - Kalt. TS IIB    14.00 
+OL,9, Fetih-Kisdorf  - TSV B}sumB      14.00 
+OL,10, F. Gl}ckstadt  - TuS JevenstedtB 14.00 
+OL,12, SV Wasbek      - SG Geest 05B    14.00 
+OL,14,BSonntag, 29. November                  
+OL,15, Kellinghusen   - TuRa MeldorfB   14.00 
+OL,16, Friedrichskoog - Alem. WilsterB  15.15 
+OL,18,BSamstag, 5. Dezember                   
+OL,19, Friedrichskoog - Fetih-KisdorfB  14.00 
+OL,20, Kalt. TS II    - Osterr|nfeldB   14.00 
+OL,22, SG Geest 05    - KellinghusenB   14.00 
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

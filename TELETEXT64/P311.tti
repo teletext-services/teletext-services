@@ -1,0 +1,106 @@
+DE,TELETEXT64 311
+PN,31101
+SC,0001
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 18:29:09
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FMeatloaf                 
+OL,3,   EUltimateD]GRead all about it        
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,W}0            x5V//////////////////////
+OL,6,Wt         `~5R//////////////////////
+OL,7,W}0      x5S//////////////////////
+OL,8,Wt   `~5S//////////////////////
+OL,9,W} h5Q//////////////////////
+OL,10,W j5            |        x|
+OL,11,W j5 h|4 ||0~}|4`||0h|th|
+OL,12,W j5 |h|~5j5`0j5j5x|  
+OL,13,W j5 o|4*|~5*}~%*}~%m|  
+OL,15,FTeletextC64EUltimateG-BMeatloaf edition
+OL,17,CAbout                                  
+OL,18, "The internet is a massive floppy drive
+OL,19, for your C64 with Meatloaf!"           
+OL,21,CIntroduction                           
+OL,22,FMeatloafGis an ESP32 device that plugs 
+OL,23,D]F307G<<                >>F312 B]D1/4  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,31102
+SC,0002
+PS,C000
+CT,20,T
+OL,0,          BTXT64  GThu 19.11.26 18:29:09
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FMeatloaf                 
+OL,3,   EUltimateD]GRead all about it        
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5, into the IEC serial port of a Commodore
+OL,6, 64, 128, VIC-20 or Plus/4 andFpretends 
+OL,7,Fto be a disk driveG- but one whose     
+OL,8, "diskettes" can live on flash, on SD   
+OL,9, card, or on any server on the Internet.
+OL,11, -BIt is a disk drive.GLOAD"$",8 works. 
+OL,12,   LOAD"*",8 works. Your existing       
+OL,13,   software does not know the difference
+OL,15, -BIts disks can be anywhere.GA D64 on  
+OL,16,   your NAS, a ZIP on a web server, a   
+OL,17,   tape image on an FTP site - all      
+OL,18,   addressed as ordinary filenames.     
+OL,20, -BIt is 26 drives at once.GConfigure it
+OL,21,   to answer on any device IDs from 4 to
+OL,22,   30 simultaneously, each with its own 
+OL,23,D]F307G<<                >>F312 B]D2/4  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,31103
+SC,0003
+PS,C000
+CT,20,T
+OL,0,          BTXT64  GThu 19.11.26 18:29:09
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FMeatloaf                 
+OL,3,   EUltimateD]GRead all about it        
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,   image mounted.                       
+OL,7, -BIt is a network adapter.GOpen a URL  
+OL,8,   like a file. Talk to REST APIs from  
+OL,9,   unmodified BASIC v2, with a JSON     
+OL,10,   parser built into the drive.         
+OL,12, -BIt is also a printer, a clock, and a 
+OL,13,  BWiFi modem.GMore devices in one      
+OL,14,   cartridge-sized board than most      
+OL,15,   people had on the whole bus.         
+OL,17, -BIt has a web app.GThe Meatloaf       
+OL,18,   Manipulator lets you search, browse  
+OL,19,   and swap disks from a phone or laptop
+OL,20,   while the Commodore keeps running.   
+OL,22,FMore info:Cgithub.com/idolpx/meatloaf  
+OL,23,D]F307G<<                >>F312 B]D3/4  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,31104
+SC,0004
+PS,C000
+CT,20,T
+OL,0,          BTXT64  GThu 19.11.26 18:29:09
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FMeatloaf                 
+OL,3,   EUltimateD]GRead all about it        
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,CHow to launch?                         
+OL,6, LaunchingFTeletextC64EUltimateGis done 
+OL,7, in a typicalFMeatloafGway, just type:  
+OL,9,BLOAD "ML:TELETEXT64",8                 
+OL,11, and the program loads itself straight  
+OL,12, from the internet.HWow!                
+OL,14,CWant your own Meatloaf?                
+OL,15, It is pretty easy to make aFMeatloafG  
+OL,16, device. All you need is a IEC floppy   
+OL,17, connector, some wires and a cheap      
+OL,18, ESP32 board.                           
+OL,20, But they are also sold as a ready to us
+OL,21, package.FMore info:Cstore.cityxen.biz  
+OL,23,D]F307G<<                >>F312 B]D4/4  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100

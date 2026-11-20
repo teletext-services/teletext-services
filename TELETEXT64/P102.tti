@@ -1,0 +1,106 @@
+DE,TELETEXT64 102
+PN,10201
+SC,0001
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 12:55:18
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FWhat's new               
+OL,3,   EUltimateD]GOverview per release     
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,BRelease 2.10.0                         
+OL,6, - New stations:CAntena 3G&ClaSexta     
+OL,7,  CAntena 3G&ClaSextaG(Spain)           
+OL,8,  CRTP TeletextoG(Portugal)             
+OL,9,   These systems all use the sameFFAB   
+OL,10,  FTeletext,Gwhich is also used by      
+OL,11,  CTelegazetaG(Poland).                 
+OL,13, - New feature:Flanguage specific G2    
+OL,14,  Fcharacter sets.GThis is in addition  
+OL,15,   to the existing Latin National Option
+OL,16,   Sub-sets (ETS 300 706, table 36). In 
+OL,17,   plain English: support for more local
+OL,18,   characters. First applied for the new
+OL,19,   Spanish and Portugese services above.
+OL,23,D]F101G<<                >>F199 B]D1/4  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,10202
+SC,0002
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 12:55:18
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FWhat's new               
+OL,3,   EUltimateD]GOverview per release     
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,BRelease 2.9.0                          
+OL,6, - New station:CTelegazetaGfrom Poland  
+OL,7,   AllFTVPGeditions are supported:F1,2, 
+OL,8,  F3,Kultura,Historia,SportGandFPolonia.
+OL,10, -C?-keyG(or Shift-/) selects the       
+OL,11,   previous station.                    
+OL,13, -C# key:GEnter a 2-digit subpage number
+OL,14,   to directly visit that subpage.      
+OL,16, -CColour printing was removed.GThe     
+OL,17,   memory occupied by the code was      
+OL,18,   needed to make room for supporting   
+OL,19,   the Polish nation subset characters. 
+OL,21, - TheCstation menu has a submenuGnow,  
+OL,22,   due to the growing number of         
+OL,23,D]F101G<<                >>F199 B]D2/4  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,10203
+SC,0003
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 12:55:18
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FWhat's new               
+OL,3,   EUltimateD]GOverview per release     
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,   stations. Stations that have multiple
+OL,6,   variants, like ORF for example, are  
+OL,7,   grouped in a submenu now. So the main
+OL,8,   item is ORF, and the submenu items   
+OL,9,   are ORF 1, ORF 2, ORF III and ORF Spo
+OL,10,   Sport. Stations that are grouped have
+OL,11,   aB'>'Gat the end to indicate the     
+OL,12,   submenu.                             
+OL,14, -CThe RUN/STOP key / right mouse button
+OL,15,   cancels the station select menu, or  
+OL,16,   steps back from the submenu to the   
+OL,17,   main station select menu.            
+OL,19, - Station menu: added a newC'Nordic'   
+OL,20,   language section for DR Tekst-TV     
+OL,21,   (Denmark), SVT Text (Sweden),Yle     
+OL,22,   Teksti-TV and HBN Teksti-TV (Finland)
+OL,23,D]F101G<<                >>F199 B]D3/4  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,10204
+SC,0004
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 12:55:18
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]]FWhat's new              
+OL,3,   EUltimateD]]GOverview per release    
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,FFixed in 2.9.0                         
+OL,6, -CMTVA TextG(Hungary) is made available
+OL,7,   again.                               
+OL,9, - An issue on NOS Teletekst page 718   
+OL,10,   is fixed. And I made a custom double 
+OL,11,   heigth/normal height post-fix for    
+OL,12,   page 751 'treininformatie actueel'   
+OL,14,- TheCWiC64 editionGalways showd a mouse
+OL,15,  pointer after startup. Now the pointer
+OL,16,  has to be moved first.                
+OL,18,- Entering half of a new pagenumber and 
+OL,19,  then navigating away clears the entry 
+OL,20,  state now.                            
+OL,23,D]F101G<<                >>F199 B]D4/4  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100

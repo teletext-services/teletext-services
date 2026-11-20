@@ -3,39 +3,46 @@ PN,82901
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G829FORF2   GDo 19.11.26 09:14:15
+OL,0,       G829FORF2   GFr 20.11.26 08:17:03
 OL,1,A]G                  Flughafen Salzburg 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug     von        Plan aktuell       
-OL,5,FEW 4335  D}sseldorf 0950Berwartet  0940
-OL,6,GLH 1260  Frankfurt  1005               
-OL,7,FLH 1262  Frankfurt  1355               
-OL,8,GEW 4397  Marsa Alam 1610               
-OL,23,Q,,F09:10hGFlughafen SalzburgF0662/8580 
+OL,5,FEW 9712  D}sseldorf 0815Bgelandet      
+OL,6,GJU 320   Belgrad    0845Berwartet  0840
+OL,7,FLH 1260  Frankfurt  1005               
+OL,8,GBQ 1992  Rom FCO    1130               
+OL,9,FBA 2624  London LGW 1220               
+OL,10,GLH 1262  Frankfurt  1355               
+OL,11,FEW 4343  Berlin     1410               
+OL,23,Q,,F08:15hGFlughafen SalzburgF0662/8580 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82902
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G829FORF2   GDo 19.11.26 09:14:15
+OL,0,       G829FORF2   GFr 20.11.26 08:17:03
 OL,1,A]G                  Flughafen Salzburg 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug     nach       Plan aktuell       
-OL,5,FEW 4392  Hurghada   1045               
-OL,6,GLH 1261  Frankfurt  1055               
-OL,7,FLH 1263  Frankfurt  1445               
-OL,8,GEW 4338  D}sseldorf 1700               
-OL,9,FFR 305   London STN 1800               
-OL,10,GLY 5194  Tel-Aviv   1905               
-OL,11,FEW 9717  D}sseldorf 1945               
-OL,12,GIV 4861  Pristina   2040               
-OL,13,CN{chster Tag: 2026-11-20               
-OL,14,FEW 4376  Teneriffa  0615Bcheck in      
-OL,15,GLH 1267  Frankfurt  0630Bcheck in      
-OL,16,FEW 9713  D}sseldorf 0855               
-OL,23,Q,,F09:10hGFlughafen SalzburgF0662/8580 
+OL,5,FEW 9713  D}sseldorf 0855               
+OL,6,GJU 321   Belgrad    0915               
+OL,7,FLH 1261  Frankfurt  1055               
+OL,8,GEW 4304  Marrakesch 1125               
+OL,9,FBQ 1993  Rom FCO    1215               
+OL,10,GBA 2625  London LGW 1310               
+OL,11,FLH 1263  Frankfurt  1445               
+OL,12,GEW 4342  Berlin     1450               
+OL,13,FFR 309   London STN 1605               
+OL,14,GEW 4354  Hamburg    1730               
+OL,15,FLH 1265  Frankfurt  1900               
+OL,16,GTK 1384  Istanbul   1910               
+OL,17,FEW 9717  D}sseldorf 2035               
+OL,18,CN{chster Tag: 2026-11-21               
+OL,19,GEW 4392  Hurghada   0600Bcheck in      
+OL,20,FLH 1267  Frankfurt  0630Bcheck in      
+OL,23,Q,,F08:15hGFlughafen SalzburgF0662/8580 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

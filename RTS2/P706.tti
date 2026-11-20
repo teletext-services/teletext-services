@@ -1,41 +1,15 @@
 DE,RTS2 706
-PN,70601
-SC,0001
-PS,C080
-CT,8,T
-OL,0,       G706  RTS 2     19.11.26 09:12:19
-OL,1,A]GRTS 2     ]@jeudi 19 novembre        
-OL,2,                                    1/2 
-OL,4,G03:20 G19h30 - Sign#                   
-OL,5,E 0335 CS-TCLSC(R)                      
-OL,6,F03:50 FCouleurs locales                
-OL,7,E 0410 CS-TC(R)                         
-OL,8,G04:10 G19h30 - Sign#                   
-OL,9,E 0430 CS-TCLSC(R)                      
-OL,10,F04:40 FCouleurs locales                
-OL,11,E 0510 CS-TC(R)                         
-OL,12,G04:55 G19h30 - Sign#                   
-OL,13,E 0530 CS-TCLSC(R)                      
-OL,14,F05:30 FCouleurs locales                
-OL,15,E 0535 CS-TC(R)                         
-OL,16,G05:45 G19h30 - Sign#                   
-OL,17,E 0540 CS-TCLSC(R)                      
-OL,18,F06:15 FCouleurs locales                
-OL,19,E 0545 CS-TC(R)                         
-OL,24,AIndex    BSport     CMeteo    FTV&Radio
-FL,101,180,500,700,0,100
-PN,70602
-SC,0002
-PS,C080
-CT,8,T
-OL,0,       G706  RTS 2     19.11.26 09:12:19
-OL,1,A]GRTS 2     ]@jeudi 19 novembre        
-OL,2,                                    2/2 
-OL,4,G06:35 GCouleurs locales                
-OL,5,E 0625 CS-TC(R)                         
-OL,6,F06:50 FRTS Info                        
-OL,7,E 0555 FL'actualit# en continuCS-T      
-OL,8,G07:00 GLa Matinale                     
-OL,9,       GLa Matinale en vid#oCS-T        
+PN,70600
+SC,0000
+PS,8080
+CT,10,T
+OL,0,       G706  RTS 2     20.11.26 05:01:09
+OL,1,A]GRTS 2     ]@vendredi 20 novembre     
+OL,4,F05:55 FRTS Info                        
+OL,5,       FL'actualit# en continuCS-T      
+OL,6,G06:05 GRTS Info                        
+OL,7,E 0700 GL'actualit# en continuCS-T      
+OL,8,F07:00 FTennis                          
+OL,9,E 0602 FBillie Jean King Cup            
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

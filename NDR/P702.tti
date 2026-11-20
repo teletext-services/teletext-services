@@ -3,66 +3,41 @@ PN,70201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G702FNDR TEXT GDo 19.11.B09:12:16
+OL,0,       G702FNDR TEXT GFr 20.11.B04:54:50
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
-OL,4,F]T  %D     A1, A2, A7       Stand 09:05
-OL,5, A1 L}beck Richtung Hamburg zwischen    
-OL,6, Hamburg-Billstedt und Norderelbbr}cke 5
-OL,7, km stockender Verkehr                  
-OL,9,FA1 Hamburg Richtung Bremen die Ausfahrt
-OL,10,FHittfeld ist wegen Bauarbeiten bis     
-OL,11,Fcirca 14:30 gesperrt.                  
-OL,13, A1 Hamburg Richtung Bremen Die Ausfahrt
-OL,14, Hittfeld ist wegen Bauarbeiten bis     
-OL,15, circa 12 Uhr gesperrt.                 
-OL,17,FA1 Osnabr}ck Richtung Bremen zwischen  
-OL,18,FDreieck Stuhr und Bremen-Hemelingen 6  
-OL,19,Fkm Stau vor der Baustelle              
+OL,4,F]T  %D     A1, A2, A7       Stand 04:40
+OL,5, Die A1 Fehmarn Richtung L}beck ist     
+OL,6, zwischen Ratekau und Bad Schwartau     
+OL,7, wegen Bauarbeiten bis 6 Uhr gesperrt.  
+OL,9,FA1 Bremen Richtung Osnabr}ck Die       
+OL,10,FAnschlussstelle Bremen-Hemelingen ist  
+OL,11,Fin Richtung Gewerbegebiet wegen        
+OL,12,FBauarbeiten, bis morgen 5 Uhr,         
+OL,13,Fgesperrt.                              
+OL,15, Die A7 Flensburg - Hannover wird       
+OL,16, zwischen Hamburg-Stellingen und        
+OL,17, Heimfeld wegen Bauarbeiten von 22 Uhr  
+OL,18, bis Montag, circa 5 Uhr, in beiden     
+OL,19, Richtungen gesperrt. Umleitungen sind  
+OL,20, eingerichtet                           
 OL,23,A]G701<         SONSTIGE AUTOBAHNEN >703
-OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
 FL,101,200,300,650,0,100
 PN,70202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G702FNDR TEXT GDo 19.11.B09:12:16
+OL,0,       G702FNDR TEXT GFr 20.11.B04:54:50
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
-OL,4,F]T  %D     A1, A2, A7       Stand 09:05
-OL,5, A1 Bremen Richtung Hamburg die Ausfahrt
-OL,6, Elsdorf ist wegen LKW-Bergungsarbeiten 
-OL,7, gesperrt.                              
-OL,9,FA1 Bremen Richtung L}beck zwischen     
-OL,10,FMaschener Kreuz und Norderelbbr}cke 9  
-OL,11,Fkm stockender Verkehr                  
-OL,13, A2 Hannover Richtung Dortmund zwischen 
-OL,14, Hannover-Langenhagen und Garbsen 6 km  
-OL,15, stockender Verkehr im Baustellenbereich
-OL,17,FA2 Hannover Richtung Dortmund Die      
-OL,18,FAusfahrt Bad Eilsen ist wegen          
-OL,19,FBauarbeiten bis Freitag jeweils        
-OL,20,Fzwischen 9-16 Uhr gesperrt.            
+OL,4,F]T  %D     A1, A2, A7       Stand 04:40
+OL,5, A7 Hannover Richtung Hamburg Die       
+OL,6, Ausfahrt zur Rastst{tte Allertal Ost   
+OL,7, wird wegen einer Nachtbaustelle bis 5  
+OL,8, Uhr gesperrt.                          
 OL,23,A]G701<         SONSTIGE AUTOBAHNEN >703
-OL,24,AInhalt BSport CFernsehen FWetter G(2/3)
-FL,101,200,300,650,0,100
-PN,70203
-SC,0003
-PS,C200
-CT,10,T
-OL,0,       G702FNDR TEXT GDo 19.11.B09:12:16
-OL,1, ]T  5                                  
-OL,2, ]Tthi,0<d                              
-OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
-OL,4,F]T  %D     A1, A2, A7       Stand 08:55
-OL,5, Die A7 Flensburg - Hannover wird       
-OL,6, zwischen Hamburg-Stellingen und        
-OL,7, Heimfeld wegen Bauarbeiten von morgen  
-OL,8, 22 Uhr bis Montag circa 5 Uhr in beiden
-OL,9, Richtungen gesperrt. Umleitungen sind  
-OL,10, eingerichtet                           
-OL,23,A]G701<         SONSTIGE AUTOBAHNEN >703
-OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

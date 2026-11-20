@@ -3,29 +3,29 @@ PN,20201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  202Cdon 19 nov  09:00:59
-OL,1,V  |<,,| |<,,| |<,,| (,,,| F      F 1/3 
+OL,0,       BNOS-TT  202Cdon 19 nov  15:34:08
+OL,1,V  |<,,| |<,,| |<,,| (,,,| F      F 1/2 
 OL,2,D]V5   7### upp jwsss B donderdag  
 OL,3,Tupuzupuppppzppppz]B           
 OL,4,G                                       
-OL,5,B07.00F journaal met gebarentaal     NOS
-OL,6,B07.15F tijd voor max hh       F     MAX
-OL,7,B08.00F binnenstebuiten C238   FKRO-NCRV
-OL,8,B                                       
-OL,9,B08.40FFgeheugentrainer            F MAX
-OL,10,B09.00F journaal met gebarentaal    FNOS
-OL,11,B09.15F nederland in beweging       FMAX
-OL,12,B                                       
-OL,13,B09.30FFzentijdCC239           FKRO-NCRV
-OL,14,B09.50F nieuwsuurC              FNTR/NOS
-OL,15,B10.40F de wereld in eindhovenC228F  NTR
-OL,16,B                                       
-OL,17,B11.15FFbinnenstebuiten C238F   KRO-NCRV
-OL,18,B12.00F journaalC                   FNOS
-OL,19,G                                       
-OL,20,B12.20 Fkook mee met maxC235   F     MAX
-OL,21,B12.31F max maakt mogelijk C241         
-OL,22,B12.48                                  
+OL,5,B12.48 Fknrm                    SOCUTERA
+OL,6,B13.00F journaal+sportjournaalC225  FNOS
+OL,7,B13.25 FpauscastC233           FKRO-NCRV
+OL,8,B13.55FFde verwonderingC233         F   
+OL,9,B14.30FFdroomland koerdistanC228  FHUMAN
+OL,10,B15.15FFvrije geluiden sessiesC234F VPRO
+OL,11,B15.45 Fnu te zien!C240F        AVROTROS
+OL,12,B16.00 FjournaalC225             F   NOS
+OL,13,B                                       
+OL,14,B16.10 Fkook mee met maxCC235  F     MAX
+OL,15,B16.25F per seconde wijzer       BNNVARA
+OL,16,B16.56 Fvolt  & 50plus                PP
+OL,17,B17.05F china:nature's ancient          
+OL,18,B      FkingdomC228                F  EO
+OL,19,B18.00 FjournaalC225                FNOS
+OL,20,B18.15 Fjournaal regio               NOS
+OL,21,B18.30F de wereld in eindhovenC228F  NTR
+OL,22,B19.10                                  
 OL,23,D]                                      
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -33,38 +33,8 @@ PN,20202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  202Cdon 19 nov  09:00:59
-OL,1,V  |<,,| |<,,| |<,,| (,,,| F      F 2/3 
-OL,2,D]V5   7### upp jwsss B donderdag  
-OL,3,Tupuzupuppppzppppz]B           
-OL,4,G                                       
-OL,5,B12.48 Fknrm                    SOCUTERA
-OL,6,B13.00F journaal+sportjournaalC     FNOS
-OL,7,B13.25 FpauscastC233           FKRO-NCRV
-OL,8,B13.55FFde verwonderingC233         F   
-OL,9,B14.30FFdroomland koerdistanC228  FHUMAN
-OL,10,B15.15FFvrije geluiden sessiesC234F VPRO
-OL,11,B15.45 Fnu te zien!C240F        AVROTROS
-OL,12,B16.00 Fjournaal                 F   NOS
-OL,13,B                                       
-OL,14,B16.10 Fkook mee met maxCC235  F     MAX
-OL,15,B16.25F per seconde wijzer       BNNVARA
-OL,16,B16.56 Fuitzending                    PP
-OL,17,B17.05F china:nature's ancient          
-OL,18,B      Fkingdom  C228              F  EO
-OL,19,B18.00 Fjournaal                    FNOS
-OL,20,B18.15 Fjournaal regio               NOS
-OL,21,B18.30F de wereld in eindhovenC228F  NTR
-OL,22,B19.10                                  
-OL,23,D]                                      
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,20203
-SC,0003
-PS,C200
-CT,10,T
-OL,0,       BNOS-TT  202Cdon 19 nov  09:00:59
-OL,1,V  |<,,| |<,,| |<,,| (,,,| F      F 3/3 
+OL,0,       BNOS-TT  202Cdon 19 nov  15:33:56
+OL,1,V  |<,,| |<,,| |<,,| (,,,| F      F 2/2 
 OL,2,D]V5   7### upp jwsss B donderdag  
 OL,3,Tupuzupuppppzppppz]B           
 OL,4,G                                       
@@ -73,7 +43,7 @@ OL,6,B19.50F per seconde wijzer          FMAX
 OL,7,B20.25F vals paradijs:kracht            
 OL,8,F       geborenFuit strijdC228F    ZWART
 OL,9,B21.10 FzemblaC228F              BNNVARA
-OL,10,B22.00F nieuwsuur               FNTR-NOS
+OL,10,B22.00F nieuwsuurC221           FNTR-NOS
 OL,11,G       met journaal               B    
 OL,12,B22.45F de joodse wereld             FEO
 OL,13,B                                       
@@ -83,7 +53,7 @@ OL,16,B00.30 Fde boeddhistische
 OL,17,F       blik  C228F             KRO-NCRV
 OL,18,B01.25FFde nachtzoen                 FEO
 OL,19,B01.35F hh ongehoord nieuws         FOON
-OL,20,B02.20FFhh nieuwsuur         F   NTR-NOS
+OL,20,B02.20FFhh nieuwsuurC221     F   NTR-NOS
 OL,21,B02.50F nachtcarrouselB     F           
 OL,22,B06.00                                  
 OL,23,D]                                      

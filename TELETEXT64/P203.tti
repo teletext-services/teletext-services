@@ -1,0 +1,50 @@
+DE,TELETEXT64 203
+PN,20301
+SC,0001
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 15:36:54
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FPetsciiProxy             
+OL,3,   EUltimateD]GLocal installation       
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5,CRequirements:                          
+OL,6, - A Windows/Mac/Linux PC, NAS or       
+OL,7,   RaspberryPi                          
+OL,8, - You need to know the IP-address of   
+OL,9,   this PC                              
+OL,10, - The PetsciiProxy server              
+OL,12,CInstallation                           
+OL,13, You can find stand alone executables in
+OL,14, theFdistGfolder on GitHub. Download the
+OL,15, appropriate file for your system.      
+OL,17, Copy the program to a directory of your
+OL,18, liking. The program automatically      
+OL,19, creates subfolders for each teletext   
+OL,20, service to store pages.                
+OL,22, - Start a command prompt / terminal    
+OL,23,D]F202G<<                >>F300 B]D1/2  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100
+PN,20302
+SC,0002
+PS,C000
+CT,30,T
+OL,0,          BTXT64  GThu 19.11.26 15:36:54
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,FTeletextC64D]FPetsciiProxy             
+OL,3,   EUltimateD]GLocal installation       
+OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,5, - Start the proxy program. Note that   
+OL,6,   your PC may ask you permission for   
+OL,7,   accessing the local network.         
+OL,9, - You should see something like this:  
+OL,10,  BTeletext PetsciiProxy server v2.7.0, 
+OL,11,  Bserving on port 8080                 
+OL,13, - If you want another port, just start 
+OL,14,   the program with a parameter.        
+OL,16, - UseC--helpGto see all parameter      
+OL,17,   options.                             
+OL,23,D]F202G<<                >>F300 B]D2/2  
+OL,24,AMain page  BA-Z Index  CInstall  FAbout
+FL,100,199,200,300,0,100

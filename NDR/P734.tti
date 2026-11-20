@@ -3,29 +3,25 @@ PN,73400
 SC,0000
 PS,8200
 CT,10,T
-OL,0,       G734FNDR TEXT GDo 19.11.B09:12:35
+OL,0,       G734FNDR TEXT GFr 20.11.B05:45:07
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN BREMEN            
-OL,4,F]T  %D     Ankunft      Stand 09:09    
+OL,4,F]T  %D     Ankunft      Stand 04:59    
 OL,5,BFLUG    VON           PLAN ERW. TER/BEM
-OL,6,C        -- Am 20.11.2026 --            
+OL,6,C        -- Am 21.11.2026 --            
 OL,7,FLH 2108 MUENCHEN      0900             
-OL,8, FR 9056 ALICANTE      0910             
-OL,9,FXQ 218  ANTALYA       0915             
-OL,10, FR 3634 LONDON-STN    0920             
-OL,11,FFR 9929 MALAGA        0920             
-OL,12, KL 1761 AMSTERDAM     1020             
-OL,13,FLH 2110 MUENCHEN      1220             
-OL,14, FR 225  LAMEZIA TERM  1520             
-OL,15,FLH 2112 MUENCHEN      1705             
-OL,16, TK 1333 ISTANBUL      1710             
-OL,17,FKL 1765 AMSTERDAM     1750             
-OL,18, LX 850  ZUERICH       1855             
-OL,19,FSR 3091 TENERIFFA     1900             
-OL,20, EW 2030 STUTTGART     1935             
-OL,21,FFR 3675 LONDON-STN    2000             
-OL,22, KL 1767 AMSTERDAM     2200             
+OL,8, FR 3675 LONDON-STN    0915             
+OL,9,FPC 1031 ISTANBUL-SAW  0940             
+OL,10, TK 1331 ISTANBUL      0950             
+OL,11,FKL 1761 AMSTERDAM     1020             
+OL,12, LH 2110 MUENCHEN      1230             
+OL,13,FFR 3680 LONDON-STN    1405             
+OL,14, FR 3783 MALLORCA      1415             
+OL,15,FFR 3634 LONDON-STN    1630             
+OL,16, LH 2112 MUENCHEN      1705             
+OL,17,FKL 1765 AMSTERDAM     1800             
+OL,18, SR 3269 FUERTEVENTUR  1930             
 OL,23,A]G700<           M]NSTER/OSNABR]CK >735
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100
