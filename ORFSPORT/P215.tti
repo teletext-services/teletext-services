@@ -3,24 +3,25 @@ PN,21501
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G215CORF SPORT+G21.11.26 00:44:15
+OL,0,       G215CORF SPORT+G21.11.26 10:44:47
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A     Deutschland, 10.Runde \
 OL,3,Q#########G                        1/2  
-OL,4,CFreitag                                
-OL,5,FBayern        - K|ln         F1:1 (1:1)
-OL,6, Brown 37.; Moore 12.;                  
-OL,7, Laimer (B) bis 70.                     
-OL,9,CSamstag                                
-OL,10,GM'gladbach    - Dortmund     G15.30h   
-OL,11,GElversberg    - Freiburg     G15.30h   
-OL,12,GUnion Berlin  - Leipzig      G15.30h   
-OL,13,GLeverkusen    - Paderborn    G15.30h   
-OL,14,GFrankfurt     - Hoffenheim   G15.30h   
-OL,15,GSchalke       - Stuttgart    G18.30h   
-OL,17,CSonntag                                
-OL,18,GAugsburg      - Mainz        G15.30h   
-OL,19,GBremen        - Hamburg      G17.30h   
+OL,4,CSamstag, 15.30h                        
+OL,5,FM'gladbach    - Dortmund     F-:- (-:-)
+OL,6,FElversberg    - Freiburg     F-:- (-:-)
+OL,7,FUnion Berlin  - Leipzig      F-:- (-:-)
+OL,8,FLeverkusen    - Paderborn    F-:- (-:-)
+OL,9,FFrankfurt     - Hoffenheim   F-:- (-:-)
+OL,10,C18.30h                                 
+OL,11,FSchalke       - Stuttgart    F-:- (-:-)
+OL,13,CSonntag                                
+OL,14,GAugsburg      - Mainz        G15.30h   
+OL,15,GBremen        - Hamburg      G17.30h   
+OL,17,CFreitag                                
+OL,18,FBayern        - K|ln         F1:1 (1:1)
+OL,19, Brown 37.; Moore 12.;                  
+OL,20, Laimer (B) bis 70.                     
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -28,7 +29,7 @@ PN,21502
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G215CORF SPORT+G21.11.26 00:44:15
+OL,0,       G215CORF SPORT+G21.11.26 10:44:47
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A     ADeutschland, Tabelle \
 OL,3,Q#########G                        2/2  

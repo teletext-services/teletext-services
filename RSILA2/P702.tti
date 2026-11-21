@@ -3,26 +3,28 @@ PN,70200
 SC,0000
 PS,8308
 CT,10,T
-OL,0,       G702  RSI LA 2  21.11.26 01:09:33
-OL,1,A]GRSI   ]@LA2      VENERDI 20 novembre 
+OL,0,       G702  RSI LA 2  21.11.26 11:08:59
+OL,1,A]GRSI   ]@LA2       SABATO 21 novembre 
 OL,2,G                                       
-OL,3, G05:00  GIl QuotidianoCR               
-OL,4, F05:30  FAlbachiara in TVCST           
-OL,5, G07:00  GRadiogiornale e lanci     CST 
-OL,6,         Gsport                         
-OL,7, F07:20  FSetteventi in TVCST           
-OL,8, G08:30  GModemCST                      
-OL,9, F09:00  FRadiogiornaleCST              
-OL,10, G09:10  GCasa SvizzeraCST              
-OL,11, F10:00  FMillevoci in TVCST            
-OL,12, G11:00  GMillestorieCST                
-OL,13, F11:45  FControcorrente in TVCST       
-OL,14, G12:35  GSiamo fuoriCST                
-OL,15, F13:40  FZeroveroCST                   
-OL,16, G14:00  GEverywhere I go -         CST 
-OL,17,         GCoincidenze d'amore           
-OL,18,         GEpisodio 39                   
-OL,19, F14:50  FCuntrasts                     
+OL,3, G04:55  GFuoriprogramma                
+OL,4, F06:20  FMeteoCR                       
+OL,5, G06:25  GIl QuotidianoCSTCR            
+OL,6, F06:55  FMeteoCR                       
+OL,7, G07:00  GTennis: Billie Jean KingCI/II 
+OL,8,         GCup 2026                      
+OL,9,         GThailandia - Svizzera         
+OL,10, F11:25  FTennis: Billie Jean  CSTCI/II 
+OL,11,         FKing Cup 2026                 
+OL,12,         FThailandia - Svizzera         
+OL,13, G11:45  GMotomondiale 2026CSTCI/II     
+OL,14,         GGran Premio del Portogallo    
+OL,15, F12:40  FIl prima e dopo sport         
+OL,16, G13:05  GTesori del mondoCST           
+OL,17,         GAnthony Island - La patria    
+OL,18,         Gdegli Haida                   
+OL,19, F13:25  FSci alpino: Coppa delCSTCI/II 
+OL,20,         FMondo 2026/2027               
+OL,21,         FSlalom femminile              
 OL,23,@HTechnical problems, no data available 
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

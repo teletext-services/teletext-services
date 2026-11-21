@@ -1,21 +1,42 @@
 DE,SWR-BW 510
-PN,51000
-SC,0000
-PS,8208
+PN,51001
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G02:46:51
+OL,0,       BSWR BW C   Sa, 21.11.26G12:47:50
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,              Autobahn A81              
-OL,6,CA8, A81FKarlsruhe Richtung Stuttgart   
-OL,7, zwischen Rastst{tte Sindelfinger Wald  
-OL,8, S}d und Kreuz Stuttgart Unfallaufnahme 
-OL,9, auf dem linken und dem mittleren       
-OL,10, Fahrstreifen, Gefahr                   
-OL,12,CA81FStuttgart Richtung Singen          
-OL,13, zwischen Geisingen und Engen defekter  
-OL,14, LKW auf dem Standstreifen              
-OL,23,D]GStand:21.11. 02:45   ]bersicht 501 >>
+OL,4,             Autobahn A8,A81            
+OL,6,CA8FSaarlouis Richtung Neunkirchen      
+OL,7, in H|he Schwalbach Gefahr durch ein    
+OL,8, totes Tier (Wildschwein) auf der       
+OL,9, Fahrbahn                               
+OL,11,CA8FM}nchen Richtung Stuttgart          
+OL,12, zwischen Ulm-West und Rastplatz        
+OL,13, Kemmental defekter PKW auf dem         
+OL,14, Standstreifen                          
+OL,16,CA81FHeilbronn Richtung W}rzburg        
+OL,17, zwischen Heilbronn/Untergruppenbach und
+OL,18, Weinsberg/Ellhofen Unfallaufnahme auf  
+OL,19, dem linken und dem mittleren           
+OL,20, Fahrstreifen, 4 km Stau, Zeitverlust   
+OL,21, von bis zu 20 Minuten                  
+OL,23,D]GStand:21.11. 12:45   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,51002
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Sa, 21.11.26G12:47:50
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,             Autobahn A8,A81            
+OL,6,CA81FStuttgart Richtung Singen          
+OL,7, zwischen Rottenburg und Empfingen      
+OL,8, Baustelle, 2 km Stau                   
+OL,23,D]GStand:21.11. 12:45   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

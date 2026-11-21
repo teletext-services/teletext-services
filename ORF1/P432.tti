@@ -3,7 +3,7 @@ PN,43201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:15
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                       1/29  
@@ -29,7 +29,7 @@ PN,43202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                       2/29  
@@ -55,7 +55,7 @@ PN,43203
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                       3/29  
@@ -81,7 +81,7 @@ PN,43204
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                       4/29  
@@ -106,7 +106,7 @@ PN,43205
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                       5/29  
@@ -131,7 +131,7 @@ PN,43206
 SC,0006
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                       6/29  
@@ -157,22 +157,27 @@ PN,43207
 SC,0007
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                       7/29  
 OL,4,CBaustellen-Autobahnen (Forts.)         
-OL,6,FA25, Welser-AB:                        
-OL,7,G* FR Wels, zw. Wei~kirchen /           
-OL,8,G  Marchtrenk-Ost u. Wels-Ost /         
-OL,9,G  Marchtrenk-West, Einengung bis       
-OL,10,G  10.09.27                             
-OL,11,G* FR Wels, auf der Abfahrt Wels-Ost /  
-OL,12,G  Marchtrenk-West, Einengung bis       
-OL,13,G  15.03.27                             
-OL,14,G* FR Wels, auf der Nebenabfahrtsrampe  
-OL,15,G  Wels-Ost / Marchtrenk-West, Einengung
-OL,16,G  bis 15.09.27                         
+OL,6,FA23, S}dostt.:                         
+OL,7,G* in beiden FR, Auf- u. Abfahrtsrampe  
+OL,8,G  G}rtel - Landstr. Hauptstr.,         
+OL,9,G  Einengung zw. 22 u. 5 Uhr bis        
+OL,10,G  19.12.26                             
+OL,12,FA25, Welser-AB:                        
+OL,13,G* FR Wels, zw. Wei~kirchen /           
+OL,14,G  Marchtrenk-Ost u. Wels-Ost /         
+OL,15,G  Marchtrenk-West, Einengung bis       
+OL,16,G  10.09.27                             
+OL,17,G* FR Wels, auf der Nebenabfahrtsrampe  
+OL,18,G  Wels-Ost / Marchtrenk-West, Einengung
+OL,19,G  bis 15.09.27                         
+OL,20,G* FR Haid, bei Wei~kirchen /           
+OL,21,G  Marchtrenk-Ost, Einengung bis        
+OL,22,G  24.11.26                             
 OL,23,Q,,,,,,,,,,,,,,,,GARB\-Info-Dienst Wien 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -180,7 +185,7 @@ PN,43208
 SC,0008
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                       8/29  
@@ -205,7 +210,7 @@ PN,43209
 SC,0009
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                       9/29  
@@ -230,7 +235,7 @@ PN,43210
 SC,0010
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      10/29  
@@ -255,7 +260,7 @@ PN,43211
 SC,0011
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      11/29  
@@ -280,7 +285,7 @@ PN,43212
 SC,0012
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      12/29  
@@ -306,7 +311,7 @@ PN,43213
 SC,0013
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:31
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      13/29  
@@ -331,7 +336,7 @@ PN,43214
 SC,0014
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:16
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      14/29  
@@ -355,7 +360,7 @@ PN,43215
 SC,0015
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      15/29  
@@ -381,7 +386,7 @@ PN,43216
 SC,0016
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      16/29  
@@ -404,7 +409,7 @@ PN,43217
 SC,0017
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      17/29  
@@ -429,7 +434,7 @@ PN,43218
 SC,0018
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      18/29  
@@ -455,7 +460,7 @@ PN,43219
 SC,0019
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      19/29  
@@ -482,7 +487,7 @@ PN,43220
 SC,0020
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      20/29  
@@ -508,7 +513,7 @@ PN,43221
 SC,0021
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      21/29  
@@ -534,7 +539,7 @@ PN,43222
 SC,0022
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      22/29  
@@ -559,7 +564,7 @@ PN,43223
 SC,0023
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      23/29  
@@ -584,7 +589,7 @@ PN,43224
 SC,0024
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      24/29  
@@ -609,7 +614,7 @@ PN,43225
 SC,0025
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      25/29  
@@ -634,7 +639,7 @@ PN,43226
 SC,0026
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      26/29  
@@ -658,7 +663,7 @@ PN,43227
 SC,0027
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:17
+OL,0,       G432FORF1   GSa 21.11.26 10:15:32
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      27/29  
@@ -682,7 +687,7 @@ PN,43228
 SC,0028
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:18
+OL,0,       G432FORF1   GSa 21.11.26 10:15:33
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      28/29  
@@ -706,7 +711,7 @@ PN,43229
 SC,0029
 PS,C200
 CT,10,T
-OL,0,       G432FORF1   GSa 21.11.26 00:15:18
+OL,0,       G432FORF1   GSa 21.11.26 10:15:33
 OL,1,A]G                Sperren + Baustellen 
 OL,2,A]GMOTOR  ]A              Stand 21.11. \
 OL,3,Q#########G                      29/29  

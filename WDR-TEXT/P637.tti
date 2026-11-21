@@ -1,13 +1,43 @@
 DE,WDR-TEXT 637
-PN,63700
-SC,0000
-PS,8208
+PN,63701
+SC,0001
+PS,C200
 CT,10,T
-OL,0,     G637 WDR Text GSa 21.11.26 05:32:49
+OL,0,     G637 WDR Text GSa 21.11.26 15:34:39
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: Bundesliga/F     
-OL,5,CE. Frankfurt : Hamburg             -:- 
+OL,5,CE. Frankfurt : Hamburg        2:0 (0:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Raso (81.) 2:0 Doucoure (90.)      
+OL,10,CStrafen:                               
+OL,12,CZuschauer: G2.763                      
+OL,14,CSR: GKaroline Wacker                   
 OL,23,]D600 < ]bersicht      Live-Ticker > 638
-OL,24,A]G- 636B]G+ 638  \                     
+OL,24,A]G- 636B]G+ 638  \               G(1/2)
+FL,636,638,0,0,0,100
+PN,63702
+SC,0002
+PS,C200
+CT,10,T
+OL,0,     G637 WDR Text GSa 21.11.26 15:34:39
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: Bundesliga/F     
+OL,5,CE. Frankfurt : Hamburg        2:0 (0:0)
+OL,7,CAustellungen:                          
+OL,9,CE. Frankfurt                           
+OL,10, Altenburg L}hr~en  stenstad Ilestedt   
+OL,11, Wolter Bennison Ivelj (75. Acikg|z)    
+OL,12, Memeti M}hlhaus (75. Raso)             
+OL,13, Blomqvist (88. Tolhoek) Freigang       
+OL,14,CHamburg                                
+OL,15, Szemik Matysik (53. Martens) B|hler    
+OL,16, Stoldt Doucoure Peneau                 
+OL,17, Machtens (72. Mirzaliyeva)             
+OL,18, Morich (46. Eggert)                    
+OL,19, Bartz (81. Schwalm) Linberg            
+OL,20, Karczewska (81. Brunnthaler)           
+OL,23,]D600 < ]bersicht      Live-Ticker > 638
+OL,24,A]G- 636B]G+ 638  \               G(2/2)
 FL,636,638,0,0,0,100

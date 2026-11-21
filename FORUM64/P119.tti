@@ -3,42 +3,37 @@ PN,11901
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F22:23:23
+OL,0,         GFORUM64   GSa 21 Nov F08:23:54
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EC#64 Emulator + Kickass IDE            
-OL,4,CAntwort:  BMacTee                      
-OL,5,CComments: B17                          
+OL,2,ESoftIEC - das leidige Thema            
+OL,4,CAntwort:  Bradius75                    
+OL,5,CComments: B13                          
 OL,6,F                                       
-OL,7,FEin neues w|chentliches Update:        
-OL,9,FDanke f}r das Feedback. Auf Wunsch hat 
-OL,10,Fdie C #64 Development Suite jetzt einen
-OL,11,FLauncher bekommen. Er dient als        
-OL,12,FStartzentrale f}r alle Dev Suite       
-OL,13,FAnwendungen, kann als router f}r die   
-OL,14,Fverschiedenen C #64 Filetypen genutzt  
-OL,15,Fwerden                                 
-OL,17,CErster Beitrag:                        
-OL,19,GHi,                                    
-OL,21,Gich arbeite seit Mitte '22 an meinem   
-OL,22,Geigenen Emulator in C#. ]ber die Jahre 
-OL,23,Gist einiges dazu gekommen und im       
+OL,7,FDabei sollte man im Hinterkopf         
+OL,8,Fbehalten, dass es zwei Zugriffswege    
+OL,9,Fgibt: }ber Software IEC und direkt }ber
+OL,10,FUCI auf das Dateisystem des Ultimate.  
+OL,11,FDie Dateinamen und Dateitypen, die man 
+OL,12,Fmit LOAD"$",xx sieht, stammen aus dem  
+OL,13,FVerzeichnislisting von                 
+OL,15,CErster Beitrag:                        
+OL,17,GMit der neuen Firmware 1.2.1 soll nun  
+OL,18,Galles anders werden, was das SoftIEC   
+OL,19,Gangeht. Leider scheint das immer noch  
+OL,20,Gnicht das Gelbe vom Ei zu sein. Lasst  
+OL,21,Guns hier Bugs und Probleme sammeln.    
+OL,23,GMich st|rt z.B., dass d64-Dateien immer
 OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,11902
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F22:23:23
+OL,0,         GFORUM64   GSa 21 Nov F08:23:54
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gletzten Jahr hat sich einiges am look  
-OL,4,Gund den features getan.                
-OL,6,GGibt's da jemand den man daf}r         
-OL,7,Gbegeistern kann?                       
-OL,9,G- Der Emulator ist nicht cycle exakt. -
-OL,10,GDisk Dirve ist eine einfache 1541      
-OL,11,GImplementation KEIN Emulation, darum   
-OL,12,Ggibt's keine code execution und keine  
-OL,13,GFastloader (daf}r aber auto boost beim 
-OL,14,Gladen von Disk).                       
+OL,3,Gnoch als SEQ-Dateien im Directory      
+OL,4,Gangezeigt werden, anstatt als          
+OL,5,GPRG-Dateien, wie auf SD2IEC }blich.    
+OL,7,GWas ist euch noch aufgefallen?         
 OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

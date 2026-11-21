@@ -3,29 +3,29 @@ PN,71100
 SC,0000
 PS,8208
 CT,10,T
-OL,0,       G711FNDR TEXT GFr 20.11.B23:42:08
+OL,0,       G711FNDR TEXT GSa 21.11.B09:42:01
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN HAMBURG           
-OL,4,F]T  %D     Abflug       Stand 23:35    
+OL,4,F]T  %D     Abflug       Stand 09:08    
 OL,5,BFLUG    NACH          PLAN ERW. TER/BEM
-OL,6, AF 1611 Paris/CDG     0600      2      
-OL,7,FEW 7536 Malaga        0600      1      
-OL,8, TP  565 Lissabon      0600      2      
-OL,9,FEW 7268 Funchal       0610      1      
-OL,10, KL 1750 Amsterdam     0610      2      
-OL,11,FSK  648 Kopenhagen    0615      2      
-OL,12, LH 2085 M}nchen       0615      2      
-OL,13,FBA  971 London/LHR    0625      2      
-OL,14, EW 7750 Wien          0630      1      
-OL,15,FLH  031 Frankfurt     0630      2      
-OL,16, TK 1668 Istanbul      0635      1      
-OL,17,FEW 7526 Fuerte.       0650      1      
-OL,18, IB  778 Madrid        0650      2      
-OL,19,FDE 4031 Frankfurt     0700      1      
-OL,20, DE 1518 Gran Canaria  0700      1      
-OL,21,FEW 7760 Z}rich        0705      1      
-OL,22, SN 2630 Br}ssel       0715      2      
+OL,6, W6 4126 Belgrad       0840      1 Start
+OL,7,FEJU3944 Mailand/MXP   0850      1 Start
+OL,8, LH  005 Frankfurt     0900      2 Start
+OL,9,FDI 6440 Fuerte.       0905      1 Start
+OL,10, DE  508 Agadir        0905      1 Start
+OL,11,FLH 2055 M}nchen       0905      2 Start
+OL,12, FR 5044 Dublin        0915      2      
+OL,13,FW6 7608 Podgorica     0925      1  *   
+OL,14, LX 1051 Z}rich        0940      2      
+OL,15,FOS  252 Wien          0945      2      
+OL,16, SK  646 Kopenhagen    0950      2      
+OL,17,FLH  007 Frankfurt     1000 1010 2      
+OL,18, FR 2049 Mallorca      1020      2      
+OL,19,FTK 1662 Istanbul      1040      1      
+OL,20, W6 4520 Varna         1040      1      
+OL,21,FBA  963 London/LHR    1045      2      
+OL,22, EW 7266 Gran Canaria  1050      1      
 OL,23,A]G700<   * = zum Einsteigen WEITER >712
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

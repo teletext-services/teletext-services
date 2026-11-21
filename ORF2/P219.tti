@@ -3,24 +3,25 @@ PN,21901
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G219FORF2   GSa 21.11.26 00:24:48
+OL,0,       G219FORF2   GSa 21.11.26 10:25:03
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A      Frankreich, 11.Runde \
 OL,3,Q#########G                        1/2  
-OL,4,CFreitag                                
-OL,5,FTroyes        - Le Havre     F3:1 (1:1)
-OL,6, Mille 19.,69., Ripart 98./E; Maja 3.   
-OL,7, Rot: Koffi 89./L                       
-OL,9,CSamstag                                
-OL,10,GNizza         - Paris SG     G17.15h   
-OL,11,GLens          - Toulouse     G20.45h   
-OL,12,GLille         - Lyon         G20.45h   
-OL,13,GMonaco        - Auxerre      G20.45h   
-OL,14,GStrasbourg    - Brest        G20.45h   
-OL,16,CSonntag                                
-OL,17,GParis FC      - Angers       G15.00h   
-OL,18,GLorient       - Rennes       G17.15h   
-OL,19,GMarseille     - Le Mans      G20.45h   
+OL,4,CSamstag, 17.15h                        
+OL,5,FNizza         - Paris SG     F-:- (-:-)
+OL,6,C20.45h                                 
+OL,7,FLens          - Toulouse     F-:- (-:-)
+OL,8,FLille         - Lyon         F-:- (-:-)
+OL,9,FMonaco        - Auxerre      F-:- (-:-)
+OL,10,FStrasbourg    - Brest        F-:- (-:-)
+OL,12,CSonntag                                
+OL,13,GParis FC      - Angers       G15.00h   
+OL,14,GLorient       - Rennes       G17.15h   
+OL,15,GMarseille     - Le Mans      G20.45h   
+OL,17,CFreitag                                
+OL,18,FTroyes        - Le Havre     F3:1 (1:1)
+OL,19, Mille 19.,69., Ripart 98./E; Maja 3.   
+OL,20, Rot: Koffi 89./L                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -28,7 +29,7 @@ PN,21902
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G219FORF2   GSa 21.11.26 00:24:48
+OL,0,       G219FORF2   GSa 21.11.26 10:25:03
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A      AFrankreich, Tabelle \
 OL,3,Q#########G                        2/2  

@@ -3,29 +3,29 @@ PN,73300
 SC,0000
 PS,8208
 CT,10,T
-OL,0,       G733FNDR TEXT GFr 20.11.B23:41:56
+OL,0,       G733FNDR TEXT GSa 21.11.B09:42:13
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN BREMEN            
-OL,4,F]T  %D     Ankunft      Stand 23:14    
+OL,4,F]T  %D     Ankunft      Stand 09:10    
 OL,5,BFLUG    VON           PLAN ERW. TER/BEM
-OL,6, KL 1767 AMSTERDAM     2200 2153 Gelan  
-OL,7,FLH 2118 MUENCHEN      2300 2301 Gelan  
-OL,8,C        -- Am 21.11.2026 --            
-OL,9,FLH 2108 MUENCHEN      0900             
-OL,10, FR 3675 LONDON-STN    0915             
-OL,11,FPC 1031 ISTANBUL-SAW  0940             
-OL,12, TK 1331 ISTANBUL      0950             
-OL,13,FKL 1761 AMSTERDAM     1020             
-OL,14, LH 2110 MUENCHEN      1230             
-OL,15,FFR 3680 LONDON-STN    1405             
-OL,16, FR 3783 MALLORCA      1415             
-OL,17,FFR 3634 LONDON-STN    1630             
-OL,18, LH 2112 MUENCHEN      1705             
-OL,19,FKL 1765 AMSTERDAM     1800             
-OL,20, SR 3269 FUERTEVENTUR  1930             
-OL,21,C        -- Am 22.11.2026 --            
-OL,22, FR 3634 LONDON-STN    0815             
+OL,6, LH 2108 MUENCHEN      0900 0851 Gelan  
+OL,7,FFR 3675 LONDON-STN    0915 0901 Gelan  
+OL,8, PC 1031 ISTANBUL-SAW  0940 1030 Versp  
+OL,9,FTK 1331 ISTANBUL      0950 0935        
+OL,10, KL 1761 AMSTERDAM     1020             
+OL,11,FLH 2110 MUENCHEN      1230             
+OL,12, FR 3680 LONDON-STN    1405             
+OL,13,FFR 3783 MALLORCA      1415             
+OL,14, FR 3634 LONDON-STN    1630             
+OL,15,FLH 2112 MUENCHEN      1705             
+OL,16, KL 1765 AMSTERDAM     1800             
+OL,17,FSR 3269 FUERTEVENTUR  1930             
+OL,18,C        -- Am 22.11.2026 --            
+OL,19,FFR 3634 LONDON-STN    0815             
+OL,20, FR 225  LAMEZIA TERM  0900             
+OL,21,FLH 2108 MUENCHEN      0900             
+OL,22, XQ 218  ANTALYA       0915             
 OL,23,A]G700<                      WEITER >734
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

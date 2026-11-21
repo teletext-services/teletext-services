@@ -1,9 +1,9 @@
 DE,SWR-RP 373
-PN,37300
-SC,0000
-PS,8208
+PN,37301
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G03:09:12
+OL,0,       BSWR RLPC   Sa, 21.11.26G13:09:17
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5GRLP  
 OL,3,Q#########"######################"######
@@ -25,5 +25,33 @@ OL,19, Schweix (Landkreis S}dwestpfalz),
 OL,20, Ringstra~e                             
 OL,21,FSamstag, 21.11.2026                    
 OL,22, B}chel (Eifel), Schulstra~e            
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,37302
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       BSWR RLPC   Sa, 21.11.26G13:09:17
+OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,A]GSWR >>P5GFERNSEHEN           P5GRLP  
+OL,3,Q#########"######################"######
+OL,4,CLandesschau Rheinland-Pfalz            
+OL,5,FHIERZULAND                             
+OL,7,FMontag, 23.11.2026                     
+OL,8, Farschweiler (Landkreis Trier-         
+OL,9, Saalbach), Kuhbach                     
+OL,10,FDienstag, 24.11.2026                   
+OL,11, Wallmenroth (Landkreis                 
+OL,12, Altenkirchen/Westerwald), K 106        
+OL,13,FMittwoch, 25.11.2026                   
+OL,14, Lautert (Rhein-Lahn-Kreis), Hauptstra~e
+OL,15,FDonnerstag, 26.11.2026                 
+OL,16, Mehren (Vulkaneifel), Ortsdurchfahrt   
+OL,17,FFreitag, 27.11.2026                    
+OL,18, Wallmerod (Westerwaldkreis), Konrad-   
+OL,19, Adenauer-Stra~e                        
+OL,20,FSamstag, 28.11.2026                    
+OL,21, Vendersheim (Landkreis Alzey-Worms), Am
+OL,22, Hasensprung                            
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

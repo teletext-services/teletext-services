@@ -3,7 +3,7 @@ PN,60701
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G607FORF IIIGSa 21.11.26 00:41:01
+OL,0,       G607FORF IIIGSa 21.11.26 10:41:38
 OL,1,A]G                               Tirol 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       1/5  
@@ -32,23 +32,23 @@ PN,60702
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G607FORF IIIGSa 21.11.26 00:41:01
+OL,0,       G607FORF IIIGSa 21.11.26 10:41:38
 OL,1,A]G                               Tirol 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       2/5  
-OL,4,FAchenkirch    C00hG       wolkigF  3,7`
-OL,5, GN    1-9 km/h 1012hPa  0,0mm/2h  92%LF
-OL,7,FBrenner       C00hG    wolkenlosF  0,4`
-OL,8, GSO   1-8 km/h 1010hPa  0,0mm/2h  91%LF
-OL,10,FGalzig        C00hG   SchneefallF -3,2`
-OL,11, GW  31-44 km/h 785hPa   0,6mm/2h  99%LF
-OL,13,FHahnenkamm/Ki.C00hGstark bew|lktF  0,3`
-OL,14, GW  13-31 km/h 816hPa             65%LF
-OL,16,FHintertux/Zil.C00hGstark bew|lktF  2,6`
-OL,17, GSW  5-10 km/h          0,0mm/2h  64%LF
-OL,19,FHochfilzen    C00hGstark bew|lktF  2,4`
-OL,20, G-        km/h 1013hPa  0,0mm/2h  93%LF
-OL,21,F              Geosphere Austria  00:00h
+OL,4,FAchenkirch    C10hG      l.RegenF  2,9`
+OL,5, GNW   5-9 km/h 1020hPa  0,6mm/2h  93%LF
+OL,7,FBrenner       C10hGl.SchneeregenF  1,8`
+OL,8, GSO   3-9 km/h 1014hPa  0,0mm/2h  83%LF
+OL,10,FGalzig        C10hG l.SchneefallF -3,4`
+OL,11, GW  37-56 km/h 788hPa   0,6mm/2h 100%LF
+OL,13,FHahnenkamm/Ki.C10hG   SchneefallF -2,5`
+OL,14, GW  10-21 km/h 821hPa             91%LF
+OL,16,FHintertux/Zil.C10hG l.SchneefallF  0,1`
+OL,17, G-      6 km/h          0,1mm/2h  94%LF
+OL,19,FHochfilzen    C10hGl.SchneeregenF  2,1`
+OL,20, G-        km/h 1020hPa  1,3mm/2h  95%LF
+OL,21,F              Geosphere Austria  10:00h
 OL,22,@                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
@@ -57,23 +57,23 @@ PN,60703
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G607FORF IIIGSa 21.11.26 00:41:01
+OL,0,       G607FORF IIIGSa 21.11.26 10:41:39
 OL,1,A]G                               Tirol 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       3/5  
-OL,4,FInnsbruck     C00hG      l.RegenF  5,7`
-OL,5, GO    2-9 km/h 1009hPa  0,0mm/2h  80%LF
-OL,7,FJenbach       C00hGstark bew|lktF  4,8`
-OL,8, GN    2-4 km/h 1013hPa  0,0mm/2h  93%LF
-OL,10,FKals/Gro~gl.  C00hGstark bew|lktF  1,1`
-OL,11, GO   5-12 km/h 1013hPa  0,0mm/2h  75%LF
-OL,13,FKitzb}hel     C00hGstark bew|lktF  2,5`
-OL,14, GS   7-13 km/h 1014hPa  0,0mm/2h  90%LF
-OL,16,FKufstein      C00hGstark bew|lktF  4,9`
-OL,17, GSW  9-16 km/h 1012hPa  0,1mm/2h  96%LF
-OL,19,FLandeck       C00hG  l.Regensch.F  6,0`
-OL,20, GS  15-24 km/h 1013hPa  0,0mm/2h  76%LF
-OL,21,F              Geosphere Austria  00:00h
+OL,4,FInnsbruck     C10hG      l.RegenF  6,3`
+OL,5, GNO  5-13 km/h 1016hPa  0,6mm/2h  86%LF
+OL,7,FJenbach       C10hG      l.RegenF  6,8`
+OL,8, GO  12-23 km/h 1019hPa  0,0mm/2h  86%LF
+OL,10,FKals/Gro~gl.  C10hG      l.RegenF  4,3`
+OL,11, GSO  4-11 km/h 1017hPa  0,0mm/2h  54%LF
+OL,13,FKitzb}hel     C10hG      l.RegenF  4,7`
+OL,14, GNW   4-8 km/h 1020hPa  0,3mm/2h  91%LF
+OL,16,FKufstein      C10hG      l.RegenF  6,2`
+OL,17, GNO   4-6 km/h 1020hPa  0,8mm/2h  91%LF
+OL,19,FLandeck       C10hG      l.RegenF  5,4`
+OL,20, GS  10-19 km/h 1018hPa  0,1mm/2h  87%LF
+OL,21,F              Geosphere Austria  10:00h
 OL,22,@                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
@@ -82,23 +82,23 @@ PN,60704
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G607FORF IIIGSa 21.11.26 00:41:01
+OL,0,       G607FORF IIIGSa 21.11.26 10:41:39
 OL,1,A]G                               Tirol 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       4/5  
-OL,4,FLienz         C00hG    wolkenlosF -0,9`
-OL,5, GNW   3-5 km/h 1014hPa  0,0mm/2h  96%LF
-OL,7,FMayrhofen     C00hGstark bew|lktF  4,5`
-OL,8, GSW     8 km/h 1012hPa  0,0mm/2h  86%LF
-OL,10,FNauders       C00hGl.SchneeregenF  1,0`
-OL,11, GSO   3-6 km/h 1014hPa  0,0mm/2h  86%LF
-OL,13,FNeustift      C00hGstark bew|lktF  3,8`
-OL,14, GSW  4-11 km/h          0,0mm/2h  79%LF
-OL,16,FObergurgl     C00hGstark bew|lktF -1,0`
-OL,17, GO   4-21 km/h 799hPa   0,0mm/2h  70%LF
-OL,19,FPatscherkofel C00hGstark bew|lktF -3,3`
-OL,20, GNW 14-20 km/h 768hPa   0,0mm/2h  80%LF
-OL,21,F              Geosphere Austria  00:00h
+OL,4,FLienz         C10hG    wolkenlosF  4,7`
+OL,5, GW   7-13 km/h 1017hPa  0,0mm/2h  76%LF
+OL,7,FMayrhofen     C10hG      l.RegenF  5,5`
+OL,8, GNW   1-3 km/h 1019hPa  0,2mm/2h  93%LF
+OL,10,FNauders       C10hGl.SchneeregenF  2,1`
+OL,11, GSO   1-5 km/h 1018hPa  0,1mm/2h  93%LF
+OL,13,FNeustift      C10hG      l.RegenF  3,5`
+OL,14, GW    4-7 km/h          0,2mm/2h  93%LF
+OL,16,FObergurgl     C10hG l.SchneefallF -1,1`
+OL,17, GW    2-5 km/h 803hPa   0,2mm/2h  83%LF
+OL,19,FPatscherkofel C10hG l.SchneefallF -4,5`
+OL,20, GNW 27-34 km/h 772hPa   0,0mm/2h  94%LF
+OL,21,F              Geosphere Austria  10:00h
 OL,22,@                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
@@ -107,23 +107,23 @@ PN,60705
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       G607FORF IIIGSa 21.11.26 00:41:01
+OL,0,       G607FORF IIIGSa 21.11.26 10:41:39
 OL,1,A]G                               Tirol 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       5/5  
-OL,4,FReutte        C00hG      l.RegenF  4,4`
-OL,5, GN    3-8 km/h 1013hPa  0,9mm/2h  96%LF
-OL,7,FSchmirn       C00hG       heiterF  0,0`
-OL,8, GSO  6-10 km/h 1014hPa  0,0mm/2h  83%LF
-OL,10,FSeefeld       C00hG      l.RegenF  2,9`
-OL,11, GN    1-9 km/h 1013hPa  0,1mm/2h  83%LF
-OL,13,FSillian       C00hG       heiterF -0,6`
-OL,14, GW   8-15 km/h 1015hPa  0,0mm/2h  91%LF
-OL,16,FSt. Anton     C00hG      l.RegenF  2,4`
-OL,17, GSW  6-14 km/h 1015hPa  0,3mm/2h  85%LF
-OL,19,FVirgen        C00hG       wolkigF  1,5`
-OL,20, GNW   3-6 km/h 1016hPa  0,0mm/2h  79%LF
-OL,21,F              Geosphere Austria  00:00h
+OL,4,FReutte        C10hG      l.RegenF  3,8`
+OL,5, GSW   6-8 km/h 1021hPa  0,2mm/2h  98%LF
+OL,7,FSchmirn       C10hG   SchneefallF  0,8`
+OL,8, GW    3-8 km/h 1019hPa  0,1mm/2h  88%LF
+OL,10,FSeefeld       C10hGl.SchneeregenF  2,8`
+OL,11, GN   4-11 km/h 1019hPa  0,1mm/2h  85%LF
+OL,13,FSillian       C10hG    wolkenlosF  1,6`
+OL,14, GSW   1-8 km/h 1018hPa  0,0mm/2h  82%LF
+OL,16,FSt. Anton     C10hG      l.RegenF  2,9`
+OL,17, GSW 10-21 km/h 1020hPa  0,7mm/2h  81%LF
+OL,19,FVirgen        C10hG      l.RegenF  5,2`
+OL,20, GSW  4-10 km/h 1019hPa  0,0mm/2h  79%LF
+OL,21,F              Geosphere Austria  10:00h
 OL,22,@                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter

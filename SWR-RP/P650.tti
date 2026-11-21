@@ -1,66 +1,18 @@
 DE,SWR-RP 650
-PN,65001
-SC,0001
-PS,C200
+PN,65000
+SC,0000
+PS,8208
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G03:18:13
+OL,0,       BSWR RLPC   Sa, 21.11.26G13:18:48
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,10,FWARNUNG vor FROST                      
-OL,11, G}ltig: Sa 00:00 bis Sa 09:00          
-OL,13,FBad Kreuznach, Alzey-Worms             
+OL,11, G}ltig: Sa 22:00 bis So 09:00          
+OL,13,FBad Kreuznach, Stadt Worms, Alzey-Worms
 OL,14,FMainz-Bingen und Stadt Mainz           
 OL,16, Es tritt leichter Frost zwischen 0 `C  
 OL,17, und -3 `C auf.                         
-OL,23,D]GQuelle:DWD  Stand:19:13  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,65002
-SC,0002
-PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G03:18:13
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,10,CWARNUNG vor MARKANTER GL[TTE           
-OL,11, G}ltig: Sa 00:00 bis Sa 09:00          
-OL,13,FBad Kreuznach                          
-OL,14,FMainz-Bingen und Stadt Mainz           
-OL,16, Es besteht erh|hte Gl{ttegefahr durch  
-OL,17, gefrierende N{sse.                     
-OL,23,D]GQuelle:DWD  Stand:19:13  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,65003
-SC,0003
-PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G03:18:13
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,11,FWARNUNG vor GL[TTE                     
-OL,12, G}ltig: Sa 02:00 bis Sa 09:00          
-OL,14,FStadt Worms, Alzey-Worms               
-OL,16, Es besteht Gl{ttegefahr.               
-OL,23,D]GQuelle:DWD  Stand:19:13  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,65004
-SC,0004
-PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G03:18:13
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,10,CWARNUNG vor MARKANTER GL[TTE           
-OL,11, G}ltig: Sa 03:00 bis Sa 09:00          
-OL,13,FAlzey-Worms                            
-OL,15, Es besteht erh|hte Gl{ttegefahr durch  
-OL,16, gefrierende N{sse.                     
-OL,23,D]GQuelle:DWD  Stand:19:13  Hinweise 654
+OL,23,D]GQuelle:DWD  Stand:12:34  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

@@ -1,31 +1,61 @@
 DE,DR-TEKST-TV 602
-PN,60200
-SC,0000
-PS,8108
+PN,60201
+SC,0001
+PS,C100
 CT,10,T
-OL,0,       GDR   S602  fre 20 nov   20:10:07
+OL,0,       GDR   S602  lor 21 nov   05:11:14
 OL,1,T################]GSENDER P] FM   
-OL,2,D]GP2  \FREDAG 20.NOV D]GKL.18-06 SEC638
+OL,2,D]GP2  \LORDAG 21.NOV D]GKL.18-06 SEC638
 OL,3,T#######################################
-OL,4,    F19:00GUgens album 2:2A>            
-OL,5,    F     GP.E. Lange-M^ller            
-OL,6,    F     GThe Song Edition             
-OL,7,    F     G                             
-OL,8,C619F19:20GP2 Koncerten:                
-OL,9,    F     GDet store larreds legende    
-OL,10,    F     Gfilmkomponisten              
-OL,11,    F     GEnnio Morricone              
-OL,12,    F     G                             
-OL,13,    F22:00GNatsvarmeren: AdvarselA>     
-OL,14,    F00:03GP2 KlassiskA>                
+OL,4,    F05:00GRadioavisenA>                
+OL,5,    F     G                             
+OL,6,    F05:03GP2 KlassiskA>                
+OL,7,    F07:03GKlassisk weekendA>           
+OL,8,    F     G                             
+OL,9,C622F08:05GMorgenandagtenA>             
+OL,10,    F08:30GKlassisk weekendA>           
+OL,11,    F     G                             
+OL,12,    F10:03GPladeklubbenA>               
+OL,13,    F     GJura af Mikalojus            
+OL,14,    F     GKonstantinas Ciurlionis      
 OL,15,    F     G                             
-OL,16,    F01:03GKlassisk MixA>               
-OL,17,    F03:03GNatsvarmeren: Sange!A>       
+OL,16,    F     G                             
+OL,17,    F     G                             
 OL,18,    F     G                             
 OL,19,    F     G                             
 OL,20,    F     G                             
 OL,21,    F     G                             
 OL,22,    F     G                             
-OL,23, ]A600@RADIO     P5A639@NETRADIO        
+OL,23, ]A600@RADIO     P5A639@NETRADIO    1/3 
+OL,24,  ANyheder    BSport    CTV    FVejret  
+FL,110,200,300,400,0,100
+PN,60202
+SC,0002
+PS,C100
+CT,10,T
+OL,0,       GDR   S602  lor 21 nov   05:10:44
+OL,1,T################]GSENDER P] FM   
+OL,2,D]GP2  \LORDAG 21.NOV D]GKL.18-06 SEC638
+OL,3,T#######################################
+OL,4,C623F19:20GP2 Operaaften:               
+OL,5,    F     GFalstaff af Verdi            
+OL,6,    F     G                             
+OL,7,    F22:00GNatsvarmeren: Sange!A>       
+OL,8,    F     G                             
+OL,9,    F00:03GP2 Koncerten:                
+OL,10,    F     GTektonisk kraft og           
+OL,11,    F     Gnattergalesang -             
+OL,12,    F     Gikoniske orkestervarker      
+OL,13,    F     G                             
+OL,14,    F02:45GIntermezzoA>                 
+OL,15,    F03:03GNatsvarmeren: Ro p}A>        
+OL,16,    F     G                             
+OL,17,    F     G                             
+OL,18,    F     G                             
+OL,19,    F     G                             
+OL,20,    F     G                             
+OL,21,    F     G                             
+OL,22,    F     G                             
+OL,23, ]A600@RADIO     P5A639@NETRADIO    3/3 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100

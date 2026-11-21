@@ -1,23 +1,40 @@
 DE,SWR-RP 513
-PN,51300
-SC,0000
-PS,8208
+PN,51301
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G03:13:54
+OL,0,       BSWR RLPC   Sa, 21.11.26G13:14:36
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
 OL,4,         Land- und Kreisstra~en         
-OL,6,CK2308, K2536GHohenlohekreis und Kreis  
-OL,7, Schw{bisch Hall: Die Kreisstra~e ist   
-OL,8, zwischen Zaisenhausen und Ettenhausen  
-OL,9, wegen Reparaturarbeiten in beiden      
-OL,10, Richtungen bis auf weiteres gesperrt.  
-OL,12,CL323GKreis Sankt Wendel: Die           
-OL,13, Landesstra~e ist zwischen Theley und   
-OL,14, Leitzweiler in beiden Richtungen nach  
-OL,15, einem Unfall f}r den Durchgangsverkehr 
-OL,16, gesperrt.                              
-OL,23,D]GStand:21.11. 03:12   ]bersicht 501 >>
+OL,6,CK2542GIm Kreis Schw{bisch Hall, ist    
+OL,7, die Kreisstra~e zwischen Ruppertshofen 
+OL,8, und H|rlebacher Stra~e wegen           
+OL,9, Bergungsarbeiten gesperrt. Wer sich    
+OL,10, auskennt, sollte das Gebiet meiden!    
+OL,12,CL600AFSpeyerer Stra~e,                 
+OL,13,FHeidelberg-Kirchheim Richtung          
+OL,14,FHeidelberg                             
+OL,15, in H|he Abzweig nach                   
+OL,16, Heidelberg-Kirchheim Unfallaufnahme,   
+OL,17, gesperrt, eine |rtliche Umleitung ist  
+OL,18, eingerichtet                           
+OL,23,D]GStand:21.11. 13:12   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,51302
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       BSWR RLPC   Sa, 21.11.26G13:14:36
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,         Land- und Kreisstra~en         
+OL,6,CL608GIm Kreis Karlsruhe, ist die       
+OL,7, Landesstra~e zwischen Malsch und dem   
+OL,8, Abzweig nach V|lkersbach gesperrt      
+OL,23,D]GStand:21.11. 13:12   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

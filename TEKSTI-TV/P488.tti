@@ -3,8 +3,8 @@ PN,48801
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 21.03.03:42:28
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      1/7  
+OL,0,       G488 YLE TEKSTI-TV 21.03.13:43:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      1/9  
 OL,2,K                                       
 OL,3,CTULOSVETO                              
 OL,4,G14 Carolina - Montreal       1-1  42,84
@@ -33,8 +33,8 @@ PN,48802
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 21.03.03:42:28
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      2/7  
+OL,0,       G488 YLE TEKSTI-TV 21.03.13:43:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      2/9  
 OL,2,K                                       
 OL,3,CTULOSVETO                              
 OL,4,G12 Ilves - Tappara           6-2  37,49
@@ -42,18 +42,18 @@ OL,5,G17 Molde - Bod|/Glimt        2-4  27,11
 OL,6,G18 Zug - Servette            7-1 200,75
 OL,7,G19 Bayer.M nch - FC K|ln     1-1  36,26
 OL,8,G20 Athletic - Espanyol       0-1  16,61
-OL,9,K                                       
-OL,10,CMONIVETO                               
-OL,11,G11 Colorado - Anaheim        4-0       
-OL,12,G   Vegas - Dallas            3-3       
-OL,13,G   1. voittoluokka             1 060,30
-OL,14,K                                       
-OL,15,G 1 Ilves - Tappara           6-2       
-OL,16,G   HPK - Jokerit             2-1       
-OL,17,G   JYP - HIFK                2-2       
-OL,18,G   SaiPa - TPS               7-2       
-OL,19,G   2. voittoluokka             9 203,97
-OL,20,K                                       
+OL,9,G21 DET Pisto - TOR Rapto 102-105 1070,3
+OL,10,K                                       
+OL,11,CMONIVETO                               
+OL,12,G11 Colorado - Anaheim        4-0       
+OL,13,G   Vegas - Dallas            3-3       
+OL,14,G   1. voittoluokka             1 060,30
+OL,15,K                                       
+OL,16,G 1 Ilves - Tappara           6-2       
+OL,17,G   HPK - Jokerit             2-1       
+OL,18,G   JYP - HIFK                2-2       
+OL,19,G   SaiPa - TPS               7-2       
+OL,20,G   2. voittoluokka             9 203,97
 OL,21,K                                       
 OL,22,K                                       
 OL,23,K                                       
@@ -63,8 +63,8 @@ PN,48803
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 21.03.03:42:28
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      3/7  
+OL,0,       G488 YLE TEKSTI-TV 21.03.13:43:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      3/9  
 OL,2,K                                       
 OL,3,CMONIVETO                               
 OL,4,G 2 Bayer.M nch - FC K|ln     1-1       
@@ -72,9 +72,9 @@ OL,5,G   Athletic - Espanyol       0-1
 OL,6,G   Troyes - Le Havre         3-1       
 OL,7,G   1. voittoluokka            14 062,73
 OL,8,K                                       
-OL,9,K                                       
-OL,10,K                                       
-OL,11,K                                       
+OL,9,G 3 LA Lakers - SAC Kings 106-104       
+OL,10,G   DEN Nugge - HOU Rocke 133-124       
+OL,11,B Ei osumia, jakosumma jaetaan my|hemmin
 OL,12,K                                       
 OL,13,K                                       
 OL,14,K                                       
@@ -93,22 +93,22 @@ PN,48804
 SC,0004
 PS,C100
 CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 21.03.03:42:28
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      4/7  
+OL,0,       G488 YLE TEKSTI-TV 21.03.13:43:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      4/9  
 OL,2,K                                       
 OL,3,CVeikkaus.fi:st{ voit hakea pelien      
 OL,4,Ctulokset helposti ja nopeasti.         
 OL,5,K                                       
-OL,6,CP[IV[N TRIO                            
-OL,7,G 1 Puoliaika/lopputulos                
-OL,8,G   A: Troyes - Le Havre                
-OL,9,G   B: Barnsley - Sheffield W           
-OL,10,G   C: Athletic - Espanyol              
-OL,11,G   A: 4 X/1                      379.89
-OL,12,G   B: 9 2/2                            
-OL,13,G   C: 6 X/2                            
-OL,14,G   Poissa: -                           
-OL,15,K                                       
+OL,6,CVOITTAJAVETO                           
+OL,7,G 2 F1, aika-ajot, Las Vegas            
+OL,8,G   F1, aika-ajot, Las Vegas            
+OL,9,G   1 Antonelli Kimi                5.08
+OL,10,G   Poissa: -                           
+OL,11,K                                       
+OL,12,G 3 F1, aika-ajot, Las Vegas, Valtteri B
+OL,13,G   F1, aika-ajot, Las Vegas            
+OL,14,G   12 Muu tulos                    1.38
+OL,15,G   Poissa: -                           
 OL,16,K                                       
 OL,17,K                                       
 OL,18,K                                       
@@ -123,8 +123,38 @@ PN,48805
 SC,0005
 PS,C100
 CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 21.03.03:42:28
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      5/7  
+OL,0,       G488 YLE TEKSTI-TV 21.03.13:43:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      5/9  
+OL,2,K                                       
+OL,3,CP[IV[N TRIO                            
+OL,4,G 1 Puoliaika/lopputulos                
+OL,5,G   A: Troyes - Le Havre                
+OL,6,G   B: Barnsley - Sheffield W           
+OL,7,G   C: Athletic - Espanyol              
+OL,8,G   A: 4 X/1                      379.89
+OL,9,G   B: 9 2/2                            
+OL,10,G   C: 6 X/2                            
+OL,11,G   Poissa: -                           
+OL,12,K                                       
+OL,13,G 3 F1, aika-ajot, Las Vegas            
+OL,14,G   A: Ryhm{n paras                     
+OL,15,G   B: Ryhm{n paras                     
+OL,16,G   C: Ryhm{n paras                     
+OL,17,G   A: 1 Antonelli Kimi            21.92
+OL,18,G   B: 2 Norris Lando                   
+OL,19,G   C: 1 Lindblad Arvid                 
+OL,20,G   Poissa: -                           
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48806
+SC,0006
+PS,C100
+CT,10,T
+OL,0,       G488 YLE TEKSTI-TV 21.03.13:43:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      6/9  
 OL,2,K                                       
 OL,3,CP[IV[N TRIO                            
 OL,4,G 3 Puoliaika/lopputulos                
@@ -149,12 +179,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,48806
-SC,0006
+PN,48807
+SC,0007
 PS,C100
 CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 21.03.03:42:28
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      6/7  
+OL,0,       G488 YLE TEKSTI-TV 21.03.13:43:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      7/9  
 OL,2,K                                       
 OL,3,CP[IV[N TRIO                            
 OL,4,G 2 Otteluiden maalim{{r{t              
@@ -179,12 +209,42 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,48807
-SC,0007
+PN,48808
+SC,0008
 PS,C100
 CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 21.03.03:42:28
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      7/7  
+OL,0,       G488 YLE TEKSTI-TV 21.03.13:43:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      8/9  
+OL,2,K                                       
+OL,3,CSUPERTRIPLA                            
+OL,4,G 4 F1, aika-ajot, Las Vegas            
+OL,5,G   1: Voittaja                         
+OL,6,G   2: 2. sija                          
+OL,7,G   3: 3. sija                          
+OL,8,G   1: 1 Antonelli KimiI           26.09
+OL,9,G   2: 2 Verstappen MaxI                
+OL,10,G   3: 3 Russell GeorgeI                
+OL,11,G   Poissa: -                           
+OL,12,K                                       
+OL,13,G 7 F1, aika-ajot, Las Vegas, ilman k{rk
+OL,14,G   1: Voittaja                         
+OL,15,G   2: 2. sija                          
+OL,16,G   3: 3. sija                          
+OL,17,G   1: 2 Lindblad ArvidI           37.06
+OL,18,G   2: 1 Lawson LiamI                   
+OL,19,G   3: 3 Gasly PierreI                  
+OL,20,G   Poissa: -                           
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48809
+SC,0009
+PS,C100
+CT,10,T
+OL,0,       G488 YLE TEKSTI-TV 21.03.13:43:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      9/9  
 OL,2,K                                       
 OL,3,CSUPERTRIPLA                            
 OL,4,G 4 F1, harjoitus 2, Las Vegas          

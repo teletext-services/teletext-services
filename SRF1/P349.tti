@@ -3,20 +3,20 @@ PN,34901
 SC,0001
 PS,C200
 CT,8,T
-OL,0,       G349  SRF 1     21.11.26 01:45:47
-OL,1,C]@SPORT            G]@20.11.26 17:19G  
+OL,0,       G349  SRF 1     21.11.26 11:45:42
+OL,1,C]@SPORT            G]@21.11.26 11:16G  
 OL,3,    CMOTO3        MOTO2      MotoGP 1/2 
 OL,4,C   FAlmansa     GGonzalez   FBezzecchi 
 OL,5,C   FQuiles      GHolgado    FBezzecchi 
-OL,6,C   FPini        GAgius      FBezzecchi 
-OL,7,C   FQuiles      GAgius      FA.Marquez 
-OL,8,C   FQuiles      GI.Guevara  FMartin    
+OL,6,CAMEFPini        GAgius      FBezzecchi 
+OL,7,CESPFQuiles      GAgius      FA.Marquez 
+OL,8,CFRAFQuiles      GI.Guevara  FMartin    
 OL,9,C   FQuiles      GGonzalez   FDi Giannan
 OL,10,C   FUriarte     GGonzalez   FBezzecchi 
 OL,11,C   FQuiles      GGonzalez   FM.Marquez 
 OL,12,C   FDanish      GOrtola     FM.Marquez 
-OL,13,C   FQuiles      GAlonso     FOgura     
-OL,14,C   FUriarte     GOrtola     FM.Marquez 
+OL,13,CNEDFQuiles      GAlonso     FOgura     
+OL,14,CGERFUriarte     GOrtola     FM.Marquez 
 OL,15,CGBRFAlmansa     GSalac      FR.Fernande
 OL,16,CARAFQuiles      GLopez      FM.Marquez 
 OL,17,CSMRFQuiles      GGonzalez   FM.Marquez 
@@ -29,12 +29,12 @@ PN,34902
 SC,0002
 PS,C200
 CT,8,T
-OL,0,       G349  SRF 1     21.11.26 01:45:47
-OL,1,C]@SPORT            G]@20.11.26 17:19G  
+OL,0,       G349  SRF 1     21.11.26 11:45:42
+OL,1,C]@SPORT            G]@21.11.26 10:31G  
 OL,3,    CMOTO3        MOTO2      MotoGP 2/2 
-OL,4,CMASFQuiles      GAlonso     FM.Marquez 
-OL,5,CQATFAlmansa     GHolgado    FBezzecchi 
-OL,6,C22.11.FPOR      GPortimao              
-OL,7,C29.11.FVAL      GValencia              
+OL,4,C   FQuiles      GAlonso     FM.Marquez 
+OL,5,C   FAlmansa     GHolgado    FBezzecchi 
+OL,6,C22.11.F         GPortimao              
+OL,7,C29.11.F         GValencia              
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

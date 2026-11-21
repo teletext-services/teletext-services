@@ -3,7 +3,7 @@ PN,39701
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G397FORF1   GSa 21.11.26 00:14:07
+OL,0,       G397FORF1   GSa 21.11.26 10:14:27
 OL,1,A]G                       Radio K{rnten 
 OL,2,A]GRADIO  ]A                  Programm \
 OL,3,Q#########G                        1/3  
@@ -19,8 +19,8 @@ OL,12,F11:00 Radio K{rnten zur Mittagszeit
 OL,13,F      (11:00 Nachrichten; 11:30        
 OL,14,F      K{rnten aktuell; 12:00           
 OL,15,F      Mittagsglocken aus der           
-OL,16,F      evangelischen Pfarrkirche        
-OL,17,F      Wiedweg in K{rnten; 12:02        
+OL,16,F      Pfarrkirche Stadt Haag in        
+OL,17,F      Nieder|sterreich; 12:02          
 OL,18,F      Mittagsjournal; 12:30 Radio      
 OL,19,F      K{rnten Journal)                 
 OL,23,Q,,,,,,,,,GNachrichten aus K{rnten >708 
@@ -30,23 +30,27 @@ PN,39702
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G397FORF1   GSa 21.11.26 00:14:07
+OL,0,       G397FORF1   GSa 21.11.26 10:14:27
 OL,1,A]G                       Radio K{rnten 
 OL,2,A]GRADIO  ]A                  Programm \
 OL,3,Q#########G                        2/3  
 OL,4,F13:00 Tausend Fragen                   
 OL,5,F      (13:00 Nachrichten; 13:30 Uhr    
 OL,6,F      K{rnten aktuell)                 
-OL,7,G14:00 Radio K{rnten am Nachmittag      
-OL,8,G      (14:00, 15:00 Nachrichten; 14:   
-OL,9,G      30, 15:30 K{rnten aktuell)       
-OL,10,F16:00 Servus Srecno Ciao  Radiotag     
-OL,11,F      Standortmarketing K{rnten        
-OL,12,F      (16:00 Nachrichten; 16:30        
-OL,13,F      K{rnten aktuell; 17:00 Radio     
-OL,14,F      K{rnten Journal; 17:30 K{rnten   
-OL,15,F      aktuell; 18:04 Radio K{rnten     
-OL,16,F      Sport)                           
+OL,7,G14:00 Radio K{rnten am Wochenende      
+OL,8,G      (zur halben Stunde K{rnten       
+OL,9,G      aktuell; zur vollen Stunde       
+OL,10,G      Nachrichten; 17:00 Radio         
+OL,11,G      K{rnten Journal)                 
+OL,12,F18:00 Oldies but Goldies               
+OL,13,F      zur vollen Stunde Nachrichten    
+OL,14,F      (18:04 Radio K{rnten Sport; 19:  
+OL,15,F      30 Nachrichten in einfacher      
+OL,16,F      Sprache)                         
+OL,17,G20:00 Mailbox                          
+OL,18,G      Der Samstag-Abend in Radio       
+OL,19,G      K{rnten (zu jeder vollen         
+OL,20,G      Stunde Nachrichten)              
 OL,23,Q,,,,,,,,,GNachrichten aus K{rnten >708 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -54,24 +58,13 @@ PN,39703
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G397FORF1   GSa 21.11.26 00:14:07
+OL,0,       G397FORF1   GSa 21.11.26 10:14:27
 OL,1,A]G                       Radio K{rnten 
 OL,2,A]GRADIO  ]A                  Programm \
 OL,3,Q#########G                        3/3  
-OL,4,F19:00 Kuddelmuddel und 19:32 K{rnten   
-OL,5,F      singt und spielt                 
-OL,6,F      Eine halbe Stunde Radio f}r      
-OL,7,F      die Kleinen, anschlie~end        
-OL,8,F      Volksmusik und Chorgesang (19:   
-OL,9,F      00 Nachrichten; 19:30            
-OL,10,F      Nachrichten in einfacher         
-OL,11,F      Sprache)                         
-OL,12,G20:00 Das K{rntner Eishockeymagazin    
-OL,13,G      zur vollen Stunde Nachrichten    
-OL,14,F22:00 Schlagersterne                   
-OL,15,F      zu jeder vollen Stunde           
-OL,16,F      Nachrichten (22:00 Radio         
-OL,17,F      K{rnten Journal)                 
+OL,4,F 0:00 Schlagersterne                   
+OL,5,F      zu jeder vollen Stunde           
+OL,6,F      Nachrichten                      
 OL,23,Q,,,,,,,,,GNachrichten aus K{rnten >708 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

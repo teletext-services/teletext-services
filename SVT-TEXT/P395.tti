@@ -1,16 +1,38 @@
 DE,SVT-TEXT 395
-PN,39500
-SC,0000
-PS,8108
+PN,39501
+SC,0001
+PS,C100
 CT,10,T
-OL,0,      GSVT Text 395  L|r 21 novC00:08:40
+OL,0,      GSVT Text 395  L|r 21 novC09:06:12
 OL,1,D]G             M]LSERVICE              
-OL,3,BFotboll LaLiga                         
-OL,4,FBilbao           - Espanyol         0-1
-OL,5,                   CFernandez 66        
-OL,7,BFotboll Bundesliga                     
-OL,8,FB M nchen        - K|ln             1-1
-OL,9,CBrown 37           Moore 12            
+OL,3,BInnebandy SSL                          
+OL,4,GLink|ping    - AIK          X - XB15:00
+OL,5,C(X-X,X-X,X-X)                          
+OL,7,GWarberg      - Kalmarsund   X - XB15:00
+OL,8,C(X-X,X-X,X-X)                          
+OL,10,GNykvarn      - Pixbo        X - XB18:00
+OL,11,C(X-X,X-X,X-X)                          
+OL,13,BInnebandy SSL damer                    
+OL,14,GKarlstad     - Storvreta IB X - XB14:00
+OL,15,C(X-X,X-X,X-X)                          
+OL,17,GT{by         - Kalmarsund   X - XB15:30
+OL,18,C(X-X,X-X,X-X)                          
+OL,20,GR|nnby       - Malm|        X - XB16:00
+OL,21,C(X-X,X-X,X-X)                          
 OL,23,D]G M}lserviceindex 376 * Resultat 330  
-OL,24,ANyheter   BSport    CV{der    FInneh}ll
+OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
+FL,100,300,400,700,0,100
+PN,39502
+SC,0002
+PS,C100
+CT,10,T
+OL,0,      GSVT Text 395  L|r 21 novC09:06:12
+OL,1,D]G             M]LSERVICE              
+OL,3,BInnebandy SSL damer                    
+OL,4,GEndre        - V{xj|        X - XB17:00
+OL,5,C(X-X,X-X,X-X)                          
+OL,7,GMora         - Lund         X - XB17:00
+OL,8,C(X-X,X-X,X-X)                          
+OL,23,D]G M}lserviceindex 376 * Resultat 330  
+OL,24,ANyheter BSport CV{der FInneh}llG  (2/2)
 FL,100,300,400,700,0,100

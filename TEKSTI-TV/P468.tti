@@ -3,26 +3,26 @@ PN,46801
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G468 YLE TEKSTI-TV 21.03.03:42:00
+OL,0,       G468 YLE TEKSTI-TV 21.03.13:42:07
 OL,1,D]G         POISJ[[NNIT 21.11.      1/7 
-OL,2,D]GPori (07)             18:07 klo 04:40
+OL,2,D]GVermo (01)            13:06 klo 14:40
 OL,3,K                                       
-OL,4,                G1. l{ht|A2             
-OL,5,                G2. l{ht|A              
+OL,4,                   G1. l{ht|A           
+OL,5,                   G2. l{ht|A           
 OL,6,K                                       
-OL,7,                G3. l{ht|A12            
-OL,8,BT5-1           G4. l{ht|A              
+OL,7,                   G3. l{ht|A           
+OL,8,                   G4. l{ht|A           
 OL,9,K                                       
-OL,10,BT5-2           G5. l{ht|A2             
-OL,11,BT5-3           G6. l{ht|A              
+OL,10,F75-1              G5. l{ht|A4          
+OL,11,F75-2              G6. l{ht|A12         
 OL,12,K                                       
-OL,13,BT5-4FDuo-1CTro G7. l{ht|A              
-OL,14,BT5-5FDuo-2     G8. l{ht|A1,8           
+OL,13,F75-3     CTro     G7. l{ht|A           
+OL,14,F75-4BT4-1         G8. l{ht|A6          
 OL,15,K                                       
-OL,16,                G9. l{ht|A3,9           
-OL,17,               G10. l{ht|A              
+OL,16,F75-5BT4-2         G9. l{ht|A           
+OL,17,F75-6FT4-3        G10. l{ht|A10         
 OL,18,K                                       
-OL,19,K                                       
+OL,19,F75-7FT4-4CTro    G11. l{ht|A6,10       
 OL,20,K                                       
 OL,21,K                                       
 OL,22,K                                       
@@ -33,23 +33,23 @@ PN,46802
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G468 YLE TEKSTI-TV 21.03.03:42:00
+OL,0,       G468 YLE TEKSTI-TV 21.03.13:42:07
 OL,1,D]G         POISJ[[NNIT 21.11.      2/7 
-OL,2,D]GVincennes (FR) (79)   19:23 klo 04:40
+OL,2,D]GJ{gersro (89)         14:30 klo 14:40
 OL,3,K                                       
-OL,4, 1:A                 G5:A13             
-OL,5, 2:A                 G6:A               
-OL,6, 3:A                 G7:A               
-OL,7, 4:A                 G8:A               
-OL,8,K                                       
-OL,9,D]GVincennes (47)        19:23 klo 04:40
+OL,4, 1:A2                G7:A               
+OL,5, 2:A                 G8:A8,12           
+OL,6, 3:A                 G9:A               
+OL,7, 4:A3               G10:A10             
+OL,8, 5:A1,3,11,12       G11:A               
+OL,9, 6:A                G12:A8              
 OL,10,K                                       
-OL,11, 1:A                 G5:A13             
-OL,12, 2:A                 G6:A               
-OL,13, 3:A                 G7:A               
-OL,14, 4:A                 G8:A               
-OL,15,K                                       
-OL,16,K                                       
+OL,11,D]GReims (77)            17:08 klo 14:40
+OL,12,K                                       
+OL,13, 1:A                 G5:A               
+OL,14, 2:A                 G6:A               
+OL,15, 3:A                 G7:A               
+OL,16, 4:A                 G8:A               
 OL,17,K                                       
 OL,18,K                                       
 OL,19,K                                       
@@ -63,21 +63,21 @@ PN,46803
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G468 YLE TEKSTI-TV 21.03.03:42:00
+OL,0,       G468 YLE TEKSTI-TV 21.03.13:42:07
 OL,1,D]G         POISJ[[NNIT 21.11.      3/7 
-OL,2,D]GBordeaux Le Bouscat (712:15 klo 04:40
+OL,2,D]GAuteuil (79)          13:13 klo 14:40
 OL,3,K                                       
-OL,4, 1:A                 G5:A1              
-OL,5, 2:A                 G6:A               
-OL,6, 3:A                 G7:A               
-OL,7, 4:A                 G8:A               
+OL,4, 1:A                 G5:A               
+OL,5, 2:A                 G6:A14             
+OL,6, 3:A8                G7:A               
+OL,7, 4:A6,9              G8:A2              
 OL,8,K                                       
-OL,9,D]GChantilly (FR) (77)   13:33 klo 04:40
+OL,9,D]GMarseille Borely (76) 12:25 klo 14:40
 OL,10,K                                       
-OL,11, 1:A4,6              G5:A               
-OL,12, 2:A10               G6:A               
-OL,13, 3:A                 G7:A4              
-OL,14, 4:A10               G8:A               
+OL,11, 1:A3                G5:A               
+OL,12, 2:A                 G6:A               
+OL,13, 3:A                 G7:A               
+OL,14, 4:A                 G8:A               
 OL,15,K                                       
 OL,16,K                                       
 OL,17,K                                       
@@ -93,21 +93,21 @@ PN,46804
 SC,0004
 PS,C100
 CT,10,T
-OL,0,       G468 YLE TEKSTI-TV 21.03.03:42:00
+OL,0,       G468 YLE TEKSTI-TV 21.03.13:42:07
 OL,1,D]G         POISJ[[NNIT 21.11.      4/7 
-OL,2,D]GSaint Galmier (78)    16:45 klo 04:40
+OL,2,D]GAngers (78)           14:00 klo 14:40
 OL,3,K                                       
-OL,4, 1:A                 G5:A               
+OL,4, 1:A6                G5:A               
 OL,5, 2:A                 G6:A               
-OL,6, 3:A                 G7:A               
+OL,6, 3:A8,14             G7:A2              
 OL,7, 4:A                 G8:A               
 OL,8,K                                       
-OL,9,D]GWolvega (84)          18:12 klo 04:40
+OL,9,D]GCasablanca (60)       18:10 klo 14:40
 OL,10,K                                       
-OL,11, 1:A                 G5:A6              
-OL,12, 2:A                 G6:A               
-OL,13, 3:A                 G7:A               
-OL,14, 4:A                                    
+OL,11, 1:A                 G4:A               
+OL,12, 2:A                 G5:A               
+OL,13, 3:A                 G6:A               
+OL,14,K                                       
 OL,15,K                                       
 OL,16,K                                       
 OL,17,K                                       
@@ -123,23 +123,23 @@ PN,46805
 SC,0005
 PS,C100
 CT,10,T
-OL,0,       G468 YLE TEKSTI-TV 21.03.03:42:00
+OL,0,       G468 YLE TEKSTI-TV 21.03.13:42:07
 OL,1,D]G         POISJ[[NNIT 21.11.      5/7 
-OL,2,D]GBoden (51)            19:22 klo 04:40
+OL,2,D]GAxevalla (55)         12:32 klo 14:40
 OL,3,K                                       
-OL,4, 1:A2                G6:A5,7,8          
-OL,5, 2:A                 G7:A2,5,11         
-OL,6, 3:A                 G8:A4              
-OL,7, 4:A2                G9:A6              
-OL,8, 5:A                G10:A2,12           
-OL,9,K                                       
-OL,10,D]GSolvalla (55)         13:21 klo 04:40
-OL,11,K                                       
-OL,12, 1:A                 G6:A4,7,12         
-OL,13, 2:A                 G7:A8              
-OL,14, 3:A2                G8:A7              
-OL,15, 4:A                 G9:A5,10           
-OL,16, 5:A2,8                                 
+OL,4, 1:A                 G5:A               
+OL,5, 2:A                 G6:A               
+OL,6, 3:A2,6              G7:A               
+OL,7, 4:A                 G8:A               
+OL,8,K                                       
+OL,9,D]GHarstad (64)          12:10 klo 14:40
+OL,10,K                                       
+OL,11, 1:A2                G5:A4              
+OL,12, 2:A                 G6:A               
+OL,13, 3:A2,7              G7:A7              
+OL,14, 4:A1,2              G8:A8,12           
+OL,15,K                                       
+OL,16,K                                       
 OL,17,K                                       
 OL,18,K                                       
 OL,19,K                                       
@@ -153,22 +153,22 @@ PN,46806
 SC,0006
 PS,C100
 CT,10,T
-OL,0,       G468 YLE TEKSTI-TV 21.03.03:42:00
+OL,0,       G468 YLE TEKSTI-TV 21.03.13:42:07
 OL,1,D]G         POISJ[[NNIT 21.11.      6/7 
-OL,2,D]GOdense (61)           16:45 klo 04:40
+OL,2,D]G]rhus (61)            15:00 klo 14:40
 OL,3,K                                       
-OL,4, 1:A                 G6:A               
-OL,5, 2:A                 G7:A               
-OL,6, 3:A                 G8:A               
-OL,7, 4:A                 G9:A11             
-OL,8, 5:A                                    
+OL,4, 1:A                 G4:A               
+OL,5, 2:A10               G5:A               
+OL,6, 3:A                 G6:A               
+OL,7,K                                       
+OL,8,D]GOrkla (67)            19:12 klo 14:40
 OL,9,K                                       
-OL,10,D]GBiri (67)             19:55 klo 04:40
-OL,11,K                                       
-OL,12, 1:A4,5              G5:A6              
-OL,13, 2:A                 G6:A               
-OL,14, 3:A                 G7:A               
-OL,15, 4:A                 G8:A               
+OL,10, 1:A7                G6:A               
+OL,11, 2:A                 G7:A               
+OL,12, 3:A                 G8:A4              
+OL,13, 4:A                 G9:A               
+OL,14, 5:A                                    
+OL,15,K                                       
 OL,16,K                                       
 OL,17,K                                       
 OL,18,K                                       
@@ -183,15 +183,15 @@ PN,46807
 SC,0007
 PS,C100
 CT,10,T
-OL,0,       G468 YLE TEKSTI-TV 21.03.03:42:00
+OL,0,       G468 YLE TEKSTI-TV 21.03.13:42:07
 OL,1,D]G         POISJ[[NNIT 21.11.      7/7 
-OL,2,D]GUSA (58)              20:00 klo 04:40
+OL,2,D]GUSA (58)              20:00 klo 14:40
 OL,3,K                                       
-OL,4, 1:A6                G6:A16,4,11-15     
-OL,5, 2:A                 G7:A5              
-OL,6, 3:A                 G8:A5,6            
-OL,7, 4:A5,8,10           G9:A1              
-OL,8, 5:A                G10:A5              
+OL,4, 1:A                 G6:A               
+OL,5, 2:A                 G7:A               
+OL,6, 3:A                 G8:A               
+OL,7, 4:A                 G9:A               
+OL,8, 5:A                G10:A               
 OL,9,K                                       
 OL,10,K                                       
 OL,11,K                                       

@@ -1,13 +1,13 @@
 DE,NDR 448
-PN,44800
-SC,0000
-PS,8208
+PN,44801
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       G448FNDR TEXT GFr 20.11.B23:35:42
+OL,0,       G448FNDR TEXT GSa 21.11.B09:35:54
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD    NDR SCHLAGER             
-OL,4,F]T  %D        Freitag 20.11.2026       
+OL,4,F]T  %D        Samstag 21.11.2026       
 OL,6, 00:00  Die ARD Schlagernacht: Das      
 OL,7,        gemeinsame Programm von BR, HR, 
 OL,8,        MDR und NDR                     
@@ -15,16 +15,30 @@ OL,9,F06:00  Der Morgen: Mit guter Laune in
 OL,10,F       den Tag                         
 OL,11, 08:00  Der Tag: Die sch|nsten Schlager 
 OL,12,        von gestern und heute - Mit     
-OL,13,        Simon Scharf                    
-OL,14,F13:00  Der Nachmittag: Die besten      
-OL,15,F       Schlager aller Zeiten - Mit     
-OL,16,F       Christian Haacke                
-OL,17, 18:00  Die ARD Schlagerhitparade: Das  
-OL,18,        gemeinsame Programm von BR, HR, 
-OL,19,        MDR und NDR - Mit Harry Blaha   
-OL,20,F20:00  Der ARD Schlagerabend: Das      
-OL,21,F       gemeinsame Programm von BR, MDR 
-OL,22,F       und NDR                         
-OL,23,F]D400<                      WEITER >449
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,13,        Karsten Gross                   
+OL,14,F11:00  Th}rnaus Musikbox: Mit Michael  
+OL,15,F       Th}rnau                         
+OL,16, 12:00  Der Tag: Die sch|nsten Schlager 
+OL,17,        von gestern und heute - Mit     
+OL,18,        Karsten Gross                   
+OL,19,F13:00  Der Nachmittag: Die besten      
+OL,20,F       Schlager aller Zeiten - Mit     
+OL,21,F       Karsten Gross                   
+OL,23,F]D400<                        WEITER >>
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,44802
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       G448FNDR TEXT GSa 21.11.B09:35:54
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    NDR SCHLAGER             
+OL,4,F]T  %D        Samstag 21.11.2026       
+OL,6, 17:00  Die ARD Schlagerparty: Das      
+OL,7,        gemeinsame Programm von BR, HR, 
+OL,8,        MDR und NDR                     
+OL,23,F]D400<                   WEITER >449 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

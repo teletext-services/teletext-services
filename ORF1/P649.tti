@@ -3,22 +3,27 @@ PN,64901
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G649FORF1   GSa 21.11.26 00:17:57
+OL,0,       G649FORF1   GSa 21.11.26 10:17:52
 OL,1,A]G                           Apotheken 
 OL,2,A]GGESUNDHEIT  ]A         Bundesl{nder \
 OL,3,Q##############G                   1/5  
 OL,4,FBereitschafts- bzw. Nachtdienst        
 OL,5, (Weitere Daten: siehe lokale Medien)   
 OL,7,FBregenz                                
-OL,8, H|chst: Kirchpl.4 ...... T: 05578/75391
-OL,9, Lauterach: Bundestr.48   T:05574/741440
-OL,10,FDornbirn                               
-OL,11, Haselstauderstr.29a ... T: 05572/201120
-OL,12,FInnsbruck                              
-OL,13, Maria-Theresien-Str.4 .. T: 0512/585847
-OL,14, Gumppstr.45 ............ T: 0512/341517
-OL,15, Gutshofweg 2 ........... T: 0512/344293
-OL,16, V|ls: Aflingerstr.7 .... T: 0512/302025
+OL,8,F08.00-12.00 & 17.00-08.00h:            
+OL,9, Kirchstr.7 ............. T: 05574/42102
+OL,10,F12.00-17.00h:                          
+OL,11, Lauterach: Scheibenstr.2 T: 05574/73274
+OL,12,FDornbirn                               
+OL,13,F08.00-12.00 & 18.00-08.00h:            
+OL,14, Eiseng.25 .............. T: 05572/22384
+OL,15,F12.00-18.00h:                          
+OL,16, Messestr.2 ............. T: 05572/55880
+OL,17,FInnsbruck                              
+OL,18, Museumstr.18 ........... T: 0512/72271 
+OL,19, Innrain 103 ............ T: 0512/589074
+OL,20, Anton-Rauch-Str.6 ...... T: 0512/267715
+OL,21, Axams:Innsbrucker Str.40 T: 05234/68800
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,GWien >648 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -26,23 +31,23 @@ PN,64902
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G649FORF1   GSa 21.11.26 00:17:57
+OL,0,       G649FORF1   GSa 21.11.26 10:17:52
 OL,1,A]G                           Apotheken 
 OL,2,A]GGESUNDHEIT  ]A         Bundesl{nder \
 OL,3,Q##############G                   2/5  
 OL,4,FBereitschafts- bzw. Nachtdienst        
 OL,6,FSalzburg                               
-OL,7, Aigner Str.78 ........... T:0662/624790
-OL,8, Mirabellplatz 5 ......... T:0662/871411
-OL,9,GGr|dig: Marktstr.19 ..... T:06246/72474
+OL,7, M}nchner Bundesstr.116   T: 0662/430505
+OL,8, Gabelsberger Str.7-9 ... T: 0662/882413
+OL,9, Karolinger Str.1 ....... T: 0662/828293
 OL,10,FKlagenfurt                             
-OL,11, Durchla~str.4 .......... T: 0463/210999
-OL,12, St.Jakober Str.1 ....... T: 0463/318610
-OL,13, Rosentaler Str.224 ..... T: 0463/281470
-OL,14,FVillach                                
-OL,15, Hans-Gasser-Pl.3 ....... T: 04242/24903
-OL,16,FWolfsberg                              
-OL,17, Wiener Str.2 ........... T: 04352/2611 
+OL,11, Alter Platz 32 ......... T: 0463/55077 
+OL,12, Pischeldorfer Str.187 .. T: 0463/908080
+OL,13,FVillach                                
+OL,14, Genotteallee 12 ........ T: 04242/25654
+OL,15,FWolfsberg                              
+OL,16, Hoher Platz 7 .......... T: 04352/42060
+OL,17, St.Paul: Hauptstr.24 ... T: 04357/2014 
 OL,23,Q,,,,,,,,,,,,,GGesundheitshotline: 1450 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -50,24 +55,20 @@ PN,64903
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G649FORF1   GSa 21.11.26 00:17:57
+OL,0,       G649FORF1   GSa 21.11.26 10:17:52
 OL,1,A]G                           Apotheken 
 OL,2,A]GGESUNDHEIT  ]A         Bundesl{nder \
 OL,3,Q##############G                   3/5  
 OL,4,FBereitschafts- bzw. Nachtdienst        
 OL,6,FLinz                                   
-OL,7, Lastenstr.23 ........... T: 0732/890214
-OL,8, Hauptpl.8 .............. T: 0732/775880
-OL,9, Lunapl.1 ............... T: 0732/320855
-OL,10, Linden.16 .............. T: 0732/712614
-OL,11, Leonding:                              
-OL,12,  Mayrhansenstr.2 ....... T: 0732/670733
-OL,13,FSteyr                                  
-OL,14, Anton-Plochberger-Str.2  T: 07252/73513
-OL,15,FWels                                   
-OL,16, Salzburger Str.89 ...... T: 07242/45422
-OL,17, Marchtrenk:                            
-OL,18,  Goethestr.12 .......... T: 07243/52351
+OL,7, Herrenstr.33 ........... T: 0732/774190
+OL,8, Holzstr.15 ............. T: 0732/783484
+OL,9, Dauphinestr.62 ......... T: 0732/303713
+OL,10, Leonding: Limesstr.33 .. T: 0732/672066
+OL,11,FSteyr                                  
+OL,12, Bahnhofstr.18 .......... T: 07252/53577
+OL,13,FWels                                   
+OL,14, F|hrenstr.15 ........... T: 07242/55955
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,GWien >648 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -75,25 +76,27 @@ PN,64904
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G649FORF1   GSa 21.11.26 00:17:57
+OL,0,       G649FORF1   GSa 21.11.26 10:17:52
 OL,1,A]G                           Apotheken 
 OL,2,A]GGESUNDHEIT  ]A         Bundesl{nder \
 OL,3,Q##############G                   4/5  
 OL,4,FBereitschafts- bzw. Nachtdienst        
 OL,6,FSt.P|lten                              
-OL,7, Unterwagramer Str.34b   T: 02742/254333
+OL,7, Dr.Adolf-Sch{rf-Str.5 .. T:02742/348300
 OL,8,FM|dling                                
-OL,9,GGuntramsdorf:Hauptstr.18a T:02236/53472
-OL,10, Hinterbr}hl: Hauptstr.28 T: 02236/26258
-OL,11, V|sendorf:Kaufpark/Top 9 T: 01/6091884 
+OL,9, Wiener Str.2 ........... T: 02236/22126
+OL,10, V|sendorf: SCS,                        
+OL,11,  Kaufhaus A, Shop 9+11 . T:  01/8905086
 OL,12,FBaden                                  
-OL,13, Tribuswinkel:Pfarrg.11 . T: 02252/85538
-OL,14, Bad V|slau:Badner Str.12 T: 02252/70406
-OL,15, Trumau: Karl Renner Pl.1 T: 02253/21627
-OL,16,FWiener Neustadt                        
-OL,17, Marktg.5 ............... T: 02622/28435
-OL,18,FKrems                                  
-OL,19, Mautern:Baumgartnerstr.1 T: 02732/73231
+OL,13, Pfaffst{tten: M}hlg.1 .. T: 02252/21110
+OL,14, Bad V|slau: Hochstr.25   T: 02252/76285
+OL,15, Alland: Klausenstr.129   T: 02258/76190
+OL,16, Hirtenbg.:Leobersd.Str.3 T: 02256/82355
+OL,17,FWiener Neustadt                        
+OL,18, Stefan-Koren-Str.8a .... T: 02622/26616
+OL,19,FKrems                                  
+OL,20, Obere Landstr.3 ........ T: 02732/82001
+OL,21, Obere Landstr.532 ...... T: 02732/48039
 OL,23,Q,,,,,,,,,,,,,GGesundheitshotline: 1450 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -101,27 +104,25 @@ PN,64905
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       G649FORF1   GSa 21.11.26 00:17:57
+OL,0,       G649FORF1   GSa 21.11.26 10:17:52
 OL,1,A]G                           Apotheken 
 OL,2,A]GGESUNDHEIT  ]A         Bundesl{nder \
 OL,3,Q##############G                   5/5  
 OL,4,FBereitschafts- bzw. Nachtdienst        
 OL,6,FGraz                                   
-OL,7, Ziehrerstr.2 ........... T: 0316/472118
-OL,8, Wiener Str.351 ......... T: 0316/670747
-OL,9, Kaiser-Josef-Pl.5 ...... T: 0316/829571
-OL,10, Sackstr.4 .............. T: 0316/830420
-OL,11, Seiersbg.:K{rnterStr.537 T: 0316/253005
-OL,12, Kumberg: Grazer Str.48i  T: 03132/21177
-OL,13, Wagner-Biro-Str.47 ..... T: 0316/575199
-OL,14,FFeldbach              Bis 20.11. 18.00h
-OL,15, Schillerstr.26 ......... T: 03152/53180
-OL,16,                       FAb 20.11. 18.00h
-OL,17, Hauptpl.15 ............. T: 03152/22360
-OL,18,FLeoben                                 
-OL,19, Franz-Josef-Str.7 ...... T: 03842/43264
-OL,20,FEisenstadt                             
-OL,21, Hauptstr.4-6 ........... T: 02682/62654
+OL,7, Heinrichstr.3 .......... T: 0316/321128
+OL,8, Waltendorf.Hauptstr.121  T: 0316/422210
+OL,9, M}nzgrabenstr.3 ........ T: 0316/830546
+OL,10,GLazarettg}rtel 55 ...... T: 0316/764778
+OL,11, Peter-Tunner-G.34 ...... T: 0316/570070
+OL,12, Liebenauer Hauptstr.161a T: 0316/427954
+OL,13, Kalsdorf: Hauptstr.102   T: 03135/52360
+OL,14,FFeldbach              Bis 27.11. 18.00h
+OL,15, Hauptpl.15 ............. T: 03152/22360
+OL,16,FLeoben                                 
+OL,17, Trofaiach:Langefeld.Str.12 T:03847/4022
+OL,18,FEisenstadt                             
+OL,19, Esterhazystr.26 ........ T: 02682/62178
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,GWien >648 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

@@ -3,29 +3,29 @@ PN,76101
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G761 YLE TEKSTI-TV 21.03.03:48:04
-OL,1, S `"rr(  G                         1/3 
+OL,0,       G761 YLE TEKSTI-TV 21.03.13:49:01
+OL,1, S `"rr(  G                         1/4 
 OL,2,D]S$.-b  GMeteorologiska Institutet   
-OL,3,D]Wx||}0 GV{derprognosen 20.11. kl. 22
+OL,3,D]Wx||}0 GV{derprognosen 21.11. kl. 12
 OL,4,WW +/o//!                              
 OL,5,K                                       
-OL,6,GV{dret forts{tter ostadigt i st|rsta   
-OL,7,Gdelen av landet. I landets s|dra del   
-OL,8,Gf|rekommer under n{rmaste dygnet tidvis
-OL,9,Gregn, i mellersta del {ven sn|blandat  
-OL,10,Gregn eller sn|fall. I Lappland {r det  
-OL,11,Gmest uppeh}ll.                         
-OL,12,K                                       
-OL,13,FUtsikterna fram till i morgon kv{ll:G  
-OL,14,K                                       
-OL,15,FI landets s|dra del:G                  
-OL,16,GMulet och f|rst p} m}nga h}ll regn. I  
-OL,17,Gnatt spricker molnt{cket m|jligen upp  
-OL,18,Goch bara lokalt regn eller duggregn.   
-OL,19,GTemperaturen {r 0...+5 grader. Svag    
-OL,20,Geller m}ttlig ostlig vind.             
-OL,21,K                                       
-OL,22,K                                       
+OL,6,GI landets mellersta delar f|rekommer   
+OL,7,Gallm{nt sn|blandat regn eller sn|fall. 
+OL,8,GI landets s|dra del f|rekommer lokalt  
+OL,9,Gregnskurar, i Lappland sn|byar.        
+OL,10,K                                       
+OL,11,FUtsikterna fram till i morgon          
+OL,12,Feftermiddag:G                          
+OL,13,K                                       
+OL,14,FI landets s|dra del:G                  
+OL,15,GHalvklart till mulet och lokalt        
+OL,16,Gregnskurar eller skurar av sn|blandat  
+OL,17,Gregn. Mot morgonen norrifr}n lokalt    
+OL,18,Gsn|blandat regn eller sn|fall.         
+OL,19,GTemperaturen {r 0...+4 grader, fr}n i  
+OL,20,Gkv{ll +1...-2 grader. Svag eller       
+OL,21,Gm}ttlig vind omkring ost. I kv{ll      
+OL,22,Gb|rjar vinden vrida till nord.         
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -33,50 +33,80 @@ PN,76102
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G761 YLE TEKSTI-TV 21.03.03:48:04
-OL,1, S `"rr(  G                         2/3 
+OL,0,       G761 YLE TEKSTI-TV 21.03.13:49:01
+OL,1, S `"rr(  G                         2/4 
 OL,2,D]S$.-b  GMeteorologiska Institutet   
-OL,3,D]Wx||}0 GV{derprognosen 20.11. kl. 22
+OL,3,D]Wx||}0 GV{derprognosen 21.11. kl. 12
 OL,4,WW +/o//!                              
 OL,5,K                                       
-OL,6,FI landets mellersta del:G              
-OL,7,GMulet och regn eller sn|fall.          
-OL,8,GTemperaturen {r -2...+2 grader. Svag   
-OL,9,Geller m}ttlig ostlig vind.             
-OL,10,K                                       
-OL,11,FI landets norra del:G                  
-OL,12,GMolnigt och lokalt n}got sn|fall.      
-OL,13,GNattens l{gsta temperatur {r -2...-12  
-OL,14,Ggrader. Dagens h|gsta +1...-6 grader.  
-OL,15,GSvag vind.                             
-OL,16,K                                       
-OL,17,CTrafikv{dret:G                         
-OL,18,GV{glaget {r d}ligt i landets mellersta 
-OL,19,Gdel, landskapet Kajanaland och i       
-OL,20,Glandskapet Norra \sterbotten fr}nsett  
-OL,21,Gkommunerna Pudasj{rvi, Taivalkoski och 
-OL,22,GKuusamo p.g.a. sn|fall eller sn|blandat
-OL,23,Gregn.                                  
+OL,6,FI landets mellersta del samt i Norra   
+OL,7,F\sterbotten och Kajanaland:G           
+OL,8,GMolnigt och sn|blandat regn eller      
+OL,9,Gsn|fall, till en b|rjan i omr}dets     
+OL,10,Gs|dra del tillf{lligt mest uppeh}ll.   
+OL,11,GTemperaturen {r mest -3...+3 grader.   
+OL,12,GSvag eller m}ttlig nordlig till ostlig 
+OL,13,Gvind. P} natten tilltar vinden s{rskilt
+OL,14,Gi v{ster samt blir byig.               
+OL,15,K                                       
+OL,16,FI Lappland:G                           
+OL,17,GV{xlande molnighet och lokalt sn|byar. 
+OL,18,GTemperaturen {r mest -2...-10 grader,  
+OL,19,Gp} natten i nord ungef{r -15 grader.   
+OL,20,GSvag eller m}ttlig vind omkring nord.  
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,76103
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G761 YLE TEKSTI-TV 21.03.03:48:04
-OL,1, S `"rr(  G                         3/3 
+OL,0,       G761 YLE TEKSTI-TV 21.03.13:49:01
+OL,1, S `"rr(  G                         3/4 
 OL,2,D]S$.-b  GMeteorologiska Institutet   
-OL,3,D]Wx||}0 GV{derprognosen 20.11. kl. 22
+OL,3,D]Wx||}0 GV{derprognosen 21.11. kl. 12
+OL,4,WW +/o//!                              
+OL,5,K                                       
+OL,6,CTrafikv{dret:G                         
+OL,7,GV{glaget {r d}ligt till en b|rjan i    
+OL,8,Glandskapen Egentliga Finland, Nyland,  
+OL,9,GEgentliga Tavastland, P{ij{nne-        
+OL,10,GTavastland och Kymmenedalen p.g.a.     
+OL,11,Gtillfrysning av v{gytor.               
+OL,12,K                                       
+OL,13,GV{glaget {r d}ligt i landskapen        
+OL,14,GMellersta Finland, Norra Savolax, Norra
+OL,15,GKarelen, S|dra \sterbotten,            
+OL,16,G\sterbotten, Mellersta \sterbotten och 
+OL,17,GKajanaland och i landskapet Norra      
+OL,18,G\sterbotten fr}nsett kommunerna        
+OL,19,GPudasj{rvi, Taivalkoski och Kuusamo    
+OL,20,Gp.g.a. sn|fall eller sn|blandat regn.  
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,76104
+SC,0004
+PS,C100
+CT,10,T
+OL,0,       G761 YLE TEKSTI-TV 21.03.13:49:01
+OL,1, S `"rr(  G                         4/4 
+OL,2,D]S$.-b  GMeteorologiska Institutet   
+OL,3,D]Wx||}0 GV{derprognosen 21.11. kl. 12
 OL,4,WW +/o//!                              
 OL,5,K                                       
 OL,6,GV{glaget blir d}ligt p} natten och     
 OL,7,Gmorgonen i landskapen Egentliga        
-OL,8,GFinland, Nyland, Egentliga Tavastland, 
-OL,9,GP{ij{nne-Tavastland och Kymmenedalen   
-OL,10,Gp.g.a. tillfrysning av v{gytor.        
-OL,11,K                                       
-OL,12,K                                       
-OL,13,K                                       
+OL,8,GFinland, Satakunta, Egentliga          
+OL,9,GTavastland, P{ij{nne-Tavastland,       
+OL,10,GBirkaland, Mellersta Finland, S|dra    
+OL,11,GSavolax, Norra Savolax, Norra Karelen, 
+OL,12,GS|dra \sterbotten och Kajanaland p.g.a.
+OL,13,Gsn|fall och tillfrysning av v{gytor.   
 OL,14,K                                       
 OL,15,K                                       
 OL,16,K                                       

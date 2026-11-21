@@ -3,28 +3,28 @@ PN,26201
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G262 YLE TEKSTI-TV 21.03.03:36:43
-OL,1,B]DSALIBANDY ]GF-LIIGA MIEHET       1/4 
+OL,0,       G262 YLE TEKSTI-TV 21.03.13:37:20
+OL,1,B]DSALIBANDY ]GF-LIIGA MIEHET       1/3 
 OL,2,K                                       
-OL,3,GIndians - Hawks  B   10-1 (5-0,1-0,4-1)
-OL,4,K                                       
-OL,5,B 3:07 1-0 Niemel{ (Kainulainen)        
-OL,6,B 8:46 2-0 Huppunen (Kainulainen)       
-OL,7,B13:08 3-0 Ainoa (Kekki)                
-OL,8,B15:21 4-0 Lehkosuo (Havula)            
-OL,9,B16:03 5-0 Roth (Ainoa)                 
-OL,10,B30:42 6-0 Niemel{ (Kainulainen)        
-OL,11,B41:54 7-0 Roth (Harjula E)             
-OL,12,F42:55 7-1 Salminen (Jarva)             
-OL,13,B46:14 8-1 Lehkosuo (Roimela)           
-OL,14,B51:21 9-1 Eini| (Niemel{)              
-OL,15,B58:48 10-1 Junnila (Harjula T)         
-OL,16,K                                       
-OL,17,GMaalivahdit       Yleis|{: 520         
-OL,18,BSipil{               2+ 2+ 6 = 10      
-OL,19,FWuorenjuuri          8+ 0+ 0 =  8      
-OL,20,FTaima                0+ 4+ 7 = 11      
-OL,21,K                                       
+OL,3,BJymy                                   
+OL,4,F           Sassi / Saarikko            
+OL,5,GVainionp{{  Tenho       Kauppila       
+OL,6,G     Liikka      Koskitalo             
+OL,7,FKoitto      Tuhkanen    Lehtonen       
+OL,8,F     Puntanen    Ihala                 
+OL,9,GTarpio      Niemel{     Rahkola        
+OL,10,G     Riihim{ki   Turigin               
+OL,11,FLuukko      Hakala      Elmeranta      
+OL,12,K                                       
+OL,13,K                                       
+OL,14,BClassic                                
+OL,15,F        Toriseva / J{{skel{inen        
+OL,16,GSalokangas  Rantala     Lastikka       
+OL,17,G     Tykkyl{inen Hemerka               
+OL,18,FSalin       Heikkil{    [ij{l{ E       
+OL,19,F     Helin       Salo N                
+OL,20,GVirtanen    Nystr|m     Karppanen      
+OL,21,G     Laine       Leino                 
 OL,22,K                                       
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
@@ -33,89 +33,59 @@ PN,26202
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G262 YLE TEKSTI-TV 21.03.03:36:43
-OL,1,B]DSALIBANDY ]GF-LIIGA MIEHET       2/4 
+OL,0,       G262 YLE TEKSTI-TV 21.03.13:37:20
+OL,1,B]DSALIBANDY ]GF-LIIGA MIEHET       2/3 
 OL,2,K                                       
-OL,3,GClassic - Jymy   B   13-2 (4-0,4-1,5-1)
-OL,4,K                                       
-OL,5,B 3:55 1-0 Tykkyl{inen (Salokangas)     
-OL,6,B17:56 2-0 [ij{l{ E (Rantala) YV        
-OL,7,B19:35 3-0 Salokangas (Lastikka)        
-OL,8,B19:39 4-0 [ij{l{ E (Heikkil{)          
-OL,9,B26:17 5-0 Salokangas (Lastikka)        
-OL,10,F28:14 5-1 Puntanen YV                  
-OL,11,B32:31 6-1 Rantala ([ij{l{ E) YV        
-OL,12,B37:44 7-1 Salin (Hemerka)              
-OL,13,B39:05 8-1 Lastikka (Rantala)           
-OL,14,B42:29 9-1 Leino (Lepp{niemi)           
-OL,15,B47:39 10-1 Nystr|m (Salokangas)        
-OL,16,B55:38 11-1 Lastikka (Nystr|m) AV       
-OL,17,B57:19 12-1 Rantala  RL                 
-OL,18,F58:06 12-2 Vainionp{{ (Tenho)          
-OL,19,B59:47 13-2 Karppanen ([ij{l{ E)        
-OL,20,K                                       
-OL,21,GMaalivahdit       Yleis|{: 492         
-OL,22,BToriseva             5+ 6+ 6 = 17      
-OL,23,FSassi               16+ 7+16 = 39      
+OL,3,BHawks                                  
+OL,4,F     Wuorenjuuri / Taima               
+OL,5,GSalmela     Ailio       Junnilainen    
+OL,6,G     Mustonen    Jarva                 
+OL,7,FSkand       Pohjanmaa   Kataja-Rahk    
+OL,8,F     Huolman     Sorjonen              
+OL,9,GAarnio      Kuusela     Tiittala       
+OL,10,G     Repo        Kuisma                
+OL,11,FSalminen    Karkulowski Palojoki       
+OL,12,K                                       
+OL,13,K                                       
+OL,14,BIndians                                
+OL,15,F          Sipil{ / Jokisalo            
+OL,16,GEini|       Huppunen    Kainulainen    
+OL,17,G     Niemel{     Rauhala               
+OL,18,FJunnila     Havula      Roimela        
+OL,19,F     Lehkosuo    Harjula T             
+OL,20,GHarjula E   Kekki       Roth           
+OL,21,G     Ainoa       Rautakoura            
+OL,22,FJunkkari    Aarela      Nyk{nen        
+OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,26203
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G262 YLE TEKSTI-TV 21.03.03:36:43
-OL,1,B]DSALIBANDY ]GF-LIIGA MIEHET       3/4 
+OL,0,       G262 YLE TEKSTI-TV 21.03.13:37:20
+OL,1,B]DSALIBANDY ]GF-LIIGA MIEHET       3/3 
 OL,2,K                                       
-OL,3,GOilers  - LASB   B   17-0 (8-0,5-0,4-0)
-OL,4,K                                       
-OL,5,B 0:03 1-0 Auvinen (Vesterinen)         
-OL,6,B 7:29 2-0 Vesterinen (Astala)          
-OL,7,B 8:09 3-0 Oma maali                    
-OL,8,B11:20 4-0 Vesterinen (Auvinen)         
-OL,9,B11:39 5-0 Sorvali (Markkola)           
-OL,10,B16:16 6-0 Vesterinen (Jokela)          
-OL,11,B16:48 7-0 Markkola (M{kinen)           
-OL,12,B19:14 8-0 Markkola (M{kinen)           
-OL,13,B21:57 9-0 Sillanp{{ (Lindfors S)       
-OL,14,B23:14 10-0 Astala (M{kinen)            
-OL,15,Gjatkuu..                               
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,K                                       
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,26204
-SC,0004
-PS,C100
-CT,10,T
-OL,0,       G262 YLE TEKSTI-TV 21.03.03:36:43
-OL,1,B]DSALIBANDY ]GF-LIIGA MIEHET       4/4 
-OL,2,K                                       
-OL,3,B25:09 11-0 Jokela (Pekari)             
-OL,4,B35:44 12-0 Astala (Salmi) YV           
-OL,5,B39:51 13-0 Markkola (M{kinen) YV       
-OL,6,B48:12 14-0 M{kinen (Markkola)          
-OL,7,B49:03 15-0 Auvinen (Vesterinen)        
-OL,8,B52:09 16-0 Astala (Markkola)           
-OL,9,B53:02 17-0 Laiti (Wikstedt)            
-OL,10,K                                       
-OL,11,GMaalivahdit       Yleis|{: 312         
-OL,12,BKaltiainen           2+ 3+ 5 = 10      
-OL,13,FAartolahti          16+ 0+ 0 = 16      
-OL,14,FLund`n               0+20+ 8 = 28      
-OL,15,K                                       
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,K                                       
+OL,3,BOLS                                    
+OL,4,F           Tervo / Panuma              
+OL,5,GLukkari O   Karvonen V  Savela I       
+OL,6,G     Ylitalo     Rehu                  
+OL,7,FHyv{rinen   Gebremedhin Okkonen        
+OL,8,F     Hanski      Karjula               
+OL,9,GRuonakangas Halkola     Lintala        
+OL,10,G     Mertaniemi  Jaurakkaj{r           
+OL,11,FH{nninen    V{litalo    Koivisto       
+OL,12,K                                       
+OL,13,K                                       
+OL,14,BNokian KrP                             
+OL,15,F     Karjalainen / Rantaniemi          
+OL,16,GZubek       Ahola       Laakso         
+OL,17,G     Simonen     Jonaeson              
+OL,18,FKilpel{inen [ij{l{      Viitakoski     
+OL,19,F     Arkkila     Kallio                
+OL,20,GM{enp{{     Halmela     Saarainen      
+OL,21,G     Inkinen     Laukkanen             
+OL,22,FRistim{ki   Salin                      
+OL,23,F     Vaarala                           
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

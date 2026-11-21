@@ -3,29 +3,7 @@ PN,18701
 SC,0001
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGFr 20.11.26F22:31:44
-OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]DWETTERWARNUNG  D] G    Do. 19.11.2026
-OL,3,W#######################################
-OL,4,CWARNUNG vor DAUERREGEN                 
-OL,6, G}ltig : Do. 11:44 bis Sa. 00:00       
-OL,8,FKreis Fulda, Vogelsbergkreis           
-OL,10, Nach bisher beobachteten               
-OL,11, Niederschlagsmengen bis 20 l/qm tritt  
-OL,12, weiterhin Dauerregen mit               
-OL,13, Unterbrechungen auf. Dabei werden      
-OL,14, nochmals Niederschlagsmengen zwischen  
-OL,15, 35 l/qm und 50 l/qm erwartet. In       
-OL,16, Staulagen werden Mengen bis 70 l/qm    
-OL,17, erreicht.                              
-OL,23,C]DQuelle: DWD 22:25 Uhr            C-> 
-OL,24,AInhalt A-Z BNachrichten  CWetter FSport
-FL,102,112,170,200,0,100
-PN,18702
-SC,0002
-PS,C200
-CT,10,T
-OL,0,           Fhr-textGFr 20.11.26F22:31:44
+OL,0,           Fhr-textGSa 21.11.26F08:32:13
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERWARNUNG  D] G    Fr. 20.11.2026
 OL,3,W#######################################
@@ -35,30 +13,30 @@ OL,8,FKreis Fulda, Kreis Hersfeld-Rotenburg,
 OL,9,FVogelsbergkreis                        
 OL,11, Es besteht erh|hte Gl{ttegefahr durch  
 OL,12, gefrierende N{sse.                     
-OL,23,C]DQuelle: DWD 22:25 Uhr            C-> 
+OL,23,C]DQuelle: DWD 08:25 Uhr            C-> 
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,18702
+SC,0002
+PS,C200
+CT,10,T
+OL,0,           Fhr-textGSa 21.11.26F08:32:13
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]DWETTERWARNUNG  D] G    Sa. 21.11.2026
+OL,3,W#######################################
+OL,4,CWARNUNG vor NEBEL                      
+OL,6, G}ltig : Sa. 06:16 bis Sa. 10:00       
+OL,8,FKreis Fulda, Vogelsbergkreis           
+OL,10, Es tritt verbreitet Nebel mit          
+OL,11, Sichtweiten unter 150 Metern auf.      
+OL,23,F]DQuelle: DWD 08:25 Uhr            F-> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
 PN,18703
 SC,0003
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGFr 20.11.26F22:31:44
-OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]DWETTERWARNUNG  D] G    Fr. 20.11.2026
-OL,3,W#######################################
-OL,4,CWARNUNG vor GL[TTE                     
-OL,6, G}ltig : Fr. 21:00 bis Sa. 09:00       
-OL,8,FKreis Fulda, Kreis Hersfeld-Rotenburg, 
-OL,9,FVogelsbergkreis                        
-OL,11, Es besteht Gl{ttegefahr.               
-OL,23,F]DQuelle: DWD 22:25 Uhr            F-> 
-OL,24,AInhalt A-Z BNachrichten  CWetter FSport
-FL,102,112,170,200,0,100
-PN,18704
-SC,0004
-PS,C200
-CT,10,T
-OL,0,           Fhr-textGFr 20.11.26F22:31:44
+OL,0,           Fhr-textGSa 21.11.26F08:32:13
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERWARNUNG  D] G    Fr. 20.11.2026
 OL,3,W#######################################
@@ -68,6 +46,22 @@ OL,8,FKreis Fulda, Kreis Hersfeld-Rotenburg,
 OL,9,FVogelsbergkreis                        
 OL,11, Es tritt leichter Frost zwischen 0 `C  
 OL,12, und -3 `C auf.                         
-OL,23,F]DQuelle: DWD 22:25 Uhr            F-> 
+OL,23,F]DQuelle: DWD 08:25 Uhr            F-> 
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,18704
+SC,0004
+PS,C200
+CT,10,T
+OL,0,           Fhr-textGSa 21.11.26F08:32:13
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]DWETTERWARNUNG  D] G    Fr. 20.11.2026
+OL,3,W#######################################
+OL,4,CWARNUNG vor GL[TTE                     
+OL,6, G}ltig : Fr. 21:00 bis Sa. 09:00       
+OL,8,FKreis Fulda, Kreis Hersfeld-Rotenburg, 
+OL,9,FVogelsbergkreis                        
+OL,11, Es besteht Gl{ttegefahr.               
+OL,23,F]DQuelle: DWD 08:25 Uhr            F-> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100

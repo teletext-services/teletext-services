@@ -3,15 +3,15 @@ PN,48301
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G483 YLE TEKSTI-TV 21.03.03:42:04
-OL,1,D]G         VOITTAJAVETO 1         1/3  
-OL,2,FKertoimet 04.36, vaihto 215 E          
+OL,0,       G483 YLE TEKSTI-TV 21.03.13:42:56
+OL,1,D]G         VOITTAJAVETO 1         1/5  
+OL,2,FKertoimet 14.36, vaihto 218 E          
 OL,3,BSalibandyn MM-kisat 2026      Osal. 477
 OL,4,K                                       
 OL,5,G 1. 1 Suomi                      1.72  
-OL,6,G 2. 2 Ruotsi                     1.85  
-OL,7,G 3. 3 Tshekki                    46.76 
-OL,8,F 4. 4 Sveitsi                    187.05
+OL,6,G 2. 2 Ruotsi                     1.86  
+OL,7,G 3. 3 Tshekki                    47.42 
+OL,8,F 4. 4 Sveitsi                    94.83 
 OL,9,K                                       
 OL,10,K                                       
 OL,11,K                                       
@@ -33,50 +33,110 @@ PN,48302
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G483 YLE TEKSTI-TV 21.03.03:42:04
-OL,1,D]G         VOITTAJAVETO 2         2/3  
-OL,2,FKertoimet 04.36, vaihto 223 E          
-OL,3,BF1, aika-ajot, Las Vegas      Osal. 477
+OL,0,       G483 YLE TEKSTI-TV 21.03.13:42:56
+OL,1,D]G         VOITTAJAVETO 2         2/5  
+OL,2,FKertoimet 14.36, vaihto 180 E          
+OL,3,BF1, USA:n GP                  Osal. 477
 OL,4,K                                       
-OL,5,G 1. 3 Russell George             3.19  
-OL,6,G 2. 1 Antonelli Kimi             4.03  
-OL,7,G 3. 2 Verstappen Max             4.51  
-OL,8,F 4. 6 Norris Lando               8.74  
-OL,9,G 5. 5 Leclerc Charles            11.41 
-OL,10,G 6. 4 Hamilton Lewis             17.32 
-OL,11,G 7. 7 Piastri Oscar              21.56 
-OL,12,F 8. 8 Hadjar Isack               42.18 
-OL,13,G 9.10 Gasly Pierre               64.67 
-OL,14,G10.11 Lindblad Arvid             194.01
-OL,15,G11.12 Colapinto Franco           194.01
-OL,16,F12.14 Bottas Valtteri            194.01
-OL,17,G13. 9 Lawson Liam                194.01
+OL,5,G 1. 2 Verstappen Max             2.41  
+OL,6,G 2. 3 Russell George             4.61  
+OL,7,G 3. 6 Norris Lando               5.93  
+OL,8,F 4. 1 Antonelli Kimi             6.64  
+OL,9,G 5. 8 Hadjar Isack               19.58 
+OL,10,G 6. 5 Leclerc Charles            26.10 
+OL,11,G 7. 7 Piastri Oscar              26.10 
+OL,12,F 8.11 Lindblad Arvid             52.20 
+OL,13,G 9. 4 Hamilton Lewis             52.20 
+OL,14,G10.10 Gasly Pierre               78.30 
+OL,15,G11.14 Bottas Valtteri            156.60
+OL,16,F12.15 Muu voittaja               156.60
+OL,17,G13. 9 Lawson Liam                156.60
 OL,18,K                                       
 OL,19,K                                       
 OL,20,K                                       
 OL,21,K                                       
 OL,22,K                                       
-OL,23,BPeliaika p{{ttyy la 21.11. klo 06.00   
+OL,23,BPeliaika p{{ttyy su 22.11. klo 06.00   
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,48303
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G483 YLE TEKSTI-TV 21.03.03:42:04
-OL,1,D]G         VOITTAJAVETO 3         3/3  
-OL,2,FKertoimet 04.36, vaihto 181 E          
+OL,0,       G483 YLE TEKSTI-TV 21.03.13:42:56
+OL,1,D]G         VOITTAJAVETO 2         3/5  
+OL,2,FKertoimet 14.36, vaihto 386 E          
+OL,3,BF1, aika-ajot, Las Vegas      Osal. 477
+OL,4,K                                       
+OL,5,G 1. 3 Russell George             1.90  
+OL,6,G 2. 1 Antonelli Kimi             5.08  
+OL,7,G 3. 2 Verstappen Max             6.72  
+OL,8,F 4. 6 Norris Lando               9.55  
+OL,9,G 5. 5 Leclerc Charles            15.28 
+OL,10,G 6. 4 Hamilton Lewis             25.47 
+OL,11,G 7. 7 Piastri Oscar              30.56 
+OL,12,F 8. 8 Hadjar Isack               73.08 
+OL,13,G 9.10 Gasly Pierre               112.06
+OL,14,G10.11 Lindblad Arvid             336.17
+OL,15,G11.12 Colapinto Franco           336.17
+OL,16,F12.14 Bottas Valtteri            336.17
+OL,17,G13. 9 Lawson Liam                336.17
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,C            KOHDE SULJETTU             
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48304
+SC,0004
+PS,C100
+CT,10,T
+OL,0,       G483 YLE TEKSTI-TV 21.03.13:42:56
+OL,1,D]G         VOITTAJAVETO 3         4/5  
+OL,2,FKertoimet 14.36, vaihto 49 E           
+OL,3,BF1, USA:n GP, Valtteri Bottaksen sijoit
+OL,4,K                                       
+OL,5,G 1.12 Muu tulos                  2.66  
+OL,6,G 2.10 19.                        5.33  
+OL,7,G 3.11 20.                        7.11  
+OL,8,F 4. 7 15.-16.                    7.11  
+OL,9,G 5. 9 18.                        10.66 
+OL,10,G 6. 5 11.-12.                    14.21 
+OL,11,G 7. 4 9.-10.                     21.32 
+OL,12,F 8. 6 13.-14.                    21.32 
+OL,13,G 9. 3 7.-8.                      42.63 
+OL,14,G10. 8 17.                        42.63 
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPeliaika p{{ttyy su 22.11. klo 06.00   
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48305
+SC,0005
+PS,C100
+CT,10,T
+OL,0,       G483 YLE TEKSTI-TV 21.03.13:42:56
+OL,1,D]G         VOITTAJAVETO 3         5/5  
+OL,2,FKertoimet 14.36, vaihto 213 E          
 OL,3,BF1, aika-ajot, Las Vegas, Valtteri Bott
 OL,4,K                                       
-OL,5,G 1.12 Muu tulos                  1.39  
-OL,6,G 2.11 20.                        5.62  
-OL,7,G 3.10 19.                        14.32 
-OL,8,F 4. 9 18.                        17.50 
-OL,9,G 5. 6 13.-14.                    26.25 
-OL,10,G 6. 7 15.-16.                    31.49 
-OL,11,G 7. 8 17.                        31.49 
-OL,12,F 8. 4 9.-10.                     52.49 
-OL,13,G 9. 5 11.-12.                    157.47
+OL,5,G 1.12 Muu tulos                  1.38  
+OL,6,G 2.11 20.                        6.17  
+OL,7,G 3.10 19.                        10.29 
+OL,8,F 4. 9 18.                        16.83 
+OL,9,G 5. 6 13.-14.                    30.86 
+OL,10,G 6. 7 15.-16.                    37.03 
+OL,11,G 7. 8 17.                        37.03 
+OL,12,F 8. 4 9.-10.                     61.71 
+OL,13,G 9. 5 11.-12.                    185.14
 OL,14,K                                       
 OL,15,K                                       
 OL,16,K                                       
@@ -86,6 +146,6 @@ OL,19,K
 OL,20,K                                       
 OL,21,K                                       
 OL,22,K                                       
-OL,23,BPeliaika p{{ttyy la 21.11. klo 06.00   
+OL,23,C            KOHDE SULJETTU             
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

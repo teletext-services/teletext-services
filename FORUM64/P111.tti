@@ -3,45 +3,39 @@ PN,11101
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F22:22:47
+OL,0,         GFORUM64   GSa 21 Nov F08:23:39
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EPET 6540 ROM Adapter auf               
-OL,3,E2316/2332/OneROM und                   
-OL,4,EDiagnosem|glichkeiten (aus: OneROM -   
-OL,5,EROM-Ersatz)                            
-OL,7,CAntwort:  Bx1541                       
-OL,8,CComments: B58                          
-OL,9,F                                       
-OL,10,Fja genau, und das mit mehreren ROMs    
-OL,11,Fprobiere ich auch noch. Das editor ROM 
-OL,12,Fbliebe dann separat.                   
-OL,14,CErster Beitrag:                        
-OL,16,GEin passiver Adapter geht evtl. nicht, 
-OL,17,Gda der 6540 PHI2 auf dem CLK-Pin       
-OL,18,Gseparat bekommt.                       
-OL,20,GMit dem Adapter sollten auch 2332 und  
-OL,21,G2316B ROMs aus neueren PETs verwendbar 
-OL,22,Gsein solange diese zu den anderen      
-OL,23,Gpassen. Im Sockel H1, H2, H3 und H4    
+OL,2,EMaus bewegt sich nur aufw{rts          
+OL,4,CAntwort:  BGoDot                       
+OL,5,CComments: B8                           
+OL,6,F                                       
+OL,7,FHat zwar was gedauert, aber ich habe   
+OL,8,Fjetzt XMega65 auf die Stable-Version   
+OL,9,Fzur}ckinstalliert. Damit funktioniert  
+OL,10,Falles bestens. Es ist also ein Fehler  
+OL,11,Fim letzten Nightly. Habe bereits ein   
+OL,12,FIssue abgegeben.                       
+OL,14,FArndt                                  
+OL,16,CErster Beitrag:                        
+OL,18,GIch musste mein Windows (10) neu       
+OL,19,Gaufsetzen und damit auch Xemu (letztes 
+OL,20,GNightly). Bedauerlicherweise           
+OL,21,Gfunktioniert nun die Maus-Emulation (im
+OL,22,GGO64-Modus) nicht mehr, die Maus bewegt
+OL,23,Gsich nicht mehr. Beziehungsweise, mit  
 OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,11102
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F22:22:47
+OL,0,         GFORUM64   GSa 21 Nov F08:23:39
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gmuss der Jumper auf 2-3 und in den     
-OL,4,GSockeln H5, H6 und H7 auf 1-2. Wenn das
-OL,5,GOneROM auf 2316 konfiguriert ist l{sst 
-OL,6,Gsich nur ein Chip ersetzen, ist es auf 
-OL,7,G2332 konfiguriert ersetzt es zwei ROMs 
-OL,8,GH1-H5, H2-H6 oder H4-H7, dazu m}ssen   
-OL,9,Gbeide ROMs entfernt werden. F}r Sockel 
-OL,10,GH3 muss das OneROM zwingend auf 2316   
-OL,11,Gkonfiguriert sein.                     
-OL,13,GUm alle 7 ROMs mit einem zu ersetzen   
-OL,14,Gben|tigt man einen Adapter f}r den CPU 
-OL,15,GSockel der                             
+OL,3,Gder rechten Maustaste geht der Zeiger  
+OL,4,Gnach oben, mit der linken kann ich     
+OL,5,Gweiter ausl|sen, sonst: tote Hose.     
+OL,7,GWas kann ich tun? (In der alten        
+OL,8,GUmgebung funktionierte alles tadellos!)
+OL,10,GArndt                                  
 OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

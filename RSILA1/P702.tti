@@ -3,28 +3,27 @@ PN,70200
 SC,0000
 PS,8308
 CT,10,T
-OL,0,       G702  RSI LA 1  21.11.26 00:58:20
-OL,1,A]GRSI   ]@LA1      VENERDI 20 novembre 
+OL,0,       G702  RSI LA 1  21.11.26 10:58:52
+OL,1,A]GRSI   ]@LA1       SABATO 21 novembre 
 OL,2,G                                       
-OL,3, G04:45  GTG Notte                      
-OL,4, F05:10  FIl QuotidianoCST              
-OL,5, G05:15  GMeteoCST                      
-OL,6, F05:45  FTelegiornaleCST               
-OL,7, G06:15  GSiamo fuoriCST                
-OL,8, F07:10  FMezz'ora per voiCST           
-OL,9, G07:40  GMezz'ora per voiCST           
-OL,10, F08:05  FEverywhere I go -         CST 
-OL,11,         FCoincidenze d'amore           
-OL,12,         FEpisodio 39                   
-OL,13, G08:50  GLa signora in gialloCSTCI/II  
-OL,14,         GAnche le spie hanno un cuore  
-OL,15, F09:40  FUn anno di vita sulla     CST 
-OL,16,         FTerra                         
-OL,17,         FSettembre - Ottobre           
-OL,18, G10:30  GShakespeare &        CSTCI/II 
-OL,19,         GHathaway                      
-OL,20,         Ginvestigatori privati         
-OL,21,         GGli enigmisti                 
+OL,3, G04:45  GIl QuotidianoCR               
+OL,4, F05:15  FTG Notte                      
+OL,5, G05:25  GPrima OraCST                  
+OL,6, F05:30  FMeteoCST                      
+OL,7, G06:20  GIl QuotidianoCST              
+OL,8, F07:00  FSiamo fuoriCST                
+OL,9, G08:00  GColazione con PeoCST          
+OL,10, F08:25  FPiotta la marmottaCST         
+OL,11,         FChe magia                     
+OL,12, G08:30  GMinieroi della foresta -  CST 
+OL,13,         Gstagione 2                    
+OL,14,         GOrto in pericolo!             
+OL,15, F08:40  FI perch@ di ElinorCST         
+OL,16,         FIl seme di un'idea            
+OL,17, G08:50  GPocoyoCST                     
+OL,18,         GIl cantante d'opera           
+OL,19, F09:00  FMojo CambiotopCST             
+OL,20,         FMissione lattuga caprina      
 OL,23,@HTechnical problems, no data available 
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

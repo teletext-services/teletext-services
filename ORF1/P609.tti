@@ -3,7 +3,7 @@ PN,60901
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G609FORF1   GSa 21.11.26 00:17:01
+OL,0,       G609FORF1   GSa 21.11.26 10:17:13
 OL,1,A]G                             K{rnten 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       1/5  
@@ -29,23 +29,23 @@ PN,60902
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G609FORF1   GSa 21.11.26 00:17:01
+OL,0,       G609FORF1   GSa 21.11.26 10:17:13
 OL,1,A]G                             K{rnten 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       2/5  
-OL,4,FBad Bleiberg  C00hG       wolkigF  0,1`
-OL,5, GNW   4-5 km/h 1013hPa  0,0mm/2h 100%LF
-OL,7,FBad Eisenk.   C00hG       wolkigF  2,5`
-OL,8, GS    3-7 km/h 1014hPa  0,0mm/2h  97%LF
-OL,10,FDellach/Draut.C00hG    wolkenlosF  0,3`
-OL,11, GSW   3-6 km/h 1015hPa  0,0mm/2h 100%LF
-OL,13,FFlattnitz     C00hGstark bew|lktF -2,3`
-OL,14, GN    3-8 km/h 1015hPa  0,0mm/2h  98%LF
-OL,16,FFriesach      C00hG       wolkigF  2,6`
-OL,17, GNW   4-5 km/h 1014hPa  0,0mm/2h  95%LF
-OL,19,FHermagor      C00hG       wolkigF  1,5`
-OL,20, GNO   1-5 km/h 1014hPa  0,0mm/2h 100%LF
-OL,21,F              Geosphere Austria  00:00h
+OL,4,FBad Bleiberg  C10hG    wolkenlosF -0,5`
+OL,5, GW    4-7 km/h 1018hPa  0,0mm/2h 100%LF
+OL,7,FBad Eisenk.   C10hG       heiterF  2,2`
+OL,8, GSW   1-5 km/h 1019hPa  0,0mm/2h  94%LF
+OL,10,FDellach/Draut.C10hG    wolkenlosF -0,3`
+OL,11, GSO   2-6 km/h 1020hPa  0,0mm/2h  99%LF
+OL,13,FFlattnitz     C10hG    wolkenlosF  2,9`
+OL,14, GN  10-21 km/h 1016hPa  0,0mm/2h  60%LF
+OL,16,FFriesach      C10hG    wolkenlosF  2,1`
+OL,17, GNO   2-5 km/h 1019hPa  0,0mm/2h  90%LF
+OL,19,FHermagor      C10hG    wolkenlosF  0,5`
+OL,20, GSW   1-5 km/h 1019hPa  0,0mm/2h 100%LF
+OL,21,F              Geosphere Austria  10:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -53,23 +53,23 @@ PN,60903
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G609FORF1   GSa 21.11.26 00:17:01
+OL,0,       G609FORF1   GSa 21.11.26 10:17:13
 OL,1,A]G                             K{rnten 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       3/5  
-OL,4,FKatschberg    C00hG       wolkigF  0,1`
-OL,5, GS   9-13 km/h 829hPa   0,0mm/2h  73%LF
-OL,7,FKlagenfurt    C00hG       wolkigF  4,2`
-OL,8, GO    2-5 km/h          0,0mm/2h  90%LF
-OL,10,FKornat        C00hG    wolkenlosF  1,9`
-OL,11, GW   6-13 km/h          0,0mm/2h  71%LF
-OL,13,FK|tschach-M.  C00hG    wolkenlosF -1,3`
-OL,14, GSW   1-5 km/h 1015hPa  0,0mm/2h  98%LF
-OL,16,FLoibl         C00hG       wolkigF  4,0`
-OL,17, GSW  5-13 km/h 1012hPa  0,0mm/2h  84%LF
-OL,19,FMallnitz      C00hG       wolkigF -0,1`
-OL,20, GNW   4-8 km/h 1013hPa  0,0mm/2h  85%LF
-OL,21,F              Geosphere Austria  00:00h
+OL,4,FKatschberg    C10hGstark bew|lktF  2,1`
+OL,5, GSW  2-20 km/h 833hPa   0,0mm/2h  56%LF
+OL,7,FKlagenfurt    C10hGstark bew|lktF  4,3`
+OL,8, GSW  4-11 km/h          0,0mm/2h  82%LF
+OL,10,FKornat        C10hG    wolkenlosF  5,1`
+OL,11, GSW   5-9 km/h          0,0mm/2h  61%LF
+OL,13,FK|tschach-M.  C10hG    wolkenlosF  3,9`
+OL,14, GSO   2-6 km/h 1018hPa  0,0mm/2h  82%LF
+OL,16,FLoibl         C10hG       wolkigF  3,1`
+OL,17, GS   5-10 km/h 1017hPa  0,0mm/2h  69%LF
+OL,19,FMallnitz      C10hGstark bew|lktF  5,8`
+OL,20, GW   8-23 km/h 1015hPa  0,0mm/2h  54%LF
+OL,21,F              Geosphere Austria  10:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -77,23 +77,23 @@ PN,60904
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G609FORF1   GSa 21.11.26 00:17:01
+OL,0,       G609FORF1   GSa 21.11.26 10:17:13
 OL,1,A]G                             K{rnten 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       4/5  
-OL,4,FMillstatt     C00hG       wolkigF  2,4`
-OL,5, G-      5 km/h          0,0mm/2h 100%LF
-OL,7,FObervellach   C00hG    wolkenlosF -0,1`
-OL,8, GSW   1-5 km/h 1015hPa  0,0mm/2h 100%LF
-OL,10,FP|rtschach    C00hG    wolkenlosF  4,2`
-OL,11, GNO  9-15 km/h 1013hPa  0,0mm/2h  96%LF
-OL,13,FPreitenegg    C00hG       wolkigF -0,3`
-OL,14, GSO   4-6 km/h 1010hPa  0,0mm/2h  99%LF
-OL,16,FSpittal/Drau  C00hG    wolkenlosF  2,4`
-OL,17, GW    2-4 km/h 1014hPa  0,0mm/2h 100%LF
-OL,19,FSt. Andr{ i.L.C00hG       wolkigF  4,2`
-OL,20, GSO   1-4 km/h 1013hPa  0,0mm/2h  94%LF
-OL,21,F              Geosphere Austria  00:00h
+OL,4,FMillstatt     C10hG    wolkenlosF  1,8`
+OL,5, GO    3-8 km/h          0,0mm/2h 100%LF
+OL,7,FObervellach   C10hG       wolkigF  4,8`
+OL,8, GS    3-6 km/h 1018hPa  0,0mm/2h  79%LF
+OL,10,FP|rtschach    C10hG       wolkigF  3,8`
+OL,11, GSW  5-12 km/h 1018hPa  0,0mm/2h  92%LF
+OL,13,FPreitenegg    C10hG    wolkenlosF  3,0`
+OL,14, GS   4-10 km/h 1013hPa  0,0mm/2h  87%LF
+OL,16,FSpittal/Drau  C10hG    wolkenlosF  2,2`
+OL,17, GSO   2-5 km/h 1019hPa  0,0mm/2h  98%LF
+OL,19,FSt. Andr{ i.L.C10hG       wolkigF  4,8`
+OL,20, GNO   3-8 km/h 1018hPa  0,0mm/2h  89%LF
+OL,21,F              Geosphere Austria  10:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -101,23 +101,23 @@ PN,60905
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       G609FORF1   GSa 21.11.26 00:17:01
+OL,0,       G609FORF1   GSa 21.11.26 10:17:13
 OL,1,A]G                             K{rnten 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       5/5  
-OL,4,FSt. Veit/Glan C00hGstark bew|lktF  3,7`
-OL,5, GSO   1-3 km/h 1014hPa  0,0mm/2h  98%LF
-OL,7,FVillach       C00hG       heiterF  3,7`
-OL,8, GSW  7-12 km/h 1013hPa  0,0mm/2h  98%LF
-OL,10,FVillacher AlpeC00hG       wolkigF -1,5`
-OL,11, GW  41-46 km/h 777hPa   0,0mm/2h  68%LF
-OL,13,FV|lkermarkt   C00hG       wolkigF  3,5`
-OL,14, GN    4-6 km/h 1013hPa  0,0mm/2h  94%LF
-OL,16,FWei~ensee     C00hG    wolkenlosF -0,4`
-OL,17, GW    1-5 km/h 1013hPa  0,0mm/2h 100%LF
-OL,19,FWeitensfeld   C00hGstark bew|lktF  2,7`
-OL,20, GW   6-10 km/h 1013hPa  0,0mm/2h  99%LF
-OL,21,F              Geosphere Austria  00:00h
+OL,4,FSt. Veit/Glan C10hG       wolkigF  4,0`
+OL,5, GW    1-5 km/h 1018hPa  0,0mm/2h  91%LF
+OL,7,FVillach       C10hG    wolkenlosF  2,8`
+OL,8, GW    3-8 km/h 1018hPa  0,0mm/2h  97%LF
+OL,10,FVillacher AlpeC10hG       heiterF -1,8`
+OL,11, GNW 24-30 km/h 781hPa   0,0mm/2h  69%LF
+OL,13,FV|lkermarkt   C10hGstark bew|lktF  4,3`
+OL,14, GNW   4-8 km/h 1018hPa  0,0mm/2h  86%LF
+OL,16,FWei~ensee     C10hG    wolkenlosF  1,8`
+OL,17, GW    1-4 km/h 1017hPa  0,0mm/2h 100%LF
+OL,19,FWeitensfeld   C10hGstark bew|lktF  1,5`
+OL,20, GSO  9-14 km/h 1018hPa  0,0mm/2h  97%LF
+OL,21,F              Geosphere Austria  10:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

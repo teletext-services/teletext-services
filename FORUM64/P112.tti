@@ -3,65 +3,67 @@ PN,11201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F22:22:51
+OL,0,         GFORUM64   GSa 21 Nov F08:23:40
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EU64 Elite II/C64U custom Firmware mit  
-OL,3,Eintegrierter WiC64 Unterst}tzung       
-OL,5,CAntwort:  Bsanstarr                    
-OL,6,CComments: B64                          
+OL,2,EAdam Is Me f}r C16 LittleSixteen V4    
+OL,3,ETestversion                            
+OL,5,CAntwort:  BNegan                       
+OL,6,CComments: B2                           
 OL,7,F                                       
-OL,8,F@Juergen Johannes                      
-OL,10,FLeider nicht. Die WiC64 h{ngt am       
-OL,11,FUserport, und WiC64-Programme sprechen 
-OL,12,Fdirekt den CIA 2 an. Das U2+/U2+L      
-OL,13,Fsteckt im Expansionsport und kommt an  
-OL,14,Fdiese Leitungen nicht heran, da hilft  
-OL,15,Fauch keine Firmware. Beim Ultimate 64  
-OL,16,Fund beim                               
-OL,18,CErster Beitrag:                        
-OL,20,GNach einer Testphase habe ich mich     
-OL,21,Gentschlossen, eine Alpha Version der   
-OL,22,GU64 E-II cfw zur Unterst}tzung eines   
-OL,23,GSoftware-WiC64 zum testen rauszugeben. 
+OL,8,FEine dritte Version m|chte ich euch    
+OL,9,Fbereit stellen.                        
+OL,11,FNun sind die Levels animiert wie es in 
+OL,12,Fder urspr}nglichen Version vorgesehen  
+OL,13,Fist.                                   
+OL,15,FDar}ber hinaus habe ich die Galaxy- und
+OL,16,FLevelauswahlbilder ebenso integriert   
+OL,17,Fwie im Original.                       
+OL,19,FDas Spiel l{uft auch in der            
+OL,21,CErster Beitrag:                        
+OL,23,GHallo zusammen,                        
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F22:22:51
+OL,0,         GFORUM64   GSa 21 Nov F08:23:40
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GGetestet bisher auf Ultimate64 Elite II
-OL,4,Gmit Firmware 3.15a. Theoretisch sollte 
-OL,5,Ges auch auf einem C64 Ultimate laufen, 
-OL,6,Gaber dies wurde nicht getestet bisher. 
-OL,7,GAuf {ltern Ultimate64 Ger{ten d}rfte es
-OL,8,Gnicht laufen.                          
-OL,10,GBei dieser Firmware handelt es sich    
-OL,11,G(solange sie noch nicht endg}ltig ist) 
-OL,12,Gum eine tempor{re Firmware, d.h., mit  
-OL,13,Gdem Ausschalten des Ultimate64 ist sie 
-OL,14,Gwieder entfernt und muss bei Bedarf    
-OL,15,Gwieder neu geladen werden. Tempor{r    
-OL,16,Ginstalliert wird die Firmware durch    
-OL,17,Gausf}hren der Datei RAM_WiC64.cfw.     
-OL,18,GDanach findet man unter dem F5 Men} den
-OL,19,GEintrag WiC64. Dort kann es gestartet  
-OL,20,Gund gestoppt werden usw. Auch das      
-OL,21,GPortal kann direkt aus diesem Men}     
-OL,22,Gheraus gestartet werden. Man kann aber 
+OL,3,Gich arbeite an einer C16-              
+OL,4,Gbeziehungsweise LittleSixteen-Version  
+OL,5,Gdes Atari-Puzzlespiels Adam Is Me von  
+OL,6,GAgenda. Man verschiebt darin Objekte   
+OL,7,Gund W|rter. So lassen sich Regeln wie  
+OL,8,GBOX IS PUSH ver{ndern.                 
+OL,10,GDie aktuelle Testversion enth{lt alle  
+OL,11,G64 Originallevel aus acht Welten ,     
+OL,12,GTitelbild, Intro und Levelauswahl.     
+OL,13,GGrafik und Farben wurden f}r den TED   
+OL,14,Gangepasst; bewegliche Objekte werden   
+OL,15,Gmit Software-Sprites dargestellt. Die  
+OL,16,GSpieleffekte laufen }ber den TED. Vier 
+OL,17,GMusikst}cke des Atari-Originals wurden 
+OL,18,Gals dreistimmige Arrangements f}r den  
+OL,19,GSID 8580 bei $FD40 umgesetzt.          
+OL,21,GSteuerung der aktuellen Testversion    
+OL,22,Gvorerst nur per Tastatur:              
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,11203
 SC,0003
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F22:22:51
+OL,0,         GFORUM64   GSa 21 Nov F08:23:40
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gauch ganz normal den Launcher vom WiC64
-OL,4,Gladen und benutzen.                    
-OL,6,GProbleme gibt es derzeit noch bei TLS  
-OL,7,G(HTTPS), da dies aktuell noch zu       
-OL,8,Glangsam ist. Ich hoffe, dass da        
+OL,3,GW, A, S, D: ADAM bewegen; in der       
+OL,4,GGalaxie eine Welt und in der           
+OL,5,GLevelauswahl ein Level w{hlen.         
+OL,6,GLeertaste: Titel und Intro fortsetzen, 
+OL,7,GAuswahl best{tigen, im Level die Pause 
+OL,8,G|ffnen und nach einem Sieg zum n{chsten
+OL,9,GLevel wechseln. C: Auf dem Titelbild   
+OL,10,Gdie Credits anzeigen. Mit der Leertaste
+OL,11,Ggeht es zur}ck. R: Das aktuelle Level  
+OL,12,Gneu starten; funktioniert auch im      
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

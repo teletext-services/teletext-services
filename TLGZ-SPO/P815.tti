@@ -4,28 +4,28 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    815Csob 21 lis  04:50:17
-OL,1,B]     @P i } k a   r ` c z n a    04:31
+OL,0,      BSPORT    815Csob 21 lis  14:51:18
+OL,1,B]     @P i } k a   r ` c z n a    14:41
 OL,2,B]   @Mecze wg kategorii rozgrywek      
 OL,3,B-------- Dania - Herre Ligaen ---------
-OL,4, Aalborg Handbold - Sonderjyske   B14:00
-OL,5, Skive FH - Nordsjaelland HB      B14:00
+OL,4, Aalborg Handbold - Sonderjyske   E18-11
+OL,5, Skive FH - Nordsjaelland HB    E(12-16)
 OL,6, Mors-Thy HB - Skjern Handbold    B15:30
 OL,7,B------ Dania - Kvindeligaen (K) -------
-OL,8, Herning-Ikast - Ringkobing       B14:00
-OL,9, Skanderborg - Esbjerg            B14:00
-OL,10, Sonderjyske - HOJ (W)            B14:00
-OL,11, Kobenhavn - Viborg               B14:00
+OL,8, Sonderjyske - HOJ (W)            B14:00
+OL,9, Skanderborg - Esbjerg          E(10-14)
+OL,10, Kobenhavn - Viborg             E(17-19)
+OL,11, Herning-Ikast - Ringkobing     E(18-15)
 OL,12, Horsens HK - Odense              B16:00
 OL,13,B--------- Europa - Puchar EHF ---------
 OL,14, Runar IL - AHC Potaissa Turda    B16:00
-OL,15,B------- Niemcy - Bundesliga (K) -------
-OL,16, Buxtehuder SV - TuS Metzingen    B16:00
-OL,17, VfL Oldenburg - Goppingen        B16:30
-OL,18,B----------- Polska - I liga -----------
-OL,19, SMS ZPRP II Kielc-Orze} PrzeworskB12:30
-OL,20, MKS Wielu$ - Anilana ]_d~        B14:30
-OL,21, AZS AWF Warszawa-SPR Nowe PiekutyB16:00
+OL,15, Polva Serviti - Dukla Praga      B17:00
+OL,16, Dragunas Klaipeda - Ohrid        B18:00
+OL,17, H71 - Rebud KPR Ostrovia         B18:00
+OL,18, HC Lovcen Cetinje - Timisoara    B18:00
+OL,19, Vojvodina - MSK Pov. Bystrica    B18:00
+OL,20, Voslauer HC - Gorica             B18:00
+OL,21, Haukar Hafnarfjo-RK Slovenj GradeB19:00
 OL,22,R
 OL,23,R
 OL,24,   A800      B801      C802      F804   
@@ -35,27 +35,121 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    815Csob 21 lis  04:50:17
-OL,1,B]     @P i } k a   r ` c z n a    04:31
+OL,0,      BSPORT    815Csob 21 lis  14:51:18
+OL,1,B]     @P i } k a   r ` c z n a    14:41
+OL,2,B]   @Mecze wg kategorii rozgrywek      
+OL,3,B------ Francja - Division 1 (K) -------
+OL,4, Dijon - Toulon                   B19:30
+OL,5, Amand - Plan de Cuques (W)       B19:30
+OL,6, Achenheim (W) - Metz             B19:30
+OL,7, Besancon - Nice                  B20:00
+OL,8, Chambray Tour. - Issy Paris      B20:00
+OL,9, Stella Sports (W)-Brest Bretagne B20:30
+OL,10,B--- Francja - Liqui Moly Starligue ----
+OL,11, Limoges Handball - PAUC HB       B18:00
+OL,12, Saran HB - Chmabery Savoie HB    B19:00
+OL,13, HBC Nantes - Selestat Alsace HB  B20:30
+OL,14,B------- Hiszpania - Liga Asobal -------
+OL,15, Nava - Puente Genil              B17:00
+OL,16, Puerto Sagunto - Cuenca          B18:00
+OL,17, Logrono La Rioja - Ademar Leon   B19:00
+OL,18, Bidasoa Irun - FC Barca          B20:00
+OL,19, Frigorificos Mor-BM Proin SevillaB20:00
+OL,20,B------- Niemcy - Bundesliga (K) -------
+OL,21, Buxtehuder SV - TuS Metzingen    B16:00
+OL,22,R
+OL,23,R
+OL,24,   A800      B801      C802      F804   
+FL,800,801,802,804,0,100
+PN,81503
+SC,0003
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BSPORT    815Csob 21 lis  14:51:18
+OL,1,B]     @P i } k a   r ` c z n a    14:41
+OL,2,B]   @Mecze wg kategorii rozgrywek      
+OL,3,B------- Niemcy - Bundesliga (K) -------
+OL,4, VfL Oldenburg - Goppingen        B16:30
+OL,5, Neckarsulmer SU - Thuringer HC   B18:00
+OL,6, BVB Dortmund - Blomberg-Lippe    B19:00
+OL,7, HC Leipzig (K) - Halle-Neustadt  B19:00
+OL,8,B---- Niemcy - Handball Bundesliga -----
+OL,9, SG BBM Bietighei-Bergischer HC 06B19:00
+OL,10, ThSV Eisenach - MT Melsungen     B19:00
+OL,11, TBV Lemgo Lippe - VfL GummersbachB20:00
+OL,12,B----------- Polska - I liga -----------
+OL,13, SMS ZPRP II Kielc-Orze} PrzeworskB12:30
+OL,14, MKS Wielu$ - Anilana ]_d~        B14:30
+OL,15, AZS AWF Warszawa-SPR Nowe PiekutyB16:00
+OL,16, UKS Spartakus Bu-MKS T`cza Ko|ciaB16:00
+OL,17, Olimpia Piekary \l.-Pa}ac Tarn_w B16:00
+OL,18, MKS Handball Czers-Warmia OlsztynB17:00
+OL,19, UKS Tr_jka Nowa S-PGE KPR GryfinoB17:00
+OL,20, AZS Zielona G_ra-KPR Wolsztyniak B17:00
+OL,21, KSSPR Ko$skie - Hagard Strza}kowoB18:00
+OL,22,R
+OL,23,R
+OL,24,   A800      B801      C802      F804   
+FL,800,801,802,804,0,100
+PN,81504
+SC,0004
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BSPORT    815Csob 21 lis  14:51:18
+OL,1,B]     @P i } k a   r ` c z n a    14:41
 OL,2,B]   @Mecze wg kategorii rozgrywek      
 OL,3,B----------- Polska - I liga -----------
-OL,4, UKS Spartakus Bu-MKS T`cza Ko|ciaB16:00
-OL,5, Olimpia Piekary \l.-Pa}ac Tarn_w B16:00
-OL,6,B--------- Polska - I liga (K) ---------
-OL,7, AZS AWF Warszawa - KPR Bia}ystok B12:00
-OL,8, Dopiewski KPR (W)-KS Pyrki Pozna$B14:45
-OL,9, ZRPP I Lublin (W) - Agrykola (W) B16:00
-OL,10, Zgoda Ruda \l.-Start Pietrowice (B16:00
-OL,11,B------ Polska - ORLEN Superliga -------
-OL,12, NETLAND MKS Kali-Orlen Wis}a P}ocB15:00
-OL,13,B------ Szwecja - Elitserien (K) -------
-OL,14, IF Hallby HK (K) - Skara HF      B13:00
-OL,15, Hoor - IK Savehof                B14:00
-OL,16, Skuru - Kristianstad HK          B14:00
-OL,17, Onnereds HK - Boden HIF          B15:00
+OL,4, Jedynka Mor@g - Silvant Elbl@g   B18:00
+OL,5, SPR Oborniki \l@-TS Zew SwiebodziB18:00
+OL,6, Real Astromal Leszn-\KPR \widnicaB18:00
+OL,7, Zag.Sosnowiec-LKS Komprachcice   B18:00
+OL,8, ASPR Zawadzkie-Grunwald Ruda \l@sB18:00
+OL,9, Start Konin - MTS Lider Radom    B19:00
+OL,10, Pabiks Pabianice-KS Warszawianka B19:00
+OL,11, AZS UW W-wa-Enea Orl`ta Zwole$   B19:00
+OL,12,B--------- Polska - I liga (K) ---------
+OL,13, AZS AWF Warszawa - KPR Bia}ystok B12:00
+OL,14, Dopiewski KPR (W)-KS Pyrki Pozna$B14:45
+OL,15, ZRPP I Lublin (W) - Agrykola (W) B16:00
+OL,16, Zgoda Ruda \l.-Start Pietrowice (B16:00
+OL,17, Ruch II Chorz_w-SMS Zaglebie (W) B17:00
+OL,18, SPR Grunwald (W)-MKS Jelenia G_raB19:00
+OL,19,B------ Polska - ORLEN Superliga -------
+OL,20, NETLAND MKS Kali-Orlen Wis}a P}ocB15:00
+OL,21, PGE Wybrze{e Gda-Energa MMTS KwidB18:00
+OL,22,R
+OL,23,R
+OL,24,   A800      B801      C802      F804   
+FL,800,801,802,804,0,100
+PN,81505
+SC,0005
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BSPORT    815Csob 21 lis  14:51:18
+OL,1,B]     @P i } k a   r ` c z n a    14:41
+OL,2,B]   @Mecze wg kategorii rozgrywek      
+OL,3,B------ Rumunia - Liga Nationala -------
+OL,4, Teutonii Ghimbav - HC Vaslui     B17:00
+OL,5,B------ Szwecja - Elitserien (K) -------
+OL,6, IF Hallby HK (K)-Skara HF F22-38(11-18)
+OL,7, Skuru - Kristianstad HK        E(14-10)
+OL,8, Hoor - IK Savehof                E13-17
+OL,9, Onnereds HK - Boden HIF          B15:00
+OL,10,B------ Szwecja - Handbollsligan -------
+OL,11, Hammarby IF - Amo HK             B17:00
+OL,12, Onnereds HK - Skanela IF         B17:00
+OL,13,B---------- W`gry - K&H liga -----------
+OL,14, Dabas VSE KC - SzigetszentmiklosiB18:00
+OL,15, Ferencvarosi - Balatonfuredi     B18:00
+OL,16, NEKA - Csurgoi                   B18:00
+OL,17, One Veszprem - MOL Tatabanya KC  B18:00
 OL,18,B---------- W`gry - NB I (K) -----------
 OL,19, MOL Esztergom (W) - NEKA (W)     B16:00
 OL,20, Vasas (W) - Mosonmagyar_vari (K) B16:00
+OL,21, Vaci - Szombathelyi (K)          B17:00
 OL,22,R
 OL,23,R
 OL,24,   A800      B801      C802      F804   

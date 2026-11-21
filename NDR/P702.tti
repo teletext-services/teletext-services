@@ -3,24 +3,25 @@ PN,70201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G702FNDR TEXT GFr 20.11.B23:40:58
+OL,0,       G702FNDR TEXT GSa 21.11.B09:41:22
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
-OL,4,F]T  %D     A1, A2, A7       Stand 22:50
-OL,5, Die A1 Fehmarn Richtung L}beck ist     
-OL,6, zwischen Ratekau und Bad Schwartau     
-OL,7, wegen Bauarbeiten bis circa 6 Uhr      
-OL,8, gesperrt.                              
-OL,10,FA1 L}beck - Hamburg Die Norderelbbr}cke
-OL,11,Fist in beiden Richtungen wegen eines   
-OL,12,FSchwertransportes mehrfach kurzfristig 
-OL,13,Fbis circa 5 Uhr gesperrt.              
-OL,15, Die A1 Osnabr}ck - Bremen ist zwischen 
-OL,16, Bramsche und Neuenkirchen/V|rden wegen 
-OL,17, Bauarbeiten bis Montag fr}h, circa 5   
-OL,18, Uhr, in beiden Richtungen gesperrt.    
-OL,19, Eine Umleitung ist eingerichtet.       
+OL,4,F]T  %D     A1, A2, A7       Stand 09:00
+OL,5, Die A1 Osnabr}ck - Bremen ist zwischen 
+OL,6, Bramsche und Neuenkirchen/V|rden bis   
+OL,7, Montag fr}h, circa 5 Uhr, in beiden    
+OL,8, Richtungen gesperrt. Eine Umleitung ist
+OL,9, eingerichtet.                          
+OL,11,FA2 Dortmund Richtung Hannover die      
+OL,12,FEinfahrt Garbsen ist nach einem Unfall 
+OL,13,Fgesperrt                               
+OL,15, Die A7 Flensburg - Hannover ist        
+OL,16, zwischen Hamburg-Stellingen und        
+OL,17, Heimfeld wegen Bauarbeiten bis Montag  
+OL,18, fr}h, circa 5 Uhr, in beiden Richtungen
+OL,19, gesperrt. Umleitungen sind             
+OL,20, eingerichtet.                          
 OL,23,A]G701<         SONSTIGE AUTOBAHNEN >703
 OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
 FL,101,200,300,650,0,100
@@ -28,25 +29,17 @@ PN,70202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G702FNDR TEXT GFr 20.11.B23:40:58
+OL,0,       G702FNDR TEXT GSa 21.11.B09:41:22
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
-OL,4,F]T  %D     A1, A2, A7       Stand 23:30
-OL,5, Die A1 Osnabr}ck - Bremen ist zwischen 
-OL,6, Bramsche und Neuenkirchen/V|rden bis   
-OL,7, Montag fr}h, circa 5 Uhr, in beiden    
-OL,8, Richtungen gesperrt. Eine Umleitung ist
-OL,9, eingerichtet.                          
-OL,11,FDie A2 Hannover Richtung Berlin ist im 
-OL,12,FKreuz Hannover-Ost wegen eines         
-OL,13,FGro~raumtransportes gesperrt.          
-OL,15, Die A7 Flensburg - Hannover ist        
-OL,16, zwischen Hamburg-Stellingen und        
-OL,17, Heimfeld wegen Bauarbeiten bis Montag  
-OL,18, fr}h, circa 5 Uhr, in beiden Richtungen
-OL,19, gesperrt. Umleitungen sind             
-OL,20, eingerichtet.                          
+OL,4,F]T  %D     A1, A2, A7       Stand 09:00
+OL,5, Die A7 Hamburg Richtung Hannover ist   
+OL,6, zwischen Dreieck Hannover-Nord und     
+OL,7, Gro~burgwedel nach einem Unfall        
+OL,8, gesperrt                               
+OL,10,FIn Niedersachsen ist mit Stra~engl{tte 
+OL,11,Fzu rechnen                             
 OL,23,A]G701<         SONSTIGE AUTOBAHNEN >703
 OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

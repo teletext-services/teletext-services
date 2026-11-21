@@ -3,7 +3,7 @@ PN,11901
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G02:33:35
+OL,0,       BSWR BW C   Sa, 21.11.26G12:34:31
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GSWR AKTUELL BW      P5      
 OL,3,T#########"######################"######
@@ -32,7 +32,7 @@ PN,11902
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G02:33:35
+OL,0,       BSWR BW C   Sa, 21.11.26G12:34:31
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GSWR AKTUELL BW      P5      
 OL,3,T#########"######################"######
@@ -50,7 +50,7 @@ OL,16, Freitagabend sei teils aggressiv
 OL,17, gewesen und einzelne Teilnehmer sollen 
 OL,18, Pyrotechnik abgebrannt haben. 20       
 OL,19, Demonstranten seien unter anderem wegen
-OL,20, Verst|~e gegen das Vermummungsverbot,  
+OL,20, Verst|~en gegen das Vermummungsverbot, 
 OL,21, Beleidigung sowie Widerstand gegen     
 OL,22, Vollstreckungsbeamte festgenommen      
 OL,23,D]G                     ]bersicht 112 >>
@@ -60,7 +60,7 @@ PN,11903
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G02:33:35
+OL,0,       BSWR BW C   Sa, 21.11.26G12:34:31
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GSWR AKTUELL BW      P5      
 OL,3,T#########"######################"######
@@ -88,7 +88,7 @@ PN,11904
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G02:33:35
+OL,0,       BSWR BW C   Sa, 21.11.26G12:34:31
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GSWR AKTUELL BW      P5      
 OL,3,T#########"######################"######
@@ -107,8 +107,6 @@ OL,16, Demonstrationszug verboten. Gr}nde
 OL,17, waren fr}here Proteste und ein Video,  
 OL,18, in dem Stadt und Justiz eine Gefahr f}r
 OL,19, Polizisten sahen.                      
-OL,21,CWeitere Demonstrationen in BW          
-OL,22, In Freiburg gingen laut Polizei bei    
 OL,23,D]G                     ]bersicht 112 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -116,24 +114,45 @@ PN,11905
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G02:33:35
+OL,0,       BSWR BW C   Sa, 21.11.26G12:34:31
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GSWR AKTUELL BW      P5      
+OL,3,T#########"######################"######
+OL,4,CWeitere Demonstrationen in BW verliefen
+OL,5,Cfriedlich                              
+OL,6, In Freiburg gingen am Freitag laut     
+OL,7, Polizei bei einer von mehreren         
+OL,8, Demonstrationen rund 2.000 junge       
+OL,9, Menschen unter dem Motto "Schulstreik  
+OL,10, gegen Wehrpflicht" auf die Stra~e. Die 
+OL,11, Veranstalter sprachen von 3.000        
+OL,12, Teilnehmenden. Am Abend gab es einen   
+OL,13, weiteren Protest, laut Polizei mit rund
+OL,14, 600 Teilnehmern.                       
+OL,15, In L|rrach und Ravensburg              
+OL,16, demonstrierten jeweils rund 50 junge   
+OL,17, Menschen. Mehrere Versammlungen in     
+OL,18, Mannheim und Heidelberg verliefen      
+OL,19, ebenfalls friedlich. In beiden St{dten 
+OL,20, seien rund 600 Menschen                
+OL,21, zusammengekommen. In Ulm waren es nach 
+OL,22, Angaben der Polizei 75, in Heilbronn   
+OL,23,D]G                     ]bersicht 112 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,11906
+SC,0006
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Sa, 21.11.26G12:34:31
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GSWR AKTUELL BW      P5      
 OL,3,T#########"######################"######
 OL,4,FBilanz der Gen Z-Demos in BW           
-OL,6, einer von mehreren Demonstrationen rund
-OL,7, 2.000 junge Menschen unter dem Motto   
-OL,8, "Schulstreik gegen Wehrpflicht" auf die
-OL,9, Stra~e. Die Veranstalter sprachen von  
-OL,10, 3.000 Teilnehmenden. Am Abend gab es   
-OL,11, einen weiteren Protest, laut Polizei   
-OL,12, mit rund 600 Teilnehmern. In L|rrach   
-OL,13, und Ravensburg demonstrierten demnach  
-OL,14, jeweils rund 50 junge Menschen, in     
-OL,15, Mannheim z{hlte die Polizei 150        
-OL,16, Teilnehmerinnen und Teilnehmer,        
-OL,17, angemeldet waren 1.000.                
-OL,18, F                Stand 21.11.2026 01:15
+OL,6, bei zwei Demonstrationen insgesamt etwa
+OL,7, 65 Menschen. Auch dort habe es keine   
+OL,8, Zwischenf{lle gegeben.                 
+OL,9, F                Stand 21.11.2026 11:38
 OL,23,D]G                     ]bersicht 112 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

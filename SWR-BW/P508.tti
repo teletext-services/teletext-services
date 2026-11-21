@@ -1,17 +1,44 @@
 DE,SWR-BW 508
-PN,50800
-SC,0000
-PS,8208
+PN,50801
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G02:47:07
+OL,0,       BSWR BW C   Sa, 21.11.26G12:47:46
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,              Autobahn A61              
-OL,6,CA61FLudwigshafen Richtung Koblenz      
-OL,7, zwischen Bingen-Mitte und Dorsheim     
-OL,8, Unfallaufnahme, mittlerer Fahrstreifen 
-OL,9, gesperrt, rechter Fahrstreifen gesperrt
-OL,23,D]GStand:21.11. 02:45   ]bersicht 501 >>
+OL,4,         Autobahn A6,A62,A63,A67        
+OL,6,CA6FN}rnberg Richtung Heilbronn         
+OL,7, zwischen Kirchberg und                 
+OL,8, Ilshofen/Wolpertshausen wegen          
+OL,9, Bergungsarbeiten gesperrt              
+OL,11,CA6FHeilbronn Richtung Mannheim         
+OL,12, zwischen Wiesloch/Rauenberg und Kreuz  
+OL,13, Walldorf defekter LKW auf dem          
+OL,14, Standstreifen                          
+OL,16,CA62FPirmasens Richtung Landstuhl       
+OL,17, zwischen Bann und Landstuhl-Atzel      
+OL,18, Baustelle, Richtungsfahrbahn gesperrt, 
+OL,19, bis heute ca. 17:00 Uhr                
+OL,23,D]GStand:21.11. 12:45   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50802
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Sa, 21.11.26G12:47:46
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,         Autobahn A6,A62,A63,A67        
+OL,6,CA63FKaiserslautern Richtung Mainz      
+OL,7, zwischen Winnweiler und G|llheim       
+OL,8, Gefahr durch Gegenst{nde (ein Reifen)  
+OL,9, auf dem rechten Fahrstreifen           
+OL,11,CA67FMannheim Richtung Darmstadt        
+OL,12, zwischen Pfungstadt und Darmst{dter    
+OL,13, Kreuz 2 km Stau                        
+OL,23,D]GStand:21.11. 12:45   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

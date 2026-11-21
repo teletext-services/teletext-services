@@ -3,27 +3,27 @@ PN,44001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G440FORF1   GSa 21.11.26 00:15:46
+OL,0,       G440FORF1   GSa 21.11.26 10:15:49
 OL,1,A]WG                Billig tanken Tirol 
-OL,2,A]GMOTOR  ]A             20.11.,23:33h \
+OL,2,A]GMOTOR  ]A             21.11.,10:12h \
 OL,3,Q#########G                        1/7  
 OL,4,C                               Super95 
-OL,5,G6150 Stafflach, DISK                   
-OL,6,G     Brenner Stra~e 50           1,539 
-OL,7,F6150 Steinach am Brenner, ENI Gutmann  
-OL,8,F     Brennerstra~e 3             1,539 
-OL,9,G6063 Rum, AVANTI - Rum Siemensstra~e 1 
-OL,10,G     Siemensstra~e 1             1,564 
-OL,11,F6060 Hall in Tirol, ENI Gutmann        
-OL,12,F     Innsbruckerstra~e 90        1,574 
-OL,13,G6330 Kufstein, AP Truck Mobility GmbH  
-OL,14,G     Gewerbepark S}d 6           1,579 
-OL,15,F6330 Kufstein, AVANTI - Kufstein       
-OL,16,F     Schubertstra~e 20           1,583 
-OL,17,G6330 Kufstein, INNTALER Logistik Park  
-OL,18,G     Endach 34                   1,588 
-OL,19,F6020 Innsbruck, DISK                   
-OL,20,F     Andechsstra~e (Langer Weg   1,589 
+OL,5,G6156 Gries a. Brenner, GT TANKAUTOMAT  
+OL,6,G     Bundesstra~e 20             1,535 
+OL,7,F6156 Gries am Brenner, ENI Gutmann     
+OL,8,F     Brennerstra~e 119           1,539 
+OL,9,G6150 Stafflach, DISK                   
+OL,10,G     Brenner Stra~e 50           1,539 
+OL,11,F6150 Steinach am Brenner, ENI Gutmann  
+OL,12,F     Brennerstra~e 3             1,539 
+OL,13,G6150 Steinach Am Brenner, BP           
+OL,14,G     Erlach 138                  1,539 
+OL,15,F6342 Niederndorf, Thrainer             
+OL,16,F     Audorfer Stra~e 41          1,559 
+OL,17,G6370 KITZB]HEL, JET TANKSTELLE         
+OL,18,G     WEGSCHEIDGASSE 18           1,559 
+OL,19,F6372 Oberndorf in Tirol, ENI Gutmann   
+OL,20,F     Bahnhofstra~e 11            1,564 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -33,27 +33,27 @@ PN,44002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G440FORF1   GSa 21.11.26 00:15:47
+OL,0,       G440FORF1   GSa 21.11.26 10:15:49
 OL,1,A]WG                Billig tanken Tirol 
-OL,2,A]GMOTOR  ]A             20.11.,23:33h \
+OL,2,A]GMOTOR  ]A             21.11.,10:12h \
 OL,3,Q#########G                        2/7  
 OL,4,C                               Super95 
-OL,5,G6372 Oberndorf in Tirol, ENI Gutmann   
-OL,6,G     Bahnhofstra~e 11            1,594 
-OL,7,F6335 Thiersee, INN-TANK                
-OL,8,F     Breiten 2                   1,597 
-OL,9,G6500 Landeck, AVANTI - Landeck         
-OL,10,G     Innstra~e 38                1,604 
-OL,11,F6555 Kappl, DISK                       
-OL,12,F     Lochau 378                  1,605 
-OL,13,G6500 LANDECK, JET TANKSTELLE           
-OL,14,G     BAHNHOFSTR. 26              1,607 
-OL,15,F9990 Lienz, Turm|l Quick               
-OL,16,F     Drautal Bundesstra~e 4      1,612 
-OL,17,G9990 Nussdorf, Diskont Tankstelle      
-OL,18,G     Hermann-Gmeiner-Stra~e 14   1,612 
-OL,19,F9963 St. Jakob, Turm|l Quick           
-OL,20,F     Innerrotte 50               1,614 
+OL,5,G6330 Kufstein, AVANTI - Kufstein       
+OL,6,G     Schubertstra~e 20           1,564 
+OL,7,F6330 Kufstein, INNTALER Logistik Park  
+OL,8,F     Endach 34                   1,568 
+OL,9,G6464 TARRENZ, JET TANKSTELLE           
+OL,10,G     HAUPTSTRASSE 78             1,588 
+OL,11,F6500 Landeck, AVANTI - Landeck         
+OL,12,F     Innstra~e 38                1,600 
+OL,13,G9990 Lienz, Turm|l Quick               
+OL,14,G     Drautal Bundesstra~e 4      1,601 
+OL,15,F9900 LIENZ, JET TANKSTELLE             
+OL,16,F     K[RNTNERSTRASSE 88          1,602 
+OL,17,G6555 Kappl, DISK                       
+OL,18,G     Lochau 378                  1,603 
+OL,19,F6511 Zams, DISK                        
+OL,20,F     Hauptstra~e 18              1,605 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -63,19 +63,19 @@ PN,44003
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G440FORF1   GSa 21.11.26 00:15:47
+OL,0,       G440FORF1   GSa 21.11.26 10:15:49
 OL,1,A]WG                Billig tanken Tirol 
-OL,2,A]GMOTOR  ]A             20.11.,23:33h \
+OL,2,A]GMOTOR  ]A             21.11.,10:12h \
 OL,3,Q#########G                        3/7  
 OL,4,C                               Super95 
-OL,5,G6671 Weissenbach am Lech, AVANTI       
-OL,6,G      46                         1,614 
-OL,7,F6522 Prutz, ENI Gutmann                
-OL,8,F     Gewerbestra~e 2             1,617 
-OL,9,G9971 Matrei in Osttirol, DISK          
-OL,10,G     Seblas 33                   1,619 
-OL,11,F9919 Heinfels, Diskont Tankstelle      
-OL,12,F     Panzendorf 182 (am HOFER    1,619 
+OL,5,G6500 LANDECK, JET TANKSTELLE           
+OL,6,G     BAHNHOFSTR. 26              1,605 
+OL,7,F9900 Lienz, Lagerhaus Tankstelle Lienz 
+OL,8,F     K{rntnerstra~e 110          1,606 
+OL,9,G9900 Lienz, ENI Gutmann                
+OL,10,G     Tirolerstra~e 17d           1,607 
+OL,11,F9990 Nussdorf, Diskont Tankstelle      
+OL,12,F     Hermann-Gmeiner-Stra~e 14   1,607 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -85,27 +85,27 @@ PN,44004
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G440FORF1   GSa 21.11.26 00:15:47
+OL,0,       G440FORF1   GSa 21.11.26 10:15:49
 OL,1,A]WG                Billig tanken Tirol 
-OL,2,A]GMOTOR  ]A             20.11.,23:33h \
+OL,2,A]GMOTOR  ]A             21.11.,10:12h \
 OL,3,Q#########G                        4/7  
 OL,4,C                                Diesel 
-OL,5,G6063 Rum, AVANTI - Rum Siemensstra~e 1 
-OL,6,G     Siemensstra~e 1             1,984 
-OL,7,F6150 Stafflach, DISK                   
-OL,8,F     Brenner Stra~e 50           1,989 
-OL,9,G6150 Steinach am Brenner, ENI Gutmann  
-OL,10,G     Brennerstra~e 3             1,989 
-OL,11,F6215 Achenkirch, Egger Wolfgang        
-OL,12,F     Achenkirch 205              1,990 
-OL,13,G6060 Hall in Tirol, ENI Gutmann        
-OL,14,G     Innsbruckerstra~e 90        1,994 
-OL,15,F6372 Oberndorf in Tirol, ENI Gutmann   
-OL,16,F     Bahnhofstra~e 11            1,994 
-OL,17,G6500 Landeck, AVANTI - Landeck         
-OL,18,G     Innstra~e 38                2,004 
-OL,19,F6380 St. Johann in Tirol, DISK         
-OL,20,F     Salzburgerstra~e 18         2,004 
+OL,5,G6370 KITZB]HEL, JET TANKSTELLE         
+OL,6,G     WEGSCHEIDGASSE 18           1,969 
+OL,7,F6370 KITZBUEHEL, Shell Austria         
+OL,8,F     AM SPORTFELD 4              1,974 
+OL,9,G6063 RUM, JET TANKSTELLE               
+OL,10,G     BUNDESSTRASSE 34            1,974 
+OL,11,F6020 Innsbruck, BP                     
+OL,12,F     Hallerstra~e 164            1,979 
+OL,13,G6342 Niederndorf, Thrainer             
+OL,14,G     Audorfer Stra~e 41          1,979 
+OL,15,F6063 Rum, AVANTI - Rum Siemensstra~e 1 
+OL,16,F     Siemensstra~e 1             1,984 
+OL,17,G6372 Oberndorf in Tirol, ENI Gutmann   
+OL,18,G     Bahnhofstra~e 11            1,984 
+OL,19,F6156 Gries a. Brenner, GT TANKAUTOMAT  
+OL,20,F     Bundesstra~e 20             1,985 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -115,27 +115,27 @@ PN,44005
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       G440FORF1   GSa 21.11.26 00:15:47
+OL,0,       G440FORF1   GSa 21.11.26 10:15:49
 OL,1,A]WG                Billig tanken Tirol 
-OL,2,A]GMOTOR  ]A             20.11.,23:33h \
+OL,2,A]GMOTOR  ]A             21.11.,10:12h \
 OL,3,Q#########G                        5/7  
 OL,4,C                                Diesel 
-OL,5,G6555 Kappl, DISK                       
-OL,6,G     Lochau 378                  2,005 
-OL,7,F6500 LANDECK, JET TANKSTELLE           
-OL,8,F     BAHNHOFSTR. 26              2,007 
-OL,9,G6020 Innsbruck, AVANTI - Innsbruck     
-OL,10,G     Andechsstra~e West 86       2,009 
-OL,11,F9990 Lienz, Turm|l Quick               
-OL,12,F     Drautal Bundesstra~e 4      2,012 
-OL,13,G9990 Nussdorf, Diskont Tankstelle      
-OL,14,G     Hermann-Gmeiner-Stra~e 14   2,012 
-OL,15,F6330 Kufstein, AVANTI - Kufstein       
-OL,16,F     Schubertstra~e 20           2,013 
-OL,17,G6321 Angath, DISK                      
-OL,18,G     Angerberger Stra~e 2        2,014 
-OL,19,F6671 Weissenbach am Lech, AVANTI       
-OL,20,F      46                         2,014 
+OL,5,G6464 TARRENZ, JET TANKSTELLE           
+OL,6,G     HAUPTSTRASSE 78             1,988 
+OL,7,F6020 Innsbruck, OIL! Tankstelle        
+OL,8,F     Schusterbergweg 84          1,989 
+OL,9,G6370 Kitzbuehel, OMV - Kitzb}hel       
+OL,10,G     St.Johanner Stra~e 15a      1,989 
+OL,11,F6500 Landeck, AVANTI - Landeck         
+OL,12,F     Innstra~e 38                2000  
+OL,13,G6555 Kappl, DISK                       
+OL,14,G     Lochau 378                  2,002 
+OL,15,F6511 Zams, DISK                        
+OL,16,F     Hauptstra~e 18              2,004 
+OL,17,G6500 LANDECK, JET TANKSTELLE           
+OL,18,G     BAHNHOFSTR. 26              2,004 
+OL,19,F9919 Heinfels, Diskont Tankstelle      
+OL,20,F     Panzendorf 182 (am HOFER    2,009 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -145,19 +145,19 @@ PN,44006
 SC,0006
 PS,C200
 CT,10,T
-OL,0,       G440FORF1   GSa 21.11.26 00:15:47
+OL,0,       G440FORF1   GSa 21.11.26 10:15:49
 OL,1,A]WG                Billig tanken Tirol 
-OL,2,A]GMOTOR  ]A             20.11.,23:33h \
+OL,2,A]GMOTOR  ]A             21.11.,10:12h \
 OL,3,Q#########G                        6/7  
 OL,4,C                                Diesel 
-OL,5,G6522 Prutz, ENI Gutmann                
-OL,6,G     Gewerbestra~e 2             2,017 
-OL,7,F9971 Matrei in Osttirol, DISK          
-OL,8,F     Seblas 33                   2,019 
-OL,9,G9963 St. Jakob, Turm|l Quick           
-OL,10,G     Innerrotte 50               2,024 
-OL,11,F9900 Lienz, OMV Fast Lane - Lienz      
-OL,12,F     Iseltaler Stra~e 30         2,029 
+OL,5,G9918 Strassen, ENI Sillian             
+OL,6,G     Tassenbach 12               2,009 
+OL,7,F9990 Lienz, Turm|l Quick               
+OL,8,F     Drautal Bundesstra~e 4      2,010 
+OL,9,G9990 Nussdorf, Diskont Tankstelle      
+OL,10,G     Hermann-Gmeiner-Stra~e 14   2,011 
+OL,11,F9900 LIENZ, JET TANKSTELLE             
+OL,12,F     K[RNTNERSTRASSE 88          2,013 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -167,9 +167,9 @@ PN,44007
 SC,0007
 PS,C200
 CT,10,T
-OL,0,       G440FORF1   GSa 21.11.26 00:15:47
+OL,0,       G440FORF1   GSa 21.11.26 10:15:49
 OL,1,A]WG                Billig tanken Tirol 
-OL,2,A]GMOTOR  ]A             20.11.,23:33h \
+OL,2,A]GMOTOR  ]A             21.11.,10:12h \
 OL,3,Q#########G                        7/7  
 OL,4,GDie Dateneingaben der angegebenen      
 OL,5,GPreise und sonstigen Konditionen       

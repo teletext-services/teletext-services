@@ -1,17 +1,52 @@
 DE,WEBFAX2 288
-PN,28800
-SC,0000
-PS,8008
+PN,28801
+SC,0001
+PS,C000
 CT,8,T
-OL,0,       GCEEFAX 1 288 Sat 21 NovC02:19/13
+OL,0,       GCEEFAX 1 288 Sat 21 NovC15:18/52
 OL,1,Vzssssss{0Ww;js%7+ b{ j+jkjjjk"7jjsjs   
 OL,2,Vupp=wfff5W-.*,%-. (. *.*.*.** %**,(.V(,
-OL,3,V}yyy5CFriday                       
-OL,5,G0100 Weekend overnights with BBC Radio 
-OL,6,G     5 Live                            
-OL,7,     FLocal BBC Radio joins BBC Radio 5 
-OL,8,     FLive through the night on a       
-OL,9,     Fweekend.                          
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSaturday                     
+OL,5,G1400 Countdown to Kick-Off             
+OL,6,     FTeam news, all the build-up and   
+OL,7,     Finterviews ahead of today's       
+OL,8,     Fmatches for local teams.          
+OL,9,G1500 Three Counties Sport              
+OL,10,     FSheff United v Watford, Burton v  
+OL,11,     FLuton, Mansfield v MK Dons, Notts 
+OL,12,     FCounty v Stevenage.               
+OL,13,G1700 Three Counties 5-0-5              
+OL,14,     FYou've watched or listened to the 
+OL,15,     Fmatch, now have your say with     
+OL,16,     FLuke.                             
+OL,17,G1800 Upload with Rob Jelly             
+OL,18,     FFilm-maker Dan Burns and poet     
+OL,19,     FChris Sibley.                     
+OL,23,VppppppppppppppppppppppppppppppppppG1/2 
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,289,250,301,140,0,100
+PN,28802
+SC,0002
+PS,C000
+CT,8,T
+OL,0,       GCEEFAX 1 288 Sat 21 NovC15:18/52
+OL,1,Vzssssss{0Ww;js%7+ b{ j+jkjjjk"7jjsjs   
+OL,2,Vupp=wfff5W-.*,%-. (. *.*.*.** %**,(.V(,
+OL,3,V}yyy5CSaturday                     
+OL,5,G2000 BBC Introducing - Three Counties &
+OL,6,G     Northants                         
+OL,7,     FKerrie Cosh shares the best       
+OL,8,     Funder-the-radar local musical     
+OL,9,     Ftalent.                           
+OL,10,G2200 Late Night Jo                     
+OL,11,     FJo Good with late-night           
+OL,12,     Fconversation, amazing stories and 
+OL,13,     Fthe soundtrack to your night.     
+OL,14,G0100 Weekend overnights with BBC Radio 
+OL,15,G     5 Live                            
+OL,16,     FLocal BBC Radio joins BBC Radio 5 
+OL,17,     FLive through the night on a       
+OL,18,     Fweekend.                          
+OL,23,VppppppppppppppppppppppppppppppppppG2/2 
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,289,250,301,140,0,100

@@ -3,21 +3,23 @@ PN,37301
 SC,0001
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 373  L|r 21 novC00:06:22
+OL,0,      GSVT Text 373  L|r 21 novC07:26:08
 OL,1,D]GBASKET NBA                           
-OL,3,C20/11FMinnesota - New York   99-102    
-OL,4,      FMilwaukee - Portland  114-124    
-OL,5,      FSan Anton - LA Clippe 124-112    
-OL,6,      FMemphis   - Golden St 126-98     
-OL,7,C21/11GAtlanta   - Charlotte            
-OL,8,      GCleveland - Indiana              
-OL,9,      GBrooklyn  - Orlando              
-OL,10,      GDetroit   - Toronto              
-OL,11,      GOklahoma  - New Orlea            
-OL,12,      GChicago   - Washingto            
-OL,13,      GUtah      - Phoenix              
-OL,14,      GDenver    - Houston              
-OL,15,      GLA Lakers - Sacrament            
+OL,3,C21/11FAtlanta   - Charlotte 111-97     
+OL,4,      FCleveland - Indiana   128-119    
+OL,5,      FBrooklyn  - Orlando   111-113    
+OL,6,      FDetroit   - Toronto   102-105    
+OL,7,      FOklahoma  - New Orlea 126-120    
+OL,8,      FChicago   - Washingto  94-98     
+OL,9,      FUtah      - Phoenix   101-111    
+OL,10,      FDenver    - Houston   133-124    
+OL,11,      FLA Lakers - Sacrament 106-104    
+OL,12,      GPhiladelp - Milwaukee            
+OL,13,C22/11GNew York  - Portland             
+OL,14,      GSan Anton - New Orlea            
+OL,15,      GDallas    - LA Clippe            
+OL,16,      GMinnesota - Memphis              
+OL,17,      GSacrament - Boston               
 OL,23,D]GTabell Eastern Conference f|ljer >>> 
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/5)
 FL,100,300,400,700,0,100
@@ -25,23 +27,23 @@ PN,37302
 SC,0002
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 373  L|r 21 novC00:06:22
+OL,0,      GSVT Text 373  L|r 21 novC07:26:08
 OL,1,D]GBASKET NBA, Eastern Conference       
 OL,3,            CEastern Conference         
 OL,4, B1 Philadelphia          16 13  3  .813
 OL,5, B2 Boston                15 11  4  .733
-OL,6, B3 Detroit               14 10  4  .714
-OL,7, B4 Miami                 15  9  6  .600
-OL,8, B5 Atlanta               15  9  6  .600
+OL,6, B3 Detroit               15 10  5  .667
+OL,7, B4 Atlanta               16 10  6  .625
+OL,8, B5 Miami                 15  9  6  .600
 OL,9, B6 New York              15  9  6  .600
-OL,10, C7 Cleveland             16  8  8  .500
-OL,11, C8 Orlando               14  6  8  .429
-OL,12, C9 Toronto               15  5 10  .333
-OL,13,C10 Indiana               15  5 10  .333
-OL,14,G11 Washington            16  5 11  .313
-OL,15,G12 Charlotte             14  4 10  .286
-OL,16,G13 Chicago               14  4 10  .286
-OL,17,G14 Brooklyn              14  3 11  .214
+OL,10, C7 Cleveland             17  9  8  .529
+OL,11, C8 Orlando               15  7  8  .467
+OL,12, C9 Toronto               16  6 10  .375
+OL,13,C10 Washington            17  6 11  .353
+OL,14,G11 Indiana               16  5 11  .313
+OL,15,G12 Charlotte             15  4 11  .267
+OL,16,G13 Chicago               15  4 11  .267
+OL,17,G14 Brooklyn              15  3 12  .200
 OL,18,G15 Milwaukee             16  1 15  .063
 OL,23,D]GTabell Western Conference f|ljer >>> 
 OL,24,ANyheter BSport CV{der FInneh}llG  (2/5)
@@ -50,24 +52,24 @@ PN,37303
 SC,0003
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 373  L|r 21 novC00:06:22
+OL,0,      GSVT Text 373  L|r 21 novC07:26:08
 OL,1,D]GBASKET NBA, Western Conference       
 OL,3,            CWestern Conference         
-OL,4, B1 San Antonio           16 13  3  .813
-OL,5, B2 LA Lakers             16 13  3  .813
-OL,6, B3 Houston               16 12  4  .750
-OL,7, B4 Memphis               16 12  4  .750
+OL,4, B1 LA Lakers             17 14  3  .824
+OL,5, B2 San Antonio           16 13  3  .813
+OL,6, B3 Memphis               16 12  4  .750
+OL,7, B4 Houston               17 12  5  .706
 OL,8, B5 Minnesota             16 11  5  .688
 OL,9, B6 Portland              15 10  5  .667
-OL,10, C7 Denver                13  8  5  .615
-OL,11, C8 Oklahoma              15  9  6  .600
-OL,12, C9 Dallas                15  8  7  .533
-OL,13,C10 Golden State          16  8  8  .500
-OL,14,G11 Phoenix               14  7  7  .500
-OL,15,G12 New Orleans           16  5 11  .313
+OL,10, C7 Denver                14  9  5  .643
+OL,11, C8 Oklahoma              16 10  6  .625
+OL,12, C9 Phoenix               15  8  7  .533
+OL,13,C10 Dallas                15  8  7  .533
+OL,14,G11 Golden State          16  8  8  .500
+OL,15,G12 New Orleans           17  5 12  .294
 OL,16,G13 LA Clippers           14  4 10  .286
-OL,17,G14 Utah                  16  3 13  .188
-OL,18,G15 Sacramento            14  1 13  .071
+OL,17,G14 Utah                  17  3 14  .176
+OL,18,G15 Sacramento            15  1 14  .067
 OL,23,D]G    VM-kval herrar, grupp L >>>      
 OL,24,ANyheter BSport CV{der FInneh}llG  (3/5)
 FL,100,300,400,700,0,100
@@ -75,7 +77,7 @@ PN,37304
 SC,0004
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 373  L|r 21 novC00:06:22
+OL,0,      GSVT Text 373  L|r 21 novC07:26:08
 OL,1,D]GBASKET VM-kval herrar, grupp L       
 OL,3,C27/8 FFinland   -CSverige   F81-86     
 OL,4,      FUngern    - Estland    85-67     
@@ -102,7 +104,7 @@ PN,37305
 SC,0005
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 373  L|r 21 novC00:06:22
+OL,0,      GSVT Text 373  L|r 21 novC07:26:08
 OL,1,D]GBASKET EM-kval damer, grupp H        
 OL,3,C12/11FLitauen   - Finland    74-76     
 OL,4,      FBelgien   -CSverige   F93-78     

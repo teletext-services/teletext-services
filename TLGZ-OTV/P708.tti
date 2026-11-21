@@ -4,25 +4,25 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     708Csob 21 lis  04:22:17
+OL,0,      BTVP3     708Csob 21 lis  14:23:02
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
-OL,4,E21.11.2026  4:00    GStany:            
+OL,4,E21.11.2026 14:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FCie|nina Dziwna                 
-OL,8,FWolin           B532   F560    580    =
+OL,8,FWolin           B533   F560    580    =
 OL,10, Rzeka:FIna                             
-OL,11,FStargard Szczeci B53   F250    280    =
-OL,12, Goleni_w        B112   G270    320    =
+OL,11,FStargard Szczeci B64   F250    280    =
+OL,12, Goleni_w        B114   G270    320    =
 OL,14, Rzeka:FMorze Ba}tyckie                 
-OL,15,FDziwn_w         B532   F560    580    =
-OL,16, Ko}obrzeg       B528   G570    610    =
-OL,17,F\winouj|cie     B522   F560    580    -
+OL,15,FDziwn_w         B549   F560    580    +
+OL,16, Ko}obrzeg       B545   G570    610    +
+OL,17,F\winouj|cie     B533   F560    580    +
 OL,19, Rzeka:FOdra                            
-OL,20,FGozdowice       B218   F440    500    =
-OL,21, Bielinek        B224   G480    550    =
-OL,22,FWiduchowa       B539   F630    650    =
+OL,20,FGozdowice       B220   F440    500    =
+OL,21, Bielinek        B223   G480    550    =
+OL,22,FWiduchowa       B533   F630    650    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,707,709,100,100,0,100
 PN,70802
@@ -30,24 +30,24 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     708Csob 21 lis  04:22:17
+OL,0,      BTVP3     708Csob 21 lis  14:23:03
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
-OL,4,E21.11.2026  4:00    GStany:            
+OL,4,E21.11.2026 14:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FOdra                            
-OL,8,FGryfino         B541   F570    600    -
-OL,9, Szczecin Most D}B536   G570    600    =
+OL,8,FGryfino         B537   F570    600    =
+OL,9, Szczecin Most D}B534   G570    600    +
 OL,11, Rzeka:FPars`ta                         
 OL,12,FTych_wko        B168   F320    380    =
 OL,13, Bia}ogard       B107   G270    290    =
-OL,14,FBardy           B225   F360    400    +
+OL,14,FBardy           B229   F360    400    =
 OL,16, Rzeka:FRadew                           
-OL,17,FBia}og_rzyno     B70   F190    210    -
+OL,17,FBia}og_rzyno     B68   F190    210    =
 OL,19, Rzeka:FRega                            
-OL,20,FResko           B317   F410    430     
-OL,21, Trzebiat_w      B147   G350    370    =
+OL,20,FResko           B318   F410    430     
+OL,21, Trzebiat_w      B151   G350    370    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,707,709,100,100,0,100
 PN,70803
@@ -55,18 +55,18 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     708Csob 21 lis  04:22:17
+OL,0,      BTVP3     708Csob 21 lis  14:23:03
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
-OL,4,E21.11.2026  4:00    GStany:            
+OL,4,E21.11.2026 14:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FRegalica                        
-OL,8,FSzczecin PodjuchB542   F580    610    =
+OL,8,FSzczecin PodjuchB538   F580    610    +
 OL,10, Rzeka:FWieprza                         
-OL,11,FKorzybie        A161   F130    160    =
-OL,12, Stary Krak_w    B250   G460    500    +
+OL,11,FKorzybie        A163   F130    160    =
+OL,12, Stary Krak_w    B257   G460    500    =
 OL,14, Rzeka:FZalew Szczeci$ski               
-OL,15,FTrzebie{        B529   F540    560    -
+OL,15,FTrzebie{        B529   F540    560    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,707,709,100,100,0,100

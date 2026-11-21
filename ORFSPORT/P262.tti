@@ -1,22 +1,23 @@
 DE,ORFSPORT 262
-PN,26201
-SC,0001
-PS,C200
+PN,26200
+SC,0000
+PS,8208
 CT,10,T
-OL,0,       G262CORF SPORT+G21.11.26 00:45:23
+OL,0,       G262CORF SPORT+G21.11.26 10:45:53
 OL,1,A]G                           Ski alpin 
 OL,2,A]GSPORT  ]A                     Damen \
-OL,3,Q#########G                        1/3  
-OL,4,FSlalom Gurgl, Samstag, Startliste 1.DG 
-OL,6,  1 GWendy Holdener         SUI         
-OL,7,  2 GAnna Swenn-Larsson     SWE         
-OL,8,  3 GPaula Moltzan          USA         
-OL,9,  4 GCamille Rast           SUI         
-OL,10,  5 GEmma Aicher            GER         
-OL,11,  6 GLara Colturi           ALB         
-OL,12,  7 FKatharina Truppe       AUT         
-OL,13,  8 FKatharina Huber        AUT         
-OL,14,  9 GAndreja Slokar         SLO         
+OL,3,Q#########G                             
+OL,4,FSlalom in Gurgl, Stand im 1.Durchgang  
+OL,5,  1.GAnna Swenn-Larsson     SWE   51,70 
+OL,6,  2.GLara Colturi           ALB  + 0,24 
+OL,7,  3.GPaula Moltzan          USA    1,16 
+OL,8,  4.GEmma Aicher            GER    1,28 
+OL,9,  5.GCamille Rast           SUI    1,46 
+OL,10,  6.FKatharina Truppe       AUT    1,52 
+OL,11,  7.FKatharina Huber        AUT    2,50 
+OL,12,  8.GAndreja Slokar         SLO    2,81 
+OL,13,Fout:GHoldener                          
+OL,14,F------ weitere Startreihenfolge ------ 
 OL,15, 10 GCornelia \hlund        SWE         
 OL,16, 11 GDzenifera Germane      LAT         
 OL,17, 12 GMarion Chevrier        FRA         
@@ -25,52 +26,6 @@ OL,19, 14 GSara Hector            SWE
 OL,20, 15 GLena D}rr              GER         
 OL,21, 16 GCaitlin McFarlane      FRA         
 OL,22, 17 GZrinka Ljutic          CRO         
-OL,23,Q,,,,,,,,,,,FStart 10.30h, live in ORF1 
-OL,24,A]bersicht  BSport   CFernsehen  FWetter
-FL,100,200,300,600,0,100
-PN,26202
-SC,0002
-PS,C200
-CT,10,T
-OL,0,       G262CORF SPORT+G21.11.26 00:45:23
-OL,1,A]G                           Ski alpin 
-OL,2,A]GSPORT  ]A                     Damen \
-OL,3,Q#########G                        2/3  
-OL,4,FSlalom Gurgl, Samstag, Startliste 1.DG 
-OL,6, 18 GNeja Dvornik           SLO         
-OL,7, 19 GMarie Lamure           FRA         
-OL,8, 20 GLaurence St-Germain    CAN         
-OL,9, 21 GHanna Aronsson Elfman  SWE         
-OL,10, 22 GEliane Christen        SUI         
-OL,11, 23 GMartina Peterlini      ITA         
-OL,12, 24 FLisa H|rhager          AUT         
-OL,13, 25 FNatalie Falch          AUT         
-OL,14, 26 GA J Hurt               USA         
-OL,15, 27 GAline H|pli            SUI         
-OL,16, 28 GMarta Rossetti         ITA         
-OL,17, 29 GClarisse Breche        FRA         
-OL,18, 30 GNina O'Brien           USA         
-OL,19, 31 GMartina Dubovska       CZE         
-OL,20, 40 FFranziska Gritsch      AUT         
-OL,21, 62 FValentina Rings-Wanner AUT         
-OL,23,Q,,,,,,,,,,,FStart 10.30h, live in ORF1 
-OL,24,A]bersicht  BSport   CFernsehen  FWetter
-FL,100,200,300,600,0,100
-PN,26203
-SC,0003
-PS,C200
-CT,10,T
-OL,0,       G262CORF SPORT+G21.11.26 00:45:23
-OL,1,A]G                           Ski alpin 
-OL,2,A]GSPORT  ]A                     Damen \
-OL,3,Q#########G                        3/3  
-OL,4,FWeltcup in Gurgl, Programm             
-OL,6,CSamstag                                
-OL,7, Slalom             10.30hF*G+ 13.30hF* 
-OL,9,F\SV-Team:GNatalie Falch, Franziska     
-OL,10,GGritsch, Lisa H|rhager, Katharina      
-OL,11,GHuber, Valentina Rings-Wanner,         
-OL,12,GKatharina Truppe                       
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,F* live in ORF1 
+OL,23,Q,,,,,,,,Fweitere Startreihenfolge >267 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

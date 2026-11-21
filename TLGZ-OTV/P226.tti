@@ -4,37 +4,71 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     226Csob 21 lis  04:14:16
+OL,0,      BTVP3     226Csob 21 lis  14:14:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
-OL,3,               FSztorm/2                
-OL,5, CIMGW-PIB OSTRZEGA                     
-OL,6,Czachodniopomorskie,pomorskie, |rodkowa 
-OL,7,Cstrefa brzegowa, w nocy 20/21.11 i rano
-OL,8,C21.11 sztorm do 8 B.                   
-OL,10, Nazwa biura Regionalne Biuro           
-OL,11, Meteorologicznych Prognoz Morskich w   
-OL,12, Szczecinie                             
-OL,13, Zjawisko/stopie$ zagro{enia Sztorm/2   
-OL,14, Obszar Strefa brzegowa - cz`|^ |rodkowa
-OL,15, Wa{no|^ (cz. urz.) od godz. 00:00 dnia 
-OL,16, 21.11.2026 do godz. 08:00 dnia         
-OL,17, 21.11.2026                             
-OL,18, Przebieg Wiatr zachodni do             
-OL,19, p_}nocno-zachodniego 5 do 6 w porywach 
-OL,20, 7, we wschodniej cz`|ci                
-OL,21, wzrastaj@cy na 6 do 7 w porywach 8 w   
-OL,22, skali B.                               
-OL,23, Uwagi Ostrze{enie mo{e by^             
+OL,3,             FOblodzenie/1              
+OL,5, CWoj. pomorskie, IMGW-PIB wyda}        
+OL,6,Costrze{enie pierwszego stopnia o       
+OL,7,Coblodzeniu                             
+OL,9, Wojew_dztwo pomorskie powiaty:         
+OL,10, bytowski, chojnicki, cz}uchowski,      
+OL,11, kartuski, ko|cierski, l`borski, S}upsk,
+OL,12, s}upski, starogardzki i wejherowski.   
+OL,13, Miejscami po opadach deszczu ze        
+OL,14, |niegiem i |niegu, mokre nawierzchnie  
+OL,15, dr_g i chodnik_w mog@ ulega^           
+OL,16, oblodzeniu. Temperatura powietrza      
+OL,17, obni{y si` do -1 C, przy gruncie do    
+OL,18, -3 C.                                  
 FL,225,227,100,100,0,100
 PN,22602
 SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     226Csob 21 lis  04:14:17
+OL,0,      BTVP3     226Csob 21 lis  14:14:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
-OL,3,               FSztorm/2                
-OL,5, kontynuowane.                          
+OL,3,         FSztorm/2 cz. \rodkowa         
+OL,5, CIMGW-PIB OSTRZEGA ,pomorskie, |rodkowa
+OL,6,Cstrefa brzegowa, w dzie$ 21.11 sztorm/2
+OL,7,Cdo 8 B.                                
+OL,9, Nazwa biura Regionalne Biuro           
+OL,10, Meteorologicznych Prognoz Morskich w   
+OL,11, Szczecinie                             
+OL,12, Zjawisko/stopie$ zagro{enia Sztorm/2   
+OL,13, Obszar Strefa brzegowa - cz`|^ |rodkowa
+OL,14, Wa{no|^ (cz. urz.) od godz. 08:00 dnia 
+OL,15, 21.11.2026 do godz. 18:00 dnia         
+OL,16, 21.11.2026                             
+OL,17, Przebieg Wiatr zachodni do             
+OL,18, p_}nocno-zachodniego 6 w porywach 7, na
+OL,19, wschodzie porywy do 8 w skali          
+OL,20, B.                                     
+FL,225,227,100,100,0,100
+PN,22603
+SC,0003
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP3     226Csob 21 lis  14:14:43
+OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
+OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
+OL,3,   FSilny wiatr w strefie brzegowej/1   
+OL,5, CIMGW-PIB OSTRZEGA pomorskie, wschodnia
+OL,6,Cstrefa brzegowa, w dzie$ 21.11 silny   
+OL,7,Cwiatr/1 do 7 B.                        
+OL,9, Nazwa biura Regionalne Biuro           
+OL,10, Meteorologicznych Prognoz Morskich w   
+OL,11, Szczecinie                             
+OL,12, Zjawisko/stopie$ zagro{enia Silny wiatr
+OL,13, w strefie brzegowej/1                  
+OL,14, Obszar Strefa brzegowa - cz`|^         
+OL,15, wschodnia                              
+OL,16, Wa{no|^ (cz. urz.) od godz. 08:00 dnia 
+OL,17, 21.11.2026 do godz. 18:00 dnia         
+OL,18, 21.11.2026                             
+OL,19, Przebieg Wiatr zachodni 5 do 6,        
+OL,20, miejscami w porywach 7 w skali B.      
 FL,225,227,100,100,0,100

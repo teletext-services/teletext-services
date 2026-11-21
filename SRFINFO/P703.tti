@@ -3,26 +3,26 @@ PN,70300
 SC,0000
 PS,8208
 CT,10,T
-OL,0,       G703  SRF info  21.11.26 02:16:02
-OL,1,A]GSRF info G]@Freitag, 20. November    
+OL,0,       G703  SRF info  21.11.26 12:16:41
+OL,1,A]GSRF info G]@Samstag, 21. November    
 OL,2,G                                       
-OL,3,G03:40 G10 vor 10 (W)CDDCUT.........C739
-OL,4,F04:05 FMeteo (W)...................C   
-OL,5,       FSp{tausgabeCDDCUT               
-OL,6,G04:10 GSportflash (W)..............C740
-OL,7,       GDie Sportnews des TagesCDD      
-OL,8,F04:15 FNewsflash SRF 1 (W)CDDCUT...C   
-OL,9,G04:20 G10 vor 10 (W)CDDCUT.........C741
-OL,10,F04:45 FMeteo (W)...................C   
-OL,11,       FSp{tausgabeCDDCUT               
-OL,12,G04:50 GSportflash (W)..............C742
-OL,13,       GDie Sportnews des TagesCDD      
-OL,14,F05:00 F10 vor 10 (W)CDDCUT.........C743
-OL,15,G05:30 GSportflash (W)..............C744
-OL,16,       GDie Sportnews des TagesCDD      
-OL,17,F05:55 FTelesguard (W)CDDCUT........C745
-OL,18,G06:05 GSchweiz aktuell (W)CDDCUT...C765
-OL,19,F06:25 FSportflash (W)..............C746
-OL,20,       FDie Sportnews des TagesCDD      
+OL,3,F17:10 FBILANZ Standpunkte (W)......C728
+OL,4,       FFrankreich und Deutschland:     
+OL,5,       FEuropas grosse Volkswirtschaften
+OL,6,       Fin der Krise                    
+OL,7,G18:00 GMinisguard (W)..............C729
+OL,8,       GWas macht eigentlich ein        
+OL,9,       GKaminfeger?CUT                  
+OL,10,F18:10 FTagesschau (W)..............C766
+OL,11,       FVorabendausgabeCDDCUT           
+OL,12,G18:15 GMeteo (W)...................C   
+OL,13,       GVorabendausgabeCDDCUT           
+OL,14,F18:20 FTagesschau (W)..............C   
+OL,15,       FVorabendausgabeCDDCUT           
+OL,16,G18:25 GMeteo (W)...................C   
+OL,17,       GVorabendausgabeCDDCUT           
+OL,18,F18:30 FFENSTER ZUM SONNTAG -.......C730
+OL,19,       FMagazin (W)                     
+OL,20,       FAchtung toxisch!                
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

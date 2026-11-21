@@ -3,23 +3,25 @@ PN,21701
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G217FORF1   GSa 21.11.26 00:10:04
+OL,0,       G217FORF1   GSa 21.11.26 10:09:26
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A         Italien, 12.Runde \
 OL,3,Q#########G                        1/2  
-OL,4,CSamstag                                
-OL,5,GComo          - Cagliari     G15.00h   
-OL,6,GLazio         - Lecce        G15.00h   
-OL,7,GParma         - Roma         G18.00h   
-OL,8,GNapoli        - Torino       G20.45h   
-OL,10,CSonntag                                
-OL,11,GJuventus      - Venezia      G12.30h   
-OL,12,GBologna       - Udinese      G15.00h   
-OL,13,GSassuolo      - Genoa        G15.00h   
-OL,14,GMilan         - Frosinone    G18.00h   
-OL,15,GAtalanta      - Inter        G20.45h   
-OL,17,CMontag                                 
-OL,18,GMonza         - Fiorentina   G20.45h   
+OL,4,CSamstag, 15.00h                        
+OL,5,FComo          - Cagliari     F-:- (-:-)
+OL,6,FLazio         - Lecce        F-:- (-:-)
+OL,7,C18.00h                                 
+OL,8,FParma         - Roma         F-:- (-:-)
+OL,9,C20.45h                                 
+OL,10,FNapoli        - Torino       F-:- (-:-)
+OL,12,CSonntag                                
+OL,13,GJuventus      - Venezia      G12.30h   
+OL,14,GBologna       - Udinese      G15.00h   
+OL,15,GSassuolo      - Genoa        G15.00h   
+OL,16,GMilan         - Frosinone    G18.00h   
+OL,17,GAtalanta      - Inter        G20.45h   
+OL,19,CMontag                                 
+OL,20,GMonza         - Fiorentina   G20.45h   
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -27,7 +29,7 @@ PN,21702
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G217FORF1   GSa 21.11.26 00:10:04
+OL,0,       G217FORF1   GSa 21.11.26 10:09:26
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A         AItalien, Tabelle \
 OL,3,Q#########G                        2/2  

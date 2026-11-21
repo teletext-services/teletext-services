@@ -3,29 +3,29 @@ PN,71500
 SC,0000
 PS,8208
 CT,10,T
-OL,0,       G715FNDR TEXT GFr 20.11.B23:41:13
+OL,0,       G715FNDR TEXT GSa 21.11.B09:42:09
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN HAMBURG           
-OL,4,F]T  %D     Ankunft      Stand 23:15    
+OL,4,F]T  %D     Ankunft      Stand 09:06    
 OL,5,BFLUG    VON           PLAN ERW. TER/BEM
-OL,6, AY 1421 Helsinki      0740      2      
-OL,7,FKL 1751 Amsterdam     0755      2      
-OL,8, W6 4125 Belgrad       0805      1      
-OL,9,FLH  004 Frankfurt     0805      2      
-OL,10, EJU3943 Mailand/MXP   0815      1      
-OL,11,FLH 2054 M}nchen       0820      2      
-OL,12, FR 5043 Dublin        0840      2      
-OL,13,FW6 7607 Podgorica     0840      1      
-OL,14, LX 1050 Z}rich        0850      2      
-OL,15,FOS  251 Wien          0855      2      
-OL,16, LH  006 Frankfurt     0905      2      
-OL,17,FSK 1641 Kopenhagen    0910      2      
-OL,18, BA  962 London/LHR    0925      2      
-OL,19,FDE 4032 Frankfurt     0935      1      
-OL,20, TK 1661 Istanbul      0935      1      
-OL,21,FFR 2050 Mallorca      0955      2      
-OL,22, LH  010 Frankfurt     1005      2      
+OL,6, LX 1050 Z}rich        0850 0846 2 gela.
+OL,7,FOS  251 Wien          0855 0848 2 gela.
+OL,8, LH  006 Frankfurt     0905 0930 2      
+OL,9,FSK 1641 Kopenhagen    0910 0903 2 Start
+OL,10, BA  962 London/LHR    0925 0943 2      
+OL,11,FDE 4032 Frankfurt     0935 0929 1      
+OL,12, TK 1661 Istanbul      0935 0931 1      
+OL,13,FFR 2050 Mallorca      0955 0942 2      
+OL,14, LH  010 Frankfurt     1005 0955 2      
+OL,15,FLH 2058 M}nchen       1005 1000 2      
+OL,16, W6 4519 Varna         1005 1000 1      
+OL,17,FLX 1052 Z}rich        1010 1004 2      
+OL,18, EW 7751 Wien          1015 1007 1      
+OL,19,FAF 1410 Paris/CDG     1025 1027 2      
+OL,20, EW 7761 Z}rich        1030      1      
+OL,21,FVY 1128 Barcelona     1035 1033 2      
+OL,22, KL 1753 Amsterdam     1040      2      
 OL,23,A]G700<   + = im Landeanflug WEITER >716
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

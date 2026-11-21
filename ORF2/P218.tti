@@ -3,25 +3,28 @@ PN,21801
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G218FORF2   GSa 21.11.26 00:24:08
+OL,0,       G218FORF2   GSa 21.11.26 10:24:57
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A         Spanien, 13.Runde \
 OL,3,Q#########G                        1/2  
-OL,4,CFreitag                                
-OL,5,FBilbao        - Espanyol     F0:1 (0:0)
-OL,6, R.Fernandez 66.                        
-OL,8,CSamstag                                
-OL,9,GAlaves        - La Coruna    G14.00h   
-OL,10,GR.Vallecano   - Valencia     G16.15h   
-OL,11,GSevilla       - Betis        G18.30h   
-OL,12,GReal Madrid   - Celta        G21.00h   
-OL,14,CSonntag                                
-OL,15,GBarcelona     - Villarreal   G14.00h   
-OL,16,GSantander     - R.Sociedad   G16.15h   
-OL,17,GOsasuna       - Malaga       G18.30h   
-OL,18,GGetafe        - Atl.Madrid   G21.00h   
-OL,20,CMontag                                 
-OL,21,GLevante       - Elche        G21.00h   
+OL,4,CSamstag, 14.00h                        
+OL,5,FAlaves        - La Coruna    F-:- (-:-)
+OL,6,C16.15h                                 
+OL,7,FR.Vallecano   - Valencia     F-:- (-:-)
+OL,8,C18.30h                                 
+OL,9,FSevilla       - Betis        F-:- (-:-)
+OL,10,C21.00h                                 
+OL,11,FReal Madrid   - Celta        F-:- (-:-)
+OL,13,CSonntag                                
+OL,14,GBarcelona     - Villarreal   G14.00h   
+OL,15,GSantander     - R.Sociedad   G16.15h   
+OL,16,GOsasuna       - Malaga       G18.30h   
+OL,17,GGetafe        - Atl.Madrid   G21.00h   
+OL,18,CMontag                                 
+OL,19,GLevante       - Elche        G21.00h   
+OL,20,CFreitag                                
+OL,21,FBilbao        - Espanyol     F0:1 (0:0)
+OL,22, R.Fernandez 66.                        
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -29,7 +32,7 @@ PN,21802
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G218FORF2   GSa 21.11.26 00:24:08
+OL,0,       G218FORF2   GSa 21.11.26 10:24:57
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A       A  Spanien, Tabelle \
 OL,3,Q#########G                        2/2  

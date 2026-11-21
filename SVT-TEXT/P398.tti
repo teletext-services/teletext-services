@@ -1,9 +1,32 @@
 DE,SVT-TEXT 398
-PN,39800
-SC,0000
-PS,8108
+PN,39801
+SC,0001
+PS,C100
 CT,10,T
-OL,0,      GSVT Text 398  L|r 21 novC00:08:42
+OL,0,      GSVT Text 398  L|r 21 novC09:06:14
+OL,1,D]G             M]LSERVICE              
+OL,3,BFotboll LaLiga                         
+OL,4,GAlaves       - La Coruna    X - XB14:00
+OL,6,GRayo Valleca - Valencia     X - XB16:15
+OL,8,GSevilla      - Betis        X - XB18:30
+OL,10,GReal Madrid  - Celta Vigo   X - XB21:00
+OL,12,BFotboll Bundesliga                     
+OL,13,GLeverkusen   - Paderborn    X - XB15:30
+OL,15,GM|nchengladb - Dortmund     X - XB15:30
+OL,17,GFrankfurt    - Hoffenheim   X - XB15:30
+OL,19,GElversberg   - Freiburg     X - XB15:30
+OL,21,GU Berlin     - RB Leipzig   X - XB15:30
 OL,23,D]G M}lserviceindex 376 * Resultat 330  
-OL,24,ANyheter   BSport    CV{der    FInneh}ll
+OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
+FL,100,300,400,700,0,100
+PN,39802
+SC,0002
+PS,C100
+CT,10,T
+OL,0,      GSVT Text 398  L|r 21 novC09:06:14
+OL,1,D]G             M]LSERVICE              
+OL,3,BFotboll Bundesliga                     
+OL,4,GSchalke 04   - Stuttgart    X - XB18:30
+OL,23,D]G M}lserviceindex 376 * Resultat 330  
+OL,24,ANyheter BSport CV{der FInneh}llG  (2/2)
 FL,100,300,400,700,0,100

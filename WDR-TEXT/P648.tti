@@ -1,13 +1,46 @@
 DE,WDR-TEXT 648
-PN,64800
-SC,0000
-PS,8208
+PN,64801
+SC,0001
+PS,C200
 CT,10,T
-OL,0,     G648 WDR Text GSa 21.11.26 05:33:26
+OL,0,     G648 WDR Text GSa 21.11.26 15:34:21
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: 2. Bundesliga/M  
-OL,5,CWolfsburg : Kiel                   -:- 
+OL,5,CWolfsburg : Kiel              3:0 (0:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Weiner (50.) 2:0 Hornby (67.)      
+OL,9, 3:0 Reese (76.)                        
+OL,11,CStrafen:                               
+OL,12,S|GVinicius Souza (32.) S|GMeffert (40.)
+OL,13,S|GBalzi (55.) S|GHarres (80.)          
+OL,15,CZuschauer: G21.013                     
+OL,17,CSR: GFelix Prigan                      
 OL,23,]D600 < ]bersicht      Live-Ticker > 649
-OL,24,A]G- 647B]G+ 649  \                     
+OL,24,A]G- 647B]G+ 649  \               G(1/2)
+FL,647,649,0,0,0,100
+PN,64802
+SC,0002
+PS,C200
+CT,10,T
+OL,0,     G648 WDR Text GSa 21.11.26 15:34:21
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: 2. Bundesliga/M  
+OL,5,CWolfsburg : Kiel              3:0 (0:0)
+OL,7,CAustellungen:                          
+OL,9,CWolfsburg                              
+OL,10, Wellenreuther M hle Angely Wahl        
+OL,11, Kumbedi Vinicius Souza                 
+OL,12, Damar (64. Besio) D rdai (64. Hornby)  
+OL,13, Reese Glatzel (65. Shiogai)            
+OL,14, Bernhardsson (64. Gerhardt)            
+OL,15,CKiel                                   
+OL,16, Weiner Tolkin (73. Kvilitaia) Madsen   
+OL,17, Neki  (59. Zec) Sekine                 
+OL,18, Davidsen (85. Ugoh) Meffert            
+OL,19, Therkelsen de Regt (73. Skrzybski)     
+OL,20, Harres Balzi (73. Rosenboom)           
+OL,23,]D600 < ]bersicht      Live-Ticker > 649
+OL,24,A]G- 647B]G+ 649  \               G(2/2)
 FL,647,649,0,0,0,100

@@ -3,20 +3,20 @@ PN,60101
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G601CORF SPORT+G21.11.26 00:46:48
+OL,0,       G601CORF SPORT+G21.11.26 10:47:44
 OL,1,A]G                    Werte \sterreich 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       1/3  
-OL,4,FWien/H. WarteC00h G       wolkigF 10,8`
-OL,5,FEisenstadt   C00h G       wolkigF  9,4`
-OL,6,FSt. P|lten   C00h G       wolkigF  8,4`
-OL,8,FLinz         C00h G      l.RegenF  8,1`
-OL,9,FSalzburg     C00h G  l.Regensch.F  5,3`
-OL,10,FInnsbruck/Un.C00h G      l.RegenF  5,7`
-OL,12,FBregenz      C00h G      l.RegenF  8,2`
-OL,13,FGraz/Stra~ga.C00h Gstark bew|lktF  3,1`
-OL,14,FKlagenfurt/H.C00h G       wolkigF  4,2`
-OL,21,F              Geosphere Austria  00:00h
+OL,4,FWien/H. WarteC10h G       heiterF  6,4`
+OL,5,FEisenstadt   C10h G       heiterF  7,7`
+OL,6,FSt. P|lten   C10h G       wolkigF  6,6`
+OL,8,FLinz         C10h G       heiterF  6,2`
+OL,9,FSalzburg     C10h Gstark bew|lktF  5,7`
+OL,10,FInnsbruck/Un.C10h Gstark bew|lktF  6,3`
+OL,12,FBregenz      C10h G      l.RegenF  6,9`
+OL,13,FGraz/Stra~ga.C10h G       wolkigF  8,9`
+OL,14,FKlagenfurt/H.C10h Gstark bew|lktF  4,3`
+OL,21,F              Geosphere Austria  10:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -24,27 +24,27 @@ PN,60102
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G601CORF SPORT+G21.11.26 00:46:48
+OL,0,       G601CORF SPORT+G21.11.26 10:47:44
 OL,1,A]G                    Werte \sterreich 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       2/3  
 OL,4,FH|chst-Temperaturen letzte Stunde      
-OL,5,GGumpoldskirchen (NOE 223m) ....  13,0`C
-OL,6,GGross Enzersdorf (NOE 153m) ...  12,5`C
-OL,7,GBad Deutsch-Altenb. (NOE 170m).  12,5`C
-OL,8,GEisenstadt/Nordost (BGL 192m) .  12,4`C
-OL,9,GWien/Unterlaa (WIE 199m) ......  12,2`C
-OL,10,GWien/Innere Stadt (WIE 178m) ..  12,1`C
-OL,11,GWien/Schwechat (NOE 183m) .....  12,0`C
+OL,5,GK|flach (STM 462m) ............  12,0`C
+OL,6,GLa~nitzh|he (STM 533m) ........  11,3`C
+OL,7,GRechnitz (BGL 309m) ...........  10,5`C
+OL,8,GF}rstenfeld (STM 270m) ........  10,4`C
+OL,9,GGleisdorf (STM 379m) ..........  10,2`C
+OL,10,GKleinzicken (BGL 267m) ........  10,0`C
+OL,11,GHartberg (STM 337m) ...........   9,6`C
 OL,13,FTiefst-Temperaturen letzte Stunde      
-OL,14,GMariapfarr (SBG 1153m) ........  -3,0`C
-OL,15,GZeltweg (STM 677m) ............  -2,7`C
-OL,16,GSt. Michael/Lungau (SBG 1094m).  -2,2`C
-OL,17,GTamsweg (SBG 1022m) ...........  -1,6`C
-OL,18,GK|tschach-Mauthen (KAE 706m) ..  -1,4`C
-OL,19,GMallnitz (KAE 1198m) ..........  -1,2`C
-OL,20,GRottenmann (STM 718m) .........  -1,2`C
-OL,21,F              Geosphere Austria  00:00h
+OL,14,GDellach (KAE 625m) ............  -1,1`C
+OL,15,GSt. Michael/Lungau (SBG 1094m).  -0,9`C
+OL,16,GJauerling Gipfel (NOE 959m) ...  -0,7`C
+OL,17,GBad Bleiberg (KAE 922m) .......  -0,5`C
+OL,18,GSillian (TIR 1081m) ...........  -0,5`C
+OL,19,GNeumarkt Steiermark (STM 870m).  -0,4`C
+OL,20,GHermagor (KAE 558m) ...........  -0,2`C
+OL,21,F              Geosphere Austria  10:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -52,27 +52,27 @@ PN,60103
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G601CORF SPORT+G21.11.26 00:46:48
+OL,0,       G601CORF SPORT+G21.11.26 10:47:44
 OL,1,A]G                    Werte \sterreich 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       3/3  
 OL,4,FNiederschlag letzte Stunde             
-OL,5,GKollerschlag (OOE 725m) .......  1,9 mm
-OL,6,GFeldkirch (VBG 451m) ..........  1,6 mm
-OL,7,GWarth Vorarlberg (VBG 1475m) ..  1,3 mm
-OL,8,GRohrbach Ober|ster. (OOE 605m).  1,1 mm
-OL,9,GReichenau/M (OOE 693m) ........  1,1 mm
-OL,10,GFraxern (VBG 809m) ............  0,9 mm
-OL,11,GFreistadt (OOE 535m) ..........  0,7 mm
+OL,5,GGolling (SBG 491m) ............  2,1 mm
+OL,6,GLaterns/Gapfohlal. (VBG 1550m).  2,0 mm
+OL,7,GAlberschwende (VBG 719m) ......  1,4 mm
+OL,8,GFeuerkogel (OOE 1618m) ........  1,4 mm
+OL,9,GAbtenau (SBG 711m) ............  0,8 mm
+OL,10,GSchr|cken (VBG 1260m) .........  0,7 mm
+OL,11,GKufstein (TIR 493m) ...........  0,6 mm
 OL,13,FWindspitzen letzte Stunde              
-OL,14,GWolfsegg am Hausru. (OOE 619m). 72 km/h
-OL,15,GKremsm}nster (OOE 389m) ....... 72 km/h
-OL,16,GSchwarzau im Freiw. (NOE 788m). 59 km/h
-OL,17,GTannheim (TIR 1101m) .......... 55 km/h
-OL,18,GKlausen-Leopoldsdo. (NOE 400m). 54 km/h
-OL,19,GOstermiething (OOE 412m) ...... 54 km/h
-OL,20,GPabneukirchen (OOE 621m) ...... 53 km/h
-OL,21,F              Geosphere Austria  00:00h
+OL,14,GLeiser Berge (NOE 458m) ....... 63 km/h
+OL,15,GReichenau/Rax (NOE 485m) ...... 63 km/h
+OL,16,GWiener Neustadt/Fl. (NOE 288m). 56 km/h
+OL,17,GMattersburg (BGL 287m) ........ 55 km/h
+OL,18,GWien/Unterlaa (WIE 199m) ...... 55 km/h
+OL,19,GSeibersdorf (NOE 186m) ........ 54 km/h
+OL,20,GWien/Schwechat (NOE 183m) ..... 54 km/h
+OL,21,F              Geosphere Austria  10:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

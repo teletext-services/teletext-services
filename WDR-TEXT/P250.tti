@@ -1,26 +1,56 @@
 DE,WDR-TEXT 250
-PN,25000
-SC,0000
-PS,8208
+PN,25001
+SC,0001
+PS,C200
 CT,10,T
-OL,0,     G250 WDR Text GDo 30.07.26 20:07:00
+OL,0,     G250 WDR Text GSa 21.11.26 15:25:48
 OL,1,]D]        G]               @]CAKTUELLES
 OL,2,]D]GWDR     ]DSPORT          ]          
 OL,3,]T5D     Fu~ball: Bundesliga       
-OL,4,CBorussia M|nchengladbach               
-OL,6,CZug{nge                                
-OL,7, Jan Leszczynski (Legia Warschau)       
-OL,8, Zento Uno (Shimizu S-Pulse)            
-OL,9, Isac Lidberg (SV Darmstadt 98)         
-OL,10, Yuchym Konoplija (Schachtar Donezk)    
-OL,11, Enzo Leopold (Hannover 96)             
-OL,12, David Herold (Karlsruher SC)           
-OL,13, Daniel Batz (1.FSV Mainz 05)           
-OL,14, Hugo Bolin (Malm| FF)                  
-OL,15, Tom s Cvancara (Celtic Glasgow) *      
-OL,16, Daiki Hashioka (Slavia Prag/Leihe)     
-OL,18,C* zur}ck nach Leihe                    
-OL,22,]T5D     Fu~ball: Bundesliga       
+OL,4,      CSV Elversberg - Sport-Club       
+OL,5, Tore             C0G-C0                
+OL,6, Torsch}sse       C0G-C0                
+OL,7, Exp. Goals       C0G-C0                
+OL,8, P{sse            C0G-C0                
+OL,9, Ecken            C0G-C0                
+OL,10, Fouls            C0G-C0                
+OL,11, Laufstrecke      C0G-C0                
+OL,12, in Kilometern                          
+OL,14, Meiste Sch}sse                         
+OL,15,                  C0G-C0                
+OL,16, Meiste P{sse                           
+OL,17,                  C0G-C0                
+OL,18, Schnellster Spieler (km/h)             
+OL,19,                  C0G-C0                
+OL,20, Am weitesten gelaufen (km)             
+OL,21,                  C0G-C0                
+OL,22,]T5D     sportschau.de Ticker      
 OL,23,]D200 < Sport        weitere Meldungen >
 OL,24,A]G- 249B]G+ 251  \               G(1/2)
+FL,249,251,0,0,0,100
+PN,25002
+SC,0002
+PS,C200
+CT,10,T
+OL,0,     G250 WDR Text GSa 21.11.26 15:25:48
+OL,1,]D]        G]               @]CAKTUELLES
+OL,2,]D]GWDR     ]DSPORT          ]          
+OL,3,CElversberg - Freiburg                  
+OL,4,                           -:-          
+OL,5,C15:21                                  
+OL,6, Wer gewinnt das unerwartete Spitzen-   
+OL,7, spiel zwischen Elversberg und Freiburg?
+OL,8, Finden wir es heraus, gleich geht's    
+OL,9, los!                                   
+OL,11,C15:13                                  
+OL,12, Personell gibt es bei den Freiburgern  
+OL,13, nur einen Wechsel: Torj{ger Suzuki er- 
+OL,14, h{lt nach der L{nderspiel-Reise mit Ja-
+OL,15, pan eine Pause und wird von Matanovic  
+OL,16, vertreten. Bei den Hausherren r}cken   
+OL,17, Verteidiger Gymerah und Fl}gelspieler  
+OL,18, Campbell f}r Krattenmacher und Sirch in
+OL,19, die Startelf.                          
+OL,23,]D200 < Sport        weitere Meldungen >
+OL,24,A]G- 249B]G+ 251  \               G(2/2)
 FL,249,251,0,0,0,100

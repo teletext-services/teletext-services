@@ -4,28 +4,27 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    806Csob 21 lis  04:50:02
-OL,1,C]            @T e n i s           04:41
+OL,0,      BSPORT    806Csob 21 lis  14:50:44
+OL,1,C]            @T e n i s           14:39
 OL,2,C]    @Mecze wg godz. rozpocz`cia       
-OL,3, J.K.TrotterF1:1GA.Mayo     C7:6 2:6E0:0
-OL,4, M.HontamaF0:0GJ.G.Daniele          E2:1
-OL,5, S.GorznyF0:0GL.Tu                  E3:3
-OL,6, B.HassanF0:0GY.Watanuki            E2:2
-OL,7, Hoeyeraal / Padgham              B04:30
-OL,8,  Jung / Rai                            
-OL,9,CJ.(K) - A.(K)                    B04:45
-OL,10, H.Sakatsume - M.Urrutia          B05:30
-OL,11,CReynolds / Watt                  B06:00
-OL,12, CLoof / Uesugi                         
-OL,13, T.(K) - S.(K)                    B07:00
-OL,14,CM.Sawangkaew - V.Golubic         B08:00
-OL,15, L.Tararudee - J.B.Teichmann      B09:30
-OL,16,CKlepac / Radisic                 B11:00
-OL,17, CGoenadi / Sutjiadi                    
-OL,18, T.Samuel - L.Djere               B12:00
-OL,19,CT.Zidansek - M.Goenadi           B12:30
-OL,20, Falkowska / Kubka                B13:00
-OL,21,  Hennemann / Zaar                      
+OL,3,F0GFalkowska / Kubka                C5E3
+OL,4,F1 CHennemann / Zaar                 7E1
+OL,5, C.BurelF0:1CT.Gibson            2:6E0:3
+OL,6, M.Kubka - K.R.Persson            B14:30
+OL,7,CC.Alcaraz - B.Shelton            B14:40
+OL,8, D.Parry - S.Hunter               B15:00
+OL,9,CG.Feistel - C.Hennemann          B16:00
+OL,10, Rojer / Winegar                  B16:30
+OL,11,  Johnson / Venus                       
+OL,12,CPigossi / Stefani                B17:00
+OL,13, CArseneault / Dabrowski                
+OL,14, Heck/Miyoshi - Hands/Summers     B17:00
+OL,15,CB.(K) - K.(K)                    B17:05
+OL,16, Krawietz / Puetz                 B18:00
+OL,17,  Arribage / Olivetti                   
+OL,18,CReyes-Varela / Stalder           B18:00
+OL,19, CLammons / Smith                       
+OL,20, L.Pigossi - B.Andreescu           Aprz.
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C803      F804   
@@ -35,19 +34,46 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    806Csob 21 lis  04:50:03
-OL,1,C]            @T e n i s           04:41
+OL,0,      BSPORT    806Csob 21 lis  14:50:44
+OL,1,C]            @T e n i s           14:39
 OL,2,C]    @Mecze wg godz. rozpocz`cia       
-OL,3,CF.(K) - A.(K)                    B13:30
-OL,4, C.Burel - T.Gibson               B13:30
-OL,5,CN.Basavareddy - O.Virtanen       B13:30
-OL,6, C.Alcaraz - B.Shelton            B14:00
-OL,7,CD.Jakupovic - L.Naswardhani      B14:00
-OL,8, M.Kubka - K.R.Persson            B14:30
-OL,9,CD.Parry - S.Hunter               B15:00
-OL,10, G.Feistel - C.Hennemann          B16:00
-OL,11,CRojer / Winegar                  B16:30
-OL,12, CJohnson / Venus                       
+OL,3, Strakhova / Tikhonova            B18:30
+OL,4,  Erjavec / Kulambayeva                 
+OL,5,CB.Artnak - S.Mitsui              B19:00
+OL,6, J.Lee - O.Tarvet                 B19:00
+OL,7,CBarrientos / Kestelboi           B19:00
+OL,8, CDrzewiecki / Matuszew.                
+OL,9, U.(K) - W.(K)                    B19:30
+OL,10,CC.Gauff - D.Galfi                B19:30
+OL,11, D.Dietrich - C.Chidekh           B19:30
+OL,12,CN.L.D.Silva - K.Cross            B20:00
+OL,13, A.Zverev - D.Miedwiediew         B20:30
+OL,14,CA.Li - A.Bondar                  B21:00
+OL,15, L.R.Gormaz - L.Bronzetti         B21:00
+OL,16,CJ.K.Trotter - L.Draxl            B21:00
+OL,17, E.Moller - T.S.Wild              B21:00
+OL,18,CG.Maristany - R.Masarova         B22:30
+OL,19, M.Pucinelli - G.Justo            B22:30
+OL,20,CE.Cook - S.R.Ziegann             B00:30
+OL,21, J.Delaney - C.Ferguson           B00:30
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80603
+SC,0003
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BSPORT    806Csob 21 lis  14:50:44
+OL,1,C]            @T e n i s           14:39
+OL,2,C]    @Mecze wg godz. rozpocz`cia       
+OL,3,CC.Hoole - E.Padgham              B01:30
+OL,4, C.Yunseong - J.Yamasaki          B02:00
+OL,5,CH.Koyama - T.Ichikawa            B02:00
+OL,6, R.Matsuda - Y.Tobe               B02:00
+OL,7,CT.Fancutt - M.E.Sik              B02:00
+OL,8, Z.Stevens - B.O'Connell          B02:00
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C803      F804   

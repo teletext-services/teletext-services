@@ -3,19 +3,19 @@ PN,23001
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G230 YLE TEKSTI-TV 21.03.03:36:23
+OL,0,       G230 YLE TEKSTI-TV 21.03.13:37:00
 OL,1,B]D J[[KIEKKO  ]G  U20 SM-SARJA     1/2 
 OL,2,T#######################################
 OL,3, HIFK       21 13  2  2  4  77- 48  45  
 OL,4, K{rp{t     23 12  3  0  8  87- 65  42  
 OL,5, Pelicans   19 12  1  1  5  64- 46  39  
 OL,6, Lukko      18 10  2  0  6  55- 41  34  
-OL,7,FTPS        19  9  1  4  5  60- 55  33  
-OL,8,FJukurit    20  9  2  2  7  57- 60  33  
-OL,9,FK-Espoo    19 10  0  2  7  75- 56  32  
-OL,10,FSport      20  9  2  1  8  81- 67  32  
-OL,11,FTappara    20 10  0  2  8  60- 67  32  
-OL,12,FIlves      19  9  1  2  7  70- 71  31  
+OL,7,FIlves      20 10  1  2  7  74- 73  34  
+OL,8,FTPS        20  9  1  4  6  62- 59  33  
+OL,9,FJukurit    20  9  2  2  7  57- 60  33  
+OL,10,FK-Espoo    19 10  0  2  7  75- 56  32  
+OL,11,FSport      20  9  2  1  8  81- 67  32  
+OL,12,FTappara    20 10  0  2  8  60- 67  32  
 OL,13,FHPK        17  9  0  3  5  64- 46  30  
 OL,14,FJokerit    20  8  1  3  8  65- 55  29  
 OL,15,GKalPa      19  5  5  0  9  62- 72  25  
@@ -33,29 +33,29 @@ PN,23002
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G230 YLE TEKSTI-TV 21.03.03:36:23
+OL,0,       G230 YLE TEKSTI-TV 21.03.13:37:00
 OL,1,B]D J[[KIEKKO  ]G  U20 SM-SARJA     2/2 
 OL,2,T#######################################
 OL,3,B21.11.                                 
-OL,4, TPS          - Ilves       F10.00      
-OL,5, Jukurit      - K-Espoo     F12.30      
-OL,6, KalPa        - Pelicans    F12.30      
-OL,7, RoKi         - KooKoo      F12.40      
-OL,8, Lukko        - [ss{t       F12.45      
-OL,9, JYP          - HIFK        F15.30      
-OL,10, Jokerit      - SaiPa       F16.00      
-OL,11, HPK          - Tappara     F20.00      
+OL,4, JYP          - HIFK        F15.30      
+OL,5, Jokerit      - SaiPa       F16.00      
+OL,6, HPK          - Tappara     F20.00      
+OL,7,K                                       
+OL,8,B22.11.                                 
+OL,9, [ss{t        - HPK         F11.00      
+OL,10, Lukko        - Ilves       F14.30      
+OL,11, Tappara      - TPS         F18.00      
 OL,12,K                                       
-OL,13,B22.11.                                 
-OL,14, [ss{t        - HPK         F11.00      
-OL,15, Lukko        - Ilves       F14.30      
-OL,16, Tappara      - TPS         F18.00      
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
+OL,13,B25.11.                                 
+OL,14, JYP          - Tappara     F17.00      
+OL,15, KooKoo       - Pelicans    F17.00      
+OL,16, SaiPa        - HIFK        F17.00      
+OL,17, Ilves        - [ss{t       F18.30      
+OL,18, KalPa        - Jukurit     F18.30      
+OL,19, TPS          - HPK         F18.30      
 OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
+OL,21,B26.11.                                 
+OL,22, K-Espoo      - Jokerit     F18.40      
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

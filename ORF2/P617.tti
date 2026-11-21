@@ -3,29 +3,29 @@ PN,61701
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G617FORF2   GSa 21.11.26 00:32:18
+OL,0,       G617FORF2   GSa 21.11.26 10:32:42
 OL,1,A]G                       International 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########G                      1/10  
+OL,3,Q##########G                       1/9  
 OL,4,C       Ortszeit bei Messung            
-OL,5,FAjaccio ..... 00:00 wolkig ......  17`C
-OL,6,GAlgier ...... 00:00 heiter ......  18`C
-OL,7,FAmman ....... 01:00 wolkenlos ...  14`C
-OL,8,GAmsterdam ... 23:00 l.Regensch. .   3`C
-OL,9,FAnkara ...... 02:00 Regenschauer   14`C
-OL,10,GAntalya ..... 02:00 l.Regensch. .  20`C
-OL,11,FAthen ....... 01:00 heiter ......  19`C
-OL,12,GAuckland .... 12:00 wolkig ......  18`C
-OL,13,FBangkok ..... 04:00 wolkenlos ...  28`C
-OL,14,GBarcelona ... 00:00 wolkenlos ...  11`C
-OL,15,FBeirut ...... 01:00 wolkenlos ...  20`C
-OL,16,GBelfast ..... 22:00 Eisnadeln          
-OL,17, .   2`C                                
-OL,18,FBelgrad ..... 00:00 wolkenlos ...   9`C
-OL,19,GBerlin ...... 00:00 wolkenlos ...  -1`C
-OL,20,FBern ........ 00:00 Regen .......   8`C
-OL,21,GBodrum ...... 01:00 heiter ......  22`C
-OL,22,FBordeaux .... 00:00 Nebelschwaden  11`C
+OL,5,FAjaccio ..... 10:00 wolkig ......  16`C
+OL,6,GAlgier ...... 10:00 heiter ......  20`C
+OL,7,FAmman ....... 11:00 wolkenlos ...  25`C
+OL,8,GAmsterdam ... 09:00 Regenschauer    7`C
+OL,9,FAnkara ...... 12:00 st.Regensch.   12`C
+OL,10,GAntalya ..... 11:00 l.Regensch. .  20`C
+OL,11,FAthen ....... 11:00 heiter ......  21`C
+OL,12,GAuckland .... 22:00 wolkig ......  15`C
+OL,13,FBangkok ..... 13:00 heiter ......  34`C
+OL,14,GBarcelona ... 10:00 wolkenlos ...  14`C
+OL,15,FBeirut ...... 11:00 wolkenlos ...  24`C
+OL,16,GBelfast ..... 08:00 wolkig ......   7`C
+OL,17,FBelgrad ..... 10:00 wolkenlos ...  14`C
+OL,18,GBerlin ...... 10:00 heiter ......   4`C
+OL,19,FBern ........ 10:00 l.Regen .....   7`C
+OL,20,GBodrum ...... 11:00 wolkig ......  22`C
+OL,21,FBordeaux .... 10:00 wolkenlos ...  11`C
+OL,22,C                       Letzte Messwerte
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -33,11 +33,28 @@ PN,61702
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G617FORF2   GSa 21.11.26 00:32:18
+OL,0,       G617FORF2   GSa 21.11.26 10:32:42
 OL,1,A]G                       International 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########G                      2/10  
-OL,4,C                       Letzte Messwerte
+OL,3,Q##########G                       2/9  
+OL,4,C       Ortszeit bei Messung            
+OL,5,FBozen ....... 09:00 wolkenlos ...   3`C
+OL,6,GBratislava .. 10:00 l.Regen .....   7`C
+OL,7,FBrisbane .... 16:00 wolkig ......  24`C
+OL,8,GBrno ........ 10:00 heiter ......   4`C
+OL,9,FBr}ssel ..... 09:00 wolkig ......   5`C
+OL,10,GBudapest .... 10:00 Nebel .......   8`C
+OL,11,FBuenos Aires  05:00 wolkenlos ...  19`C
+OL,12,GBukarest .... 11:00 wolkenlos ...  12`C
+OL,13,FCampeche .... 03:00 heiter ......  22`C
+OL,14,GCasablanca .. 09:00 wolkenlos ...  20`C
+OL,15,FChicago ..... 02:00 wolkenlos ...  13`C
+OL,16,GColombo ..... 14:00 wolkig ......  31`C
+OL,17,FDamaskus .... 11:00 wolkenlos ...  21`C
+OL,18,GDenver ...... 01:00 wolkig ......   3`C
+OL,19,FDjerba ...... 10:00 heiter ......  23`C
+OL,20,GDresden ..... 10:00 wolkig ......   4`C
+OL,21,FDubai ....... 13:00 wolkig ......  30`C
 OL,22,C                       Letzte Messwerte
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
@@ -46,28 +63,28 @@ PN,61703
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G617FORF2   GSa 21.11.26 00:32:18
+OL,0,       G617FORF2   GSa 21.11.26 10:32:42
 OL,1,A]G                       International 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########G                      3/10  
+OL,3,Q##########G                       3/9  
 OL,4,C       Ortszeit bei Messung            
-OL,5,FBozen ....... 22:00 wolkenlos ...   1`C
-OL,6,GBratislava .. 00:00 wolkenlos ...  12`C
-OL,7,FBrisbane .... 09:00 stark bew|lkt  24`C
-OL,8,GBrno ........ 00:00 wolkenlos ...   8`C
-OL,9,FBr}ssel ..... 23:00 wolkenlos ...   3`C
-OL,10,GBudapest .... 00:00 wolkig ......   7`C
-OL,11,FBuenos Aires  20:00 wolkenlos ...  25`C
-OL,12,GBukarest .... 01:00 wolkenlos ...   9`C
-OL,13,FCampeche .... 16:00 wolkenlos ...  26`C
-OL,14,GCasablanca .. 23:00 heiter ......  16`C
-OL,15,FChicago ..... 16:00 wolkig ......  17`C
-OL,16,GColombo ..... 04:00 wolkig ......  25`C
-OL,17,FDamaskus .... 01:00 wolkenlos ...  15`C
-OL,18,GDenver ...... 15:00 wolkig ......  13`C
-OL,19,FDjerba ...... 00:00 heiter ......  19`C
-OL,20,GDresden ..... 00:00 wolkig ......   3`C
-OL,21,FDubai ....... 03:00 wolkenlos ...  25`C
+OL,5,FDublin ...... 09:00 wolkig ......   5`C
+OL,6,GDubrovnik ... 09:00 wolkenlos ...  14`C
+OL,7,FEdinburgh ... 08:00 wolkenlos ...  -4`C
+OL,8,GEilat ....... 08:00 wolkenlos ...  23`C
+OL,9,FFaro ........ 09:00 wolkig ......  17`C
+OL,10,GFlorenz ..... 09:00 wolkig ......  17`C
+OL,11,FFrankfurt/M . 10:00 heiter ......   4`C
+OL,12,GFunchal ..... 08:00 wolkig ......  21`C
+OL,13,FGenf ........ 10:00 l.Regen .....   9`C
+OL,14,GG|teborg .... 10:00 heiter ......   0`C
+OL,15,FHamburg ..... 10:00 wolkig ......   6`C
+OL,16,GHanoi ....... 16:00 stark bew|lkt  21`C
+OL,17,FHavanna ..... 03:00 Nebelschwaden  22`C
+OL,18,GHelsinki .... 11:00 l.Regensch. .   1`C
+OL,19,FHeraklion ... 11:00 heiter ......  22`C
+OL,20,GHongkong .... 17:00 heiter ......  22`C
+OL,21,FHurghada .... 08:00 wolkenlos ...  22`C
 OL,22,C                       Letzte Messwerte
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
@@ -76,28 +93,28 @@ PN,61704
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G617FORF2   GSa 21.11.26 00:32:18
+OL,0,       G617FORF2   GSa 21.11.26 10:32:42
 OL,1,A]G                       International 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########G                      4/10  
+OL,3,Q##########G                       4/9  
 OL,4,C       Ortszeit bei Messung            
-OL,5,FDublin ...... 23:00 heiter ......   5`C
-OL,6,GDubrovnik ... 22:00 wolkig ......  14`C
-OL,7,FEdinburgh ... 22:00 wolkenlos ...  -3`C
-OL,8,GEilat ....... 23:00 wolkenlos ...  23`C
-OL,9,FFaro ........ 20:00 wolkenlos ...  16`C
-OL,10,GFlorenz ..... 23:00 wolkig ......  15`C
-OL,11,FFrankfurt/M . 00:00 l.Regensch. .   5`C
-OL,12,GFunchal ..... 22:00 wolkig ......  21`C
-OL,13,FGenf ........ 00:00 wolkig ......  10`C
-OL,14,GG|teborg .... 00:00 wolkenlos ...  -4`C
-OL,15,FHamburg ..... 00:00 wolkig ......   2`C
-OL,16,GHanoi ....... 06:00 stark bew|lkt  16`C
-OL,17,FHavanna ..... 17:00 l.Regen .....  24`C
-OL,18,GHelsinki .... 01:00 l.Regensch. .   2`C
-OL,19,FHeraklion ... 01:00 heiter ......  21`C
-OL,20,GHongkong .... 07:00 heiter ......  16`C
-OL,21,FHurghada .... 23:00 wolkenlos ...  21`C
+OL,5,FIstanbul .... 11:00 wolkig ......  18`C
+OL,6,GIzmir ....... 11:00 heiter ......  21`C
+OL,7,FJakarta ..... 16:00 heiter ......  32`C
+OL,8,GJohannesburg  11:00 wolkig ......  23`C
+OL,9,FKairo ....... 11:00 wolkenlos ...  27`C
+OL,10,GKapstadt .... 11:00 heiter ......  21`C
+OL,11,FKiew ........ 11:00 stark bew|lkt   6`C
+OL,12,GKopenhagen .. 10:00 wolkenlos ...   4`C
+OL,13,FKorfu ....... 11:00 heiter ......  21`C
+OL,14,GKrakau ...... 10:00 heiter ......   4`C
+OL,15,FKuala Lumpur  17:00 heiter ......  31`C
+OL,16,GLanzarote ... 09:00 wolkenlos ...  21`C
+OL,17,FLarnaca ..... 11:00 heiter ......  24`C
+OL,18,GLas Palmas .. 09:00 wolkig ......  21`C
+OL,19,FLas Vegas ... 00:00 wolkenlos ...   8`C
+OL,20,GLima ........ 04:00 stark bew|lkt  22`C
+OL,21,FLissabon .... 09:00 Nieseln .....  17`C
 OL,22,C                       Letzte Messwerte
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
@@ -106,28 +123,28 @@ PN,61705
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       G617FORF2   GSa 21.11.26 00:32:18
+OL,0,       G617FORF2   GSa 21.11.26 10:32:42
 OL,1,A]G                       International 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########G                      5/10  
+OL,3,Q##########G                       5/9  
 OL,4,C       Ortszeit bei Messung            
-OL,5,FIstanbul .... 02:00 wolkenlos ...  18`C
-OL,6,GIzmir ....... 02:00 wolkig ......  19`C
-OL,7,FJakarta ..... 06:00 wolkig ......  27`C
-OL,8,GJohannesburg  01:00 wolkig ......  17`C
-OL,9,FKairo ....... 01:00 wolkenlos ...  21`C
-OL,10,GKapstadt .... 01:00 wolkenlos ...  14`C
-OL,11,FKiew ........ 01:00 stark bew|lkt   6`C
-OL,12,GKopenhagen .. 00:00 stark bew|lkt   3`C
-OL,13,FKorfu ....... 01:00 heiter ......  17`C
-OL,14,GKrakau ...... 00:00 Regen .......   7`C
-OL,15,FKuala Lumpur  07:00 heiter ......  26`C
-OL,16,GLanzarote ... 23:00 heiter ......  19`C
-OL,17,FLarnaca ..... 01:00 wolkenlos ...  18`C
-OL,18,GLas Palmas .. 23:00 heiter ......  21`C
-OL,19,FLas Vegas ... 14:00 wolkig ......  15`C
-OL,20,GLima ........ 18:00 wolkig ......  24`C
-OL,21,FLissabon .... 23:00 stark bew|lkt  16`C
+OL,5,FLjubljana ... 10:00 wolkenlos ...   6`C
+OL,6,GLondon ...... 08:00 wolkig ......   3`C
+OL,7,FLos Angeles . 00:00 wolkenlos ...  13`C
+OL,8,GLuxemburg ... 09:00 wolkenlos ...   3`C
+OL,9,FMadrid ...... 10:00 Regen .......  10`C
+OL,10,GMailand ..... 09:00 Nebelschwade.   8`C
+OL,11,FMalaga ...... 10:00 wolkenlos ...  12`C
+OL,12,GMale ........ 14:00 wolkig ......  32`C
+OL,13,FMallorca .... 10:00 heiter ......  14`C
+OL,14,GMalta ....... 10:00 heiter ......  21`C
+OL,15,FMaribor ..... 10:00 wolkenlos ...   7`C
+OL,16,GMaskat ...... 12:00 heiter ......  29`C
+OL,17,FMauritius ... 13:00 wolkig ......  27`C
+OL,18,GMelbourne ... 20:00 wolkenlos ...  19`C
+OL,19,FMexico-Stadt  02:00 wolkig ......   8`C
+OL,20,GMiami ....... 03:00 heiter ......  22`C
+OL,21,FMinsk ....... 09:00 heiter ......  -1`C
 OL,22,C                       Letzte Messwerte
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
@@ -136,28 +153,28 @@ PN,61706
 SC,0006
 PS,C200
 CT,10,T
-OL,0,       G617FORF2   GSa 21.11.26 00:32:18
+OL,0,       G617FORF2   GSa 21.11.26 10:32:42
 OL,1,A]G                       International 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########G                      6/10  
+OL,3,Q##########G                       6/9  
 OL,4,C       Ortszeit bei Messung            
-OL,5,FLjubljana ... 00:00 Nebel .......   5`C
-OL,6,GLondon ...... 22:00 l.Regen .....   6`C
-OL,7,FLos Angeles . 14:00 heiter ......  18`C
-OL,8,GLuxemburg ... 23:00 wolkig ......   5`C
-OL,9,FMadrid ...... 00:00 heiter ......  10`C
-OL,10,GMailand ..... 23:00 Nebelschwaden   1`C
-OL,11,FMalaga ...... 00:00 wolkenlos ...  11`C
-OL,12,GMale ........ 04:00 wolkenlos ...  27`C
-OL,13,FMallorca .... 00:00 heiter ......   9`C
-OL,14,GMalta ....... 00:00 wolkenlos ...  18`C
-OL,15,FMaribor ..... 00:00 Nebelschwaden   2`C
-OL,16,GMaskat ...... 02:00 wolkenlos ...  24`C
-OL,17,FMauritius ... 03:00 wolkig ......  21`C
-OL,18,GMelbourne ... 10:00 stark bew|lkt  19`C
-OL,19,FMexico-Stadt  16:00 heiter ......  20`C
-OL,20,GMiami ....... 17:00 heiter ......  26`C
-OL,21,FMinsk ....... 00:00 wolkig ......   1`C
+OL,5,FMonastir .... 10:00 heiter ......  20`C
+OL,6,GMontreal .... 04:00 wolkig ......   4`C
+OL,7,FMoskau ...... 10:00 stark bew|lkt   5`C
+OL,8,GMumbai ...... 14:00 wolkenlos ...  31`C
+OL,9,FM}nchen ..... 10:00 stark bew|lkt   5`C
+OL,10,GNairobi ..... 11:00 wolkig ......  23`C
+OL,11,FNeapel ...... 07:00 wolkenlos ...  14`C
+OL,12,GNeu-Delhi ... 11:00 wolkenlos ...  25`C
+OL,13,FNew York .... 03:00 wolkig ......  11`C
+OL,14,GNizza ....... 10:00 wolkenlos ...  14`C
+OL,15,FOlbia ....... 09:00 stark bew|lkt  16`C
+OL,16,GOsaka ....... 18:00 wolkig ......   9`C
+OL,17,FOslo ........ 09:00 heiter ......  -3`C
+OL,18,GPalermo ..... 09:00 heiter ......  19`C
+OL,19,FParis ....... 10:00 wolkig ......   9`C
+OL,20,GPeking ...... 17:00 heiter ......   5`C
+OL,21,FPerth ....... 14:00 l.Regensch. .  21`C
 OL,22,C                       Letzte Messwerte
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
@@ -166,28 +183,28 @@ PN,61707
 SC,0007
 PS,C200
 CT,10,T
-OL,0,       G617FORF2   GSa 21.11.26 00:32:18
+OL,0,       G617FORF2   GSa 21.11.26 10:32:42
 OL,1,A]G                       International 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########G                      7/10  
+OL,3,Q##########G                       7/9  
 OL,4,C       Ortszeit bei Messung            
-OL,5,FMonastir .... 00:00 wolkenlos ...  18`C
-OL,6,GMontreal .... 18:00 heiter ......  10`C
-OL,7,FMoskau ...... 01:00 stark bew|lkt   5`C
-OL,8,GMumbai ...... 04:00 wolkenlos ...  23`C
-OL,9,FM}nchen ..... 00:00 l.Regen .....   8`C
-OL,10,GNairobi ..... 01:00 wolkig ......  18`C
-OL,11,FNeapel ...... 23:00 Nieseln .....  16`C
-OL,12,GNeu-Delhi ... 02:00 wolkenlos ...  15`C
-OL,13,FNew York .... 17:00 heiter ......  18`C
-OL,14,GNizza ....... 00:00 wolkenlos ...  15`C
-OL,15,FOlbia ....... 23:00 wolkenlos ...  16`C
-OL,16,GOsaka ....... 08:00 heiter ......   8`C
-OL,17,FOslo ........ 23:00 wolkenlos ...  -2`C
-OL,18,GPalermo ..... 23:00 wolkig ......  20`C
-OL,19,FParis ....... 00:00 wolkig ......   9`C
-OL,20,GPeking ...... 07:00 heiter ......  -1`C
-OL,21,FPerth ....... 07:00 l.Regensch. .  17`C
+OL,5,FPhuket ...... 16:00 heiter ......  30`C
+OL,6,GPodgorica ... 09:00 heiter ......  13`C
+OL,7,FPorto ....... 09:00 l.Regen .....  15`C
+OL,8,GPrag ........ 10:00 wolkig ......   4`C
+OL,9,FPristina .... 10:00 wolkig ......  10`C
+OL,10,GPuerto Plata  05:00 heiter ......  24`C
+OL,11,FPula ........ 10:00 wolkenlos ...  11`C
+OL,12,GReykjavik ... 09:00 Nieseln .....   4`C
+OL,13,FRhodos ...... 11:00 heiter ......  22`C
+OL,14,GRiad ........ 12:00 wolkenlos ...  30`C
+OL,15,FRiga ........ 11:00 wolkig ......   3`C
+OL,16,GRijeka ...... 09:00 stark bew|lkt  12`C
+OL,17,FRimini ...... 09:00 wolkenlos ...  17`C
+OL,18,GRio ......... 07:00 wolkig ......  26`C
+OL,19,FRom ......... 09:00 wolkenlos ...  14`C
+OL,20,GSan Francisco 00:00 heiter ......  10`C
+OL,21,FSant.de Chile 06:00 wolkig ......  14`C
 OL,22,C                       Letzte Messwerte
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
@@ -196,28 +213,28 @@ PN,61708
 SC,0008
 PS,C200
 CT,10,T
-OL,0,       G617FORF2   GSa 21.11.26 00:32:18
+OL,0,       G617FORF2   GSa 21.11.26 10:32:43
 OL,1,A]G                       International 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########G                      8/10  
+OL,3,Q##########G                       8/9  
 OL,4,C       Ortszeit bei Messung            
-OL,5,FPhuket ...... 06:00 heiter ......  27`C
-OL,6,GPodgorica ... 23:00 wolkig ......  14`C
-OL,7,FPorto ....... 21:00 stark bew|lkt  15`C
-OL,8,GPrag ........ 00:00 Regen .......   5`C
-OL,9,FPristina .... 00:00 wolkig ......  12`C
-OL,10,GPuerto Plata  19:00 wolkig ......  28`C
-OL,11,FPula ........ 00:00 wolkenlos ...   6`C
-OL,12,GReykjavik ... 23:00 wolkenlos ...   3`C
-OL,13,FRhodos ...... 01:00 heiter ......  20`C
-OL,14,GRiad ........ 02:00 wolkenlos ...  17`C
-OL,15,FRiga ........ 01:00 stark bew|lkt   0`C
-OL,16,GRijeka ...... 22:00 wolkig ......  12`C
-OL,17,FRimini ...... 23:00 wolkenlos ...  15`C
-OL,18,GRio ......... 20:00 Gewitterregen  28`C
-OL,19,FRom ......... 23:00 heiter ......  15`C
-OL,20,GSan Francisco 14:00 wolkig ......  13`C
-OL,21,FSant.de Chile 20:00 wolkenlos ...  21`C
+OL,5,FSt.Petersburg 10:00 stark bew|lkt   1`C
+OL,6,GSarajevo .... 09:00 wolkenlos ...   9`C
+OL,7,FSchanghai ... 17:00 wolkenlos ...  13`C
+OL,8,GSharm el S. . 08:00 wolkenlos ...  21`C
+OL,9,FSingapur .... 17:00 wolkig ......  29`C
+OL,10,GSiofok ...... 10:00 wolkig ......   7`C
+OL,11,FSofia ....... 11:00 wolkenlos ...  12`C
+OL,12,GStockholm ... 10:00 l.Schneefall   -1`C
+OL,13,FStra~burg ... 10:00 wolkenlos ...   8`C
+OL,14,GStuttgart ... 10:00 wolkig ......   4`C
+OL,15,FSydney ...... 20:00 wolkenlos ...  24`C
+OL,16,GTaipeh ...... 17:00 wolkig ......  18`C
+OL,17,FTallinn ..... 11:00 Nieseln .....   2`C
+OL,18,GTeheran ..... 12:00 heiter ......  17`C
+OL,19,FTel Aviv .... 11:00 wolkenlos ...  27`C
+OL,20,GTeneriffa S}d 09:00 heiter ......  22`C
+OL,21,FThessaloniki  10:00 wolkig ......  17`C
 OL,22,C                       Letzte Messwerte
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
@@ -226,58 +243,28 @@ PN,61709
 SC,0009
 PS,C200
 CT,10,T
-OL,0,       G617FORF2   GSa 21.11.26 00:32:19
+OL,0,       G617FORF2   GSa 21.11.26 10:32:43
 OL,1,A]G                       International 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########G                      9/10  
+OL,3,Q##########G                       9/9  
 OL,4,C       Ortszeit bei Messung            
-OL,5,FSt.Petersburg 01:00 Nieseln .....   6`C
-OL,6,GSarajevo .... 23:00 wolkig ......   6`C
-OL,7,FSchanghai ... 07:00 wolkenlos ...   8`C
-OL,8,GSharm el S. . 01:00 wolkenlos ...  20`C
-OL,9,FSingapur .... 07:00 wolkig ......  27`C
-OL,10,GSiofok ...... 00:00 wolkig ......   7`C
-OL,11,FSofia ....... 01:00 wolkenlos ...   9`C
-OL,12,GStockholm ... 00:00 Schneefall ..  -1`C
-OL,13,FStra~burg ... 00:00 wolkig ......  10`C
-OL,14,GStuttgart ... 00:00 Regen .......   8`C
-OL,15,FSydney ...... 10:00 wolkenlos ...  26`C
-OL,16,GTaipeh ...... 07:00 wolkig ......  16`C
-OL,17,FTallinn ..... 01:00 wolkenlos ...   0`C
-OL,18,GTeheran ..... 02:00 heiter ......   8`C
-OL,19,FTel Aviv .... 01:00 wolkenlos ...  17`C
-OL,20,GTeneriffa S}d 23:00 wolkig ......  23`C
-OL,21,FThessaloniki  00:00 heiter ......  14`C
-OL,22,C                       Letzte Messwerte
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,61710
-SC,0010
-PS,C200
-CT,10,T
-OL,0,       G617FORF2   GSa 21.11.26 00:32:19
-OL,1,A]G                       International 
-OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########G                     10/10  
-OL,4,C       Ortszeit bei Messung            
-OL,5,FTirana ...... 22:00 stark bew|lkt  16`C
-OL,6,GTobago ...... 19:00 wolkig ......  28`C
-OL,7,FTokio ....... 08:00 wolkenlos ...   8`C
-OL,8,GToronto ..... 18:00 heiter ......  11`C
-OL,9,FTunis ....... 00:00 heiter ......  17`C
-OL,10,GVaduz ....... 00:00 l.Regen .....   8`C
-OL,11,FValencia .... 00:00 wolkenlos ...  12`C
-OL,12,GVancouver ... 15:00 wolkig ......   6`C
-OL,13,FVenedig ..... 23:00 Nebel .......   7`C
-OL,14,GVilnius ..... 23:00 wolkenlos ...  -1`C
-OL,15,FWarschau .... 00:00 wolkenlos ...  -1`C
-OL,16,GWashington DC 17:00 wolkig ......  12`C
-OL,17,FWien/Flugh. . 00:00 wolkig ......  11`C
-OL,18,GWindhoek .... 01:00 heiter ......  20`C
-OL,19,FWladiwostok . 09:00 wolkenlos ... -10`C
-OL,20,GZagreb ...... 22:00 wolkenlos ...   5`C
-OL,21,FZ}rich ...... 00:00 l.Regensch. .   7`C
+OL,5,FTirana ...... 07:00 stark bew|lkt  15`C
+OL,6,GTobago ...... 05:00 heiter ......  26`C
+OL,7,FTokio ....... 18:00 heiter ......  10`C
+OL,8,GToronto ..... 04:00 wolkig ......   4`C
+OL,9,FTunis ....... 10:00 heiter ......  19`C
+OL,10,GVaduz ....... 10:00 l.Regen .....   6`C
+OL,11,FValencia .... 10:00 heiter ......  13`C
+OL,12,GVancouver ... 01:00 stark bew|lkt   5`C
+OL,13,FVenedig ..... 09:00 Nebel .......   6`C
+OL,14,GVilnius ..... 08:00 stark bew|lkt  -1`C
+OL,15,FWarschau .... 10:00 wolkig ......   2`C
+OL,16,GWashington DC 03:00 wolkig ......   4`C
+OL,17,FWien/Flugh. . 10:00 heiter ......   7`C
+OL,18,GWindhoek .... 11:00 heiter ......  29`C
+OL,19,FWladiwostok . 19:00 wolkenlos ...  -9`C
+OL,20,GZagreb ...... 09:00 wolkig ......  13`C
+OL,21,FZ}rich ...... 10:00 wolkig ......   8`C
 OL,22,C                       Letzte Messwerte
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
