@@ -4,27 +4,27 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  812Cpi@ 20 lis  18:10:54
-OL,1,C]      @K o s z y k _ w k a       06:32
+OL,0,      BKULTURA  812Csob 21 lis  04:10:49
+OL,1,C]      @K o s z y k _ w k a       03:57
 OL,2,C]    @Wyniki zako$czonych spotka$      
-OL,3, Coachella ValleyF113:108GStockton Kings
-OL,4,                C26:32 31:34 22:23 34:19
-OL,5, Oklahoma City BlueF112:86GCapitanes    
-OL,6,                C22:21 33:22 34:16 23:27
-OL,7, Milwaukee BucksF114:124GPortland       
-OL,8,                C21:24 37:36 34:36 22:28
-OL,9, San Antonio SpuF124:112GLos Angeles Cli
-OL,10,                C24:21 33:33 35:34 32:24
-OL,11, Memphis GrizzliesF126:98GGolden State  
-OL,12,                C31:24 24:23 37:26 34:25
-OL,13, MinnesotaF99:102GNew York Knicks       
-OL,14,                C26:33 24:32 28:25 21:12
-OL,15, ValenciaF92:87GVirtus Bologna          
-OL,16,                C30:25 20:15 17:23 25:24
-OL,17, ParisF97:96GHapoel Tel Aviv            
-OL,18,                C22:26 26:19 32:27 17:24
-OL,19, Olimpia MilanoF78:70GFenerbahce        
-OL,20,                 C23:19 14:19 18:23 23:9
+OL,3, Cleveland CavaliF128:119GIndiana Pacers
+OL,4,                C29:29 33:32 43:22 23:36
+OL,5, Maine CelticsF114:102GCapital City Go-G
+OL,6,                C26:34 38:20 27:23 23:25
+OL,7, Grand Rapids GolF114:97GCleveland Charg
+OL,8,                C18:29 37:24 36:19 23:25
+OL,9, Atlanta HawksF111:97GCharlotte Hornets 
+OL,10,                C23:31 33:26 31:19 24:21
+OL,11, PartizanF91:87GBesiktas                
+OL,12,          C20:22 21:19 22:18 14:18 14:10
+OL,13, BarcelonaF100:103GCrvena zvezda        
+OL,14,          C23:15 17:29 26:24 19:17 15:18
+OL,15, DijonF93:77GLe Mans                    
+OL,16,                C22:14 29:27 24:10 18:26
+OL,17, Astoria BydgoszczF95:58GCzarni S}upsk  
+OL,18,                C20:17 28:18 25:11 22:12
+OL,19, OlympiacosF92:76GReal Madryt           
+OL,20,                C19:14 31:19 23:19 19:24
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C802      F803   
@@ -34,28 +34,41 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  812Cpi@ 20 lis  18:10:54
-OL,1,C]      @K o s z y k _ w k a       06:32
+OL,0,      BKULTURA  812Csob 21 lis  04:10:49
+OL,1,C]      @K o s z y k _ w k a       03:57
 OL,2,C]    @Wyniki zako$czonych spotka$      
-OL,3, Bayern MonachiumF100:81GBaskonia       
-OL,4,                C29:24 26:17 21:24 24:16
-OL,5, BahrajnF70:74GKuwejt                   
-OL,6,                C17:19 13:24 19:14 21:17
-OL,7, ZEAF74:80GSyriaC16:22 16:20 21:23 21:15
-OL,8, Kotwica Ko}obrzegF61:86G]KS ]_d~       
-OL,9,                  C9:22 22:20 21:19 9:25
-OL,10, ZalgirisF72:87GPanathinaikos           
-OL,11,                C17:28 22:19 16:12 17:28
-OL,12, Polit.OpolskaF83:94GResovia Rzesz_w    
-OL,13,                C21:29 20:23 24:17 18:25
-OL,14, LeviceF88:90GZastal Zielona G_ra       
-OL,15,                C25:21 17:32 21:21 25:16
-OL,16, Memphis HustleF98:105GTexas Legends    
-OL,17,                C33:17 28:27 13:28 24:33
-OL,18, Maccabi Tel AvivF74:80GDubai           
-OL,19,                C26:14 21:26 15:18 12:22
-OL,20, Osceola MagicF106:129GAustin Spurs     
-OL,21,                C25:35 36:33 19:34 26:27
+OL,3, Chorale RoanneF85:82GLimoges           
+OL,4,                C32:14 12:22 25:14 16:32
+OL,5, Anadolu EfesF107:81GASVEL              
+OL,6,                C25:17 29:24 31:25 22:15
+OL,7, Note^ Inowroc}awF81:94GSp_jnia Stargard
+OL,8,                C28:22 15:22 20:19 18:31
+OL,9, G_rnik Wa}brzychF70:52GGTK Gliwice     
+OL,10,                C15:10 13:14 27:14 15:14
+OL,11, Coachella ValleyF113:108GStockton Kings
+OL,12,                C26:32 31:34 22:23 34:19
+OL,13, Oklahoma City BlueF112:86GCapitanes    
+OL,14,                C22:21 33:22 34:16 23:27
+OL,15, Milwaukee BucksF114:124GPortland       
+OL,16,                C21:24 37:36 34:36 22:28
+OL,17, San Antonio SpuF124:112GLos Angeles Cli
+OL,18,                C24:21 33:33 35:34 32:24
+OL,19, Memphis GrizzliesF126:98GGolden State  
+OL,20,                C31:24 24:23 37:26 34:25
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C802      F803   
+FL,800,801,802,803,0,100
+PN,81203
+SC,0003
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BKULTURA  812Csob 21 lis  04:10:50
+OL,1,C]      @K o s z y k _ w k a       03:57
+OL,2,C]    @Wyniki zako$czonych spotka$      
+OL,3, MinnesotaF99:102GNew York Knicks       
+OL,4,                C26:33 24:32 28:25 21:12
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C802      F803   

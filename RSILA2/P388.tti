@@ -1,61 +1,23 @@
-DE,RAI-TELEVIDEO-LAZIO 388
-PN,38801
-SC,0001
-PS,C300
+DE,RSILA2 388
+PN,38800
+SC,0000
+PS,8308
 CT,10,T
-OL,0,    BLAZIO     388.01CVe 20 Nov 15:04:12
-OL,1,T,,,,,,,,,,,,,,,,,,,,R
-OL,2,     U{$~k4~!~!~1   R]A339DPALLANUOTO  
-OL,3,     U/.!+.!+$+$+$   R
-OL,4,T,,,,,,BVOLO     T,,,,,,,,,,,,,,        
-OL,5,D]BSerie A             Risultati        
-OL,6,   Girone Unico                         
-OL,8,                F1a Giornata            
-OL,10,FBRB IVREA-GAGLIANICO              16-8 
-OL,11,FCHIAVARESE-MONDOV?                18-6 
-OL,12, LA PEROSINA-NOVENTA              14-10 
-OL,13, QUADRIFOGLIO-VELOCE CLUB         13-12 
-OL,20,BProssimo turno il 21-11-2026           
-OL,21,                BAggiornato il 7-11-2026
-OL,22,D]         MB387GIndice Bocce           
-FL,387,389,100,100,0,100
-PN,38802
-SC,0002
-PS,C300
-CT,10,T
-OL,0,    BLAZIO     388.02CVe 20 Nov 15:04:12
-OL,1,T,,,,,,,,,,,,,,,,,,,,R
-OL,2,     U{$~k4~!~!~1   R]A339DPALLANUOTO  
-OL,3,     U/.!+.!+$+$+$   R
-OL,4,T,,,,,,BVOLONQUE T,,,,,,,,,,,,,,        
-OL,5,D]BSerie A2        FEMMRisultati        
-OL,6,   Girone 2 Est Finale Playout          
-OL,8,FCAMPIONE D'ITA  1a Giornata            
-OL,9, ABG Genova (F)                         
-OL,10,FSARANESE-DOLADA                  14-10 
-OL,11,FRETROCESSE IN SERIE B:                 
-OL,12, Bovesana (F) ed Auxilium Saluzzo       
-OL,20,BDOLADA RETROCESSA IN SERIE B           
-OL,21,                BAggiornato il 21-3-2026
-OL,22,D]         MB387GIndice Bocce           
-FL,387,389,100,100,0,100
-PN,38803
-SC,0003
-PS,C300
-CT,10,T
-OL,0,    BLAZIO     388.03CVe 20 Nov 15:04:12
-OL,1,T,,,,,,,,,,,,,,,,,,,,R
-OL,2,     U{$~k4~!~!~1   R]A339DPALLANUOTO  
-OL,3,     U/.!+.!+$+$+$   R
-OL,4,T,,,,,,BVOLONQUE T,,,,,,,,,,,,,,        
-OL,5,D]BSerie A2        FEMMRisultati        
-OL,6,   Girone Semifinali Playoff            
-OL,8,FCAMPIONE D'ITA  1a Giornata            
-OL,9, ABG Genova (F)                         
-OL,10,FVELOCE CLUB-VILLARASPA           12-12 
-OL,11,FPASCH-L.B.CARCARE                 14-0 
-OL,12, Bovesana (F) ed Auxilium Saluzzo       
-OL,20,BAttesa prossimo turno                  
-OL,21,                BAggiornato il 23-3-2026
-OL,22,D]         MB387GIndice Bocce           
-FL,387,389,100,100,0,100
+OL,0,       G388  RSI LA 2  21.11.26 01:03:55
+OL,1,C]@SPORT            G]@19.11.26 12:38G> 
+OL,3,CVOLLEY: NLA D (21-22.11)               
+OL,4,FCheseaux     - Franches-M.    CSAF17h30
+OL,6,FDuedingen    - Lugano         CSAF17h30
+OL,8,FToggenburg   - GE Volley      CSAF17h30
+OL,10,FAesch Pf.    - Neuchatel      CDOF16h00
+OL,12,FAarau        - Kanti SH       CDOF16h30
+OL,15,CClassifica (18.11)                     
+OL,16,G1.Neuchatel    6/18G 6.Franches-M. 6/ 8
+OL,17,G2.Kanti SH     6/15G 7.Cheseaux    6/ 4
+OL,18,G3.Lugano       6/13G 8.Aarau       6/ 4
+OL,19,G4.Aesch Pf.    6/13G 9.GE Volley   6/ 4
+OL,20,G5.Duedingen    6/ 9G10.Toggenburg  6/ 2
+OL,22,@                                       
+OL,23,@                                       
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100

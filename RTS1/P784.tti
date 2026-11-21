@@ -1,28 +1,49 @@
 DE,RTS1 784
-PN,78400
-SC,0000
-PS,8080
-CT,10,T
-OL,0,       G784  RTS 1     20.11.26 15:27:45
+PN,78401
+SC,0001
+PS,C080
+CT,8,T
+OL,0,       G784  RTS 1     21.11.26 01:26:03
 OL,1,A]GRTS ESPACE 2    G]@demain            
-OL,3,G                                       
+OL,3,G                                   1/2 
 OL,4,C00:03GLes Nuits d'Espace 2             
 OL,5,C06:03GEn douceur                       
-OL,6,C07:06GDu bon pied                      
-OL,7,C10:03GL'Echo des pavanes               
-OL,8,C11:30GLa Voix du standard              
-OL,9,      FGeorge Gershwin de A @ Z   2     
-OL,10,C13:00GLe 12h30                         
-OL,11,C13:30GTourn#e romande                  
-OL,12,C15:30GQWERTZ                           
-OL,13,C16:03GL'Oreille d'abord                
-OL,14,      FLe premier Concert public        
-OL,15,      Fparisien de Chopin (1/2)         
-OL,16,C17:30GBazar                            
-OL,17,C19:30GConcert du soir                  
-OL,18,      FA l op#ra.                       
-OL,19,C23:03GZone bleue                       
-OL,20,      FMORERO MIX LXI                   
+OL,6,C07:03GMatines                          
+OL,7,C09:03GMesse                            
+OL,8,      FMesse en direct de l'#glise St-  
+OL,9,      FJoseph, Lausanne VD (7/8)        
+OL,10,C10:01GCulte                            
+OL,11,      FCulte en direct de l'Eglise du   
+OL,12,      FPrieur# @ Pully (VD)             
+OL,13,C11:00GBabel                            
+OL,14,      FGilles, ou l immense nostalgie de
+OL,15,      FDieu                             
+OL,16,C11:30GEnsembles                        
+OL,17,C13:00GLe 12h30                         
+OL,18,C13:30GTourn#e romande                  
+OL,19,C15:30GL'Oreille d'abord                
+OL,20,      FLe premier Concert public        
+OL,21,      Fparisien de Chopin (2/2)         
+OL,23,G]AFr#quences RTS    > 780 sur RTS 2    
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,78402
+SC,0002
+PS,C080
+CT,8,T
+OL,0,       G784  RTS 1     21.11.26 01:26:03
+OL,1,A]GRTS ESPACE 2    G]@demain            
+OL,3,G                                   2/2 
+OL,4,C17:03GNouveaux talents                 
+OL,5,      FEn direct depuis la Salle de     
+OL,6,      FMusique de la Chaux-de-fonds.    
+OL,7,      FMartin Jaspard - piano           
+OL,8,C19:00GQuoi                             
+OL,9,      FL'Adieu                          
+OL,10,C19:30GLa note bleue                    
+OL,11,      FFred Hersch, en solo, duo et trio
+OL,12,      F@ Chiasso en 2019!               
+OL,13,C22:03GMusique d'avenir                 
 OL,23,G]AFr#quences RTS    > 780 sur RTS 2    
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

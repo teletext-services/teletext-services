@@ -3,22 +3,22 @@ PN,22501
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G225 YLE TEKSTI-TV 20.03.17:36:32
+OL,0,       G225 YLE TEKSTI-TV 21.03.03:36:12
 OL,1,B]DJ[[KIEKKO   ]G  MESTIS  20.11.   1/2 
 OL,2,T#######################################
-OL,3, JoKP    - TUTO HocG03.04G0-1           
+OL,3, JoKP    - TUTO HocB   4-3 (0-2,3-1,1-0)
 OL,4,K                                       
-OL,5,F01.03F0-1 Korhonen (Kiukas)            
-OL,6,K                                       
-OL,7,GMaalivahdit                            
-OL,8,BKohonen            0+ 0+ 0 = 0         
-OL,9,FHelomaa            0+ 0+ 0 = 0         
-OL,10,K                                       
-OL,11,K                                       
+OL,5,F01.03F0-3 Korhonen (Kiukas,V{lil{)     
+OL,6,F15.12F0-1 Rannikko                     
+OL,7,B22.26B1-3 Hult                         
+OL,8,F22.50F1-2 Lindholm (V{lil{,Happonen)   
+OL,9,B33.42B2-3 Taskula (Kokkola,Tuhkanen)   
+OL,10,B36.21B3-3 Karjalainen (Kokkola,Taskula)
+OL,11,B57.44B4-3 Brygger (Liiri,Haikonen) vt  
 OL,12,K                                       
-OL,13,K                                       
-OL,14,K                                       
-OL,15,K                                       
+OL,13,GMaalivahdit       Yleis|{: 2019        
+OL,14,BKohonen            2+11+ 9 = 22        
+OL,15,FHelomaa            5+ 4+11 = 20        
 OL,16,K                                       
 OL,17,K                                       
 OL,18,K                                       
@@ -33,21 +33,21 @@ PN,22502
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G225 YLE TEKSTI-TV 20.03.17:36:32
+OL,0,       G225 YLE TEKSTI-TV 21.03.03:36:12
 OL,1,B]DJ[[KIEKKO   ]G  MESTIS  20.11.   2/2 
 OL,2,T#######################################
-OL,3, KeuPa HT- RoKi    G02.54G0-0           
+OL,3, KeuPa HT- RoKi    B   1-5 (1-2,0-3,0-0)
 OL,4,K                                       
-OL,5,K                                       
-OL,6,GMaalivahdit                            
-OL,7,BRiihim{ki          0+ 0+ 0 = 0         
-OL,8,FParviainen         0+ 0+ 0 = 0         
-OL,9,K                                       
-OL,10,K                                       
+OL,5,B04.41B1-0 Huttu (Ketonen,Matikainen)   
+OL,6,F14.37F1-1 Alanko (\rn,Savolainen) yv   
+OL,7,F18.09F1-2 Savolainen (Alanko,\rn)      
+OL,8,F32.59F1-3 Kaarela (Ruusunen) av        
+OL,9,F33.41F1-4 Lindroos av                  
+OL,10,F34.52F1-5 Kentt{maa (Alanko,\rn)       
 OL,11,K                                       
-OL,12,K                                       
-OL,13,K                                       
-OL,14,K                                       
+OL,12,GMaalivahdit       Yleis|{: 255         
+OL,13,BRiihim{ki         10+ 7+11 = 28        
+OL,14,FParviainen         2+15+17 = 34        
 OL,15,K                                       
 OL,16,K                                       
 OL,17,K                                       

@@ -3,12 +3,12 @@ PN,68001
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G680 YLE TEKSTI-TV 20.03.17:46:18
+OL,0,       G680 YLE TEKSTI-TV 21.03.03:45:46
 OL,1,G]AITALIAN SERIE B       B]D20.11.  1/3 
 OL,2,K                                       
-OL,3, Verona        - Cesena       G21.30    
-OL,4,K                                       
-OL,5,K                                       
+OL,3, Verona        - Cesena       B0-2 (0-1)
+OL,4,                FFrancesconi  07        
+OL,5,                FShpendi    rp65        
 OL,6,K                                       
 OL,7,K                                       
 OL,8,K                                       
@@ -33,21 +33,21 @@ PN,68002
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G680 YLE TEKSTI-TV 20.03.17:46:18
+OL,0,       G680 YLE TEKSTI-TV 21.03.03:45:46
 OL,1,G]AITALIAN SERIE B       B]D        2/3 
 OL,2,K                                       
 OL,3,BPalermo         11  8  3  0  25-13   27
 OL,4,BModena          11  7  2  2  20-10   23
 OL,5,FAscoli          11  5  5  1  17- 7   20
 OL,6,FMantova         11  5  4  2  15-11   19
-OL,7,FVerona          11  4  4  3  19-13   16
+OL,7,FCesena          12  4  6  2  14-14   18
 OL,8,FAvellino        11  4  4  3  16-11   16
-OL,9,FBenevento       11  4  4  3  15-11   16
-OL,10,FPisa            11  4  4  3  20-17   16
-OL,11,GCremonese       11  4  3  4  14-12   15
-OL,12,GSudtirol        11  3  6  2  13-12   15
-OL,13,GPadova          11  4  3  4  12-13   15
-OL,14,GCesena          11  3  6  2  12-14   15
+OL,9,FVerona          12  4  4  4  19-15   16
+OL,10,FBenevento       11  4  4  3  15-11   16
+OL,11,GPisa            11  4  4  3  20-17   16
+OL,12,GCremonese       11  4  3  4  14-12   15
+OL,13,GSudtirol        11  3  6  2  13-12   15
+OL,14,GPadova          11  4  3  4  12-13   15
 OL,15,GJuve Stabia     11  4  4  3  12-11   12
 OL,16,GSampdoria       11  3  2  6  11-18   11
 OL,17,GS.S. Arezzo     11  3  2  6   9-20   11
@@ -63,29 +63,29 @@ PN,68003
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G680 YLE TEKSTI-TV 20.03.17:46:18
+OL,0,       G680 YLE TEKSTI-TV 21.03.03:45:46
 OL,1,G]AITALIAN SERIE B       B]D        3/3 
 OL,2,K                                       
-OL,3,B20.11.                                 
-OL,4, Verona        - Cesena       F21.30    
-OL,5,K                                       
-OL,6,B21.11.                                 
-OL,7, Ascoli        - LR Vicenza   F16.00    
-OL,8, Carrarese     - Entella      F16.00    
-OL,9, Modena        - Juve Stabia  F16.00    
-OL,10, Sampdoria     - Benevento    F16.00    
-OL,11, Sudtirol      - Cremonese    F16.00    
-OL,12, Catanzaro     - Palermo      F18.15    
-OL,13, Empoli        - Pisa         F20.30    
-OL,14,K                                       
-OL,15,B22.11.                                 
-OL,16, Avellino      - Mantova      F16.00    
-OL,17, S.S. Arezzo   - Padova       F18.15    
-OL,18,K                                       
-OL,19,B24.11.                                 
-OL,20, Juve Stabia   - Catanzaro    F20.00    
-OL,21, Benevento     - Empoli       F21.00    
-OL,22, Cesena        - Ascoli       F21.00    
-OL,23, Entella       - Verona       F21.00    
+OL,3,B21.11.                                 
+OL,4, Ascoli        - LR Vicenza   F16.00    
+OL,5, Carrarese     - Entella      F16.00    
+OL,6, Modena        - Juve Stabia  F16.00    
+OL,7, Sampdoria     - Benevento    F16.00    
+OL,8, Sudtirol      - Cremonese    F16.00    
+OL,9, Catanzaro     - Palermo      F18.15    
+OL,10, Empoli        - Pisa         F20.30    
+OL,11,K                                       
+OL,12,B22.11.                                 
+OL,13, Avellino      - Mantova      F16.00    
+OL,14, S.S. Arezzo   - Padova       F18.15    
+OL,15,K                                       
+OL,16,B24.11.                                 
+OL,17, Juve Stabia   - Catanzaro    F20.00    
+OL,18, Benevento     - Empoli       F21.00    
+OL,19, Cesena        - Ascoli       F21.00    
+OL,20, Entella       - Verona       F21.00    
+OL,21, LR Vicenza    - Carrarese    F21.00    
+OL,22, Palermo       - Sudtirol     F21.00    
+OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

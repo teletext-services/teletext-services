@@ -4,28 +4,28 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     802Cpi@ 20 lis  19:19:39
-OL,1,B]      @P i } k a   n o { n a     19:09
+OL,0,      BTVP2     802Csob 21 lis  05:19:49
+OL,1,B]      @P i } k a   n o { n a     05:11
 OL,2,B]    @Mecze wg godz. rozpocz`cia       
-OL,3, Chrobry G}og_w-Puszcza Niepo}.E0-1(0-1)
-OL,4,BWis}oka D`bica-AKS 1947 Busko E1-1(1-1)
-OL,5, Piast Gliwice - Korona Kielce E1-0(1-0)
-OL,6,BLechia - Chojniczanka         E1-0(1-0)
-OL,7, Arminia - Magdeburg                E0-1
-OL,8,BAl Ahli SC - Al Nassr              E0-1
-OL,9, SV Darmstadt 98 - Heidenheim       E2-1
-OL,10,BUnion Berlin (W) - Bayer LeverkusenE0-2
-OL,11, Molde - Bodo/Glimt                 E0-0
-OL,12,BAarhus GF - Lyngby BK              E0-0
-OL,13, FC Farul Constan-Universitatea ClB19:30
-OL,14,BAnnecy - Clermont                 20:00
-OL,15, EA Guingamp - Rodez              B20:00
-OL,16,BFC Metz - Boulogne                20:00
-OL,17, AS Nancy - Dijon FCO             B20:00
-OL,18,BRed Star - Pau FC                 20:00
-OL,19, Andorra - CD Leganes             B20:30
-OL,20,BBayern M. - 1. FC Koln            20:30
-OL,21, Mied~ Legnica - ]KS ]_d~         B20:30
+OL,3, FC Juarez - Atlas FC          E1-1(1-1)
+OL,4,BClub Tijuana - Atlante           E(0-0)
+OL,5, Auckland FC - Melbourne Victory    E0-0
+OL,6,BKyoto Sanga - Urawa Reds          06:00
+OL,7, Machida Zelvia - V-Varen NagasakiB06:00
+OL,8,BSanfrecce Hirosh-Yokohama F.Marin 06:00
+OL,9, Tokyo Verdy - Nagoya Grampus     B06:00
+OL,10,BCentral Coast M. - Perth Glory    07:00
+OL,11, Cerezo Osaka - FC Tokyo          B07:00
+OL,12,BKawasaki Frontale-Avispa Fukuoka  07:00
+OL,13, Gamba Osaka - Fagiano Okayama    B08:00
+OL,14,BBrisbane Roar - Sydney FC         09:40
+OL,15, Wik`d Luzino - Kotwica K_rnik    B11:00
+OL,16,BKorona II Kielce-Naprz_d J`drzej_ 11:00
+OL,17, Genclerbirligi - Gaziantep       B11:30
+OL,18,BLevante (K)-Deportivo Abanca (K)  12:00
+OL,19, Ein.Frankfurt (W-Hamburger SV (W)B12:00
+OL,20,BRekord - \l@sk II                 12:00
+OL,21, Sok_} - GKS Tychy                B12:00
 OL,22,R
 OL,23,R
 OL,24,   A800      B801      C803      F804   
@@ -35,27 +35,208 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     802Cpi@ 20 lis  19:19:40
-OL,1,B]      @P i } k a   n o { n a     19:09
+OL,0,      BTVP2     802Csob 21 lis  05:19:49
+OL,1,B]      @P i } k a   n o { n a     05:11
 OL,2,B]    @Mecze wg godz. rozpocz`cia       
-OL,3,BPogo$ Szczecin - \l@sk Wroc}aw    20:30
-OL,4, Verona - Cesena                  B20:30
-OL,5,BCercle Brugge - Westerlo          20:45
-OL,6, Troyes AC - Le Havre             B20:45
-OL,7,BAthletic Bilbao - Espanyol        21:00
-OL,8, Porto - Paredes                  B21:45
-OL,9,BVelez Sarsfield - Belgrano        00:00
-OL,10, Puebla - Atletico San Luis       B02:00
-OL,11,BFC Juarez - Atlas FC              04:00
-OL,12, Club Tijuana - Atlante           B04:10
-OL,13,BAuckland FC - Melbourne Victory   05:00
-OL,14, Kyoto Sanga - Urawa Reds         B06:00
-OL,15,BMachida Zelvia - V-Varen Nagasaki 06:00
-OL,16, Sanfrecce Hirosh-Yokohama F.MarinB06:00
-OL,17,BTokyo Verdy - Nagoya Grampus      06:00
-OL,18, Central Coast M. - Perth Glory   B07:00
-OL,19,BCerezo Osaka - FC Tokyo           07:00
-OL,20, Kawasaki Frontale-Avispa Fukuoka B07:00
+OL,3,BJagiellonia II-Mazovia Mi$sk Maz. 12:00
+OL,4, LKS 1926 ]om{a - Pelikan ]owicz  B12:00
+OL,5,BWis}a II P}ock - Olimpia Elbl@g   12:00
+OL,6, Lech II Pozna$-Victoria Wrze|nia B12:00
+OL,7,BLipno St`szew - Elana Toru$       12:00
+OL,8, Unia Swarz`dz - Grom Nowy Staw   B12:00
+OL,9,BSparta Katowice - Zag}`bie II L.  12:00
+OL,10, Mied~ II Legnica - Carina Gubin  B12:00
+OL,11,BSiarka Tarnobrzeg - Hetman Zamo|^ 12:00
+OL,12, Star Starachowice-Wis}a II Krak_wB12:00
+OL,13,BWieczysta II Krak-Czarni Po}aniec 12:00
+OL,14, MUKS Kostrzy$ II-Legionistki II (B12:00
+OL,15,BAtletico CP - Casa Pia            12:00
+OL,16, Avia - Legia II                  B12:30
+OL,17,BDiamonds Academy -Medyk Konin (K) 12:30
+OL,18, Pogo$ Szczecin - UJ Krak_w       B12:30
+OL,19,BParma (W) - ASD Napoli CF         12:30
+OL,20, Hannover 96 - Greuther           B13:00
+OL,21,BNurnberg - Eintracht B.           13:00
+OL,22,R
+OL,23,R
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80203
+SC,0003
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP2     802Csob 21 lis  05:19:50
+OL,1,B]      @P i } k a   n o { n a     05:11
+OL,2,B]    @Mecze wg godz. rozpocz`cia       
+OL,3, VfL Wolfsburg - Holstein Kiel    B13:00
+OL,4,BM}awianka M}awa - Warta Sieradz   13:00
+OL,5, \wit Nowy Dw_r M-Lidzbark Warmi$sB13:00
+OL,6,BKS CK Troszyn - Widzew II ]_d~    13:00
+OL,7, Z@bkovia Z@bki - Olimpia Zambr_w B13:00
+OL,8,BKluczevia Starga-Chemik Bydgoszcz 13:00
+OL,9, Note^ Czarnk_w - Gedania Gda$sk  B13:00
+OL,10,BWda \wiecie - B}`kitni Starg.     13:00
+OL,11, Gocza}kowice Zdr_j - Stal Brzeg  B13:00
+OL,12,B\l`za Wroc}aw-Stilon Gorz_w Wlkp. 13:00
+OL,13, Che}mianka Che}m-Pogo$-Sok_} LubaB13:00
+OL,14,BSok_} Kolbuszowa D.-JKS Jaros}aw  13:00
+OL,15, Iskra Tarn_w (K) - \l@sk Wroc}aw B13:00
+OL,16,BRadnicki Nis - Zemun              13:00
+OL,17, Manchester City - Fulham         B13:30
+OL,18,BMillwall - Queens Park Rangers    13:30
+OL,19, Norwich City - Cardiff City      B13:30
+OL,20,BSouthampton - Derby County        13:30
+OL,21, Japonia U17 - Kolumbia U17       B13:30
+OL,22,R
+OL,23,R
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80204
+SC,0004
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP2     802Csob 21 lis  05:19:50
+OL,1,B]      @P i } k a   n o { n a     05:11
+OL,2,B]    @Mecze wg godz. rozpocz`cia       
+OL,3,BSerbia U17 - Honduras U17         13:30
+OL,4, Liverpool (K) - Chelsea (K)      B13:45
+OL,5,BSlavia - Arda Kyrd{ali            13:45
+OL,6, Laval - Montpellier HSC          B14:00
+OL,7,BAlaves - Deportivo La Coruna      14:00
+OL,8, Sabadell - Granada               B14:00
+OL,9,BTanzania U17 - Kostaryka U17      14:00
+OL,10, Koln - Werder Bremen             B14:00
+OL,11,BTromso - Viking                   14:00
+OL,12, ORLEN Gda$sk II (K)-\l`za Wroc}awB14:00
+OL,13,BCsikszereda Ciuc-Corvinul Hunedoa 14:00
+OL,14, Crvena Zvezda - Radnik Surdulica B14:00
+OL,15,BAmedspor - Caykur Rizespor        14:00
+OL,16, Galatasaray - Samsunspor         B14:00
+OL,17,BKamerun U17 - Wenezuela U17       14:30
+OL,18, Cracovia - Jagiellonia           B14:45
+OL,19,BLokomotiva Zagrzeb - Hajduk Split 15:00
+OL,20, Omonia Aradippou - Pafos FC      B15:00
+OL,21,BMlada Boleslav - Fastav Zlin      15:00
+OL,22,R
+OL,23,R
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80205
+SC,0005
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP2     802Csob 21 lis  05:19:50
+OL,1,B]      @P i } k a   n o { n a     05:11
+OL,2,B]    @Mecze wg godz. rozpocz`cia       
+OL,3, Banik Ostrawa - Teplice          B15:00
+OL,4,BSigma O}omuniec - Slavia Praga    15:00
+OL,5, Artis Brno - Jablonec            B15:00
+OL,6,BMafra - FC Arouca                 15:00
+OL,7, Mladost Lucani-Zeleznicar PancevoB15:00
+OL,8,BAIK - Degerfors IF                15:00
+OL,9, Mjallby AIF - Malmo FF           B15:00
+OL,10,BAC Milan (W) - Sassuolo (W)       15:00
+OL,11, Como - Cagliari Calcio           B15:00
+OL,12,BLazio - Lecce                     15:00
+OL,13, Ascoli - Vicenza                 B15:00
+OL,14,BCarrarese - Virtus Entella        15:00
+OL,15, Modena - Juve Stabia             B15:00
+OL,16,BSampdoria Genua-Benevento Calcio  15:00
+OL,17, Sudtirol - Cremonese             B15:00
+OL,18,BDominikana U17 - Czarnog_ra U17   15:30
+OL,19, FC Augsburg - FSV Mainz          B15:30
+OL,20,BBayer Leverk. - Paderborn 07      15:30
+OL,21, Borussia M. - Borussia D.        B15:30
+OL,22,R
+OL,23,R
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80206
+SC,0006
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP2     802Csob 21 lis  05:19:50
+OL,1,B]      @P i } k a   n o { n a     05:11
+OL,2,B]    @Mecze wg godz. rozpocz`cia       
+OL,3,BEintracht F.-TSG 1899 Hoffenheim  15:30
+OL,4, Elversberg - SC Freiburg         B15:30
+OL,5,BUnion Berlin - RB Lipsk           15:30
+OL,6, Werder Brema - Hamburger SV      B15:30
+OL,7,BPogo$ GM - Arka                   15:30
+OL,8, Polonia W-wa - Stal Mielec       B15:30
+OL,9,BRuch Chorz_w - Warta Pozna$       15:30
+OL,10, Ruzomberok - Slovan Bratys}awa   B15:30
+OL,11,BTrencin - Sport Podbrezova        15:30
+OL,12, Zilina - Banska Bystrica         B15:30
+OL,13,BAston Villa - Sunderland          16:00
+OL,14, Bournemouth - Nottingham         B16:00
+OL,15,BChelsea - Leeds                   16:00
+OL,16, Coventry City - Crystal Palace   B16:00
+OL,17,BTottenham - Ipswich Town          16:00
+OL,18, Bolton Wanderers - Portsmouth    B16:00
+OL,19,BLincoln City - Wrexham            16:00
+OL,20, Middlesbrough - Bristol City     B16:00
+OL,21,BSheffield United - Watford        16:00
+OL,22,R
+OL,23,R
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80207
+SC,0007
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP2     802Csob 21 lis  05:19:50
+OL,1,B]      @P i } k a   n o { n a     05:11
+OL,2,B]    @Mecze wg godz. rozpocz`cia       
+OL,3, Stoke City - Birmingham City     B16:00
+OL,4,BSwansea City-West Bromwich Albion 16:00
+OL,5, West Ham Utd - Preston North End B16:00
+OL,6,BWolverhampton - Charlton Athletic 16:00
+OL,7, Charleroi - Sint-Truiden         B16:00
+OL,8,BOmonia Nikozja - APOEL Nikozja    16:00
+OL,9, Brazylia U17 - Irlandia U17      B16:00
+OL,10,BHamKam - Fredrikstad              16:00
+OL,11, Polonia \roda Wlk-Ba}tyk KoszalinB16:00
+OL,12,BPolonia Nysa-Odra Bytom Odrza$ski 16:00
+OL,13, Podlasie Bia}a P.-KSZO Ostrowiec B16:00
+OL,14,BAvs Futebol - CD Tondela          16:00
+OL,15, Celtic Glasgow - St. Mirren      B16:00
+OL,16,BFalkirk - St. Johnstone           16:00
+OL,17, Hibernian - Dundee Utd           B16:00
+OL,18,BKilmarnock - Aberdeen             16:00
+OL,19, Spartak Varna - Cherno More      B16:15
+OL,20,BVallecano - Valencia CF           16:15
+OL,21, Real Sociedad B - Cadiz CF       B16:15
+OL,22,R
+OL,23,R
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80208
+SC,0008
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP2     802Csob 21 lis  05:19:50
+OL,1,B]      @P i } k a   n o { n a     05:11
+OL,2,B]    @Mecze wg godz. rozpocz`cia       
+OL,3,BNEC Nijmegen - PSV Eindhoven      16:30
+OL,4, Chile U17 - Algieria U17         B16:30
+OL,5,BMeksyk U17 - Rumunia U17          16:30
+OL,6, FC CFR 1907 Cluj-SC Otelul GalatiB16:30
+OL,7,BSandecja - Znicz                  16:45
+OL,8, LASK Linz - Hartberg             B17:00
+OL,9,BTirol - Austria Lustenau          17:00
+OL,10, SD Eibar (K)-Atletico Madryt (K) B17:00
+OL,11,BZag.Sosnowiec-Karkonosze J.G_ra   17:00
+OL,12, Wi|lanie Skawina-Moravia MorawicaB17:00
+OL,13,BEstoril Praia - Felgueiras 1932   17:00
+OL,14, OFK Beograd - Novi Pazar         B17:00
+OL,15,BKocaelispor - Fenerbahce          17:00
 OL,22,R
 OL,23,R
 OL,24,   A800      B801      C803      F804   

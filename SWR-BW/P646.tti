@@ -3,48 +3,7 @@ PN,64601
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G16:51:46
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,7,AUNWETTERWARNUNG vor ERGIEBIGEM         
-OL,8,ADAUERREGEN                             
-OL,9, G}ltig: Fr 04:06 bis Fr 22:00          
-OL,11,FAhrweiler, Eifelkreis Bitburg-Pr}m     
-OL,12,FVulkaneifel                            
-OL,14, Nach bisher beobachteten               
-OL,15, Niederschlagsmengen von 60 bis 90 l/qm 
-OL,16, tritt weiterhin ergiebiger Dauerregen  
-OL,17, mit Unterbrechungen auf. Dabei werden  
-OL,18, nochmals Niederschlagsmengen um 35 l/qm
-OL,19, erwartet. In Staulagen werden Mengen   
-OL,20, bis 45 l/qm erreicht.                  
-OL,23,D]GQuelle:DWD  Stand:04:06  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,64602
-SC,0002
-PS,C200
-CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G16:51:46
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,9,CWARNUNG vor DAUERREGEN                 
-OL,10, G}ltig: Fr 04:06 bis Fr 21:00          
-OL,12,FAhrweiler, Vulkaneifel                 
-OL,14, Es tritt Dauerregen wechselnder        
-OL,15, Intensit{t auf. Dabei werden           
-OL,16, Niederschlagsmengen zwischen 30 l/qm   
-OL,17, und 50 l/qm erwartet.                  
-OL,23,D]GQuelle:DWD  Stand:04:06  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,64603
-SC,0003
-PS,C200
-CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G16:51:46
+OL,0,       BSWR BW C   Sa, 21.11.26G02:51:18
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -58,58 +17,51 @@ OL,17, und -3 `C auf.
 OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
+PN,64602
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Sa, 21.11.26G02:51:18
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,CWARNUNG vor MARKANTER GL[TTE           
+OL,11, G}ltig: Sa 00:00 bis Sa 09:00          
+OL,13,FAhrweiler, Eifelkreis Bitburg-Pr}m     
+OL,14,FVulkaneifel                            
+OL,16, Es besteht erh|hte Gl{ttegefahr durch  
+OL,17, gefrierende N{sse.                     
+OL,23,D]GQuelle:DWD  Stand:19:13  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64603
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Sa, 21.11.26G02:51:18
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,11,FWARNUNG vor GL[TTE                     
+OL,12, G}ltig: Sa 00:00 bis Sa 09:00          
+OL,14,FTrier-Saarburg und Stadt Trier         
+OL,16, Es besteht Gl{ttegefahr.               
+OL,23,D]GQuelle:DWD  Stand:19:13  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
 PN,64604
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G16:51:46
+OL,0,       BSWR BW C   Sa, 21.11.26G02:51:18
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,10,FWARNUNG vor GL[TTE                     
-OL,11, G}ltig: Sa 00:00 bis Sa 09:00          
-OL,13,FAhrweiler, Eifelkreis Bitburg-Pr}m     
-OL,14,FVulkaneifel                            
-OL,15,FTrier-Saarburg und Stadt Trier         
-OL,17, Es besteht Gl{ttegefahr.               
-OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,64605
-SC,0005
-PS,C200
-CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G16:51:46
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,8,CWARNUNG vor DAUERREGEN                 
-OL,9, G}ltig: Do 18:19 bis Sa 01:00          
-OL,11,FTrier-Saarburg und Stadt Trier         
-OL,13, Nach bisher beobachteten               
-OL,14, Niederschlagsmengen von 15 bis 25 l/qm 
-OL,15, tritt Dauerregen mit Unterbrechungen   
-OL,16, auf. Dabei werden nochmals             
-OL,17, Niederschlagsmengen zwischen 35 l/qm   
-OL,18, und 45 l/qm erwartet.                  
-OL,23,D]GQuelle:DWD  Stand:18:19  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,64606
-SC,0006
-PS,C200
-CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G16:51:46
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,9,FWARNUNG vor WINDB\EN                   
-OL,10, G}ltig: Fr 09:00 bis Fr 18:00          
-OL,12,FTrier-Saarburg und Stadt Trier         
-OL,14, Es treten Windb|en mit                 
-OL,15, Geschwindigkeiten bis 60 km/h (17 m/s, 
-OL,16, 33 kn, Bft 7) aus s}dwestlicher        
-OL,17, Richtung auf.                          
-OL,23,D]GQuelle:DWD  Stand:17:10  Hinweise 654
+OL,10,CWARNUNG vor MARKANTER GL[TTE           
+OL,11, G}ltig: Sa 03:00 bis Sa 09:00          
+OL,13,FTrier-Saarburg und Stadt Trier         
+OL,15, Es besteht erh|hte Gl{ttegefahr durch  
+OL,16, gefrierende N{sse.                     
+OL,23,D]GQuelle:DWD  Stand:19:13  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

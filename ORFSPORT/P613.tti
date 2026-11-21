@@ -3,10 +3,10 @@ PN,61301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G613CORF SPORT+G20.11.26 14:47:45
+OL,0,       G613CORF SPORT+G21.11.26 00:47:30
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########   G                    1/4  
+OL,3,Q##########   G                    1/5  
 OL,4, Vorhersage f}r den 21.11.2026,         
 OL,5, vom 20.11.2026, 1700 Uhr lct           
 OL,7,FWetterlage:                            
@@ -27,10 +27,10 @@ PN,61302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G613CORF SPORT+G20.11.26 14:47:46
+OL,0,       G613CORF SPORT+G21.11.26 00:47:30
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########   G                    2/4  
+OL,3,Q##########   G                    2/5  
 OL,4, Vorhersage f}r den 21.11.2026,         
 OL,5, vom 20.11.2026, 1700 Uhr lct           
 OL,7,FInformationen Instrumentenflug:        
@@ -55,10 +55,10 @@ PN,61303
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G613CORF SPORT+G20.11.26 14:47:46
+OL,0,       G613CORF SPORT+G21.11.26 00:47:30
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########   G                    3/4  
+OL,3,Q##########   G                    3/5  
 OL,4, Vorhersage f}r den 21.11.2026,         
 OL,5, vom 20.11.2026, 1700 Uhr lct           
 OL,7,FInformationen Thermik/Wellen:          
@@ -79,10 +79,10 @@ PN,61304
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G613CORF SPORT+G20.11.26 14:47:46
+OL,0,       G613CORF SPORT+G21.11.26 00:47:30
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########   G                    4/4  
+OL,3,Q##########   G                    4/5  
 OL,4, Flugwetterausblick:                    
 OL,6,FVorschau f}r Montag, den 23.11.:       
 OL,7, Abzug des Tiefs nach Osten und Wetter- 
@@ -96,6 +96,25 @@ OL,15, ganz im W noch Schneeschauer.
 OL,17,FHinweis zur Prognosesicherheit:        
 OL,18, Unsicherheiten insbesondere in Verbin- 
 OL,19, dung mit der Italientiefentwicklung.   
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
+OL,24,A]bersicht  BSport   CFernsehen  FWetter
+FL,100,200,300,600,0,100
+PN,61305
+SC,0005
+PS,C200
+CT,10,T
+OL,0,       G613CORF SPORT+G21.11.26 00:47:30
+OL,1,A]G                          Flugwetter 
+OL,2,A]GWETTER  ]A                          \
+OL,3,Q##########   G                    5/5  
+OL,4, Aufgrund technischer Probleme (Daten-  
+OL,5, leitung unterbrochen) ist es derzeit   
+OL,6, nicht m|glich, die Flugwetterprognosen 
+OL,7, und die Flugwetterwerte der anderen    
+OL,8, Unterseiten zu aktualisieren.          
+OL,10, An der Behebung des Problems wird      
+OL,11, gearbeitet, wir bedauern und bitten um 
+OL,12, Ihr Verst{ndnis.                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

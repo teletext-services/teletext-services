@@ -3,21 +3,22 @@ PN,28301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G283FNDR TEXT GFr 20.11.B13:31:33
+OL,0,       G283FNDR TEXT GFr 20.11.B23:30:50
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Bezirksliga NI/Lbg. 3       
-OL,7,BFreitag, 20. November                  
-OL,8, TSV Ottersberg - FC Verden II      -:- 
-OL,10,BSonntag, 22. November                  
-OL,11, TB Uphusen     - TSV D|rverden     -:- 
-OL,12, Ippensen/W.    - FC W|rpetal       -:- 
-OL,14, MTV Riede      - TV Oyten          -:- 
-OL,15, SG Unterstedt  - Ritterhude        -:- 
-OL,17, TV Sottrum     - Lilienthal-F.     -:- 
-OL,18, Anderlingen    - FC Worpswede      -:- 
-OL,20, Fischerhude-Q  - Heeslingen II     -:- 
+OL,6,BFreitag, 20. November                  
+OL,7, TSV Ottersberg - FC Verden II    abges 
+OL,9,BSamstag, 21. November                  
+OL,10, TV Sottrum     - Lilienthal-F.     -:- 
+OL,12,BSonntag, 22. November                  
+OL,13, TB Uphusen     - TSV D|rverden     -:- 
+OL,14, Ippensen/W.    - FC W|rpetal       -:- 
+OL,16, Fischerhude-Q  - Heeslingen II     -:- 
+OL,17, Anderlingen    - FC Worpswede      -:- 
+OL,19, MTV Riede      - TV Oyten          -:- 
+OL,20, SG Unterstedt  - Ritterhude        -:- 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/4)
 FL,101,200,300,650,0,100
@@ -25,7 +26,7 @@ PN,28302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G283FNDR TEXT GFr 20.11.B13:31:33
+OL,0,       G283FNDR TEXT GFr 20.11.B23:30:50
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -53,14 +54,14 @@ PN,28303
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G283FNDR TEXT GFr 20.11.B13:31:33
+OL,0,       G283FNDR TEXT GFr 20.11.B23:30:50
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Bezirksliga NI/Lbg. 4       
 OL,7,BFreitag, 20. November                  
 OL,8, VfL G}ld.Stade - TSV Altenwalde    -:- 
-OL,9, LFCS           - TSV Sievern       -:- 
+OL,9, LFCS           - TSV Sievern       0:3 
 OL,11,BSamstag, 21. November                  
 OL,12, Harsefeld II   - TSV Stotel        -:- 
 OL,13, MTV Bokel      - Drochters.III     -:- 
@@ -76,7 +77,7 @@ PN,28304
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G283FNDR TEXT GFr 20.11.B13:31:33
+OL,0,       G283FNDR TEXT GFr 20.11.B23:30:50
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -89,10 +90,10 @@ OL,9,F 5.TSV Apensen            15  32:22  25
 OL,10,F 6.TuS Harsefeld II       14  49:31  23
 OL,11,F 7.Rot-Wei~ Cuxhaven      14  39:22  23
 OL,12,F 8.MTV Bokel              14  32:28  22
-OL,13,F 9.LFCS                   14  31:32  20
-OL,14,F10.MTV Hammah             14  27:36  19
-OL,15,F11.TuSV B}tzfleth         14  26:44  18
-OL,16,F12.TSV Sievern            14  27:45  17
+OL,13,F 9.LFCS                   15  31:35  20
+OL,14,F10.TSV Sievern            15  30:45  20
+OL,15,F11.MTV Hammah             14  27:36  19
+OL,16,F12.TuSV B}tzfleth         14  26:44  18
 OL,17,F13.Drochtersen/Assel III  14  24:34  13
 OL,18, 14.Hedendorf-Neukloster   13  18:38  13
 OL,19, 15.FC Geestland           14  20:38   9

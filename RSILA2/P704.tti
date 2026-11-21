@@ -1,92 +1,28 @@
-DE,RAI-TELEVIDEO-LAZIO 704
-PN,70401
-SC,0001
-PS,C300
+DE,RSILA2 704
+PN,70400
+SC,0000
+PS,8308
 CT,10,T
-OL,0,    BLAZIO     704.01CVe 20 Nov 15:08:56
-OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
-OL,2,D]Voo5 $1!" $1 CLIGURE E TIRRENICO
-OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 15 DEL 20    
-OL,5,                                   C1/4 
-OL,6,C]DC.MELE (SV) \ Fn.p.                  
-OL,7,BTemp:F18         BVento:Fn.p.          
-OL,9,D]CGENOVA      \ FPoco nuvoloso         
-OL,10,FTemp: 18         BVento:F2 nodi e/se   
-OL,11,BVisib:FOttima                          
-OL,12,C]DSARZANA (SP)\ Fn.p.                  
-OL,13,BTemp:F18         BVento:F10 nodi o/so  
-OL,15,D]CPISA        \ FPoco nuvoloso         
-OL,16,FTemp: 16         BVento:F19 nodi oves  
-OL,17,BVisib:FOttima                          
-OL,18,C]DM.ARGENTARIO\ Fn.p.                  
-OL,19,BTemp:F17         BVento:F7 nodi var.   
-OL,20,BVisib:FOttima                          
-OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
-FL,703,705,100,100,0,100
-PN,70402
-SC,0002
-PS,C300
-CT,10,T
-OL,0,    BLAZIO     704.02CVe 20 Nov 15:08:56
-OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
-OL,2,D]Voo5 $1!" $1 CLIGURE E TIRRENICO
-OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 15 DEL 20    
-OL,5,                                   C2/4 
-OL,6,C]DFIRENZE     \ FPoco nuvoloso         
-OL,7,BTemp:F18         BVento:F8 nodi o/so   
-OL,8,BVisib:FOttima                          
-OL,9,D]CPERUGIA     \ FPoco nuvoloso         
-OL,10,FTemp: 16         BVento:F8 nodi s/se   
-OL,11,BVisib:FOttima                          
-OL,12,C]DVITERBO     \ FPoco nuvoloso         
-OL,13,BTemp:F18         BVento:F12 nodi o/so  
-OL,14,BVisib:FOttima                          
-OL,15,D]CGROSSETO    \ FParzialmente nuvoloso 
-OL,16,FTemp: 20         BVento:F10 nodi s/o   
-OL,17,BVisib:FOttima                          
-OL,18,C]DFROSINONE   \ Fn.p.                  
-OL,19,BOsservazione non disponibile.          
-OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
-FL,703,705,100,100,0,100
-PN,70403
-SC,0003
-PS,C300
-CT,10,T
-OL,0,    BLAZIO     704.03CVe 20 Nov 15:08:56
-OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
-OL,2,D]Voo5 $1!" $1 CLIGURE E TIRRENICO
-OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 15 DEL 20    
-OL,5,                                   C3/4 
-OL,6,C]DROMA FIUM.  \ FPoco nuvoloso         
-OL,7,BTemp:F18         BVento:F11 nodi o/so  
-OL,8,BVisib:FOttima                          
-OL,9,D]CROMA URBE   \ FPoco nuvoloso         
-OL,10,FTemp: 20         BVento:F7 nodi o/so   
-OL,11,BVisib:FOttima                          
-OL,12,C]DTREVICO (AV)\ Fn.p.                  
-OL,13,BTemp:F10         BVento:F18 nodi o/so  
-OL,15,D]CPONZA       \ Fn.p.                  
-OL,16,FOsservazione non disponibile.          
-OL,18,C]DNAPOLI      \ FNuvoloso              
-OL,19,BTemp:F18         BVento:F16 nodi o/so  
-OL,20,BVisib:FOttima                          
-OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
-FL,703,705,100,100,0,100
-PN,70404
-SC,0004
-PS,C300
-CT,10,T
-OL,0,    BLAZIO     704.04CVe 20 Nov 15:08:56
-OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
-OL,2,D]Voo5 $1!" $1 CLIGURE E TIRRENICO
-OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 15 DEL 20    
-OL,5,                                   C4/4 
-OL,6,C]DSALERNO     \ FPoco nuvoloso         
-OL,7,BTemp:F19         BVento:F15 nodi o/so  
-OL,8,BVisib:FOttima                          
-OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
-FL,703,705,100,100,0,100
+OL,0,       G704  RSI LA 2  21.11.26 01:08:40
+OL,1,A]GRSI   ]@LA2      VENERDI 20 novembre 
+OL,2,G                                       
+OL,3, F19:50  FModern FamilyCSTCI/II         
+OL,4,         FNon forzare la mano           
+OL,5, G20:20  GTelesguardCST                 
+OL,6, F20:35  FLa            CSTCI/IIC1TVC710
+OL,7,         Fcospirazione                  
+OL,8,         Fdel Cairo                     
+OL,9, G22:40  GBoulder KidCST                
+OL,10, F23:00  FA tutto hockey                
+OL,11, G23:30  GMaidCSTCI/II                  
+OL,12,         GTutto a un dollaro            
+OL,13, F00:20  FMaidCSTCI/II                  
+OL,14,         FI pony                        
+OL,15, G01:05  GTelesguardCST                 
+OL,16, F01:20  FA tutto hockey                
+OL,17, G01:40  GTG Notte                      
+OL,18, F02:00  FMeteoCST                      
+OL,19, G02:05  GPrima OraCST                  
+OL,20, F02:55  FIl QuotidianoCST              
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100

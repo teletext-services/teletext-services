@@ -3,23 +3,25 @@ PN,41601
 SC,0001
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 416  Fre 20 novC09:30:04
+OL,0,      GSVT Text 416  L|r 21 novC00:30:21
 OL,1,D]GSj|varningar                    1(2) 
-OL,2,D]GUppdaterad fredag kl. 08.08          
+OL,2,D]GUppdaterad fredag kl. 21.15          
 OL,4,FSyd|stra \stersj|n                     
 OL,5,FGul - Kuling 14-17 m/s                 
-OL,6, GSent natt mot l|rdag v{st 14-17 m/s.  
-OL,7, GL|rdag kv{ll avtagande.               
-OL,8, G20 nov kl. 09.00 - 21 nov kl. 19.00   
-OL,10,FNorra \stersj|n                        
-OL,11,FGul - Kuling 14-17 m/s                 
-OL,12, GNatt mot l|rdag omkring nord 14-17    
-OL,13, Gm/s.                                  
-OL,14, G20 nov kl. 09.00 - 23 nov kl. 18.00   
-OL,16,F]lands hav                             
-OL,17,FGul - Kuling 14-17 m/s                 
-OL,18, GSent fredag kv{ll nordv{st 14-17 m/s. 
-OL,19, G20 nov kl. 09.00 - 23 nov kl. 18.00   
+OL,6, GV{st 14-17 m/s. L|rdag kv{ll          
+OL,7, Gavtagande. S|ndag morgon nordv{st     
+OL,8, G14-17 m/s.                            
+OL,9, G20 nov kl. 22.00 - 23 nov kl. 05.00   
+OL,11,FNorra \stersj|n                        
+OL,12,FGul - Kuling 14-17 m/s                 
+OL,13, GNatt mot l|rdag nordv{st eller nord   
+OL,14, G14-17 m/s.                            
+OL,15, G20 nov kl. 22.00 - 23 nov kl. 05.00   
+OL,17,FNorra Bottenhavet                      
+OL,18,FGul - Kuling 14-17 m/s                 
+OL,19, GNatt mot l|rdag nord 14-17 m/s. L|rdag
+OL,20, Gkv{ll tilltagande.                    
+OL,21, G20 nov kl. 09.00 - kl. 22.00          
 OL,23,D] GV{derindex                          
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
 FL,100,300,400,700,0,100
@@ -27,23 +29,13 @@ PN,41602
 SC,0002
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 416  Fre 20 novC09:30:04
+OL,0,      GSVT Text 416  L|r 21 novC00:30:21
 OL,1,D]GSj|varningar                    2(2) 
-OL,2,D]GUppdaterad fredag kl. 08.08          
-OL,4,FS|dra Bottenhavet                      
+OL,2,D]GUppdaterad fredag kl. 21.15          
+OL,4,FNorra Kvarken                          
 OL,5,FGul - Kuling 14-17 m/s                 
-OL,6, GFredag kv{ll nord eller nordv{st 14-17
-OL,7, Gm/s. L|rdag kv{ll tilltagande.        
-OL,8, G20 nov kl. 09.00 - 23 nov kl. 18.00   
-OL,10,FNorra Bottenhavet                      
-OL,11,FGul - Kuling 14-17 m/s                 
-OL,12, GNatt mot l|rdag nord 14-17 m/s. L|rdag
-OL,13, Gkv{ll tilltagande.                    
-OL,14, G20 nov kl. 09.00 - 23 nov kl. 18.00   
-OL,16,FNorra Kvarken                          
-OL,17,FGul - Kuling 14-17 m/s                 
-OL,18, GL|rdag f|rmiddag nord 14-17 m/s.      
-OL,19, G20 nov kl. 09.00 - 23 nov kl. 06.00   
+OL,6, GL|rdag eftermiddag nord 14-17 m/s.    
+OL,7, G20 nov kl. 22.00 - 23 nov kl. 05.00   
 OL,23,D] GV{derindex                          
 OL,24,ANyheter BSport CV{der FInneh}llG  (2/2)
 FL,100,300,400,700,0,100

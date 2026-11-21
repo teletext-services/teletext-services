@@ -3,68 +3,65 @@ PN,11201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:23
+OL,0,         GFORUM64   GFr 20 Nov F22:22:51
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,ESourceCode TopDesk128 (Disassembly)    
-OL,4,CAntwort:  Bdarkvision                  
-OL,5,CComments: B42                          
-OL,6,F                                       
-OL,7,F( )                                    
-OL,9,FEs stellt erstmal nur wieder den       
-OL,10,Faktuellen Stand her... damit im        
-OL,11,F40Z-Modus TopDesk128 vom Kernal wieder 
-OL,12,Fgestartet werden kann. Bei Nur 80Z     
-OL,13,Ffindet der Kernal im 40Z-Modus keinen  
-OL,14,F40Z-DeskTop.                           
-OL,16,FDas w}rde eine Anpassung im GEOS-Kernal
-OL,17,Ferfordern, damit                       
-OL,19,CErster Beitrag:                        
-OL,21,GWork in progress... disassemblierter   
-OL,22,GSourceCode zu TopDesk128.              
+OL,2,EU64 Elite II/C64U custom Firmware mit  
+OL,3,Eintegrierter WiC64 Unterst}tzung       
+OL,5,CAntwort:  Bsanstarr                    
+OL,6,CComments: B64                          
+OL,7,F                                       
+OL,8,F@Juergen Johannes                      
+OL,10,FLeider nicht. Die WiC64 h{ngt am       
+OL,11,FUserport, und WiC64-Programme sprechen 
+OL,12,Fdirekt den CIA 2 an. Das U2+/U2+L      
+OL,13,Fsteckt im Expansionsport und kommt an  
+OL,14,Fdiese Leitungen nicht heran, da hilft  
+OL,15,Fauch keine Firmware. Beim Ultimate 64  
+OL,16,Fund beim                               
+OL,18,CErster Beitrag:                        
+OL,20,GNach einer Testphase habe ich mich     
+OL,21,Gentschlossen, eine Alpha Version der   
+OL,22,GU64 E-II cfw zur Unterst}tzung eines   
+OL,23,GSoftware-WiC64 zum testen rauszugeben. 
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:23
+OL,0,         GFORUM64   GFr 20 Nov F22:22:51
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GWarum?                                 
-OL,5,GMegaPatch wird aktuell ohne DeskTop    
-OL,6,Ginstalliert.                           
-OL,8,GF}r MegaPatch64 k|nnte DTopDesk64      
-OL,9,Gverwendet werden, f}r MegaPatch128     
-OL,10,Gexistiert aktuell aber keine Option, da
-OL,11,Gdie aktuell verwendete Patch-Version   
-OL,12,Gvon TopDesk128 zu viele Fehler enth{lt.
-OL,14,GDas PDF ist ein erster Zwischenstand,  
-OL,15,Gdas Ergebnis ist noch offen (Fix f}r   
-OL,16,GTD128 oder DT128). Basis ist           
-OL,17,GTopDesk128de von hier . Sollte eine    
-OL,18,Gsp{tere Version besser geeignet sein,  
-OL,19,Gkann ich das problemlos korrigieren.   
-OL,21,GAktuell erstellt der SourceCode f}r    
-OL,22,GMegaAssembler5 eine 1:1-Kopie von      
-OL,23,GTopDesk128 281221.                     
+OL,3,GGetestet bisher auf Ultimate64 Elite II
+OL,4,Gmit Firmware 3.15a. Theoretisch sollte 
+OL,5,Ges auch auf einem C64 Ultimate laufen, 
+OL,6,Gaber dies wurde nicht getestet bisher. 
+OL,7,GAuf {ltern Ultimate64 Ger{ten d}rfte es
+OL,8,Gnicht laufen.                          
+OL,10,GBei dieser Firmware handelt es sich    
+OL,11,G(solange sie noch nicht endg}ltig ist) 
+OL,12,Gum eine tempor{re Firmware, d.h., mit  
+OL,13,Gdem Ausschalten des Ultimate64 ist sie 
+OL,14,Gwieder entfernt und muss bei Bedarf    
+OL,15,Gwieder neu geladen werden. Tempor{r    
+OL,16,Ginstalliert wird die Firmware durch    
+OL,17,Gausf}hren der Datei RAM_WiC64.cfw.     
+OL,18,GDanach findet man unter dem F5 Men} den
+OL,19,GEintrag WiC64. Dort kann es gestartet  
+OL,20,Gund gestoppt werden usw. Auch das      
+OL,21,GPortal kann direkt aus diesem Men}     
+OL,22,Gheraus gestartet werden. Man kann aber 
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,11203
 SC,0003
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:23
+OL,0,         GFORUM64   GFr 20 Nov F22:22:51
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GOhne einen C128 kann ich nicht alle    
-OL,4,GFehler oder Funktionen testen. Sollte  
-OL,5,Gich das Projekt fortsetzen, dann nur   
-OL,6,Gmit der Mithilfe der Community.        
-OL,8,GEinige Fehler kann ich aktuell unter   
-OL,9,GVICE simulieren , aber ohne C128+SD2IEC
-OL,10,Gbleiben die Fehler eine Vermutung. (z. 
-OL,11,GB. Crash nach Wechsel von DiskImage und
-OL,12,GDateiCopy bei mehr als zwei Dateien    
-OL,13,G...)                                   
-OL,15,GAndere Fehler (aus TopDesk64) hatte ich
-OL,16,Gja hier schon                          
+OL,3,Gauch ganz normal den Launcher vom WiC64
+OL,4,Gladen und benutzen.                    
+OL,6,GProbleme gibt es derzeit noch bei TLS  
+OL,7,G(HTTPS), da dies aktuell noch zu       
+OL,8,Glangsam ist. Ich hoffe, dass da        
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

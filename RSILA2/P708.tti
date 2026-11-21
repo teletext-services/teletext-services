@@ -1,52 +1,24 @@
-DE,RAI-TELEVIDEO-LAZIO 708
-PN,70801
-SC,0001
-PS,C300
+DE,RSILA2 708
+PN,70800
+SC,0000
+PS,8308
 CT,10,T
-OL,0,    BLAZIO     708.01CVe 20 Nov 15:09:03
-OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
-OL,2,D]Voo5 $1!" $1 CTIRRENO MER.-ISOLE
-OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 15 DEL 20    
-OL,5,                                   C1/2 
-OL,6,C]DC.PALINURO  \ Fn.p.                  
-OL,7,                  BVento:F16 nodi n/no  
-OL,9,D]CM.SCURO-SILA\ Fn.p.                  
-OL,10,FTemp: 5          BVento:F7 nodi o/so   
-OL,12,C]DR.CALABRIA  \ FNuvoloso              
-OL,13,BTemp:F21         BVento:F10 nodi n/ne  
-OL,14,BVisib:FOttima                          
-OL,15,D]CPALERMO     \ FPoco nuvoloso         
-OL,16,FTemp: 20         BVento:F16 nodi o/so  
-OL,17,BVisib:FOttima                          
-OL,18,C]DCATANIA     \ FSereno                
-OL,19,BTemp:F24         BVento:F11 nodi o/no  
-OL,20,BVisib:FOttima                          
-OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
-FL,707,709,100,100,0,100
-PN,70802
-SC,0002
-PS,C300
-CT,10,T
-OL,0,    BLAZIO     708.02CVe 20 Nov 15:09:03
-OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
-OL,2,D]Voo5 $1!" $1 CTIRRENO MER.-ISOLE
-OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 15 DEL 20    
-OL,5,                                   C2/2 
-OL,6,C]DTRAPANI     \ FPoco nuvoloso         
-OL,7,BTemp:F20         BVento:F13 nodi o/no  
-OL,8,BVisib:FOttima                          
-OL,9,D]CENNA        \ Fn.p.                  
-OL,10,FTemp: 14         BVento:F5 nodi var.   
-OL,12,C]DALGHERO     \ FParzialmente nuvoloso 
-OL,13,BTemp:F18         BVento:F6 nodi o/no   
-OL,14,BVisib:FOttima                          
-OL,15,D]CCAGLIARI    \ FPoco nuvoloso         
-OL,16,FTemp: 20         BVento:F16 nodi o/no  
-OL,17,BVisib:FOttima                          
-OL,18,C]DOLBIA       \ Fn.p.                  
-OL,19,BTemp:F18         BVento:F17 nodi o/no  
-OL,20,BVisib:FOttima                          
-OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
-FL,707,709,100,100,0,100
+OL,0,       G708  RSI LA 2  21.11.26 01:08:45
+OL,1,A]GRSI   ]@LA2       SABATO 21 novembre 
+OL,2,G                                       
+OL,3, F22:30  FSportsera                     
+OL,4, G23:00  GA tutto hockey                
+OL,5, F23:25  F1997 fuga da New  CSTCI/IIC710
+OL,6,         FYork                          
+OL,7, G01:00  GMinisguardCST                 
+OL,8, F01:15  FSportsera                     
+OL,9, G01:40  GA tutto hockey                
+OL,10, F02:00  FSci alpino: Coppa del     CST 
+OL,11,         FMondo 2026/2027               
+OL,12,         FSlalom femminile              
+OL,13, G03:10  GMotomondiale 2026CST          
+OL,14,         GGran Premio del Portogallo    
+OL,15, F04:05  FMotomondiale 2026CST          
+OL,16,         FGran Premio del Portogallo    
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100

@@ -1,27 +1,30 @@
 DE,NDR 722
 PN,72200
 SC,0000
-PS,8200
+PS,8208
 CT,10,T
-OL,0,       G722FNDR TEXT GFr 20.11.B13:41:40
+OL,0,       G722FNDR TEXT GFr 20.11.B23:41:44
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN HANNOVER          
-OL,4,F]T  %D     Abflug       Stand 13:34    
+OL,4,F]T  %D     Abflug       Stand 23:34    
 OL,5,BFLUG    NACH          PLAN ERW. TER/BEM
-OL,6, LH 2097 M}nchen       1945      A      
-OL,7,FLX  829 Z}rich        2010      A      
-OL,8, JU  283 Belgrad       2020      C      
-OL,9,FOS  278 Wien          2025      A      
-OL,10,C        -- Am 21.11.2026 --            
-OL,11,FPC 1036 Istanbul-Sab. 0015      C      
-OL,12, XR 6087 Hurghada      0230      C      
-OL,13,FXQ  231 Antalya       0235      C      
-OL,14, SM 2939 Marsa Alam    0300      C      
-OL,15,FSM 2933 Hurghada      0340      C      
-OL,16, X3 2148 Fuerteventura 0355      B      
-OL,17,FX3 2146 P. de Mallorc 0450      B      
-OL,18, XQ  995 Izmir         0500      C      
+OL,6, VY 1127 Barcelona     1010      A      
+OL,7,FSK  670 Kopenhagen    1020      A      
+OL,8, OS  272 Wien          1025      A      
+OL,9,FLH  041 Frankfurt     1030      A      
+OL,10, TK 1554 Istanbul      1035      C      
+OL,11,FX3 2262 Gran Canaria  1040      B      
+OL,12, KL 1788 Amsterdam     1050      A      
+OL,13,FAF 1339 Paris - CDG   1055      A      
+OL,14, X3 2144 Teneriffa     1150      B      
+OL,15,FBA  923 London-Heathr 1240      C      
+OL,16, X3 2260 Gran Canaria  1310      B      
+OL,17,FVL 2093 M}nchen       1335      A      
+OL,18, PC 1034 Istanbul-Sab. 1355      C      
+OL,19,FXR  543 Gran Canaria  1430      B      
+OL,20, LH  045 Frankfurt     1505      A      
+OL,21,FLX  817 Z}rich        1520      A      
 OL,23,A]G700<                     ANKUNFT >725
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

@@ -3,10 +3,10 @@ PN,80501
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G805FORF2   GFr 20.11.26 14:35:35
+OL,0,       G805FORF2   GSa 21.11.26 00:34:55
 OL,1,A]G                     Messen & B|rsen 
 OL,2,A]GREISEN  ]A                  Termine \
-OL,3,Q##########G                       1/2  
+OL,3,Q##########G                       1/4  
 OL,4,FBIM - Berufsinfo Messe    19.-22.11.26 
 OL,5,CMesse Salzburg                         
 OL,6, 5020 Salzburg, Am Messezentrum 1       
@@ -26,10 +26,10 @@ PN,80502
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G805FORF2   GFr 20.11.26 14:35:35
+OL,0,       G805FORF2   GSa 21.11.26 00:34:56
 OL,1,A]G                     Messen & B|rsen 
 OL,2,A]GREISEN  ]A                  Termine \
-OL,3,Q##########G                       2/2  
+OL,3,Q##########G                       2/4  
 OL,4,FBuch Wien                 25.-29.11.26 
 OL,5,CMesse Wien                             
 OL,6, 1020 Wien, Messeplatz 1                
@@ -40,6 +40,60 @@ OL,11,Ffreizeit- und Spielemesse
 OL,12,CMesse Innsbruck                        
 OL,13, 6020 Innsbruck, Ing.-Etzel-Stra~e 31   
 OL,14, Fr-So 10-18h                           
+OL,16,FFerien-Messe Wien         14.-17.01.27 
+OL,17,CMesse Wien                             
+OL,18, 1020 Wien, Messeplatz 1                
+OL,19, Do-Sa 10-18h So 10-17h                 
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,80503
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       G805FORF2   GSa 21.11.26 00:34:56
+OL,1,A]G                     Messen & B|rsen 
+OL,2,A]GREISEN  ]A                  Termine \
+OL,3,Q##########G                       3/4  
+OL,4,FMobilit{tsmesse           14.-17.01.27 
+OL,5,CMesse Wien                             
+OL,6, 1020 Wien, Messeplatz 1                
+OL,7, Do-Sa 10-18h So 10-17h                 
+OL,9,FHochzeiten & Feste 2027   16.-17.01.27 
+OL,10,CMesse Innsbruck                        
+OL,11, 6020 Innsbruck, Ing.-Etzel-Stra~e 31   
+OL,12, Sa 10-18h So 10-17h                    
+OL,14,FAutoZum Salzburg          20.-23.01.27 
+OL,15,CMesse Salzburg                         
+OL,16, 5020 Salzburg, Am Messezentrum 1       
+OL,17, Mi-Fr 9-18h Sa 9-17h                   
+OL,19,FH{uslbauermesse Graz      21.-24.01.27 
+OL,20,CMesse Graz                             
+OL,21, 8010 Graz, Messepl. 1                  
+OL,22, Do-So 10-18h                           
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,80504
+SC,0004
+PS,C200
+CT,10,T
+OL,0,       G805FORF2   GSa 21.11.26 00:34:56
+OL,1,A]G                     Messen & B|rsen 
+OL,2,A]GREISEN  ]A                  Termine \
+OL,3,Q##########G                       4/4  
+OL,4,FBaumesse Oberwart        F28.-31.01.27 
+OL,5,CMesse Oberwart                         
+OL,6, 7400 Oberwart, Messel{nde 1            
+OL,7, Do-Sa 9-18h So 9-17h                   
+OL,9,FHausbau & Energie Messe   29.-31.01.27 
+OL,10,CMesse Innsbruck                        
+OL,11, 6020 Innsbruck, Ing.-Etzel-Stra~e 31   
+OL,12, Fr-So 10-17h                           
+OL,14,FBogensportmesse           30.-31.01.27 
+OL,15,CMesse Wels                             
+OL,16, 4600 Wels, Messepl. 1                  
+OL,17, Sa 9-18h So 9-17h                      
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

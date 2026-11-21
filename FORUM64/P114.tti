@@ -3,34 +3,66 @@ PN,11401
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:28
+OL,0,         GFORUM64   GFr 20 Nov F22:23:01
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,E(WIP) Starstrike II (aus "Neue         
-OL,3,EC64-Spiele entdeckt?")                 
-OL,5,CAntwort:  Bsanstarr                    
-OL,6,CComments: B41                          
-OL,7,F                                       
-OL,8,FFINALE!?                               
-OL,10,FVentilation Duct ohne Ausgang: Ein     
-OL,11,Fechter Portierungsfehler, und er betraf
-OL,12,Ftats{chlich alle Sch{chte. Nach dem    
-OL,13,Fletzten Abschnitt hat mein Code einen  
-OL,14,Fleeren Zeiger }bernommen, den das      
-OL,15,FOriginal an dieser Stelle bewusst nicht
-OL,16,F}bernimmt. Auf dem                     
-OL,18,CErster Beitrag:                        
-OL,20,G( )                                    
-OL,22,GGehen w}rde das schon. Aber lohnt eine 
-OL,23,GPortierung - also ist da wirklich      
-OL,24,D]FForum64.de RSS feed            (1/2) 
+OL,2,ESourceCode TopDesk128 (Disassembly)    
+OL,4,CAntwort:  Bdarkvision                  
+OL,5,CComments: B45                          
+OL,6,F                                       
+OL,7,FAddendum:                              
+OL,9,FDie Routine in TD128 zum testen des    
+OL,10,F40/80Z-Modus wechselt zwar den         
+OL,11,FBildschirm, danach wird aber nur der   
+OL,12,F40Z-Bildschirm gel|scht. Ein neuer     
+OL,13,F"Bug", der schnell behoben wurde. Jetzt
+OL,14,Fwird der                               
+OL,16,CErster Beitrag:                        
+OL,18,GWork in progress... disassemblierter   
+OL,19,GSourceCode zu TopDesk128.              
+OL,21,GWarum?                                 
+OL,23,GMegaPatch wird aktuell ohne DeskTop    
+OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11402
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:28
+OL,0,         GFORUM64   GFr 20 Nov F22:23:01
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GNachfrage da - oder "nur" von Dir?     
-OL,5,GTests:                                 
-OL,24,D]FForum64.de RSS feed            (2/2) 
+OL,3,Ginstalliert.                           
+OL,5,GF}r MegaPatch64 k|nnte DTopDesk64      
+OL,6,Gverwendet werden, f}r MegaPatch128     
+OL,7,Gexistiert aktuell aber keine Option, da
+OL,8,Gdie aktuell verwendete Patch-Version   
+OL,9,Gvon TopDesk128 zu viele Fehler enth{lt.
+OL,11,GDas PDF ist ein erster Zwischenstand,  
+OL,12,Gdas Ergebnis ist noch offen (Fix f}r   
+OL,13,GTD128 oder DT128). Basis ist           
+OL,14,GTopDesk128de von hier . Sollte eine    
+OL,15,Gsp{tere Version besser geeignet sein,  
+OL,16,Gkann ich das problemlos korrigieren.   
+OL,18,GAktuell erstellt der SourceCode f}r    
+OL,19,GMegaAssembler5 eine 1:1-Kopie von      
+OL,20,GTopDesk128 281221.                     
+OL,22,GOhne einen C128 kann ich nicht alle    
+OL,23,GFehler oder Funktionen testen. Sollte  
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,11403
+SC,0003
+PS,C200
+CT,10,T
+OL,0,         GFORUM64   GFr 20 Nov F22:23:01
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,Gich das Projekt fortsetzen, dann nur   
+OL,4,Gmit der Mithilfe der Community.        
+OL,6,GEinige Fehler kann ich aktuell unter   
+OL,7,GVICE simulieren , aber ohne C128+SD2IEC
+OL,8,Gbleiben die Fehler eine Vermutung. (z. 
+OL,9,GB. Crash nach Wechsel von DiskImage und
+OL,10,GDateiCopy bei mehr als zwei Dateien    
+OL,11,G...)                                   
+OL,13,GAndere Fehler (aus TopDesk64) hatte ich
+OL,14,Gja hier schon                          
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

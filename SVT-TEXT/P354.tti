@@ -3,28 +3,28 @@ PN,35401
 SC,0001
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 354  Fre 20 novC00:07:38
+OL,0,      GSVT Text 354  L|r 21 novC00:07:35
 OL,1,D]GHANDBOLL Handbollsligan, herrar      
-OL,3,C11/11F\nnered    - Helsingbor 25-28    
-OL,4,C14/11FKarlskrona - Ystads IF  35-37    
-OL,5,      FLugi       - Helsingbor 29-33    
-OL,6,      FAlings}s   - S{vehof    29-21    
-OL,7,      FAmo        - Hallby     30-27    
-OL,8,      FSk}nela    - Hammarby   27-32    
-OL,9,C15/11FSk|vde     - Kristianst 32-28    
-OL,10,      FMalm|      - \nnered    31-31    
-OL,11,C19/11FKristianst - Lugi       40-36    
-OL,12,      FYstads IF  - Alings}s   22-24    
-OL,13,C20/11GHallby     - Sk|vde              
-OL,14,      GS{vehof    - Malm|               
-OL,15,      GHelsingbor - Karlskrona          
-OL,16,C21/11G\nnered    - Sk}nela             
-OL,17,      GHammarby   - Amo                 
-OL,18,C24/11GKristianst - Alings}s            
-OL,19,C25/11GKarlskrona - \nnered             
-OL,20,C27/11GSk|vde     - Hammarby            
-OL,21,      GSk}nela    - Hallby              
-OL,22,C29/11GAmo        - Ystads IF           
+OL,3,C14/11FAmo        - Hallby     30-27    
+OL,4,      FAlings}s   - S{vehof    29-21    
+OL,5,      FSk}nela    - Hammarby   27-32    
+OL,6,C15/11FSk|vde     - Kristianst 32-28    
+OL,7,      FMalm|      - \nnered    31-31    
+OL,8,C19/11FKristianst - Lugi       40-36    
+OL,9,      FYstads IF  - Alings}s   22-24    
+OL,10,C20/11FHallby     - Sk|vde     27-36    
+OL,11,      FS{vehof    - Malm|      30-27    
+OL,12,      FHelsingbor - Karlskrona 30-23    
+OL,13,C21/11G\nnered    - Sk}nela             
+OL,14,      GHammarby   - Amo                 
+OL,15,C24/11GKristianst - Alings}s            
+OL,16,C25/11GKarlskrona - \nnered             
+OL,17,C27/11GSk|vde     - Hammarby            
+OL,18,      GSk}nela    - Hallby              
+OL,19,C29/11GAmo        - Ystads IF           
+OL,20,      GLugi       - S{vehof             
+OL,21,      GAlings}s   - Helsingbor          
+OL,22,      GMalm|      - Kristianst          
 OL,23,D]G          Tabell f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
 FL,100,300,400,700,0,100
@@ -32,22 +32,22 @@ PN,35402
 SC,0002
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 354  Fre 20 novC00:07:38
+OL,0,      GSVT Text 354  L|r 21 novC00:07:35
 OL,1,D]GHANDBOLL Handbollsligan, herrar      
 OL,3, B1 Alings}s    11  8  0  3  330-297  16
-OL,4, B2 Malm|       11  7  2  2  357-339  16
+OL,4, B2 Malm|       12  7  2  3  384-369  16
 OL,5, B3 Ystads IF   11  7  1  3  333-300  15
-OL,6, B4 Hammarby    11  6  2  3  330-314  14
-OL,7, B5 Kristiansta 10  7  0  3  315-305  14
-OL,8, B6 S{vehof      9  6  1  2  266-250  13
-OL,9, B7 Amo         11  6  1  4  352-341  13
-OL,10, B8 Sk|vde      10  5  2  3  319-311  12
-OL,11, G9 Helsingborg 10  4  3  3  287-294  11
-OL,12,G10 Karlskrona  10  3  1  6  310-322   7
-OL,13,C11 \nnered     11  2  3  6  325-338   7
+OL,6, B4 S{vehof     10  7  1  2  296-277  15
+OL,7, B5 Sk|vde      11  6  2  3  355-338  14
+OL,8, B6 Hammarby    11  6  2  3  330-314  14
+OL,9, B7 Kristiansta 10  7  0  3  315-305  14
+OL,10, B8 Amo         11  6  1  4  352-341  13
+OL,11, G9 Helsingborg 11  5  3  3  317-317  13
+OL,12,G10 \nnered     11  2  3  6  325-338   7
+OL,13,C11 Karlskrona  11  3  1  7  333-352   7
 OL,14,C12 Lugi        12  2  1  9  373-402   5
 OL,15,C13 Sk}nela     11  2  0  9  311-350   4
-OL,16,F14 Hallby      10  0  1  9  274-319   1
+OL,16,F14 Hallby      11  0  1 10  301-355   1
 OL,23,D]G         Matcher f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (2/2)
 FL,100,300,400,700,0,100

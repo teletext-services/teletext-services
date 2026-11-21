@@ -3,7 +3,7 @@ PN,77601
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G776  RTS 2     20.11.26 15:36:38
+OL,0,       G776  RTS 2     21.11.26 01:35:51
 OL,1,D]GSous-titrage 777        ]@20 novembre
 OL,2,                                    1/6 
 OL,3,A06:45 Couleurs locales         RTS2    
@@ -29,7 +29,7 @@ PN,77602
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G776  RTS 2     20.11.26 15:36:38
+OL,0,       G776  RTS 2     21.11.26 01:35:51
 OL,1,D]GSous-titrage 777        ]@20 novembre
 OL,2,                                    2/6 
 OL,3,A01:20 12h45                    RTS2    
@@ -55,7 +55,7 @@ PN,77603
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G776  RTS 2     20.11.26 15:36:38
+OL,0,       G776  RTS 2     21.11.26 01:35:51
 OL,1,D]GSous-titrage 777        ]@20 novembre
 OL,2,                                    3/6 
 OL,3,A07:30 19h30 - Sign#            RTS2    
@@ -68,11 +68,11 @@ OL,9,F09:05 La Comtesse de Monte-Cr  RTS1
 OL,10,F09:55 La Comtesse de Monte-Cr  RTS1    
 OL,11,A10:44 Zap RTS Sport            RTS2    
 OL,12,A10:45 Babylon Berlin           RTS2    
-OL,13,F10:55 Esprits criminels        RTS1-707
-OL,14,A11:35 Babylon Berlin           RTS2-708
-OL,15,F12:00 Esprits criminels        RTS1-709
-OL,16,A12:25 My son                   RTS2-710
-OL,17,F01:15 19h30                    RTS1    
+OL,13,F10:55 Esprits criminels        RTS1    
+OL,14,A11:35 Babylon Berlin           RTS2    
+OL,15,F12:00 Esprits criminels        RTS1    
+OL,16,A12:25 My son                   RTS2    
+OL,17,F01:15 19h30                    RTS1-732
 OL,18,F01:45 Passe-moi les jumelles   RTS1-745
 OL,19,A01:55 Couleurs locales         RTS2    
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
@@ -81,7 +81,7 @@ PN,77604
 SC,0004
 PS,C080
 CT,8,T
-OL,0,       G776  RTS 2     20.11.26 15:36:38
+OL,0,       G776  RTS 2     21.11.26 01:35:51
 OL,1,D]GSous-titrage 777        ]@21 novembre
 OL,2,                                    4/6 
 OL,3,A06:05 RTS Info                 RTS2    
@@ -107,7 +107,7 @@ PN,77605
 SC,0005
 PS,C080
 CT,8,T
-OL,0,       G776  RTS 2     20.11.26 15:36:38
+OL,0,       G776  RTS 2     21.11.26 01:35:51
 OL,1,D]GSous-titrage 777        ]@21 novembre
 OL,2,                                    5/6 
 OL,3,A03:55 MotoGP                   RTS2    
@@ -125,7 +125,7 @@ OL,14,F08:05 M#t#o                    RTS1
 OL,15,A08:10 Football                 RTS2    
 OL,16,F08:10 52 minutes               RTS1    
 OL,17,F09:05 N'avoue jamais           RTS1    
-OL,18,F10:40 Emilia Perez             RTS1    
+OL,18,F10:40 Emilia Perez             RTS1-707
 OL,19,A10:45 Zap RTS Sport            RTS2    
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -133,13 +133,13 @@ PN,77606
 SC,0006
 PS,C080
 CT,8,T
-OL,0,       G776  RTS 2     20.11.26 15:36:38
+OL,0,       G776  RTS 2     21.11.26 01:35:51
 OL,1,D]GSous-titrage 777        ]@21 novembre
 OL,2,                                    6/6 
-OL,3,A10:50 Documentaires            RTS2    
-OL,4,A11:50 La dynastie Kardashian   RTS2    
+OL,3,A10:50 Documentaires            RTS2-708
+OL,4,A11:50 La dynastie Kardashian   RTS2-709
 OL,5,A12:45 19h30 - Sign#            RTS2    
-OL,6,F12:45 Last Night In Soho       RTS1    
+OL,6,F12:45 Last Night In Soho       RTS1-710
 OL,7,A01:15 19h30 - Sign#            RTS2    
 OL,8,A01:45 19h30 - Sign#            RTS2    
 OL,9,A02:15 19h30 - Sign#            RTS2    

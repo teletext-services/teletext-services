@@ -1,52 +1,28 @@
-DE,RAI-TELEVIDEO 708
-PN,70801
-SC,0001
-PS,C300
+DE,RSILA1 708
+PN,70800
+SC,0000
+PS,8308
 CT,10,T
-OL,0,    BTELEVIDEO 708.01CVe 20 Nov 14:59:10
-OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
-OL,2,D]Voo5 $1!" $1 CTIRRENO MER.-ISOLE
-OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 13 DEL 20    
-OL,5,                                   C1/2 
-OL,6,C]DC.PALINURO  \ Fn.p.                  
-OL,7,                  BVento:F12 nodi n/no  
-OL,9,D]CM.SCURO-SILA\ Fn.p.                  
-OL,10,FTemp: 6          BVento:F11 nodi o/so  
-OL,12,C]DR.CALABRIA  \ FPoco nuvoloso         
-OL,13,BTemp:F22         BVento:F14 nodi n/no  
-OL,14,BVisib:FOttima                          
-OL,15,D]CPALERMO     \ FPoco nuvoloso         
-OL,16,FTemp: 20         BVento:F18 nodi oves  
-OL,17,BVisib:FOttima                          
-OL,18,C]DCATANIA     \ FSereno                
-OL,19,BTemp:F25         BVento:F18 nodi o/so  
-OL,20,BVisib:FOttima                          
-OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
-FL,707,709,100,100,0,100
-PN,70802
-SC,0002
-PS,C300
-CT,10,T
-OL,0,    BTELEVIDEO 708.02CVe 20 Nov 14:59:10
-OL,1, V(|0x<(||4|||(||4x|tCVERSANTE          
-OL,2,D]Voo5 $1!" $1 CTIRRENO MER.-ISOLE
-OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 13 DEL 20    
-OL,5,                                   C2/2 
-OL,6,C]DTRAPANI     \ FPoco nuvoloso         
-OL,7,BTemp:F21         BVento:F14 nodi o/no  
-OL,8,BVisib:FOttima                          
-OL,9,D]CENNA        \ Fn.p.                  
-OL,10,FTemp: 13         BVento:F11 nodi n/ne  
-OL,12,C]DALGHERO     \ FPoco nuvoloso         
-OL,13,BTemp:F19         BVento:F7 nodi o/no   
-OL,14,BVisib:FOttima                          
-OL,15,D]CCAGLIARI    \ FPoco nuvoloso         
-OL,16,FTemp: 21         BVento:F14 nodi o/no  
-OL,17,BVisib:FOttima                          
-OL,18,C]DOLBIA       \ FParzialmente nuvoloso 
-OL,19,BTemp:F19         BVento:F17 nodi o/so  
-OL,20,BVisib:FOttima                          
-OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
-FL,707,709,100,100,0,100
+OL,0,       G708  RSI LA 1  21.11.26 00:58:48
+OL,1,A]GRSI   ]@LA1       SABATO 21 novembre 
+OL,2,G                                       
+OL,3, G12:00  GSegni dei tempiCST            
+OL,4, F12:30  FTelegiornaleCST               
+OL,5, G12:45  GMeteo regionaleCST            
+OL,6, F12:55  FPatti ChiariCST               
+OL,7, G13:55  GTesori del mondoCST           
+OL,8,         GDurmitor: le montagne dalla   
+OL,9,         Gmolta acqua                   
+OL,10, F14:15  FTandemCSTCI/II                
+OL,11,         FIl Cammino dei Templari       
+OL,12, G15:10  GThe Long GameCSTCI/II.....C717
+OL,13, F17:00  FIl giardino di AlbertCST..C724
+OL,14,         FCanarie: un arcipelago in     
+OL,15,         Fterapia intensiva             
+OL,16, G18:00  GTelegiornale flashCST         
+OL,17, F18:10  FScacciapensieriCSTCI/II       
+OL,18, G18:35  GStrada reginaCST              
+OL,19, F19:00  FIl QuotidianoCST              
+OL,20, G19:15  Gneo.CST                       
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100

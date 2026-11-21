@@ -1,28 +1,40 @@
 DE,TLGZ-OTV 226
-PN,22600
-SC,0000
-PS,8008
+PN,22601
+SC,0001
+PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     226Cpi@ 20 lis  18:14:34
+OL,0,      BTVP3     226Csob 21 lis  04:14:16
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
-OL,3,   FSilny wiatr w strefie brzegowej/1   
-OL,5, CIMGW-PIB OSTRZEGA zachodniopomorskie, 
-OL,6,Cpomorskie, |rodkowa strefa brzegowa,   
-OL,7,C20.11 silny wiatr do 7 B               
-OL,9, Nazwa biura Regionalne Biuro           
-OL,10, Meteorologicznych Prognoz Morskich w   
-OL,11, Szczecinie                             
-OL,12, Zjawisko/stopie$ zagro{enia Silny wiatr
-OL,13, w strefie brzegowej/1                  
+OL,3,               FSztorm/2                
+OL,5, CIMGW-PIB OSTRZEGA                     
+OL,6,Czachodniopomorskie,pomorskie, |rodkowa 
+OL,7,Cstrefa brzegowa, w nocy 20/21.11 i rano
+OL,8,C21.11 sztorm do 8 B.                   
+OL,10, Nazwa biura Regionalne Biuro           
+OL,11, Meteorologicznych Prognoz Morskich w   
+OL,12, Szczecinie                             
+OL,13, Zjawisko/stopie$ zagro{enia Sztorm/2   
 OL,14, Obszar Strefa brzegowa - cz`|^ |rodkowa
-OL,15, Wa{no|^ (cz. urz.) od godz. 14:00 dnia 
-OL,16, 20.11.2026 do godz. 20:00 dnia         
-OL,17, 20.11.2026                             
+OL,15, Wa{no|^ (cz. urz.) od godz. 00:00 dnia 
+OL,16, 21.11.2026 do godz. 08:00 dnia         
+OL,17, 21.11.2026                             
 OL,18, Przebieg Wiatr zachodni do             
-OL,19, p_}nocno-zachodniego 5 do 6, w porywach
-OL,20, 7 w skali B.                           
-OL,21, Uwagi Ostrze{enie mo{e by^             
-OL,22, kontynuowane.                          
+OL,19, p_}nocno-zachodniego 5 do 6 w porywach 
+OL,20, 7, we wschodniej cz`|ci                
+OL,21, wzrastaj@cy na 6 do 7 w porywach 8 w   
+OL,22, skali B.                               
+OL,23, Uwagi Ostrze{enie mo{e by^             
+FL,225,227,100,100,0,100
+PN,22602
+SC,0002
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP3     226Csob 21 lis  04:14:17
+OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
+OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
+OL,3,               FSztorm/2                
+OL,5, kontynuowane.                          
 FL,225,227,100,100,0,100

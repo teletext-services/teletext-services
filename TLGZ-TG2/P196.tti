@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:11
+OL,0,      BTVP2     196Csob 21 lis  05:10:02
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!     Cwojew_dztwo lubelskie     Q"##
@@ -31,28 +31,11 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:12
+OL,0,      BTVP2     196Csob 21 lis  05:10:02
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!      Cwojew_dztwo lubuskie     Q"##
-OL,5,          FUtrudnienia drogowe          
-OL,7, CS3 (215 km), powiat nowosolski,       
-OL,8,Czdarzenie drogowe, czasowo droga       
-OL,9,Czablokowana w kierunku Szczecina.      
-OL,11, S3 (215 km), powiat nowosolski,        
-OL,12, zdarzenie drogowe, czasowo droga       
-OL,13, zablokowana w kierunku Szczecina.      
-FL,195,197,200,200,0,100
-PN,19603
-SC,0003
-PS,C000
-RE,1
-CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:12
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
-OL,3,Q##!      Cwojew_dztwo lubuskie     Q"##
-OL,5,          FInformacja drogowa           
+OL,5,          FInformacje drogowe           
 OL,7, CKomunikat dotyczy przekraczania granic
 OL,8,Cz Niemcami.                            
 OL,10, Z uwagi na prowadzone kontrole po      
@@ -61,52 +44,12 @@ OL,12, wojew_dztwa lubuskiego ruch ko}owy w
 OL,13, miejscach przekraczania granicy        
 OL,14, pa$stwowej odbywa si` na bie{@co.      
 FL,195,197,200,200,0,100
-PN,19604
-SC,0004
+PN,19603
+SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:12
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
-OL,3,Q##!      Cwojew_dztwo }_dzkie      Q"##
-OL,5,FUtrudnienie na S8 (338,3km) k. Wroc}aw 
-OL,7, CUtrudnienie na S8 (338,3km) k. Wroc}aw
-OL,8,C- zderzenie 3 pojazd_w. Zablokowany pas
-OL,9,Cszybki w kierunku Wroc}awia.           
-OL,11, Utrudnienie na S8 (338,3km) k. Wroc}aw 
-OL,12, - zderzenie 3 pojazd_w osobowych.      
-OL,13, Zablokowany pas szybki w kierunku      
-OL,14, Wroc}awia. Ruch odbywa si` pasem       
-OL,15, wolnym.                                
-FL,195,197,200,200,0,100
-PN,19605
-SC,0005
-PS,C000
-RE,1
-CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:12
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
-OL,3,Q##!      Cwojew_dztwo }_dzkie      Q"##
-OL,5,FUtrudnienie na dk 83(35km)             
-OL,6,Fm.Tomis}awice                          
-OL,8, CUtrudnienie na dk 83(35km) m.         
-OL,9,CTomis}awice - zdarzenie drogowe z      
-OL,10,Cudzia}em pojazdu osobowego, droga      
-OL,11,Czablokowana w obu kierunkach.          
-OL,13, Utrudnienie na dk 83(35km) m.          
-OL,14, Tomis}awice - zdarzenie drogowe z      
-OL,15, udzia}em pojazdu osobowego, droga      
-OL,16, zablokowana w obu kierunkach. Objazd   
-OL,17, drogami lokalnymi.                     
-FL,195,197,200,200,0,100
-PN,19606
-SC,0006
-PS,C000
-RE,1
-CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:12
+OL,0,      BTVP2     196Csob 21 lis  05:10:02
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!      Cwojew_dztwo }_dzkie      Q"##
@@ -126,12 +69,12 @@ OL,19, dodatkowe pasy ruchu oraz remont
 OL,20, autostrady A2 na odc. A0 od 361 km do  
 OL,21, 366 km.                                
 FL,195,197,200,200,0,100
-PN,19607
-SC,0007
+PN,19604
+SC,0004
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:12
+OL,0,      BTVP2     196Csob 21 lis  05:10:02
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
@@ -146,12 +89,12 @@ OL,14, 8:00 - 16:00. Wy}@czenie ruchu
 OL,15, spowodowane jest planowanymi robotami  
 OL,16, zwi@zanymi z wykonywaniem nawierzchni. 
 FL,195,197,200,200,0,100
-PN,19608
-SC,0008
+PN,19605
+SC,0005
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:12
+OL,0,      BTVP2     196Csob 21 lis  05:10:02
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
@@ -173,24 +116,24 @@ OL,21, zamkni`tego odcinka drogi mo{liwy
 OL,22, b`dzie: ul. Limanowsk@ i ulic@         
 OL,23, Papiesk@, nast`pnie przez m. \winiarsko
 FL,195,197,200,200,0,100
-PN,19609
-SC,0009
+PN,19606
+SC,0006
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:12
+OL,0,      BTVP2     196Csob 21 lis  05:10:02
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
 OL,5,        FUtrudnienia na dp 1583K        
 OL,7, do ronda w m. Podrzecze.               
 FL,195,197,200,200,0,100
-PN,19610
-SC,0010
+PN,19607
+SC,0007
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:12
+OL,0,      BTVP2     196Csob 21 lis  05:10:02
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
@@ -210,12 +153,12 @@ OL,20, - Ster}awki Wielkie) - dojazdy do
 OL,21, cmentarzy w dniu 01.11.2026 odbywa^ si`
 OL,22, b`d@ bez utrudnie$ - objazd_w.         
 FL,195,197,200,200,0,100
-PN,19611
-SC,0011
+PN,19608
+SC,0008
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:12
+OL,0,      BTVP2     196Csob 21 lis  05:10:03
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
@@ -235,12 +178,12 @@ OL,21, https://www.google.com/maps/d/u/0/edit?
 OL,22, mid=143eKd1yB7vx61Hn9gE1GM06AJ9FQFl0&us
 OL,23, p=sharing                              
 FL,195,197,200,200,0,100
-PN,19612
-SC,0012
+PN,19609
+SC,0009
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:13
+OL,0,      BTVP2     196Csob 21 lis  05:10:03
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
@@ -256,12 +199,12 @@ OL,21, Odbywa} si` b`dzie drog@ wojew_dzk@
 OL,22, numer 592 od strony miejscowo|ci       
 OL,23, K`trzyn.                               
 FL,195,197,200,200,0,100
-PN,19613
-SC,0013
+PN,19610
+SC,0010
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:13
+OL,0,      BTVP2     196Csob 21 lis  05:10:03
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
@@ -277,12 +220,12 @@ OL,19, - Ster}awki Ma}e
 OL,21, - Kalinowo                             
 OL,23, - Wrony Nowe                           
 FL,195,197,200,200,0,100
-PN,19614
-SC,0014
+PN,19611
+SC,0011
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Cpi@ 20 lis  19:10:13
+OL,0,      BTVP2     196Csob 21 lis  05:10:03
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##

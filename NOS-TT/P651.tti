@@ -3,8 +3,8 @@ PN,65101
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  651Cvri 20 nov  13:50:39
-OL,1,S##ENNISQ,,,,,,,,,,,,,,,,,,,,,,,,A 1/2 
+OL,0,       BNOS-TT  651Cvri 20 nov  23:48:37
+OL,1,S##ENNISQ,,,,,,,,,,,,,,,,,,,,,,,,A 1/3 
 OL,2,S /A]C    ATP Finals/Turijn (Ita)       
 OL,3,Q#######################################
 OL,4,BDubbelspel,groep Todd Woodbridge,dinsd:
@@ -33,8 +33,8 @@ PN,65102
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  651Cvri 20 nov  13:50:26
-OL,1,S##ENNISQ,,,,,,,,,,,,,,,,,,,,,,,,A 2/2 
+OL,0,       BNOS-TT  651Cvri 20 nov  23:48:37
+OL,1,S##ENNISQ,,,,,,,,,,,,,,,,,,,,,,,,A 2/3 
 OL,2,S /A]C    ATP Finals/Turijn (Ita)       
 OL,3,Q#######################################
 OL,4,BDubbelspel,groep Mark Woodforde,woensd:
@@ -47,15 +47,45 @@ OL,10,BVrijdag:
 OL,11,CSkupski/Harrison (GB/VS,2)             
 OL,12,G CGranollers/Zeballos (Spa,3)...7-6,6-4
 OL,13,BKrawietz/P}tz (Dui,7)                  
-OL,14,BBBBolelli/Vavassori (Ita,5)            
+OL,14,G BBolelli/Vavassori,Ita,5..6-7,7-6,10-7
 OL,15,G                                       
 OL,16,G                                       
-OL,17,G  BStand groep Woodforde:     w-v      
-OL,18,B1.CKrawietz/P}tzB*           B2-0 (4-1)
+OL,17,G  BEindstand groep Woodforde: w-v      
+OL,18,B1.CKrawietz/P}tzB*           B3-0 (6-2)
 OL,19,B2.CSkupski/HarrisonB*        B2-1 (4-2)
 OL,20,B3.CGranollers/Zeballos       B1-2 (3-4)
-OL,21,B4.CBolelli/Vavassori         B0-2 (0-4)
-OL,22,G  B* naar halve finales (nrs.1 en 2)   
+OL,21,B4.CBolelli/Vavassori         B0-3 (1-6)
+OL,22,G  B* naar halve finales                
+OL,23,A] C  enkelspel opCpagina's 649-650     
+OL,24,Aweer    Bnieuws    Csport    Fvoetbal@@
+FL,702,101,601,801,0,100
+PN,65103
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       BNOS-TT  651Cvri 20 nov  23:48:34
+OL,1,S##ENNISQ,,,,,,,,,,,,,,,,,,,,,,,,A 3/3 
+OL,2,S /A]C    ATP Finals/Turijn (Ita)       
+OL,3,Q#######################################
+OL,4,G  BEindstand groep Woodbridge:w-v      
+OL,5,B1.CArevalo/PavicB            B3-0 (6-1)
+OL,6,B2.CArribage/OlivettiB        B2-1 (4-2)
+OL,7,B3.CHeli|vaara/Patton         B1-2 (3-5)
+OL,8,B4.CLuz/Matos                 B0-3 (1-6)
+OL,9,G                                       
+OL,10,G  BEindstand groep Woodforde: w-v      
+OL,11,B1.CKrawietz/P}tzB            B3-0 (6-2)
+OL,12,B2.CSkupski/HarrisonB         B2-1 (4-2)
+OL,13,B3.CGranollers/Zeballos       B1-2 (3-4)
+OL,14,B4.CBolelli/Vavassori         B0-3 (1-6)
+OL,15,G                                       
+OL,16,BDubbelspel,halve finales,zaterdag:     
+OL,17,CArevalo/Pavic (ESa/Kro,4)              
+OL,18,G CSkupski/Harrison (GB/VS,2)           
+OL,19,G                                       
+OL,20,BKrawietz/P}tz (Dui,7)                  
+OL,21,CCBArribage/Olivetti (Fra,6)            
+OL,22,G                                       
 OL,23,A] C  enkelspel opCpagina's 649-650     
 OL,24,Aweer    Bnieuws    Csport    Fvoetbal@@
 FL,702,101,601,801,0,100

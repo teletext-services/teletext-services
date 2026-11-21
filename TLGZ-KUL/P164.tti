@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  164Cpi@ 20 lis  18:03:47
+OL,0,      BKULTURA  164Csob 21 lis  04:04:01
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FGORZOW WIELKOPOLSKI             ZV,,,, 
 OL,4, pi@.    B1  C5 Gumiar F10W  G994ZVp    
-OL,5, sob.    B1  C5 Gdu{e  F18W G1004  ZW`p 
-OL,6, nie.    B3  C5 Gumiar F14W G1004ZVx `` 
-OL,7, pon.                                   
+OL,5, sob.    B0  C5 Gdu{e  F18W G1005   ZW` 
+OL,6, nie.    B3  C5 Gdu{e  F14W G1004   ZVp 
+OL,7, pon.    B1  C2 Gdu{e  F10NWG1008ZW00 4 
 OL,8, wt.                                    
 OL,9,FS]UBICE                         ZV,,,, 
 OL,10, pi@.    B2  C5 Gumiar  F7NW G993ZVp`   
-OL,11, sob.    B2  C5 Gdu{e  F18W G1004  ZWpt 
-OL,12, nie.    B3  C5 Gumiar F14W G1004ZV0  0 
-OL,13, pon.                                   
+OL,11, sob.    B1  C5 Gdu{e  F14W G1004  ZWhx 
+OL,12, nie.    B3  C5 Gumiar F14W G1003ZVp  ` 
+OL,13, pon.    B0  C3 Gumiar F10NWG1008ZW0  4 
 OL,14, wt.                                    
 FL,163,165,200,200,0,100
 PN,16402
@@ -25,13 +25,13 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  164Cpi@ 20 lis  18:03:47
+OL,0,      BKULTURA  164Csob 21 lis  04:04:01
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FZIELONA GORA                    ZV,,,, 
 OL,4, pi@.    B2  C8 Gdu{e   F7NW G983ZVxxp  
-OL,5, sob.    B1  C5 Gca}k. F18W  G994ZW``px 
-OL,6, nie.    B2  C5 Gumiar F14W  G993ZV0  ` 
-OL,7, pon.                                   
+OL,5, sob.    B1  C4 Gdu{e  F14W  G994 ZW`pt 
+OL,6, nie.    B2  C4 Gdu{e  F10W  G993ZVxt   
+OL,7, pon.    B1  C2 Gumiar F10NW G997ZW`t   
 OL,8, wt.                                    
 FL,163,165,200,200,0,100

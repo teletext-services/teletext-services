@@ -3,10 +3,10 @@ PN,22501
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G225FORF1   GFr 20.11.26 14:09:38
+OL,0,       G225FORF1   GSa 21.11.26 00:09:15
 OL,1,A]G                              Tennis 
 OL,2,A]GSPORT  ]A                ATP Finals \
-OL,3,Q#########G                        1/2  
+OL,3,Q#########G                        1/3  
 OL,4,FTurin (ITA, 15,75 Mio $, Hard/Halle)   
 OL,6,FGruppe John McEnroe                    
 OL,8,CDonnerstag                             
@@ -28,22 +28,44 @@ PN,22502
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G225FORF1   GFr 20.11.26 14:09:38
+OL,0,       G225FORF1   GSa 21.11.26 00:09:15
 OL,1,A]G                              Tennis 
 OL,2,A]GSPORT  ]A                ATP Finals \
-OL,3,Q#########G                        2/2  
+OL,3,Q#########G                        2/3  
 OL,4,FTurin (ITA, 15,75 Mio $, Hard/Halle)   
 OL,6,FGruppe Ivan Lendl                      
 OL,8,CFreitag                                
-OL,10, Carlos Alcaraz (ESP/2) -               
-OL,11,  Flavio Cobolli (ITA/5)         14.00h 
-OL,13, Daniil Medwedew (RUS/4) -              
-OL,14,  Frances Tiafoe (USA/7)         20.20h 
+OL,10,FCarlos Alcaraz (ESP/2) -           6 6 
+OL,11,G Flavio Cobolli (ITA/5)            4 1 
+OL,13,FDaniil Medwedew (RUS/4) -          6 6 
+OL,14,  Frances Tiafoe (USA/7)            3 4 
 OL,16,FTabelle                                
-OL,17,  1. AlcarazF*G  2  2 0  4:0  2         
-OL,18,  2. Medwedew    2  1 1  2:2  1         
-OL,19,  3. Tiafoe      2  1 1  2:2  1         
-OL,20,  4. Cobolli     2  0 2  0:4  0         
+OL,17,  1. AlcarazF*G  3  3 0  6:0  3         
+OL,18,  2. MedwedewF*G 3  2 1  4:2  2         
+OL,19,  3. Tiafoe      3  1 2  2:4  1         
+OL,20,  4. Cobolli     3  0 3  0:6  0         
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,F* im Halbfinale 
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,22503
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       G225FORF1   GSa 21.11.26 00:09:15
+OL,1,A]G                              Tennis 
+OL,2,A]GSPORT  ]A                ATP Finals \
+OL,3,Q#########G                        3/3  
+OL,4,FTurin (ITA, 15,75 Mio $, Hard/Halle)   
+OL,6,FEinzel, Halbfinale                     
+OL,8, Alexander Zverev (GER/1) -             
+OL,9,  Daniil Medwedew (RUS/4)       Samstag 
+OL,11, Carlos Alcaraz (ESP/2) -               
+OL,12,  Ben Shelton (USA/3)           Samstag 
+OL,14,FDoppel, Halbfinale                     
+OL,16, Krawietz/P}tz (GER/7) -                
+OL,17,  Arribage/Olivetti (FRA/6)     Samstag 
+OL,19, Arevalo/Pavic (ESA/CRO/4) -            
+OL,20,  Harrison/Skupski (USA/GBR/2)  Samstag 
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

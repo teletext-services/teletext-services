@@ -3,7 +3,7 @@ PN,35601
 SC,0001
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 356  Fre 20 novC00:07:40
+OL,0,      GSVT Text 356  L|r 21 novC00:07:37
 OL,1,D]GHANDBOLL Allsvenskan, herrar         
 OL,2,C14/11FKung{lv    - H43 Lund   27-30    
 OL,3,      FV{ster}sIr - IFK Ystad  26-32    
@@ -33,7 +33,7 @@ PN,35602
 SC,0002
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 356  Fre 20 novC00:07:40
+OL,0,      GSVT Text 356  L|r 21 novC00:07:37
 OL,1,D]GHANDBOLL Allsvenskan, herrar         
 OL,3, B1 Guif         9  8  1  0  289-233  17
 OL,4, C2 H43 Lund     9  7  1  1  278-259  15
@@ -56,25 +56,25 @@ PN,35603
 SC,0003
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 356  Fre 20 novC00:07:40
+OL,0,      GSVT Text 356  L|r 21 novC00:07:37
 OL,1,D]GHANDBOLL Bundesliga, herrar          
-OL,3,C1/11 FGummersbac - Balingen-W 39-29    
-OL,4,C14/11FF Berlin   - Kiel       28-25    
-OL,5,      FBalingen-W - Wetzlar    23-26    
-OL,6,      FErlangen   - Hamburg    30-28    
-OL,7,      FR-N L|wen  - Lemgo      32-32    
-OL,8,      FBergischer - Eisenach   29-23    
-OL,9,C15/11FMagdeburg  - Flensburg  37-29    
-OL,10,      FMelsungen  - Bietigheim 31-31    
-OL,11,      FGummersbac - Hannover   33-29    
-OL,12,C20/11GHannover   - Stuttgart           
-OL,13,      GErlangen   - Balingen-W          
-OL,14,C21/11GEisenach   - Melsungen           
-OL,15,      GBietigheim - Bergischer          
-OL,16,      GLemgo      - Gummersbac          
-OL,17,C22/11GG|ppingen  - F Berlin            
-OL,18,      GFlensburg  - R-N L|wen           
-OL,19,      GHamburg    - Magdeburg           
+OL,3,C14/11FBalingen-W - Wetzlar    23-26    
+OL,4,      FErlangen   - Hamburg    30-28    
+OL,5,      FBergischer - Eisenach   29-23    
+OL,6,      FR-N L|wen  - Lemgo      32-32    
+OL,7,C15/11FMagdeburg  - Flensburg  37-29    
+OL,8,      FMelsungen  - Bietigheim 31-31    
+OL,9,      FGummersbac - Hannover   33-29    
+OL,10,C20/11FHannover   - Stuttgart  34-34    
+OL,11,      FErlangen   - Balingen-W 28-34    
+OL,12,C21/11GEisenach   - Melsungen           
+OL,13,      GBietigheim - Bergischer          
+OL,14,      GLemgo      - Gummersbac          
+OL,15,C22/11GG|ppingen  - F Berlin            
+OL,16,      GFlensburg  - R-N L|wen           
+OL,17,      GHamburg    - Magdeburg           
+OL,18,      GKiel       - Wetzlar             
+OL,19,C26/11GBalingen-W - Lemgo               
 OL,23,D]G          Tabell f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (3/4)
 FL,100,300,400,700,0,100
@@ -82,7 +82,7 @@ PN,35604
 SC,0004
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 356  Fre 20 novC00:07:40
+OL,0,      GSVT Text 356  L|r 21 novC00:07:37
 OL,1,D]GHANDBOLL Bundesliga, herrar          
 OL,3, B1 Magdeburg   12 11  0  1  400-346  22
 OL,4, G2 Kiel        13 10  1  2  403-364  21
@@ -90,16 +90,16 @@ OL,5, G3 Flensburg   12  9  1  2  407-373  19
 OL,6, G4 F Berlin    11  8  0  3  366-340  16
 OL,7, G5 Melsungen   12  7  2  3  366-335  16
 OL,8, G6 Gummersbach 12  7  2  3  385-356  16
-OL,9, G7 Erlangen    12  7  1  4  372-368  15
-OL,10, G8 Lemgo       12  7  1  4  370-371  15
-OL,11, G9 Hannover    12  5  2  5  348-352  12
-OL,12,G10 Stuttgart   11  5  1  5  333-332  11
+OL,9, G7 Lemgo       12  7  1  4  370-371  15
+OL,10, G8 Erlangen    13  7  1  5  400-402  15
+OL,11, G9 Hannover    13  5  3  5  382-386  13
+OL,12,G10 Stuttgart   12  5  2  5  367-366  12
 OL,13,G11 G|ppingen   11  4  0  7  307-336   8
 OL,14,G12 R-N L|wen   12  3  2  7  344-364   8
-OL,15,G13 Hamburg     12  3  1  8  355-364   7
-OL,16,G14 Bergischer  11  3  0  8  299-331   6
-OL,17,G15 Eisenach    12  2  2  8  333-366   6
-OL,18,G16 Balingen-We 11  2  1  8  311-323   5
+OL,15,G13 Balingen-We 12  3  1  8  345-351   7
+OL,16,G14 Hamburg     12  3  1  8  355-364   7
+OL,17,G15 Bergischer  11  3  0  8  299-331   6
+OL,18,G16 Eisenach    12  2  2  8  333-366   6
 OL,19,F17 Bietigheim  12  2  1  9  354-397   5
 OL,20,F18 Wetzlar     12  1  2  9  352-387   4
 OL,23,D]G       Allsvenskan f|ljer >>>        

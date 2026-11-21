@@ -3,27 +3,27 @@ PN,56701
 SC,0001
 PS,C200
 CT,10,T
-OL,0,     G567 WDR Text GFr 20.11.26 19:32:09
+OL,0,     G567 WDR Text GSa 21.11.26 05:31:45
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DWEEZE          ]          
 OL,3,]T5D     Abflug                    
-OL,4,                 STAND 19:25            
+OL,4,                 STAND 05:27            
 OL,6,CZEIT  FLUGNR. NACH      ERWARTET BEMERK
-OL,7,B20:00 FR 5885 FES                      
-OL,8, 06:05 FR 5688 EDINBURGH          Morgen
-OL,9,B06:05 FR 7562 TENERIFFA-SU       Morgen
-OL,10, 07:10 FR 5561 ESSAOUIRA          Morgen
-OL,11,B07:45 FR 8632 SEVILLA            Morgen
-OL,12, 07:55 FR 5885 FES                Morgen
-OL,13,B09:00 FR 1816 RABAT              Morgen
-OL,14, 12:10 FR 8634 MALAGA             Morgen
-OL,15,B15:00 FR 7560 MARRAKESCH         Morgen
-OL,16, 15:55 FR 1820 TANGER             Morgen
-OL,17,B16:00 FR 6357 NADOR              Morgen
-OL,18, 16:15 FR 2126 ZAGREB             Morgen
-OL,19,B16:50 FR 6212 ALICANTE           Morgen
-OL,20, 17:00 FR 8332 TIRANA             Morgen
-OL,21,B17:40 FR 5781 FARO               Morgen
+OL,7,B06:05 FR 5688 EDINBURGH                
+OL,8, 06:05 FR 7562 TENERIFFA-SU             
+OL,9,B07:10 FR 5561 ESSAOUIRA                
+OL,10, 07:45 FR 8632 SEVILLA                  
+OL,11,B07:55 FR 5885 FES                      
+OL,12, 09:00 FR 1816 RABAT                    
+OL,13,B12:10 FR 8634 MALAGA                   
+OL,14, 15:00 FR 7560 MARRAKESCH               
+OL,15,B15:55 FR 1820 TANGER                   
+OL,16, 16:00 FR 6357 NADOR                    
+OL,17,B16:15 FR 2126 ZAGREB                   
+OL,18, 16:50 FR 6212 ALICANTE                 
+OL,19,B17:00 FR 8332 TIRANA                   
+OL,20, 17:40 FR 5781 FARO                     
+OL,21,B19:55 FR 4986 AGADIR                   
 OL,23,]D555 < ]bersicht   H|rgesch{digte > 570
 OL,24,A]G- 566B]G+ 569C]DWeeze \        G(1/2)
 FL,566,569,0,0,0,100
@@ -31,13 +31,17 @@ PN,56702
 SC,0002
 PS,C200
 CT,10,T
-OL,0,     G567 WDR Text GFr 20.11.26 19:32:09
+OL,0,     G567 WDR Text GSa 21.11.26 05:31:45
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DWEEZE          ]          
 OL,3,]T5D     Abflug                    
-OL,4,                 STAND 19:25            
+OL,4,                 STAND 05:27            
 OL,6,CZEIT  FLUGNR. NACH      ERWARTET BEMERK
-OL,7,B19:55 FR 4986 AGADIR             Morgen
+OL,7,B06:00 FR 9642 FUERTEVENTUR       Morgen
+OL,8, 06:25 FR 7524 BARI               Morgen
+OL,9,B06:30 FR 6212 ALICANTE           Morgen
+OL,10, 07:15 FR 5489 PORTO              Morgen
+OL,11,B07:25 FR 6357 NADOR              Morgen
 OL,23,]D555 < ]bersicht   H|rgesch{digte > 570
 OL,24,A]G- 566B]G+ 569C]DWeeze \        G(2/2)
 FL,566,569,0,0,0,100

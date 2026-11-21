@@ -3,22 +3,23 @@ PN,41501
 SC,0001
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 415  Fre 20 novC12:30:05
-OL,1,D]GSj|v{der fredag kl. 11.28       1(5) 
-OL,2,D]GUtsikter till l|rdag f|rmiddag       
+OL,0,      GSVT Text 415  L|r 21 novC00:30:20
+OL,1,D]GSj|v{der fredag kl. 22.04       1(5) 
+OL,2,D]GUtsikter g{llande ett dygn           
 OL,4,FV{der|versikt                          
-OL,5, GEtt l}gtryck t{cker norra \stersj|n   
-OL,6, Goch Bottenhavet. L}gtrycket r|r sig   
-OL,7, Gimorgon sakta bort }t sydost in |ver  
-OL,8, GBaltikum.                             
-OL,10,FTyska bukten, Fiskebankarna och Syd    
-OL,11,FUtsira                                 
-OL,12, GNord eller nordv{st 7-12. Imorgon     
-OL,13, Geftermiddag 10-kuling 15. M}ttlig till
-OL,14, Ggod sikt, skurar.                     
-OL,16,FSkagerrak och Kattegatt                
-OL,17, GNord eller nordv{st 5-10. Imorgon     
-OL,18, Geftermiddag 7-12. Mest god sikt.      
+OL,5, GEtt l}gtryck med centrum |ver norra   
+OL,6, G\stersj|n r|r sig l}ngsamt |sterut.   
+OL,7, GFr}n Gr|nland och ner |ver            
+OL,8, GStorbritannien v{xer en h|gtrycksrygg 
+OL,9, Gin.                                   
+OL,11,FTyska bukten, Fiskebankarna och Syd    
+OL,12,FUtsira                                 
+OL,13, GNord eller nordv{st 7-12. I morgon    
+OL,14, Geftermiddag p} Syd Utsira och         
+OL,15, GFiskebankarna 10-kuling 15. L{tta     
+OL,16, Gskurar med m}ttlig sikt.              
+OL,18,FSkagerrak, Kattegatt och V{nern        
+OL,19, GNordv{st 7-12. God sikt.              
 OL,23,D] GV{derindex 400                      
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/5)
 FL,100,300,400,700,0,100
@@ -26,21 +27,19 @@ PN,41502
 SC,0002
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 415  Fre 20 novC12:30:05
-OL,1,D]GSj|v{der fredag kl. 11.28       2(5) 
-OL,2,D]GUtsikter till l|rdag f|rmiddag       
-OL,4,FV{nern                                 
-OL,5, GV{st eller nordv{st 7-12. Mest god    
-OL,6, Gsikt.                                 
-OL,8,F\resund, B{lten och Sydv{stra \stersj|n
-OL,9, GV{st eller nordv{st 5-10. Inatt |kande
-OL,10, Gtill 8-13. Mest god sikt.             
-OL,12,FS|dra \stersj|n, Syd|stra \stersj|n och
-OL,13,FMellersta \stersj|n                    
-OL,14, GV{st eller nordv{st 8-13. Inatt       
-OL,15, G|kande, imorgon 10-kuling 15. M}ttlig 
-OL,16, Gtill god sikt med byar av regn och    
-OL,17, Gbl|tsn|.                              
+OL,0,      GSVT Text 415  L|r 21 novC00:30:20
+OL,1,D]GSj|v{der fredag kl. 22.04       2(5) 
+OL,2,D]GUtsikter g{llande ett dygn           
+OL,4,F\resund, B{lten, Sydv{stra \stersj|n   
+OL,5,Foch S|dra \stersj|n                    
+OL,6, GV{st eller nordv{st 9-kuling 14, men  
+OL,7, Gfram till i morgon bitti p} de v{stra 
+OL,8, Gfarvattnen 5-10. God sikt.            
+OL,10,FSyd|stra \stersj|n och Mellersta       
+OL,11,F\stersj|n                              
+OL,12, GV{st eller nordv{st 10-kuling 15.     
+OL,13, GFr{mst p} |stra farvattnen tidvis regn
+OL,14, Gmed m}ttlig sikt.                     
 OL,23,D] GV{derindex 400                      
 OL,24,ANyheter BSport CV{der FInneh}llG  (2/5)
 FL,100,300,400,700,0,100
@@ -48,23 +47,22 @@ PN,41503
 SC,0003
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 415  Fre 20 novC12:30:05
-OL,1,D]GSj|v{der fredag kl. 11.28       3(5) 
-OL,2,D]GUtsikter till l|rdag f|rmiddag       
-OL,4,FNorra \stersj|n                        
-OL,5, GOmkring v{st 5-10. Ikv{ll |kande inatt
-OL,6, Gnordv{st 12-kuling 17. Imorgon nord   
-OL,7, Geller nordv{st. Tidvis regn eller     
-OL,8, Gbl|tsn| med m}ttlig till d}lig sikt.  
-OL,10,FRigabukten                             
-OL,11, GV{st eller sydv{st 7-12. Tidvis regn  
-OL,12, Gmed m}ttlig sikt.                     
-OL,14,FFinska viken                           
-OL,15, GSydost 5-10, ikv{ll vridande till syd 
-OL,16, Geller sydv{st och n}got |kande.       
-OL,17, GImorgon }ter syd eller sydost 5-10.   
-OL,18, GTidvis regn med m}ttlig till d}lig    
-OL,19, Gsikt.                                 
+OL,0,      GSVT Text 415  L|r 21 novC00:30:20
+OL,1,D]GSj|v{der fredag kl. 22.04       3(5) 
+OL,2,D]GUtsikter g{llande ett dygn           
+OL,4,FNorra \stersj|n och Sk{rg}rdshavet     
+OL,5, GV{st eller nordv{st |kande till       
+OL,6, G10-kuling 15, men f|r Sk{rg}rdshavet  
+OL,7, Goch strax s|der d{rom v{ntas v{st     
+OL,8, Geller v{xlande i l}gtryck 6-11, i     
+OL,9, Gmorgon efterhand omkring nord 9-kuling
+OL,10, G14. Tidvis regn eller sn|blandat regn 
+OL,11, Gmed m}ttlig sikt.                     
+OL,13,FRigabukten                             
+OL,14, GV{st eller sydv{st 8-13. I morgon     
+OL,15, Geftermiddag p} norra delen avtagande  
+OL,16, Gtill 3-8 och v{xlande i l}gtryck. Regn
+OL,17, Gmed m}ttlig sikt.                     
 OL,23,D] GV{derindex 400                      
 OL,24,ANyheter BSport CV{der FInneh}llG  (3/5)
 FL,100,300,400,700,0,100
@@ -72,22 +70,17 @@ PN,41504
 SC,0004
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 415  Fre 20 novC12:30:05
-OL,1,D]GSj|v{der fredag kl. 11.28       4(5) 
-OL,2,D]GUtsikter till l|rdag f|rmiddag       
-OL,4,F]lands hav, S|dra Bottenhavet och Norra
-OL,5,FBottenhavet                            
-OL,6, GV{xlande 1-5, vid svenska kusten      
-OL,7, Gomkring nord 5-10. Ikv{ll allm{nt     
-OL,8, Gomkring nord och p} v{stra farvatten  
-OL,9, G|kande till 12-kuling 17. Tidvis regn 
-OL,10, Geller sn|fall med m}ttlig till d}lig  
-OL,11, Gsikt.                                 
-OL,13,FSk{rg}rdshavet                         
-OL,14, GV{xlande kring ett l}gtryck 2-6.      
-OL,15, GImorgon ost eller nordost och n}got   
-OL,16, G|kande. Tidvis regn med inslag av sn| 
-OL,17, Gmed m}ttlig till d}lig sikt.          
+OL,0,      GSVT Text 415  L|r 21 novC00:30:20
+OL,1,D]GSj|v{der fredag kl. 22.04       4(5) 
+OL,2,D]GUtsikter g{llande ett dygn           
+OL,4,FFinska viken                           
+OL,5, GSyd eller sydv{st 6-11. I morgon p}   
+OL,6, Gv{stra delen vridande till ost eller  
+OL,7, Gsydost. Tidvis regn med m}ttlig sikt. 
+OL,9,F]lands hav                             
+OL,10, GNordv{st 12-kuling 17. I morgon nord  
+OL,11, Goch avtagande |sterifr}n till 6-11.   
+OL,12, GRegn med m}ttlig sikt.                
 OL,23,D] GV{derindex 400                      
 OL,24,ANyheter BSport CV{der FInneh}llG  (4/5)
 FL,100,300,400,700,0,100
@@ -95,14 +88,22 @@ PN,41505
 SC,0005
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 415  Fre 20 novC12:30:05
-OL,1,D]GSj|v{der fredag kl. 11.28       5(5) 
-OL,2,D]GUtsikter till l|rdag f|rmiddag       
-OL,4,FNorra Kvarken och Bottenviken          
-OL,5, GOst eller nordost 4-9. Inatt nordost  
-OL,6, Goch |kande 7-12.  Imorgon nord        
-OL,7, G12-kuling 17. Tidvis regn eller sn|   
-OL,8, Gmed m}ttlig till d}lig sikt.          
+OL,0,      GSVT Text 415  L|r 21 novC00:30:20
+OL,1,D]GSj|v{der fredag kl. 22.04       5(5) 
+OL,2,D]GUtsikter g{llande ett dygn           
+OL,4,FS|dra Bottenhavet och Norra Bottenhavet
+OL,5, GNord eller nordv{st 10-kuling 15, men 
+OL,6, Gp} Finska sidan omkring nordost 6-11. 
+OL,7, GFr}n i morgon eftermiddag allm{nt nord
+OL,8, Geller nordost och |kande norrifr}n    
+OL,9, Gtill 12-kuling 17. Regn med m}ttlig   
+OL,10, Gsikt, n{ra kusterna inslag av sn| och 
+OL,11, Gd}lig sikt.                           
+OL,13,FNorra Kvarken och Bottenviken          
+OL,14, GOst eller nordost 6-11. Fr}n i morgon 
+OL,15, Gbitti nord eller nordost |kande till  
+OL,16, G12-kuling 17. Sn| eller regn med      
+OL,17, Gm}ttlig till d}lig sikt.              
 OL,23,D] GV{derindex 400                      
 OL,24,ANyheter BSport CV{der FInneh}llG  (5/5)
 FL,100,300,400,700,0,100

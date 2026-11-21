@@ -1,27 +1,53 @@
 DE,NDR 802
-PN,80200
-SC,0000
-PS,8200
+PN,80201
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       G802FNDR TEXT GFr 20.11.B13:42:39
+OL,0,       G802FNDR TEXT GFr 20.11.B23:42:06
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7i                              
 OL,4,F]T  %                                  
 OL,5,FPlay-off-Runde: Viertelfinale          
-OL,7,FHinspiele (25.-27.M{rz 2027)           
-OL,8, Spanien - Frankreich                   
-OL,9, Norwegen - England                     
-OL,10, Niederlande - Portugal                 
-OL,11, Belgien - Deutschland                  
-OL,12,C(R}ckspiele vom 28.-30.M{rz 2027)      
-OL,14,FHalbfinale (9.-10.Juni 2027)           
-OL,15, NED/POR - ESP/FRA                      
-OL,16, BEL/GER - NOR/ENG                      
-OL,19,FDas Finale und das Spiel um Paltz 3    
-OL,20,Ffinden am 13.Juni 2027. Der Austra-    
-OL,21,Fgungsort des Finalturniers der vier    
-OL,22,Fbesten Teams steht noch nicht fest.    
+OL,7,CHinspiele                              
+OL,8,FDonnerstag, 25.M{rz (R}ck: 28.M{rz)    
+OL,9, Spanien - Frankreich                   
+OL,10, Belgien - Deutschland                  
+OL,12,FSamstag, 27.M{rz (R}ck: 30.M{rz)       
+OL,13, Norwegen - England                     
+OL,14, Niederlande - Portugal                 
+OL,16,FHalbfinale (9.-10.Juni 2027)           
+OL,17, NED/POR - ESP/FRA                      
+OL,18, BEL/GER - NOR/ENG                      
+OL,20,FFinale und Spiel um Platz 3 am 13.Juni 
+OL,21,F2027. Der Austragungsort des Finaltur- 
+OL,22,Fniers steht noch nicht fest.           
 OL,23,D]G800<<  Quelle: ARD Text        mehr >
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,80202
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       G802FNDR TEXT GFr 20.11.B23:42:06
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7i                              
+OL,4,F]T  %                                  
+OL,5,FAbstiegs-Playoffs                      
+OL,7,CLiga A/B:                              
+OL,8, Bosnien-Herzegowina - D{nemark         
+OL,9, Irland - Kroatien                      
+OL,10, Ungarn - Serbien                       
+OL,11, Slowenien - Wales                      
+OL,13,CLiga B/C:                              
+OL,14, Zypern - Nordmazedonien                
+OL,15, Estland - Rum{nien                     
+OL,16, F{r|er-Inseln - Georgien               
+OL,17, Belarus - Israel                       
+OL,19,FTermine:GPlay-offs Liga A/B und B/C    
+OL,20, 25.-30.M{rz 2027,                      
+OL,21, Play-offs Liga C/D 23.-28.M{rz 2028    
+OL,23,D]G800<<  Quelle: ARD Text        mehr >
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

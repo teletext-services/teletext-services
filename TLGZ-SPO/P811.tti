@@ -4,28 +4,28 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    811Cpi@ 20 lis  18:50:52
-OL,1,C]      @K o s z y k _ w k a       18:42
+OL,0,      BSPORT    811Csob 21 lis  04:50:11
+OL,1,C]      @K o s z y k _ w k a       04:42
 OL,2,C] @Mecze wed}ug kategorii rozgrywek    
 OL,3,C-------------- EuroLiga ---------------
-OL,4, Anadolu EfesE15:5GASVEL           E15:5
-OL,5, Olympiacos - Real Madryt         B20:15
-OL,6, Barcelona - Crvena zvezda        B20:30
-OL,7, Partizan - Besiktas              B20:45
-OL,8,C------- Francja - Betclic ELITE -------
-OL,9, Chorale Roanne - Limoges         B20:00
-OL,10, Dijon - Le Mans                  B20:30
-OL,11,C------- Polska - PZKosz 1 Liga --------
-OL,12, Note^ Inowroc}awE28:22GSp_jnia Stargard
-OL,13,                              C28:22E0:0
-OL,14,C--- Polska - Polska Liga Koszyk_wki ---
-OL,15, G_rnik Wa}brzychE23:22GGTK Gliwice     
-OL,16,                             C15:10E8:12
-OL,17, Astoria Bydgoszcz - Czarni S}upskB20:15
-OL,18,C-------------- USA - NBA --------------
-OL,19, Atlanta Hawks - Charlotte HornetsB01:00
-OL,20, Brooklyn Nets - Orlando Magic    B01:30
-OL,21, Cleveland Cavalier-Indiana PacersB01:30
+OL,4, BarcelonaF100:103GCrvena zvezda        
+OL,5,          C23:15 17:29 26:24 19:17 15:18
+OL,6, PartizanF91:87GBesiktas                
+OL,7,          C20:22 21:19 22:18 14:18 14:10
+OL,8,C----------- Grecja - A1 (K) -----------
+OL,9, Olympiakos - Panathlitikos       B13:00
+OL,10, Athinaikos - Panathinaikos       B16:00
+OL,11, Giannina - PAOK                  B16:00
+OL,12,C------- Grecja - Basket League --------
+OL,13, Iraklis - AEK                    B14:00
+OL,14, Kolossos H Hotel-Promitheas PatraB15:00
+OL,15, Lefkadas - Peristeri             B16:00
+OL,16, Panathinaikos - Maroussi         B16:30
+OL,17, PAOK - Aris                      B16:30
+OL,18,C--- Polska - Polska Liga Koszyk_wki ---
+OL,19, Start Lublin-Polski Cukier Toru$ B12:30
+OL,20,C------------ Turcja - BSL -------------
+OL,21, Karsiyaka - Denizli Basket       B11:00
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C802      F803   
@@ -35,26 +35,76 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    811Cpi@ 20 lis  18:50:52
-OL,1,C]      @K o s z y k _ w k a       18:42
+OL,0,      BSPORT    811Csob 21 lis  04:50:12
+OL,1,C]      @K o s z y k _ w k a       04:42
+OL,2,C] @Mecze wed}ug kategorii rozgrywek    
+OL,3,C------------ Turcja - BSL -------------
+OL,4, Turk Telekom - Tofas             B13:30
+OL,5, Bahcesehir Koleji - Korfez       B16:00
+OL,6,C---------- Turcja - KBSL (K) ----------
+OL,7, Besiktas JK(K)-Istanbul Genclik(WB12:00
+OL,8, Aydin(W) - Emlak Konut(W)        B14:00
+OL,9, Turgutlu(W) - Galatasaray(K)     B16:00
+OL,10,C-------------- USA - NBA --------------
+OL,11, Atlanta HawksF111:97GCharlotte Hornets 
+OL,12,                C23:31 33:26 31:19 24:21
+OL,13, Brooklyn NetsF111:113GOrlando Magic    
+OL,14,                C25:38 36:24 27:29 23:22
+OL,15, Cleveland CavaliF128:119GIndiana Pacers
+OL,16,                C29:29 33:32 43:22 23:36
+OL,17, Detroit PistonsF102:105GToronto Raptors
+OL,18,                C23:26 25:28 24:23 30:28
+OL,19, Chicago BullsF94:98GWashington Wizards 
+OL,20,                 C29:22 31:30 9:23 25:23
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C802      F803   
+FL,800,801,802,803,0,100
+PN,81103
+SC,0003
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BSPORT    811Csob 21 lis  04:50:12
+OL,1,C]      @K o s z y k _ w k a       04:42
 OL,2,C] @Mecze wed}ug kategorii rozgrywek    
 OL,3,C-------------- USA - NBA --------------
-OL,4, Detroit Pistons - Toronto RaptorsB01:30
-OL,5, Chicago Bulls-Washington Wizards B02:00
-OL,6, Oklahoma City-New Orleans PelicanB02:00
-OL,7, Utah Jazz - Phoenix Suns         B03:30
-OL,8, Denver Nuggets - Houston Rockets B04:00
-OL,9, Los Angeles Lake-Sacramento KingsB04:00
-OL,10,C--------- USA - NBA G League ----------
-OL,11, College Park-Delaware Blue Coats B01:00
-OL,12, Grand Rapids Gol-Cleveland ChargeB01:00
-OL,13, Maine Celtics-Capital City Go-Go B01:00
-OL,14, Raptors 905 - Westchester Knicks B01:30
-OL,15, Rip City Remix-Santa Cruz WarriorB02:00
-OL,16, Sioux Falls Skyf-Windy City BullsB02:00
-OL,17, Rio Grande Valle-Laketown SquadroB02:30
-OL,18, Coachella Valley - Stockton KingsB04:00
-OL,19, San Diego Clippers - Valley Suns B04:00
+OL,4, Oklahoma CityF126:120GNew Orleans Pelic
+OL,5,                C33:36 23:28 36:34 34:22
+OL,6, Utah JazzE49:61GPhoenix Suns           
+OL,7,                            C23:26 26:35
+OL,8, Denver NuggetsE33:33GHouston Rockets   
+OL,9,                              C31:33E2:0
+OL,10, Los Angeles LakeE28:28GSacramento Kings
+OL,11,                                  C28:28
+OL,12,C--------- USA - NBA G League ----------
+OL,13, College ParkF115:118GDelaware Blue Coat
+OL,14,                C29:28 28:34 39:33 19:23
+OL,15, Grand Rapids GolF114:97GCleveland Charg
+OL,16,                C18:29 37:24 36:19 23:25
+OL,17, Maine CelticsF114:102GCapital City Go-G
+OL,18,                C26:34 38:20 27:23 23:25
+OL,19, Raptors 905E14:11GWestchester Knicks   
+OL,20,                                  E14:11
+OL,21, Rip City Remix-Santa Cruz WarriorB02:00
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C802      F803   
+FL,800,801,802,803,0,100
+PN,81104
+SC,0004
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BSPORT    811Csob 21 lis  04:50:12
+OL,1,C]      @K o s z y k _ w k a       04:42
+OL,2,C] @Mecze wed}ug kategorii rozgrywek    
+OL,3,C--------- USA - NBA G League ----------
+OL,4, Sioux Falls SkyfE35:46GWindy City Bulls
+OL,5,                              C32:38E3:8
+OL,6, Rio Grande Valle-Laketown SquadroB02:30
+OL,7, Coachella Valley - Stockton KingsB04:00
+OL,8, San Diego ClippersE8:4GValley Suns E8:4
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C802      F803   

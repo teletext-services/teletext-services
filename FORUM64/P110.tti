@@ -3,44 +3,46 @@ PN,11001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:20
+OL,0,         GFORUM64   GFr 20 Nov F22:22:43
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,E(GESUCHT) KryoFlux Files f}r Litti's   
-OL,3,EHot Shot - Super Sim Pack 3 - Big Box 2
-OL,4,EDisk 1 + 6 gesucht                     
-OL,6,CAntwort:  BMalcolm1983Returns          
-OL,7,CComments: B1                           
-OL,8,F                                       
-OL,9,FNiemand?                               
-OL,11,CErster Beitrag:                        
-OL,13,GServus,                                
-OL,15,Gich versuche es einmal auf diesem Wege.
-OL,17,GIch besitze diese 4 Disketten - leider 
-OL,18,Gwirklich defekt.                       
-OL,20,GVielleicht hat jemand ja die KryoFlux  
-OL,21,GFiles dazu herum liegen? W}rde diese   
-OL,22,Ggerne "wiederherstellen" auf Leerdisks.
+OL,2,EPole Position Atarisoft Tape Version   
+OL,4,CAntwort:  BKornel                      
+OL,5,CComments: B4                           
+OL,6,F                                       
+OL,7,F( )                                    
+OL,9,FRichtig super, danke dir. Ich habe da  
+OL,10,Fauch einige Zeit herumgespielt mit sys 
+OL,11,Fbefehlen um rauszufinden, wie das Spiel
+OL,12,Fsonst ohne Reset gestartet werden kann,
+OL,13,Faber ich konnte das nicht l|sen, blieb 
+OL,14,Falso reset. Die Idee mit dem PAl NTSC  
+OL,15,FFix ist                                
+OL,17,CErster Beitrag:                        
+OL,19,GIch habe hier eine Kassette Version    
+OL,20,Gerstellt. Falls, wenn jemand das Spiel 
+OL,21,Gohne Modul einfach von Datasette       
+OL,22,Gspielen m|chte.                        
 OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,11002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:20
+OL,0,         GFORUM64   GFr 20 Nov F22:22:43
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GEs gibt zwar die Seite                 
-OL,4,Gpreservation64.de , aber habe nat}rlich
-OL,5,Gkeinen Zugriff.                        
-OL,7,GAchso und vielleicht noch von der      
-OL,8,GCompilation GO CRAZY Disk 3 mit Bedlam 
-OL,9,Gauf Side 1 und Jinks. Mit Bedlam habe  
-OL,10,Gich mich bereits herumgeschlagen per   
-OL,11,GZoomFloppy - der schreibt die Files    
-OL,12,Gnicht korrekt zur}ck wg. dem           
-OL,13,GKopierschutz. Habe das Gef}hl, dass man
-OL,14,Gmit den KryoFlux Files mehr Erfolg hat.
-OL,16,GVielleicht habe ich ja Gl}ck.          
-OL,18,GDankesch|n                             
-OL,20,GHerzliche Gr}~e Malcolm                
+OL,3,GWas man braucht: 32K                   
+OL,4,GSpeichererweiterung, BLK1 BLK2 BLK3 und
+OL,5,GBLK5 muss aktiv sein.                  
+OL,7,GReset knopf ist notwendig.             
+OL,9,GErst wird die Seite 1 geladen. wichtig:
+OL,10,Ges muss absolut geladen werden. also   
+OL,11,GLOAD "",1,1                            
+OL,13,Gnach dem es geladen wurde, wird die    
+OL,14,GKassette umgedreht und nochmals LOAD   
+OL,15,G"",1,1 die seite zwei geladen. Wenn    
+OL,16,Gfertig, kein run oder sysbefehl        
+OL,17,Geingeben! einfach Resetknopf dr}cken   
+OL,18,Gund das Spiel startet.                 
+OL,20,GViel Spa~                              
 OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

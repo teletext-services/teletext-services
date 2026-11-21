@@ -1,25 +1,25 @@
 DE,RTS1 702
 PN,70200
 SC,0000
-PS,8080
+PS,8088
 CT,10,T
-OL,0,       G702  RTS 1     20.11.26 15:25:20
-OL,1,D]GRTS 1     ]@vendredi 20 novembre     
-OL,4,G01:25 GCouleurs locales                
+OL,0,       G702  RTS 1     21.11.26 01:25:26
+OL,1,D]GRTS 1     ]@samedi 21 novembre       
+OL,4,G01:00 GCouleurs locales                
 OL,5,E 0000 CS-TC(R)                         
-OL,6,F06:00 FJeunesse                        
-OL,8,G06:05 GPompon Ours                     
-OL,9,E 0559 GUn troc de tropCS-TB           
-OL,10,F06:10 FPompon Ours                     
-OL,11,E 0605 FLe b{ton trouve toutCS-TB      
-OL,12,G06:15 GPompon Ours                     
-OL,13,E 0610 GLa tr#sors dans les nuages      
-OL,14,       CS-TB                           
-OL,15,F06:25 FLes Schtroumpfs                 
-OL,16,E 0615 FDes escargots et des            
-OL,17,       FSchtroumpfsCS-TB               
-OL,18,G06:35 GLes Schtroumpfs                 
-OL,19,E 0625 GC'est qui le plus costaud ?     
-OL,20,       CS-TB                           
+OL,6,F06:00 FLa Pat'Patrouille               
+OL,7,E 0559 FUn brachiosaure dans la         
+OL,8,       Fgrande vall#eCI/IIB            
+OL,9,G06:00 GJeunesse                        
+OL,11,F06:20 FLa Pat'Patrouille               
+OL,12,       FDentiste pour Tyrannosaure      
+OL,13,       F/ Course folle dans la          
+OL,14,       FjungleCI/IIB                   
+OL,15,G06:40 GMojo TipTop                     
+OL,16,E 0645 GLa panne de t#l#ph#riqueCI/     
+OL,17,       GIICS-TB                        
+OL,18,F06:55 FMojo TipTop                     
+OL,19,       FLe grand prix de                
+OL,20,       FTiptopvilleCI/IICS-TB          
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

@@ -3,15 +3,15 @@ PN,28001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G280FNDR TEXT GFr 20.11.B13:31:29
+OL,0,       G280FNDR TEXT GFr 20.11.B23:30:36
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Bezirksliga NI/Hann. 1      
 OL,6,BFreitag, 20. November                  
-OL,7, Neuenkirchen  - Twistringen        -:- 
+OL,7, Neuenkirchen  - Twistringen      abges 
 OL,9,BSamstag, 21. November                  
-OL,10, SV Esperke    - B-E Steimbke       -:- 
+OL,10, SV Esperke    - B-E Steimbke     abges 
 OL,12,BSonntag, 22. November                  
 OL,13, TuS Leese     - SG Hoya            -:- 
 OL,14, SV GW St|ckse - RSV Rehburg        -:- 
@@ -26,7 +26,7 @@ PN,28002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G280FNDR TEXT GFr 20.11.B13:31:29
+OL,0,       G280FNDR TEXT GFr 20.11.B23:30:36
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -54,25 +54,20 @@ PN,28003
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G280FNDR TEXT GFr 20.11.B13:31:29
+OL,0,       G280FNDR TEXT GFr 20.11.B23:30:36
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Bezirksliga NI/Hann. 2      
-OL,5,BSonntag, 15. November                  
-OL,6, Hemmingen-W II - TSV Burgdorf      3:1 
-OL,7, SF Anderten    - SC Wedemark       2:2 
-OL,9, FC Lehrte      - Engelb.-Sch.      3:2 
-OL,10, Ramlingen-E II - TuS Garbsen       4:0 
-OL,12, SpVgg. D|hren  - Germ. Grasdorf    4:0 
-OL,13, TSV Stelingen  - OSV Hann. II      2:0 
-OL,14, MTV Ilten      - Kr{henw.-K. II    0:3 
-OL,16,BDienstag, 17. November                 
-OL,17, Ramlingen-E II - TSV Burgdorf      2:1 
-OL,18, TSV Bemerode   - OSV Hann. II      1:1 
-OL,20,BSonntag, 6. Dezember                   
-OL,21, Engelb.-Sch.   - TSV Stelingen     -:- 
-OL,22, SC Wedemark    - Germ. Grasdorf    -:- 
+OL,8,BSamstag, 21. November                  
+OL,9, OSV Hann. II   - Germ. Grasdorf    -:- 
+OL,11,BSonntag, 22. November                  
+OL,12, TSV Burgdorf   - Kr{henw.-K. II    -:- 
+OL,13, TSV Stelingen  - TSV Bemerode      -:- 
+OL,15, Ramlingen-E II - SpVgg. D|hren     -:- 
+OL,16, FC Lehrte      - TuS Garbsen       -:- 
+OL,18, SF Anderten    - Engelb.-Sch.      -:- 
+OL,19, Hemmingen-W II - SC Wedemark       -:- 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/4)
 FL,101,200,300,650,0,100
@@ -80,7 +75,7 @@ PN,28004
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G280FNDR TEXT GFr 20.11.B13:31:29
+OL,0,       G280FNDR TEXT GFr 20.11.B23:30:36
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    

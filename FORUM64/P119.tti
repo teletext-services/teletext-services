@@ -3,62 +3,42 @@ PN,11901
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:48
+OL,0,         GFORUM64   GFr 20 Nov F22:23:23
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EChangelogs zu Firmware Updates         
-OL,4,CAntwort:  Bcydo                        
-OL,5,CComments: B5                           
+OL,2,EC#64 Emulator + Kickass IDE            
+OL,4,CAntwort:  BMacTee                      
+OL,5,CComments: B17                          
 OL,6,F                                       
-OL,7,F( )                                    
-OL,9,FGell, ihr k|nnts einfach nicht lassen. 
-OL,10,FOk. ich jetzt damit auch nicht *sch{m* 
-OL,12,CErster Beitrag:                        
-OL,14,GLiebe C64U-Freunde!                    
-OL,16,GIn diesem Thread sollen die Changelogs 
-OL,17,Gzu den Firmware-Updates f}r den        
-OL,18,GCommodore 64 Ultimate archiviert       
-OL,19,Gwerden.                                
-OL,21,GBitte keine Diskussionen - der Thread  
-OL,22,Gsoll lediglich der Dokumentation       
-OL,23,Gdienen. Danke!                         
-OL,24,D]FForum64.de RSS feed            (1/3) 
+OL,7,FEin neues w|chentliches Update:        
+OL,9,FDanke f}r das Feedback. Auf Wunsch hat 
+OL,10,Fdie C #64 Development Suite jetzt einen
+OL,11,FLauncher bekommen. Er dient als        
+OL,12,FStartzentrale f}r alle Dev Suite       
+OL,13,FAnwendungen, kann als router f}r die   
+OL,14,Fverschiedenen C #64 Filetypen genutzt  
+OL,15,Fwerden                                 
+OL,17,CErster Beitrag:                        
+OL,19,GHi,                                    
+OL,21,Gich arbeite seit Mitte '22 an meinem   
+OL,22,Geigenen Emulator in C#. ]ber die Jahre 
+OL,23,Gist einiges dazu gekommen und im       
+OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,11902
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:48
+OL,0,         GFORUM64   GFr 20 Nov F22:23:23
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GWenn eine neue Firmware herauskommt,   
-OL,4,Gkann jeder User hier das Changelog     
-OL,5,Gposten.                                
-OL,7,GChangelog zu Firmware 1.1.0            
-OL,9,G** 1.1.0 (build 165) - March 16, 2026  
-OL,10,G**                                     
-OL,12,GAdded ----- - Navigation: Left arrow a 
-OL,13,G(top-left of C64U keyboard) will now   
-OL,14,Gnavigate back a menu, in addition to   
-OL,15,Gprevious controls such as WASD. - USB  
-OL,16,GMouse Support: Should support most     
-OL,17,Gmice. (Some proprietary USB mice may   
-OL,18,Gnot work.) - The LED controller for the
-OL,19,Gkeyboard and case now has Music Detect 
-OL,20,Gmode, which can automatically detect   
-OL,21,Gsounds and start jamming to your       
-OL,22,Gfavorite SIDs and game sound effects,  
-OL,24,D]FForum64.de RSS feed            (2/3) 
-FL,0,0,0,0,0,100
-PN,11903
-SC,0003
-PS,C200
-CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:48
-OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Geven when not in "SID Music" mode. This
-OL,4,Gallows you to keep the LEDs on during  
-OL,5,Ggeneral usage, but have them become    
-OL,6,Gsound-reactive only when applicable.   
-OL,8,GChanged ------- - Improved light colors
-OL,9,Gand patterns for Starlight and Founders
-OL,24,D]FForum64.de RSS feed            (3/3) 
+OL,3,Gletzten Jahr hat sich einiges am look  
+OL,4,Gund den features getan.                
+OL,6,GGibt's da jemand den man daf}r         
+OL,7,Gbegeistern kann?                       
+OL,9,G- Der Emulator ist nicht cycle exakt. -
+OL,10,GDisk Dirve ist eine einfache 1541      
+OL,11,GImplementation KEIN Emulation, darum   
+OL,12,Ggibt's keine code execution und keine  
+OL,13,GFastloader (daf}r aber auto boost beim 
+OL,14,Gladen von Disk).                       
+OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

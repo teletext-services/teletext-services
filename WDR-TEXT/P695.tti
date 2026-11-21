@@ -1,25 +1,40 @@
 DE,WDR-TEXT 695
-PN,69500
-SC,0000
-PS,8208
+PN,69501
+SC,0001
+PS,C200
 CT,10,T
-OL,0,     G695 WDR Text GFr 20.11.26 19:35:17
+OL,0,     G695 WDR Text GSa 21.11.26 05:34:40
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, f}r A30,A31,A33                        
-OL,5, Stand: 20.11.2026 19:28 Uhr            
+OL,5, Stand: 21.11.2026 01:43 Uhr            
 OL,7, Auf der A30 Osnabr}ck Richtung Rheine  
 OL,8, ist die Ausfahrt Ibbenb}ren bis zum 24.
 OL,9, November gesperrt.                     
-OL,11, Auf der A30 Osnabr}ck Richtung Rheine  
-OL,12, ist die Anschlussstelle                
-OL,13, Rheine-Kanalhafen voraussichtlich bis  
-OL,14, Mai 2027 gesperrt.                     
-OL,16, Auf der A33 Osnabr}ck Richtung         
-OL,17, Bielefeld ist die Auffahrt Harderberg  
-OL,18, voraussichtlich bis Ende November      
-OL,19, gesperrt.                              
+OL,11, Die A30 Osnabr}ck Richtung Rheine ist  
+OL,12, zwischen Ibbenb}ren-West und H|rstel   
+OL,13, wegen Fahrbahnerneuerung bis circa 6   
+OL,14, Uhr gesperrt.                          
+OL,16, Auf der A30 Osnabr}ck Richtung Rheine  
+OL,17, ist die Anschlussstelle                
+OL,18, Rheine-Kanalhafen voraussichtlich bis  
+OL,19, Mai 2027 gesperrt.                     
+OL,21, Auf der A33 Osnabr}ck Richtung         
+OL,22, Bielefeld ist die Auffahrt Harderberg  
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 694B]G+ 696  \                     
+OL,24,A]G- 694B]G+ 696  \               G(1/2)
+FL,694,696,0,0,0,100
+PN,69502
+SC,0002
+PS,C200
+CT,10,T
+OL,0,     G695 WDR Text GSa 21.11.26 05:34:40
+OL,1,]D]        G]               @]  CVERKEHR
+OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
+OL,3,]T5                                
+OL,4, voraussichtlich bis Ende November      
+OL,5, gesperrt.                              
+OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]G- 694B]G+ 696  \               G(2/2)
 FL,694,696,0,0,0,100

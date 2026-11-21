@@ -3,15 +3,23 @@ PN,39901
 SC,0001
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 399  Fre 20 novC00:08:33
+OL,0,      GSVT Text 399  L|r 21 novC01:54:07
 OL,1,D]GSPORT I SVT:                         
-OL,15,CFredag SVT2BPlayC08.40-09.50           
-OL,16, C20/11 SVT1BPlayC11.00-13.15           
-OL,17,       GL{ngdskidor, Bruksvallarna,     
-OL,18,       Gsprint                          
-OL,20,CL|rdagBSVT Play 10.00-12.05            
-OL,21, C21/11GL{ngdskidor, Bruksvallarna,     
-OL,22,       G10 km, klassisk                 
+OL,3,CL|rdagBSVT Play 10.00-12.05            
+OL,4, C21/11GL{ngdskidor, Bruksvallarna,     
+OL,5,       G10 km, klassisk                 
+OL,7,       CSVT1BPlayC10.00-13.45           
+OL,8,       GVinterstudion                   
+OL,10,       CSVT1BPlayC11.00-12.00           
+OL,11,       GL{ngdskidor, Bruksvallarna,     
+OL,12,       G10 km klassiskt (h)             
+OL,14,       BSVT Play 12.05-13.20            
+OL,15,       CSVT1BPlayC12.30-13.20           
+OL,16,       GL{ngdskidor, Bruksvallarna,     
+OL,17,       G10 km klassiskt (d)             
+OL,19,CS|ndagBSVT Play 10.00-11.00            
+OL,20, C22/11GL{ngdskidor, Bruksvallarna,     
+OL,21,       G10 km fristil (h)               
 OL,23,D]      GFler dagar f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
 FL,100,300,400,700,0,100
@@ -19,22 +27,22 @@ PN,39902
 SC,0002
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 399  Fre 20 novC00:08:33
+OL,0,      GSVT Text 399  L|r 21 novC01:54:07
 OL,1,D]GSPORT I SVT:                         
-OL,3,CL|rdag SVT1BPlayC10.00-13.45           
-OL,4, C21/11GVinterstudion                   
-OL,6,       CSVT1BPlayC11.00-12.00           
-OL,7,       GL{ngdskidor, Bruksvallarna,     
-OL,8,       G10 km klassisk (h)              
-OL,10,       BSVT Play 12.05-13.20            
-OL,11,       CSVT1BPlayC12.30-13.20           
-OL,12,       GL{ngdskidor, Bruksvallarna,     
-OL,13,       G10 km klassisk (d)              
-OL,15,CS|ndagBSVT Play 10.00-11.55            
-OL,16, C22/11GL{ngdskidor, Bruksvallarna,     
-OL,17,       G10 km fristil (h)               
-OL,19,       CSVT1BPlayC10.30-13.45           
-OL,20,       GVinterstudion                   
+OL,2,CS|ndag SVT1BPlayC10.30-13.45           
+OL,3, C22/11GVinterstudion                   
+OL,5,       CSVT1BPlayC11.00-11.55           
+OL,6,       GL{ngdskidor, Bruksvallarna,     
+OL,7,       G10 km fristil (h)               
+OL,9,       BSVT Play 12.05-12.30            
+OL,10,       GL{ngdskidor, Bruksvallarna,     
+OL,11,       G10 km fristil (d)               
+OL,13,       CSVT1BPlayC12.30-13.20           
+OL,14,       GL{ngdskidor, Bruksvallarna,     
+OL,15,       G10 km fristil (d)               
+OL,17,       BSVT Play 12.50-15.00            
+OL,18,       GFotboll, Womens Super League,   
+OL,19,       GManchester City-Tottenham       
 OL,23,D]      GFler dagar f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (2/2)
 FL,100,300,400,700,0,100

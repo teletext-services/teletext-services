@@ -3,21 +3,21 @@ PN,46901
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G469 YLE TEKSTI-TV 20.03.17:41:48
-OL,1,D]MG       Tulevat tapahtumat      L1/5 
+OL,0,       G469 YLE TEKSTI-TV 21.03.03:42:02
+OL,1,D]MG       Tulevat tapahtumat      L1/4 
 OL,3,  Fpvm      klo rata                    
 OL,4,pe 20.11. 18:07 Pori (07)B       Toto5  
 OL,5,          19:23 Vincennes ( (79)        
 OL,6,          19:23 Vincennes (47)          
-OL,7,          16:45 Saint Galmi (78)        
-OL,8,          18:12 Wolvega (84)            
-OL,9,          19:20 Boden (51)F      Toto64 
-OL,10,          16:45 Odense (61)B     Toto5  
-OL,11,          19:55 Biri (67)F       Toto65 
-OL,12,          20:00 USA (58)                
-OL,13,          12:15 Bordeaux Le (76)        
-OL,14,          13:33 Chantilly ( (77)        
-OL,15,          13:21 Solvalla (55)F   Toto65 
+OL,7,          12:15 Bordeaux Le (76)        
+OL,8,          13:33 Chantilly ( (77)        
+OL,9,          16:45 Saint Galmi (78)        
+OL,10,          18:12 Wolvega (84)            
+OL,11,          19:22 Boden (51)F      Toto64 
+OL,12,          13:21 Solvalla (55)F   Toto65 
+OL,13,          16:45 Odense (61)B     Toto5  
+OL,14,          19:55 Biri (67)F       Toto65 
+OL,15,          20:00 USA (58)                
 OL,16,K                                       
 OL,17,K                                       
 OL,18,K                                       
@@ -32,22 +32,22 @@ PN,46902
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G469 YLE TEKSTI-TV 20.03.17:41:48
-OL,1,D]MGV{listartit Pori (07)    20.11.L2/5 
+OL,0,       G469 YLE TEKSTI-TV 21.03.03:42:02
+OL,1,D]MGV{listartit Vermo (01)   21.11.L2/4 
 OL,3,F2. l{ht|                               
-OL,4,  10 Pikkukavalje Kt17.11.     a hll  75
-OL,5,  14 Kaapo        J 16.11.       hpl  27
-OL,6,F10. l{ht|                              
-OL,7,   6 Fiktio       Kt17.11. 35,3ax  4  25
-OL,8,K                                       
-OL,9,FRata:GRASKAS_KESARATA                  
-OL,10,K                                       
-OL,11,K                                       
-OL,12,K                                       
+OL,4,   7 Proffs        Kt17.11. 16,3a  1  35
+OL,5,F5. l{ht|                               
+OL,6,   8 Love Lee Hook Kt17.11. 16,8a  1  41
+OL,7,F6. l{ht|                               
+OL,8,   5 Tiori         J 16.11. 29,8   4 472
+OL,9,  12 Simputtaja    Ku18.11. 28,5   3  71
+OL,10,F10. l{ht|                              
+OL,11,   6 Oakbush       Ku18.11. 17,0a  5  62
+OL,12,   7 Joe Juneau Ze Ku18.11. 16,2a  1  14
 OL,13,K                                       
-OL,14,K                                       
-OL,15,K                                       
-OL,16,K                                       
+OL,14,FOhjastajanvaihdokset:                  
+OL,15,  L{ht|  1 nro  2 ajaa Kim ]kerlund     
+OL,16,  L{ht|  7 nro  9 ajaa Jani Ruotsalainen
 OL,17,K                                       
 OL,18,K                                       
 OL,19,K                                       
@@ -61,27 +61,27 @@ PN,46903
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G469 YLE TEKSTI-TV 20.03.17:41:48
-OL,1,D]MGL{ht|listat Pori (07)    20.11.L3/5 
-OL,3,F4.l{ht| T5-1       F5.l{ht| T5-2       
-OL,4, L{mminveriset       L{mminveriset      
-OL,5, Ryhm{ajo 2100 m     Ryhm{ajo 2100 m    
-OL,6, G1 Luck's Easy      G1 Rim Bay Weasel  
-OL,7, G2 Poppy Crown      A2 Heavy Secret    
-OL,8, G3 Tiptop Class     G3 Erna's Prince   
-OL,9, G4 Athletic Ace     G4 Hey You         
-OL,10, G5 Bebeto Mania     G5 Mitch Match     
-OL,11, G6 Indie Artist     G6 Macchiato Sisu  
-OL,12, G7 Golda Xenon      G7 Philip Tie      
-OL,13, G8 Windman          G8 Por Glam Rock   
-OL,14, G9 Tailor-Made Rik  G9 Pure Eliza      
-OL,15,G10 Little Caramel                      
-OL,16,G11 Mad About Alley                     
-OL,17,G12 Davy Jones                          
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
+OL,0,       G469 YLE TEKSTI-TV 21.03.03:42:02
+OL,1,D]MGL{ht|listat Vermo (01)   21.11.L3/4 
+OL,3,F8.l{ht| T4-1       F9.l{ht| T4-2       
+OL,4, Kylm{veriset        Kylm{veriset       
+OL,5, Tasoitusajo 2620 m  Ryhm{ajo 1620 m    
+OL,6, G1 Ariannas         G1 Elan            
+OL,7, G2 Tolva            G2 Morison         
+OL,8, G3 Tuliveera        G3 Uljas Suomalaine
+OL,9, G4 Costner    F2640 G4 Gott Klirr*     
+OL,10, G5 Fili             G5 Tuuskanen       
+OL,11, A6 Humu-Liisa       G6 Caijus          
+OL,12, G7 Pyrkimys         G7 Lumettaja       
+OL,13, G8 Tatu             G8 Wertti          
+OL,14, G9 Fiileri          G9 Tangen Ove*     
+OL,15,G10 Meren Maininki                      
+OL,16,G11 Franselmi                           
+OL,17,G12 Oon Leidi                           
+OL,18,G13 Kojolan CosF2660                    
+OL,19,G14 Villivisa                           
+OL,20,G15 Villan Hurmuri                      
+OL,21,G16 Ronald Tumppi                       
 OL,22,K                                       
 OL,23,D]G        460 RAVIEN OTSIKOT           
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
@@ -90,56 +90,27 @@ PN,46904
 SC,0004
 PS,C100
 CT,10,T
-OL,0,       G469 YLE TEKSTI-TV 20.03.17:41:48
-OL,1,D]MGL{ht|listat Pori (07)    20.11.L4/5 
-OL,3,F6.l{ht| T5-3       F7.l{ht| T5-4       
-OL,4, L{mminveriset       Kylm{veriset       
-OL,5, Ryhm{ajo 1609 m     Tasoitusajo 2100 m 
-OL,6, G1 Callela Alfa     G1 Taarin Toivo    
-OL,7, G2 Quick Tooma      G2 I.P. Kisa       
-OL,8, G3 Winter Oak       G3 Kirill          
-OL,9, G4 Katapult Avenger G4 R.R. Johtaja    
-OL,10, G5 I Love You Sisu* G5 Voima-Simo F2120
-OL,11, G6 Marschall Match  G6 Vahvistus       
-OL,12, G7 In Love Mearas   G7 Vikken Eemeli   
-OL,13, G8 Astrum           G8 Sorelle         
-OL,14, G9 No Limit Royalty G9 Steffe     F2140
-OL,15,                    G10 Lill Hans*      
-OL,16,                    G11 Viesmanni       
-OL,17,                    G12 Verdals Torden* 
-OL,18,                    G13 H{ijymies  F2160
-OL,19,                    G14 Smedheim Braut* 
-OL,20,                    G15 Havglimt*       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,D]G        460 RAVIEN OTSIKOT           
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,46905
-SC,0005
-PS,C100
-CT,10,T
-OL,0,       G469 YLE TEKSTI-TV 20.03.17:41:48
-OL,1,D]MGL{ht|listat Pori (07)    20.11.L5/5 
-OL,3,F8.l{ht| T5-5                           
-OL,4, L{mminveriset                          
-OL,5, Ryhm{ajo 2100 m                        
-OL,6, A1 Backgammon Garde                    
-OL,7, G2 Polly Tooma                         
-OL,8, G3 Margarita Frido                     
-OL,9, G4 Bold Silvio                         
-OL,10, G5 Explosive Secret                    
-OL,11, G6 Gallinago Snipes                    
-OL,12, G7 Birchwood Beast                     
-OL,13, A8 Night Snowstorm                     
-OL,14, G9 Victory S                           
-OL,15,G10 Borups Diamant                      
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
+OL,0,       G469 YLE TEKSTI-TV 21.03.03:42:02
+OL,1,D]MGL{ht|listat Vermo (01)   21.11.L4/4 
+OL,3,F10.l{ht| T4-3      F11.l{ht| T4-4      
+OL,4, L{mminveriset       L{mminveriset      
+OL,5, Ryhm{ajo 2120 m     Tasoitusajo 2620 m 
+OL,6, G1 Pepe Barosso     G1 Cheeky Shade    
+OL,7, G2 Will Be Back     G2 Edward Snipes   
+OL,8, G3 Pure Gangster    G3 Endurance Boy   
+OL,9, G4 Star Striker     G4 Knight Journey* 
+OL,10, G5 Promo Savoy      G5 Yuvarajah       
+OL,11, G6 Oakbush          A6 Max di Quattro  
+OL,12, G7 Joe Juneau Zet   G7 Monastery BF2640
+OL,13, G8 Lapland Lights   G8 Goeland d'Haufor
+OL,14, G9 Trixie Cash P.C. G9 Corazon Combo   
+OL,15,A10 Riccitelli      G10 Yolo Savoy      
+OL,16,G11 Sahara TalkaboutG11 Kyle Web        
+OL,17,G12 Macarena Sisu*  G12 Oskar Run*      
+OL,18,                    G13 Quick Diablo    
+OL,19,                    G14 Dundee As       
+OL,20,                    G15 The Lost Battali
+OL,21,                    G16 Need'em         
 OL,22,K                                       
 OL,23,D]G        460 RAVIEN OTSIKOT           
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike

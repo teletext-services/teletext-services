@@ -1,45 +1,11 @@
 DE,RTS2 706
-PN,70601
-SC,0001
-PS,C080
-CT,8,T
-OL,0,       G706  RTS 2     20.11.26 15:35:16
-OL,1,A]GRTS 2     ]@vendredi 20 novembre     
-OL,2,                                    1/2 
-OL,4,G03:00 G19h30 - Sign#                   
-OL,5,E 0305 CS-TCLSC(R)                      
-OL,6,F03:30 FCouleurs locales                
-OL,7,E 0340 CS-TC(R)                         
-OL,8,G03:45 G19h30 - Sign#                   
-OL,9,E 0405 CS-TCLSC(R)                      
-OL,10,F04:20 FCouleurs locales                
-OL,11,E 0440 CS-TC(R)                         
-OL,12,G04:35 G19h30 - Sign#                   
-OL,13,E 0505 CS-TCLSC(R)                      
-OL,14,F04:55 FFormule 1...................C711
-OL,15,       FGP de Las Vegas                 
-OL,16,G05:05 GCouleurs locales                
-OL,17,E 0520 CS-TC(R)                         
-OL,18,F05:25 F19h30 - Sign#                   
-OL,19,E 0535 CS-TCLSC(R)                      
-OL,24,AIndex    BSport     CMeteo    FTV&Radio
-FL,101,180,500,700,0,100
-PN,70602
-SC,0002
-PS,C080
-CT,8,T
-OL,0,       G706  RTS 2     20.11.26 15:35:16
-OL,1,A]GRTS 2     ]@vendredi 20 novembre     
-OL,2,                                    2/2 
-OL,4,G05:55 GCouleurs locales                
-OL,5,E 0540 CS-TC(R)                         
-OL,6,F06:05 FRTS Info                        
-OL,7,E 0700 FL'actualit# en continuCS-T      
-OL,8,G06:10 G19h30 - Sign#                   
-OL,9,E 0545 CS-TCLSC(R)                      
-OL,10,F06:40 FRTS Info                        
-OL,11,E 0555 FL'actualit# en continuCS-T      
-OL,12,G07:00 GTennis                          
-OL,13,E 0602 GBillie Jean King Cup            
+PN,70600
+SC,0000
+PS,8088
+CT,10,T
+OL,0,       G706  RTS 2     21.11.26 01:35:01
+OL,1,A]GRTS 2     ]@samedi 21 novembre       
+OL,4,F07:00 FTennis                          
+OL,5,E 0500 FBillie Jean King CupCS-T        
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

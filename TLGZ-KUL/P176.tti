@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  176Cpi@ 20 lis  18:04:30
+OL,0,      BKULTURA  176Csob 21 lis  04:03:51
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FRZESZOW                         ZV,,,, 
 OL,4, pi@.    B7  C9 Gdu{e  F14SW G972ZV| xt 
-OL,5, sob.    B3  C8 Gdu{e  F14W  G983ZW|t p 
-OL,6, nie.    B2  C4 Gdu{e  F14SW G983ZV0`t  
-OL,7, pon.                                   
+OL,5, sob.    B3  C6 Gumiar F10NW G983ZW|4 0 
+OL,6, nie.    B3  C4 Gumiar F14SW G983  ZVh0 
+OL,7, pon.    B0  C2 Gdu{e   F7NW G984 ZW`p0 
 OL,8, wt.                                    
 OL,9,FPRZEMY\L                        ZV,,,, 
 OL,10, pi@.    B7  C9 Gdu{e  F14W  G971ZV| `p 
-OL,11, sob.    B2  C8 Gdu{e  F14W  G981ZWp|   
-OL,12, nie.    B3  C5 Gumiar F14SW G982ZVp `0 
-OL,13, pon.                                   
+OL,11, sob.    B2  C8 Gumiar F10W  G981ZWp| 0 
+OL,12, nie.    B3  C5 Gumiar F14SW G982       
+OL,13, pon.    B1  C2 Gdu{e   F7W  G982 ZW``  
 OL,14, wt.                                    
 FL,175,177,200,200,0,100
 PN,17602
@@ -25,14 +25,14 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  176Cpi@ 20 lis  18:04:30
+OL,0,      BKULTURA  176Csob 21 lis  04:03:51
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FKROSNO                          ZV,,,, 
 OL,4, pi@.    B7  C9 Gdu{e  F14SW G968ZVp xp 
-OL,5, sob.    B3  C7 Gdu{e  F14W  G979ZW0| ` 
-OL,6, nie.    B1  C3 Gdu{e  F14SW G979ZV0 `p 
-OL,7, pon.                                   
+OL,5, sob.    B3  C8 Gdu{e  F14W  G979ZWx| 0 
+OL,6, nie.    B1  C4 Gumiar F14SW G979       
+OL,7, pon.    B0  C2 Gdu{e  F10NW G979  ZW00 
 OL,8, wt.                                    
 FL,175,177,200,200,0,100
 PN,17603
@@ -40,19 +40,19 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  176Cpi@ 20 lis  18:04:30
+OL,0,      BKULTURA  176Csob 21 lis  04:03:51
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FLESKO                           ZV,,,, 
 OL,4, pi@.    B6  C8 Gca}k. F14SW G956ZV| tx 
-OL,5, sob.    B2  C7 Gca}k. F14W  G965ZWh| p 
-OL,6, nie.    B0  C3 Gumiar F14SW G966ZV0    
-OL,7, pon.                                   
+OL,5, sob.    B2  C7 Gumiar F14W  G965ZW`| p 
+OL,6, nie.    B0  C3 Gumiar F14SW G966       
+OL,7, pon.    B0  C1 Gdu{e   F7NW G965       
 OL,8, wt.                                    
 OL,9,FUSTRZYKI DOLNE                  ZV,,,, 
 OL,10, pi@.    B5  C7 Gca}k. F14SW G935ZV|0tp 
-OL,11, sob.    B0  C5 Gca}k. F14W  G943ZW`| p 
-OL,12, nie.    B0  C2 Gumiar F14SW G944ZV0    
-OL,13, pon.                                   
+OL,11, sob.    B0  C6 Gdu{e  F14W  G943ZW`|   
+OL,12, nie.    B0  C2 Gumiar F10SW G944       
+OL,13, pon.   B-1  C0 Gdu{e   F7NW G944       
 OL,14, wt.                                    
 FL,175,177,200,200,0,100

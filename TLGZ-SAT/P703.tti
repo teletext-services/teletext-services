@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:08
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:40
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    16:44 20.11.2026
@@ -19,7 +19,7 @@ OL,11,CFPC0342     103,990  A-0,01        C28
 OL,12,FFPC0427     99,1100  A-0,08        F16 
 OL,13,CFPC0630     89,8700  A-0,13       C108 
 OL,14,FFPC0631     98,0800  A-0,22       F183 
-OL,15,CFPC0733     79,7700   D0,00         C1 
+OL,15,CFPC0733     79,7700  A-0,03         C1 
 OL,16,FFPC0931     92,9600  A-0,30         F5 
 OL,17,CFPC1140     64,1200  A-1,26         C9 
 OL,18,FKO11136                                
@@ -33,7 +33,7 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:08
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:41
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    16:44 20.11.2026
@@ -49,7 +49,7 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:08
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:41
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    16:59 20.11.2026
@@ -78,7 +78,7 @@ SC,0004
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:09
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:41
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    16:59 20.11.2026
@@ -90,7 +90,7 @@ OL,8,FPS0131
 OL,9,CPS0527                                 
 OL,10,FPS0728      104,990   B0,28        F17 
 OL,11,CPS0729      99,7000   B0,10        C30 
-OL,12,FPS0730      97,3000   D0,00         F3 
+OL,12,FPS0730      97,3000  A-0,26         F3 
 OL,13,CPS0731      94,0000   B0,30        C41 
 OL,14,FPS1031      96,9000   B0,52         F3 
 OL,15,CWS0428                                 
@@ -99,7 +99,7 @@ OL,17,CWS0437      90,3000  A-0,22        C40
 OL,18,FWS0447      73,8000   B1,10        F11 
 OL,19,CWZ0330                                 
 OL,20,FWZ0528      99,6100   B0,01        F14 
-OL,21,CWZ0533      96,3500   D0,00         C0 
+OL,21,CWZ0533      96,3500  A-1,18         C0 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70305
@@ -107,7 +107,7 @@ SC,0005
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:09
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:41
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    16:59 20.11.2026
@@ -125,7 +125,7 @@ SC,0006
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:09
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:41
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    16:59 20.11.2026
@@ -140,7 +140,7 @@ OL,11,CBST0630     101,420   D0,00        C11
 OL,12,FBST0829     102,200  A-0,20        F29 
 OL,13,CBST0831     99,8900   B0,90         C3 
 OL,14,FBST0930                                
-OL,15,CBST1029     101,340   D0,00         C0 
+OL,15,CBST1029     101,340   B0,85         C0 
 OL,16,FBST1131     99,5900   D0,00         F6 
 OL,17,CBST1226     100,250   B0,22         C1 
 OL,18,FCAV0127                                
@@ -154,19 +154,19 @@ SC,0007
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:09
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:41
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    16:59 20.11.2026
 OL,4,D]               GObligacje korporacyjne
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FCAV0627     100,550   D0,00         F0 
-OL,7,CCAV0729     101,940   D0,00         C0 
+OL,6,FCAV0627     100,550  A-0,04         F0 
+OL,7,CCAV0729     101,940   B0,19         C0 
 OL,8,FCAV0730     101,500   D0,00        F24 
-OL,9,CCAV0928     100,510  A-0,96        C34 
+OL,9,CCAV0928     100,500  A-0,97        C44 
 OL,10,FCAV0929                                
 OL,11,CCAV1128     101,000  A-0,59         C8 
-OL,12,FCAV1227     101,060   D0,00         F4 
+OL,12,FCAV1227     101,060   B0,55         F4 
 OL,13,CCAV1229     100,600  A-0,20         C4 
 OL,14,FECH0128                                
 OL,15,CECH0428     101,010  A-0,50         C3 
@@ -183,7 +183,7 @@ SC,0008
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:09
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:41
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    16:59 20.11.2026
@@ -212,7 +212,7 @@ SC,0009
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:09
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:41
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    16:59 20.11.2026
@@ -241,7 +241,7 @@ SC,0010
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:09
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:41
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    16:59 20.11.2026
@@ -257,7 +257,7 @@ SC,0011
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:09
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:41
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -286,7 +286,7 @@ SC,0012
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:09
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -315,7 +315,7 @@ SC,0013
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:10
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -338,7 +338,7 @@ SC,0014
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:10
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -349,7 +349,7 @@ OL,7,CF11BH26
 OL,8,FF11BH27                                
 OL,9,CF11BM25                                
 OL,10,FF11BM26                                
-OL,11,CF11BM27     107,800   D0,00         C2 
+OL,11,CF11BM27     107,800  A-3,19         C2 
 OL,12,FF11BU25                                
 OL,13,CF11BU26                                
 OL,14,FF11BZ25                                
@@ -367,7 +367,7 @@ SC,0015
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:10
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -396,7 +396,7 @@ SC,0016
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:10
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -425,7 +425,7 @@ SC,0017
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:10
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -434,14 +434,14 @@ OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFAPRZ26     28,0900  A-2,47         F8 
 OL,7,CFASBH25                                
 OL,8,FFASBH26                                
-OL,9,CFASBH27     150,500   D0,00        C15 
+OL,9,CFASBH27     150,500  A-7,41        C15 
 OL,10,FFASBM25                                
 OL,11,CFASBM26                                
 OL,12,FFASBM27                                
 OL,13,CFASBU25                                
 OL,14,FFASBU26                                
 OL,15,CFASBZ25                                
-OL,16,FFASBZ26     148,800  A-9,82     F3.034 
+OL,16,FFASBZ26     148,450 A-10,03     F3.049 
 OL,17,CFATTH25                                
 OL,18,FFATTH26                                
 OL,19,CFATTH27     14,3000  A-7,74        C16 
@@ -454,7 +454,7 @@ SC,0018
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:10
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -483,7 +483,7 @@ SC,0019
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:10
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -512,7 +512,7 @@ SC,0020
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:10
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -541,7 +541,7 @@ SC,0021
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:10
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -554,10 +554,10 @@ OL,9,CFDIAM27
 OL,10,FFDIAU25                                
 OL,11,CFDIAU26                                
 OL,12,FFDIAZ25                                
-OL,13,CFDIAZ26     152,000   B0,34        C45 
+OL,13,CFDIAZ26     152,000   B0,66        C45 
 OL,14,FFDNPH25                                
 OL,15,CFDNPH26                                
-OL,16,FFDNPH27     36,5500   D0,00         F4 
+OL,16,FFDNPH27     36,5500  A-8,65         F4 
 OL,17,CFDNPM25                                
 OL,18,FFDNPM26                                
 OL,19,CFDNPM27                                
@@ -570,7 +570,7 @@ SC,0022
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:10
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -599,7 +599,7 @@ SC,0023
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:11
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:43
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -613,7 +613,7 @@ OL,10,FFEBPH27
 OL,11,CFEBPM26                                
 OL,12,FFEBPM27                                
 OL,13,CFEBPU26                                
-OL,14,FFEBPZ26     785,400  A-1,90       F339 
+OL,14,FFEBPZ26     776,200  A-3,05       F347 
 OL,15,CFENAH25                                
 OL,16,FFENAH26                                
 OL,17,CFENAH27                                
@@ -628,7 +628,7 @@ SC,0024
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:11
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:43
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -657,7 +657,7 @@ SC,0025
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:11
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:43
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -668,7 +668,7 @@ OL,7,CFGPWM27
 OL,8,FFGPWU25                                
 OL,9,CFGPWU26                                
 OL,10,FFGPWZ25                                
-OL,11,CFGPWZ26     97,0000  A-6,73       C196 
+OL,11,CFGPWZ26     96,9000  A-6,83       C205 
 OL,12,FFINGH25                                
 OL,13,CFINGH26                                
 OL,14,FFINGH27                                
@@ -686,7 +686,7 @@ SC,0026
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:11
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:43
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -707,7 +707,7 @@ OL,17,CFKGHH26
 OL,18,FFKGHH27     245,000  A-5,44       F823 
 OL,19,CFKGHM25                                
 OL,20,FFKGHM26                                
-OL,21,CFKGHM27     247,040   D0,00        C25 
+OL,21,CFKGHM27     247,040  A-4,25        C25 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70327
@@ -715,7 +715,7 @@ SC,0027
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:11
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:43
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -744,13 +744,13 @@ SC,0028
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:11
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:43
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FFKTYH27     1255,00   D0,00        F13 
+OL,6,FFKTYH27     1255,00  A-5,28        F13 
 OL,7,CFKTYM25                                
 OL,8,FFKTYM26                                
 OL,9,CFKTYM27                                
@@ -773,7 +773,7 @@ SC,0029
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:11
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:43
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -802,7 +802,7 @@ SC,0030
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:11
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:43
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -814,7 +814,7 @@ OL,8,FFMABZ25
 OL,9,CFMABZ26      8,8070  A-7,89         C2 
 OL,10,FFMBKH25                                
 OL,11,CFMBKH26                                
-OL,12,FFMBKH27     1644,86   D0,00        F16 
+OL,12,FFMBKH27     1644,86  A-4,81        F16 
 OL,13,CFMBKM25                                
 OL,14,FFMBKM26                                
 OL,15,CFMBKM27                                
@@ -823,7 +823,7 @@ OL,17,CFMBKU26
 OL,18,FFMBKZ25                                
 OL,19,CFMBKZ26     1595,00  A-5,06     C2.286 
 OL,20,FFMDVH26                                
-OL,21,CFMDVH27     117,600   D0,00        C12 
+OL,21,CFMDVH27     117,600  A-2,62        C12 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70331
@@ -831,7 +831,7 @@ SC,0031
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:11
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:43
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -860,7 +860,7 @@ SC,0032
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:11
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:43
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -889,7 +889,7 @@ SC,0033
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:12
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:44
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -918,7 +918,7 @@ SC,0034
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:12
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:44
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -947,7 +947,7 @@ SC,0035
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:12
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:44
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -976,7 +976,7 @@ SC,0036
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:12
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:44
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -1005,7 +1005,7 @@ SC,0037
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:12
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:44
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -1034,7 +1034,7 @@ SC,0038
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:12
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:44
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -1063,7 +1063,7 @@ SC,0039
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:12
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:44
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -1092,7 +1092,7 @@ SC,0040
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:12
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:44
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:04 20.11.2026
@@ -1113,7 +1113,7 @@ SC,0041
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:12
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:44
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:01 20.11.2026
@@ -1142,7 +1142,7 @@ SC,0042
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:13
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:44
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:01 20.11.2026
@@ -1171,7 +1171,7 @@ SC,0043
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:13
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:45
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:01 20.11.2026
@@ -1200,7 +1200,7 @@ SC,0044
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:13
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:45
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:01 20.11.2026
@@ -1229,7 +1229,7 @@ SC,0045
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:13
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:45
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:01 20.11.2026
@@ -1258,7 +1258,7 @@ SC,0046
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:13
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:45
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:01 20.11.2026
@@ -1287,7 +1287,7 @@ SC,0047
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  703Cpi@ 20 lis  18:39:13
+OL,0,      BPOLONIA  703Csob 21 lis  04:38:45
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
 OL,3,AInformacje z godz.:    17:01 20.11.2026

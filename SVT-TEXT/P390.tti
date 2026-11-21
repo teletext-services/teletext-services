@@ -1,15 +1,20 @@
 DE,SVT-TEXT 390
 PN,39000
 SC,0000
-PS,8100
+PS,8108
 CT,10,T
-OL,0,      GSVT Text 390  Fre 20 novC09:06:10
+OL,0,      GSVT Text 390  L|r 21 novC00:08:37
 OL,1,D]G             M]LSERVICE              
-OL,3,BIshockey SDHL                     18:00
-OL,4,GLink|ping       - Fr|lunda        X - X
-OL,5,C(X-X,X-X,X-X)                          
-OL,7,GSkellefte}      - HV71            X - X
-OL,8,C(X-X,X-X,X-X)                          
+OL,3,BIshockey SDHL                          
+OL,4,FLink|ping        - Fr|lunda         0-3
+OL,5,C(0-0,0-0,0-3)                          
+OL,6,                   CLeidt 41.30         
+OL,7,                   CLiikala 47.49       
+OL,8,                   CLundin 51.05        
+OL,10,FSkellefte}       - HV71             2-0
+OL,11,C(0-0,1-0,1-0)                          
+OL,12,CKuoppala 37.37                         
+OL,13,CForsgren 46.23                         
 OL,23,D]G M}lserviceindex 376 * Resultat 330  
 OL,24,ANyheter   BSport    CV{der    FInneh}ll
 FL,100,300,400,700,0,100

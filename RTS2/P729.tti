@@ -3,9 +3,9 @@ PN,72901
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 2     20.11.26 15:35:42
+OL,0,       G729  RTS 2     21.11.26 01:35:29
 OL,1,D]GRTS 1     ]@vendredi 20 novembre     
-OL,2,                                    1/2 
+OL,2,                                    1/3 
 OL,4,G19:30 G19h30                           
 OL,5,       CS-T                             
 OL,6,F20:00 FM#t#o                           
@@ -16,9 +16,9 @@ OL,10,F21:05 FLa Comtesse de Monte-Cristo
 OL,11,E 2050 FBertuccioCS-T                   
 OL,12,G21:55 GLa Comtesse de Monte-Cristo     
 OL,13,E 2140 GNanoshCS-T                      
-OL,14,F22:55 FEsprits criminels...........C707
+OL,14,F22:55 FEsprits criminels               
 OL,15,E 2240 FTueurs n#sCI/IICS-TA           
-OL,16,G00:00 GEsprits criminels...........C709
+OL,16,G00:00 GEsprits criminels               
 OL,17,E 2325 GUne guerre sans finCI/IICS-     
 OL,18,       GTA                             
 OL,19,F01:15 F19h30                           
@@ -29,26 +29,35 @@ PN,72902
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 2     20.11.26 15:35:42
+OL,0,       G729  RTS 2     21.11.26 01:35:29
 OL,1,D]GRTS 1     ]@vendredi 20 novembre     
-OL,2,                                    2/2 
+OL,2,                                    2/3 
 OL,4,G01:45 GPasse-moi les jumelles          
 OL,5,E 0020 GL'amiti# en cheminCS-TC(R)      
 OL,6,F02:35 FCouleurs locales                
 OL,7,E 0245 CS-TC(R)                         
-OL,8,G02:54 GM#t#o                           
+OL,8,G02:53 GM#t#o                           
 OL,9,E 0300 CS-TC(R)                         
 OL,10,F02:55 F19h30                           
 OL,11,E 0259 CS-TC(R)                         
 OL,12,G03:25 GPasse-moi les jumelles          
 OL,13,E 0335 GL'amiti# en cheminCS-TC(R)      
-OL,14,F04:15 FCouleurs locales                
+OL,14,F04:10 FCouleurs locales                
 OL,15,E 0355 CS-TC(R)                         
-OL,16,G04:32 GM#t#o                           
+OL,16,G04:30 GM#t#o                           
 OL,17,E 0420 CS-TC(R)                         
-OL,18,F04:33 F19h30                           
+OL,18,F04:31 F19h30                           
 OL,19,E 0440 CS-TC(R)                         
-OL,20,G05:05 GPasse-moi les jumelles          
-OL,21,       GL'amiti# en cheminCS-TC(R)      
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,72903
+SC,0003
+PS,C080
+CT,8,T
+OL,0,       G729  RTS 2     21.11.26 01:35:29
+OL,1,D]GRTS 1     ]@vendredi 20 novembre     
+OL,2,                                    3/3 
+OL,4,G05:00 GPasse-moi les jumelles          
+OL,5,E 0505 GL'amiti# en cheminCS-TC(R)      
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

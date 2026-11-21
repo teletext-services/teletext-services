@@ -1,22 +1,94 @@
-DE,RAI-TELEVIDEO-LAZIO 378
-PN,37800
-SC,0000
-PS,8300
-CT,10,T
-OL,0,    BLAZIO     378   CVe 20 Nov 15:04:28
-OL,1,T,,,,,,,,,,,,,,,,,,,,R
-OL,2,  Rz5~k4~!:!~1oz%   ]  A327DVOLLEY    
-OL,3,  R/*%+.!+$/*$+$ %    
-OL,4,T,,,,,BIN LINEAT,,,,,,,,,,,,,,,,        
-OL,5,D]BSerie A  Risultati  MASCHILE         
-OL,6,D]BGirone Unico                         
-OL,7,R<,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l
-OL,8,R5              G5a Giornata          Rj
-OL,9,R-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
-OL,10,BASIAGO VIPERS-HC MILANO            3-5 
-OL,11, SECURFLEX FORL?-H.CAMAIORE         3-2 
-OL,12,BCUS VERONA-VICENZA HC             1-16 
-OL,13, EDERA TRIESTE-FOX LEGNARO          0-6 
-OL,20,CProssimo turno il 21-11-2026           
-OL,22,D]        MG301 Indice Sport            
-FL,375,379,100,100,0,100
+DE,RSILA2 378
+PN,37801
+SC,0001
+PS,C300
+CT,8,T
+OL,0,       G378  RSI LA 2  21.11.26 01:03:29
+OL,1,C]@SPORT            G]@20.11.26 17:19G> 
+OL,3,    CMOTO3        MOTO2      MotoGP 1/4 
+OL,4,CTHAFAlmansa     GGonzalez   FBezzecchi 
+OL,5,CBRAFQuiles      GHolgado    FBezzecchi 
+OL,6,CUSAFPini        GAgius      FBezzecchi 
+OL,7,CESPFQuiles      GAgius      FA.Marquez 
+OL,8,CFRAFQuiles      GGuevara    FMartin    
+OL,9,CCATFQuiles      GGonzalez   FDi Giannan
+OL,10,CITAFB.Uriarte   GGonzalez   FBezzecchi 
+OL,11,CHUNFQuiles      GGonzalez   FM.Marquez 
+OL,12,CCZEFDanish      GOrtola     FM.Marquez 
+OL,13,CNEDFQuiles      GD.Alonso   FOgura     
+OL,14,CGERFB.Uriarte   GOrtola     FM.Marquez 
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,37802
+SC,0002
+PS,C300
+CT,8,T
+OL,0,       G378  RSI LA 2  21.11.26 01:03:29
+OL,1,C]@SPORT            G]@20.11.26 17:19G> 
+OL,3,    CMOTO3        MOTO2      MotoGP 2/4 
+OL,4,C   FAlmansa     GSalac      FR.Fernande
+OL,5,C   FQuiles      GLopez      FM.Marquez 
+OL,6,C   FQuiles      GGonzalez   FM.Marquez 
+OL,7,C   FQuiles      GGuevara    FAcosta    
+OL,8,C   FAlmansa     GGuevara    FM.Marquez 
+OL,9,C   FQuiles      GGuevara    FBezzecchi 
+OL,10,C   FQuiles      GD.Alonso   FM.Marquez 
+OL,11,C   FAlmansa     GHolgado    FBezzecchi 
+OL,12,C22.11F          GPortimao              
+OL,13,C29.11F          GValencia              
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,37803
+SC,0003
+PS,C300
+CT,8,T
+OL,0,       G378  RSI LA 2  21.11.26 01:03:29
+OL,1,C]@SPORT            G]@25.09.26 15:29G> 
+OL,3,CMoto: Calendario 2027/1         J  3/4 
+OL,4,    C                                  J
+OL,5,C07.03FTHA       GBuriram               
+OL,6,C14.03FQAT       GLusail                
+OL,7,C04.04FBRA       GGoiania               
+OL,8,C11.04FARG       GBuenos Aires          
+OL,9,C25.04FUSA       GAustin                
+OL,10,C09.05FESP       GJerez                 
+OL,11,C16.05FFRA       GLe Mans               
+OL,12,C30.05FITA       GMugello               
+OL,13,C13.06FCAT       GBarcellona            
+OL,14,C27.06FNED       GAssen                 
+OL,15,C11.07FGER       GSachsenring           
+OL,16,C18.07FCZE       GBrno                  
+OL,17,C     F          G                      
+OL,18,C     F          G                      
+OL,19,C     F          G                      
+OL,20,C     F          G                      
+OL,21,C     F          G F                    
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,37804
+SC,0004
+PS,C300
+CT,8,T
+OL,0,       G378  RSI LA 2  21.11.26 01:03:29
+OL,1,C]@SPORT            G]@07.10.26 10:16G> 
+OL,3,CMoto: Calendario 2027/2         J  4/4 
+OL,4,    C                                  J
+OL,5,C15.08FGBR       GSilverstone           
+OL,6,C29.08FAUT       GSpielberg             
+OL,7,C12.09FSMR       GMisano                
+OL,8,C19.09FARA       GMotorLand             
+OL,9,C03.10FPOR       GPortimao              
+OL,10,C17.10FJPN       GMotegi                
+OL,11,C24.10FMAS       GSepang                
+OL,12,C31.10FINA       GMandalika             
+OL,13,C14.11FAUS       GAdelaide              
+OL,14,C28.11FVAL       GValencia              
+OL,15,C     F          G                      
+OL,16,C     F          G                      
+OL,17,C     F          G                      
+OL,18,C     F          G                      
+OL,19,C     F          G                      
+OL,20,C     F          G                      
+OL,21,C     F          G F                    
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100

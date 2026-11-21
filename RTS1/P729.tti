@@ -3,7 +3,7 @@ PN,72901
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 1     20.11.26 15:25:48
+OL,0,       G729  RTS 1     21.11.26 01:25:14
 OL,1,A]GRTS 2     ]@vendredi 20 novembre     
 OL,2,                                    1/3 
 OL,4,G15:20 GRTS Info                        
@@ -18,36 +18,38 @@ OL,12,       FSvalbard, l'ultime
 OL,13,       Ffronti`reCS-T                   
 OL,14,G18:00 GForum                           
 OL,15,       GForum du 20.11.2026CS-T         
-OL,16,F19:30 F19h30 - Sign#                   
-OL,17,       CS-TCLS                          
-OL,18,G20:05 GSuisse en sc`ne                 
-OL,19,       GSaypeCS-TC(R)                   
+OL,16,F19:05 FRTS Info                        
+OL,17,E 1921 FL'actualit# en continu          
+OL,18,G19:30 G19h30 - Sign#                   
+OL,19,       CS-TCLS                          
+OL,20,F20:05 FSuisse en sc`ne                 
+OL,21,       FSaypeCS-TC(R)                   
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,72902
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 1     20.11.26 15:25:48
+OL,0,       G729  RTS 1     21.11.26 01:25:14
 OL,1,A]GRTS 2     ]@vendredi 20 novembre     
 OL,2,                                    2/3 
-OL,4,F20:40 FL'agence tous risques           
+OL,4,G20:40 GL'agence tous risques           
 OL,5,E 2035 CI/IICS-T                        
-OL,6,G22:35 GPMU                             
+OL,6,F22:35 FPMU                             
 OL,7,E 2000                                  
-OL,8,F22:44 FZap RTS Sport                   
+OL,8,G22:44 GZap RTS Sport                   
 OL,9,E 2240 CS-T                             
-OL,10,G22:45 GBabylon Berlin                  
-OL,11,E 2235 GEpisode 3CI/IICS-TA            
-OL,12,F23:35 FBabylon Berlin..............C708
-OL,13,E 2330 FEpisode 4CI/IICS-TA            
-OL,14,G00:25 GMy son .....................C710
+OL,10,F22:45 FBabylon Berlin                  
+OL,11,E 2235 FEpisode 3CI/IICS-TA            
+OL,12,G23:35 GBabylon Berlin                  
+OL,13,E 2330 GEpisode 4CI/IICS-TA            
+OL,14,F00:25 FMy son                          
 OL,15,E 0020 CI/IICS-T                        
-OL,16,F01:55 FCouleurs locales                
+OL,16,G01:55 GCouleurs locales                
 OL,17,E 0130 CS-TC(R)                         
-OL,18,G02:10 G19h30 - Sign#                   
+OL,18,F02:10 F19h30 - Sign#                   
 OL,19,E 0150 CS-TCLSC(R)                      
-OL,20,F02:40 FCouleurs locales                
+OL,20,G02:40 GCouleurs locales                
 OL,21,       CS-TC(R)                         
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -55,22 +57,22 @@ PN,72903
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 1     20.11.26 15:25:48
+OL,0,       G729  RTS 1     21.11.26 01:25:14
 OL,1,A]GRTS 2     ]@vendredi 20 novembre     
 OL,2,                                    3/3 
-OL,4,G03:00 G19h30 - Sign#                   
+OL,4,F03:00 F19h30 - Sign#                   
 OL,5,E 0305 CS-TCLSC(R)                      
-OL,6,F03:30 FCouleurs locales                
+OL,6,G03:30 GCouleurs locales                
 OL,7,E 0340 CS-TC(R)                         
-OL,8,G03:45 G19h30 - Sign#                   
+OL,8,F03:45 F19h30 - Sign#                   
 OL,9,E 0405 CS-TCLSC(R)                      
-OL,10,F04:20 FCouleurs locales                
+OL,10,G04:20 GCouleurs locales                
 OL,11,E 0440 CS-TC(R)                         
-OL,12,G04:35 G19h30 - Sign#                   
+OL,12,F04:35 F19h30 - Sign#                   
 OL,13,E 0505 CS-TCLSC(R)                      
-OL,14,F05:05 FCouleurs locales                
+OL,14,G05:05 GCouleurs locales                
 OL,15,E 0520 CS-TC(R)                         
-OL,16,G05:25 G19h30 - Sign#                   
+OL,16,F05:25 F19h30 - Sign#                   
 OL,17,E 0535 CS-TCLSC(R)                      
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

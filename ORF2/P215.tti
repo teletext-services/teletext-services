@@ -3,22 +3,24 @@ PN,21501
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G215FORF2   GFr 20.11.26 14:25:53
+OL,0,       G215FORF2   GSa 21.11.26 00:24:05
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A     Deutschland, 10.Runde \
 OL,3,Q#########G                        1/2  
-OL,4,CFreitag, 20.30h                        
-OL,5,FBayern        - K|ln         F-:- (-:-)
-OL,7,CSamstag                                
-OL,8,GLeverkusen    - Paderborn    G15.30h   
-OL,9,GFrankfurt     - Hoffenheim   G15.30h   
-OL,10,GUnion Berlin  - Leipzig      G15.30h   
-OL,11,GM'gladbach    - Dortmund     G15.30h   
-OL,12,GElversberg    - Freiburg     G15.30h   
-OL,13,GSchalke       - Stuttgart    G18.30h   
-OL,15,CSonntag                                
-OL,16,GAugsburg      - Mainz        G15.30h   
-OL,17,GBremen        - Hamburg      G17.30h   
+OL,4,CFreitag                                
+OL,5,FBayern        - K|ln         F1:1 (1:1)
+OL,6, Brown 37.; Moore 12.;                  
+OL,7, Laimer (B) bis 70.                     
+OL,9,CSamstag                                
+OL,10,GM'gladbach    - Dortmund     G15.30h   
+OL,11,GElversberg    - Freiburg     G15.30h   
+OL,12,GUnion Berlin  - Leipzig      G15.30h   
+OL,13,GLeverkusen    - Paderborn    G15.30h   
+OL,14,GFrankfurt     - Hoffenheim   G15.30h   
+OL,15,GSchalke       - Stuttgart    G18.30h   
+OL,17,CSonntag                                
+OL,18,GAugsburg      - Mainz        G15.30h   
+OL,19,GBremen        - Hamburg      G17.30h   
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -26,11 +28,11 @@ PN,21502
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G215FORF2   GFr 20.11.26 14:25:54
+OL,0,       G215FORF2   GSa 21.11.26 00:24:05
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A     ADeutschland, Tabelle \
 OL,3,Q#########G                        2/2  
-OL,4,G 1 Bayern M}nchen   9  6  3  0 29:9  21
+OL,4,G 1 Bayern M}nchen  10  6  4  0 30:10 22
 OL,5,G 2 Bor.Dortmund     9  6  3  0 16:7  21
 OL,6,G 3 SC Freiburg      9  6  1  2 20:10 19
 OL,7,G 4 RB Leipzig       9  6  0  3 27:13 18
@@ -43,8 +45,8 @@ OL,13,G10 Eintr.Frankfurt  9  3  3  3 15:20 12
 OL,14,G11 Hamburger SV     9  4  0  5 10:20 12
 OL,15,G12 FSV Mainz 05     9  3  1  5 18:19 10
 OL,16,G13 SC Paderborn 07  9  2  4  3  8:11 10
-OL,17,G14 FC Augsburg      9  2  3  4 20:20  9
-OL,18,G15 1.FC K|ln        9  2  3  4 10:14  9
+OL,17,G14 1.FC K|ln       10  2  4  4 11:15 10
+OL,18,G15 FC Augsburg      9  2  3  4 20:20  9
 OL,19,F16 Union Berlin     9  1  4  4  7:21  7
 OL,20,G17 FC Schalke 04    9  1  3  5  5:11  6
 OL,21,G18 Bor.M'gladbach   9  1  1  7 12:25  4

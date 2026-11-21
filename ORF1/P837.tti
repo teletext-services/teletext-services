@@ -3,141 +3,139 @@ PN,83701
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G837FORF1   GFr 20.11.26 14:20:28
+OL,0,       G837FORF1   GSa 21.11.26 00:20:12
 OL,1,A]G                   Wien Hauptbahnhof 
 OL,2,A]G\BB  ]A                     Abfahrt \
 OL,3,Q#######G                          1/5  
 OL,4,C  Zug   Plan Akt. nach                 
-OL,5,IC   537B1353A1418GKlagenfurt Hbf       
-OL,6,D   1133B1405A1425GVillach Hbf          
-OL,7,IC   643B1413A1423GFlughafen Wien Bahnho
-OL,8,RJ   858B1424B1424GVillach Hbf          
-OL,9,RJX13474B1428B1428G\tztal Bahnhof       
-OL,10,RJX   64B1428B1428GM}nchen Hbf Gl.5-10  
-OL,11,EC   147B1440B1440GBudapest-Keleti      
-OL,12,RJ   551B1442B1442GFlughafen Wien Bahnho
-OL,13,RJX  831B1453B1453GVillach Hbf          
-OL,14,IC   648B1457B1457GSalzburg Hbf         
-OL,15,RJX   56B1540B1540GPraha hl.n.          
-OL,16,IC   645B1513B1513GFlughafen Wien Bahnho
-OL,17,ICE 1212B1513B1513GM}nchen Hbf          
-OL,18,RJ   658B1524B1524GSalzburg Hbf         
-OL,19,RJX  168B1528B1528G\tztal Bahnhof       
-OL,20,RJX  187B1528B1528GBolzano/Bozen        
-OL,21,EC   144B1530B1530GWien Westbahnhof     
-OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 14:18h 
+OL,5,RJ   820B 028B 028GWels Hbf             
+OL,6,IC   848B 457F ** GSalzburg Hbf         
+OL,7,RJ   258B 510F ** GPraha hl.n.          
+OL,8,IC   558B 524F ** GGraz Hbf             
+OL,9,RJX  368B 528F ** G\tztal Bahnhof       
+OL,10,EN 40407B 539F ** GM}nchen Hbf          
+OL,11,EN 40417B 539F ** GM}nchen Hbf          
+OL,12,IC   407B 539B 539GM}nchen Hbf          
+OL,13,IC   417B 539F ** GM}nchen Hbf          
+OL,14,RJ   821B 542F ** GFlughafen Wien Bahnho
+OL,15,RJX  137B 553F ** GTrieste Centrale     
+OL,16,IC   540B 557F ** GSalzburg Hbf         
+OL,17,EC   106B 610F ** GWarszawa Wschodnia   
+OL,18,IC   847B 613F ** GFlughafen Wien Bahnho
+OL,19,IC   756B 624F ** GVillach Hbf          
+OL,21,F** Derzeit keine Versp{tungen gemeldet 
+OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 00:18h 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83702
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G837FORF1   GFr 20.11.26 14:20:28
+OL,0,       G837FORF1   GSa 21.11.26 00:20:12
 OL,1,A]G                       Wien Meidling 
 OL,2,A]G\BB  ]A                     Abfahrt \
 OL,3,Q#######G                          2/5  
 OL,4,C  Zug   Plan Akt. nach                 
-OL,5,IC   537B1400A1420GKlagenfurt Hbf       
-OL,6,D   1133B1412A1432GVillach Hbf          
-OL,7,EC   147B1423B1423GBudapest-Keleti      
-OL,8,RJX  161B1427A1437GWien Hbf (Bahnsteige 
-OL,9,RJX  186B1427A1437GWien Hbf (Bahnsteige 
-OL,10,BusSV910B1430F ** GWien H}tteldorf Bahnh
-OL,11,RJ   551B1431B1431GFlughafen Wien Bahnho
-OL,12,RJ   858B1431B1431GVillach Hbf          
-OL,13,RJX13474B1435B1435G\tztal Bahnhof       
-OL,14,RJX   64B1435B1435GM}nchen Hbf Gl.5-10  
-OL,15,BusSV910B1445F ** GWien H}tteldorf Bahnh
-OL,16,IC   645B1458B1458GFlughafen Wien Bahnho
-OL,17,RJX  831B1500B1500GVillach Hbf          
-OL,18,BusSV910B1500F ** GWien H}tteldorf Bahnh
-OL,19,RJX   56B1532B1532GPraha hl.n.          
+OL,5,RJX  367B 030A 040GWien Hbf (Bahnsteige 
+OL,6,IC  1151B 031B 031GWien Hbf (Bahnsteige 
+OL,7,RJ   820B 035B 035GWels Hbf             
+OL,8,BusSV910B 046F ** GWien H}tteldorf Bahnh
+OL,9,BusSV910B 106F ** GWien H}tteldorf Bahnh
+OL,10,BusSV910B 136F ** GWien H}tteldorf Bahnh
+OL,11,BusSV910B 206F ** GWien H}tteldorf Bahnh
+OL,12,BusSV910B 236F ** GWien H}tteldorf Bahnh
+OL,13,BusSV910B 306F ** GWien H}tteldorf Bahnh
+OL,14,RJ   263B 315B 315GWien Hbf (Bahnsteige 
+OL,15,BusSV910B 336F ** GWien H}tteldorf Bahnh
+OL,16,BusSV910B 406F ** GWien H}tteldorf Bahnh
+OL,17,BusSV910B 436F ** GWien H}tteldorf Bahnh
+OL,18,IC   848B 504F ** GSalzburg Hbf         
+OL,19,BusSV910B 515F ** GWien H}tteldorf Bahnh
 OL,21,F** Derzeit keine Versp{tungen gemeldet 
-OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 14:18h 
+OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 00:18h 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83703
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G837FORF1   GFr 20.11.26 14:20:28
+OL,0,       G837FORF1   GSa 21.11.26 00:20:12
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]G\BB  ]A                     Abfahrt \
 OL,3,Q#######G                          3/5  
 OL,4,C  Zug   Plan Akt. nach                 
-OL,5,IC   648B1434B1434GSalzburg Hbf         
-OL,6,RJX  168B1502B1502G\tztal Bahnhof       
-OL,7,IC   740B1534B1534GSalzburg Hbf         
-OL,8,RJ   856B1602B1602GLienz in Osttirol Bah
-OL,9,IC   742B1634B1634GSalzburg Hbf         
-OL,10,RJX19970B1702B1702G\tztal Bahnhof       
-OL,11,IC   744B1734F ** GSalzburg Hbf         
-OL,12,RJ   854B1802F ** GVillach Hbf          
-OL,13,IC   746B1834F ** GWels Hbf             
-OL,14,RJX19972B1902F ** GInnsbruck Hbf        
-OL,15,IC   748B1934F ** GSalzburg Hbf         
-OL,16,RJ   852B2002F ** GVillach Hbf          
-OL,17,IC   840B2034F ** GV|cklabruck Bahnhof  
-OL,18,RJX  764B2102F ** GSalzburg Hbf         
-OL,19,IC   842B2134F ** GWien Hbf (Bahnsteige 
+OL,5,IC   542B 634F ** GWels Hbf             
+OL,6,RJX19950B 702F ** G\tztal Bahnhof       
+OL,7,IC   544B 734F ** GSalzburg Hbf         
+OL,8,RJ   754B 802F ** GVillach Hbf          
+OL,9,IC   546B 834F ** GSalzburg Hbf         
+OL,10,RJX19952B 902F ** G\tztal Bahnhof       
+OL,11,IC   548B 934F ** GWels Hbf             
+OL,12,RJ   752B1002F ** GVillach Hbf          
+OL,13,IC   640B1034F ** GSalzburg Hbf         
+OL,14,RJX19976B1102F ** GInnsbruck Hbf        
+OL,15,IC   642B1134F ** GSalzburg Hbf         
+OL,16,RJ   750B1202F ** GVillach Hbf          
+OL,17,IC   644B1234F ** GSalzburg Hbf         
+OL,18,RJX19956B1302F ** GInnsbruck Hbf        
+OL,19,IC   646B1334F ** GSalzburg Hbf         
 OL,21,F** Derzeit keine Versp{tungen gemeldet 
-OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 14:18h 
+OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 00:18h 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83704
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G837FORF1   GFr 20.11.26 14:20:28
+OL,0,       G837FORF1   GSa 21.11.26 00:20:12
 OL,1,A]G                            Graz HBF 
 OL,2,A]G\BB  ]A                     Abfahrt \
 OL,3,Q#######G                          4/5  
 OL,4,C  Zug   Plan Akt. nach                 
-OL,5,D   1100B1350A1425GLinz/Donau Hbf       
-OL,6,IR   575B1428B1428GLjubljana            
-OL,7,IC   355B1438B1438GBudapest-Kelenf|ld   
-OL,8,RJX  555B1441B1441GWien Hbf (Bahnsteige 
-OL,9,IR   700B1445B1445GLinz/Donau Hbf       
-OL,10,RJ   753B1500B1500GWien Hbf (Bahnsteige 
-OL,11,RJ   750B1503B1503GVillach Hbf          
-OL,12,RJX  135B1522B1522GVenezia Santa Lucia  
-OL,13,IR   775B1528B1528GMaribor              
-OL,14,IC   534B1541B1541GWien Hbf (Bahnsteige 
-OL,15,IR   510B1545B1545GInnsbruck Hbf        
-OL,16,IR   580B1545B1545GKlagenfurt Hbf       
-OL,17,RJ   134B1600B1600GWien Hbf (Bahnsteige 
-OL,18,RJ   110B1603B1603GM}nchen Hbf          
-OL,19,IC   537B1622A1632GKlagenfurt Hbf       
-OL,20,IR   577B1628B1628GLjubljana            
-OL,21,RJX   52B1641B1641GPraha hl.n.          
-OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 14:18h 
+OL,5,RJ   853B 500F ** GWien Hbf (Bahnsteige 
+OL,6,IC   890B 503F ** GSalzburg Hbf         
+OL,7,EC   206B 536F ** GKrakow Glowny        
+OL,8,IR   610B 544F ** GInnsbruck Hbf        
+OL,9,IR   680B 544F ** GKlagenfurt Hbf       
+OL,10,RJ   655B 600F ** GFlughafen Wien Bahnho
+OL,11,ICE  210B 603F ** GDarmstadt Hbf        
+OL,12,NJ 40294B 609B 609GWien Hbf (Bahnsteige 
+OL,13,IR   677B 628F ** GMaribor              
+OL,14,RJX  254B 641F ** GPraha hl.n.          
+OL,15,IR   708B 645F ** GLinz/Donau Hbf       
+OL,16,RJ   855B 700F ** GWien Hbf (Bahnsteige 
+OL,17,RJ   758B 703F ** GVillach Hbf          
+OL,18,IR   877B 728F ** GMaribor              
+OL,19,ICE  118B 733F ** GM}nster(Westf)Hbf    
+OL,21,F** Derzeit keine Versp{tungen gemeldet 
+OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 00:18h 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83705
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       G837FORF1   GFr 20.11.26 14:20:29
+OL,0,       G837FORF1   GSa 21.11.26 00:20:12
 OL,1,A]G                      Klagenfurt HBF 
 OL,2,A]G\BB  ]A                     Abfahrt \
 OL,3,Q#######G                          5/5  
 OL,4,C  Zug   Plan Akt. nach                 
-OL,5,RJ   112B1459B1459GM}nchen Hbf          
-OL,6,RJ   134B1502B1502GWien Hbf (Bahnsteige 
-OL,7,IR   587B1511B1511GGraz Hbf             
-OL,8,RJX   52B1556B1556GPraha hl.n.          
-OL,9,RJ   750B1559B1559GVillach Hbf          
-OL,10,RJ   755B1602B1602GWien Hbf (Bahnsteige 
-OL,11,RJX  135B1605B1605GVenezia Santa Lucia  
-OL,12,IR   787B1611B1611GKindberg Bahnhof     
-OL,13,RJ   110B1659B1659GM}nchen Hbf          
-OL,14,RJ   557B1702B1702GWien Hbf (Bahnsteige 
-OL,15,IR   589B1711B1711GGraz Hbf             
-OL,16,ICE  117B1712B1712GGraz Hbf             
-OL,17,RJX  132B1756B1756GWien Hbf (Bahnsteige 
-OL,18,RJ   858B1759B1759GVillach Hbf          
-OL,19,RJ   757B1802F ** GFlughafen Wien Bahnho
+OL,5,RJ   652B 059A 109GVillach Hbf          
+OL,6,EC   212B 453F ** GM}nchen Hbf          
+OL,7,RJ   655B 458F ** GFlughafen Wien Bahnho
+OL,8,IR   687B 502F ** GGraz Hbf             
+OL,9,NJ 40294B 516B 516GWien Hbf (Bahnsteige 
+OL,10,RJX  254B 556F ** GPraha hl.n.          
+OL,11,IC   890B 559F ** GSalzburg Hbf         
+OL,12,RJ   855B 602F ** GWien Hbf (Bahnsteige 
+OL,13,IR   887B 611F ** GBruck/Mur Bahnhof    
+OL,14,RJX  630B 656F ** GWien Hbf (Bahnsteige 
+OL,15,ICE  210B 659F ** GDarmstadt Hbf        
+OL,16,RJ   657B 702F ** GFlughafen Wien Bahnho
+OL,17,NJ   465B 707B 707GGraz Hbf             
+OL,18,IR   689B 711F ** GGraz Hbf             
+OL,19,BusSV620B 751F ** GBleiburg Bahnhof (Vor
 OL,21,F** Derzeit keine Versp{tungen gemeldet 
-OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 14:18h 
+OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 00:18h 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

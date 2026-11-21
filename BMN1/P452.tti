@@ -3,7 +3,7 @@ PN,45201
 SC,0001
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -31,7 +31,7 @@ PN,45202
 SC,0002
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -59,7 +59,7 @@ PN,45203
 SC,0003
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -84,7 +84,7 @@ PN,45204
 SC,0004
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -110,7 +110,7 @@ PN,45205
 SC,0005
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -137,7 +137,7 @@ PN,45206
 SC,0006
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -162,7 +162,7 @@ PN,45207
 SC,0007
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -180,16 +180,17 @@ OL,14,G00:00 uur tot 31 juli 2028 00:00 uur.
 OL,15,CA20: knp. Kleinpolderplein             
 OL,16,GWegwerkzaamheden. Van 1 januari 2026   
 OL,17,G00:00 uur tot 31 juli 2028 00:00 uur.  
-OL,18,CA32: Wirdum                            
-OL,19,GDicht. Van 20 november 2026 20:00 uur  
-OL,20,Gtot 21 november 2026 05:00 uur.        
+OL,18,CA28: Harderwijk                        
+OL,19,GDe afrit is dicht. Van 20 november     
+OL,20,G2026 20:00 uur tot 21 november 2026    
+OL,21,G05:00 uur.                             
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,0,100
 PN,45208
 SC,0008
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -197,24 +198,27 @@ OL,4,VSo?//o? \W
 OL,5,VS"!  "!                               
 OL,6,V///////%                               
 OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CA35: Almelo-Zuid                       
-OL,9,GWegwerkzaamheden. Van 19 november 2026 
-OL,10,G16:03 uur tot 31 december 2026 23:59   
-OL,11,Guur.                                   
-OL,12,CA44: Kaag                              
-OL,13,GDe oprit is dicht. Van 7 september     
-OL,14,G2026 07:00 uur tot 27 november 2026    
-OL,15,G22:00 uur.                             
-OL,16,CA44: afrit Noordwijkerhout             
-OL,17,GDicht. Van 26 november 2026 21:00 uur  
-OL,18,Gtot 27 november 2026 05:00 uur.        
+OL,8,CA32: Wirdum                            
+OL,9,GDicht. Van 20 november 2026 20:00 uur  
+OL,10,Gtot 21 november 2026 05:00 uur.        
+OL,11,CA35: Almelo-Zuid                       
+OL,12,GWegwerkzaamheden. Van 19 november 2026 
+OL,13,G16:03 uur tot 31 december 2026 23:59   
+OL,14,Guur.                                   
+OL,15,CA44: Kaag                              
+OL,16,GDe oprit is dicht. Van 7 september     
+OL,17,G2026 07:00 uur tot 27 november 2026    
+OL,18,G22:00 uur.                             
+OL,19,CA44: afrit Noordwijkerhout             
+OL,20,GDicht. Van 26 november 2026 21:00 uur  
+OL,21,Gtot 27 november 2026 05:00 uur.        
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,0,100
 PN,45209
 SC,0009
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -222,16 +226,16 @@ OL,4,VSo?//o? \W
 OL,5,VS"!  "!                               
 OL,6,V///////%                               
 OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CA59: Waalwijk-Oost                     
-OL,9,GDicht. Van 25 november 2026 tot 27     
-OL,10,Gnovember 2026 dagelijks tussen 21:00   
-OL,11,Guur en 05:00 uur.                      
-OL,12,CA59: knp. Hintham                      
-OL,13,GDicht. Van 30 november 2026 tot 2      
-OL,14,Gdecember 2026 dagelijks tussen 21:00   
+OL,8,CA50: Industriegebied Ekkersrijt        
+OL,9,GAfrit dicht. Van 20 november 2026      
+OL,10,G21:00 uur tot 21 november 2026 01:30   
+OL,11,Guur.                                   
+OL,12,CA59: Waalwijk-Oost                     
+OL,13,GDicht. Van 25 november 2026 tot 27     
+OL,14,Gnovember 2026 dagelijks tussen 21:00   
 OL,15,Guur en 05:00 uur.                      
-OL,16,CA59: knp. Paalgraven                   
-OL,17,GDicht. Van 2 december 2026 tot 4       
+OL,16,CA59: knp. Hintham                      
+OL,17,GDicht. Van 30 november 2026 tot 2      
 OL,18,Gdecember 2026 dagelijks tussen 21:00   
 OL,19,Guur en 05:00 uur.                      
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -240,7 +244,7 @@ PN,45210
 SC,0010
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -248,24 +252,25 @@ OL,4,VSo?//o? \W
 OL,5,VS"!  "!                               
 OL,6,V///////%                               
 OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CA59: afrit Heusden                     
-OL,9,GWegwerkzaamheden. Van 1 november 2026  
-OL,10,G12:00 uur tot 18 december 2026 17:00   
-OL,11,Guur.                                   
-OL,12,CA59: knp. Empel                        
-OL,13,GDicht. Van 23 november 2026 tot 25     
-OL,14,Gnovember 2026 dagelijks tussen 21:00   
-OL,15,Guur en 05:00 uur.                      
-OL,16,CA65: knp. De Baars                     
-OL,17,GDicht. Van 27 november 2026 21:00 uur  
-OL,18,Gtot 30 november 2026 05:00 uur.        
+OL,8,CA59: knp. Paalgraven                   
+OL,9,GDicht. Van 2 december 2026 tot 4       
+OL,10,Gdecember 2026 dagelijks tussen 21:00   
+OL,11,Guur en 05:00 uur.                      
+OL,12,CA59: afrit Heusden                     
+OL,13,GWegwerkzaamheden. Van 1 november 2026  
+OL,14,G12:00 uur tot 18 december 2026 17:00   
+OL,15,Guur.                                   
+OL,16,CA59: knp. Empel                        
+OL,17,GDicht. Van 23 november 2026 tot 25     
+OL,18,Gnovember 2026 dagelijks tussen 21:00   
+OL,19,Guur en 05:00 uur.                      
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,0,100
 PN,45211
 SC,0011
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -273,25 +278,24 @@ OL,4,VSo?//o? \W
 OL,5,VS"!  "!                               
 OL,6,V///////%                               
 OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CA67: de Belgische grens                
-OL,9,GWegwerkzaamheden. Van 19 november 2026 
-OL,10,G08:00 uur tot 1 december 2026 08:00    
-OL,11,Guur.                                   
-OL,12,CA73: Haps                              
-OL,13,GWegwerkzaamheden. Van 27 juli 2026     
-OL,14,G16:00 uur tot 7 december 2026 00:00    
-OL,15,Guur.                                   
-OL,16,CA79: Meerssen                          
-OL,17,GAfrit dicht. Van 16 november 2026      
-OL,18,G06:45 uur tot 18 december 2026 16:00   
-OL,19,Guur.                                   
+OL,8,CA65: knp. De Baars                     
+OL,9,GDicht. Van 27 november 2026 21:00 uur  
+OL,10,Gtot 30 november 2026 05:00 uur.        
+OL,11,CA67: de Belgische grens                
+OL,12,GWegwerkzaamheden. Van 19 november 2026 
+OL,13,G08:00 uur tot 1 december 2026 08:00    
+OL,14,Guur.                                   
+OL,15,CA73: Haps                              
+OL,16,GWegwerkzaamheden. Van 27 juli 2026     
+OL,17,G16:00 uur tot 7 december 2026 00:00    
+OL,18,Guur.                                   
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,0,100
 PN,45212
 SC,0012
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -299,15 +303,15 @@ OL,4,VSo?//o? \W
 OL,5,VS"!  "!                               
 OL,6,V///////%                               
 OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CN2: Veldhoven-Zuid                     
-OL,9,GDe oprit is dicht. Van 20 november     
-OL,10,G2026 21:00 uur tot 23 november 2026    
-OL,11,G06:00 uur.                             
-OL,12,CN2: afrit High Tech Campus             
+OL,8,CA79: Meerssen                          
+OL,9,GAfrit dicht. Van 16 november 2026      
+OL,10,G06:45 uur tot 18 december 2026 16:00   
+OL,11,Guur.                                   
+OL,12,CN2: Veldhoven-Zuid                     
 OL,13,GDe oprit is dicht. Van 20 november     
 OL,14,G2026 21:00 uur tot 23 november 2026    
 OL,15,G06:00 uur.                             
-OL,16,CN2: afrit Waalre                       
+OL,16,CN2: afrit High Tech Campus             
 OL,17,GDe oprit is dicht. Van 20 november     
 OL,18,G2026 21:00 uur tot 23 november 2026    
 OL,19,G06:00 uur.                             
@@ -317,7 +321,7 @@ PN,45213
 SC,0013
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -325,26 +329,26 @@ OL,4,VSo?//o? \W
 OL,5,VS"!  "!                               
 OL,6,V///////%                               
 OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CN2: knp. De Hogt                       
-OL,9,GDicht. Van 20 november 2026 21:00 uur  
-OL,10,Gtot 23 november 2026 05:00 uur.        
-OL,11,CN3: de Brug over de Beneden-Merwede    
-OL,12,GDicht. Van 17 juli 2026 23:00 uur tot  
-OL,13,G21 april 2027 00:00 uur.               
-OL,14,CN3: de Brug over de Beneden-Merwede    
-OL,15,GDicht. Van 17 juli 2026 23:00 uur tot  
-OL,16,G21 april 2027 00:00 uur.               
-OL,17,CN9: Sint Maartenszee                   
-OL,18,GWegwerkzaamheden. Van 20 november 2026 
-OL,19,G09:00 uur tot 20 november 2026 14:00   
-OL,20,Guur.                                   
+OL,8,CN2: afrit Waalre                       
+OL,9,GDe oprit is dicht. Van 20 november     
+OL,10,G2026 21:00 uur tot 23 november 2026    
+OL,11,G06:00 uur.                             
+OL,12,CN2: knp. De Hogt                       
+OL,13,GDicht. Van 20 november 2026 21:00 uur  
+OL,14,Gtot 23 november 2026 05:00 uur.        
+OL,15,CN3: de Brug over de Beneden-Merwede    
+OL,16,GDicht. Van 17 juli 2026 23:00 uur tot  
+OL,17,G21 april 2027 00:00 uur.               
+OL,18,CN3: de Brug over de Beneden-Merwede    
+OL,19,GDicht. Van 17 juli 2026 23:00 uur tot  
+OL,20,G21 april 2027 00:00 uur.               
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,0,100
 PN,45214
 SC,0014
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -355,21 +359,24 @@ OL,7,CWEGWERKZAAMHEDEN
 OL,8,CN9: Den Helder                         
 OL,9,GDicht. Van 20 november 2026 21:00 uur  
 OL,10,Gtot 21 november 2026 05:00 uur.        
-OL,11,CN31: Harlingen                         
-OL,12,GDe afrit is dicht. Van 19 november     
-OL,13,G2026 14:51 uur tot 20 november 2026    
-OL,14,G14:51 uur.                             
-OL,15,CN31: knp. Werpsterhoek                 
-OL,16,GDicht. Van 19 november 2026 tot 21     
-OL,17,Gnovember 2026 dagelijks tussen 20:00   
-OL,18,Guur en 05:00 uur.                      
+OL,11,CN31: knp. Werpsterhoek                 
+OL,12,GDicht. Van 19 november 2026 tot 21     
+OL,13,Gnovember 2026 dagelijks tussen 20:00   
+OL,14,Guur en 05:00 uur.                      
+OL,15,CN33: Gieten                            
+OL,16,GDe afrit is dicht. Van 19 november     
+OL,17,G2026 tot 21 november 2026 dagelijks    
+OL,18,Gtussen 22:00 uur en 06:00 uur.         
+OL,19,CN33: de aansluiting met de A7          
+OL,20,GDicht. Van 20 november 2026 20:00 uur  
+OL,21,Gtot 21 november 2026 06:00 uur.        
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,0,100
 PN,45215
 SC,0015
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -377,27 +384,27 @@ OL,4,VSo?//o? \W
 OL,5,VS"!  "!                               
 OL,6,V///////%                               
 OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CN33: Gieten                            
-OL,9,GDe afrit is dicht. Van 19 november     
-OL,10,G2026 tot 21 november 2026 dagelijks    
-OL,11,Gtussen 22:00 uur en 06:00 uur.         
-OL,12,CN33: de aansluiting met de A7          
-OL,13,GDicht. Van 20 november 2026 20:00 uur  
-OL,14,Gtot 21 november 2026 06:00 uur.        
-OL,15,CN33: Delfzijl                          
-OL,16,GDicht. Van 20 november 2026 20:00 uur  
-OL,17,Gtot 21 november 2026 06:00 uur.        
-OL,18,CN35: Zwolle                            
-OL,19,GDicht. Van 23 november 2026 tot 19     
-OL,20,Gdecember 2026 dagelijks tussen 20:00   
-OL,21,Guur en 05:00 uur.                      
+OL,8,CN33: Delfzijl                          
+OL,9,GDicht. Van 20 november 2026 20:00 uur  
+OL,10,Gtot 21 november 2026 06:00 uur.        
+OL,11,CN35: Zwolle                            
+OL,12,GDicht. Van 23 november 2026 tot 19     
+OL,13,Gdecember 2026 dagelijks tussen 20:00   
+OL,14,Guur en 05:00 uur.                      
+OL,15,CN44: Wassenaar-Centrum                 
+OL,16,GWegwerkzaamheden. Van 20 november 2026 
+OL,17,G23:59 uur tot 21 november 2026 03:00   
+OL,18,Guur.                                   
+OL,19,CN48: Dedemsvaart                       
+OL,20,GDicht. Van 21 november 2026 05:00 uur  
+OL,21,Gtot 21 november 2026 23:00 uur.        
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,0,100
 PN,45216
 SC,0016
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -405,27 +412,26 @@ OL,4,VSo?//o? \W
 OL,5,VS"!  "!                               
 OL,6,V///////%                               
 OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CN44: Wassenaar-Centrum                 
-OL,9,GWegwerkzaamheden. Van 20 november 2026 
-OL,10,G23:59 uur tot 21 november 2026 03:00   
-OL,11,Guur.                                   
-OL,12,CN57: Industrieterrein Arnestein        
-OL,13,GDicht. Van 23 november 2026 20:00 uur  
-OL,14,Gtot 26 november 2026 06:00 uur.        
-OL,15,CN57: Serooskerke-Schouwen              
-OL,16,GDicht. Van 6 november 2026 10:00 uur   
-OL,17,Gtot 4 december 2026 15:00 uur.         
-OL,18,CN57: afrit Renesse                     
-OL,19,GDe op- en afrit is dicht. Van 28       
-OL,20,Gjanuari 2026 01:00 uur tot 30 november 
-OL,21,G2026 06:00 uur.                        
+OL,8,CN48: knp. Hoogeveen                    
+OL,9,GDicht. Van 21 november 2026 05:00 uur  
+OL,10,Gtot 21 november 2026 23:00 uur.        
+OL,11,CN57: Industrieterrein Arnestein        
+OL,12,GDicht. Van 23 november 2026 20:00 uur  
+OL,13,Gtot 26 november 2026 06:00 uur.        
+OL,14,CN57: Serooskerke-Schouwen              
+OL,15,GDicht. Van 6 november 2026 10:00 uur   
+OL,16,Gtot 4 december 2026 15:00 uur.         
+OL,17,CN57: afrit Renesse                     
+OL,18,GDe op- en afrit is dicht. Van 28       
+OL,19,Gjanuari 2026 01:00 uur tot 30 november 
+OL,20,G2026 06:00 uur.                        
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,0,100
 PN,45217
 SC,0017
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -450,7 +456,7 @@ PN,45218
 SC,0018
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -475,7 +481,7 @@ PN,45219
 SC,0019
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -502,7 +508,7 @@ PN,45220
 SC,0020
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -529,7 +535,7 @@ PN,45221
 SC,0021
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -556,7 +562,7 @@ PN,45222
 SC,0022
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -570,20 +576,19 @@ OL,10,Gtot 4 december 2026 00:00 uur.
 OL,11,CN303: Putten-Oost                      
 OL,12,GDicht. Van 2 november 2026 00:00 uur   
 OL,13,Gtot 4 december 2026 00:00 uur.         
-OL,14,CN322: Rossum                           
-OL,15,GDicht. Van 19 november 2026 tot 20     
-OL,16,Gnovember 2026 dagelijks tussen 09:00   
-OL,17,Guur en 15:00 uur.                      
-OL,18,CN331: de Stadhagenallee                
-OL,19,GDicht. Van 16 november 2026 06:00 uur  
-OL,20,Gtot 22 november 2026 16:30 uur.        
+OL,14,CN331: de Stadhagenallee                
+OL,15,GDicht. Van 16 november 2026 06:00 uur  
+OL,16,Gtot 22 november 2026 16:30 uur.        
+OL,17,CN331: de Stadhagenallee                
+OL,18,GDicht. Van 16 november 2026 06:00 uur  
+OL,19,Gtot 22 november 2026 16:30 uur.        
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,0,100
 PN,45223
 SC,0023
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -591,15 +596,15 @@ OL,4,VSo?//o? \W
 OL,5,VS"!  "!                               
 OL,6,V///////%                               
 OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CN331: de Stadhagenallee                
-OL,9,GDicht. Van 16 november 2026 06:00 uur  
-OL,10,Gtot 22 november 2026 16:30 uur.        
-OL,11,CN337: Olst                             
+OL,8,CN337: Olst                             
+OL,9,GDicht. Van 24 augustus 2026 00:00 uur  
+OL,10,Gtot 25 december 2026 00:00 uur.        
+OL,11,CN337: Wijhe                            
 OL,12,GDicht. Van 24 augustus 2026 00:00 uur  
 OL,13,Gtot 25 december 2026 00:00 uur.        
-OL,14,CN337: Wijhe                            
-OL,15,GDicht. Van 24 augustus 2026 00:00 uur  
-OL,16,Gtot 25 december 2026 00:00 uur.        
+OL,14,CN341: Tonnendijkbrug                   
+OL,15,GDicht. Van 28 september 2026 00:00 uur 
+OL,16,Gtot 18 december 2026 23:59 uur.        
 OL,17,CN341: Tonnendijkbrug                   
 OL,18,GDicht. Van 28 september 2026 00:00 uur 
 OL,19,Gtot 18 december 2026 23:59 uur.        
@@ -609,7 +614,7 @@ PN,45224
 SC,0024
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -617,26 +622,26 @@ OL,4,VSo?//o? \W
 OL,5,VS"!  "!                               
 OL,6,V///////%                               
 OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CN341: Tonnendijkbrug                   
-OL,9,GDicht. Van 28 september 2026 00:00 uur 
-OL,10,Gtot 18 december 2026 23:59 uur.        
-OL,11,CN346: Lochem                           
+OL,8,CN346: Lochem                           
+OL,9,GDicht. Van 26 oktober 2026 00:00 uur   
+OL,10,Gtot 30 april 2027 00:00 uur.           
+OL,11,CN346: Diepenheim                       
 OL,12,GDicht. Van 26 oktober 2026 00:00 uur   
 OL,13,Gtot 30 april 2027 00:00 uur.           
-OL,14,CN346: Diepenheim                       
-OL,15,GDicht. Van 26 oktober 2026 00:00 uur   
-OL,16,Gtot 30 april 2027 00:00 uur.           
-OL,17,CN354: Raerd                            
-OL,18,GWegwerkzaamheden. Van 18 november 2026 
-OL,19,Gtot 25 november 2026 dagelijks tussen  
-OL,20,G09:00 uur en 15:00 uur.                
+OL,14,CN354: Raerd                            
+OL,15,GWegwerkzaamheden. Van 18 november 2026 
+OL,16,Gtot 25 november 2026 dagelijks tussen  
+OL,17,G09:00 uur en 15:00 uur.                
+OL,18,CN373: Norgerbrug                       
+OL,19,GDicht. Van 1 november 2025 00:00 uur   
+OL,20,Gtot 28 februari 2027 00:00 uur.        
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,0,100
 PN,45225
 SC,0025
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -644,15 +649,15 @@ OL,4,VSo?//o? \W
 OL,5,VS"!  "!                               
 OL,6,V///////%                               
 OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CN373: Norgerbrug                       
-OL,9,GDicht. Van 1 november 2025 00:00 uur   
-OL,10,Gtot 28 februari 2027 00:00 uur.        
+OL,8,CN377: de aansluiting met de A28        
+OL,9,GDicht. Van 7 september 2026 06:00 uur  
+OL,10,Gtot 27 november 2026 17:00 uur.        
 OL,11,CN377: de aansluiting met de A28        
 OL,12,GDicht. Van 7 september 2026 06:00 uur  
 OL,13,Gtot 27 november 2026 17:00 uur.        
-OL,14,CN377: de aansluiting met de A28        
-OL,15,GDicht. Van 7 september 2026 06:00 uur  
-OL,16,Gtot 27 november 2026 17:00 uur.        
+OL,14,CN440: de Hubertustunnel                
+OL,15,GDicht. Van 27 juli 2025 21:00 uur tot  
+OL,16,G15 december 2026 00:00 uur.            
 OL,17,CN440: de Hubertustunnel                
 OL,18,GDicht. Van 27 juli 2025 21:00 uur tot  
 OL,19,G15 december 2026 00:00 uur.            
@@ -662,7 +667,7 @@ PN,45226
 SC,0026
 PS,C200
 CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
+OL,0,          G452BBMN1Gvr 20.11.26 21:50:51
 OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
 OL,3,VS7k##7k \W                            
@@ -670,34 +675,17 @@ OL,4,VSo?//o? \W
 OL,5,VS"!  "!                               
 OL,6,V///////%                               
 OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CN440: de Hubertustunnel                
-OL,9,GDicht. Van 27 juli 2025 21:00 uur tot  
-OL,10,G15 december 2026 00:00 uur.            
-OL,11,CN468: Maasland                         
+OL,8,CN468: Maasland                         
+OL,9,GDicht. Van 3 februari 2025 00:00 uur   
+OL,10,Gtot 30 december 2027 00:00 uur.        
+OL,11,CN468: Gaag                             
 OL,12,GDicht. Van 3 februari 2025 00:00 uur   
 OL,13,Gtot 30 december 2027 00:00 uur.        
-OL,14,CN468: Gaag                             
-OL,15,GDicht. Van 3 februari 2025 00:00 uur   
-OL,16,Gtot 30 december 2027 00:00 uur.        
-OL,17,CN839: de aansluiting met de A15        
-OL,18,GDicht. Van 1 december 2026 19:00 uur   
-OL,19,Gtot 2 december 2026 06:00 uur.         
-OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-FL,0,0,0,0,0,100
-PN,45227
-SC,0027
-PS,C200
-CT,25,T
-OL,0,          G452BBMN1Gvr 20.11.26 11:50:31
-OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,VSj    5 \WGWerkzaamheden    VRIJDAG   
-OL,3,VS7k##7k \W                            
-OL,4,VSo?//o? \W                            
-OL,5,VS"!  "!                               
-OL,6,V///////%                               
-OL,7,CWEGWERKZAAMHEDEN                       
-OL,8,CN839: Bemmel                           
-OL,9,GDicht. Van 3 december 2026 21:00 uur   
-OL,10,Gtot 4 december 2026 05:00 uur.         
+OL,14,CN839: de aansluiting met de A15        
+OL,15,GDicht. Van 1 december 2026 19:00 uur   
+OL,16,Gtot 2 december 2026 06:00 uur.         
+OL,17,CN839: Bemmel                           
+OL,18,GDicht. Van 3 december 2026 21:00 uur   
+OL,19,Gtot 4 december 2026 05:00 uur.         
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,0,0,0,0,0,100

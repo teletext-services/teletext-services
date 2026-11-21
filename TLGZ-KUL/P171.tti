@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  171Cpi@ 20 lis  18:04:19
+OL,0,      BKULTURA  171Csob 21 lis  04:04:14
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FWROC]AW                         ZV,,,, 
 OL,4, pi@.    B5  C9 Gca}k.  F7NW G985 ZVpx| 
-OL,5, sob.    B2  C5 Gdu{e  F14W  G997ZWt `| 
-OL,6, nie.    B3  C5 Gumiar F14W  G996ZVp4   
-OL,7, pon.                                   
+OL,5, sob.    B3  C5 Gumiar F14W  G997ZW0  ` 
+OL,6, nie.    B2  C5 Gumiar F10W  G995ZVpx`4 
+OL,7, pon.    B1  C3 Gdu{e  F10NW G999ZWpp00 
 OL,8, wt.                                    
 OL,9,FJELENIA GORA                    ZV,,,, 
 OL,10, pi@.    B3  C8 Gdu{e   F7NW G954ZVpx|x 
-OL,11, sob.    B1  C4 Gdu{e  F14W  G966ZW40`x 
-OL,12, nie.    B1  C3 Gumiar F10NW G965ZVtt   
-OL,13, pon.                                   
+OL,11, sob.    B2  C4 Gumiar F14W  G966ZWt `x 
+OL,12, nie.    B0  C3 Gumiar F10W  G965ZVpx   
+OL,13, pon.    B0  C0 Gca}k. F10NW G968       
 OL,14, wt.                                    
 FL,170,172,200,200,0,100
 PN,17102
@@ -25,20 +25,20 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  171Cpi@ 20 lis  18:04:19
+OL,0,      BKULTURA  171Csob 21 lis  04:04:15
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FK]ODZKO                         ZV,,,, 
 OL,4, pi@.    B6  C8 Gca}k.  F7SW G959ZVpx|| 
-OL,5, sob.    B1  C5 Gumiar F10W  G972ZW| `p 
-OL,6, nie.    B0  C4 Gumiar  F7SW G970ZVp000 
-OL,7, pon.                                   
+OL,5, sob.    B1  C5 Gumiar F10W  G972ZW|0 p 
+OL,6, nie.    B0  C4 Gumiar  F7SW G970ZVp0 0 
+OL,7, pon.    B0  C2 Gdu{e   F3NW G973       
 OL,8, wt.                                    
 OL,9,FLEGNICA                         ZV,,,, 
 OL,10, pi@.    B5  C9 Gca}k. F10NW G984 ZV|t| 
-OL,11, sob.    B2  C5 Gdu{e  F18W  G997ZW0 `p 
-OL,12, nie.    B2  C5 Gdu{e  F14W  G996ZVx    
-OL,13, pon.                                   
+OL,11, sob.    B2  C5 Gumiar F18W  G997ZW0  p 
+OL,12, nie.    B2  C5 Gumiar F14W  G996ZVt|   
+OL,13, pon.    B1  C3 Gdu{e  F10W  G999ZW`pp0 
 OL,14, wt.                                    
 FL,170,172,200,200,0,100
 PN,17103
@@ -46,13 +46,13 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BKULTURA  171Cpi@ 20 lis  18:04:19
+OL,0,      BKULTURA  171Csob 21 lis  04:04:15
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,F\NIE[KA                         ZV,,,, 
 OL,4, pi@.    B0  C2 Gca}k. F14W  G863ZV|||| 
-OL,5, sob.   B-4 C-1 Gdu{e  F21NW G873ZW4 `p 
-OL,6, nie.   B-5 C-1 Gumiar F10NW G872ZV0p   
-OL,7, pon.                                   
+OL,5, sob.   B-3  C0 Gumiar F18NW G873ZW| `p 
+OL,6, nie.   B-6 C-1 Gdu{e  F14NW G871ZVp`0  
+OL,7, pon.   B-6 C-5 Gca}k. F10NW G873       
 OL,8, wt.                                    
 FL,170,172,200,200,0,100

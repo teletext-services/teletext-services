@@ -3,67 +3,39 @@ PN,10101
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:38
+OL,0,         GFORUM64   GFr 20 Nov F22:22:33
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EDolphinDOS26UL: neues Kernal f}r C64   
-OL,3,Eund C64U (aus C64U-Thread)...          
-OL,5,CAntwort:  BUnseen                      
-OL,6,CComments: B62                          
+OL,2,E1581 Floppy Controller Unterschiede und
+OL,3,EFehler im ROM                          
+OL,5,CAntwort:  BandroSID                    
+OL,6,CComments: B58                          
 OL,7,F                                       
 OL,8,F( )                                    
-OL,10,FBurstmode und Parallelkabel haben      
-OL,11,Fnichts miteinander zu tun.             
-OL,13,FDer Burstmode stammt vom C128 und wird 
-OL,14,Fzur schnelleren ]bertragung }ber das   
-OL,15,Fserielle Kabel mit 157x/1581 verwendet.
-OL,16,FEs gibt ein paar Projekte um den mit   
-OL,17,Fpassender Software oder einem          
-OL,19,CErster Beitrag:                        
-OL,21,GHallo,                                 
-OL,23,Gich habe ein spezielles Laufwerks und  
-OL,24,D]FForum64.de RSS feed            (1/3) 
+OL,10,FSie haben es versucht.... Sp{tere chips
+OL,11,Fwurden dann von anderen produziert.    
+OL,13,FAber die gate Arrays der Floppys waren 
+OL,14,Fteilweise auch cmos von anderen        
+OL,16,CErster Beitrag:                        
+OL,18,GMoin!                                  
+OL,20,GIch bin grad' am rumfrickeln an meiner 
+OL,21,G1581... bzw. genauer:                  
+OL,23,GAn dem bei mir verbauten Controller:   
+OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,10102
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:38
+OL,0,         GFORUM64   GFr 20 Nov F22:22:33
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GC64 Kernel ROM f}r den C64U erstellt.  
-OL,4,GEs basiert auf DolphinDOS 3 und nennt  
-OL,5,Gsich DolphinDOS26UL. Mit diesem 1541   
-OL,6,Gund C64 Kernal kann der C64U }ber den  
-OL,7,Ginternen Parallelport f}r das Drive A  
-OL,8,Gmit DolphinDOS + Zusatz RAM arbeiten.  
-OL,9,GParallel kann der Kernel mit anderen   
-OL,10,GIEC-Ger{ten wie 1541, 1571, PI1541,    
-OL,11,GSD2IEC }ber das JiffyDOS-Protokoll     
-OL,12,Gsprechen ohne den Kernal zu wechseln.  
-OL,13,GSomit hat man immer eine schnelle      
-OL,14,G]bertragung. Der Kernel w{hlt          
-OL,15,Gautomatisch das beste Protokoll        
-OL,16,G(DolphinDOS, JiffyDOS oder original    
-OL,17,GCBM-Seriell).                          
-OL,19,GDas gleiche habe ich auch mit dem      
-OL,20,GSpeedDOS gemacht. Es hei~t jetzt bei   
-OL,21,Gmir SpeedDOS26 und braucht im Gegensatz
-OL,22,Gzu DolphinDOS nicht das Zusatz-RAM in  
-OL,23,Gder Floppy.                            
-OL,24,D]FForum64.de RSS feed            (2/3) 
-FL,0,0,0,0,0,100
-PN,10103
-SC,0003
-PS,C200
-CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:38
-OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GDas ganze l{uft nat}rlich auch auf     
-OL,4,Grealer Hardware.                       
-OL,6,GLink:                                  
-OL,7,Ghttps://github.com/FraEgg/DolphinDOS   
-OL,9,GWeitere Informationen zum gesamten     
-OL,10,GMulti-Speeder-Projekt unter:           
-OL,12,Ghttps://github.com/FraEgg/Switchless-Mu
-OL,13,Glti-Speeder-Project                    
-OL,24,D]FForum64.de RSS feed            (3/3) 
+OL,3,GWD1772PH 02 -02.                       
+OL,5,GAb Werk wurde normalerweise ein        
+OL,6,GWD1770PH-00-02 verbaut.                
+OL,8,GAber es sind ja nun einige Replika im  
+OL,9,GUmlauf mit WD1772PH 00 -02.            
+OL,11,GFalls jemand so eine 1581 mit dieser   
+OL,12,GVersion (also PH00-02 !) des Chips hat 
+OL,14,Gund Lust hat ein kurzes Testprogramm zu
+OL,15,Gstarten -> Bescheid sagen!             
+OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

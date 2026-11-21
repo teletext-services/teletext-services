@@ -3,33 +3,45 @@ PN,11101
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:59
+OL,0,         GFORUM64   GFr 20 Nov F22:22:47
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EMimic - Multiplatform                  
-OL,3,EEmulator/RemoteDebugger                
-OL,5,CAntwort:  Bdrazil                      
-OL,6,CComments: B74                          
-OL,7,F                                       
-OL,8,F@sanstarr                              
-OL,10,FJa, stimmt . Schnelleres einf}gen beim 
-OL,11,FKC ist noch nicht drin. Ein Tap File   
-OL,12,Fhatte ich noch keins. Da hatte ich     
-OL,13,Ferstmal auf den KI Test gebaut.        
-OL,15,FUnd mit den fehlenden Tastendr}cken ist
-OL,16,Fmir auch schon aufgefallen. Kommt beim 
-OL,17,FAtari auch                             
-OL,19,CErster Beitrag:                        
-OL,21,GHier werde ich dann so nach und nach   
-OL,22,Gdie neuen Plattformen vorstellen die   
-OL,23,Gder Emulator unterst}tzt. ROM's        
+OL,2,EPET 6540 ROM Adapter auf               
+OL,3,E2316/2332/OneROM und                   
+OL,4,EDiagnosem|glichkeiten (aus: OneROM -   
+OL,5,EROM-Ersatz)                            
+OL,7,CAntwort:  Bx1541                       
+OL,8,CComments: B58                          
+OL,9,F                                       
+OL,10,Fja genau, und das mit mehreren ROMs    
+OL,11,Fprobiere ich auch noch. Das editor ROM 
+OL,12,Fbliebe dann separat.                   
+OL,14,CErster Beitrag:                        
+OL,16,GEin passiver Adapter geht evtl. nicht, 
+OL,17,Gda der 6540 PHI2 auf dem CLK-Pin       
+OL,18,Gseparat bekommt.                       
+OL,20,GMit dem Adapter sollten auch 2332 und  
+OL,21,G2316B ROMs aus neueren PETs verwendbar 
+OL,22,Gsein solange diese zu den anderen      
+OL,23,Gpassen. Im Sockel H1, H2, H3 und H4    
 OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,11102
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:59
+OL,0,         GFORUM64   GFr 20 Nov F22:22:47
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gvorausgesetzt                          
+OL,3,Gmuss der Jumper auf 2-3 und in den     
+OL,4,GSockeln H5, H6 und H7 auf 1-2. Wenn das
+OL,5,GOneROM auf 2316 konfiguriert ist l{sst 
+OL,6,Gsich nur ein Chip ersetzen, ist es auf 
+OL,7,G2332 konfiguriert ersetzt es zwei ROMs 
+OL,8,GH1-H5, H2-H6 oder H4-H7, dazu m}ssen   
+OL,9,Gbeide ROMs entfernt werden. F}r Sockel 
+OL,10,GH3 muss das OneROM zwingend auf 2316   
+OL,11,Gkonfiguriert sein.                     
+OL,13,GUm alle 7 ROMs mit einem zu ersetzen   
+OL,14,Gben|tigt man einen Adapter f}r den CPU 
+OL,15,GSockel der                             
 OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

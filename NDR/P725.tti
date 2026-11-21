@@ -1,31 +1,31 @@
 DE,NDR 725
 PN,72500
 SC,0000
-PS,8200
+PS,8208
 CT,10,T
-OL,0,       G725FNDR TEXT GFr 20.11.B13:42:19
+OL,0,       G725FNDR TEXT GFr 20.11.B23:41:19
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN HANNOVER          
-OL,4,F]T  %D     Ankunft      Stand 13:00    
+OL,4,F]T  %D     Ankunft      Stand 22:46    
 OL,5,BFLUG    VON           PLAN ERW. TER/BEM
-OL,6, VF  085 Istanbul-Sab. 1120 1125 C Gelan
-OL,7,FVL 2092 M}nchen       1250 1311 A      
-OL,8, X3 4107 Heraklion     1255 1245 A Gelan
-OL,9,C   via D}sseldorf                      
-OL,10, X3 2147 P. de Mallorc 1315 1259 A Gelan
-OL,11,C   via D}sseldorf                      
-OL,12, LX  816 Z}rich        1350 1409 A      
-OL,13,FLH  044 Frankfurt     1420 1432 A      
-OL,14, OS  273 Wien          1425 1426 A      
-OL,15,FVL 2094 M}nchen       1635      A      
-OL,16, TK 1555 Istanbul      1705      C      
-OL,17,FBJ 2598 Monastir      1710      C      
-OL,18, BA  928 London-Heathr 1715      C      
-OL,19,FX3 2149 Fuerteventura 1725      B      
-OL,20, KL 1791 Amsterdam     1745      A      
-OL,21,FLH  046 Frankfurt     1810      A      
-OL,22, AF 1838 Paris - CDG   1830      A      
+OL,6, X3 6150 Boa Vista / K 2055 2029 B Gelan
+OL,7,C   via Sal / Kap Verde                 
+OL,8, EW 3593 P. de Mallorc 2120 2121 A Gelan
+OL,9,FEW 3887 Rom Fiumicino 2130 2136 C Gelan
+OL,10, KL 1793 Amsterdam     2205 2216 A Gelan
+OL,11,FAF 1438 Paris - CDG   2210 2155 A Gelan
+OL,12, LH  048 Frankfurt     2250 2238 A Gelan
+OL,13,FVL 2100 M}nchen       2310 2324 A      
+OL,14, PC 1035 Istanbul-Sab. 2330 0009 C      
+OL,15,C        -- Am 21.11.2026 --            
+OL,16, X3 2263 Gran Canaria  0050 0042 C      
+OL,17,FX3 2755 Teneriffa     0050 0111 B      
+OL,18, XQ  230 Antalya       0145 0143 C      
+OL,19,FXQ  232 Antalya       0150 0152 C      
+OL,20, SM 2938 Marsa Alam    0200 0255 C      
+OL,21,FSM 2932 Hurghada      0240 0232 C      
+OL,22, XQ  994 Izmir         0410      C      
 OL,23,A]G700<                      WEITER >726
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

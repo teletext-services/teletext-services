@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  161Cpi@ 20 lis  18:27:54
+OL,0,      BPOLONIA  161Csob 21 lis  04:27:52
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FSZCZECIN                        ZV,,,, 
 OL,4, pi@.    B2  C5 Gumiar F10W  G997ZVp    
-OL,5, sob.    B1  C6 Gdu{e  F14W G1007  ZWh| 
-OL,6, nie.    B2  C5 Gumiar F10W G1007ZV| `p 
-OL,7, pon.                                   
+OL,5, sob.    B1  C5 Gumiar F14W G1007   ZWx 
+OL,6, nie.    B2  C4 Gdu{e  F10W G1007ZV4 px 
+OL,7, pon.    B0  C3 Gumiar F10NWG1012ZWt h4 
 OL,8, wt.                                    
 OL,9,F\WINOUJ\CIE                     ZV,,,, 
 OL,10, pi@.    B2  C4 Gumiar F14W  G997ZVp    
-OL,11, sob.    B1  C6 Gumiar F18W G1006  ZW0h 
-OL,12, nie.    B2  C5 Gdu{e  F10NWG1007 ZV`p` 
-OL,13, pon.                                   
+OL,11, sob.    B2  C5 Gumiar F14W G1007  ZW|t 
+OL,12, nie.    B2  C5 Gumiar F10NWG1007 ZVp   
+OL,13, pon.    B1  C4 Gumiar F10NWG1013 ZW`t0 
 OL,14, wt.                                    
 FL,160,162,180,180,0,100
 PN,16102
@@ -25,20 +25,20 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  161Cpi@ 20 lis  18:27:54
+OL,0,      BPOLONIA  161Csob 21 lis  04:27:52
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FMIEDZYZDROJE                    ZV,,,, 
 OL,4, pi@.    B3  C5 Gumiar F28W  G997  ZV`  
-OL,5, sob.    B2  C7 Gumiar F36W G1006   ZWh 
-OL,6, nie.    B4  C5 Gdu{e  F28NWG1007 ZVp0` 
-OL,7, pon.                                   
+OL,5, sob.    B3  C6 Gumiar F36W G1007  ZWx| 
+OL,6, nie.    B4  C5 Gdu{e  F28NWG1007 ZVx   
+OL,7, pon.    B3  C5 Gumiar F28NWG1012 ZW`|0 
 OL,8, wt.                                    
 OL,9,FKO]OBRZEG                       ZV,,,, 
 OL,10, pi@.    B3  C5 Gdu{e  F21W  G996  ZV`x 
-OL,11, sob.    B3  C7 Gumiar F25W G1005   ZWh 
-OL,12, nie.    B4  C6 Gdu{e  F21NWG1006ZVh  x 
-OL,13, pon.                                   
+OL,11, sob.    B4  C7 Gumiar F25W G1005ZW4 `p 
+OL,12, nie.    B4  C6 Gdu{e  F21NWG1006ZVt0`p 
+OL,13, pon.    B3  C5 Gdu{e  F21N G1011ZW`xt4 
 OL,14, wt.                                    
 FL,160,162,180,180,0,100
 PN,16103
@@ -46,20 +46,20 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  161Cpi@ 20 lis  18:27:54
+OL,0,      BPOLONIA  161Csob 21 lis  04:27:52
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FKOSZALIN                        ZV,,,, 
 OL,4, pi@.    B1  C5 Gdu{e  F14W  G992ZVp 0| 
-OL,5, sob.    B2  C6 Gumiar F18W G1000ZW4 px 
-OL,6, nie.    B4  C5 Gca}k. F14NWG1002ZV|xtx 
-OL,7, pon.                                   
+OL,5, sob.    B2  C5 Gdu{e  F14W G1001ZWt0`p 
+OL,6, nie.    B3  C5 Gdu{e  F14NWG1002ZVtppp 
+OL,7, pon.    B0  C4 Gdu{e  F14NWG1007ZWpx|4 
 OL,8, wt.                                    
 OL,9,FDAR]OWO                         ZV,,,, 
 OL,10, pi@.    B3  C6 Gdu{e  F28W  G995ZVp x| 
-OL,11, sob.    B5  C7 Gumiar F36W G1003  ZWpp 
-OL,12, nie.    B4  C6 Gca}k. F28NWG1005ZV`ppp 
-OL,13, pon.                                   
+OL,11, sob.    B5  C7 Gumiar F32W G1004ZW` `4 
+OL,12, nie.    B4  C6 Gdu{e  F28NWG1005ZVtppp 
+OL,13, pon.    B3  C4 Gdu{e  F28N G1010ZWpx}4 
 OL,14, wt.                                    
 FL,160,162,180,180,0,100
 PN,16104
@@ -67,20 +67,20 @@ SC,0004
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  161Cpi@ 20 lis  18:27:54
+OL,0,      BPOLONIA  161Csob 21 lis  04:27:52
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FGOLENIOW                        ZV,,,, 
 OL,4, pi@.    B1  C4 Gumiar F10W  G995       
-OL,5, sob.    B0  C5 Gumiar F14W G1004  ZWx| 
-OL,6, nie.    B2  C3 Gdu{e  F10W G1005 ZVx|` 
-OL,7, pon.                                   
+OL,5, sob.    B1  C5 Gdu{e  F14W G1005  ZWh| 
+OL,6, nie.    B2  C4 Gdu{e  F10W G1005ZV0hp0 
+OL,7, pon.    B0  C2 Gumiar  F7NWG1010ZWp x4 
 OL,8, wt.                                    
 OL,9,F\WIDWIN                         ZV,,,, 
 OL,10, pi@.    B1  C4 Gumiar F14W  G984ZVp`00 
-OL,11, sob.    B1  C5 Gdu{e  F21W  G993   ZW` 
-OL,12, nie.    B2  C4 Gdu{e  F14W  G994ZVh4 x 
-OL,13, pon.                                   
+OL,11, sob.    B1  C4 Gumiar F18W  G994   ZW0 
+OL,12, nie.    B2  C4 Gdu{e  F14W  G994ZV4|h| 
+OL,13, pon.    B0  C2 Gdu{e  F10NW G999ZWpp|0 
 OL,14, wt.                                    
 FL,160,162,180,180,0,100
 PN,16105
@@ -88,20 +88,20 @@ SC,0005
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  161Cpi@ 20 lis  18:27:54
+OL,0,      BPOLONIA  161Csob 21 lis  04:27:52
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FSZCZECINEK                      ZV,,,, 
 OL,4, pi@.    B1  C4 Gumiar F14W  G979ZV`0   
-OL,5, sob.    B0  C4 Gumiar F18W  G988   ZWh 
-OL,6, nie.    B2  C3 Gdu{e  F14W  G989ZV|||| 
-OL,7, pon.                                   
+OL,5, sob.    B1  C4 Gdu{e  F18W  G988   ZW| 
+OL,6, nie.    B2  C2 Gdu{e  F14W  G988ZV|t|| 
+OL,7, pon.    B1  C2 Gdu{e  F10NW G993ZW4`t0 
 OL,8, wt.                                    
 OL,9,FMIROS]AWIEC                     ZV,,,, 
 OL,10, pi@.    B1  C4 Gdu{e  F10W  G984ZV``   
-OL,11, sob.    B0  C4 Gdu{e  F14W  G993  ZWh| 
-OL,12, nie.    B1  C3 Gdu{e  F10W  G994ZV0p ` 
-OL,13, pon.                                   
+OL,11, sob.    B0  C4 Gdu{e  F14W  G994  ZWh| 
+OL,12, nie.    B2  C3 Gdu{e  F10W  G994ZV4h t 
+OL,13, pon.    B0  C2 Gdu{e  F10NW G998ZWt0h0 
 OL,14, wt.                                    
 FL,160,162,180,180,0,100
 PN,16106
@@ -109,13 +109,13 @@ SC,0006
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BPOLONIA  161Cpi@ 20 lis  18:27:55
+OL,0,      BPOLONIA  161Csob 21 lis  04:27:52
 OL,1,D]GPROGNOZA POGODY        ]D20/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FRESKO                           ZV,,,, 
 OL,4, pi@.    B1  C4 Gumiar F10W  G991 ZVx   
-OL,5, sob.    B1  C5 Gdu{e  F18W G1001       
-OL,6, nie.    B1  C4 Gumiar F10W G1001ZV`4 x 
-OL,7, pon.                                   
+OL,5, sob.    B1  C5 Gdu{e  F14W G1001  ZWht 
+OL,6, nie.    B2  C4 Gdu{e  F10W G1001ZV0|   
+OL,7, pon.    B0  C2 Gdu{e  F10NWG1006 ZWh|4 
 OL,8, wt.                                    
 FL,160,162,180,180,0,100

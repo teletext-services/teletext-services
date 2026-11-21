@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     853Cpi@ 20 lis  19:21:10
+OL,0,      BTVP2     853Csob 21 lis  05:20:49
 OL,1,C]      MDM U L T I   M U L T I         
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
 OL,4,C]DData losowania:@20.11.2026 r.        
@@ -33,26 +33,26 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     853Cpi@ 20 lis  19:21:10
+OL,0,      BTVP2     853Csob 21 lis  05:20:49
 OL,1,C]      MDM U L T I   M U L T I         
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
-OL,4,C]DData losowania:@19.11.2026 r.        
+OL,4,C]DData losowania:@20.11.2026 r.        
 OL,5,S
 OL,6,C]DGodzina:@22:00                       
 OL,7,S
 OL,8,C]DWylosowane liczby:                   
-OL,9,C] A4D-@cztery       A46D-@cztery-sze|^ 
-OL,10,C] A5D-@pi`^         A47D-@cztery-siedem
-OL,11,C] A8D-@osiem        A49D-@cztery-dziewi
-OL,12,C]A15D-@jeden-pi`^   A53D-@pi`^-trzy    
-OL,13,C]A19D-@jeden-dziewi`A54D-@pi`^-cztery  
-OL,14,C]A22D-@dwa-dwa      A62D-@sze|^-dwa    
-OL,15,C]A31D-@trzy-jeden   A65D-@sze|^-pi`^   
-OL,16,C]A35D-@trzy-pi`^    A66D-@sze|^-sze|^  
-OL,17,C]A41D-@cztery-jeden A73D-@siedem-trzy  
-OL,18,C]A43D-@cztery-trzy  A78D-@siedem-osiem 
+OL,9,C] A2D-@dwa          A32D-@trzy-dwa     
+OL,10,C] A3D-@trzy         A33D-@trzy-trzy    
+OL,11,C] A6D-@sze|^        A34D-@trzy-cztery  
+OL,12,C] A8D-@osiem        A40D-@cztery-zero  
+OL,13,C]A12D-@jeden-dwa    A43D-@cztery-trzy  
+OL,14,C]A13D-@jeden-trzy   A46D-@cztery-sze|^ 
+OL,15,C]A21D-@dwa-jeden    A50D-@pi`^-zero    
+OL,16,C]A23D-@dwa-trzy     A55D-@pi`^-pi`^    
+OL,17,C]A26D-@dwa-sze|^    A69D-@sze|^-dziewi`
+OL,18,C]A27D-@dwa-siedem   A78D-@siedem-osiem 
 OL,19,S
-OL,20,C]             DPlus A62D-@sze|^-dwa    
+OL,20,C]             DPlus A55D-@pi`^-pi`^    
 OL,21,S///////////////////////////////////////
 OL,22,Q
 OL,23,Q

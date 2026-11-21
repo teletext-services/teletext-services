@@ -4,10 +4,10 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP1     392Cpi@ 20 lis  18:59:14
+OL,0,      BTVP1     392Csob 21 lis  04:59:06
 OL,1,C]DPI]KA NO[NA  ]GBELGIA Jupiler League 
 OL,3,                 C20.11                 
-OL,4, Cercle Brugge   - Westerlo       B20:45
+OL,4, Cercle Brugge   - Westerlo    F1-0(0-0)
 OL,6,                 C21.11                 
 OL,7, Charleroi       - Sint-Truiden   B16:00
 OL,8, KRC Genk        -Raal La LouviereB18:15
@@ -25,7 +25,7 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP1     392Cpi@ 20 lis  18:59:14
+OL,0,      BTVP1     392Csob 21 lis  04:59:06
 OL,1,C]DPI]KA NO[NA  ]GBELGIA Jupiler League 
 OL,3, B1.St. Gilloise    11  9  2  0 30-7  29
 OL,4, B2.Club Brugge     11  9  1  1 27-9  28
@@ -35,14 +35,14 @@ OL,7, B5.Anderlecht      11  6  2  3 14-12 20
 OL,8, B6.Lommel United   11  4  4  3 15-13 16
 OL,9, F7.KRC Genk        11  4  3  4 18-15 15
 OL,10, F8.Standard Liege  11  4  3  4 18-16 15
-OL,11, F9.Westerlo        11  4  2  5 26-30 14
+OL,11, F9.Westerlo        12  4  2  6 26-31 14
 OL,12,F10.OH Leuven       11  3  3  5 12-17 12
-OL,13,F11.Mechelen        11  3  3  5 13-20 12
-OL,14,F12.St. Truiden     11  3  2  6 22-22 11
-OL,15,A13.Antwerp         11  3  2  6 18-24 11
-OL,16,A14.Zulte Waregem   11  3  2  6 13-20 11
-OL,17,A15.SK Beveren      11  3  1  7 13-23 10
-OL,18,A16.Cercle Brugge   11  2  3  6 14-22  9
+OL,13,F11.Cercle Brugge   12  3  3  6 15-22 12
+OL,14,F12.Mechelen        11  3  3  5 13-20 12
+OL,15,A13.St. Truiden     11  3  2  6 22-22 11
+OL,16,A14.Antwerp         11  3  2  6 18-24 11
+OL,17,A15.Zulte Waregem   11  3  2  6 13-20 11
+OL,18,A16.SK Beveren      11  3  1  7 13-23 10
 OL,19,A17.Raal La Louviere11  2  1  8 13-24  7
 OL,20,A18.Kortrijk        11  1  1  9  4-23  4
 OL,21,B- 1-6 o LM    F7-12 o Lig` Konferencji 
@@ -54,25 +54,7 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP1     392Cpi@ 20 lis  18:59:14
-OL,1,C]DPI]KA NO[NA  ]GCeska fotbalova liga  
-OL,3,                  C7.11                 
-OL,4, Fastav Zlin     - Slovacko    F0-1(0-0)
-OL,5, Hradec Kralove-Sigma O}omuniecF5-0(1-0)
-OL,6, FC Slovan Liberec - Bohemians F1-0(0-0)
-OL,7, Zbrojovka Brno - Banik OstrawaF1-3(0-2)
-OL,9,                  C8.11                 
-OL,10, Teplice         - Pardubice   F1-4(1-2)
-OL,11, Jablonec        - Mlada Boleslav   F0-0
-OL,12, Slavia Praga    - Artis Brno  F4-1(1-0)
-OL,13, Viktoria Pilzno - Sparta PragaF1-1(1-1)
-FL,391,393,450,450,0,100
-PN,39204
-SC,0004
-PS,C000
-RE,1
-CT,10,T
-OL,0,      BTVP1     392Cpi@ 20 lis  18:59:14
+OL,0,      BTVP1     392Csob 21 lis  04:59:06
 OL,1,C]DPI]KA NO[NA  ]GCeska fotbalova liga  
 OL,3,                 C21.11                 
 OL,4, Mlada Boleslav  - Fastav Zlin    B15:00
@@ -85,12 +67,12 @@ OL,11, Pardubice       - Zbrojovka Brno B13:00
 OL,12, Slovacko        - Hradec Kralove B15:00
 OL,13, Sparta Praga - FC Slovan Liberec B18:00
 FL,391,393,450,450,0,100
-PN,39205
-SC,0005
+PN,39204
+SC,0004
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP1     392Cpi@ 20 lis  18:59:14
+OL,0,      BTVP1     392Csob 21 lis  04:59:06
 OL,1,C]DPI]KA NO[NA  ]GCeska fotbalova liga  
 OL,4, B1.Slavia Praga    14 10  4  0 36-8  34
 OL,5, B2.FC Slovan Libere13  8  2  3 16-8  26

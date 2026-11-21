@@ -1,51 +1,30 @@
-DE,RAI-TELEVIDEO 702
-PN,70201
-SC,0001
-PS,C300
+DE,RSILA1 702
+PN,70200
+SC,0000
+PS,8308
 CT,10,T
-OL,0,    BTELEVIDEO 702.01CVe 20 Nov 14:59:04
-OL,1, V(|0x<(||4|||(||4x|t CVERSANTE         
-OL,2,D]Voo5 $1!" $1  CALPI/VAL PADANA  
-OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 13 DEL 20    
-OL,5,                                   C1/2 
-OL,6,C]DCAMERI (NO) \ FSereno                
-OL,7,BTemp:F12         BVento:F4 nodi s/e    
-OL,8,BVisib:FOttima                          
-OL,9,D]CBOLZANO     \ FParzialmente nuvoloso 
-OL,10,FTemp: 9          BVento:F1 nodo var.   
-OL,11,BVisib:FOttima                          
-OL,12,C]DTREVISO     \ FParzialmente nuvoloso 
-OL,13,BTemp:F12         BVento:F4 nodi n/e    
-OL,14,BVisib:FOttima                          
-OL,15,D]CTARVISIO    \ Fn.p.                  
-OL,16,FOsservazione non disponibile.          
-OL,18,C]DTORINO      \ FSereno                
-OL,19,BTemp:F13         BVento:F6 nodi n/e    
-OL,20,BVisib:FOttima                          
-OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
-FL,701,703,100,100,0,100
-PN,70202
-SC,0002
-PS,C300
-CT,10,T
-OL,0,    BTELEVIDEO 702.02CVe 20 Nov 14:59:04
-OL,1, V(|0x<(||4|||(||4x|t CVERSANTE         
-OL,2,D]Voo5 $1!" $1  CALPI/VAL PADANA  
-OL,3, V(/"*-(//%(/$(//%+/'S,,,,,,,,,,,,,,,,, 
-OL,4,D]  COSSERVAZIONI ALLE ORE 14 DEL 20    
-OL,5,                                   C2/2 
-OL,6,C]DMILANO      \ FParz. nuv., Foschia   
-OL,7,BTemp:F9          BVento:F5 nodi s/so   
-OL,8,BVisib:FBuona                           
-OL,9,D]CPIACENZA    \ FPoco nuvoloso         
-OL,10,FTemp: 10         BVento:F5 nodi n/ne   
-OL,11,BVisib:FBuona                           
-OL,12,C]DVERONA      \ FSereno                
-OL,13,BTemp:F14         BVento:F4 nodi ovest  
-OL,14,BVisib:FOttima                          
-OL,15,D]CBOLOGNA     \ FPoco nuvoloso         
-OL,16,FTemp: 10         BVento:F4 nodi ovest  
-OL,17,BVisib:FBuona                           
-OL,22,D]   MCA.M. SERVIZIO METEOROLOGICO      
-FL,701,703,100,100,0,100
+OL,0,       G702  RSI LA 1  21.11.26 00:58:20
+OL,1,A]GRSI   ]@LA1      VENERDI 20 novembre 
+OL,2,G                                       
+OL,3, G04:45  GTG Notte                      
+OL,4, F05:10  FIl QuotidianoCST              
+OL,5, G05:15  GMeteoCST                      
+OL,6, F05:45  FTelegiornaleCST               
+OL,7, G06:15  GSiamo fuoriCST                
+OL,8, F07:10  FMezz'ora per voiCST           
+OL,9, G07:40  GMezz'ora per voiCST           
+OL,10, F08:05  FEverywhere I go -         CST 
+OL,11,         FCoincidenze d'amore           
+OL,12,         FEpisodio 39                   
+OL,13, G08:50  GLa signora in gialloCSTCI/II  
+OL,14,         GAnche le spie hanno un cuore  
+OL,15, F09:40  FUn anno di vita sulla     CST 
+OL,16,         FTerra                         
+OL,17,         FSettembre - Ottobre           
+OL,18, G10:30  GShakespeare &        CSTCI/II 
+OL,19,         GHathaway                      
+OL,20,         Ginvestigatori privati         
+OL,21,         GGli enigmisti                 
+OL,23,@HTechnical problems, no data available 
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100

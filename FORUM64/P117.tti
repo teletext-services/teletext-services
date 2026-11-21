@@ -3,65 +3,64 @@ PN,11701
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:40
+OL,0,         GFORUM64   GFr 20 Nov F22:23:19
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EBreadbin 0.9 kostenlose                
-OL,3,ESpielebibliothek f}r den C64           
-OL,5,CAntwort:  BEmwee                       
-OL,6,CComments: B9                           
+OL,2,E(Release) TRX64 MultiCore f}r C64U und 
+OL,3,EUltimate64 Elite 2                     
+OL,5,CAntwort:  Bquadflyer8                  
+OL,6,CComments: B39                          
 OL,7,F                                       
-OL,8,FKleines Update: Breadbin 0.9.3 ist da, 
-OL,9,Fmit zwei Neuerungen aus diesem Thread: 
-OL,11,FSpiele im Emulator starten (           
-OL,12,F@Rumpelkammer ) : Breadbin startet     
-OL,13,FSpiele jetzt auch direkt in VICE, also 
-OL,14,Fganz ohne Ultimate. In den             
-OL,15,FEinstellungen unter Emulator auf       
-OL,17,CErster Beitrag:                        
-OL,19,GHallo zusammen,                        
-OL,21,Gseit ein paar Wochen bastle ich an     
-OL,22,Geinem Programm, das meine eigene       
-OL,23,GUnordnung in den Griff bekommen sollte:
+OL,8,F( )                                    
+OL,10,Fkann man schonmal }bersehen...die eine 
+OL,11,Fzwischen 32 Files heute Abend gehts    
+OL,12,Faber noch dran...                      
+OL,14,CErster Beitrag:                        
+OL,16,GGuten Abend, Nach zwei Monaten Arbeit  
+OL,17,Gerreicht mein kleines Abenteuer in der 
+OL,18,GWelt der FPGA-Firmwares einen          
+OL,19,GMeilenstein.                           
+OL,21,G--> Ab sofort k|nnt ihr TRX64 MultiCore
+OL,22,Gherunterladen.                         
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11702
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:40
+OL,0,         GFORUM64   GFr 20 Nov F22:23:19
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gzigtausend PRGs, D64s und Module       
-OL,4,Gverteilt auf Festplatte, NAS und den   
-OL,5,GUSB-Sticks der Ultimates und nie wei~  
-OL,6,Gman, welche Fassung wo liegt und welche
-OL,7,G}berhaupt l{uft. Daraus ist Breadbin   
-OL,8,Ggeworden, und inzwischen ist es so     
-OL,9,Gweit, dass es gut funktioniert und ich 
-OL,10,Ges guten Gewissens mit euch teilen     
-OL,11,Gkann.                                  
-OL,13,GWas ist Breadbin? Eine kostenlose      
-OL,14,GDesktop-App f}r Windows, macOS und     
-OL,15,GLinux , die deine C64-Spiele           
-OL,16,Gkatalogisiert, beschreibt und mit einem
-OL,17,GKlick auf dem Ultimate 64 (Elite I/II),
-OL,18,Gdem C64 Ultimate oder einer 1541       
-OL,19,GUltimate II+ startet (die 1541 Ultimate
-OL,20,GII+ konnte ich mangels Ger{t nicht     
-OL,21,Gselbst testen).                        
-OL,23,GWas es kann                            
+OL,3,GWas ist das? TRX64 MultiCore ist eine  
+OL,4,GArt Bootloader-Firmware f}r C64U (UE2) 
+OL,6,GWas kann ich damit machen? Du kannst   
+OL,7,Gdamit unterschiedliche Firmwares und   
+OL,8,GFPGA-Cores auf eurem Ger{t starten:    
+OL,10,GOriginal-Firmware wie Gideons 3.15 oder
+OL,11,GCommodores 1.2.1 Alternative Firmware  
+OL,12,Gwie TRX64 Andere Computersysteme wie   
+OL,13,GAmiga, C128, VC20, C16/Plus4 und       
+OL,14,Gweitere Wie funktioniert das? Der      
+OL,15,GBootloader bleibt dauerhaft auf dem    
+OL,16,GGer{t. Ihr w{hlt die gew}nschte        
+OL,17,GFirmware beziehungsweise den FPGA-Core 
+OL,18,Gaus, und dieser wird geladen und       
+OL,19,Ggestartet.                             
+OL,21,GIhr m}sst also nicht jedes Mal das     
+OL,22,GGer{t neu flashen, nur weil ihr ein    
+OL,23,Ganderes System ausprobieren m|chtet.   
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,11703
 SC,0003
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GFr 20 Nov F12:23:40
+OL,0,         GFORUM64   GFr 20 Nov F22:23:19
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GSammlung einlesen: lokale Ordner,      
-OL,4,GNetzlaufwerke und die USB-Sticks der   
-OL,5,GUltimates (per FTP). PRG, P00, CRT,    
-OL,6,GD64, D71, D81, G64, T64, TAP auch in   
-OL,7,GZIP-Archiven. Disk-Verzeichnisse und   
-OL,8,GT64-Inhalte sind durchsuchbar,         
+OL,3,GDas FPGA-System ist grunds{tzlich frei 
+OL,4,Gprogrammierbar. Im Prinzip k|nnt ihr   
+OL,5,Galles ausf}hren, was die FPGA-Hardware 
+OL,6,Ghergibt und wof}r jemand eine passende 
+OL,7,GFirmware beziehungsweise einen Core    
+OL,8,Gentwickelt hat.                        
+OL,10,GIm                                     
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     193Cpi@ 20 lis  19:10:00
+OL,0,      BTVP2     193Csob 21 lis  05:09:56
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
@@ -25,37 +25,39 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     193Cpi@ 20 lis  19:10:00
+OL,0,      BTVP2     193Csob 21 lis  05:09:56
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
 OL,3,Q##!     Cwojew_dztwo pomorskie     Q"##
-OL,5,   FSilny wiatr w strefie brzegowej/1   
-OL,7, CIMGW-PIB OSTRZEGA zachodniopomorskie, 
-OL,8,Cpomorskie, |rodkowa strefa brzegowa,   
-OL,9,C20.11 silny wiatr do 7 B               
-OL,11, Nazwa biura Regionalne Biuro           
-OL,12, Meteorologicznych Prognoz Morskich w   
-OL,13, Szczecinie                             
-OL,14, Zjawisko/stopie$ zagro{enia Silny wiatr
-OL,15, w strefie brzegowej/1                  
+OL,5,               FSztorm/2                
+OL,7, CIMGW-PIB OSTRZEGA                     
+OL,8,Czachodniopomorskie,pomorskie, |rodkowa 
+OL,9,Cstrefa brzegowa, w nocy 20/21.11 i rano
+OL,10,C21.11 sztorm do 8 B.                   
+OL,12, Nazwa biura Regionalne Biuro           
+OL,13, Meteorologicznych Prognoz Morskich w   
+OL,14, Szczecinie                             
+OL,15, Zjawisko/stopie$ zagro{enia Sztorm/2   
 OL,16, Obszar Strefa brzegowa - cz`|^ |rodkowa
-OL,17, Wa{no|^ (cz. urz.) od godz. 14:00 dnia 
-OL,18, 20.11.2026 do godz. 20:00 dnia         
-OL,19, 20.11.2026                             
+OL,17, Wa{no|^ (cz. urz.) od godz. 00:00 dnia 
+OL,18, 21.11.2026 do godz. 08:00 dnia         
+OL,19, 21.11.2026                             
 OL,20, Przebieg Wiatr zachodni do             
-OL,21, p_}nocno-zachodniego 5 do 6, w porywach
-OL,22, 7 w skali B.                           
-OL,23, Uwagi Ostrze{enie mo{e by^             
+OL,21, p_}nocno-zachodniego 5 do 6 w porywach 
+OL,22, 7, we wschodniej cz`|ci                
+OL,23, wzrastaj@cy na 6 do 7 w porywach 8 w   
 FL,192,194,200,200,0,100
 PN,19303
 SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     193Cpi@ 20 lis  19:10:00
+OL,0,      BTVP2     193Csob 21 lis  05:09:56
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
 OL,3,Q##!     Cwojew_dztwo pomorskie     Q"##
-OL,5,   FSilny wiatr w strefie brzegowej/1   
-OL,7, kontynuowane.                          
+OL,5,               FSztorm/2                
+OL,7, skali B.                               
+OL,8, Uwagi Ostrze{enie mo{e by^             
+OL,9, kontynuowane.                          
 FL,192,194,200,200,0,100

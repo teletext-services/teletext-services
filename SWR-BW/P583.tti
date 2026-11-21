@@ -3,28 +3,28 @@ PN,58301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G16:49:49
+OL,0,       BSWR BW C   Sa, 21.11.26G02:49:18
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN K\LN/BONN P5      
 OL,3,T#########"######################"######
-OL,4,                 STANDC16:47            
+OL,4,                 STANDC02:44            
 OL,5, Plan  Flug    Nach         Erw.  Bemerk
 OL,6, ---------------------------------------
-OL,7, 16.45 VF  518 Ankara                   
-OL,8,F17.00 EW  886 Rom-Fiumicin             
-OL,9, 17.10 EW 6899 Palma                    
-OL,10,F17.15 FR 2840 Stansted                 
-OL,11, 17.40 FR 1545 Tirana                   
-OL,12,F17.40 LH 1985 Muenchen                 
-OL,13, 17.50 FR 9326 Porto                    
-OL,14,F18.10 EW  756 Wien                     
-OL,15, 18.10 EW 8055 Berlin                   
-OL,16,F18.10 FR 2308 Malaga                   
-OL,17, 18.10 TK 1676 Istanbul                 
-OL,18,F18.30 EW  766 Zuerich                  
-OL,19, 18.50 EW  474 London-Gatw.             
-OL,20,F18.55 EW  008 Berlin                   
-OL,21, 18.55 EW  084 Muenchen                 
+OL,7, 03.05 SM 2913 Hurghada     04.05       
+OL,8,F05.10 XQ  903 Izmir                    
+OL,9, 05.45 FR  302 Las Palmas               
+OL,10,F05.45 FR 2508 Barcelona                
+OL,11, 05.55 FR 4452 Sofia                    
+OL,12,F06.00 KK  472 Aleppo                   
+OL,13, 06.10 EW  242 Fuerte.                  
+OL,14,F06.15 EW  268 Las Palmas               
+OL,15, 06.20 FR 9484 Wien                     
+OL,16,F06.50 EW  470 London-Gatw.             
+OL,17, 07.00 EW  816 Catania                  
+OL,18,F07.10 EW  646 Faro                     
+OL,19, 08.05 EW  752 Wien                     
+OL,20,F08.20 EW  534 Malaga                   
+OL,21, 09.15 FR 2308 Malaga                   
 OL,22,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -32,69 +32,11 @@ PN,58302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G16:49:49
+OL,0,       BSWR BW C   Sa, 21.11.26G02:49:18
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN K\LN/BONN P5      
 OL,3,T#########"######################"######
-OL,4,                 STANDC16:44            
-OL,5, Plan  Flug    Nach         Erw.  Bemerk
-OL,6, ---------------------------------------
-OL,7, 18.55 EW  084 Muenchen                 
-OL,8,F19.35 FR 2508 Barcelona                
-OL,9, 19.55 FR 2359 Agadir                   
-OL,10,F20.20 LH 1987 Muenchen                 
-OL,11, 20.20 OS  250 Wien                     
-OL,12,F20.30 FR 1596 Marrakesch               
-OL,13, 20.40 FR 6631 Manchester               
-OL,14,F21.20 FR 9840 Lissabon                 
-OL,15, 21.40 FR 1140 Sevilla                  
-OL,16,F22.50 W6 4782 Skopje                   
-OL,17, 23.50 FR  631 Dublin                   
-OL,18,F00.15 VF  092 Sabiha Gokce             
-OL,19, 00.55 PC 1014 Sabiha Gokce             
-OL,20,F00.55 PC 5014 Antalya                  
-OL,21, 01.05 PC 5310 Izmir                    
-OL,22,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,58303
-SC,0003
-PS,C200
-CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G16:49:49
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GFLUGHAFEN K\LN/BONN P5      
-OL,3,T#########"######################"######
-OL,4,                 STANDC16:44            
-OL,5, Plan  Flug    Nach         Erw.  Bemerk
-OL,6, ---------------------------------------
-OL,7, 02.00 XR 6573 Hurghada                 
-OL,8,F03.05 SM 2913 Hurghada                 
-OL,9, 05.10 XQ  903 Izmir                    
-OL,10,F05.45 FR  302 Las Palmas               
-OL,11, 05.45 FR 2508 Barcelona                
-OL,12,F05.55 FR 4452 Sofia                    
-OL,13, 06.00 KK  472 Aleppo                   
-OL,14,F06.10 EW  242 Fuerte.                  
-OL,15, 06.15 EW  268 Las Palmas               
-OL,16,F06.20 FR 9484 Wien                     
-OL,17, 06.50 EW  470 London-Gatw.             
-OL,18,F07.00 EW  816 Catania                  
-OL,19, 07.10 EW  646 Faro                     
-OL,20,F08.05 EW  752 Wien                     
-OL,21, 08.20 EW  534 Malaga                   
-OL,22,V                                       
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,58304
-SC,0004
-PS,C200
-CT,10,T
-OL,0,       BSWR BW C   Fr, 20.11.26G16:49:49
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GFLUGHAFEN K\LN/BONN P5      
-OL,3,T#########"######################"######
-OL,4,                 STANDC16:47            
+OL,4,                 STANDC02:44            
 OL,5, Plan  Flug    Nach         Erw.  Bemerk
 OL,6, ---------------------------------------
 OL,7, 09.20 VL 1973 Muenchen                 
@@ -112,6 +54,64 @@ OL,18,F12.15 FR 7670 Fuerte.
 OL,19, 12.35 EW  924 Pristina                 
 OL,20,F12.45 EW  582 Palma                    
 OL,21, 12.50 FR 5276 Palermo                  
+OL,22,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,58303
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Sa, 21.11.26G02:49:18
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GFLUGHAFEN K\LN/BONN P5      
+OL,3,T#########"######################"######
+OL,4,                 STANDC02:44            
+OL,5, Plan  Flug    Nach         Erw.  Bemerk
+OL,6, ---------------------------------------
+OL,7, 13.05 EW  252 Teneriffa                
+OL,8,F13.10 VL 1979 Muenchen                 
+OL,9, 13.20 FR 2840 Stansted                 
+OL,10,F13.40 XQ  115 Antalya                  
+OL,11, 14.05 EW 8053 Berlin                   
+OL,12,F14.10 EW 5424 Las Palmas               
+OL,13, 14.35 EW  270 Las Palmas               
+OL,14,F14.35 FR 4764 Stockholm                
+OL,15, 14.45 FR 5532 Mailand                  
+OL,16,F15.15 PC 1018 Sabiha Gokce             
+OL,17, 15.25 FR 9326 Porto                    
+OL,18,F15.40 FR 5520 Palma                    
+OL,19, 15.55 VF  090 Sabiha Gokce             
+OL,20,F16.00 XR  523 Las Palmas               
+OL,21, 16.30 FR 4450 Paphos                   
+OL,22,V                                       
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,58304
+SC,0004
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   Sa, 21.11.26G02:49:18
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GFLUGHAFEN K\LN/BONN P5      
+OL,3,T#########"######################"######
+OL,4,                 STANDC02:44            
+OL,5, Plan  Flug    Nach         Erw.  Bemerk
+OL,6, ---------------------------------------
+OL,7, 17.15 EW  652 Thessaloniki             
+OL,8,F17.40 VL 1985 Muenchen                 
+OL,9, 17.55 FR 5602 Kaunas                   
+OL,10,F18.10 TK 1676 Istanbul                 
+OL,11, 18.20 EW  382 Tunis                    
+OL,12,F18.30 FR 4481 Sofia                    
+OL,13, 19.00 FR 1355 Alicante                 
+OL,14,F19.25 W6 4300 Tuzla                    
+OL,15, 19.35 XQ  787 Ankara                   
+OL,16,F20.30 FR 2257 Valencia                 
+OL,17, 20.40 FR 9481 Wien                     
+OL,18,F21.25 RK 2815 Stansted                 
+OL,19, 21.30 3O  224 Nador                    
+OL,20,F22.35 W6 7604 Podgorica                
+OL,21, 22.45 W4 5122 Tirana                   
 OL,22,V                                       
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
