@@ -3,24 +3,24 @@ PN,29301
 SC,0001
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:11
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:34
 OL,1,F]DKOSZYKOWKA kobiet    8. kolejka ]FKK 
 OL,2,FPolonia         - Isands         72:54 
-OL,3, Wis}a           - Artego    21.11 17:00
-OL,4, AZS Pozna$      - Energa          18:00
-OL,5,FMKS Pruszk_w    - \l`za     22.11 18:00
-OL,6,FEnea Gorz_w     - MOSiR Bochnia   18:00
-OL,7,FWidzew          - AZS Lublin      19:00
+OL,3, Wis}a           - Artego         76:60 
+OL,4, AZS Pozna$      - Energa         76:50 
+OL,5,FMKS Pruszk_w    - \l`za          65:80 
+OL,6,FEnea Gorz_w     - MOSiR Bochnia  99:84 
+OL,7,FWidzew          - AZS Lublin     75:83 
 OL,9,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
-OL,10,                F1D? ? ? ? ?       Fpkt.
+OL,10,                F1 1 1 2 1 2        pkt.
 OL,11,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
-OL,12, Marysia        F1G1 1 2 1 1        F31 
-OL,13, RESOVIAK       F1G1 1 2 1 2        F28 
-OL,14, EkrudyDref     F1G1 1 2 1 2        F27 
-OL,15, Hegemon01      F1G1 1 2 1 2        F26 
-OL,16, Go|^5z36       F1G1 2 2 2 1        F22 
-OL,17, Strzelba       F1G1 1 1 1 1        F17 
+OL,12, Marysia        F1 1 1 2 1D1        F36 
+OL,13, RESOVIAK       F1 1 1 2 1 2         34 
+OL,14, EkrudyDref     F1 1 1 2 1 2         33 
+OL,15, Hegemon01      F1 1 1 2 1 2         32 
+OL,16, Go|^5z36       F1 1D2F2D2 1        F25 
+OL,17, Strzelba       F1 1 1D1F1D1        F21 
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
@@ -28,24 +28,24 @@ PN,29302
 SC,0002
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:11
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:34
 OL,1,F]DKOSZYKOWKA kobiet    9. kolejka ]FKK 
-OL,2, MOSiR Bochnia - Polonia     25.11 18:00
-OL,3,FIsands        - Widzew      28.11 18:00
-OL,4,FArtego        - MKS Pruszk_w      18:00
-OL,5,FZag}`bie      - Wis}a             18:00
+OL,2, MOSiR Bochnia - Polonia     26.11 18:00
+OL,3,FIsands        - Widzew      28.11 17:00
+OL,4, Artego        - MKS Pruszk_w29.11 18:00
+OL,5,FZag}`bie      - Wis}a       28.11 18:00
 OL,6, \l`za         - AZS Pozna$  29.11 18:00
-OL,7, Energa        - Enea Gorz_w       17:00
+OL,7, Energa        - Enea Gorz_w 29.11 17:00
 OL,9,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,10,                D? ? ? ? ? ?       Fpkt.
 OL,11,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
-OL,12, Marysia                            F31 
-OL,13, RESOVIAK        2 2 1 1 1 2        F28 
-OL,14, EkrudyDref                         F27 
-OL,15, Hegemon01       2 2 1 1 1 2        F26 
-OL,16, Go|^5z36        1 1 1 2 2 1        F22 
-OL,17, Strzelba        1 1 1 1 1 1        F17 
+OL,12, Marysia                            F36 
+OL,13, RESOVIAK        2 2 1 1 1 2        F34 
+OL,14, EkrudyDref      2 2 1 2 1 2        F33 
+OL,15, Hegemon01       2 2 1 1 1 2        F32 
+OL,16, Go|^5z36        1 1 1 2 2 1        F25 
+OL,17, Strzelba        1 1 1 1 1 1        F21 
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
@@ -53,11 +53,11 @@ PN,29303
 SC,0003
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:11
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:34
 OL,1,F]DKOSZYKOWKA kobiet   10. kolejka ]FKK 
 OL,2, Widzew       - MOSiR Bochnia04.12 18:00
-OL,3,FArtego        - Zag}`bie    05.12 17:00
+OL,3,FArtego        - Zag}`bie    05.12 18:00
 OL,4, Wis}a         - AZS Lublin  06.12 17:00
 OL,5, MKS Pruszk_w  - AZS Pozna$        15:00
 OL,6, Polonia       - Energa            18:00
@@ -78,15 +78,15 @@ PN,29304
 SC,0004
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:11
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:35
 OL,1,F]DKOSZYKOWKA kobiet   11. kolejka ]FKK 
-OL,2, Isands-Wis}a                09.12 17:00
-OL,3, AZS Lublin-Artego                 17:00
-OL,4, \l`za-Polonia                     17:00
-OL,5, Zag}ebie-MKS Pruszk_w             17:00
-OL,6, AZS Pozna$-AZS Gorz_w Wlkp.       19:00
-OL,7, Energa Toru$-Widzew               19:00
+OL,2, Isands <-> Wis}a            09.12 18:00
+OL,3, AZS Lublin-Artego           09.12 20:00
+OL,4, \l`za-Polonia               09.12 18:30
+OL,5, Zag}ebie-MKS Pruszk_w       09.12 18:00
+OL,6, AZS Pozna$-AZS Gorz_w Wlkp. 09.12 19:00
+OL,7, Energa Toru$-Widzew         09.12 19:00
 OL,9,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,10,                D? ? ? ? ? ?       Fpkt.
 OL,11,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
@@ -103,8 +103,8 @@ PN,29305
 SC,0005
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:11
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:35
 OL,1,F]DKOSZYKOWKA kobiet   12. kolejka ]FKK 
 OL,2, Zag}`bie-AZS Lublin         12.12 17:00
 OL,3, Wis}a-MOSIR Bochnia               17:00
@@ -128,8 +128,8 @@ PN,29306
 SC,0006
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:11
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:35
 OL,1,F]DKOSZYKOWKA kobiet   13. kolejka ]FKK 
 OL,2, AZS Lublin-MKS Pruszkow     16.12 17:00
 OL,3, AZS Gorzow Wlkp.-Polonia          17:00
@@ -153,8 +153,8 @@ PN,29307
 SC,0007
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:11
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:35
 OL,1,F]DKOSZYKOWKA kobiet   14. kolejka ]FKK 
 OL,2, Sleza-Wisla                 19.12 17:00
 OL,3, Isands-AZS Lublin                 17:00
@@ -178,8 +178,8 @@ PN,29308
 SC,0008
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:11
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:35
 OL,1,F]DKOSZYKOWKA kobiet   15. kolejka ]FKK 
 OL,2, Widzew-Polonia              22.12 17:00
 OL,3, Zaglebie-Energa Torun             17:00
@@ -203,8 +203,8 @@ PN,29309
 SC,0009
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:12
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:35
 OL,1,F]DKOSZYKOWKA kobiet   16. kolejka ]FKK 
 OL,2, Isands-MOSIR Bochnia        29.12 17:00
 OL,3, Sleza-Zaglebie                    17:00
@@ -228,26 +228,26 @@ PN,29310
 SC,0010
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:12
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:35
 OL,1,F]DKOSZYKOWKA m`{czyzn8,13.kolejka ]FKM 
 OL,2, Astoria      - Czarni          95:58   
 OL,3, G_rnik       - GTK Gliwice     70:52   
-OL,4,FKing         - Anwil        21.11 17.30
-OL,5, Zastal       - Dziki        22.11 12.30
+OL,4,FKing         - Anwil           80:97   
+OL,5, Zastal       - Dziki           83:96   
 OL,6,FStart        - Arriva          94:101  
-OL,7, Stal         - Arka         22.11 17.30
-OL,8, \l@sk        - Trefl              15.00
-OL,9, MKS D@browa  - Legia              19.30
+OL,7, Stal         - Arka            82:86   
+OL,8, \l@sk        - Trefl           87:83   
+OL,9, MKS D@browa  - Legia           93:81   
 OL,10,FAnwil        - \l@sk        03.12 20:00
-OL,11,              F1 1D? ?F2D? ? ?  ?  Fpkt.
+OL,11,              F1 1 2 2 2 2 1 1 D?  Fpkt.
 OL,12,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
-OL,13, Marysia      F1 1G1 2D1G2 1 1  2   F33 
-OL,14, EkrudyDref   F1 1G1 2F2G2 1 1  1   F31 
-OL,15, Hegemon01    F1 1G1 2F2G2 1 1  1   F31 
-OL,16, Strzelba     F1 1G2 1F2G1 2 1  1   F31 
-OL,17, Go|^5z36     F1D2G1 2D1G2 1 2  1   F27 
-OL,18, RESOVIAK     D2F1G1 2D1G1 1 2  1   F25 
+OL,13, Marysia      F1 1D1F2D1F2 1 1 G2   F33 
+OL,14, EkrudyDref   F1 1D1F2 2 2 1 1 G1   F31 
+OL,15, Hegemon01    F1 1D1F2 2 2 1 1 G1   F31 
+OL,16, Strzelba     F1 1 2D1F2D1 2F1 G1   F31 
+OL,17, Go|^5z36     F1D2 1F2D1F2 1D2 G1   F27 
+OL,18, RESOVIAK     D2F1D1F2D1 1F1D2 G1   F25 
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
@@ -255,44 +255,197 @@ PN,29311
 SC,0011
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:12
-OL,1,C]DSIATKOWKA kobiet            8.  ]CSK 
-OL,2, DevelopRes Rzesz_w - UNI Opole     3:1 
-OL,3, #VolleyWroc}aw - Sok_} & Hagric    2:3 
-OL,4,CPGE Budowlani - BKS ZGO Bielsko    3:0 
-OL,5,CMetalkas Pa}ac - ]KS Commercecon  19.00
-OL,6, MKS Kalisz - MOYA Radomka   22.11 15:00
-OL,7,CLOTTO Chemik -ITA TOOLS STAL23.11 17.30
-OL,9,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
-OL,10,                C1B2C1D? ? ?       Cpkt.
-OL,11,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
-OL,12,CGo|^1z92        1F1C1G2 2 1       C101 
-OL,13,CBadboy          1F1C1G2 2 1        C97 
-OL,14,CRESOVIAK        1F1C1G2 2 1        C95 
-OL,15,CHegemon01       1F1C1G2 2 1        C92 
-OL,16,CEkrudyDref      1F1C1G2 2 1        C91 
-OL,17,CMarysia         1F1C1G2 2 1        C86 
-OL,18,CStrzelba        1F1C1G1 1 1        C65 
-OL,19,CPjablo                              14 
-OL,21,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
-OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie  
-OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:35
+OL,1,F]DKOSZYKOWKA m`{czyzn8, 9.kolejka ]FKM 
+OL,2, Gornik-Twarde Pierniki      04.12 18:00
+OL,3, Legia-Astoria 2                   20:15
+OL,4, King-Stal                   05.12 15:00
+OL,5, Arka-Dziki                        17:30
+OL,6, Start-Slask                 06.12 12:30
+OL,7, Trefl-Zastal                      17:30
+OL,8, Czarni-GTK Gliwice          07.12 18:00
+OL,9, Anwil-Dabrowa Gornicza            20:15
+OL,10,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,11,              D? ? ? ? ? ? ? ?     Fpkt.
+OL,12,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,13, Marysia                                
+OL,14, EkrudyDref                             
+OL,15, Hegemon01                              
+OL,16, Strzelba                               
+OL,17, Go|^5z36                               
+OL,18, RESOVIAK                               
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
 PN,29312
 SC,0012
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:12
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:35
+OL,1,F]DKOSZYKOWKA m`{czyzn  10.kolejka ]FKM 
+OL,2, Legia-GTK Gliwice           10.12 19:00
+OL,3, Twarde Pierniki-Czarni      11.12 20:15
+OL,4, Gornik-Slask                12.12 12:30
+OL,5, King-Dziki                        15:00
+OL,6, Astoria-Anwil                     17:30
+OL,7, Trefl-Start                       19:45
+OL,8, Zastal-Arka                 13.12 12:30
+OL,9, Dabrowa Gornicza                  15:00
+OL,10,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,11,              D? ? ? ? ? ? ? ?     Fpkt.
+OL,12,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,13, Marysia                                
+OL,14, EkrudyDref                             
+OL,15, Hegemon01                              
+OL,16, Strzelba                               
+OL,17, Go|^5z36                               
+OL,18, RESOVIAK                               
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,24,   A292      B294      C295      F296   
+FL,292,294,295,296,0,100
+PN,29313
+SC,0013
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:35
+OL,1,F]DKOSZYKOWKA m`{czyzn  11.kolejka ]FKM 
+OL,2, Stal-Astoria                18.12 18:00
+OL,3, Start-Zastal                      20:15
+OL,4, Arka-King                   19.12 12:30
+OL,5, Legia-Twarde Pierniki             15:00
+OL,6, Slask-Czarni                      17:30
+OL,7, Dziki-Dabrowa Gornicza      20.12 12:30
+OL,8, Gornik-Trefl  ,                   17:30
+OL,9, GTK Gliwice-Anwil           21.12 18:00
+OL,10,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,11,              D? ? ? ? ? ? ? ?     Fpkt.
+OL,12,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,13, Marysia                                
+OL,14, EkrudyDref                             
+OL,15, Hegemon01                              
+OL,16, Strzelba                               
+OL,17, Go|^5z36                               
+OL,18, RESOVIAK                               
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,24,   A292      B294      C295      F296   
+FL,292,294,295,296,0,100
+PN,29314
+SC,0014
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:35
+OL,1,F]DKOSZYKOWKA m`{czyzn  13.kolejka ]FKM 
+OL,2, Czarni-Start                23.12 17:30
+OL,3, Stal-Twarde Pierniki              18:00
+OL,4, Arka-Astoria                      19:00
+OL,10,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,11,              D? ? ? ? ? ? ? ?     Fpkt.
+OL,12,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,13, Marysia                                
+OL,14, EkrudyDref                             
+OL,15, Hegemon01                              
+OL,16, Strzelba                               
+OL,17, Go|^5z36                               
+OL,18, RESOVIAK                               
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,24,   A292      B294      C295      F296   
+FL,292,294,295,296,0,100
+PN,29315
+SC,0015
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:36
+OL,1,F]DKOSZYKOWKA m`{czyzn  12.kolejka ]FKM 
+OL,2, Zastal-King                 26.12 12:30
+OL,3, Czarni-Trefl                      15:00
+OL,4, Twarde Pierniki-Anwil             17:30
+OL,5, Slask-Legia                       20:00
+OL,6, Arka-Dabrowa                27.12 12:30
+OL,7, Stal-GTK Gliwice                  15:00
+OL,8, Start-Gornik                      17:30
+OL,9, Astoria-Dziki                     20:00
+OL,10,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,11,              D? ? ? ? ? ? ? ?     Fpkt.
+OL,12,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,13, Marysia                                
+OL,14, EkrudyDref                             
+OL,15, Hegemon01                              
+OL,16, Strzelba                               
+OL,17, Go|^5z36                               
+OL,18, RESOVIAK                               
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,24,   A292      B294      C295      F296   
+FL,292,294,295,296,0,100
+PN,29316
+SC,0016
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:36
+OL,1,F]DKOSZYKOWKA m`{czyzn  13.kolejka ]FKM 
+OL,2, Legia-Trefl                 29.12 19:00
+OL,3, Gornik-Zastal               30.12 17:30
+OL,4, Dabrowa Gornicza-King             18:00
+OL,5, Dziki-GTK Gliwice                 19:00
+OL,10,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,11,                      D? ? ? ?     Fpkt.
+OL,12,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,13, Marysia                                
+OL,14, EkrudyDref                             
+OL,15, Hegemon01                              
+OL,16, Strzelba                               
+OL,17, Go|^5z36                               
+OL,18, RESOVIAK                               
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,24,   A292      B294      C295      F296   
+FL,292,294,295,296,0,100
+PN,29317
+SC,0017
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:36
+OL,1,C]DSIATKOWKA kobiet            8.  ]CSK 
+OL,2, DevelopRes Rzesz_w - UNI Opole     3:1 
+OL,3, #VolleyWroc}aw - Sok_} & Hagric    2:3 
+OL,4,CPGE Budowlani - BKS ZGO Bielsko    3:0 
+OL,5,CMetalkas Pa}ac - ]KS Commercecon   0:3 
+OL,6, NETLAND MKS Kalisz - MOYA Radomka  3:1 
+OL,7,CLOTTO Chemik -ITA TOOLS STAL23.11 17.30
+OL,9,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,10,                C1B2C1 2 1D?       Cpkt.
+OL,11,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,12,CGo|^1z92        1F1C1 2D2G1       C101 
+OL,13,CBadboy          1F1C1 2D2G1        C97 
+OL,14,CRESOVIAK        1F1C1 2D2G1        C95 
+OL,15,CHegemon01       1F1C1 2D2G1        C92 
+OL,16,CEkrudyDref      1F1C1 2D2G1        C91 
+OL,17,CMarysia         1F1C1 2D2G1        C86 
+OL,18,CStrzelba        1F1C1D1C1G1        C65 
+OL,19,CPjablo                              14 
+OL,21,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
+OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie  
+OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
+OL,24,   A292      B294      C295      F296   
+FL,292,294,295,296,0,100
+PN,29318
+SC,0018
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:36
 OL,1,C]DSIATKOWKA kobiet            9.  ]CSK 
-OL,2, Stal Mielec-Calisia         27.11 18:00
-OL,3, LKS-Volley Wroclaw                18:00
-OL,4, Sokol-Budowlani             28.11 18:00
+OL,2, Stal Mielec-Calisia         27.11 17:30
+OL,3, LKS-Volley Wroclaw          27.11 20:30
+OL,4,CSokol-Budowlani             28.11 19:00
 OL,5, Radomka-UNI Opole           29.11 18:00
-OL,6, Rysice-Palac                      18:00
-OL,7, Stal Bielsko-Biala-Chemik   30.11 18:00
+OL,6, Rysice-Palac                29.11 20:30
+OL,7,CStal Bielsko-Biala-Chemik   30.11 19:00
 OL,9,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,10,                D? ? ? ? ? ?       Cpkt.
 OL,11,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
@@ -300,7 +453,7 @@ OL,12,CGo|^1z92                           101
 OL,13,CBadboy         G1 1 2 1 1 1        C97 
 OL,14,CRESOVIAK       G1 1 2 1 1 2        C95 
 OL,15,CHegemon01      G1 1 2 2 1 1        C92 
-OL,16,CEkrudyDref                          91 
+OL,16,CEkrudyDref     G2 1 2 2 1 2        C91 
 OL,17,CMarysia                             86 
 OL,18,CStrzelba       G1 1 1 1 1 1        C65 
 OL,19,CPjablo                              14 
@@ -309,19 +462,19 @@ OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie
 OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29313
-SC,0013
+PN,29319
+SC,0019
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:12
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:36
 OL,1,C]DSIATKOWKA kobiet           10.  ]CSK 
 OL,2, Palac-Radomka               03.12 20:30
-OL,3, UNI Opole-Stal Mielec       05.12 18:00
-OL,4, Sokol-LKS                   06.12 18:00
-OL,5, Volley Wroclaw-Rysice             18:00
-OL,6, Calisia-Stal Bielsko-Biala  07.12 18:00
-OL,7, Budowlani-Chemik                  18:00
+OL,3,CUNI Opole-Stal Mielec       05.12 18:00
+OL,4,CSokol-LKS                   05.12 12:00
+OL,5, Volley Wroclaw-Rysice       06.12 18:00
+OL,6,CCalisia-Stal Bielsko-Biala  07.12 20:30
+OL,7,CBudowlani-Chemik            07.12 17:30
 OL,9,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,10,                D? ? ? ? ? ?       Cpkt.
 OL,11,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
@@ -338,12 +491,12 @@ OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie
 OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29314
-SC,0014
+PN,29320
+SC,0020
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:12
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:36
 OL,1,C]DSIATKOWKA kobiet           11.  ]CSK 
 OL,2, Radomka-LKS                 10.12 18:00
 OL,3, CalisiaUNI Opole                  18:00
@@ -367,12 +520,12 @@ OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie
 OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29315
-SC,0015
+PN,29321
+SC,0021
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:12
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:36
 OL,1,C]DSIATKOWKA kobiet           12.  ]CSK 
 OL,2, Radomka-Sokol               18.12 18:00
 OL,3, Stal Mielec-Volley Wroclaw  19.12 18:00
@@ -396,107 +549,107 @@ OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie
 OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29316
-SC,0016
+PN,29322
+SC,0022
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:12
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:36
 OL,1,C]DSIATKOWKA m`{czyzn   7. kolejka ]CSM 
 OL,2,CCuprum Stilon -LUK Lublin          0:3 
 OL,3, NEONET Norwid - PGE Projekt        1:3 
 OL,4, Jastrz`bie Barkom<->ZAKSA          1:3 
 OL,5,CEnerga Indykpol - GKS Katowice     2:3 
-OL,6, Asseco Resovia - PGE GiEK SKRA    15:00
-OL,7, ChKS Che}m - Energa Trefl   21.11 20:30
-OL,8, Aluron CMC Warta - \lepsk Malow   18:00
+OL,6, Asseco Resovia - PGE GiEK SKRA     3:2 
+OL,7, ChKS Che}m - Energa Trefl Gda$sk   1:3 
+OL,8, Aluron CMC Warta - \lepsk Malow    3:0 
 OL,9,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
-OL,10,                C2 2 2B2D? ? ?     Cpkt.
+OL,10,                C2 2 2B2 1C2 1      pkt.
 OL,11,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
-OL,12,CGo|^1z92        2 2 2F1G1 2 1     C102 
-OL,13,CRESOVIAK        2 2 2F1G1 2 1     C102 
-OL,14,CBadboy          2 2 2F1G1 2 1     C100 
-OL,15,CEkrudyDref      2 2 2B2G1 1 1      C90 
-OL,16,CHegemon01       2 2D1B2G1 1 1      C87 
-OL,17,CMarysia         2 2 2B2G1 1 2      C84 
-OL,18,CStrzelba        2 2 2F1G1 2 1      C67 
+OL,12,CGo|^1z92        2 2 2F1B1C2 1      120 
+OL,13,CRESOVIAK        2 2 2F1B1C2 1      120 
+OL,14,CBadboy          2 2 2F1B1C2 1      118 
+OL,15,CEkrudyDref      2 2 2B2 1D1C1      106 
+OL,16,CHegemon01       2 2D1B2 1D1C1      100 
+OL,17,CMarysia         2 2 2B2 1D1 2      C97 
+OL,18,CStrzelba        2 2 2F1B1C2 1       85 
 OL,21,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie  
 OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29317
-SC,0017
+PN,29323
+SC,0023
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:12
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:36
 OL,1,C]DSIATKOWKA m`{czyzn   8. kolejka ]CSM 
-OL,2, Trefl-Norwid                24.11 18:00
-OL,3, Warta-Barkom Chazany              18:00
-OL,4, AZS Olsztyn-Resovia         25.11 18:00
-OL,5, LUK Lublin-Slepsk                 18:00
-OL,6, GKS Katowice-Projekt              18:00
+OL,2, Trefl-Norwid                24.11 17:30
+OL,3, Warta-Barkom Chazany              20:30
+OL,4, AZS Olsztyn-Resovia         25.11 17:30
+OL,5, LUK Lublin-Slepsk           23.11 20:30
+OL,6, GKS Katowice-Projekt        25.11 20:30
 OL,9,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,10,                D? ? ? ? ?         Cpkt.
 OL,11,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
-OL,12,CGo|^1z92       G1 1 2 1 2              
-OL,13,CRESOVIAK       G1 1 2 1 2              
-OL,14,CBadboy         G1 1 2 1 1              
-OL,15,CEkrudyDref                             
-OL,16,CHegemon01      G1 1 2 1 2              
-OL,17,CMarysia                                
-OL,18,CStrzelba       G1 1 1 1 1              
+OL,12,CGo|^1z92       G1 1 2 1 2         C120 
+OL,13,CRESOVIAK       G1 1 2 1 2         C120 
+OL,14,CBadboy         G1 1 2 1 1         C118 
+OL,15,CEkrudyDref     G1 1 2 1 2         C106 
+OL,16,CHegemon01      G1 1 2 1 2         C100 
+OL,17,CMarysia        G1 1 2 1 1          C97 
+OL,18,CStrzelba       G1 1 1 1 1          C85 
 OL,21,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie  
 OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29318
-SC,0018
+PN,29324
+SC,0024
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:12
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:36
 OL,1,C]DSIATKOWKA m`{czyzn   9. kolejka ]CSM 
-OL,2, Resovia-GKS Katowice        28.11 18:00
-OL,3, Barkom Chazany-LUK Lublin         18:00
-OL,4, Slepsk-Skra                       18:00
-OL,5, Norwid-ZAKSA                      18:00
-OL,6, CHKS Chelm-Warta            29.11 18:00
-OL,7, Cuprum Stilon-AZS Olsztyn   30.11 18:00
-OL,8, Projekt-Trefl                     18:00
+OL,2, Resovia-GKS Katowice        30.11 17:30
+OL,3,CBarkom Chazany-LUK Lublin   28.11 20:30
+OL,4,CSlepsk-Skra                 28.11 12:00
+OL,5,CNorwid-ZAKSA                28.11 15:00
+OL,6, CHKS Chelm-Warta            29.11 15:00
+OL,7,CCuprum Stilon-AZS Olsztyn   28.11 18:00
+OL,8, Projekt-Trefl               30.11 20:30
 OL,9,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,10,                D? ? ? ? ? ? ?     Cpkt.
 OL,11,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
-OL,12,CBadboy         G1 2 2 1 2 2 1          
-OL,13,CGo|^1z92       G1 2 2 2 2 2 1          
-OL,14,CRESOVIAK       G1 2 2 2 2 2 1          
-OL,15,CEkrudyDref                             
-OL,16,CHegemon01      G2 2 2 2 2 2 1          
-OL,17,CMarysia                                
-OL,18,CStrzelba       G1 2 2 2 2 2 2          
+OL,12,CRESOVIAK       G1 2 2 2 2 2 1     C120 
+OL,13,CGo|^1z92       G1 2 2 2 2 2 1     C120 
+OL,14,CBadboy         G1 2 2 1 2 2 1     C118 
+OL,15,CEkrudyDref                         106 
+OL,16,CHegemon01      G2 2 2 2 2 2 1     C100 
+OL,17,CMarysia                             97 
+OL,18,CStrzelba       G1 2 2 2 2 2 2      C85 
 OL,21,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie  
 OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29319
-SC,0019
+PN,29325
+SC,0025
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:13
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:37
 OL,1,C]DSIATKOWKA m`{czyzn 8+10 kolejka ]CSM 
-OL,2,CZAKSA-CHKS Chelm            02.12 18:00
-OL,3,CSkra-Cuprum Stilon                18:00
-OL,4, AZS Olsztyn-Slepsk          03.12 18:00
-OL,5, LUK Lublin-CHKS Chelm       04.12 18:00
-OL,6, Warta-Norwid                      18:00
-OL,7, Resovia-Cuprum Stilon       05.12 18:00
-OL,8, GKS Katowice-Trefl                18:00
-OL,9, Skra-Barkom Chazany               18:00
-OL,10, ZAKSA-Projekt               06.12 18:00
+OL,2,CZAKSA-CHKS Chelm            02.12 17:30
+OL,3,CSkra-Cuprum Stilon                20:30
+OL,4, AZS Olsztyn-Slepsk          03.12 17:00
+OL,5,CLUK Lublin-CHKS Chelm       04.12 17:30
+OL,6,CWarta-Norwid                04.12 20:30
+OL,7,FResovia-Cuprum Stilon       05.12 18:00
+OL,8, GKS Katowice-Trefl          06.12 20:30
+OL,9,CSkra-Barkom Chazany         04.12 20:30
+OL,10, ZAKSA-Projekt               06.12 15:00
 OL,11,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
 OL,12,                D? ? ? ? ? ? ? ? ? Cpkt.
 OL,13,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,T,,,,
@@ -512,12 +665,12 @@ OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie
 OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29320
-SC,0020
+PN,29326
+SC,0026
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:13
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:37
 OL,1,C]DSIATKOWKA m`{czyzn  11. kolejka ]CSM 
 OL,2, CHKS Chelm-Skra             12.12 18:00
 OL,3, Barkom Chazany-AZS Olsztyn        18:00
@@ -541,12 +694,12 @@ OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie
 OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29321
-SC,0021
+PN,29327
+SC,0027
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:13
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:37
 OL,1,C]DSIATKOWKA m`{czyzn  12. kolejka ]CSM 
 OL,2, AZS Olsztyn-CHKS Chelm      17.12 18:00
 OL,3, Cuprum Stilon-Slepsk        18.12 18:00
@@ -569,12 +722,12 @@ OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie
 OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29322
-SC,0022
+PN,29328
+SC,0028
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:13
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:37
 OL,1,C]DSIATKOWKA m`{czyzn  13. kolejka ]CSM 
 OL,2, ZAKSA-Skra                  22.12 18:00
 OL,3, CHKS Chelm-Slepsk                 18:00
@@ -598,72 +751,42 @@ OL,22,CWygrana bez tie-breaka 3 pkt.,Bpo tie
 OL,23,B-breaku 2,Fprzegrana po tie-breaku 1.  
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29323
-SC,0023
+PN,29329
+SC,0029
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:13
-OL,1, ]DPOLSKA HOKEJ LIGA         20.F]DPHL  
-OL,2, Cracovia      - Unia              3:6  
-OL,3, GKS Tychy     - GKS Katowice      3:1  
-OL,4, Podhale       - KH Energa         4:11 
-OL,5, Polonia       - Jastrz`bie        3:1  
-OL,6, STS Sanok     - Zag}`bie          2:3  
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:37
+OL,1, ]DPOLSKA HOKEJ LIGA         21.F]DPHL  
+OL,2, Jastrz`bie    - Cracovia          1:5  
+OL,3, KH Energa     - Polonia           4:0  
+OL,4, Podhale       - GKS Katowice      2:10 
+OL,5, Unia          - STS Sanok         3:0  
+OL,6, Zag}`bie      - GKS Tychy         1:3  
 OL,8,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
 OL,9,                  F2 1 2 1 2        pkt.
 OL,10,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
-OL,11,FEkrudyDref        2 1 2 1 2         68 
-OL,12,FGo|^1z92         DXF1 2 1 2         66 
-OL,13,FMarysia           2 1 2 1 2         67 
-OL,14,FSpeedwayer86      2 1 2 1 2         66 
-OL,15,FRESOVIAK          2 1 2 1 2         65 
-OL,16,FAgencik           2D2F2 1 2         60 
-OL,17,FGambler          DX XF2 1 2         58 
-OL,18,FHegemon01         2D2F2 1D1        F56 
-OL,19,FGo|^5z36          2 1 2 1 2         52 
-OL,20,FBadboy            2D2F2 1 2         49 
-OL,21,FStrzelba         D1F1D1F1D1        F45 
+OL,11,FEkrudyDref       D1 2F2 1 2         71 
+OL,12,FMarysia          D1F1 2 1 2         71 
+OL,13,FGo|^1z92         DXF1 2 1DX        F69 
+OL,14,FSpeedwayer86     D1 XF2 1 2         69 
+OL,15,FRESOVIAK         D1 2F2 1 2         68 
+OL,16,FAgencik          D1 2F2 1 2         63 
+OL,17,FGambler           2 1 2 1DX        F62 
+OL,18,FHegemon01         2D2F2 1 2         60 
+OL,19,FGo|^5z36         D1F1 2 1 2         56 
+OL,20,FBadboy           DX 2F2 1D1        F51 
+OL,21,FStrzelba         D1F1D1F1D1        F47 
 OL,22,FPjablo                               4 
 OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29324
-SC,0024
+PN,29330
+SC,0030
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:13
-OL,1, ]DPOLSKA HOKEJ LIGA         21.F]DPHL  
-OL,2, Jastrz`bie    - Cracovia    22.11 18:00
-OL,3, KH Energa     - Polonia           18:00
-OL,4, Podhale       - GKS Katowice      18:00
-OL,5, Unia          - STS Sanok         18:00
-OL,6, Zag}`bie      - GKS Tychy         18:00
-OL,8,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
-OL,9,                  D? ? ? ? ?       Fpkt.
-OL,10,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
-OL,11,FEkrudyDref       G1 2 2 1 2        F68 
-OL,12,FMarysia          G1 1 2 1 2        F67 
-OL,13,FGo|^1z92         GX 1 2 1 X        F66 
-OL,14,FSpeedwayer86                        66 
-OL,15,FRESOVIAK         G1 2 2 1 2        F65 
-OL,16,FAgencik                             60 
-OL,17,FGambler                             58 
-OL,18,FHegemon01        G2 2 2 1 2        F56 
-OL,19,FGo|^5z36         G1 1 2 1 2        F52 
-OL,20,FBadboy           GX 2 2 1 1        F49 
-OL,21,FStrzelba         G1 1 1 1 1        F45 
-OL,22,FPjablo                               4 
-OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
-OL,24,   A292      B294      C295      F296   
-FL,292,294,295,296,0,100
-PN,29325
-SC,0025
-PS,C000
-RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:13
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:37
 OL,1, ]DPOLSKA HOKEJ LIGA         22.F]DPHL  
 OL,2, Cracovia      - KH Energa   27.11 18:00
 OL,3, GKS Tychy     - Unia              18:00
@@ -673,27 +796,27 @@ OL,6, Zag}`bie      - GKS Katowice      18:00
 OL,8,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
 OL,9,                  D? ? ? ? ?       Fpkt.
 OL,10,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
-OL,11,FEkrudyDref                             
-OL,12,FMarysia                                
-OL,13,FGo|^1z92         GX 1 2 2 X            
-OL,14,FSpeedwayer86                           
-OL,15,FRESOVIAK         G2 2 2 2 2            
-OL,16,FAgencik                                
-OL,17,FGambler                                
-OL,18,FHegemon01        G2 1 2 1 2            
-OL,19,FGo|^5z36         G2 2 2 1 2            
-OL,20,FBadboy           G2 1 2 X X            
-OL,21,FStrzelba         G1 1 1 1 1            
-OL,22,FPjablo                                 
+OL,11,FEkrudyDref       G2 1 2 2 X        F71 
+OL,12,FMarysia                             71 
+OL,13,FGo|^1z92         GX 1 2 2 X        F69 
+OL,14,FSpeedwayer86                        69 
+OL,15,FRESOVIAK         G2 2 2 2 2        F68 
+OL,16,FAgencik                             63 
+OL,17,FGambler                             62 
+OL,18,FHegemon01        G2 1 2 1 2        F60 
+OL,19,FGo|^5z36         G2 2 2 1 2        F56 
+OL,20,FBadboy           G2 1 2 X X        F51 
+OL,21,FStrzelba         G1 1 1 1 1        F47 
+OL,22,FPjablo                               4 
 OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29326
-SC,0026
+PN,29331
+SC,0031
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:13
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:37
 OL,1, ]DPOLSKA HOKEJ LIGA         23.F]DPHL  
 OL,2, Jastrz`bie    - GKS Tychy   29.11 18:00
 OL,3, Polonia       - Cracovia          18:00
@@ -718,12 +841,12 @@ OL,22,FPjablo
 OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29327
-SC,0027
+PN,29332
+SC,0032
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:13
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:37
 OL,1, ]DPOLSKA HOKEJ LIGA         24.F]DPHL  
 OL,2, STS Sanok-Polonia           01.12 18:00
 OL,3, Zaglebie-Unia                     18:00
@@ -748,12 +871,12 @@ OL,22,FPjablo
 OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29328
-SC,0028
+PN,29333
+SC,0033
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:14
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:37
 OL,1, ]DPOLSKA HOKEJ LIGA         25.F]DPHL  
 OL,2, Cracovia-STS Sanok          04.12 18:00
 OL,3, Unia-Podhale                      18:00
@@ -778,12 +901,12 @@ OL,22,FPjablo
 OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29329
-SC,0029
+PN,29334
+SC,0034
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:14
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:37
 OL,1, ]DPOLSKA HOKEJ LIGA         26.F]DPHL  
 OL,2, Podhale-STS Sanok           06.12 18:00
 OL,3, Zaglebie-Energa                   18:00
@@ -808,12 +931,12 @@ OL,22,FPjablo
 OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29330
-SC,0030
+PN,29335
+SC,0035
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:14
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:38
 OL,1, ]DPOLSKA HOKEJ LIGA    35., 27.F]DPHL  
 OL,2,FPolonia-GKS Katowice        16.12 18:00
 OL,3, GKS Tychy-STS Sanok         18.12 18:00
@@ -839,12 +962,12 @@ OL,22,FPjablo
 OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29331
-SC,0031
+PN,29336
+SC,0036
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:14
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:38
 OL,1, ]DPOLSKA HOKEJ LIGA         28.F]DPHL  
 OL,2, Cracovia-Zaglebie           20.12 18:00
 OL,3, STS Sanok-GKS Katowice            18:00
@@ -869,12 +992,12 @@ OL,22,FPjablo
 OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,V,,,,,,
 OL,24,   A292      B294      C295      F296   
 FL,292,294,295,296,0,100
-PN,29332
-SC,0032
+PN,29337
+SC,0037
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    293Csob 21 lis  22:10:14
+CT,15,T
+OL,0,      BSPORT    293Cnie 22 lis  22:51:38
 OL,1, ]DPOLSKA HOKEJ LIGA         29.F]DPHL  
 OL,2, Zaglebie-STS Sanok          22.12 18:00
 OL,3, Energa-Podhale                    18:00

@@ -2,8 +2,8 @@ DE,ORF1 725
 PN,72501
 SC,0001
 PS,C200
-CT,10,T
-OL,0,       G725FORF1   GSo 22.11.26 09:40:45
+CT,15,T
+OL,0,       G725FORF1   GSo 22.11.26 18:18:48
 OL,1,A]G                           LOTTERIEN 
 OL,2,A]GSPIEL + STERNE  ]A             TOTO \
 OL,3,Q##################G               1/5  
@@ -22,8 +22,8 @@ FL,100,111,200,600,0,100
 PN,72502
 SC,0002
 PS,C200
-CT,10,T
-OL,0,       G725FORF1   GSo 22.11.26 09:40:45
+CT,15,T
+OL,0,       G725FORF1   GSo 22.11.26 18:18:48
 OL,1,A]G                           LOTTERIEN 
 OL,2,A]GSPIEL + STERNE  ]A             TOTO \
 OL,3,Q##################G               2/5  
@@ -49,15 +49,15 @@ FL,100,111,200,600,0,100
 PN,72503
 SC,0003
 PS,C200
-CT,10,T
-OL,0,       G725FORF1   GSo 22.11.26 09:40:46
+CT,15,T
+OL,0,       G725FORF1   GSo 22.11.26 18:18:48
 OL,1,A]G                           LOTTERIEN 
 OL,2,A]GSPIEL + STERNE  ]A             TOTO \
 OL,3,Q##################G               3/5  
 OL,4,CTOTO-Runde 47  vom 21.11. - 22.11.     
 OL,12,CErgebnisseFFixspiele / Torwette        
-OL,14,F 1 SCR Altach   - Sturm Graz  G     CSo
-OL,15,F 2 Wolfsberg    - SV Ried     G     CSo
+OL,14,F 1 SCR Altach   - Sturm Graz  G 1:0 F 1
+OL,15,F 2 Wolfsberg    - SV Ried     G 1:2 F 2
 OL,16,F 3 WSG Tirol    - A. Lustenau G     F 2
 OL,17,F 4 Elversberg   - SC Freiburg G 0:1 F 2
 OL,18,F 5 E. Frankfurt - Hoffenheim  G 1:0 F 1
@@ -68,23 +68,23 @@ FL,100,111,200,600,0,100
 PN,72504
 SC,0004
 PS,C200
-CT,10,T
-OL,0,       G725FORF1   GSo 22.11.26 09:40:46
+CT,15,T
+OL,0,       G725FORF1   GSo 22.11.26 18:18:48
 OL,1,A]G                           LOTTERIEN 
 OL,2,A]GSPIEL + STERNE  ]A             TOTO \
 OL,3,Q##################G               4/5  
 OL,4,CTOTO-Runde 47  vom 21.11. - 22.11.     
 OL,6,CErgebnisseGWahlspiele                  
-OL,8,G 6 FC Augsburg  - FSV Mainz 05      CSo
+OL,8,G 6 FC Augsburg  - FSV Mainz 05      G 1
 OL,9,G 7 FC St. Pauli - VfL Bochum        G 1
-OL,10,G 8 Karlsruhe    - Osnabr}ck         CSo
-OL,11,G 9 Kaiserslaute - Dyn. Dresden      CSo
+OL,10,G 8 Karlsruhe    - Osnabr}ck         G X
+OL,11,G 9 Kaiserslaute - Dyn. Dresden      G X
 OL,12,G10 Bournemouth  - Nottingham        G 1
 OL,13,G11 Coventry C.  - Cr. Palace        G 1
 OL,14,G12 Vallecano    - FC Valencia       G 2
 OL,15,G13 FC Sevilla   - B. Sevilla        G X
-OL,16,G14 Santander    - R. Sociedad       CSo
-OL,17,G15 US Sassuolo  - FC Genua          CSo
+OL,16,G14 Santander    - R. Sociedad       G 1
+OL,17,G15 US Sassuolo  - FC Genua          G 2
 OL,18,G16 Strasbourg   - Stade Brest       G 2
 OL,19,G17 Lille OSC    - Ol. Lyon          G 2
 OL,20,G18 FC Lorient   - Stade Rennes      CSo
@@ -94,8 +94,8 @@ FL,100,111,200,600,0,100
 PN,72505
 SC,0005
 PS,C200
-CT,10,T
-OL,0,       G725FORF1   GSo 22.11.26 09:40:46
+CT,15,T
+OL,0,       G725FORF1   GSo 22.11.26 18:18:48
 OL,1,A]G                           LOTTERIEN 
 OL,2,A]GSPIEL + STERNE  ]A             TOTO \
 OL,3,Q##################G               5/5  

@@ -2,9 +2,9 @@ DE,TEKSTI-TV 488
 PN,48801
 SC,0001
 PS,C100
-CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 22.03.03:21:30
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      1/9  
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      1/16 
 OL,2,K                                       
 OL,3,CTULOSVETO                              
 OL,4,G20 Athletic - Espanyol       0-1  16,61
@@ -32,9 +32,9 @@ FL,100,200,300,400,0,100
 PN,48802
 SC,0002
 PS,C100
-CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 22.03.03:21:30
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      2/9  
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      2/16 
 OL,2,K                                       
 OL,3,CTULOSVETO                              
 OL,4,G 9 Newcastle U - Arsenal     2-2  16,62
@@ -45,26 +45,56 @@ OL,8,G25 Biel - Bern               5-9
 OL,9,BEi osumia, jakosumma jaetaan my|hemmin.
 OL,10,G11 Napoli - Torino           1-0   8,62
 OL,11,G12 Real Madrid - Celta       2-1   9,25
-OL,12,K                                       
-OL,13,CMONIVETO                               
-OL,14,G 2 Bayer.M nch - FC K|ln     1-1       
-OL,15,G   Athletic - Espanyol       0-1       
-OL,16,G   Troyes - Le Havre         3-1       
-OL,17,G   1. voittoluokka            14 062,73
-OL,18,K                                       
-OL,19,G 3 LA Lakers - SAC Kings 106-104       
-OL,20,G   DEN Nugge - HOU Rocke 133-124       
-OL,21,B Ei osumia, jakosumma jaetaan my|hemmin
-OL,22,K                                       
-OL,23,K                                       
+OL,12,G26 Calgary - Chicago         3-3  14,98
+OL,13,G27 Florida - Buffalo         4-3  19,59
+OL,14,G28 Vancouver - Minnesota     3-3  17,55
+OL,15,G 1 OLS - Botnia              3-9  54,66
+OL,16,G 2 Juventus - Venezia        4-0  17,16
+OL,17,G 3 TPS N - HIFK N            0-3  28,90
+OL,18,G 4 Barcelona - Villarrea     3-2  20,86
+OL,19,G 5 NorthernStars - SPV N     2-2  26,24
+OL,20,G 6 PSS N - SB-Pro N          6-2 152,84
+OL,21,G 7 LASB - Oilers            3-27  10,13
+OL,22,G13 Servette - Lausanne       3-3  16,03
+OL,23,G 8 Hull - Brighton           2-0  44,53
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,48803
 SC,0003
 PS,C100
-CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 22.03.03:21:30
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      3/9  
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      3/16 
+OL,2,K                                       
+OL,3,CTULOSVETO                              
+OL,4,G14 Haukat - RaaheK           4-1  20,95
+OL,5,G15 Tappara U20 - TPS U20     1-4  28,63
+OL,6,G 9 Liverpool - Manches.U     4-0  26,05
+OL,7,G10 NY Rangers - Carolina     2-5  16,96
+OL,8,K                                       
+OL,9,CMONIVETO                               
+OL,10,G 2 Bayer.M nch - FC K|ln     1-1       
+OL,11,G   Athletic - Espanyol       0-1       
+OL,12,G   Troyes - Le Havre         3-1       
+OL,13,G   1. voittoluokka            14 062,73
+OL,14,K                                       
+OL,15,G 3 LA Lakers - SAC Kings 106-104       
+OL,16,G   DEN Nugge - HOU Rocke 133-124       
+OL,17,B Ei osumia, jakosumma jaetaan my|hemmin
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48804
+SC,0004
+PS,C100
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      4/16 
 OL,2,K                                       
 OL,3,CMONIVETO                               
 OL,4,G 4 Manchester C - Fulham     1-1       
@@ -80,35 +110,35 @@ OL,13,G   Jukurit - TPS             1-3
 OL,14,G   1. voittoluokka           211 622,41
 OL,15,G   2. voittoluokka             1 537,20
 OL,16,K                                       
-OL,17,G 7 Real Madrid - Celta       2-1       
-OL,18,G   Napoli - Torino           1-0       
-OL,19,G   Lille - Lyon              0-1       
-OL,20,G   1. voittoluokka             1 166,73
+OL,17,G 6 Carolina - Edmonton       7-4       
+OL,18,G   Calgary - Chicago         3-3       
+OL,19,G   1. voittoluokka             1 929,79
+OL,20,K                                       
 OL,21,K                                       
 OL,22,K                                       
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,48804
-SC,0004
+PN,48805
+SC,0005
 PS,C100
-CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 22.03.03:21:30
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      4/9  
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      5/16 
 OL,2,K                                       
-OL,3,CVeikkaus.fi:st{ voit hakea pelien      
-OL,4,Ctulokset helposti ja nopeasti.         
-OL,5,K                                       
-OL,6,CVOITTAJAVETO                           
-OL,7,G 2 F1, aika-ajot, Las Vegas            
-OL,8,G   F1, aika-ajot, Las Vegas            
-OL,9,G   1 Antonelli Kimi                5.08
-OL,10,G   Poissa: -                           
-OL,11,K                                       
-OL,12,G 3 F1, aika-ajot, Las Vegas, Valtteri B
-OL,13,G   F1, aika-ajot, Las Vegas            
-OL,14,G   12 Muu tulos                    1.38
-OL,15,G   Poissa: -                           
+OL,3,CMONIVETO                               
+OL,4,G 7 Real Madrid - Celta       2-1       
+OL,5,G   Napoli - Torino           1-0       
+OL,6,G   Lille - Lyon              0-1       
+OL,7,G   1. voittoluokka             1 166,73
+OL,8,K                                       
+OL,9,G 8 Liverpool - Manches.U     4-0       
+OL,10,G   Milan - Frosinone         5-1       
+OL,11,G   Werder Bremen - HSV       4-0       
+OL,12,G   1. voittoluokka            48 149,13
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
 OL,16,K                                       
 OL,17,K                                       
 OL,18,K                                       
@@ -119,60 +149,30 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,48805
-SC,0005
-PS,C100
-CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 22.03.03:21:30
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      5/9  
-OL,2,K                                       
-OL,3,CP[IV[N TRIO                            
-OL,4,G 5 Puoliaika/lopputulos                
-OL,5,G   A: Napoli - Torino                  
-OL,6,G   B: Lille - Lyon                     
-OL,7,G   C: Real Madrid - Celta              
-OL,8,G   A: 4 X/1                     1191.58
-OL,9,G   B: 9 2/2                            
-OL,10,G   C: 7 2/1                            
-OL,11,G   Poissa: -                           
-OL,12,K                                       
-OL,13,G 1 Puoliaika/lopputulos                
-OL,14,G   A: Troyes - Le Havre                
-OL,15,G   B: Barnsley - Sheffield W           
-OL,16,G   C: Athletic - Espanyol              
-OL,17,G   A: 4 X/1                      379.89
-OL,18,G   B: 9 2/2                            
-OL,19,G   C: 6 X/2                            
-OL,20,G   Poissa: -                           
-OL,21,K                                       
-OL,22,K                                       
-OL,23,K                                       
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
 PN,48806
 SC,0006
 PS,C100
-CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 22.03.03:21:30
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      6/9  
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      6/16 
 OL,2,K                                       
-OL,3,CP[IV[N TRIO                            
-OL,4,G 3 F1, aika-ajot, Las Vegas            
-OL,5,G   A: Ryhm{n paras                     
-OL,6,G   B: Ryhm{n paras                     
-OL,7,G   C: Ryhm{n paras                     
-OL,8,G   A: 1 Antonelli Kimi            21.92
-OL,9,G   B: 2 Norris Lando                   
-OL,10,G   C: 1 Lindblad Arvid                 
-OL,11,G   Poissa: -                           
-OL,12,K                                       
-OL,13,G 4 Puoliaika/lopputulos                
-OL,14,G   A: Tottenham - Ipswich T            
-OL,15,G   B: Bournemouth - Nottingham         
-OL,16,G   C: Coventry C - Crystal P           
-OL,17,G   A: 1 1/1                       44.91
-OL,18,G   B: 1 1/1                            
-OL,19,G   C: 4 X/1                            
+OL,3,CVeikkaus.fi:st{ voit hakea pelien      
+OL,4,Ctulokset helposti ja nopeasti.         
+OL,5,K                                       
+OL,6,CVOITTAJAVETO                           
+OL,7,G 2 F1, USA:n GP                        
+OL,8,G   F1, USA:n GP                        
+OL,9,G   2 Verstappen Max                1.95
+OL,10,G   Poissa: -                           
+OL,11,K                                       
+OL,12,G 3 F1, USA:n GP, Valtteri Bottaksen sij
+OL,13,G   F1, USA:n GP                        
+OL,14,G   9 18.                          12.01
+OL,15,G   Poissa: -                           
+OL,16,K                                       
+OL,17,G 2 F1, aika-ajot, Las Vegas            
+OL,18,G   F1, aika-ajot, Las Vegas            
+OL,19,G   1 Antonelli Kimi                5.08
 OL,20,G   Poissa: -                           
 OL,21,K                                       
 OL,22,K                                       
@@ -182,39 +182,249 @@ FL,100,200,300,400,0,100
 PN,48807
 SC,0007
 PS,C100
-CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 22.03.03:21:30
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      7/9  
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      7/16 
 OL,2,K                                       
-OL,3,CP[IV[N TRIO                            
-OL,4,G 1 Otteluiden maalim{{r{t              
-OL,5,G   A: K{rp{t - Jokerit                 
-OL,6,G   B: Lukko - HPK                      
-OL,7,G   C: Sport - Pelicans                 
-OL,8,G   A: 8 8 maalia                       
-OL,9,G   B: 7 7 maalia                       
-OL,10,G   C: 1 0-1 maalia                     
-OL,11,G   Poissa: -                           
-OL,12,BOikeaa voittoyhdistelm{{ ei ole pelattu
-OL,13,K                                       
-OL,14,CSUPERTRIPLA                            
-OL,15,G 4 F1, aika-ajot, Las Vegas            
-OL,16,G   1: Voittaja                         
-OL,17,G   2: 2. sija                          
-OL,18,G   3: 3. sija                          
-OL,19,G   1: 1 Antonelli KimiI           26.09
-OL,20,G   2: 2 Verstappen MaxI                
-OL,21,G   3: 3 Russell GeorgeI                
-OL,22,G   Poissa: -                           
+OL,3,CVOITTAJAVETO                           
+OL,4,G 3 F1, aika-ajot, Las Vegas, Valtteri B
+OL,5,G   F1, aika-ajot, Las Vegas            
+OL,6,G   12 Muu tulos                    1.38
+OL,7,G   Poissa: -                           
+OL,8,K                                       
+OL,9,CP[IV[N TRIO                            
+OL,10,G 3 F1, USA:n GP                        
+OL,11,G   A: Ryhm{n paras                     
+OL,12,G   B: Ryhm{n paras                     
+OL,13,G   C: Ryhm{n paras                     
+OL,14,G   A: 2 Verstappen Max            17.29
+OL,15,G   B: 2 Norris Lando                   
+OL,16,G   C: 2 Colapinto Franco               
+OL,17,G   Poissa: -                           
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,48808
 SC,0008
 PS,C100
-CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 22.03.03:21:30
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      8/9  
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      8/16 
+OL,2,K                                       
+OL,3,CP[IV[N TRIO                            
+OL,4,G 2 Otteluiden maalim{{r{t              
+OL,5,G   A: Utah - Anaheim                   
+OL,6,G   B: Vancouver - Minnesota            
+OL,7,G   C: San Jose - Seattle               
+OL,8,G   A: 5 5 maalia                 183.93
+OL,9,G   B: 6 6 maalia                       
+OL,10,G   C: 7 7 maalia                       
+OL,11,G   Poissa: -                           
+OL,12,K                                       
+OL,13,G 5 Puoliaika/lopputulos                
+OL,14,G   A: Napoli - Torino                  
+OL,15,G   B: Lille - Lyon                     
+OL,16,G   C: Real Madrid - Celta              
+OL,17,G   A: 4 X/1                     1191.58
+OL,18,G   B: 9 2/2                            
+OL,19,G   C: 7 2/1                            
+OL,20,G   Poissa: -                           
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48809
+SC,0009
+PS,C100
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      9/16 
+OL,2,K                                       
+OL,3,CP[IV[N TRIO                            
+OL,4,G 2 Puoliaika/lopputulos                
+OL,5,G   A: Hull - Brighton                  
+OL,6,G   B: Bologna - Udinese                
+OL,7,G   C: Sassuolo - Genoa                 
+OL,8,G   A: 4 X/1                     1337.30
+OL,9,G   B: 2 1/X                            
+OL,10,G   C: 9 2/2                            
+OL,11,G   Poissa: -                           
+OL,12,K                                       
+OL,13,G 4 Puoliaika/lopputulos                
+OL,14,G   A: Liverpool - Manchester U         
+OL,15,G   B: Werder Bremen - HSV              
+OL,16,G   C: Nordsjaelland - FC K|benhavn     
+OL,17,G   A: 1 1/1                       87.37
+OL,18,G   B: 4 X/1                            
+OL,19,G   C: 1 1/1                            
+OL,20,G   Poissa: -                           
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48810
+SC,0010
+PS,C100
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      10/16
+OL,2,K                                       
+OL,3,CP[IV[N TRIO                            
+OL,4,G 1 Puoliaika/lopputulos                
+OL,5,G   A: Troyes - Le Havre                
+OL,6,G   B: Barnsley - Sheffield W           
+OL,7,G   C: Athletic - Espanyol              
+OL,8,G   A: 4 X/1                      379.89
+OL,9,G   B: 9 2/2                            
+OL,10,G   C: 6 X/2                            
+OL,11,G   Poissa: -                           
+OL,12,K                                       
+OL,13,G 3 F1, aika-ajot, Las Vegas            
+OL,14,G   A: Ryhm{n paras                     
+OL,15,G   B: Ryhm{n paras                     
+OL,16,G   C: Ryhm{n paras                     
+OL,17,G   A: 1 Antonelli Kimi            21.92
+OL,18,G   B: 2 Norris Lando                   
+OL,19,G   C: 1 Lindblad Arvid                 
+OL,20,G   Poissa: -                           
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48811
+SC,0011
+PS,C100
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      11/16
+OL,2,K                                       
+OL,3,CP[IV[N TRIO                            
+OL,4,G 4 Puoliaika/lopputulos                
+OL,5,G   A: Tottenham - Ipswich T            
+OL,6,G   B: Bournemouth - Nottingham         
+OL,7,G   C: Coventry C - Crystal P           
+OL,8,G   A: 1 1/1                       44.91
+OL,9,G   B: 1 1/1                            
+OL,10,G   C: 4 X/1                            
+OL,11,G   Poissa: -                           
+OL,12,K                                       
+OL,13,G 1 Otteluiden maalim{{r{t              
+OL,14,G   A: K{rp{t - Jokerit                 
+OL,15,G   B: Lukko - HPK                      
+OL,16,G   C: Sport - Pelicans                 
+OL,17,G   A: 8 8 maalia                       
+OL,18,G   B: 7 7 maalia                       
+OL,19,G   C: 1 0-1 maalia                     
+OL,20,G   Poissa: -                           
+OL,21,BOikeaa voittoyhdistelm{{ ei ole pelattu
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48812
+SC,0012
+PS,C100
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      12/16
+OL,2,K                                       
+OL,3,CSUPERTRIPLA                            
+OL,4,G 4 MotoGP, Portugalin GP               
+OL,5,G   1: Voittaja                         
+OL,6,G   2: 2. sija                          
+OL,7,G   3: 3. sija                          
+OL,8,G   1: 3 Bezzecchi MarcoI          72.06
+OL,9,G   2: 2 Martin JorgeI                  
+OL,10,G   3: 7 Fernandez RaulI                
+OL,11,G   Poissa: -                           
+OL,12,K                                       
+OL,13,G 7 F1, USA:n GP                        
+OL,14,G   1: Voittaja                         
+OL,15,G   2: 2. sija                          
+OL,16,G   3: 3. sija                          
+OL,17,G   1: 2 Verstappen MaxI          436.00
+OL,18,G   2: 6 Norris LandoI                  
+OL,19,G   3: 7 Piastri OscarI                 
+OL,20,G   Poissa: -                           
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48813
+SC,0013
+PS,C100
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      13/16
+OL,2,K                                       
+OL,3,CSUPERTRIPLA                            
+OL,4,G 8 F1, USA:n GP, ilman k{rkitalleja    
+OL,5,G   1: Voittaja                         
+OL,6,G   2: 2. sija                          
+OL,7,G   3: 3. sija                          
+OL,8,G   1: 3 Gasly PierreI            356.09
+OL,9,G   2: 4 Colapinto FrancoI              
+OL,10,G   3: 9 Sainz Carlos I                 
+OL,11,G   Poissa: 10                          
+OL,12,K                                       
+OL,13,G 2 Hiihto, miehet 20km (v) yhteisl{ht|,
+OL,14,G   1: Voittaja                         
+OL,15,G   2: 2. sija                          
+OL,16,G   3: 3. sija                          
+OL,17,G   1: 12 Liekari Emil           1297.15
+OL,18,G   2: 5 Pyykk| Veeti                   
+OL,19,G   3: 6 Husu Niko                      
+OL,20,G   Poissa: 13, 11                      
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48814
+SC,0014
+PS,C100
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      14/16
+OL,2,K                                       
+OL,3,CSUPERTRIPLA                            
+OL,4,G 3 Hiihto, naiset 20km (v) yhteisl{ht|,
+OL,5,G   1: Voittaja                         
+OL,6,G   2: 2. sija                          
+OL,7,G   3: 3. sija                          
+OL,8,G   1: 11 Matintalo Johanna       233.50
+OL,9,G   2: 7 Niemel{ Hilla                  
+OL,10,G   3: 3 Nissinen Vilma                 
+OL,11,G   Poissa: -                           
+OL,12,K                                       
+OL,13,G 4 F1, aika-ajot, Las Vegas            
+OL,14,G   1: Voittaja                         
+OL,15,G   2: 2. sija                          
+OL,16,G   3: 3. sija                          
+OL,17,G   1: 1 Antonelli KimiI           26.09
+OL,18,G   2: 2 Verstappen MaxI                
+OL,19,G   3: 3 Russell GeorgeI                
+OL,20,G   Poissa: -                           
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48815
+SC,0015
+PS,C100
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      15/16
 OL,2,K                                       
 OL,3,CSUPERTRIPLA                            
 OL,4,G 7 F1, aika-ajot, Las Vegas, ilman k{rk
@@ -239,12 +449,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,48809
-SC,0009
+PN,48816
+SC,0016
 PS,C100
-CT,10,T
-OL,0,       G488 YLE TEKSTI-TV 22.03.03:21:30
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      9/9  
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 22.03.21:48:04
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      16/16
 OL,2,K                                       
 OL,3,CSUPERTRIPLA                            
 OL,4,G 3 Hiihto, naiset sprintti (p), Ruka, S

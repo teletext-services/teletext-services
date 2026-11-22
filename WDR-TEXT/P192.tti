@@ -2,49 +2,102 @@ DE,WDR-TEXT 192
 PN,19201
 SC,0001
 PS,C200
-CT,10,T
-OL,0,     G192 WDR Text GSa 21.11.26 19:27:23
+CT,15,T
+OL,0,     G192 WDR Text GSo 22.11.26 23:30:32
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DAMTLICHE       ]          
 OL,3,]T5D     UNWETTERWARNUNGEN         
-OL,5, St{dte/KreiseCA-K  G(21.11., 19:25 Uhr)
+OL,5, St{dte/KreiseCA-K  G(22.11., 23:29 Uhr)
 OL,7, Aachen St{dtereg. FFrost               
-OL,8,BBochum            FFrost               
-OL,9, Bonn              FFrost               
-OL,10,BBorken, Kreis     FFrost               
-OL,11, Bottrop           FFrost               
-OL,12,BCoesfeld, Kreis   FFrost               
-OL,13, Dortmund          FFrost               
-OL,14,BDuisburg          FFrost               
-OL,15, D}ren, Kreis      FFrost               
-OL,16,BD}sseldorf        FFrost               
-OL,17, Ennepe-Ruhr-Kreis FFrost               
-OL,18,BEssen             FFrost               
-OL,19, Euskirchen, Kreis FFrost               
-OL,20,BGelsenkirchen     FFrost               
-OL,21, Hagen             FFrost               
+OL,8, Aachen St{dtereg. FGl{tte              
+OL,9,BBielefeld         FFrost               
+OL,10, Bochum            FFrost               
+OL,11, Bochum            FGl{tte              
+OL,12,BBonn              FFrost               
+OL,13,BBonn              FNebel               
+OL,14,BBonn              FGl{tte              
+OL,15, Borken, Kreis     FFrost               
+OL,16, Borken, Kreis     FGl{tte              
+OL,17,BBottrop           FFrost               
+OL,18,BBottrop           FGl{tte              
+OL,19, Coesfeld, Kreis   FFrost               
+OL,20, Coesfeld, Kreis   FGl{tte              
+OL,21,BDortmund          FFrost               
 OL,22,C(Quelle: Deutscher Wetterdienst)       
 OL,23,]D180 < ]bersicht      Anleitungen > 194
-OL,24,A]G- 191B]G+ 193C]DUnwetter \     G(1/2)
+OL,24,A]G- 191B]G+ 193C]DUnwetter \     G(1/4)
 FL,191,193,0,0,0,100
 PN,19202
 SC,0002
 PS,C200
-CT,10,T
-OL,0,     G192 WDR Text GSa 21.11.26 19:27:23
+CT,15,T
+OL,0,     G192 WDR Text GSo 22.11.26 23:30:32
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DAMTLICHE       ]          
 OL,3,]T5D     UNWETTERWARNUNGEN         
-OL,5, St{dte/KreiseCA-K  G(21.11., 19:25 Uhr)
-OL,7,BHamm              FFrost               
-OL,8, Heinsberg, Kreis  FFrost               
-OL,9,BHerne             FFrost               
-OL,10, HochsauerlandkreisFFrost               
-OL,11,BH|xter, Kreis     FFrost               
-OL,12, Kleve, Kreis      FFrost               
-OL,13,BKrefeld           FFrost               
-OL,14, K|ln              FFrost               
+OL,5, St{dte/KreiseCA-K  G(22.11., 23:29 Uhr)
+OL,7,BDortmund          FGl{tte              
+OL,8, Duisburg          FFrost               
+OL,9, Duisburg          FGl{tte              
+OL,10,BD}ren, Kreis      FFrost               
+OL,11,BD}ren, Kreis      FGl{tte              
+OL,12, D}sseldorf        FFrost               
+OL,13, D}sseldorf        FGl{tte              
+OL,14,BEnnepe-Ruhr-Kreis FFrost               
+OL,15,BEnnepe-Ruhr-Kreis FGl{tte              
+OL,16, Essen             FFrost               
+OL,17, Essen             FGl{tte              
+OL,18,BEuskirchen, Kreis FFrost               
+OL,19,BEuskirchen, Kreis FGl{tte              
+OL,20, Gelsenkirchen     FFrost               
+OL,21, Gelsenkirchen     FGl{tte              
 OL,22,C(Quelle: Deutscher Wetterdienst)       
 OL,23,]D180 < ]bersicht      Anleitungen > 194
-OL,24,A]G- 191B]G+ 193C]DUnwetter \     G(2/2)
+OL,24,A]G- 191B]G+ 193C]DUnwetter \     G(2/4)
+FL,191,193,0,0,0,100
+PN,19203
+SC,0003
+PS,C200
+CT,15,T
+OL,0,     G192 WDR Text GSo 22.11.26 23:30:32
+OL,1,]D]        G]               @]   CWETTER
+OL,2,]D]GWDR     ]DAMTLICHE       ]          
+OL,3,]T5D     UNWETTERWARNUNGEN         
+OL,5, St{dte/KreiseCA-K  G(22.11., 23:29 Uhr)
+OL,7,BG}tersloh, Kreis  FFrost               
+OL,8, Hagen             FFrost               
+OL,9, Hagen             FGl{tte              
+OL,10,BHamm              FFrost               
+OL,11,BHamm              FGl{tte              
+OL,12, Heinsberg, Kreis  FFrost               
+OL,13, Heinsberg, Kreis  FGl{tte              
+OL,14,BHerford, Kreis    FFrost               
+OL,15, Herne             FFrost               
+OL,16, Herne             FGl{tte              
+OL,17,BHochsauerlandkreisFFrost               
+OL,18,BHochsauerlandkreisFGl{tte              
+OL,19, H|xter, Kreis     FFrost               
+OL,20,BKleve, Kreis      FFrost               
+OL,21,BKleve, Kreis      FGl{tte              
+OL,22,C(Quelle: Deutscher Wetterdienst)       
+OL,23,]D180 < ]bersicht      Anleitungen > 194
+OL,24,A]G- 191B]G+ 193C]DUnwetter \     G(3/4)
+FL,191,193,0,0,0,100
+PN,19204
+SC,0004
+PS,C200
+CT,15,T
+OL,0,     G192 WDR Text GSo 22.11.26 23:30:32
+OL,1,]D]        G]               @]   CWETTER
+OL,2,]D]GWDR     ]DAMTLICHE       ]          
+OL,3,]T5D     UNWETTERWARNUNGEN         
+OL,5, St{dte/KreiseCA-K  G(22.11., 23:29 Uhr)
+OL,7,BKrefeld           FFrost               
+OL,8,BKrefeld           FGl{tte              
+OL,9, K|ln              FFrost               
+OL,10, K|ln              FNebel               
+OL,11, K|ln              FGl{tte              
+OL,22,C(Quelle: Deutscher Wetterdienst)       
+OL,23,]D180 < ]bersicht      Anleitungen > 194
+OL,24,A]G- 191B]G+ 193C]DUnwetter \     G(4/4)
 FL,191,193,0,0,0,100

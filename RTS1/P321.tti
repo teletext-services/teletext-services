@@ -1,25 +1,52 @@
 DE,RTS1 321
-PN,32100
-SC,0000
-PS,8088
-CT,10,T
-OL,0,       G321  RTS 1     21.11.26 22:54:44
-OL,1,C]@HOCKEY           G]@21.11.26 22:01GBO
+PN,32101
+SC,0001
+PS,C080
+CT,8,T
+OL,0,       G321  RTS 1     22.11.26 19:23:06
+OL,1,C]@HOCKEY           G]@22.11.26 07:10GBO
 OL,2,A                                       
+OL,3,                                    1/2 
 OL,4,CHOCKEY: NHL, les r#sultats             
 OL,5,GCarolina Hurr. - Edmonton Oil.     G7-4
-OL,6,GCalgary Flames - Chicago Black.  C21.11
-OL,7,GFlorida Panth. - Buffalo Sabres  C22.11
-OL,8,GNashville Preds- Pittsburgh P.   C22.11
-OL,9,GBoston Bruins  - Washington C.   C22.11
-OL,10,GDetroit Red W. - N.Y. Islanders  C22.11
-OL,11,GMontr#al Can.  - Phil. Flyers    C22.11
-OL,12,GOttawa Sens    - L.A. Kings      C22.11
-OL,13,GSt.Louis Blues - N.J. Devils     C22.11
-OL,14,GToronto Leafs  - Columbus B.J.   C22.11
-OL,15,GWinnipeg Jets  - Vegas Gold.     C22.11
-OL,16,GUtah Mammoth   - Anaheim Ducks   C22.11
-OL,17,GSan Jose Sharks- Seattle Kraken  C22.11
-OL,18,GVancouver Can. - Minnesota Wild  C22.11
+OL,6,GCalgary Flames - Chicago Black. BapG3-4
+OL,7,GFlorida Panth. - Buffalo Sabres    G4-3
+OL,8,GNashville Preds- Pittsburgh P.     G4-3
+OL,9,GBoston Bruins  - Washington C.     G7-5
+OL,10,GDetroit Red W. - N.Y. Islanders    G2-3
+OL,11,GMontr#al Can.  - Phil. Flyers      G3-4
+OL,12,GOttawa Sens    - L.A. Kings        G4-2
+OL,13,GSt.Louis Blues - N.J. Devils       G9-6
+OL,14,GToronto Leafs  - Columbus B.J.     G3-4
+OL,15,GWinnipeg Jets  - Vegas Gold.    BtbG4-5
+OL,16,GUtah Mammoth   - Anaheim Ducks     G3-2
+OL,17,GSan Jose Sharks- Seattle Kraken    G4-3
+OL,18,GVancouver Can. - Minnesota Wild BtbG4-3
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,32102
+SC,0002
+PS,C080
+CT,8,T
+OL,0,       G321  RTS 1     22.11.26 19:23:06
+OL,1,C]@HOCKEY           G]@22.11.26 07:27GBO
+OL,2,A                                       
+OL,3,CHOCKEY: NHL, les Suisses           2/2 
+OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
+OL,5, Florida Panth. - Buffalo Sabres    G4-3
+OL,6,BSchmid/F n'est pas entr# en jeu.       
+OL,7,G                                       
+OL,8,GNashville Preds- Pittsburgh P.     G4-3
+OL,9,BJosi/N: 24'44" (bilan -1).             
+OL,11,GOttawa Sens    - L.A. Kings        G4-2
+OL,12,BFiala/LA: 1 assist (17'47"/bilan 0).   
+OL,13,G                                       
+OL,14, St.Louis Blues - N.J. Devils       G9-6
+OL,15,BSuter/S: 16'07" (bilan -3).            
+OL,16,BHischier/NJ: 1 assist (17'07"/bilan -4)
+OL,17,BMeier/NJ: 1 but (18'21"/bilan -3).     
+OL,18,BSiegenthaler/NJ: 1 assist (17'59"/0).  
+OL,20,GWinnipeg Jets  - Vegas Gold.    BtbG4-5
+OL,21,BNiederreiter/W en tribunes.            
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

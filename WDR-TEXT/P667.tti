@@ -1,13 +1,59 @@
 DE,WDR-TEXT 667
-PN,66700
-SC,0000
-PS,8208
-CT,10,T
-OL,0,     G667 WDR Text GSo 22.11.26 08:07:50
+PN,66701
+SC,0001
+PS,C200
+CT,15,T
+OL,0,     G667 WDR Text GSo 22.11.26 23:42:36
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: 3. Liga          
-OL,5,CDuisburg : Rostock                 -:- 
+OL,5,CDuisburg : Rostock            2:0 (0:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Kother (68.) 2:0 Lobinger (90.)    
+OL,10,CStrafen:                               
+OL,11,S|GBohnert (13.) S|GVoglsammer (45.)    
+OL,12,S|GCoskun (45.) S|Q|GBohnert (45.)      
+OL,13,S|GKlewin (54.) S|GFleckstein (59.)     
+OL,14,S|GBuli  (82.)                          
+OL,16,CSR: GKonrad Viktor Moritz Oldhafer     
 OL,23,]D600 < ]bersicht   Spezial Ticker > 668
-OL,24,A]G- 666B]G+ 668  \                     
+OL,24,A]G- 666B]G+ 668  \               G(1/3)
+FL,666,668,0,0,0,100
+PN,66702
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G667 WDR Text GSo 22.11.26 23:42:36
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: 3. Liga          
+OL,5,CDuisburg : Rostock            2:0 (0:0)
+OL,7,CAustellungen:                          
+OL,9,CDuisburg                               
+OL,10, Braune Schlicke Fleckstein Bitter      
+OL,11, Coskun (46. Christensen)               
+OL,12, Buli  (85. Viet) Casar                 
+OL,13, Jessen (62. Kr}ger)                    
+OL,14, Kother (85. Sussek) No~ (15. Safi)     
+OL,15, Lobinger                               
+OL,16,CRostock                                
+OL,17, Klewin Wallner Pfanne Carstens         
+OL,18, Bohnert Schuster (72. Kopacz) Karada   
+OL,19, Fatki  (72. Dajaku)                    
+OL,20, Dirkner (72. Dietze)                   
+OL,21, Voglsammer (46. K|lle)                 
+OL,23,]D600 < ]bersicht   Spezial Ticker > 668
+OL,24,A]G- 666B]G+ 668  \               G(2/3)
+FL,666,668,0,0,0,100
+PN,66703
+SC,0003
+PS,C200
+CT,15,T
+OL,0,     G667 WDR Text GSo 22.11.26 23:42:36
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: 3. Liga          
+OL,5, Krau~ (56. Lennemann)                  
+OL,23,]D600 < ]bersicht   Spezial Ticker > 668
+OL,24,A]G- 666B]G+ 668  \               G(3/3)
 FL,666,668,0,0,0,100

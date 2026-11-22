@@ -3,29 +3,29 @@ PN,48601
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       GDR   S486  son 22 nov   03:18:23
+OL,0,       GDR   S486  son 22 nov   16:13:19
 OL,1,D]G                                     
 OL,2,D]G        BILLUND   INDENRIGS/UDENRIGS 
 OL,3,D]G        LUFTHAVN             ANKOMST 
 OL,4,T#######################################
 OL,5,CTID  FORV FLY    FRA          BEMARK   
 OL,6,   -------  2026-11-22  -------         
-OL,7, 0745      BT147  Riga                  
-OL,8, 0755      W43211 Bukarest OTP          
-OL,9, 0935      KL1291 Amsterdam             
-OL,10, 0950      LH836  Frankfurt             
-OL,11, 1015      SK1281 Copenhagen            
-OL,12, 1015      D85380 Alicante              
-OL,13, 1125      KL1293 Amsterdam             
-OL,14, 1205      BA820  London LHR            
-OL,15, 1345      KL1295 Amsterdam             
-OL,16, 1425      AF1264 Paris CDG             
-OL,17, 1455      DY998  Oslo                  
-OL,18, 1505      SK1285 Copenhagen            
-OL,19, 1530      KL1297 Amsterdam             
-OL,20, 1535      WF282  Bergen                
-OL,21, 1645      D83535 London LGW            
-OL,22, 1700      W61777 Gdansk                
+OL,7, 1645 1640 D83535 London LGW            
+OL,8, 1700 1655 W61777 Gdansk                
+OL,9, 1800      KL1299 Amsterdam             
+OL,10, 1820      LH840  Frankfurt             
+OL,11, 1830 1825 CAT608 Sharm el Sheik        
+OL,12, 1920      LO467  Warsaw                
+OL,13, 1930 1940 RC7185 Hurghada              
+OL,14, 1945 2015 JTD518 Gran Canaria          
+OL,15, 1955      BA822  London LHR            
+OL,16, 2045      SK1287 Copenhagen            
+OL,17, 2115      SK1905 Oslo                  
+OL,18, 2145      AF1764 Paris CDG             
+OL,19, 2230      CAT742 Tenerife              
+OL,20, 2245      KL1301 Amsterdam             
+OL,21, 2325      LH842  Frankfurt             
+OL,22, 2355      SK1289 Copenhagen            
 OL,23, ]A485@AFGANG      P5A480@FLY       1/3 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100
@@ -33,29 +33,28 @@ PN,48602
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       GDR   S486  son 22 nov   03:17:53
+OL,0,       GDR   S486  son 22 nov   16:12:49
 OL,1,D]G                                     
 OL,2,D]G        BILLUND   INDENRIGS/UDENRIGS 
 OL,3,D]G        LUFTHAVN             ANKOMST 
 OL,4,T#######################################
 OL,5,CTID  FORV FLY    FRA          BEMARK   
-OL,6, 0940      KL1291 Amsterdam             
-OL,7, 0950      LO465  Warsaw                
-OL,8, 0950      LH836  Frankfurt             
-OL,9, 1015      SK2497 Stockholm             
-OL,10, 1025      DY998  Oslo                  
-OL,11, 1025      SK1281 Copenhagen            
-OL,12, 1120      BA820  London LHR            
-OL,13, 1125      KL1293 Amsterdam             
-OL,14, 1230      WF282  Bergen                
-OL,15, 1250      W61097 Katowice              
-OL,16, 1345      KL1295 Amsterdam             
-OL,17, 1415      W43695 Iasi                  
-OL,18, 1425      AF1264 Paris CDG             
-OL,19, 1500      SK1285 Copenhagen            
-OL,20, 1530      KL1297 Amsterdam             
-OL,21, 1755      CAT746 Fuerteventura         
-OL,22, 1800      KL1299 Amsterdam             
+OL,6, 1530      KL1297 Amsterdam             
+OL,7, 1755      CAT746 Fuerteventura         
+OL,8, 1800      RC470  Faroe Islands         
+OL,9, 1800      KL1299 Amsterdam             
+OL,10, 1820      LH840  Frankfurt             
+OL,11, 1830      CAT338 Porto Santo           
+OL,12, 1910      D85084 Malaga                
+OL,13, 1920      BT147  Riga                  
+OL,14, 2005      BA822  London LHR            
+OL,15, 2045      SK1287 Copenhagen            
+OL,16, 2145      AF1764 Paris CDG             
+OL,17, 2240      DK447  Sal Cap Verde         
+OL,18, 2245      KL1301 Amsterdam             
+OL,19, 2325      LH842  Frankfurt             
+OL,20, 2355      SK1289 Copenhagen            
+OL,22, ]                                      
 OL,23, ]A485@AFGANG      P5A480@FLY       3/3 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100

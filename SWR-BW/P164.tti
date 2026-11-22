@@ -2,8 +2,8 @@ DE,SWR-BW 164
 PN,16400
 SC,0000
 PS,8208
-CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G18:42:52
+CT,15,T
+OL,0,       BSWR BW C   So, 22.11.26G20:39:48
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWETTER - PROGNOSE   P5      
 OL,3,T#########"######################"######
@@ -11,16 +11,16 @@ OL,4,CFriedrichshafen                  Nieder
 OL,5,                         BTemp  Cschlags
 OL,6,         Zustand      B  Min/Max CRisiko
 OL,7,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,8, Samstag    21.11.2026  B 8`/ 10`       
-OL,10,FFr}h   GSchauer        B 8`/  9`  C60% 
-OL,11,FMittag GSchauer        B 9`/ 10`  C90% 
-OL,12,FAbend  Gwolkig         B 8`/  9`  C10% 
-OL,13,FNacht  Gwolkig         B 4`/  7`   C0% 
-OL,15, Sonntag    22.11.2026  B 4`/  6`       
-OL,17,FFr}h   Gbedeckt        B 4`/  6`  C10% 
-OL,18,FMittag GRegen          B 5`/  6`  C90% 
-OL,19,FAbend  GRegen          B 5`/  5`  C90% 
-OL,20,FNacht  GRegen          B 2`/  4`  C90% 
+OL,8, Sonntag    22.11.2026  B 4`/  6`       
+OL,10,FFr}h   Gbedeckt        B 4`/  5`  C80% 
+OL,11,FMittag GRegen          B 6`/  6`  C90% 
+OL,12,FAbend  GRegen          B 4`/  5`  C90% 
+OL,13,FNacht  GRegen          B 3`/  4`  C90% 
+OL,15, Montag     23.11.2026  B 2`/  4`       
+OL,17,FFr}h   GRegen          B 4`/  4`  C90% 
+OL,18,FMittag GRegen          B 4`/  4`  C90% 
+OL,19,FAbend  Gbedeckt        B 2`/  4`   C0% 
+OL,20,FNacht  Gbedeckt        B 0`/  2`   C0% 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

@@ -3,20 +3,23 @@ PN,21601
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G216  RSI LA 1  21.11.26 20:06:05
-OL,1,C]@CALCIO           G]@21.11.26 19:53GAC
+OL,0,       G216  RSI LA 1  22.11.26 18:52:23
+OL,1,C]@CALCIO           G]@22.11.26 18:22GAC
 OL,2,G                                       
 OL,3,                                    1/2 
-OL,4,CCALCIO: SL, marcatori (21.11)          
+OL,4,CCALCIO: SL, marcatori (22.11)          
 OL,5,C16 reti  FEssende           YB         
 OL,7,C 8       GCelar             Basilea    
-OL,9,C 6       FBoteli            Sion       
-OL,10,          FDos Santos        Lugano     
-OL,11,          FEmmanuel          Zurigo     
-OL,12,          FFassnacht         YB         
-OL,13,          FKeny              Zurigo     
-OL,14,          FLabeau            Thun       
-OL,15,          FMonsberger        Vaduz      
+OL,9,C 7       FEmmanuel          Zurigo     
+OL,10,          FMonsberger        Vaduz      
+OL,12,C 6       GBoteli            Sion       
+OL,13,          GDalipi            Vaduz      
+OL,14,          GDos Santos        Lugano     
+OL,15,          GFassnacht         YB         
+OL,16,          GHunziker          S.Gallo    
+OL,17,          GKeny              Zurigo     
+OL,18,          GLabeau            Thun       
+OL,19,          GNivokazi          Sion       
 OL,22,A                                       
 OL,23,G                                       
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
@@ -25,7 +28,7 @@ PN,21602
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G216  RSI LA 1  21.11.26 20:06:05
+OL,0,       G216  RSI LA 1  22.11.26 18:52:23
 OL,1,C]@CALCIO           G]@              GAC
 OL,2,G                                       
 OL,3,                                    2/2 

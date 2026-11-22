@@ -3,41 +3,41 @@ PN,17501
 SC,0001
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    175Csob 21 lis  19:01:01
-OL,1,D]GPROGNOZA POGODY        ]D21/11/2026  
+CT,15,T
+OL,0,      BSPORT    175Cnie 22 lis  22:48:48
+OL,1,D]GPROGNOZA POGODY        ]D22/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FKIELCE                          ZV,,,, 
-OL,4, sob.    B1  C3 Gdu{e  F14W  G974ZVp `p 
-OL,5, nie.    B0  C3 Gumiar F14W  G973ZWt|4  
-OL,6, pon.    B0  C1 Gca}k. F10NW G975  ZVp0 
-OL,7, wt.                                    
-OL,8, |ro.                                   
+OL,4, nie.    B0  C3 Gdu{e  F14W  G973ZVp||4 
+OL,5, pon.    B0  C1 Gdu{e  F18NW G975ZWp0   
+OL,6, wt.    B-1  C0 Gca}k. F18W  G981  ZV`p 
+OL,7, |ro.    B0  C0 Gca}k.  F7W  G986       
+OL,8, czw.                                   
 OL,9,FOSTROWIEC \WIETOKRZYSKI         ZV,,,, 
-OL,10, sob.    B2  C4 Gdu{e  F14W  G986ZVx  0 
-OL,11, nie.    B0  C4 Gumiar F14W  G985ZWpp4  
-OL,12, pon.    B0  C2 Gca}k. F10W  G986 ZVppp 
-OL,13, wt.                                    
-OL,14, |ro.                                   
+OL,10, nie.    B1  C4 Gumiar F18W  G985ZVptt0 
+OL,11, pon.    B0  C2 Gca}k. F18W  G986ZW`ppp 
+OL,12, wt.     B0  C2 Gca}k. F18W  G992 ZV`px 
+OL,13, |ro.    B1  C2 Gca}k. F10W  G997ZWpp 0 
+OL,14, czw.                                   
 FL,174,176,200,200,0,100
 PN,17502
 SC,0002
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    175Csob 21 lis  19:01:02
-OL,1,D]GPROGNOZA POGODY        ]D21/11/2026  
+CT,15,T
+OL,0,      BSPORT    175Cnie 22 lis  22:48:49
+OL,1,D]GPROGNOZA POGODY        ]D22/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FSANDOMIERZ                      ZV,,,, 
-OL,4, sob.    B2  C5 Gdu{e  F10W  G992ZV|0   
-OL,5, nie.    B0  C4 Gumiar F18W  G991ZWppp  
-OL,6, pon.    B0  C2 Gdu{e  F10W  G992 ZV`pp 
-OL,7, wt.                                    
-OL,8, |ro.                                   
+OL,4, nie.    B1  C4 Gdu{e  F18SW G991ZVp004 
+OL,5, pon.    B1  C2 Gdu{e  F14W  G992 ZWppt 
+OL,6, wt.     B0  C2 Gdu{e  F18W  G998  ZVt` 
+OL,7, |ro.    B1  C2 Gca}k. F10W G1004ZW`pp  
+OL,8, czw.                                   
 OL,9,FBUSKO-ZDROJ                     ZV,,,, 
-OL,10, sob.    B2  C4 Gdu{e  F14NW G979ZV|0 ` 
-OL,11, nie.    B0  C3 Gdu{e  F14W  G978ZWppp  
-OL,12, pon.    B0  C1 Gdu{e  F10W  G979 ZV`pp 
-OL,13, wt.                                    
-OL,14, |ro.                                   
+OL,10, nie.    B0  C3 Gumiar F14W  G978 ZV00` 
+OL,11, pon.    B0  C1 Gdu{e  F18NW G979 ZWp   
+OL,12, wt.     B0  C0 Gca}k. F21W  G986  ZVpp 
+OL,13, |ro.    B0  C1 Gdu{e   F7SW G990       
+OL,14, czw.                                   
 FL,174,176,200,200,0,100

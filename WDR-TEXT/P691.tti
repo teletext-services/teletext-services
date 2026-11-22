@@ -2,53 +2,39 @@ DE,WDR-TEXT 691
 PN,69101
 SC,0001
 PS,C200
-CT,10,T
-OL,0,     G691 WDR Text GSo 22.11.26 08:46:31
+CT,15,T
+OL,0,     G691 WDR Text GSo 22.11.26 23:42:27
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, f}r A1                                 
-OL,5, Stand: 22.11.2026 08:23 Uhr            
-OL,7, Die A1 Osnabr}ck - Bremen ist zwischen 
-OL,8, Bramsche und Neuenkirchen/V|rden in    
-OL,9, beiden Richtungen bis Montagfr}h, 5    
-OL,10, Uhr, gesperrt.                         
-OL,12, Die A1 Osnabr}ck - Bremen ist zwischen 
-OL,13, Bramsche und Neuenkirchen/V|rden in    
-OL,14, beiden Richtungen bis Montagfr}h, 5    
-OL,15, Uhr, gesperrt.                         
-OL,17, Die A1 Dortmund - M}nster ist zwischen 
-OL,18, Kreuz Dortmund/Unna und Kamen-Zentrum  
-OL,19, in beiden Richtungen bis Montagfr}h, 5 
-OL,20, Uhr, gesperrt. Dort wird eine Br}cke   
-OL,21, abgerissen.                            
+OL,5, Stand: 22.11.2026 23:08 Uhr            
+OL,7, Die A1 Dortmund - M}nster ist zwischen 
+OL,8, Kreuz Dortmund/Unna und Kamen-Zentrum  
+OL,9, in beiden Richtungen wegen             
+OL,10, Br}ckenarbeiten gesperrt.              
+OL,12, Auf der A1 Dortmund Richtung M}nster   
+OL,13, ist die Ausfahrt Hamm-Bockum/Werne bis 
+OL,14, Anfang Dezember gesperrt.              
+OL,16, An der A1 M}nster Richtung Dortmund ist
+OL,17, die Auffahrt Unna bis voraussichtlich  
+OL,18, Ende 2028 wegen einer Baustelle        
+OL,19, gesperrt.                              
+OL,21, Auf der A1 Dortmund Richtung K|ln ist  
+OL,22, im Kreuz Leverkusen-West die Verbindung
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]G- 690B]G+ 692  \               G(1/2)
 FL,690,692,0,0,0,100
 PN,69102
 SC,0002
 PS,C200
-CT,10,T
-OL,0,     G691 WDR Text GSo 22.11.26 08:46:31
+CT,15,T
+OL,0,     G691 WDR Text GSo 22.11.26 23:42:27
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
-OL,4, Die A1 Dortmund - M}nster ist zwischen 
-OL,5, Kreuz Dortmund/Unna und Kamen-Zentrum  
-OL,6, in beiden Richtungen bis Montagfr}h, 5 
-OL,7, Uhr, gesperrt. Dort wird eine Br}cke   
-OL,8, abgerissen.                            
-OL,10, Auf der A1 Dortmund Richtung M}nster   
-OL,11, ist die Ausfahrt Hamm-Bockum/Werne bis 
-OL,12, Anfang Dezember gesperrt.              
-OL,14, An der A1 M}nster Richtung Dortmund ist
-OL,15, die Auffahrt Unna bis voraussichtlich  
-OL,16, Ende 2028 wegen einer Baustelle        
-OL,17, gesperrt.                              
-OL,19, Auf der A1 Dortmund Richtung K|ln ist  
-OL,20, im Kreuz Leverkusen-West die Verbindung
-OL,21, zur A59 wegen Br}ckenarbeiten          
-OL,22, voraussichtlich bis Ende 2027 gesperrt.
+OL,4, zur A59 wegen Br}ckenarbeiten          
+OL,5, voraussichtlich bis Ende 2027 gesperrt.
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]G- 690B]G+ 692  \               G(2/2)
 FL,690,692,0,0,0,100

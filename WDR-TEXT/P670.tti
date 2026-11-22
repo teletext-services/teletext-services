@@ -1,13 +1,45 @@
 DE,WDR-TEXT 670
-PN,67000
-SC,0000
-PS,8208
-CT,10,T
-OL,0,     G670 WDR Text GSo 22.11.26 08:12:39
+PN,67001
+SC,0001
+PS,C200
+CT,15,T
+OL,0,     G670 WDR Text GSo 22.11.26 23:42:18
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DSpezial-Ticker ]          
 OL,3,]T5D     Fu~ball Live-Ticker       
-OL,5,CRB Leipzig : Wolfsburg             -:- 
+OL,5,CRB Leipzig : Wolfsburg        1:2 (0:0)
+OL,7,CTore:                                  
+OL,8, 0:1 Fl e (46.) 0:2 Vallotto (48.)      
+OL,9, 1:2 Boboy (62.)                        
+OL,11,CStrafen:                               
+OL,12,S|GLinder (89.) S|GSchimmer (90.)       
+OL,14,CZuschauer: G1.078                      
+OL,16,CSR: GDavina Lutz (ehem. Haupt)         
+OL,22,CRB Leipzig : Wolfsburg        1:2 (0:0)
 OL,23,]D600 < ]bersicht              weiter >>
-OL,24,A]G- 669B]G+ 671  \                     
+OL,24,A]G- 669B]G+ 671  \               G(1/2)
+FL,669,671,0,0,0,100
+PN,67002
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G670 WDR Text GSo 22.11.26 23:42:18
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DSpezial-Ticker ]          
+OL,3,]T5D     Fu~ball Live-Ticker       
+OL,6,CAustellungen:                          
+OL,8,CRB Leipzig                             
+OL,9, Herzog Tuin Mertens Norheim            
+OL,10, Hulst (84. Marti) Pusztai Dudek        
+OL,11, Schimmer van Dijk                      
+OL,12, Simonsson (66. Kleemann)               
+OL,13, Boboy (84. Pfister)                    
+OL,14,CWolfsburg                              
+OL,15, Johannes Linder K}ver                  
+OL,16, Kleinherne (46. Carleer) Bjelde        
+OL,17, Minge (62. Piljic) Peddemors Vallotto  
+OL,18, Bussy Huth (70. Zicai)                 
+OL,19, Fl e (90. Kerim-Lindland)              
+OL,23,]D600 < ]bersicht              weiter >>
+OL,24,A]G- 669B]G+ 671  \               G(2/2)
 FL,669,671,0,0,0,100

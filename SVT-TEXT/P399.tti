@@ -2,47 +2,72 @@ DE,SVT-TEXT 399
 PN,39901
 SC,0001
 PS,C100
-CT,10,T
-OL,0,      GSVT Text 399  S|n 22 novC00:08:34
+CT,15,T
+OL,0,      GSVT Text 399  S|n 22 novC20:18:09
 OL,1,D]GSPORT I SVT:                         
-OL,3,CL|rdagBSVT Play 10.00-12.05            
-OL,4, C21/11GL{ngdskidor, Bruksvallarna,     
-OL,5,       G10 km, klassisk                 
-OL,7,       CSVT1BPlayC10.00-13.45           
-OL,8,       GVinterstudion                   
-OL,10,       CSVT1BPlayC11.00-12.00           
-OL,11,       GL{ngdskidor, Bruksvallarna,     
-OL,12,       G10 km klassiskt (h)             
-OL,14,       BSVT Play 12.05-13.20            
-OL,15,       CSVT1BPlayC12.30-13.20           
-OL,16,       GL{ngdskidor, Bruksvallarna,     
-OL,17,       G10 km klassiskt (d)             
-OL,19,CS|ndagBSVT Play 10.00-11.00            
-OL,20, C22/11GL{ngdskidor, Bruksvallarna,     
-OL,21,       G10 km fristil (h)               
+OL,3,CM}ndagBSVT Play 21.10-21.55            
+OL,4, C23/11 SVT1BPlayC22.00-22.45           
+OL,5,       GFotbollsstudion                 
+OL,7,CTorsd  SVT1BPlayC16.05-18.00           
+OL,8,C26/11 GSkidskytte, v{rldscupen,        
+OL,9,       GKontiolax, distans (h)          
+OL,11,       CSVT1BPlayC18.05-20.00           
+OL,12,       GHandboll, landskamp,            
+OL,13,       GSverige-Island (d)              
+OL,15,       BSVT Play 22.00-22.45            
+OL,16,       CSVT1BPlayC22.00-22.30           
+OL,17,       GHockeykv{ll                     
+OL,19,CFredag SVT1BPlayC16.05-18.00           
+OL,20, C27/11GSkidskytte, v{rldcupen,         
+OL,21,       GKontiolax, distans (d)          
 OL,23,D]      GFler dagar f|ljer >>>          
-OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
+OL,24,ANyheter BSport CV{der FInneh}llG  (1/3)
 FL,100,300,400,700,0,100
 PN,39902
 SC,0002
 PS,C100
-CT,10,T
-OL,0,      GSVT Text 399  S|n 22 novC00:08:34
+CT,15,T
+OL,0,      GSVT Text 399  S|n 22 novC20:18:09
 OL,1,D]GSPORT I SVT:                         
-OL,2,CS|ndag SVT1BPlayC10.30-13.45           
-OL,3, C22/11GVinterstudion                   
-OL,5,       CSVT1BPlayC11.00-11.55           
-OL,6,       GL{ngdskidor, Bruksvallarna,     
-OL,7,       G10 km fristil (h)               
-OL,9,       BSVT Play 12.05-12.30            
-OL,10,       GL{ngdskidor, Bruksvallarna,     
-OL,11,       G10 km fristil (d)               
-OL,13,       CSVT1BPlayC12.30-13.20           
-OL,14,       GL{ngdskidor, Bruksvallarna,     
-OL,15,       G10 km fristil (d)               
-OL,17,       BSVT Play 12.50-15.00            
-OL,18,       GFotboll, Womens Super League,   
-OL,19,       GManchester City-Tottenham       
+OL,2,CFredag SVT2BPlayC18.50-20.00           
+OL,3, C27/11 KunskapskanalenBPlayC20.00-21.00
+OL,4,       GBasket, VM-kval,                
+OL,5,       GSverige-Ungern (h)              
+OL,7,CL|rdag SVT1BPlayC12.30-17.05           
+OL,8, C28/11GVinterstudion                   
+OL,10,       CSVT1BPlayC13.10-13.55           
+OL,11,       GSkidskytte, v{rldscupen,        
+OL,12,       GKontiolax, single mixed stafett 
+OL,14,       CSVT1BPlayC15.15-16.25           
+OL,15,       GSkidskytte, v{rldscupen,        
+OL,16,       GKontiolax, mixedstafett         
+OL,18,       CSVT1BPlayC17.05-17.50           
+OL,19,       CSVT2BPlayC17.50-19.00           
+OL,20,       GHandboll, landskamp,            
+OL,21,       GSverige-Island (d)              
 OL,23,D]      GFler dagar f|ljer >>>          
-OL,24,ANyheter BSport CV{der FInneh}llG  (2/2)
+OL,24,ANyheter BSport CV{der FInneh}llG  (2/3)
+FL,100,300,400,700,0,100
+PN,39903
+SC,0003
+PS,C100
+CT,15,T
+OL,0,      GSVT Text 399  S|n 22 novC20:18:09
+OL,1,D]GSPORT I SVT:                         
+OL,3,CS|ndag SVT1BPlayC12.45-17.55           
+OL,4, C29/11GVinterstudion                   
+OL,6,       CSVT1BPlayC13.00-14.20           
+OL,7,       GSkidskytte, v{rldscupen,        
+OL,8,       GKontiolax, sprint (h)           
+OL,10,       CSVT1BPlayC16.15-17.30           
+OL,11,       GSkidskytte, v{rldscupen,        
+OL,12,       GKontiolax, sprint (d)           
+OL,14,       CSVT2BPlayC18.15-19.00           
+OL,15,       GFotbollsstudion                 
+OL,16,       G(med sista allsvenska omg}ngen) 
+OL,18,CM}ndag KunskapskanalenBPlayC20.20-22.30
+OL,19, C30/11GBasket, VM-kval,                
+OL,20,       GFrankrike-Sverige (h)           
+OL,23,D]      GFler dagar f|ljer >>>          
+OL,24,ANyheter BSport CV{der FInneh}llG  (3/3)
 FL,100,300,400,700,0,100

@@ -1,13 +1,47 @@
 DE,WDR-TEXT 666
-PN,66600
-SC,0000
-PS,8208
-CT,10,T
-OL,0,     G666 WDR Text GSo 22.11.26 08:06:16
+PN,66601
+SC,0001
+PS,C200
+CT,15,T
+OL,0,     G666 WDR Text GSo 22.11.26 23:42:14
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: 3. Liga          
-OL,5,CSaarbr}cken : Wiesbaden            -:- 
+OL,5,CSaarbr}cken : Wiesbaden       2:1 (1:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Voet (2.) 1:1 Schleimer (80.)      
+OL,9, 2:1 Hercher (90.)                      
+OL,11,CStrafen:                               
+OL,12,S|GLee (25.) Q|GKrebs (65.)             
+OL,13,S|GGiannikis (75.) S|GOrlishausen (75.) 
+OL,14,S|GVoet (78.) S|GOwusu (80.)            
+OL,15,S|GK}hlwetter (90.) S|GGreilinger (90.) 
+OL,17,CZuschauer: G11.597                     
+OL,19,CSR: GYannick Sager (geb. Rupert)       
 OL,23,]D600 < ]bersicht      Live-Ticker > 667
-OL,24,A]G- 665B]G+ 667  \                     
+OL,24,A]G- 665B]G+ 667  \               G(1/2)
+FL,665,667,0,0,0,100
+PN,66602
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G666 WDR Text GSo 22.11.26 23:42:14
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: 3. Liga          
+OL,5,CSaarbr}cken : Wiesbaden       2:1 (1:0)
+OL,7,CAustellungen:                          
+OL,9,CSaarbr}cken                            
+OL,10, Bignetti B{uerle Voet Cvjetinovic      
+OL,11, Rizzuto (72. Aracic) Sontheimer        
+OL,12, Gleiber Lee (56. Owusu) Pick           
+OL,13, K}hlwetter Staff (66. G}rp}z)          
+OL,14,CWiesbaden                              
+OL,15, Stritzel Greilinger Janitzek H}bner    
+OL,16, Nink (84. Hercher) Brandt (76. Kalem)  
+OL,17, Fechner (66. G|z}sirin) Schleimer      
+OL,18, Paula Massimo (76. Flotho)             
+OL,19, M}ller (84. May)                       
+OL,23,]D600 < ]bersicht      Live-Ticker > 667
+OL,24,A]G- 665B]G+ 667  \               G(2/2)
 FL,665,667,0,0,0,100

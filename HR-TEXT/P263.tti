@@ -3,14 +3,14 @@ PN,26301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F21:21:12
+OL,0,           Fhr-textGSo 22.11.26F16:33:36
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A              KOL Kassel 
 OL,3,Q#######################################
 OL,4,BSonntag, 22. November         14.00 Uhr
 OL,5, Fortuna Kassel  - Landwehrh./B....  -:-
 OL,6, BC Sport Kassel - Wolfsanger II...  -:-
-OL,7, Kasseler SV     - Lohfelden II....  -:-
+OL,7, Kasseler SV     - Lohfelden II....  2:1
 OL,8,B                              15.00 Uhr
 OL,9, SVH Kassel      - VfL Kassel......  -:-
 OL,10, SG Ahnatal      - Heiligenrode....  -:-
@@ -25,7 +25,7 @@ PN,26302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F21:21:12
+OL,0,           Fhr-textGSo 22.11.26F16:33:36
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A              KOL Kassel 
 OL,3,Q#######################################
@@ -39,11 +39,11 @@ OL,10,  7.Landwehrh./B.... 17  8 3  6 45:36 27
 OL,11,  8.Fortuna Kassel.. 16  7 5  4 38:33 26
 OL,12,  9.AFC Kassel...... 16  7 2  7 32:32 23
 OL,13, 10.Wolfsanger II... 17  6 4  7 29:38 22
-OL,14,C11.Lohfelden II.... 17  4 5  8 26:44 17
+OL,14,C11.Lohfelden II.... 18  4 5  9 27:46 17
 OL,15,B12.Vollmarshausen.. 16  5 2  9 42:42 17
 OL,16,B13.GSV Baunatal II. 17  4 2 11 25:55 14
-OL,17,B14.SVH Kassel...... 17  2 5 10 35:68 11
-OL,18,B15.Kasseler SV..... 17  3 1 13 15:51 10
+OL,17,B14.Kasseler SV..... 18  4 1 13 17:52 13
+OL,18,B15.SVH Kassel...... 17  2 5 10 35:68 11
 OL,19,B16.BC Sport Kassel. 17  3 1 13 17:65  5
 OL,21,BTabelle enth{lt Punktabz}ge            
 OL,23,G]AKOL Fulda 264       KOL Schwalm/E -> 
@@ -53,12 +53,12 @@ PN,26303
 SC,0003
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F21:21:12
+OL,0,           Fhr-textGSo 22.11.26F16:33:36
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A        KOL Schwalm/Eder 
 OL,3,Q#######################################
-OL,4,BSonntag, 22. November         13.00 Uhr
-OL,5, Obermelsungen    - Neuk./R|llsh.II. -:-
+OL,4,BSonntag, 22. November                  
+OL,5, Obermelsungen    - Neuk./R|llsh.II. 0:4
 OL,6,B                              15.15 Uhr
 OL,7, Guxhagen         - Felsb./L/N-Vors. -:-
 OL,23,G]AKOL Fulda 264             Tabelle -> 
@@ -68,7 +68,7 @@ PN,26304
 SC,0004
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F21:21:12
+OL,0,           Fhr-textGSo 22.11.26F16:33:36
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A        KOL Schwalm/Eder 
 OL,3,Q#######################################
@@ -79,11 +79,11 @@ OL,7,  4.Schrecksbach.... 16  8 2  6 33:28 26
 OL,8,  5.Fuldal|wen/Bei.. 16  7 4  5 36:27 25
 OL,9,  6.Bartenwetzer.... 15  6 2  7 27:39 20
 OL,10,  7.Mengsberg II.... 15  5 5  5 29:27 20
-OL,11,  8.Ohetal/Friel.... 16  5 4  7 21:33 19
-OL,12,  9.Obermelsungen... 15  5 3  7 21:28 18
-OL,13, 10.Kirchbg/Lohne... 16  5 3  8 33:34 18
-OL,14, 11.Geismar/Z}schen. 16  5 2  9 26:33 17
-OL,15, 12.Neuk./R|llsh.II. 15  4 4  7 21:30 16
+OL,11,  8.Neuk./R|llsh.II. 16  5 4  7 25:30 19
+OL,12,  9.Ohetal/Friel.... 16  5 4  7 21:33 19
+OL,13, 10.Obermelsungen... 16  5 3  8 21:32 18
+OL,14, 11.Kirchbg/Lohne... 16  5 3  8 33:34 18
+OL,15, 12.Geismar/Z}schen. 16  5 2  9 26:33 17
 OL,16,B13.TSV Besse....... 16  4 4  8 24:35 16
 OL,17,B14.FC K|rle........ 16  3 4  9 26:49 13
 OL,18,B15.SC Riebelsdorf.. 15  3 2 10 19:40 11
@@ -94,7 +94,7 @@ PN,26305
 SC,0005
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F21:21:12
+OL,0,           Fhr-textGSo 22.11.26F16:33:36
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A             KOL Waldeck 
 OL,3,Q#######################################
@@ -114,7 +114,7 @@ PN,26306
 SC,0006
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F21:21:12
+OL,0,           Fhr-textGSo 22.11.26F16:33:36
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A             KOL Waldeck 
 OL,3,Q#######################################
@@ -142,7 +142,7 @@ PN,26307
 SC,0007
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F21:21:12
+OL,0,           Fhr-textGSo 22.11.26F16:33:36
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] AKOL Hofgeismar/Wolfhagen 
 OL,3,Q#######################################
@@ -163,7 +163,7 @@ PN,26308
 SC,0008
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F21:21:12
+OL,0,           Fhr-textGSo 22.11.26F16:33:36
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] AKOL Hofgeismar/Wolfhagen 
 OL,3,Q#######################################
@@ -189,12 +189,12 @@ PN,26309
 SC,0009
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F21:21:12
+OL,0,           Fhr-textGSo 22.11.26F16:33:36
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A       KOL Werra/Mei~ner 
 OL,3,Q#######################################
-OL,4,BSonntag, 22. November         13.00 Uhr
-OL,5, Lichtenau II - VfL Wanfried.......  -:-
+OL,4,BSonntag, 22. November                  
+OL,5, Lichtenau II - VfL Wanfried.......  3:7
 OL,23,G]AKOL Fulda 264             Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -202,15 +202,15 @@ PN,26310
 SC,0010
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F21:21:12
+OL,0,           Fhr-textGSo 22.11.26F16:33:36
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A       KOL Werra/Mei~ner 
 OL,3,Q#######################################
 OL,4,B 1.B.Sooden-All.... 16 11 4  1 60:17 37
 OL,5,C 2.Klei./Hun./D.II. 17 11 2  4 54:25 35
-OL,6,  3.Weidenhsn. II... 17  9 1  7 62:38 28
-OL,7,  4.Herleshausen.... 17  8 3  6 43:41 27
-OL,8,  5.VfL Wanfried.... 15  8 2  5 39:29 26
+OL,6,  3.VfL Wanfried.... 16  9 2  5 46:32 29
+OL,7,  4.Weidenhsn. II... 17  9 1  7 62:38 28
+OL,8,  5.Herleshausen.... 17  8 3  6 43:41 27
 OL,9,  6.SG Sontratal.... 16  8 2  6 50:32 26
 OL,10,  7.SC Niederhone... 17  8 1  8 36:45 25
 OL,11,  8.TSV Waldkappel.. 15  8 1  6 28:25 25
@@ -219,7 +219,7 @@ OL,13, 10.SG Wehretal..... 15  7 4  4 28:27 24
 OL,14, 11.Witzenhausen.... 17  7 1  9 46:48 22
 OL,15, 12.SG Mei~ner...... 17  6 4  7 36:40 22
 OL,16,C13.Kammerb./Berk... 17  6 3  8 36:43 21
-OL,17,B14.Lichtenau II.... 16  1 2 13 23:76  5
+OL,17,B14.Lichtenau II.... 17  1 2 14 26:83  5
 OL,18,B15.F}rstenhagen.... 17  1 1 15 28:80  4
 OL,20,BTabelle enth{lt Punktabz}ge            
 OL,23,G]AKOL Fulda 264          KOL Kassel -> 

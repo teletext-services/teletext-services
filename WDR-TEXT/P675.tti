@@ -1,13 +1,50 @@
 DE,WDR-TEXT 675
-PN,67500
-SC,0000
-PS,8208
-CT,10,T
-OL,0,     G675 WDR Text GSo 22.11.26 08:20:25
+PN,67501
+SC,0001
+PS,C200
+CT,15,T
+OL,0,     G675 WDR Text GSo 22.11.26 23:42:52
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DSpezial-Ticker ]          
 OL,3,]T5D     Fu~ball Live-Ticker       
-OL,5,CVfB II : Ingolstadt                -:- 
+OL,5,CVfB II : Ingolstadt           5:0 (1:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Malanga (22.) 2:0 Zagadou (53.)    
+OL,9, 3:0 Sessa (68.)                        
+OL,10, 4:0 van der Leij (73.)                 
+OL,11, 5:0 Diehl (90.)                        
+OL,13,CStrafen:                               
+OL,14,S|GG}l (38.) S|GSekulovic (71.)         
+OL,16,CZuschauer: G650                        
+OL,18,CSR: GMaximilian Lotz                   
+OL,22,CVfB II : Ingolstadt           5:0 (1:0)
 OL,23,]D600 < ]bersicht              weiter >>
-OL,24,A]G- 674B]G+ 676  \                     
+OL,24,A]G- 674B]G+ 676  \               G(1/2)
+FL,674,676,0,0,0,100
+PN,67502
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G675 WDR Text GSo 22.11.26 23:42:52
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DSpezial-Ticker ]          
+OL,3,]T5D     Fu~ball Live-Ticker       
+OL,6,CAustellungen:                          
+OL,8,CVfB II                                 
+OL,9, von der Felsen                         
+OL,10, Masanka Bungi (86. Schramm)            
+OL,11, Zagadou (61. Diehl) Herwerth Stergiou  
+OL,12, Sessa Stange Penna (77. Majchrzak)     
+OL,13, van der Leij (77. Janji ) Malanga      
+OL,14, Bujupi (61. Groi~)                     
+OL,15,CIngolstadt                             
+OL,16, Klein Rosenl|cher Scholz               
+OL,17, Lorenz (56. Antzoulas)                 
+OL,18, Plath (56. Sekulovic)                  
+OL,19,  apina (76. Decker)                    
+OL,20, Kanuri  (76. Bennetts)                 
+OL,21, Carlsen (33. G}l) Velupillay Ugondu    
+OL,22, Kayg n                                 
+OL,23,]D600 < ]bersicht              weiter >>
+OL,24,A]G- 674B]G+ 676  \               G(2/2)
 FL,674,676,0,0,0,100

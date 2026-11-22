@@ -3,26 +3,26 @@ PN,85501
 SC,0001
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BTVP3     855Cnie 22 lis  13:10:51
+CT,15,T
+OL,0,      BTVP3     855Cnie 22 lis  22:31:32
 OL,1,C]          MDK A S K A D A             
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
-OL,4,C]DData losowania:@21.11.2026           
+OL,4,C]DData losowania:@22.11.2026           
 OL,5,C]DGodzina:@14:00                       
 OL,6,C]DWylosowane liczby:                   
-OL,7,C] A2D-@dwa          A16D-@jeden-sze|^  
-OL,8,C] A5D-@pi`^         A17D-@jeden-siedem 
-OL,9,C] A6D-@sze|^        A20D-@dwa-zero     
-OL,10,C]A10D-@jeden-zero   A21D-@dwa-jeden    
-OL,11,C]A12D-@jeden-dwa    A22D-@dwa-dwa      
-OL,12,C]A13D-@jeden-trzy   A23D-@dwa-trzy     
+OL,7,C] A1D-@jeden        A12D-@jeden-dwa    
+OL,8,C] A3D-@trzy         A14D-@jeden-cztery 
+OL,9,C] A5D-@pi`^         A15D-@jeden-pi`^   
+OL,10,C] A6D-@sze|^        A16D-@jeden-sze|^  
+OL,11,C] A8D-@osiem        A17D-@jeden-siedem 
+OL,12,C] A9D-@dziewi`^     A24D-@dwa-cztery   
 OL,13,S
 OL,14,C]DWygrane:    Liczba:    Warto|^ w z}: 
 OL,15,C]D12              @0       A250.000,00 
 OL,16,C]D11              @2         A1.000,00 
-OL,17,C]D10             @72            A25,00 
-OL,18,C] D9            @935             A8,00 
-OL,19,C] D8           @4714             A2,00 
+OL,17,C]D10             @46            A25,00 
+OL,18,C] D9            @598             A8,00 
+OL,19,C] D8           @2874             A2,00 
 OL,20,C]DKaskada. Sprawd~,jak }atwo wygrywa^! 
 OL,21,S///////////////////////////////////////
 OL,22,Q
@@ -32,26 +32,26 @@ PN,85502
 SC,0002
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BTVP3     855Cnie 22 lis  13:10:51
+CT,15,T
+OL,0,      BTVP3     855Cnie 22 lis  22:31:32
 OL,1,C]          MDK A S K A D A             
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
-OL,4,C]DData losowania:@21.11.2026           
+OL,4,C]DData losowania:@22.11.2026           
 OL,5,C]DGodzina:@22:00                       
 OL,6,C]DWylosowane liczby:                   
-OL,7,C] A5D-@pi`^         A16D-@jeden-sze|^  
-OL,8,C] A8D-@osiem        A17D-@jeden-siedem 
-OL,9,C]A11D-@jeden-jeden  A20D-@dwa-zero     
-OL,10,C]A12D-@jeden-dwa    A21D-@dwa-jeden    
-OL,11,C]A13D-@jeden-trzy   A23D-@dwa-trzy     
-OL,12,C]A15D-@jeden-pi`^   A24D-@dwa-cztery   
+OL,7,C] A2D-@dwa          A11D-@jeden-jeden  
+OL,8,C] A3D-@trzy         A14D-@jeden-cztery 
+OL,9,C] A4D-@cztery       A18D-@jeden-osiem  
+OL,10,C] A8D-@osiem        A21D-@dwa-jeden    
+OL,11,C] A9D-@dziewi`^     A22D-@dwa-dwa      
+OL,12,C]A10D-@jeden-zero   A23D-@dwa-trzy     
 OL,13,S
 OL,14,C]DWygrane:    Liczba:    Warto|^ w z}: 
 OL,15,C]D12              @0       A250.000,00 
-OL,16,C]D11              @5         A1.000,00 
-OL,17,C]D10             @94            A25,00 
-OL,18,C] D9           @1129             A8,00 
-OL,19,C] D8           @6155             A2,00 
+OL,16,C]D11              @0         A1.000,00 
+OL,17,C]D10             @60            A25,00 
+OL,18,C] D9            @682             A8,00 
+OL,19,C] D8           @3297             A2,00 
 OL,20,C]DKaskada. Sprawd~,jak }atwo wygrywa^! 
 OL,21,S///////////////////////////////////////
 OL,22,Q

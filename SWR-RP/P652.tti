@@ -1,36 +1,19 @@
 DE,SWR-RP 652
-PN,65201
-SC,0001
-PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   So, 22.11.26G07:44:08
+PN,65200
+SC,0000
+PS,8208
+CT,15,T
+OL,0,       BSWR RLPC   So, 22.11.26G21:23:11
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,9,FWARNUNG vor FROST                      
-OL,10, G}ltig: Sa 22:00 bis So 09:00          
+OL,10, G}ltig: So 20:00 bis Mo 11:00          
 OL,12,FFrankenthal, Speyer, Bad D}rkheim      
 OL,13,FNeustadt an der Weinstra~e, Speyer     
 OL,14,FRhein-Pfalz-Kreis/Ludwigshafen         
-OL,16, Es tritt leichter Frost zwischen 0 `C  
-OL,17, und -3 `C auf.                         
-OL,23,D]GQuelle:DWD  Stand:12:34  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,65202
-SC,0002
-PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   So, 22.11.26G07:44:08
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,10,FWARNUNG vor GL[TTE                     
-OL,11, G}ltig: So 05:51 bis So 09:00          
-OL,13,FFrankenthal, Speyer, Bad D}rkheim      
-OL,14,FNeustadt an der Weinstra~e, Speyer     
-OL,15,FRhein-Pfalz-Kreis/Ludwigshafen         
-OL,17, Es besteht Gl{ttegefahr.               
-OL,23,D]GQuelle:DWD  Stand:05:51  Hinweise 654
+OL,16, Es tritt leichter Frost zwischen -1 `C 
+OL,17, und -4 `C auf.                         
+OL,23,D]GQuelle:DWD  Stand:12:39  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

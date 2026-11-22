@@ -1,13 +1,39 @@
 DE,NDR 708
-PN,70800
-SC,0000
-PS,8208
-CT,10,T
-OL,0,       G708FNDR TEXT GSo 22.11.B09:13:43
+PN,70801
+SC,0001
+PS,C200
+CT,15,T
+OL,0,       G708FNDR TEXT GSo 22.11.B17:41:26
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
-OL,4,F]T  %D     Hamburg          Stand 08:55
+OL,4,F]T  %D     Hamburg          Stand 17:10
+OL,5, Hamburg: B4 Spaldingstra~e bis         
+OL,6, Amsinckstra~e, zwischen B75,           
+OL,7, Anckelmannsplatz und Schultzweg        
+OL,8, stockender Verkehr                     
+OL,10,FHamburg: B4, B75 der Elbbr}cke bis     
+OL,11,FAmsinckstra~e, zwischen Hamburg-Veddel 
+OL,12,Fund Klostertor stockender Verkehr      
+OL,14, Hamburg: Die Harksheider Stra~e ist    
+OL,15, zwischen Langheinstra~e und Ortsausgang
+OL,16, nach einem Unfall gesperrt.            
+OL,18,FHamburg: Der Brombeerweg ist zwischen  
+OL,19,FFliederweg und Heinrich-Traun-Stra~e   
+OL,20,Fnach einem Unfall in beiden Richtungen 
+OL,21,Fgesperrt.                              
+OL,23,A]G701<           FLUGHAFEN HAMBURG >710
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,70802
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G708FNDR TEXT GSo 22.11.B17:41:26
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
+OL,4,F]T  %D     Hamburg          Stand 16:50
 OL,5, Hamburg: Der Volksdorfer Weg ist       
 OL,6, zwischen Saseler Bogen und Saseler Weg 
 OL,7, wegen Bauarbeiten in beiden Richtungen 
@@ -21,5 +47,5 @@ OL,16, Wallstra~e wegen Br}ckenarbeiten bis
 OL,17, Dienstag, circa 22 Uhr, in beiden      
 OL,18, Richtungen gesperrt.                   
 OL,23,A]G701<           FLUGHAFEN HAMBURG >710
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

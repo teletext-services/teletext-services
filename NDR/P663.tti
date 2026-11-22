@@ -2,89 +2,89 @@ DE,NDR 663
 PN,66301
 SC,0001
 PS,C200
-CT,10,T
-OL,0,       G663FNDR TEXT GSo 22.11.B08:01:40
+CT,15,T
+OL,0,       G663FNDR TEXT GSo 22.11.B17:39:18
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTERWERTE                 
 OL,4,F]T  %D     Deutschland und Europa      
-OL,5, Stand: 22.11.2026             06:00 Uhr
+OL,5, Stand: 22.11.2026             15:00 Uhr
 OL,6,FTmp: Aktuelle Lufttemperatur in `C     
 OL,7,FWetter: Aktueller Wetterzustand        
 OL,8,FNsl: Niederschlag letzte Stunde in l/qm
 OL,10,F             Tmp Wetter             Nsl
-OL,11, Berlin .....   4 nach Regen ......    0
-OL,12,FDresden ....   4 bedeckt ......... <0,1
-OL,13, Erfurt .....   1 stark bew|lkt ...    0
-OL,14,FFrankfurt/M.  -1 nicht gemeldet ..    0
-OL,15, Freiburg ...   3 bedeckt .........    0
-OL,16,FK|ln/Bonn ..  -3 Nebel und Reif ..    0
-OL,17, Magdeburg ..   3 wolkig ..........    0
-OL,18,FM}nchen ....  -1 Nebel und Reif ..    0
-OL,19, N}rnberg ...  -4 bedeckt .........    0
-OL,20,FSaarbr}cken.   0 bedeckt .........    0
-OL,21, Stuttgart ..   1 Nebel ...........    0
-OL,22,FZugspitze ..  -9 nach Schneef. ...    -
+OL,11, Berlin .....   4 stark bew|lkt ...    0
+OL,12,FDresden ....   - nicht gemeldet ..    -
+OL,13, Erfurt .....   4 leicht bew|lkt ..    0
+OL,14,FFrankfurt/M.   5 nicht gemeldet ..    0
+OL,15, Freiburg ...   3 leichter Regen ..  1,1
+OL,16,FK|ln/Bonn ..   4 bedeckt .........    0
+OL,17, Magdeburg ..   5 wolkenlos .......    0
+OL,18,FM}nchen ....   3 stark bew|lkt ...    0
+OL,19, N}rnberg ...   3 bedeckt .........    0
+OL,20,FSaarbr}cken.   4 bedeckt .........    0
+OL,21, Stuttgart ..   5 bedeckt .........    0
+OL,22,FZugspitze ..  -6 etwas Schnee ....    -
 OL,23,D]G650<                   WEITER >664 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
 PN,66302
 SC,0002
 PS,C200
-CT,10,T
-OL,0,       G663FNDR TEXT GSo 22.11.B08:01:40
+CT,15,T
+OL,0,       G663FNDR TEXT GSo 22.11.B17:39:18
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTERWERTE                 
 OL,4,F]T  %D     Deutschland und Europa      
-OL,5, Stand: 22.11.2026             06:00 Uhr
+OL,5, Stand: 22.11.2026             16:00 Uhr
 OL,6,F              Wetter         Temperatur
-OL,7, Amsterdam ..  Nebel und Reif ..   -2 `C
-OL,8,FAthen ......  leicht bew|lkt ..   14 `C
-OL,9, Br}ssel ....  leicht bew|lkt ..   -1 `C
-OL,10,FBudapest ...  bedeckt .........    1 `C
-OL,11, Dublin .....  bedeckt .........    9 `C
-OL,12,FKopenhagen .  nach Regen ......    3 `C
-OL,13, London .....  bedeckt .........    6 `C
-OL,14,FMadrid .....  fast wolkenlos ..    9 `C
-OL,15, Oslo .......  Regenschauer ....    1 `C
-OL,16,FParis ......  etwas Regen .....    8 `C
-OL,17, Prag .......  stark bew|lkt ...    1 `C
-OL,18,FRom ........  leicht bew|lkt ..   15 `C
+OL,7, Amsterdam ..  wolkenlos .......    7 `C
+OL,8,FAthen ......  leicht bew|lkt ..   18 `C
+OL,9, Br}ssel ....  leicht bew|lkt ..    4 `C
+OL,10,FBudapest ...  bedeckt .........    5 `C
+OL,11, Dublin .....  dunstig .........    8 `C
+OL,12,FKopenhagen .  stark bew|lkt ...    4 `C
+OL,13, London .....  fast wolkenlos ..    8 `C
+OL,14,FMadrid .....  fast wolkenlos ..   14 `C
+OL,15, Oslo .......  wolkenlos .......    3 `C
+OL,16,FParis ......  leichter Regen ..    9 `C
+OL,17, Prag .......  nach Schauer ....    2 `C
+OL,18,FRom ........  wolkig ..........   19 `C
 OL,19, Stockholm ..  etwas Schnee ....    0 `C
-OL,20,FWarschau ...  wolkig ..........    2 `C
-OL,21, Wien .......  wolkig ..........    3 `C
-OL,22,FZ}rich .....  bedeckt .........    5 `C
+OL,20,FWarschau ...  stark bew|lkt ...    3 `C
+OL,21, Wien .......  wolkig ..........    5 `C
+OL,22,FZ}rich .....  Regen ...........    5 `C
 OL,23,D]G650<                   WEITER >664 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(2/3)
 FL,101,200,300,650,0,100
 PN,66303
 SC,0003
 PS,C200
-CT,10,T
-OL,0,       G663FNDR TEXT GSo 22.11.B08:01:40
+CT,15,T
+OL,0,       G663FNDR TEXT GSo 22.11.B17:39:18
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD WETTERWERTE                 
 OL,4,F]T  %D     Deutschland und Europa      
-OL,5, Stand: 22.11.2026             06:00 Uhr
+OL,5, Stand: 22.11.2026             15:00 Uhr
 OL,6,F              Wetter         Temperatur
-OL,7, Algarve ....  nicht gemeldet ..   13 `C
-OL,8,FAntalya ....  nicht gemeldet ..   17 `C
-OL,9, Djerba .....  leicht bew|lkt ..   17 `C
-OL,10,FGran Canaria  wolkig ..........   21 `C
-OL,11, Ibiza ......  nicht gemeldet ..   18 `C
-OL,12,FKorfu ......  wolkig ..........   12 `C
-OL,13, Korsika ....  wolkig ..........    8 `C
-OL,14,FKreta ......  leicht bew|lkt ..   15 `C
-OL,15, Malaga .....  fast wolkenlos ..   17 `C
-OL,16,FMallorca ...  wolkig ..........   18 `C
-OL,17, Mykonos ....  nicht gemeldet ..   15 `C
-OL,18,FNizza ......  leichter Regen ..   11 `C
-OL,19, Rimini .....  etwas Niesel ....    8 `C
-OL,20,FSardinien ..  leicht bew|lkt ..   12 `C
-OL,21, Teneriffa ..  leicht bew|lkt ..   20 `C
-OL,22,FZypern .....  fast wolkenlos ..   14 `C
+OL,7, Algarve ....  leicht bew|lkt ..   19 `C
+OL,8,FAntalya ....  nicht gemeldet ..   22 `C
+OL,9, Djerba .....  nicht gemeldet ..   26 `C
+OL,10,FGran Canaria  leicht bew|lkt ..   25 `C
+OL,11, Ibiza ......  nicht gemeldet ..   20 `C
+OL,12,FKorfu ......  wolkig ..........   19 `C
+OL,13, Korsika ....  nicht gemeldet ..   19 `C
+OL,14,FKreta ......  leicht bew|lkt ..   20 `C
+OL,15, Malaga .....  nicht gemeldet ..   21 `C
+OL,16,FMallorca ...  nicht gemeldet ..   20 `C
+OL,17, Mykonos ....  leicht bew|lkt ..   19 `C
+OL,18,FNizza ......  fast wolkenlos ..   18 `C
+OL,19, Rimini .....  nach Regen ......   18 `C
+OL,20,FSardinien ..  stark bew|lkt ...   20 `C
+OL,21, Teneriffa ..  leicht bew|lkt ..   26 `C
+OL,22,FZypern .....  wolkig ..........   24 `C
 OL,23,D]G650<                   WEITER >664 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

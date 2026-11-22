@@ -2,8 +2,8 @@ DE,NDR 280
 PN,28001
 SC,0001
 PS,C200
-CT,10,T
-OL,0,       G280FNDR TEXT GSa 21.11.B21:48:04
+CT,15,T
+OL,0,       G280FNDR TEXT GSo 22.11.B17:29:46
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -13,38 +13,39 @@ OL,7, Neuenkirchen  - Twistringen      abges
 OL,9,BSamstag, 21. November                  
 OL,10, SV Esperke    - B-E Steimbke     abges 
 OL,12,BSonntag, 22. November                  
-OL,13, TuS Leese     - SG Hoya            -:- 
-OL,14, SV GW St|ckse - RSV Rehburg      abges 
-OL,16, TuS Wagenfeld - FC Sulingen        -:- 
+OL,13, TuS Wagenfeld - FC Sulingen        5:1 
+OL,14, TuS Leese     - SG Hoya            4:1 
+OL,16, SV GW St|ckse - RSV Rehburg      abges 
 OL,17, TuS Sudweyhe  - Germ.Helstorf      -:- 
-OL,19, Seckenhausen  - Bruchhausen-V      -:- 
-OL,20, STK Eilvese   - SV Weyhe           -:- 
+OL,19, Seckenhausen  - Bruchhausen-V      0:1 
+OL,20, STK Eilvese   - SV Weyhe         abges 
+OL,21,EWeyhe nicht angetreten!                
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/4)
 FL,101,200,300,650,0,100
 PN,28002
 SC,0002
 PS,C200
-CT,10,T
-OL,0,       G280FNDR TEXT GSa 21.11.B21:48:04
+CT,15,T
+OL,0,       G280FNDR TEXT GSo 22.11.B17:29:46
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Bezirksliga NI/Hann. 1      
 OL,6,C 1.STK Eilvese          15   72:5    42
-OL,7,F 2.SC Twistringen       15   37:14   33
-OL,8,F 3.TuS Wagenfeld        14   39:14   32
-OL,9,F 4.Bruchhausen-Vilsen   15   36:20   26
+OL,7,F 2.TuS Wagenfeld        15   44:15   35
+OL,8,F 3.SC Twistringen       15   37:14   33
+OL,9,F 4.Bruchhausen-Vilsen   16   37:20   29
 OL,10,F 5.SV Weyhe             15   41:35   24
 OL,11,F 6.Germania Helstorf    15   34:32   24
-OL,12,F 7.Seckenhausen-Fahr.   15   26:32   23
+OL,12,F 7.Seckenhausen-Fahr.   16   26:33   23
 OL,13,F 8.SV Esperke           15   28:31   22
 OL,14,F 9.SV B-E Steimbke      15   30:27   21
-OL,15,F10.FC Sulingen          15   23:22   21
-OL,16,F11.TV Neuenkirchen      15   33:37   17
-OL,17,F12.TuS Sudweyhe         15   25:34   17
-OL,18,F13.TuS Leese            15   37:58   17
-OL,19, 14.SG Hoya              14   15:39    8
+OL,15,F10.FC Sulingen          16   24:27   21
+OL,16,F11.TuS Leese            16   41:59   20
+OL,17,F12.TV Neuenkirchen      15   33:37   17
+OL,18,F13.TuS Sudweyhe         15   25:34   17
+OL,19, 14.SG Hoya              15   16:43    8
 OL,20, 15.SV GW St|ckse        15   16:50    7
 OL,21, 16.RSV Rehburg          15   18:60    7
 OL,23,B]D250<        BEZIRKSLIGA NI/HANN. 2 >>
@@ -53,8 +54,8 @@ FL,101,200,300,650,0,100
 PN,28003
 SC,0003
 PS,C200
-CT,10,T
-OL,0,       G280FNDR TEXT GSa 21.11.B21:48:04
+CT,15,T
+OL,0,       G280FNDR TEXT GSo 22.11.B17:29:46
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -63,36 +64,36 @@ OL,8,BSamstag, 21. November
 OL,9, OSV Hann. II   - Germ. Grasdorf  abges 
 OL,11,BSonntag, 22. November                  
 OL,12, TSV Burgdorf   - Kr{henw.-K. II    -:- 
-OL,13, TSV Stelingen  - TSV Bemerode      -:- 
-OL,15, Ramlingen-E II - SpVgg. D|hren     -:- 
-OL,16, FC Lehrte      - TuS Garbsen       -:- 
-OL,18, SF Anderten    - Engelb.-Sch.      -:- 
-OL,19, Hemmingen-W II - SC Wedemark       -:- 
+OL,13, TSV Stelingen  - TSV Bemerode    abges 
+OL,15, Ramlingen-E II - SpVgg. D|hren   abges 
+OL,16, FC Lehrte      - TuS Garbsen       0:4 
+OL,18, SF Anderten    - Engelb.-Sch.      4:2 
+OL,19, Hemmingen-W II - SC Wedemark       5:0 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/4)
 FL,101,200,300,650,0,100
 PN,28004
 SC,0004
 PS,C200
-CT,10,T
-OL,0,       G280FNDR TEXT GSa 21.11.B21:48:04
+CT,15,T
+OL,0,       G280FNDR TEXT GSo 22.11.B17:29:46
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Bezirksliga NI/Hann. 2      
 OL,6,C 1.SV Ramlingen-Ehl.II    14  33:12  31
 OL,7,F 2.SpVgg. D|hren          14  49:23  29
-OL,8,F 3.TSV Stelingen          13  31:17  25
-OL,9,F 4.TuS Garbsen            14  36:27  25
-OL,10,F 5.SF Anderten            14  41:29  23
+OL,8,F 3.TuS Garbsen            15  40:27  28
+OL,9,F 4.SF Anderten            15  45:31  26
+OL,10,F 5.TSV Stelingen          13  31:17  25
 OL,11,F 6.Germ. Grasdorf         13  28:19  23
-OL,12,F 7.FC Lehrte              14  31:30  22
+OL,12,F 7.FC Lehrte              15  31:34  22
 OL,13,F 8.MTV Ilten              14  22:23  19
-OL,14,F 9.SC Wedemark            13  24:33  19
-OL,15,F10.Kr{henwinkel-Kalt. II  14  22:27  18
-OL,16,F11.TSV Bemerode           14  20:31  16
-OL,17,F12.MTV Engelbostel-S.     13  20:25  15
-OL,18,F13.Hemmingen-West. II     14  22:30  15
+OL,14,F 9.SC Wedemark            14  24:38  19
+OL,15,F10.Hemmingen-West. II     15  27:30  18
+OL,16,F11.Kr{henwinkel-Kalt. II  14  22:27  18
+OL,17,F12.TSV Bemerode           14  20:31  16
+OL,18,F13.MTV Engelbostel-S.     14  22:29  15
 OL,19, 14.TSV Burgdorf           14  19:39   8
 OL,20, 15.OSV Hannover II        14  13:46   5
 OL,23,B]D250<        BEZIRKSLIGA NI/HANN. 1 >>

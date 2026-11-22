@@ -3,8 +3,8 @@ PN,22001
 SC,0001
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    220Csob 21 lis  20:13:02
+CT,15,T
+OL,0,      BSPORT    220Cnie 22 lis  22:49:59
 OL,1,C]DPI]KA NO[NA  ]  GPOLSKA - I LIGA     
 OL,2,FCHROBRY       - PUSZCZA       0:2 (0:1)
 OL,3,                 Bartolewski 35-sam     
@@ -24,8 +24,8 @@ PN,22002
 SC,0002
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    220Csob 21 lis  20:13:02
+CT,15,T
+OL,0,      BSPORT    220Cnie 22 lis  22:49:59
 OL,1,C]DPI]KA NO[NA  ]  GPOLSKA - I LIGA     
 OL,2,FPOGON GM      - ARKA          2:3 (0:1)
 OL,3, Majewski 75,87  Dembek 32-sam          
@@ -46,8 +46,8 @@ PN,22003
 SC,0003
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BSPORT    220Csob 21 lis  20:13:02
+CT,15,T
+OL,0,      BSPORT    220Cnie 22 lis  22:49:59
 OL,1,C]DPI]KA NO[NA  ]  GPOLSKA - I LIGA     
 OL,2,FRUCH          - WARTA         1:2 (1:1)
 OL,3, Szczepan 4      Kusztal 24             
@@ -55,9 +55,32 @@ OL,4,                 Kendzia 77
 OL,6,CGLuki^, Kristan - Wojcinowicz         
 OL,8,FS`dzia:G]ukasz Szczech (Warszawa).     
 OL,9,FWidz_w:G8655.                          
-OL,14,FUNIA        - POGON SIEDLCE 22.11,12.00
-OL,18,C                                      
-OL,20,FS`dzia:                                
+OL,14,FUNIA        - POGON SIEDLCE   0:0      
+OL,18,CGKami$ski - Mi|, Szuprytowski         
+OL,20,FS`dzia:GDamian Krumplewski (Olsztyn).  
 OL,21,FWidz_w:                                
+OL,24,   A219      B221      C222      F223   
+FL,219,221,222,223,0,100
+PN,22004
+SC,0004
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    220Cnie 22 lis  22:49:59
+OL,1,C]DPI]KA NO[NA  ]  GPOLSKA - I LIGA     
+OL,2,FLECHIA GDANSK - ODRA OPOLE    2:1 (1:1)
+OL,3, Blanuta 45      Mijuskovi^ 2           
+OL,4, Dodaj 90+1                             
+OL,6,CGSzach - Kupczyk, Cassio, Gieroba     
+OL,8,FS`dzia:GPiotr Urban (Warszawa).        
+OL,9,FWidz_w:G6480.                          
+OL,13,FSTAL RZESZOW - POLONIA BYTOM  4:0 (1:0)
+OL,14, Wolski 26-sam                          
+OL,15, Buksa 57                               
+OL,16, Naifi 85                               
+OL,17, Wi|niowski 90                          
+OL,19,CGKaczor, Goss, Leniart - Krzy{ak      
+OL,21,FS`dzia:GGrzegorz Kawa}ko (Olsztyn).    
+OL,22,FWidz_w:G2047.                          
 OL,24,   A219      B221      C222      F223   
 FL,219,221,222,223,0,100

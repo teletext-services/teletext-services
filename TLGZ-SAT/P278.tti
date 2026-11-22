@@ -3,15 +3,26 @@ PN,27801
 SC,0001
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BPOLONIA  278Csob 21 lis  21:45:48
+CT,15,T
+OL,0,      BPOLONIA  278Cnie 22 lis  22:36:46
 OL,1,C]DRUGBY  ]        GEKSTRALIGA          
-OL,4,                 C21.11                 
-OL,5, Rugby Bia}ystok  - Awenta Pogo$  B14:00
-OL,6, Budowlani ]_d~   - RK Sparta     B14:00
-OL,7, Budowlani Lublin - RC Orkan      B13:30
-OL,8, RzKS Juvenia     - RC Arka GdyniaB14:00
-OL,9, RC Lechia Gda$sk - Energa Ogniwo B14:00
+OL,2,                 C21.11                 
+OL,3,FLechia Gda$sk - Energa Ogniwo Sopot    
+OL,4,                           F19:50 (0:40)
+OL,5,FPGE Edach Budowlani Lublin - Orkan     
+OL,6, FSochaczew                25:50 (11:33)
+OL,7,                 C22.11                 
+OL,8,FJuvenia Krak_w - Life Style Catering   
+OL,9, FArka Gdynia               12:48 (7:12)
+OL,11,CMecze rozegrane awansem:               
+OL,12,FBudmex Rugby Bia}ystok - Awenta Pogo$  
+OL,13, FSiedlce                   16:81 (6:31)
+OL,15,FWizjaMed Grot Budowlani ]_d~ - Sparta  
+OL,16, FJarocin                   105:0 (55:0)
+OL,18, W 2026 r. zostanie jeszcze rozegrany   
+OL,19, zaleg}y mecz 1. kolejki (28 listopada):
+OL,20, Life Style Catering Arka Gdynia - PGE  
+OL,21, Edach Budowlani Lublin.                
 OL,23,SpppppppppTppppppppppppppppppppppppppppp
 OL,24,   A278      B280      C281      F282   
 FL,278,280,281,282,0,100
@@ -19,21 +30,30 @@ PN,27802
 SC,0002
 PS,C000
 RE,1
-CT,10,T
-OL,0,      BPOLONIA  278Csob 21 lis  21:45:48
+CT,15,T
+OL,0,      BPOLONIA  278Cnie 22 lis  22:36:46
 OL,1,C]DRUGBY  ]        GEKSTRALIGA          
-OL,6,BBudowlani ]_d~   9  9  0  0  469:136 41
-OL,7,BPogo$ Awenta S.  9  7  0  2  505:142 35
-OL,8,BOrkan Sochaczew  8  7  0  1  393:141 33
-OL,9,BJuvenia Krak_w   8  5  0  3  206:215 22
-OL,10,BArka Gdynia      7  4  0  3  295:187 20
-OL,11,BOgniwo Sopot     8  3  0  5  378:250 15
-OL,12,ALechia Gda$sk    8  2  0  6  227:404 10
-OL,13,ABia}ystok        9  2  0  7  205:510  9
-OL,14,ABudowlani Lublin 7  2  0  5  117:346  8
-OL,15,ASparta Jarocin   9  0  0  9  160:624  3
-OL,20,BGawans - runda zwyci`zc_w             
-OL,21,AGrunda przegranych                    
+OL,2,            CM Z R P ma}e p.pkt. b.  +/-
+OL,3,F1. WizjaMed Grot Budowlani ]_d~        
+OL,4,             9 9 0 0 469-136 41 (5) +333
+OL,5,F2. Orkan Sochaczew                     
+OL,6,             9 8 0 1 443-166 38 (6) +277
+OL,7,F3. Awenta Pogo$ Siedlce                
+OL,8,             9 7 0 2 505-142 35 (7) +363
+OL,9,F4. Life Style Catering Arka Gdynia     
+OL,10,             8 5 0 3 343-199 25 (5) +144
+OL,11,F5. Juvenia Krak_w                      
+OL,12,             9 5 0 4 218-263 22 (2)  -45
+OL,13,F6. Energa Ogniwo Sopot                 
+OL,14,             9 4 0 5 428-269 20 (4) +159
+OL,15,F7. Lechia Gda$sk                       
+OL,16,             9 2 0 7 246-454 10 (2) -208
+OL,17,F8. Budmex Rugby Bia}ystok              
+OL,18,             9 2 0 7 205-510  9 (1) -305
+OL,19,F9. PGE Edach Budowlani Lublin          
+OL,20,             8 2 0 6 142-396  8 (0) -254
+OL,21,F10. Sparta Jarocin                     
+OL,22,             9 0 0 9 160-624  3 (3) -464
 OL,23,SpppppppppTppppppppppppppppppppppppppppp
 OL,24,   A278      B280      C281      F282   
 FL,278,280,281,282,0,100

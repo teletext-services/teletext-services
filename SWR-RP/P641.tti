@@ -2,38 +2,71 @@ DE,SWR-RP 641
 PN,64101
 SC,0001
 PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   So, 22.11.26G07:26:50
+CT,15,T
+OL,0,       BSWR RLPC   So, 22.11.26G21:22:27
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,11,FWARNUNG vor FROST                      
-OL,12, G}ltig: So 00:00 bis So 09:00          
+OL,12, G}ltig: So 18:00 bis Mo 10:00          
 OL,14,FKonstanz, L|rrach, Waldshut            
-OL,16, Es tritt leichter Frost bis -2 `C auf. 
-OL,23,D]GQuelle:DWD  Stand:12:31  Hinweise 654
+OL,16, Es tritt leichter Frost bis -3 `C auf. 
+OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,64102
 SC,0002
 PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   So, 22.11.26G07:26:50
+CT,15,T
+OL,0,       BSWR RLPC   So, 22.11.26G21:22:27
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,11,FWARNUNG vor GL[TTE                     
-OL,12, G}ltig: So 00:00 bis So 09:00          
-OL,14,FL|rrach, Waldshut                      
+OL,12, G}ltig: So 21:00 bis Mo 10:00          
+OL,14,FKonstanz                               
 OL,16, Es besteht Gl{ttegefahr.               
-OL,23,D]GQuelle:DWD  Stand:22:36  Hinweise 654
+OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,64103
 SC,0003
 PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   So, 22.11.26G07:26:50
+CT,15,T
+OL,0,       BSWR RLPC   So, 22.11.26G21:22:27
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor GL[TTE                     
+OL,11, G}ltig: So 21:00 bis Mo 10:00          
+OL,13,FKonstanz, L|rrach, Waldshut            
+OL,15, Es besteht unterhalb 800 m             
+OL,16, Gl{ttegefahr.                          
+OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64104
+SC,0004
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   So, 22.11.26G21:22:27
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor LEICHTEM SCHNEEFALL        
+OL,11, G}ltig: So 16:00 bis Mo 08:00          
+OL,13,FKonstanz, L|rrach, Waldshut            
+OL,15, Es tritt im Warnzeitraum oberhalb 800 m
+OL,16, leichter Schneefall mit Mengen bis 5 cm
+OL,17, auf. Verbreitet wird es glatt.         
+OL,23,D]GQuelle:DWD  Stand:09:56  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64105
+SC,0005
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   So, 22.11.26G21:22:27
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -44,22 +77,5 @@ OL,15, Es tritt im Warnzeitraum oberhalb 1000
 OL,16, m leichter Schneefall mit Mengen bis 15
 OL,17, cm auf. Verbreitet wird es glatt.      
 OL,23,D]GQuelle:DWD  Stand:06:56  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,64104
-SC,0004
-PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   So, 22.11.26G07:26:50
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,10,FWARNUNG vor NEBEL                      
-OL,11, G}ltig: Sa 23:31 bis So 09:00          
-OL,13,FL|rrach, Waldshut                      
-OL,15, Vor allem in Flussniederungen und      
-OL,16, Tallagen tritt gebietsweise Nebel mit  
-OL,17, Sichtweiten unter 150 Metern auf.      
-OL,23,D]GQuelle:DWD  Stand:23:31  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

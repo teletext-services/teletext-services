@@ -3,34 +3,70 @@ PN,12001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GSa 21 Nov F17:32:40
+OL,0,         GFORUM64   GSo 22 Nov F16:22:10
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,ECommodore 64 Ultimate von Commodore    
-OL,4,CAntwort:  BBretterwand                 
-OL,5,CComments: B14175                       
+OL,2,ESD-Karten-Problematik beim MEGA65      
+OL,4,CAntwort:  BSnoopy                      
+OL,5,CComments: B44                          
 OL,6,F                                       
-OL,7,F@controllport2                         
-OL,9,FIch sehe da kein bashing, sondern eine 
-OL,10,Feigene Meinung. Ich werde mir mal die  
-OL,11,FBilder die es so gibt im Vergleich     
-OL,12,Fanschauen. Reinwei~ w{re jetzt auch    
-OL,13,Fnicht so meins.                        
-OL,15,CErster Beitrag:                        
-OL,17,GHallo,                                 
-OL,19,G}ber einen Beitrag im Fratzenbuch bin  
-OL,20,Gich auf Folgendes gesto~en:            
-OL,21,Ghttps://www.commodore.net              
-OL,23,GUltimate64 Elite-2, Geh{use, Tastatur, 
-OL,24,D]FForum64.de RSS feed            (1/2) 
+OL,7,FClaude:                                
+OL,9,FGute Nachricht zuerst: SkulleateR hat  
+OL,10,Fgenau das best{tigt, worum es geht. Ein
+OL,11,Fabsichtlich fragmentiertes D81 wurde   
+OL,12,Fbeim Mounten im Freezer umkopiert und  
+OL,13,Fist danach auch im normalen Core       
+OL,14,Flesbar. Damit l{uft das Defragmentieren
+OL,15,Fauf echter Hardware                    
+OL,17,CErster Beitrag:                        
+OL,19,GIch hole das mal von hier r}ber, damit 
+OL,20,Gman vielleicht an dieses Problem mal   
+OL,21,Grangehen kann?                         
+OL,23,G( )                                    
+OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,12002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GSa 21 Nov F17:32:40
+OL,0,         GFORUM64   GSo 22 Nov F16:22:10
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GLED f}r unter 300,- . So der Plan vom  
-OL,4,Gneuen Commodore. Wer will, kann auch   
-OL,5,Gteurere Varianten kaufen.              
-OL,24,D]FForum64.de RSS feed            (2/2) 
+OL,3,GIch habe von FPGA-Progarmmierung leider
+OL,4,Gnur so viel Ahnung, wie vom            
+OL,5,GRosenz}chten in Neuseeland, aber       
+OL,6,Gzumindest kann ich Claude bedienen und 
+OL,7,Gmir damit helfen lassen, die           
+OL,8,Ginteressanten Stellen herauszufinden.  
+OL,10,GUnd hier habe ich mal zu dem Problem   
+OL,11,Gnachgefragt:                           
+OL,13,G---                                    
+OL,15,GFrage:                                 
+OL,17,GKannst du dieses Github-Repo |ffnen und
+OL,18,Geinsehen?                              
+OL,19,Ghttps://github.com/MEGA65/mega65-core  
+OL,21,GIch habe eine Frage dazu: Kannst du    
+OL,22,Gerkennen, ob und wenn ja, wo sich der  
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,12003
+SC,0003
+PS,C200
+CT,10,T
+OL,0,         GFORUM64   GSo 22 Nov F16:22:10
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GCode befindet, der f}r den Zugriff des 
+OL,4,GMEGA65 auf die SD-Karte zust{ndig ist? 
+OL,6,GClaude:                                
+OL,8,GJa, ich habe das Repo ge|ffnet (Branch 
+OL,9,Gdevelopment , Stand 31.10.2026). Der   
+OL,10,GSD-Karten-Code ist vorhanden und       
+OL,11,Gverteilt sich auf zwei Ebenen.         
+OL,13,G1. Hardware im FPGA (VHDL)             
+OL,15,Gsrc/vhdl/sdcard.vhdl (688 Zeilen)      
+OL,16,Genth{lt die Entity SdCardCtrl , den    
+OL,17,Geigentlichen SPI-Controller f}r die    
+OL,18,GKarte (Reset/Init, CMD-Sequenzen,      
+OL,19,GLesen/Schreiben von 512-Byte-Bl|cken,  
+OL,20,GSDHC). Er beruht auf einem             
+OL,21,GXESS-Controller (LGPL)                 
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

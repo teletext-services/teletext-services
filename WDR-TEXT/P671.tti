@@ -1,13 +1,46 @@
 DE,WDR-TEXT 671
-PN,67100
-SC,0000
-PS,8208
-CT,10,T
-OL,0,     G671 WDR Text GSo 22.11.26 08:14:34
+PN,67101
+SC,0001
+PS,C200
+CT,15,T
+OL,0,     G671 WDR Text GSo 22.11.26 23:42:44
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DSpezial-Ticker ]          
 OL,3,]T5D     Fu~ball Live-Ticker       
-OL,5,CMainz 05 : N}rnberg                -:- 
+OL,5,CMainz 05 : N}rnberg           1:0 (1:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Bathmann (34.)                     
+OL,10,CStrafen:                               
+OL,11,S|GGeorgieva (26.) S|GMartin (39.)      
+OL,12,S|GKats (61.)                           
+OL,14,CZuschauer: G1.000                      
+OL,16,CSR: GDaniela Kottmann                  
+OL,22,CMainz 05 : N}rnberg           1:0 (1:0)
 OL,23,]D600 < ]bersicht              weiter >>
-OL,24,A]G- 670B]G+ 672  \                     
+OL,24,A]G- 670B]G+ 672  \               G(1/2)
+FL,670,672,0,0,0,100
+PN,67102
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G671 WDR Text GSo 22.11.26 23:42:44
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DSpezial-Ticker ]          
+OL,3,]T5D     Fu~ball Live-Ticker       
+OL,6,CAustellungen:                          
+OL,8,CMainz 05                               
+OL,9, Sch|n Flach Jackson (81. St|hr)        
+OL,10, Georgieva Berg Imai                    
+OL,11, Martin (57. Kurishima)                 
+OL,12, Kats (68. Fetaj)                       
+OL,13, Anstatt (68. Bouziane)                 
+OL,14, Bathmann (81. Hashitani) Strickler     
+OL,15,CN}rnberg                               
+OL,16, Romero Homann Pollak (87. Fr|hlich)    
+OL,17, Lobanova Bleil Miller (87. Barboz)     
+OL,18, P pai Meroni (80. Li ina) Proniez      
+OL,19, Lapassouse (66. Brengel)               
+OL,20, Lein (79. Baumg{rtel)                  
+OL,23,]D600 < ]bersicht              weiter >>
+OL,24,A]G- 670B]G+ 672  \               G(2/2)
 FL,670,672,0,0,0,100

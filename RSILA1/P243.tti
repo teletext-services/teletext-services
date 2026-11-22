@@ -3,7 +3,7 @@ PN,24301
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G243  RSI LA 1  21.11.26 20:49:24
+OL,0,       G243  RSI LA 1  22.11.26 18:53:10
 OL,1,C]@CALCIO           G]@21.11.26 09:48G.=
 OL,2,G                                       
 OL,3,                                    1/3 
@@ -28,7 +28,7 @@ PN,24302
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G243  RSI LA 1  21.11.26 20:49:24
+OL,0,       G243  RSI LA 1  22.11.26 18:53:10
 OL,1,C]@CALCIO           G]@21.11.26 20:26G.=
 OL,2,G                                       
 OL,3,                                    2/3 
@@ -53,19 +53,23 @@ PN,24303
 SC,0003
 PS,C300
 CT,8,T
-OL,0,       G243  RSI LA 1  21.11.26 20:49:24
-OL,1,C]@CALCIO           G]@21.11.26 20:46G.=
+OL,0,       G243  RSI LA 1  22.11.26 18:53:10
+OL,1,C]@CALCIO           G]@21.11.26 23:27G.=
 OL,2,G                                       
 OL,3,                                    3/3 
-OL,4,CLens        - Tolosa     A *C 0-0 (.-.)
+OL,4,CLens        - Tolosa        C 1-1 (0-1)
+OL,5,G39'Russell-Rowe 0-1,G47'Cuisance 1-1.  
 OL,9,FLens:GRisser;GTodibo,GBaidoo,GUdol;G   
-OL,10,GAguilar,GCuisance,GTitraoui,GChavez;G  
-OL,11,GThauvin,GSoares;GSotoca.               
-OL,15,FTolosa:GRestes;GDiallo,GMcKenzie,G     
-OL,16,GNicolaisen,GTap@;GJorgensen,GCasseres  
-OL,17,GJr,GSigur,GRussell-Rowe;GHidalgo,G     
-OL,18,GTengstedt.                             
-OL,21,FStade Bollaert-Delelis                 
+OL,10,GAguilarG(59'Abdulhamid),GCuisanceC     
+OL,11,C(59'Haidara),GTitraoui,GChavezG        
+OL,12,G(72'Ganiou);GSoaresG(59'Sima),GSotocaG 
+OL,13,G(91'Skoras);CThauvin.                  
+OL,15,FTolosa:GRestes;GDiallo,GMcKenzieG      
+OL,16,G(46'Koumbassa),GNicolaisen,GTap@;G     
+OL,17,GJorgensenG(91'Vossah),GCasseres Jr,C   
+OL,18,CSigur,CHidalgoG(63'Oppong);GRussell-   
+OL,19,GRoweG(81'Donnum),GTengstedt.           
+OL,21,FStade Bollaert-Delelis: 37385          
 OL,22,GBastien DechepyG(FRA)                  
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

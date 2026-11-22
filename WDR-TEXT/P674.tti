@@ -1,13 +1,50 @@
 DE,WDR-TEXT 674
-PN,67400
-SC,0000
-PS,8208
-CT,10,T
-OL,0,     G674 WDR Text GSo 22.11.26 08:19:19
+PN,67401
+SC,0001
+PS,C200
+CT,15,T
+OL,0,     G674 WDR Text GSo 22.11.26 23:42:50
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DSpezial-Ticker ]          
 OL,3,]T5D     Fu~ball Live-Ticker       
-OL,5,CCottbus : Hertha BSC               -:- 
+OL,5,CCottbus : Hertha BSC          0:4 (0:1)
+OL,7,CTore:                                  
+OL,8, 0:1 Gr nning (6.) 0:2 Seguin (48.)     
+OL,9, 0:3 Zeefuik (89.) 0:4 Nilsson (90.)    
+OL,11,CStrafen:                               
+OL,12,Q|GDoumbia (58.) S|GBittencourt (59.)   
+OL,13,S|GWollitz (60.) S|GManu (63.)          
+OL,14,S|GKolbe (63.) S|GGouram (79.)          
+OL,15,S|Q|GGouram (90.)                       
+OL,17,CZuschauer: G19.662                     
+OL,19,CSR: GDr. Florian Exner                 
+OL,22,CCottbus : Hertha BSC          0:4 (0:1)
 OL,23,]D600 < ]bersicht              weiter >>
-OL,24,A]G- 673B]G+ 675  \                     
+OL,24,A]G- 673B]G+ 675  \               G(1/2)
+FL,673,675,0,0,0,100
+PN,67402
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G674 WDR Text GSo 22.11.26 23:42:50
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DSpezial-Ticker ]          
+OL,3,]T5D     Fu~ball Live-Ticker       
+OL,6,CAustellungen:                          
+OL,8,CCottbus                                
+OL,9, Lotka Doumbia Manu Erlein              
+OL,10, Guwara (77. Borgmann) Michelbrink      
+OL,11, Bittencourt (77. Ci erci) Rorig        
+OL,12, Kinsombi (71. Hannemann)               
+OL,13, Copado (82. Boziaris)                  
+OL,14, Butler (71. Bohdanov)                  
+OL,15,CHertha BSC                             
+OL,16, Gersbeck Pedersen (77. Alfa-Ruprecht)  
+OL,17, Kolbe Gechter Zeefuik                  
+OL,18, Sessa (83. Klemens) Seguin             
+OL,19, Brekalo (77. Eitschberger)             
+OL,20,  orsteinsson Adewumi (67. Gouram)      
+OL,21, Gr nning (67. Nilsson)                 
+OL,23,]D600 < ]bersicht              weiter >>
+OL,24,A]G- 673B]G+ 675  \               G(2/2)
 FL,673,675,0,0,0,100

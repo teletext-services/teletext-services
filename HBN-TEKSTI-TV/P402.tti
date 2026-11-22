@@ -3,43 +3,62 @@ PN,40201
 SC,0001
 PS,C100
 CT,25,T
-OL,0,       G402 HBN TEKSTI-TVG22.11.01:04:04
-OL,1,  S`"rr(                          G1/2  
+OL,0,       G402 HBN TEKSTI-TVG22.11.16:26:21
+OL,1,  S`"rr(                          G1/3  
 OL,2,T]S$.-b  GIlmatieteen laitos 22.11.   
-OL,3,T]Wx||}0 GS{{tiedotus klo 02          
+OL,3,T]Wx||}0 GS{{tiedotus klo 17          
 OL,4,  W+/o//!                              
 OL,5,CS{{                                    
-OL,6,GSuuressa osassa maata sataa            
-OL,7,Gl{hivuorokauden aikana lunta tai       
-OL,8,Gr{nt{{. Lapissa s{{ poutaantuu         
-OL,9,Gv{hitellen.                            
-OL,11,GPuolipilvist{ tai pilvist{ ja paikoin  
-OL,12,Gvesi- tai r{nt{kuuroja. Aamup{iv{ll{   
-OL,13,Gpohjoisesta alkaen lumisadetta,        
-OL,14,Getel{rannikolla poutaa. L{mp|tila on   
-OL,15,G+2...-2 astetta. Heikkoa tai           
-OL,16,Gkohtalaista pohjoisenpuoleista tuulta. 
+OL,6,GSuuressa osassa maata on ep{vakaista   
+OL,7,Gl{hivuorokauden aikana lumi- tai       
+OL,8,Gr{nt{sateiden takia, mutta Lapissa s{{ 
+OL,9,Gon enimm{kseen poutainen. Pohjoistuuli 
+OL,10,Gvoimistuu p{iv{n kuluessa.             
+OL,12,GPilvist{ tai pilvistyv{{,              
+OL,13,Getel{rannikolla aluksi osin selke{{ ja 
+OL,14,Gpoutaa. Pohjoisesta alkaen ajoittain   
+OL,15,Glumisadetta, joka on paikoin sakeampaa 
+OL,16,GEtel{-Karjalassa. L{mp|tila on -2...+2 
+OL,17,Gastetta. Heikkoa tai kohtalaista       
+OL,18,Gpohjoisenpuoleista tuulta, joka        
+OL,19,Gvoimistuu y|t{ kohden.                 
 FL,0,0,0,0,0,100
 PN,40202
 SC,0002
 PS,C100
 CT,25,T
-OL,0,       G402 HBN TEKSTI-TVG22.11.01:04:04
-OL,1,  S`"rr(                          G2/2  
+OL,0,       G402 HBN TEKSTI-TVG22.11.16:26:21
+OL,1,  S`"rr(                          G2/3  
 OL,2,T]S$.-b  GIlmatieteen laitos 22.11.   
-OL,3,T]Wx||}0 GS{{tiedotus klo 02          
+OL,3,T]Wx||}0 GS{{tiedotus klo 17          
 OL,4,  W+/o//!                              
 OL,5,CS{{                                    
-OL,6,GPilvist{ ja lumisadetta, alueen        
-OL,7,Getel{osassa aluksi kuitenkin poutaa.   
-OL,8,GL{mp|tila on +1...-3 astetta.          
-OL,9,GEnimm{kseen kohtalaista pohjoisen ja   
-OL,10,Gid{n v{list{ tuulta. Aamusta alkaen    
-OL,11,Gtuuli on paikoin navakkaa sek{         
-OL,12,Gpuuskaista l{nness{.                   
-OL,14,GVaihtelevaa pilvisyytt{ ja paikoin     
-OL,15,Glumikuuroja, p{iv{ll{ enimm{kseen      
-OL,16,Gpoutaa. L{mp|tila on enimm{kseen -2...-
-OL,17,G10 astetta. Heikkoa tai kohtalaista    
-OL,18,Gpohjoisenpuoleista tuulta.             
+OL,6,GPilvist{ ja yleisesti lumisadetta.     
+OL,7,GIltaa kohden lumisade heikkenee. S{{   
+OL,8,Gpoutaantuu v{hitellen luoteesta        
+OL,9,Galkaen. L{mp|tila on +1...-4 astetta,  
+OL,10,Gy|ll{ koko alueella nollan asteen      
+OL,11,Gvaiheilla. Enimm{kseen kohtalaista,    
+OL,12,Gpaikoin navakkaa sek{ puuskaista       
+OL,13,Gpohjoisenpuoleista tuulta.             
+FL,0,0,0,0,0,100
+PN,40203
+SC,0003
+PS,C100
+CT,25,T
+OL,0,       G402 HBN TEKSTI-TVG22.11.16:26:21
+OL,1,  S`"rr(                          G3/3  
+OL,2,T]S$.-b  GIlmatieteen laitos 22.11.   
+OL,3,T]Wx||}0 GS{{tiedotus klo 17          
+OL,4,  W+/o//!                              
+OL,5,CS{{                                    
+OL,6,GVaihtelevaa pilvisyytt{ ja enimm{kseen 
+OL,7,Gpoutaa, L{nsi- ja Pohjois-Lapissa      
+OL,8,Gosaksi selke{{. Huomenna p{iv{ll{      
+OL,9,GPohjois-Lapissa pilvisemp{{ ja jokunen 
+OL,10,Glumikuuro. L{mp|tila on -1...-8,       
+OL,11,GPohjois-Lapissa y|ll{ -5...-15         
+OL,12,Gastetta. Enimm{kseen kohtalaista       
+OL,13,Gpohjoisenpuoleista tuulta, joka on     
+OL,14,Gtuntureilla kovaa.                     
 FL,0,0,0,0,0,100

@@ -1,13 +1,58 @@
 DE,WDR-TEXT 639
-PN,63900
-SC,0000
-PS,8208
-CT,10,T
-OL,0,     G639 WDR Text GSo 22.11.26 07:23:21
+PN,63901
+SC,0001
+PS,C200
+CT,15,T
+OL,0,     G639 WDR Text GSo 22.11.26 23:41:08
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: Bundesliga/F     
-OL,5,CFreiburg : VfB Stuttgart           -:- 
+OL,5,CFreiburg : VfB Stuttgart      2:0 (0:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Vobian (86.) 2:0 Birkholz (89.)    
+OL,10,CStrafen:                               
+OL,11,S|GAchci ska (49.) S|GBirkholz (57.)    
+OL,12,S|GHecke (75.)                          
+OL,14,CZuschauer: G3.626                      
+OL,16,CSR: GSelina Menzel                     
 OL,23,]D600 < ]bersicht      Live-Ticker > 640
-OL,24,A]G- 638B]G+ 640  \                     
+OL,24,A]G- 638B]G+ 640  \               G(1/3)
+FL,638,640,0,0,0,100
+PN,63902
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G639 WDR Text GSo 22.11.26 23:41:08
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: Bundesliga/F     
+OL,5,CFreiburg : VfB Stuttgart      2:0 (0:0)
+OL,7,CAustellungen:                          
+OL,9,CFreiburg                               
+OL,10, Reimann Memminger Stierli Axtmann      
+OL,11, Karl Schneider (79. Ojukwu) Acikg|z    
+OL,12, Kolb (70. Arfaoui)                     
+OL,13, Vincze (79. Vobian)                    
+OL,14, Birkholz (90. Seghir)                  
+OL,15, Brunold (70. Bienz)                    
+OL,16,CVfB Stuttgart                          
+OL,17, Giuliani Z{hringer (46. Hecke)         
+OL,18, Stegemann Norman M}ller Hirano         
+OL,19, Achci ska (89. Schetter) Rall          
+OL,20, Redzepi (76. D}rr)                     
+OL,21, Wieder (62. R}ckert)                   
+OL,23,]D600 < ]bersicht      Live-Ticker > 640
+OL,24,A]G- 638B]G+ 640  \               G(2/3)
+FL,638,640,0,0,0,100
+PN,63903
+SC,0003
+PS,C200
+CT,15,T
+OL,0,     G639 WDR Text GSo 22.11.26 23:41:08
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: Bundesliga/F     
+OL,5, Billa (62. Arouna)                     
+OL,23,]D600 < ]bersicht      Live-Ticker > 640
+OL,24,A]G- 638B]G+ 640  \               G(3/3)
 FL,638,640,0,0,0,100

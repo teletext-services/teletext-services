@@ -2,11 +2,36 @@ DE,ORFSPORT 288
 PN,28801
 SC,0001
 PS,C200
-CT,10,T
-OL,0,       G288CORF SPORT+G21.11.26 22:01:08
+CT,15,T
+OL,0,       G288CORF SPORT+G22.11.26 18:46:52
 OL,1,A]G                           Eishockey 
 OL,2,A]GSPORT  ]          Awin2day ICE Liga \
-OL,3,Q#########G                        1/3  
+OL,3,Q#########G                        1/2  
+OL,4,CSonntag, 17.00h                        
+OL,5,FMilano    - Vienna A    1:3G1:1 0:2 -:-
+OL,7,C17.30h                                 
+OL,8,FLinz      - VSV A       3:1G3:1 -:- -:-
+OL,10,FKAC       - Budapest A  1:3G1:1 -:- -:-
+OL,12,FInnsbruck - Salzburg A  2:2G2:1 -:- -:-
+OL,14,C19.00h                                 
+OL,15,FLjubljana - Pustertal   -:-G-:- -:- -:-
+OL,17,Cbereits beendet                        
+OL,18,FFehervar  - Bozen F     2:5G0:0 1:4 1:1
+OL,19, 3.900; Gerlach 30., Kuralt 46./PP;     
+OL,20, Kivihalme 22., Gellon 23., Mantenuto   
+OL,21, 26./PP, McClure 36., Digiacinto 60./EN;
+OL,22, Strafminuten: 6 bzw. 12                
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht  BSport   CFernsehen  FWetter
+FL,100,200,300,600,0,100
+PN,28802
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G288CORF SPORT+G22.11.26 18:46:52
+OL,1,A]G                           Eishockey 
+OL,2,A]GSPORT  ]          Awin2day ICE Liga \
+OL,3,Q#########G                        2/2  
 OL,4,CSamstag                                
 OL,5,FMilano    - Vienna      1:2 n.V.       
 OL,6,                       0:0 0:1 1:0 / 0:1
@@ -17,65 +42,6 @@ OL,11, Kapfenberg, 3.400; Conley 1.,48.,
 OL,12, Swaney 21.,24., Collins 31., Ganahl    
 OL,13, 43.; Murray 11./PP, Kalliokieli 35.;   
 OL,14, Strafminuten: 2 bzw. 2                 
-OL,16,CSonntag                                
-OL,17, Fehervar  - Bozen       16.00h         
-OL,18, Milano    - Vienna      17.00h         
-OL,19, Linz      - VSV         17.30h         
-OL,20, KAC       - Budapest    17.30h         
-OL,21, Innsbruck - Salzburg    17.30h         
-OL,22, Ljubljana - Pustertal   19.00h         
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]bersicht  BSport   CFernsehen  FWetter
-FL,100,200,300,600,0,100
-PN,28802
-SC,0002
-PS,C200
-CT,10,T
-OL,0,       G288CORF SPORT+G21.11.26 22:01:08
-OL,1,A]G                           Eishockey 
-OL,2,A]GSPORT  ]          Awin2day ICE Liga \
-OL,3,Q#########G                        2/3  
-OL,4,CFreitag                                
-OL,6,FInnsbruck - Linz        1:2 n.V.       
-OL,7, 1.800;                0:0 0:1 1:0 / 0:1
-OL,8, Bretschneider 57.; Moro 32.,62.;       
-OL,9, Strafminuten: 4 bzw. 0                 
-OL,11,FBudapest  - Bozen       6:8G2:3 1:2 3:3
-OL,12, 1.300; R|nni 10., Silye 19.,52./PP,    
-OL,13, Hadobas 24., Tammela 58., Savoie 59.;  
-OL,14, Bradley 9., Schneider 16.,20., McClure 
-OL,15, 35.,54.,59./EN, Leslie 39., Larcher 42.
-OL,16, Strafminuten: 6 bzw. 8                 
-OL,18,FVSV       - Ljubljana   2:6G0:1 0:3 2:2
-OL,19, 2.500; Maxa 57., Hughes 60.; Urbas 20.,
-OL,20, Douglas 31., Brennan 36./PP, Meyer 39.,
-OL,21, 52., Mehle 57.; Strafminuten: 14 bzw. 8
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]bersicht  BSport   CFernsehen  FWetter
-FL,100,200,300,600,0,100
-PN,28803
-SC,0003
-PS,C200
-CT,10,T
-OL,0,       G288CORF SPORT+G21.11.26 22:01:08
-OL,1,A]G                           Eishockey 
-OL,2,A]GSPORT  ]          Awin2day ICE Liga \
-OL,3,Q#########G                        3/3  
-OL,4,CFreitag                                
-OL,6,FSalzburg  - Graz        3:4 n.V.       
-OL,7, 3.100;                0:1 2:1 1:1 / 0:1
-OL,8, M.Raffl 31.,33., B|hm 46.;             
-OL,9, P.Huber 1.,60., Swaney 25.,64.;        
-OL,10, Strafminuten: 9 bzw. 13                
-OL,12,FPustertal - KAC         3:2G2:1 1:0 0:1
-OL,13, 2.700; Bowlby 5., Moncada 6.,          
-OL,14, Ierullo 34.; St.Denis 8.,54.;          
-OL,15, Strafminuten: 4 bzw. 4                 
-OL,17,FFehervar  - Vorarlberg  5:3G2:0 2:1 1:2
-OL,18, 3.700; Kulmala 5., Campbell 19., Cheek 
-OL,19, 24., Mihalik 27., Nemeth 59./EN;       
-OL,20, Serdachny 25./PP, Skrastins 52.,       
-OL,21, Bergmanis 53.; Strafminuten: 17 bzw. 13
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

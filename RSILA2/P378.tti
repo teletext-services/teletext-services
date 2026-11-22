@@ -3,28 +3,28 @@ PN,37801
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G378  RSI LA 2  22.11.26 00:25:58
-OL,1,C]@SPORT            G]@21.11.26 17:59G> 
+OL,0,       G378  RSI LA 2  22.11.26 19:08:21
+OL,1,C]@SPORT            G]@22.11.26 15:01G> 
 OL,3,    CMOTO3        MOTO2      MotoGP 1/4 
 OL,4,CTHAFAlmansa     GGonzalez   FBezzecchi 
 OL,5,CBRAFQuiles      GHolgado    FBezzecchi 
-OL,6,C   FPini        GAgius      FBezzecchi 
-OL,7,C   FQuiles      GAgius      FA.Marquez 
-OL,8,C   FQuiles      GGuevara    FMartin    
+OL,6,CAMEFPini        GAgius      FBezzecchi 
+OL,7,CESPFQuiles      GAgius      FA.Marquez 
+OL,8,CFRAFQuiles      GGuevara    FMartin    
 OL,9,CCATFQuiles      GGonzalez   FDi Giannan
 OL,10,CITAFB.Uriarte   GGonzalez   FBezzecchi 
 OL,11,CHUNFQuiles      GGonzalez   FM.Marquez 
-OL,12,C   FDanish      GOrtola     FM.Marquez 
-OL,13,C   FQuiles      GD.Alonso   FOgura     
-OL,14,C   FB.Uriarte   GOrtola     FM.Marquez 
+OL,12,CCZEFDanish      GOrtola     FM.Marquez 
+OL,13,CNEDFQuiles      GD.Alonso   FOgura     
+OL,14,CGERFB.Uriarte   GOrtola     FM.Marquez 
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,37802
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G378  RSI LA 2  22.11.26 00:25:58
-OL,1,C]@SPORT            G]@21.11.26 17:59G> 
+OL,0,       G378  RSI LA 2  22.11.26 19:08:21
+OL,1,C]@SPORT            G]@22.11.26 15:23G> 
 OL,3,    CMOTO3        MOTO2      MotoGP 2/4 
 OL,4,CGBRFAlmansa     GSalac      FR.Fernande
 OL,5,CARAFQuiles      GLopez      FM.Marquez 
@@ -32,9 +32,9 @@ OL,6,CSMRFQuiles      GGonzalez   FM.Marquez
 OL,7,CAUTFQuiles      GGuevara    FAcosta    
 OL,8,CJPNFAlmansa     GGuevara    FM.Marquez 
 OL,9,CINAFQuiles      GGuevara    FBezzecchi 
-OL,10,C   FQuiles      GD.Alonso   FM.Marquez 
-OL,11,C   FAlmansa     GHolgado    FBezzecchi 
-OL,12,C22.11F          GPortimao              
+OL,10,CMASFQuiles      GD.Alonso   FM.Marquez 
+OL,11,CQATFAlmansa     GHolgado    FBezzecchi 
+OL,12,CPORFQuiles      GDaniel MunoFBezzecchi 
 OL,13,C29.11F          GValencia              
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -42,7 +42,7 @@ PN,37803
 SC,0003
 PS,C300
 CT,8,T
-OL,0,       G378  RSI LA 2  22.11.26 00:25:58
+OL,0,       G378  RSI LA 2  22.11.26 19:08:21
 OL,1,C]@SPORT            G]@25.09.26 15:29G> 
 OL,3,CMoto: Calendario 2027/1         J  3/4 
 OL,4,    C                                  J
@@ -69,7 +69,7 @@ PN,37804
 SC,0004
 PS,C300
 CT,8,T
-OL,0,       G378  RSI LA 2  22.11.26 00:25:58
+OL,0,       G378  RSI LA 2  22.11.26 19:08:21
 OL,1,C]@SPORT            G]@07.10.26 10:16G> 
 OL,3,CMoto: Calendario 2027/2         J  4/4 
 OL,4,    C                                  J

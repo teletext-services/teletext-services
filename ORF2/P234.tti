@@ -2,11 +2,40 @@ DE,ORF2 234
 PN,23401
 SC,0001
 PS,C200
-CT,10,T
-OL,0,       G234FORF2   GSa 21.11.26 20:34:16
+CT,15,T
+OL,0,       G234FORF2   GSo 22.11.26 18:25:01
 OL,1,A]G                            Motorrad 
 OL,2,A]GSPORT  ]A    Portimao, 20.WM-Bewerb \
-OL,3,Q#########G                        1/5  
+OL,3,Q#########G                        1/4  
+OL,4,FMotoGP, Sonntag. Grand Prix            
+OL,6,FEndstand nach 25 Runden = 114,8 km     
+OL,7,  1. M.Bezzecchi   ITA/Aprilia 41:30,802
+OL,8,  2. J.Martin      ESP/Aprilia   + 3,845
+OL,9,  3. R.Fernandez   ESP/Aprilia     5,711
+OL,10,  4. Giannantonio  ITA/Ducati      8,828
+OL,11,G 5. A.Ogura       JPN/Aprilia    10,305
+OL,12,  6. F.Aldeguer    ESP/Ducati     14,107
+OL,13,  8. M.Marquez     ESP/Ducati     18,162
+OL,14,FStand nach 41 nach 43 Bewerben *       
+OL,15,  1. M.MARQUEZ     ESP/Ducati       439 
+OL,16,  2. J.Martin      ESP/Aprilia      396 
+OL,17,  3. M.Bezzecchi   ITA/Aprilia      394 
+OL,18,  4. P.Acosta      ESP/KTM          315 
+OL,19,  5. A.Ogura       JPN/Aprilia      309 
+OL,20,  6. Giannantonio  ITA/Ducati       298 
+OL,21,F10.WM-Titel f}r Marquez, 8. in MotoGP  
+OL,22,FN{chster Bewerb:GValencia (ESP/29.11.) 
+OL,23,Q,,,,,,,,,,,,,,,,F* 22 Sprints + 21 GPs 
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,23402
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G234FORF2   GSo 22.11.26 18:25:01
+OL,1,A]G                            Motorrad 
+OL,2,A]GSPORT  ]A    Portimao, 20.WM-Bewerb \
+OL,3,Q#########G                        2/4  
 OL,4,FMotoGP, Samstag, Sprint                
 OL,6,FEndstand nach 12 Runden = 55,104 km    
 OL,7,  1. M.Bezzecchi   ITA/Aprilia 19:48,999
@@ -16,110 +45,69 @@ OL,10,  4. P.Acosta      ESP/KTM        11,888
 OL,11,G 5. J.Martin      ESP/Aprilia    12,058
 OL,12,  6. A.Ogura       JPN/Aprilia    12,217
 OL,13,Fout u.a.:GM.Marquez                    
-OL,15,FStand nach 40 von 43 Bewerben *        
-OL,16,  1. M.Marquez     ESP/Ducati       431 
-OL,17,  2. J.Martin      ESP/Aprilia      376 
-OL,18,  3. M.Bezzecchi   ITA/Aprilia      369 
-OL,19,  4. P.Acosta      ESP/KTM          315 
-OL,20,  5. A.Ogura       JPN/Aprilia      298 
-OL,21,  6. Giannantonio  ITA/Ducati       285 
-OL,22,FN{chste Bewerbe:GPortimao (21.-22.11.) 
-OL,23,Q,,,,,,,,,,,,,,,,F* 22 Sprints + 21 GPs 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,23402
-SC,0002
-PS,C200
-CT,10,T
-OL,0,       G234FORF2   GSa 21.11.26 20:34:16
-OL,1,A]G                            Motorrad 
-OL,2,A]GSPORT  ]A    Portimao, 20.WM-Bewerb \
-OL,3,Q#########G                        2/5  
-OL,4,FMotoGP, Samstag                        
-OL,6,FQualifying                             
-OL,7,  1. M.Bezzecchi   ITA/Aprilia 1:37,201 
-OL,8,  2. M.Marquez     ESP/Ducati   + 0,494 
-OL,9,  3. Giannantonio  ITA/Ducati     0,622 
-OL,10,  4. R.Fernandez   ESP/Aprilia    0,916 
-OL,11,G 5. A.Marquez     ESP/Ducati     1,061 
-OL,12,  6. P.Acosta      ESP/KTM        1,103 
-OL,13,  7. J.Martin      ESP/Aprilia    1,113 
-OL,14,FStand nach 39 von 43 Bewerben *        
-OL,15,  1. M.Marquez     ESP/Ducati       431 
-OL,16,  2. J.Martin      ESP/Aprilia      371 
-OL,17,  3. M.Bezzecchi   ITA/Aprilia      357 
-OL,18,  4. P.Acosta      ESP/KTM          309 
-OL,19,  5. A.Ogura       JPN/Aprilia      294 
-OL,20,  6. Giannantonio  ITA/Ducati       282 
-OL,22,FN{chste Bewerbe:GPortimao (21.-22.11.) 
+OL,14,FStand nach 41 nach 43 Bewerben *       
+OL,15,  1. M.MARQUEZ     ESP/Ducati       439 
+OL,16,  2. J.Martin      ESP/Aprilia      396 
+OL,17,  3. M.Bezzecchi   ITA/Aprilia      394 
+OL,18,  4. P.Acosta      ESP/KTM          315 
+OL,19,  5. A.Ogura       JPN/Aprilia      309 
+OL,20,  6. Giannantonio  ITA/Ducati       298 
+OL,21,F10.WM-Titel f}r Marquez, 8. in MotoGP  
+OL,22,FN{chster Bewerb:GValencia (ESP/29.11.) 
 OL,23,Q,,,,,,,,,,,,,,,,F* 22 Sprints + 21 GPs 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,23403
 SC,0003
 PS,C200
-CT,10,T
-OL,0,       G234FORF2   GSa 21.11.26 20:34:16
+CT,15,T
+OL,0,       G234FORF2   GSo 22.11.26 18:25:01
 OL,1,A]G                            Motorrad 
 OL,2,A]GSPORT  ]A    Portimao, 20.WM-Bewerb \
-OL,3,Q#########G                        3/5  
-OL,4,FMoto2, Samstag                         
-OL,6,FQualifying                             
-OL,7,  1. S.Agius       AUS/Kalex   1:40,547 
-OL,8,  2. D.Holgado     ESP/Kalex    + 0,098 
-OL,9,  3. I.Guevara     ESP/Boscoscuro 0,240 
-OL,10,  4. C.Veijer      NED/KTM        0,369 
-OL,11,  5. I.Ortola      ESP/Kalex      0,467 
-OL,12,  6. D.Munoz       ESP/Kalex      0,504 
-OL,14,FStand nach 19 von 21 Bewerben          
+OL,3,Q#########G                        3/4  
+OL,4,FMoto2, Sonntag, Rennen                 
+OL,6,FEndstand nach 7 Runden = 32,144 km     
+OL,7,  1. D.Munoz       ESP/Kalex  11:58,764 
+OL,8,  2. I.Ortola      ESP/Kalex      1,558 
+OL,9,  3. S.Agius       AUS/Kalex      1,839 
+OL,10,  4. C.Veijer      NED/KTM        2,186 
+OL,11,  5. A.Lopez       ESP/Kalex      2,442 
+OL,12,  6. D.Holgado     ESP/Kalex      2,597 
+OL,14,FStand nach 20 von 21 Bewerben          
 OL,15,  1. M.Gonzalez    ESP/Kalex      286,5 
-OL,16,  2. I.Guevara     ESP/Boscoscuro 273,0 
-OL,17,  3. I.Ortola      ESP/Kalex      219,5 
-OL,18,  4. D.Holgado     ESP/Kalex      215,0 
-OL,19,  5. D.Alonso      COL/Kalex      204,0 
-OL,20,  6. S.Agius       AUS/Kalex      175,0 
-OL,22,FN{chster Bewerb:GPortimao (POR/22.11.) 
-OL,23,Q,,,,,F* 1.WM-Titel f}r den 18-J{hrigen 
+OL,16,  2. I.Guevara     ESP/Boscoscuro 282,0 
+OL,17,  3. I.Ortola      ESP/Kalex      230,5 
+OL,18,  4. D.Holgado     ESP/Kalex      225,0 
+OL,19,  5. D.Alonso      COL/Kalex      217,0 
+OL,20,  6. S.Agius       AUS/Kalex      191,0 
+OL,22,FN{chster Bewerb:GValencia (ESP/29.11.) 
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,23404
 SC,0004
 PS,C200
-CT,10,T
-OL,0,       G234FORF2   GSa 21.11.26 20:34:16
+CT,15,T
+OL,0,       G234FORF2   GSo 22.11.26 18:25:01
 OL,1,A]G                            Motorrad 
 OL,2,A]GSPORT  ]A    Portimao, 20.WM-Bewerb \
-OL,3,Q#########G                        4/5  
-OL,4,FMoto3, Samstag                         
-OL,6,FQualifying                             
-OL,7,  1. D.Almansa     ESP/KTM     1:45,479 
-OL,8,  2. B.Uriarte     ESP/KTM        0,462 
-OL,9,  3. D.Munoz       ESP/KTM        0,580 
-OL,10,  4. J.Kelso       AUS/Honda      0,599 
-OL,11,  5. J.Esteban     ESP/KTM        0,663 
-OL,12,Fweiters, out in Q1                     
-OL,13, 26. Rammerstorfer AUT/Honda   1:48,821 
-OL,15,FStand nach 19 von 21 Bewerben          
-OL,16,  1. M.QUILESF*G   ESP/KTM          392 
-OL,17,  2. D.Almansa     ESP/KTM          253 
-OL,18,  3. A.Carpe       ESP/KTM          216 
-OL,19,  4. B.Uriarte     ESP/KTM          207 
-OL,20,  5. A.Fernandez   ESP/Honda        177 
-OL,21,F26. Rammerstorfer AUT/Honda          2 
-OL,22,FN{chster Bewerb:GPortimao (POR/22.11.) 
+OL,3,Q#########G                        4/4  
+OL,4,FMoto3, Sonntag, Rennen                 
+OL,6,FEndstand nach 12 Runden = 55,105 km    
+OL,7,  1. M.Quiles      ESP/KTM    22:12,187 
+OL,8,  2. R.Salmela     FIN/KTM      + 0,457 
+OL,9,  3. A.Fernandez   ESP/Honda      0,666 
+OL,10,  4. D.Almansa     ESP/KTM        0,746 
+OL,11,  5. J.Kelso       AUS/Honda      0,599 
+OL,12,F17. Rammerstorfer AUT/Honda     32,609 
+OL,14,FStand nach 20 von 21 Bewerben          
+OL,15,  1. M.QUILESF*G   ESP/KTM          417 
+OL,16,  2. D.Almansa     ESP/KTM          266 
+OL,17,  3. A.Carpe       ESP/KTM          224 
+OL,18,  4. B.Uriarte     ESP/KTM          217 
+OL,19,  5. A.Fernandez   ESP/Honda        193 
+OL,20,F26. Rammerstorfer AUT/Honda          2 
+OL,22,FN{chster Bewerb:GValencia (ESP/29.11.) 
 OL,23,Q,,,,,F* 1.WM-Titel f}r den 18-J{hrigen 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,23405
-SC,0005
-PS,C200
-CT,10,T
-OL,0,       G234FORF2   GSa 21.11.26 20:34:16
-OL,1,A]G                            Motorrad 
-OL,2,A]GSPORT  ]A WeitererAWM-Kalender 2026 \
-OL,3,Q#########G                        5/5  
-OL,4,F22.11. Portugal         Portimao       
-OL,6, 29.11. Valencia         Valencia       
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

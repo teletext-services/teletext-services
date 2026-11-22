@@ -2,59 +2,40 @@ DE,ORF2 231
 PN,23101
 SC,0001
 PS,C200
-CT,10,T
-OL,0,       G231FORF2   GSa 21.11.26 20:29:36
+CT,15,T
+OL,0,       G231FORF2   GSo 22.11.26 18:25:33
 OL,1,A]G                            Formel 1 
-OL,2,A]GSPORT  ]A     Las Vegas, 21.WM-Lauf \
-OL,3,Q#########G                        1/4  
-OL,4,F50 Runden a 6,201 km = 309,958 km      
-OL,6,CSonntag                                
-OL,7, GP von Las Vegas               5.00hF* 
-OL,9,F            * live in ORF1             
-OL,11,FErgebnis 2025                          
-OL,12,  1. Max Verstappen       Red Bull      
-OL,13,  2. George Russell       Mercedes      
-OL,14,  3. Kimi Antonelli       Mercedes      
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,A]GSPORT  ]A         A   AWM-Wertungen \
+OL,3,Q#########G                        1/3  
+OL,4,FStand nach 27 von 29 Bewerben *        
+OL,6,FFahrer-WM                              
+OL,7,  1. KIMI ANTONELLI    ITA/Mercedes 402 
+OL,8,  2. Max Verstappen    NED/Red Bull 304 
+OL,9,  3. Lewis Hamilton    GBR/Ferrari  267 
+OL,10,  4. George Russell    GBR/Mercedes 264 
+OL,11,  5. Lando Norris      GBR/McLaren  264 
+OL,12,  6. Charles Leclerc   MON/Ferrari  250 
+OL,13,  7. Oscar Piastri     AUS/McLaren  167 
+OL,14,  8. Isack Hadjar      FRA/Red Bull 122 
+OL,15,  9. Liam Lawson       NZL/Racing B. 89 
+OL,16, 10. Pierre Gasly      FRA/Alpine    52 
+OL,17,FKonstrukteurs-WM                       
+OL,18,  1. MERCEDES    666  6. Alpine      87 
+OL,19,  2. Ferrari     517  7. Haas        31 
+OL,20,  3. Red Bull    440  8. Audi        28 
+OL,21,  4. McLaren     431  9. Williams    16 
+OL,22,  5. RacingBulls 114 10. Aston Martin 7 
+OL,23,Q,,,,,,,,,,,,,,,,,F* 23 GPs + 6 Sprints 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,23102
 SC,0002
 PS,C200
-CT,10,T
-OL,0,       G231FORF2   GSa 21.11.26 20:29:36
-OL,1,A]G                            Formel 1 
-OL,2,A]GSPORT  ]A         A   AWM-Wertungen \
-OL,3,Q#########G                        2/4  
-OL,4,FStand nach 26 von 29 Bewerben *        
-OL,6,FFahrer-WM                              
-OL,7,  1. KIMI ANTONELLI    ITA/Mercedes 390 
-OL,8,  2. Max Verstappen    NED/Red Bull 279 
-OL,9,  3. George Russell    GBR/Mercedes 262 
-OL,10,  4. Lewis Hamilton    GBR/Ferrari  261 
-OL,11,  5. Charles Leclerc   MON/Ferrari  249 
-OL,12,  6. Lando Norris      GBR/McLaren  246 
-OL,13,  7. Oscar Piastri     AUS/McLaren  152 
-OL,14,  8. Isack Hadjar      FRA/Red Bull 122 
-OL,15,  9. Liam Lawson       NZL/Racing B. 89 
-OL,16, 10. Pierre Gasly      FRA/Alpine    42 
-OL,17,FKonstrukteurs-WM                       
-OL,18,  1. MERCEDES    652  6. Alpine      69 
-OL,19,  2. Ferrari     510  7. Haas        31 
-OL,20,  3. Red Bull    415  8. Audi        28 
-OL,21,  4. McLaren     398  9. Williams    12 
-OL,22,  5. RacingBulls 114 10. Aston Martin 7 
-OL,23,Q,,,,,,,,,,,,,,,,,F* 23 GPs + 6 Sprints 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,23103
-SC,0003
-PS,C200
-CT,10,T
-OL,0,       G231FORF2   GSa 21.11.26 20:29:36
+CT,15,T
+OL,0,       G231FORF2   GSo 22.11.26 18:25:33
 OL,1,A]G                            Formel 1 
 OL,2,A]GSPORT  ]A         A  AKalender 2026 \
-OL,3,Q#########G                        3/4  
+OL,3,Q#########G                        2/3  
 OL,4,F08.03.GAUS Melbourne           Russell 
 OL,5,F15.03.GCHN Shanghai *        Antonelli 
 OL,6,F29.03.GJPN Suzuka  G         Antonelli 
@@ -70,14 +51,14 @@ OL,19,G* mit Sprint
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,23104
-SC,0004
+PN,23103
+SC,0003
 PS,C200
-CT,10,T
-OL,0,       G231FORF2   GSa 21.11.26 20:29:36
+CT,15,T
+OL,0,       G231FORF2   GSo 22.11.26 18:25:33
 OL,1,A]G                            Formel 1 
 OL,2,A]GSPORT  ]A         A  AKalender 2026 \
-OL,3,Q#########G                        4/4  
+OL,3,Q#########G                        3/3  
 OL,4,F23.08.GNED ZandvoortG*G         Norris 
 OL,6,F06.09.GITA Monza  G          Antonelli 
 OL,7,F13.09.GESP MadridF G         Antonelli 
@@ -87,7 +68,7 @@ OL,11,F11.10.GSGP SingapurG*       Verstappen
 OL,12,F25.10.GUSA Austin            Antonelli 
 OL,14,F01.11.GMEX Mexico CityF G   Verstappen 
 OL,15,F08.11.GBRA Sao Paulo            Norris 
-OL,16,F22.11.GLVG Las VegasF*G          5.00h 
+OL,16,F22.11.GLVG Las Vegas  G     Verstappen 
 OL,17,F29.11.GQAT Doha                 17.00h 
 OL,19,F06.12.GUAE Abu DhabiF*G         14.00h 
 OL,21,G* mit Sprint           F* live in ORF1 

@@ -2,49 +2,101 @@ DE,ORFSPORT 304
 PN,30401
 SC,0001
 PS,C200
-CT,10,T
-OL,0,       G304CORF SPORT+G21.11.26 22:27:27
+CT,15,T
+OL,0,       G304CORF SPORT+G22.11.26 18:47:12
 OL,1,A]G                     ORF SPORT im TV 
 OL,2,A]GFERNSEHEN  ]A                  ORF1 \
-OL,3,Q#############G                    1/2  
-OL,4,CSamstag, 21.November                   
-OL,5,FSkispringen live                16.35h 
-OL,6, Lillehammer: 1.Herren-Bewerb           
-OL,7,FSki alpin                       23.55h 
-OL,8, Gurgl: Damen-Slalom (Zf.)              
-OL,10,CSonntag, 22.November                   
-OL,11,FFormel 1 live                    4.00h 
-OL,12, Las Vegas: Grand Prix (5.00h)          
+OL,3,Q#############G                    1/4  
+OL,4,CSonntag, 22.November                   
+OL,5,FFu~ball am Sonntag              18.15h 
+OL,6, Magazin                                
+OL,8,CMontag, 23.November                    
+OL,9,FSki alpin                        0.25h 
+OL,10, Gurgl: Herren-Slalom (Zf.)             
+OL,11,FFormel 1                         4.00h 
+OL,12, Las Vegas: Grand Prix (Wh.)            
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
 PN,30402
 SC,0002
 PS,C200
-CT,10,T
-OL,0,       G304CORF SPORT+G21.11.26 22:27:27
+CT,15,T
+OL,0,       G304CORF SPORT+G22.11.26 18:47:12
 OL,1,A]G                     ORF SPORT im TV 
 OL,2,A]GFERNSEHEN  ]A                  ORF1 \
-OL,3,Q#############G                    2/2  
-OL,4,CSonntag, 22.November                   
-OL,5,FSport-Bild                       9.30h 
-OL,6,FSki alpin live                  10.00h 
-OL,7, Gurgl: Herren-Slalom, 1.DG             
-OL,8,FSkispringen live                11.50h 
-OL,9, Lillehammer: 2.Damen-Bewerb            
-OL,10,FSki alpin live                  13.30h 
-OL,11, Gurgl: Herren-Slalom, 2.DG             
-OL,12,FFormel 1                        14.50h 
-OL,13, Las Vegas: Grand Prix (Zf.)            
-OL,14,FSkispringen live                15.50h 
-OL,15, Lillehammer: 2.Herren-Bewerb           
-OL,16,FFu~ball am Sonntag              18.15h 
-OL,17, Magazin                                
-OL,18,CMontag, 23.November                    
-OL,19,FSki alpin                        0.25h 
-OL,20, Gurgl: Herren-Slalom (Zf.)             
-OL,21,FFormel 1                         4.00h 
-OL,22, Las Vegas: Grand Prix (Wh.)            
+OL,3,Q#############G                    2/4  
+OL,4,CDonnerstag, 26.November                
+OL,6,FFu~ball                          0.00h 
+OL,7, CL-Ligaphase: 5.Spieltag (Zf.)         
+OL,8,FFu~ball                          9.00h 
+OL,9, CL-Ligaphase: 5.Spieltag (Zf.)         
+OL,10,FBiathlon live                   16.05h 
+OL,11, Kontiolahti: Herren, 20 km             
+OL,12,FTennis live                     16.50h 
+OL,13, Davis-Cup-Viertelfinale: AUT - ESP     
+OL,15,CFreitag, 27.November                   
+OL,17,FNordische Kombination live      11.50h 
+OL,18, Ruka: Herren, Springen                 
+OL,19,FLanglauf live                   12.55h 
+OL,20, Ruka: Herren, 10 km klassisch          
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht  BSport   CFernsehen  FWetter
+FL,100,200,300,600,0,100
+PN,30403
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       G304CORF SPORT+G22.11.26 18:47:12
+OL,1,A]G                     ORF SPORT im TV 
+OL,2,A]GFERNSEHEN  ]A                  ORF1 \
+OL,3,Q#############G                    3/4  
+OL,4,CFreitag, 27.November                   
+OL,6,FSkeleton live                   14.40h 
+OL,7, Altenberg: Herren, 2.DG                
+OL,8,FNordische Kombination live      15.30h 
+OL,9, Ruka: Herren, Langlauf                 
+OL,10,FBiathlon live                   16.05h 
+OL,11, Kontiolahti: Damen, 15 km              
+OL,12,FLanglauf                        17.50h 
+OL,13, Ruka: Damen, 10 km klassisch (Zf.)     
+OL,14,FFreestyle live                  18.30h 
+OL,15, Innsbruck: Big Air                     
+OL,17,CSamstag, 28.November                   
+OL,19,FFreestyle                        0.55h 
+OL,20, Innsbruck: Big Air (Zf.)               
+OL,21,FNordische Kombination live      10.05h 
+OL,22, Ruka: Herren, Springen                 
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht  BSport   CFernsehen  FWetter
+FL,100,200,300,600,0,100
+PN,30404
+SC,0004
+PS,C200
+CT,15,T
+OL,0,       G304CORF SPORT+G22.11.26 18:47:12
+OL,1,A]G                     ORF SPORT im TV 
+OL,2,A]GFERNSEHEN  ]A                  ORF1 \
+OL,3,Q#############G                    4/4  
+OL,4,CSamstag, 28.November                   
+OL,5,FLanglauf live                   11.10h 
+OL,6, Ruka: Sprint                           
+OL,7,FBiathlon live                   13.05h 
+OL,8, Kontiolahti: Single Mixed              
+OL,9,FSkispringen live                13.25h 
+OL,10, Hinzenbach: Damen, 1.Bewerb            
+OL,11,FNordische Kombination live      15.05h 
+OL,12, Ruka: Herren, Langlauf                 
+OL,13,FSki alpin live                  15.20h 
+OL,14, Killington: Damen-RTL, 1.DG            
+OL,15,FSkispringen live                16.25h 
+OL,16, Ruka: Herren, 1.Bewerb                 
+OL,17,FSki alpin live                  18.20h 
+OL,18, Killington: Damen-RTL, 2.DG            
+OL,19,FSki alpin live                  19.35h 
+OL,20, Copper Mountain: Herren-Super-G        
+OL,21,FSnowboard                       23.40h 
+OL,22, Innsbruck: Big Air (Zf.)               
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

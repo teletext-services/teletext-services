@@ -2,19 +2,79 @@ DE,NOS-TT 730
 PN,73001
 SC,0001
 PS,C200
-CT,10,T
-OL,0,       BNOS-TT  730Czon 22 nov  09:48:42
-OL,1,D]                    Fbinnenland F 1/2 
+CT,15,T
+OL,0,       BNOS-TT  730Czon 22 nov  17:49:38
+OL,1,D]                    Fbinnenland F 1/4 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
-OL,4,D]F actueel            22 nov. 09:45 uur
+OL,4,D]F actueel            22 nov. 17:45 uur
 OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,6,F  Afsluiting/Omleiding:@@@@@@@@@@@@@@@@
-OL,7,F-BA12 Den Haag->UtrechtFtussen knp.@@@@
-OL,8,F  Oudenrijn en knp.Lunetten@@@@@@@@@@@@
-OL,9,F  wegwerkzaamheden,dicht.Verkeer@@@@@@@
-OL,10,F  wordt omgeleid Verwachte eindtijd: 24
-OL,11,F  nov.05:00@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F  Files:@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,F-BA1 Amsterdam->AmersfoortFtussen@@@@@@
+OL,8,F  Diemen-Noord en knp.Muiderberg 8 km,@
+OL,9,F  34 min.,bergingswerkzaamheden,de@@@@@
+OL,10,F  rechterrijstrook is dicht.@@@@@@@@@@@
+OL,11,F-BA1 Hengelo->Duitse grensFtussen De@@@
+OL,12,F  Lutte en de Duitse grens 0.8 km,2@@@@
+OL,13,F  min.,dicht,u wordt via de af- en@@@@@
+OL,14,F  oprit omgeleid.Door grenscontrole.@@@
+OL,15,F  Verkeer wordt via de af- en toerit@@@
+OL,16,F  geleid@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,17,F-BA4 Amsterdam->Den HaagFtussen@@@@@@@@
+OL,18,F  Hoofddorp en knp.Burgerveen 5 km,13@@
+OL,19,F  min.,door een ongeluk,twee@@@@@@@@@@@
+OL,20,F  rijstroken zijn dicht.@@@@@@@@@@@@@@@
+OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,73002
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  730Czon 22 nov  17:49:52
+OL,1,D]                    Fbinnenland F 2/4 
+OL,2,B]DMVERKEERSINFORMATIE                  
+OL,3,B]                                      
+OL,4,D]F actueel            22 nov. 17:45 uur
+OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BA4 Amsterdam->Den HaagFtussen@@@@@@@@
+OL,7,F  Roelofarendsveen en Leiden-Oost 6 km,
+OL,8,F  17 min.,door een ongeluk,twee@@@@@@@@
+OL,9,F  rijstroken zijn dicht.@@@@@@@@@@@@@@@
+OL,10,F-BA10 knp.Watergraafsmeer->knp.De@@@@@@
+OL,11,F  BNieuwe MeerFtussen afrit@@@@@@@@@@@@
+OL,12,F  Watergraafsmeer en@@@@@@@@@@@@@@@@@@@
+OL,13,F  Amsterdam-Rivierenbuurt 4 km,11@@@@@@
+OL,14,F  min..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,15,F-BA27 Almere->GorinchemFtussen@@@@@@@@@
+OL,16,F  Utrecht-Noord en knp.Lunetten 4 km,@@
+OL,17,F  9 min.,door een ongeluk,twee@@@@@@@@@
+OL,18,F  rijstroken zijn dicht.@@@@@@@@@@@@@@@
+OL,19,F-BN280 M|nchengladbach->RoermondFtussen
+OL,20,F  de Duitse grens en de aansluiting met
+OL,21,F  de A73 2 km,8 min..@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,73003
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  730Czon 22 nov  17:49:41
+OL,1,D]                    Fbinnenland F 3/4 
+OL,2,B]DMVERKEERSINFORMATIE                  
+OL,3,B]                                      
+OL,4,D]F actueel            22 nov. 17:45 uur
+OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,F  Afsluiting/Omleiding:@@@@@@@@@@@@@@@@
+OL,8,F-BA12 Den Haag->UtrechtFtussen knp.@@@@
+OL,9,F  Oudenrijn en knp.Lunetten@@@@@@@@@@@@
+OL,10,F  wegwerkzaamheden,dicht.Verwachte@@@@@
+OL,11,F  eindtijd: 24 nov.05:00@@@@@@@@@@@@@@@
 OL,12,F-BN2 Eindhoven->MaastrichtFtussen@@@@@@
 OL,13,F  Veldhoven-Zuid en knp.Leenderheide@@@
 OL,14,F  wegwerkzaamheden,dicht.Verwachte@@@@@
@@ -29,15 +89,15 @@ OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
-PN,73002
-SC,0002
+PN,73004
+SC,0004
 PS,C200
-CT,10,T
-OL,0,       BNOS-TT  730Czon 22 nov  09:48:40
-OL,1,D]                    Fbinnenland F 2/2 
+CT,15,T
+OL,0,       BNOS-TT  730Czon 22 nov  17:49:44
+OL,1,D]                    Fbinnenland F 4/4 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
-OL,4,D]F actueel            22 nov. 09:45 uur
+OL,4,D]F actueel            22 nov. 17:45 uur
 OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,6,F-BN3 Papendrecht->DordrechtFtussen@@@@@
 OL,7,F  Papendrecht en afrit@@@@@@@@@@@@@@@@@

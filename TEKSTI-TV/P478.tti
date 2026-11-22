@@ -2,9 +2,9 @@ DE,TEKSTI-TV 478
 PN,47801
 SC,0001
 PS,C100
-CT,10,T
-OL,0,       G478 YLE TEKSTI-TV 22.03.03:06:07
-OL,1,D]G     Lauantaivakio 1 KRS 47     1/5  
+CT,15,T
+OL,0,       G478 YLE TEKSTI-TV 22.03.21:47:29
+OL,1,D]G     Lauantaivakio 1 KRS 47     1/7  
 OL,2,B        TULOKSET 21.11.2026            
 OL,3,  1 Newcastle U  - Arsenal     B  2-2 X 
 OL,4,  2 Chelsea      - Leeds U     B  1-4 2 
@@ -32,9 +32,9 @@ FL,100,200,300,400,0,100
 PN,47802
 SC,0002
 PS,C100
-CT,10,T
-OL,0,       G478 YLE TEKSTI-TV 22.03.03:06:07
-OL,1,D]G     Lauantaivakio 1 KRS 47     2/5  
+CT,15,T
+OL,0,       G478 YLE TEKSTI-TV 22.03.21:47:29
+OL,1,D]G     Lauantaivakio 1 KRS 47     2/7  
 OL,2,B        TULOKSET 21.11.2026            
 OL,3,K                                       
 OL,4,B   Voitonjako:                         
@@ -62,9 +62,69 @@ FL,100,200,300,400,0,100
 PN,47803
 SC,0003
 PS,C100
-CT,10,T
-OL,0,       G478 YLE TEKSTI-TV 22.03.03:06:07
-OL,1,D]G       NHL-Vakio 9 KRS 47       3/5  
+CT,15,T
+OL,0,       G478 YLE TEKSTI-TV 22.03.21:47:29
+OL,1,D]G 15.00 Sunnuntaivakio 2 KRS 47  3/7  
+OL,2,B        TULOKSET 22.11.2026            
+OL,3,  1 Barcelona    - Villarreal  B  3-2 1 
+OL,4,  2 Racing Sant. - Real SociedaB  3-2 1 
+OL,5,  3 Hull         - Brighton    B  2-0 1 
+OL,6,B-------------------------------------- 
+OL,7,  4 Bologna      - Udinese     B  1-1 X 
+OL,8,  5 Sassuolo     - Genoa       B  0-2 2 
+OL,9,  6 FC Augsburg  - Mainz 05    B  3-1 1 
+OL,10,B-------------------------------------- 
+OL,11,  7 Paris FC     - Angers      B  4-0 1 
+OL,12,  8 Ajax         - ADO Den HaagB  3-0 1 
+OL,13,  9 Sparta Rott. - AZ          B  1-5 2 
+OL,14,B-------------------------------------- 
+OL,15, 10 GoAhea.Eagle - Fort. SittarB  0-1 2 
+OL,16, 11 KV Kortrijk  - Union SG    B  0-1 2 
+OL,17, 12 Sirius       - Djurg}rden  B  1-0 1 
+OL,18,FKohteet 1 - 7 Minivakiota              
+OL,19,K                                       
+OL,20,BVoitonjako:G12 oikein  1 418,94 E (15) 
+OL,21,G            11 oikein     48,46 E      
+OL,22,G            10 oikein      3,92 E      
+OL,23,BMinivakio: G7 oikein     147,10 E (32) 
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47804
+SC,0004
+PS,C100
+CT,15,T
+OL,0,       G478 YLE TEKSTI-TV 22.03.21:47:29
+OL,1,D]G 18.15 Sunnuntaivakio 3 KRS 47  4/7  
+OL,2,B        TULOKSET 22.11.2026            
+OL,3,  1 Liverpool    - Manchester UB  4-0 1 
+OL,4,  2 Milan        - Frosinone   B  5-1 1 
+OL,5,  3 Atalanta     - Inter       B        
+OL,6,B-------------------------------------- 
+OL,7,  4 Osasuna      - Malaga      B  1-0 1 
+OL,8,  5 Getafe       - At. Madrid  B        
+OL,9,  6 Werder Breme - HSV         B  4-0 1 
+OL,10,B-------------------------------------- 
+OL,11,  7 Lorient      - Rennes      B  1-1 X 
+OL,12,  8 Marseille    - Le Mans     B        
+OL,13,  9 Nordsjaellan - FC K|benhavnB  5-0 1 
+OL,14,B-------------------------------------- 
+OL,15, 10 RSC Anderlec - OH Leuven   B  1-0 1 
+OL,16, 11 Lommel SK    - Standa.LiegeB  1-2 2 
+OL,17, 12 Sarpsborg 08 - Lillestr|m  B  0-2 2 
+OL,18,FKohteet 1 - 7 Minivakiota              
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47805
+SC,0005
+PS,C100
+CT,15,T
+OL,0,       G478 YLE TEKSTI-TV 22.03.21:47:29
+OL,1,D]G       NHL-Vakio 9 KRS 47       5/7  
 OL,2,B        TULOKSET 20.11.2026            
 OL,3,  1 Carolina     - Montreal    B  1-1 X 
 OL,4,  2 Tampa Bay    - Edmonton    B  3-1 1 
@@ -89,12 +149,12 @@ OL,22,G            10 oikein      43,27 E
 OL,23,BMinivakio: G7 oikein      415,05 E (5) 
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47804
-SC,0004
+PN,47806
+SC,0006
 PS,C100
-CT,10,T
-OL,0,       G478 YLE TEKSTI-TV 22.03.03:06:07
-OL,1,D]G      L{tk{vakio 10 KRS 47      4/5  
+CT,15,T
+OL,0,       G478 YLE TEKSTI-TV 22.03.21:47:29
+OL,1,D]G      L{tk{vakio 10 KRS 47      6/7  
 OL,2,B        TULOKSET 20.11.2026            
 OL,3,  1 Ilves        - Tappara     B  6-2 1 
 OL,4,  2 KooKoo       - K{rp{t      B  4-4 X 
@@ -119,12 +179,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47805
-SC,0005
+PN,47807
+SC,0007
 PS,C100
-CT,10,T
-OL,0,       G478 YLE TEKSTI-TV 22.03.03:06:07
-OL,1,D]G      Futisvakio 11 KRS 47      5/5  
+CT,15,T
+OL,0,       G478 YLE TEKSTI-TV 22.03.21:47:29
+OL,1,D]G      Futisvakio 11 KRS 47      7/7  
 OL,2,B        TULOKSET 21.11.2026            
 OL,3,  1 Bayern M nch - FC K|ln     B  1-1 X 
 OL,4,  2 Athletic     - Espanyol    B  0-1 2 

@@ -2,8 +2,8 @@ DE,NOS-TT 843
 PN,84301
 SC,0001
 PS,C200
-CT,10,T
-OL,0,       BNOS-TT  843Czon 22 nov  12:49:21
+CT,15,T
+OL,0,       BNOS-TT  843Czon 22 nov  17:52:12
 OL,1,S OETBALQ,,,,,,,,,,,,,,,,,,,,,,,A 1/2 
 OL,2,S+,'A]C    Spanje,Primera Division      
 OL,3,Q#######################################
@@ -14,10 +14,10 @@ OL,7,CDeportiv.Alaves  B3CDeportiv.Coruna  B1
 OL,8,CRayo Vallecano   B0CValencia         B1
 OL,9,CSevilla          B1CReal Betis       B1
 OL,10,CReal Madrid      B2CCelta de Vigo    B1
-OL,11,BZondag,14.00 uur:                      
-OL,12,CFC Barcelona     B-CVillarreal       B-
-OL,13,B16.15 uur:                             
-OL,14,CRac.Santander    B-CReal Sociedad    B-
+OL,11,BZondag:                                
+OL,12,CFC Barcelona     B3CVillarreal       B2
+OL,13,B16.15 uur:                 FTUSSENSTAND
+OL,14,CRac.Santander  G+F3CReal Sociedad    F2
 OL,15,B18.30 uur:                             
 OL,16,COsasuna          B-CMalaga           B-
 OL,17,B21.00 uur:                             
@@ -32,12 +32,12 @@ FL,702,101,601,801,0,100
 PN,84302
 SC,0002
 PS,C200
-CT,10,T
-OL,0,       BNOS-TT  843Czon 22 nov  12:49:03
+CT,15,T
+OL,0,       BNOS-TT  843Czon 22 nov  17:52:11
 OL,1,S OETBALQ,,,,,,,,,,,,,,,,,,,,,,,A 2/2 
-OL,2,S+,'A]C     Spanje,stand per 21/11      
+OL,2,S+,'A]C     Spanje,stand per 22/11      
 OL,3,Q#######################################
-OL,4,B 1.CFC BarcelonaB12 11  0  1  33  48-13
+OL,4,B 1.CFC BarcelonaB13 12  0  1  36  51-15
 OL,5,B 2.CReal Madrid B13 11  0  2  33  33-11
 OL,6,B 3.CAtletico M. B12  9  1  2  28  23-10
 OL,7,B 4.CReal Betis  B13  8  3  2  27  21-16
@@ -45,7 +45,7 @@ OL,8,B 5.CSociedad    B12  7  1  4  22  21-20
 OL,9,B 6.CSevilla     B13  5  4  4  19  18-20
 OL,10,B 7.CAthl.Club   B12  4  4  4  16  15-12
 OL,11,B 8.CDep.Alaves  B13  4  4  5  16  18-18
-OL,12,B 9.CVillarreal  B12  4  3  5  15  17-15
+OL,12,B 9.CVillarreal  B13  4  3  6  15  19-18
 OL,13,B10.CEspanyol    B13  4  3  6  15  14-14
 OL,14,B11.CDepor.CorunaB13  3  6  4  15  16-17
 OL,15,B12.CSantander   B12  4  2  6  14  17-30

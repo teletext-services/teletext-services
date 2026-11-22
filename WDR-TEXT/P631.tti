@@ -1,14 +1,51 @@
 DE,WDR-TEXT 631
-PN,63100
-SC,0000
-PS,8208
-CT,10,T
-OL,0,     G631 WDR Text GSo 22.11.26 07:10:18
+PN,63101
+SC,0001
+PS,C200
+CT,15,T
+OL,0,     G631 WDR Text GSo 22.11.26 23:41:03
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: Bundesliga/M     
-OL,5,CAugsburg : Mainz                   -:- 
+OL,5,CAugsburg : Mainz              3:1 (2:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Gregoritsch (19.) 2:0 Bah (36.)    
+OL,9, 3:0 Gregoritsch (48.)                  
+OL,10, 3:1 K|nigsd|rffer (51.)                
+OL,12,CStrafen:                               
+OL,13,Q|GBaum (43.) S|GAmiri (43.)            
+OL,14,S|GFellhauer (44.) S|GPosch (75.)       
+OL,15,S|GWidmer (76.)                         
+OL,17,CZuschauer: G29.680                     
+OL,19,CSR: GMartin Petersen                   
 OL,22,CBrieftauben jetzt auf ............. 681
 OL,23,]D600 < ]bersicht      Live-Ticker > 632
-OL,24,A]G- 630B]G+ 632  \                     
+OL,24,A]G- 630B]G+ 632  \               G(1/2)
+FL,630,632,0,0,0,100
+PN,63102
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G631 WDR Text GSo 22.11.26 23:41:03
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: Bundesliga/M     
+OL,5,CAugsburg : Mainz              3:1 (2:0)
+OL,7,CAustellungen:                          
+OL,9,CAugsburg                               
+OL,10, Dahmen Schnitzer Keitel Bah Behrens    
+OL,11, Rieder Fellhauer Wolf (73. Seol)       
+OL,12, Claude-Maurice (64. Ibrahimovi )       
+OL,13, Kade (90. K|m}r)                       
+OL,14, Gregoritsch (73. Ogundu)               
+OL,15,CMainz                                  
+OL,16, Zentner Potulski Posch                 
+OL,17, da Costa (81. Martel)                  
+OL,18, Mwene (85. Nakuzola) Sano              
+OL,19, Caci (68. Widmer) Amiri                
+OL,20, Nebel (46. K|nigsd|rffer) Tietz        
+OL,21, Becker (68. Hollerbach)                
+OL,22,CBrieftauben jetzt auf ............. 681
+OL,23,]D600 < ]bersicht      Live-Ticker > 632
+OL,24,A]G- 630B]G+ 632  \               G(2/2)
 FL,630,632,0,0,0,100

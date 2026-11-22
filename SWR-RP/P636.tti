@@ -2,60 +2,32 @@ DE,SWR-RP 636
 PN,63601
 SC,0001
 PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   So, 22.11.26G07:18:24
+CT,15,T
+OL,0,       BSWR RLPC   So, 22.11.26G21:22:53
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,11,FWARNUNG vor FROST                      
-OL,12, G}ltig: So 00:00 bis So 09:00          
-OL,14,FBaden-Baden, Rastatt                   
-OL,16, Es tritt leichter Frost bis -2 `C auf. 
-OL,23,D]GQuelle:DWD  Stand:12:31  Hinweise 654
+OL,10,FWARNUNG vor FROST                      
+OL,11, G}ltig: So 18:00 bis Mo 10:00          
+OL,13,FBaden-Baden, Rastatt                   
+OL,14,FKreis und Stadt Karlsruhe              
+OL,16, Es tritt leichter Frost bis -3 `C auf. 
+OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,63602
 SC,0002
 PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   So, 22.11.26G07:18:24
+CT,15,T
+OL,0,       BSWR RLPC   So, 22.11.26G21:22:53
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,11,FWARNUNG vor GL[TTE                     
-OL,12, G}ltig: So 00:00 bis So 09:00          
-OL,14,FBaden-Baden, Rastatt                   
+OL,10,FWARNUNG vor GL[TTE                     
+OL,11, G}ltig: So 21:00 bis Mo 10:00          
+OL,13,FBaden-Baden, Rastatt                   
+OL,14,FKreis und Stadt Karlsruhe              
 OL,16, Es besteht Gl{ttegefahr.               
-OL,23,D]GQuelle:DWD  Stand:22:36  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,63603
-SC,0003
-PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   So, 22.11.26G07:18:24
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,11,FWARNUNG vor FROST                      
-OL,12, G}ltig: Sa 21:00 bis So 09:00          
-OL,14,FKreis und Stadt Karlsruhe              
-OL,16, Es tritt leichter Frost bis -4 `C auf. 
-OL,23,D]GQuelle:DWD  Stand:12:31  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,63604
-SC,0004
-PS,C200
-CT,10,T
-OL,0,       BSWR RLPC   So, 22.11.26G07:18:24
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,11,FWARNUNG vor GL[TTE                     
-OL,12, G}ltig: So 06:30 bis So 09:00          
-OL,14,FKreis und Stadt Karlsruhe              
-OL,16, Es besteht vereinzelt Gl{ttegefahr.    
-OL,23,D]GQuelle:DWD  Stand:06:25  Hinweise 654
+OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

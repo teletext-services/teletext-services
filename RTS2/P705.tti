@@ -2,25 +2,25 @@ DE,RTS2 705
 PN,70500
 SC,0000
 PS,8088
-CT,10,T
-OL,0,       G705  RTS 2     22.11.26 09:09:12
+CT,15,T
+OL,0,       G705  RTS 2     22.11.26 19:37:37
 OL,1,A]GRTS 2     ]@dimanche 22 novembre     
-OL,4,G01:50 G19h30 - Sign#                   
-OL,5,       CS-TCLSC(R)                      
-OL,6,F02:20 FSport dimanche                  
-OL,7,       CS-TC(R)                         
-OL,8,G03:10 GGeopolitis                      
-OL,9,E 0235 GLa bataille du railCS-TC(R)     
-OL,10,F03:40 FMise au point                   
-OL,11,E 0245 FG#n#ration Z : la r#volte       
-OL,12,       CS-TC(R)                         
-OL,13,G04:30 G19h30 - Sign#                   
-OL,14,E 0255 CS-TCLSC(R)                      
-OL,15,F05:00 FSport dimanche                  
-OL,16,E 0305 CS-TC(R)                         
-OL,17,G05:50 GGeopolitis                      
-OL,18,E 0304 GLa bataille du railCS-TC(R)     
-OL,19,F06:20 FRTS Info                        
-OL,20,E 0555 FL'actualit# en continuCS-T      
+OL,4,G02:20 GSport dimanche                  
+OL,5,       CS-TC(R)                         
+OL,6,F03:10 FGeopolitis                      
+OL,7,E 0235 FLa bataille du railCS-TC(R)     
+OL,8,G03:40 GMise au point                   
+OL,9,E 0245 GG#n#ration Z : la r#volte       
+OL,10,       CS-TC(R)                         
+OL,11,F04:30 F19h30 - Sign#                   
+OL,12,E 0255 CS-TCLSC(R)                      
+OL,13,G05:00 GSport dimanche                  
+OL,14,E 0305 CS-TC(R)                         
+OL,15,F05:50 FGeopolitis                      
+OL,16,E 0304 FLa bataille du railCS-TC(R)     
+OL,17,G06:20 GRTS Info                        
+OL,18,E 0555 GL'actualit# en continuCS-T      
+OL,19,F07:00 FLa Matinale                     
+OL,20,       FLa Matinale en vid#oCS-T        
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

@@ -3,21 +3,21 @@ PN,42201
 SC,0001
 PS,C100
 CT,25,T
-OL,0,       G422 HBN TEKSTI-TVG22.11.01:36:13
-OL,1,V]G        DHELSINKI VANTAA       1/4   
+OL,0,       G422 HBN TEKSTI-TVG22.11.16:25:53
+OL,1,V]G        DHELSINKI VANTAA       1/8   
 OL,2,T]D        GSAAPUVAT LENNOT             
-OL,4,V]D04:55 AY1694 D24                     
-OL,5,V]DTeneriffa                            
-OL,7,V]D04:35 AY450  D24                     
-OL,8,V]DOulu                                 
-OL,10,V]D04:35 AY540  D19                     
-OL,11,V]DRovaniemi                            
-OL,13,V]D04:30 AY230  D11                     
-OL,14,V]DTurku                                
-OL,16,V]D04:30 AY270  D9                      
-OL,17,V]DTampere                              
-OL,19,V]D04:25 AY376  D8                      
-OL,20,V]DKuopio                               
+OL,4,V]D13:50 D82909                         
+OL,5,V]DAlicante                             
+OL,7,V]D13:50 AY1144 D35                     
+OL,8,V]DVarsova                              
+OL,10,V]D13:35 AY142  D45A                    
+OL,11,V]DBangkok                              
+OL,13,V]D13:35 AY958  D22                     
+OL,14,V]DK||penhamina                         
+OL,16,V]D13:30 AY1662 D32                     
+OL,17,V]DMadrid                               
+OL,19,V]D13:25 AY864  D26                     
+OL,20,V]DG|teborg                             
 OL,22,V                                       
 OL,23,V                                       
 FL,0,0,0,0,0,100
@@ -25,21 +25,21 @@ PN,42202
 SC,0002
 PS,C100
 CT,25,T
-OL,0,       G422 HBN TEKSTI-TVG22.11.01:36:13
-OL,1,V]G        DHELSINKI VANTAA       2/4   
+OL,0,       G422 HBN TEKSTI-TVG22.11.16:25:53
+OL,1,V]G        DHELSINKI VANTAA       2/8   
 OL,2,T]D        GSAAPUVAT LENNOT             
-OL,4,V]D04:25 AY1036 D12                     
-OL,5,V]DTallinna                             
-OL,7,V]D04:20 AY322  D10                     
-OL,8,V]DVaasa                                
-OL,10,V]D04:05 AY1674 D32                     
-OL,11,V]DMalaga                               
-OL,13,V]D04:00 AY146  D43                     
-OL,14,V]DBangkok                              
-OL,16,V]D03:45 AY100  D42                     
-OL,17,V]DHong Kong                            
-OL,19,V]D03:45 AY132  D48                     
-OL,20,V]DSingapore                            
+OL,4,V]D13:25 AY992  D24                     
+OL,5,V]DReykjavik                            
+OL,7,V]D13:25 SK1712 D12                     
+OL,8,V]DK||penhamina                         
+OL,10,V]D13:20 AY1424                         
+OL,11,V]DHampuri                              
+OL,13,V]D13:20 AY534                          
+OL,14,V]DRovaniemi                            
+OL,16,V]D13:20 AY438  D14                     
+OL,17,V]DOulu                                 
+OL,19,V]D13:15 AY1332 D49                     
+OL,20,V]DLontoo Heathrow                      
 OL,22,V                                       
 OL,23,V                                       
 FL,0,0,0,0,0,100
@@ -47,21 +47,21 @@ PN,42203
 SC,0003
 PS,C100
 CT,25,T
-OL,0,       G422 HBN TEKSTI-TVG22.11.01:36:13
-OL,1,V]G        DHELSINKI VANTAA       3/4   
+OL,0,       G422 HBN TEKSTI-TVG22.11.16:25:53
+OL,1,V]G        DHELSINKI VANTAA       3/8   
 OL,2,T]D        GSAAPUVAT LENNOT             
-OL,4,V]D03:40 AY042  D39                     
-OL,5,V]DSoul                                 
-OL,7,V]D03:30 AY068  D45A                    
-OL,8,V]DOsaka                                
-OL,10,V]D02:00 AY062  D39                     
-OL,11,V]DTokio Haneda                         
-OL,13,V]D23:45 D82827 D42                     
-OL,14,V]DPristina                             
-OL,16,V]D23:35 SK1720 D19                     
-OL,17,V]DK||penhamina                         
-OL,19,V]D23:30 VL852  D21                     
-OL,20,V]DFrankfurt                            
+OL,4,V]D13:15 AY366  D8                      
+OL,5,V]DKuopio                               
+OL,7,V]D13:15 AY810  D17                     
+OL,8,V]DTukholma                             
+OL,10,V]D13:10 AY1022 D11                     
+OL,11,V]DTallinna                             
+OL,13,V]D13:10 AY1104 D6                      
+OL,14,V]DVilna                                
+OL,16,V]D13:10 AY574  D29                     
+OL,17,V]DKittil{                              
+OL,19,V]D13:10 AY1654 D30                     
+OL,20,V]DBarcelona                            
 OL,22,V                                       
 OL,23,V                                       
 FL,0,0,0,0,0,100
@@ -69,21 +69,109 @@ PN,42204
 SC,0004
 PS,C100
 CT,25,T
-OL,0,       G422 HBN TEKSTI-TVG22.11.01:36:13
-OL,1,V]G        DHELSINKI VANTAA       4/4   
+OL,0,       G422 HBN TEKSTI-TVG22.11.16:25:53
+OL,1,V]G        DHELSINKI VANTAA       4/8   
 OL,2,T]D        GSAAPUVAT LENNOT             
-OL,4,V]D22:40 BT325  D12                     
-OL,5,V]DRiika                                
-OL,7,V]D22:25 AY1700 D35                     
-OL,8,V]DFaro                                 
-OL,10,V]D22:20 KL1255 D20                     
-OL,11,V]DAmsterdam                            
-OL,13,V]D21:40 AY446  D13                     
-OL,14,V]DOulu                                 
-OL,16,V]D21:25 AY1078 D8                      
+OL,4,V]D13:10 AY1762                         
+OL,5,V]DRooma                                
+OL,7,V]D13:05 AY1048 D9                      
+OL,8,V]DTartto                               
+OL,10,V]D13:05 AY1472 D21                     
+OL,11,V]DWien                                 
+OL,13,V]D13:00 AY1752 D15                     
+OL,14,V]DMilano Malpensa                      
+OL,16,V]D13:00 AY1074                         
 OL,17,V]DRiika                                
-OL,19,V]D21:25 AY994                          
-OL,20,V]DReykjavik                            
+OL,19,V]D13:00 AY1412 D25                     
+OL,20,V]DFrankfurt                            
+OL,22,V                                       
+OL,23,V                                       
+FL,0,0,0,0,0,100
+PN,42205
+SC,0005
+PS,C100
+CT,25,T
+OL,0,       G422 HBN TEKSTI-TVG22.11.16:25:53
+OL,1,V]G        DHELSINKI VANTAA       5/8   
+OL,2,T]D        GSAAPUVAT LENNOT             
+OL,4,V]D12:55 AY1222 D27                     
+OL,5,V]DPraha                                
+OL,7,V]D12:55 AY914  D16                     
+OL,8,V]DOslo                                 
+OL,10,V]D12:50 AY1542 D23                     
+OL,11,V]DBryssel                              
+OL,13,V]D12:50 AY806  D10                     
+OL,14,V]DTukholma                             
+OL,16,V]D12:50 AY1532 D34                     
+OL,17,V]DGeneve                               
+OL,19,V]D12:50 AY604  D34A                    
+OL,20,V]DIvalo                                
+OL,22,V                                       
+OL,23,V                                       
+FL,0,0,0,0,0,100
+PN,42206
+SC,0006
+PS,C100
+CT,25,T
+OL,0,       G422 HBN TEKSTI-TVG22.11.16:25:53
+OL,1,V]G        DHELSINKI VANTAA       6/8   
+OL,2,T]D        GSAAPUVAT LENNOT             
+OL,4,V]D12:50 AY552  D28                     
+OL,5,V]DRovaniemi                            
+OL,7,V]D12:45 AY1302                         
+OL,8,V]DAmsterdam                            
+OL,10,V]D12:45 AY1362                         
+OL,11,V]DManchester                           
+OL,13,V]D12:45 AY1382                         
+OL,14,V]DDublin                               
+OL,16,V]D12:40 AY542  D18                     
+OL,17,V]DRovaniemi                            
+OL,19,V]D12:40 BT305  D18                     
+OL,20,V]DRiika                                
+OL,22,V                                       
+OL,23,V                                       
+FL,0,0,0,0,0,100
+PN,42207
+SC,0007
+PS,C100
+CT,25,T
+OL,0,       G422 HBN TEKSTI-TVG22.11.16:25:53
+OL,1,V]G        DHELSINKI VANTAA       7/8   
+OL,2,T]D        GSAAPUVAT LENNOT             
+OL,4,V]D12:40 JL047  D52                     
+OL,5,V]DTokio Haneda                         
+OL,7,V]D12:30 AY1572 D32                     
+OL,8,V]DPariisi Charles de Gaulle            
+OL,10,V]D12:25 AY824  D28                     
+OL,11,V]DTukholma                             
+OL,13,V]D12:25 AY1512 D13                     
+OL,14,V]DZ~rich                               
+OL,16,V]D12:15 AY314  D5                      
+OL,17,V]DVaasa                                
+OL,19,V]D12:10 AY122  D44                     
+OL,20,V]DDelhi                                
+OL,22,V                                       
+OL,23,V                                       
+FL,0,0,0,0,0,100
+PN,42208
+SC,0008
+PS,C100
+CT,25,T
+OL,0,       G422 HBN TEKSTI-TVG22.11.16:25:53
+OL,1,V]G        DHELSINKI VANTAA       8/8   
+OL,2,T]D        GSAAPUVAT LENNOT             
+OL,4,V]D12:05 AY1402 D20                     
+OL,5,V]DM~nchen                              
+OL,7,V                                       
+OL,8,V                                       
+OL,10,V                                       
+OL,11,V                                       
+OL,13,V                                       
+OL,14,V                                       
+OL,16,V                                       
+OL,17,V                                       
+OL,19,V                                       
+OL,20,V                                       
 OL,22,V                                       
 OL,23,V                                       
 FL,0,0,0,0,0,100
