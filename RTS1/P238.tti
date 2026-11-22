@@ -3,9 +3,9 @@ PN,23801
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G238  RTS 1     21.11.26 11:19:34
+OL,0,       G238  RTS 1     21.11.26 20:41:10
 OL,1,C]@FOOTBALL         G]@20.11.26 22:29G.=
-OL,2,D                                       
+OL,2,G                                       
 OL,3,                                    1/3 
 OL,4,CB.Muenchen  - Koeln         C 1-1 (1-1)
 OL,5,G12'Moore 0-1,G37'Brown 1-1.            
@@ -28,23 +28,48 @@ PN,23802
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G238  RTS 1     21.11.26 11:19:34
-OL,1,C]@FOOTBALL         G]@09.11.26 11:25G.=
-OL,2,D                                       
+OL,0,       G238  RTS 1     21.11.26 20:41:10
+OL,1,C]@FOOTBALL         G]@21.11.26 17:49G.=
+OL,2,G                                       
 OL,3,                                    2/3 
-OL,4,CElversberg  - Freiburg   CSA 15h30     
-OL,21,FUrsapharm-Arena                        
+OL,4,CElversberg  - Freiburg      C 0-1 (0-0)
+OL,5,G68'Matanovic.                          
+OL,9,FElversberg:GKristof;GGyamerahG         
+OL,10,G(64'Sirch),GPinckert,GRohrG(89'Adam),G 
+OL,11,GGunther;GKeidel,GPoreba;GPetkov,GOnyeka
+OL,12,G(64'Futkeu),GCampbellG                 
+OL,13,G(74'Zimmerschied);GMokwaG              
+OL,14,G(74'Krattenmacher).                    
+OL,15,FFreiburg:GBackhaus;GTreu,GGinter,C     
+OL,16,CLienhart,GMakengo;GEggestein,G         
+OL,17,GEngelhardt;CBesteG(71'Irie),GHolerG    
+OL,18,G(71'Suzuki),GScherhantG(81'Grifo);C    
+OL,19,CMatanovicG(82'Goto).                   
+OL,21,FUrsapharm-Arena: 9307                  
+OL,22,GRichard HempelG(GER)                   
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,23803
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G238  RTS 1     21.11.26 11:19:34
-OL,1,C]@FOOTBALL         G]@09.11.26 11:25G.=
-OL,2,D                                       
+OL,0,       G238  RTS 1     21.11.26 20:41:10
+OL,1,C]@FOOTBALL         G]@21.11.26 17:46G.=
+OL,2,G                                       
 OL,3,                                    3/3 
-OL,4,CFrankfurt   - Hoffenheim CSA 15h30     
-OL,21,FDeutsche Bank Park                     
+OL,4,CFrankfurt   - Hoffenheim    C 1-0 (1-0)
+OL,5,G25'Burkardt.                           
+OL,9,FFrankfurt:CAtubolu;GKnauffG            
+OL,10,G(83'Collins),GKoch,GBrassier,GKosugi;G 
+OL,11,GOnyedika,GAs#ko NkiliG(65'Hojlund);G   
+OL,12,GDoan,GChaibi;GEbnoutalibG(83'Goetze),G 
+OL,13,GBurkardtC(84'Pimpong).                 
+OL,15,FHoffenheim:GBaumann;GCoufal,AKabak/94',
+OL,16,GMachida,GBernardoG(72'Rots);CAvdullahu,
+OL,17,CBurger;GKramaricG(61'Hlozek),GAsllaniG 
+OL,18,G(72'Cont#),GPrassG(80'Moerstedt);G     
+OL,19,GLemperleG(61'Daghim).                  
+OL,21,FDeutsche Bank Park: 59100              
+OL,22,GMax BurdaG(GER)                        
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

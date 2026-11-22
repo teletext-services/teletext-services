@@ -3,20 +3,19 @@ PN,26101
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G261FNDR TEXT GSa 21.11.B09:30:50
+OL,0,       G261FNDR TEXT GSa 21.11.B21:17:28
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Verbandsliga S-H West       
-OL,7,BFreitag, 20. November                  
-OL,8, Kalt. TS II    - Friedrichskoog   1:4  
-OL,10,BSamstag, 21. November                  
-OL,11, SV Wasbek      - F. Gl}ckstadt   abges 
-OL,12, TSV B}sum      - KellinghusenB   15.00 
-OL,14,BSonntag, 22. November                  
-OL,15, TuRa Meldorf   - Osterr|nfeldB   14.00 
-OL,16, Alem. Wilster  - Marner TVB      14.00 
-OL,18, TuS Krempe     - GW Todenb}ttelB 14.00 
+OL,8,BFreitag, 20. November                  
+OL,9, Kalt. TS II    - Friedrichskoog   1:4  
+OL,11,BSamstag, 21. November                  
+OL,12, SV Wasbek      - F. Gl}ckstadt   abges 
+OL,13, TSV B}sum      - Kellinghusen     3:2  
+OL,15,BSonntag, 22. November                  
+OL,16, TuRa Meldorf   - Osterr|nfeldB   14.00 
+OL,17, TuS Krempe     - GW Todenb}ttelB 14.00 
 OL,19, TuS Jevenstedt - Fetih-KisdorfB  14.00 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
@@ -25,7 +24,7 @@ PN,26102
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G261FNDR TEXT GSa 21.11.B09:30:50
+OL,0,       G261FNDR TEXT GSa 21.11.B21:17:28
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -35,12 +34,12 @@ OL,6,  2.Alemannia Wilster      16  40:20  30
 OL,7,F 3.TSV Friedrichskoog     16  37:25  29
 OL,8,F 4.FC Fetih-Kisdorf       15  47:32  28
 OL,9,F 5.TuS Krempe             16  33:31  27
-OL,10,F 6.TuS Jevenstedt         15  35:33  22
-OL,11,F 7.TSV B}sum              16  38:42  22
+OL,10,F 6.TSV B}sum              17  41:44  25
+OL,11,F 7.TuS Jevenstedt         15  35:33  22
 OL,12,F 8.SV Wasbek              15  30:39  22
 OL,13,F 9.TuRa Meldorf           16  30:35  21
 OL,14,F10.Osterr|nfelder TSV     14  28:37  16
-OL,15,F11.VfL Kellinghusen       14  24:35  16
+OL,15,F11.VfL Kellinghusen       15  26:38  16
 OL,16,F12.Gr}n-Wei~ Todenb}ttel  16  18:37  15
 OL,17,C13.Fortuna Gl}ckstadt     15  28:28  14
 OL,18, 14.Marner TV              13  28:31  14
@@ -54,23 +53,25 @@ PN,26103
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G261FNDR TEXT GSa 21.11.B09:30:50
+OL,0,       G261FNDR TEXT GSa 21.11.B21:17:28
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Verbandsliga S-H West       
-OL,5,BSamstag, 28. November                  
-OL,6, Marner TV      - TuS KrempeB     14.00 
-OL,7, Osterr|nfeld   - Kalt. TS IIB    14.00 
-OL,9, Fetih-Kisdorf  - TSV B}sumB      14.00 
-OL,10, F. Gl}ckstadt  - TuS JevenstedtB 14.00 
-OL,12, SV Wasbek      - SG Geest 05B    14.00 
-OL,14,BSonntag, 29. November                  
-OL,15, Kellinghusen   - TuRa MeldorfB   14.00 
-OL,16, Friedrichskoog - Alem. WilsterB  15.15 
-OL,18,BSamstag, 5. Dezember                   
-OL,19, Friedrichskoog - Fetih-KisdorfB  14.00 
-OL,20, Kalt. TS II    - Osterr|nfeldB   14.00 
+OL,5,BDonnerstag, 26. November               
+OL,6, Alem. Wilster  - Marner TVB      19.30 
+OL,8,BSamstag, 28. November                  
+OL,9, Marner TV      - TuS KrempeB     14.00 
+OL,10, Osterr|nfeld   - Kalt. TS IIB    14.00 
+OL,11, Fetih-Kisdorf  - TSV B}sumB      14.00 
+OL,12, F. Gl}ckstadt  - TuS JevenstedtB 14.00 
+OL,13, SV Wasbek      - SG Geest 05B    14.00 
+OL,15,BSonntag, 29. November                  
+OL,16, Kellinghusen   - TuRa MeldorfB   14.00 
+OL,17, Friedrichskoog - Alem. WilsterB  15.15 
+OL,19,BSamstag, 5. Dezember                   
+OL,20, Friedrichskoog - Fetih-KisdorfB  14.00 
+OL,21, Kalt. TS II    - Osterr|nfeldB   14.00 
 OL,22, SG Geest 05    - KellinghusenB   14.00 
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)

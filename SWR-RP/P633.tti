@@ -3,7 +3,7 @@ PN,63301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:18:07
+OL,0,       BSWR RLPC   So, 22.11.26G07:13:38
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -18,7 +18,40 @@ PN,63302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:18:07
+OL,0,       BSWR RLPC   So, 22.11.26G07:13:38
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor GL[TTE                     
+OL,11, G}ltig: So 00:00 bis So 09:00          
+OL,13,FStuttgart, B|blingen, Esslingen        
+OL,14,FG|ppingen, Rems-Murr-Kreis             
+OL,16, Es besteht Gl{ttegefahr.               
+OL,23,D]GQuelle:DWD  Stand:23:25  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,63303
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       BSWR RLPC   So, 22.11.26G07:13:38
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor NEBEL                      
+OL,11, G}ltig: So 04:38 bis So 09:00          
+OL,13,FEsslingen, G|ppingen                   
+OL,15, Vor allem in Flussniederungen und      
+OL,16, Tallagen tritt gebietsweise Nebel mit  
+OL,17, Sichtweiten unter 150 Metern auf.      
+OL,23,D]GQuelle:DWD  Stand:04:38  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,63304
+SC,0004
+PS,C200
+CT,10,T
+OL,0,       BSWR RLPC   So, 22.11.26G07:13:38
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -28,5 +61,20 @@ OL,13,FG|ppingen, Ludwigsburg
 OL,14,FRems-Murr-Kreis                        
 OL,16, Es tritt leichter Frost bis -4 `C auf. 
 OL,23,D]GQuelle:DWD  Stand:12:31  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,63305
+SC,0005
+PS,C200
+CT,10,T
+OL,0,       BSWR RLPC   So, 22.11.26G07:13:38
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,11,FWARNUNG vor GL[TTE                     
+OL,12, G}ltig: So 06:30 bis So 09:00          
+OL,14,FLudwigsburg                            
+OL,16, Es besteht vereinzelt Gl{ttegefahr.    
+OL,23,D]GQuelle:DWD  Stand:06:25  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

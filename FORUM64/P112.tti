@@ -3,67 +3,48 @@ PN,11201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GSa 21 Nov F08:23:40
+OL,0,         GFORUM64   GSa 21 Nov F17:19:57
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EAdam Is Me f}r C16 LittleSixteen V4    
-OL,3,ETestversion                            
-OL,5,CAntwort:  BNegan                       
-OL,6,CComments: B2                           
-OL,7,F                                       
-OL,8,FEine dritte Version m|chte ich euch    
-OL,9,Fbereit stellen.                        
-OL,11,FNun sind die Levels animiert wie es in 
-OL,12,Fder urspr}nglichen Version vorgesehen  
-OL,13,Fist.                                   
-OL,15,FDar}ber hinaus habe ich die Galaxy- und
-OL,16,FLevelauswahlbilder ebenso integriert   
-OL,17,Fwie im Original.                       
-OL,19,FDas Spiel l{uft auch in der            
-OL,21,CErster Beitrag:                        
-OL,23,GHallo zusammen,                        
-OL,24,D]FForum64.de RSS feed            (1/3) 
+OL,2,EDaiscii Ascii (UTF-8)/Petscii Editor   
+OL,4,CAntwort:  BJammet                      
+OL,5,CComments: B14                          
+OL,6,F                                       
+OL,7,FKein Witz, irgendwer bringt das ... ^^'
+OL,9,CErster Beitrag:                        
+OL,11,GKI zu nutzen, um sich Werkzeuge zu     
+OL,12,Gbauen, er|ffnet mir die M|glichkeit    
+OL,13,Getwas zu probieren, wonach ich hier im 
+OL,14,GForum vor einiger Zeit mal fragte:     
+OL,15,Geinen ASCII kompatiblen Text Editor.   
+OL,16,GInzwischen hat Snoopy mit UTEXT den    
+OL,17,GTraum wahrgemacht und ich stehe jetzt  
+OL,18,Gvor der Wahl, meinen trotzdem noch     
+OL,19,Gwenigstens mal vorzustellen/anzubieten,
+OL,20,Goder einfach fortzuwerfen.             
+OL,22,GAber eigentlich unterscheidet dieser   
+OL,23,Ghier sich von allem was es sonst noch  
+OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,11202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GSa 21 Nov F08:23:40
+OL,0,         GFORUM64   GSa 21 Nov F17:19:57
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gich arbeite an einer C16-              
-OL,4,Gbeziehungsweise LittleSixteen-Version  
-OL,5,Gdes Atari-Puzzlespiels Adam Is Me von  
-OL,6,GAgenda. Man verschiebt darin Objekte   
-OL,7,Gund W|rter. So lassen sich Regeln wie  
-OL,8,GBOX IS PUSH ver{ndern.                 
-OL,10,GDie aktuelle Testversion enth{lt alle  
-OL,11,G64 Originallevel aus acht Welten ,     
-OL,12,GTitelbild, Intro und Levelauswahl.     
-OL,13,GGrafik und Farben wurden f}r den TED   
-OL,14,Gangepasst; bewegliche Objekte werden   
-OL,15,Gmit Software-Sprites dargestellt. Die  
-OL,16,GSpieleffekte laufen }ber den TED. Vier 
-OL,17,GMusikst}cke des Atari-Originals wurden 
-OL,18,Gals dreistimmige Arrangements f}r den  
-OL,19,GSID 8580 bei $FD40 umgesetzt.          
-OL,21,GSteuerung der aktuellen Testversion    
-OL,22,Gvorerst nur per Tastatur:              
-OL,24,D]FForum64.de RSS feed            (2/3) 
-FL,0,0,0,0,0,100
-PN,11203
-SC,0003
-PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSa 21 Nov F08:23:40
-OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GW, A, S, D: ADAM bewegen; in der       
-OL,4,GGalaxie eine Welt und in der           
-OL,5,GLevelauswahl ein Level w{hlen.         
-OL,6,GLeertaste: Titel und Intro fortsetzen, 
-OL,7,GAuswahl best{tigen, im Level die Pause 
-OL,8,G|ffnen und nach einem Sieg zum n{chsten
-OL,9,GLevel wechseln. C: Auf dem Titelbild   
-OL,10,Gdie Credits anzeigen. Mit der Leertaste
-OL,11,Ggeht es zur}ck. R: Das aktuelle Level  
-OL,12,Gneu starten; funktioniert auch im      
-OL,24,D]FForum64.de RSS feed            (3/3) 
+OL,3,Ggibt, genug. Also, Daiscii hei~t er.   
+OL,4,GMeine Idee/Wunsch -- Retrofans bessere 
+OL,5,GFont f}r die Lesbarkeit. Diese, und    
+OL,6,Gauch Retrofans Visuelles Design        
+OL,7,Gbasierend auf einem Mockup von ihm,    
+OL,8,Gwelches mit seiner Erlaubnis (Vielen   
+OL,9,GDank!!!) benutzt wird.                 
+OL,11,GTastaturorientiert: Alle Funktionen    
+OL,12,Gsind per Tastatur erreichbar, mit      
+OL,13,GMen}leiste in Zeile 1 und sichtbaren   
+OL,14,GKurzbefehlen. Die Maus (1351 in Port 1)
+OL,15,Gfunktioniert zus{tzlich.               
+OL,17,GC64-Editor in Assembler Zwei Textmodi: 
+OL,18,GASCII (UTF-8 oder Latin-1 auf Diskette)
+OL,19,Gund PETSCII. Beim Laden wird           
+OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

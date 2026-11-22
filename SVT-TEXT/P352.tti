@@ -3,29 +3,29 @@ PN,35201
 SC,0001
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 352  L|r 21 novC00:06:14
+OL,0,      GSVT Text 352  L|r 21 novC20:22:06
 OL,1,D]GINNEBANDY SSL, herrar                
-OL,2,C8/11 FLund       - J|nk|ping    5-6    
-OL,3,      FV{xj|      - AIK          9-5    
-OL,4,C17/11FStorvreta  - Nykvarn      5-2    
-OL,5,      FFalun      - Warberg      7-4    
-OL,6,      FJ|nk|ping  - Visby        8-4    
-OL,7,C18/11FMullsj|    - Link|ping    3-5    
-OL,8,      FAIK        - Dalen        3-9    
-OL,9,      FPixbo      - V{xj|        8-3    
-OL,10,      FKalmarsund - Lund         3-4    
-OL,11,C20/11FStorvreta  - Mullsj|     10-4    
-OL,12,C21/11GLink|ping  - AIK                 
-OL,13,      GWarberg    - Kalmarsund          
-OL,14,      GNykvarn    - Pixbo               
-OL,15,C22/11GLund       - Visby               
-OL,16,      GJ|nk|ping  - Falun               
-OL,17,      GDalen      - V{xj|               
-OL,18,C18/12GFalun      - Nykvarn             
-OL,19,      GPixbo      - Warberg             
-OL,20,C19/12GLund       - Mullsj|             
-OL,21,      GVisby      - Dalen               
-OL,22,      GAIK        - Storvreta           
+OL,2,C17/11FFalun      - Warberg      7-4    
+OL,3,      FStorvreta  - Nykvarn      5-2    
+OL,4,C18/11FMullsj|    - Link|ping    3-5    
+OL,5,      FAIK        - Dalen        3-9    
+OL,6,      FPixbo      - V{xj|        8-3    
+OL,7,      FKalmarsund - Lund         3-4    
+OL,8,C20/11FStorvreta  - Mullsj|     10-4    
+OL,9,C21/11FLink|ping  - AIK          5-7    
+OL,10,      FWarberg    - Kalmarsund   3-2    
+OL,11,      FNykvarn    - Pixbo        5-4CSTR
+OL,12,C22/11GLund       - Visby               
+OL,13,      GJ|nk|ping  - Falun               
+OL,14,      GDalen      - V{xj|               
+OL,15,C18/12GFalun      - Nykvarn             
+OL,16,      GPixbo      - Warberg             
+OL,17,C19/12GLund       - Mullsj|             
+OL,18,      GVisby      - Dalen               
+OL,19,      GAIK        - Storvreta           
+OL,20,      GKalmarsund - J|nk|ping           
+OL,21,      GV{xj|      - Link|ping           
+OL,22,C26/12GMullsj|    - Kalmarsund          
 OL,23,D]G          Tabell f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
 FL,100,300,400,700,0,100
@@ -33,23 +33,23 @@ PN,35202
 SC,0002
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 352  L|r 21 novC00:06:14
+OL,0,      GSVT Text 352  L|r 21 novC20:22:06
 OL,1,D]GINNEBANDY SSL, herrar                
 OL,4,               FS  V V\  O  F  GM-IM   P
 OL,5, B1 Storvreta  10  7  3  3  0  73-42  27
 OL,6, B2 Falun       9  5  2  4  0  72-49  21
-OL,7, B3 Link|ping   9  6  1  2  1  57-35  21
+OL,7, B3 Link|ping  10  6  1  2  2  62-42  21
 OL,8, B4 J|nk|ping   9  6  0  0  3  57-45  18
 OL,9, B5 V{xj|       9  5  0  1  3  63-59  16
-OL,10, B6 Kalmarsund  9  4  1  2  3  59-47  15
-OL,11, B7 Dalen       9  3  1  3  3  59-63  13
-OL,12, B8 Mullsj|    10  3  1  3  4  54-62  13
-OL,13, G9 Nykvarn     9  2  1  4  3  44-44  11
-OL,14,G10 Pixbo       9  3  0  1  5  56-62  10
-OL,15,G11 Lund        9  2  1  2  5  46-56   9
-OL,16,G12 Visby       9  2  1  1  6  39-70   8
-OL,17,F13 Warberg     9  1  2  2  6  42-56   7
-OL,18,F14 AIK         9  1  0  0  8  37-68   3
+OL,10, B6 Kalmarsund 10  4  1  2  4  61-50  15
+OL,11, B7 Nykvarn    10  2  2  5  3  49-48  13
+OL,12, B8 Dalen       9  3  1  3  3  59-63  13
+OL,13, G9 Mullsj|    10  3  1  3  4  54-62  13
+OL,14,G10 Pixbo      10  3  0  2  5  60-67  11
+OL,15,G11 Warberg    10  2  2  2  6  45-58  10
+OL,16,G12 Lund        9  2  1  2  5  46-56   9
+OL,17,F13 Visby       9  2  1  1  6  39-70   8
+OL,18,F14 AIK        10  2  0  0  8  44-73   6
 OL,23,D]G         Matcher f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (2/2)
 FL,100,300,400,700,0,100

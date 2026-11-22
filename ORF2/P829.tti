@@ -3,35 +3,54 @@ PN,82901
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G829FORF2   GSa 21.11.26 10:35:36
+OL,0,       G829FORF2   GSo 22.11.26 12:27:31
 OL,1,A]G                  Flughafen Salzburg 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug     von        Plan aktuell       
-OL,5,FLH 1260  Frankfurt  1005Bgelandet  1015
-OL,6,GFR 304   London STN 1235               
-OL,7,FLH 1262  Frankfurt  1355               
-OL,8,GEW 4393  Hurghada   1535               
-OL,23,Q,,F10:30hGFlughafen SalzburgF0662/8580 
+OL,5,FIV 7860  Pristina   1330Bplanm{ssig    
+OL,6,GLH 1262  Frankfurt  1355               
+OL,7,FEW 4343  Berlin     1510               
+OL,8,GFR 7877  Alicante   1545               
+OL,9,FEW 4393  Hurghada   1620Bplanm{ssig    
+OL,10,GFR 308   London STN 1640               
+OL,11,FEW 4381  Las Palmas 1655               
+OL,12,GLY 5193  Tel-Aviv   1800               
+OL,13,FLH 1264  Frankfurt  1815               
+OL,14,GTK 1383  Istanbul   1815               
+OL,15,FEW 4355  Hamburg    2050               
+OL,16,GEW 4339  D}sseldorf 2055               
+OL,17,FLH 1266  Frankfurt  2230               
+OL,23,Q,,F12:25hGFlughafen SalzburgF0662/8580 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82902
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G829FORF2   GSa 21.11.26 10:35:36
+OL,0,       G829FORF2   GSo 22.11.26 12:27:31
 OL,1,A]G                  Flughafen Salzburg 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug     nach       Plan aktuell       
-OL,5,FTK 1382  Istanbul   0935Bgestartet     
-OL,6,GLH 1261  Frankfurt  1105               
-OL,7,FFR 305   London STN 1325               
-OL,8,GLH 1263  Frankfurt  1445               
-OL,9,CN{chster Tag: 2026-11-22               
-OL,10,FLH 1267  Frankfurt  0630               
-OL,11,GEW 4380  Las Palmas 0645               
-OL,12,FEW 4392  Hurghada   0645               
-OL,23,Q,,F10:30hGFlughafen SalzburgF0662/8580 
+OL,5,FIV 7861  Pristina   1430               
+OL,6,GLH 1263  Frankfurt  1445               
+OL,7,FEW 4342  Berlin     1550               
+OL,8,GFR 7878  Alicante   1630               
+OL,9,FFR 309   London STN 1725               
+OL,10,GEW 4354  Hamburg    1730               
+OL,11,FEW 4338  D}sseldorf 1750               
+OL,12,GLH 1265  Frankfurt  1900               
+OL,13,FLY 5194  Tel-Aviv   1905               
+OL,14,GTK 1384  Istanbul   1910               
+OL,15,CN{chster Tag: 2026-11-23               
+OL,16,FLH 1267  Frankfurt  0605               
+OL,17,GEW 4334  D}sseldorf 0655               
+OL,18,FEW 4354  Hamburg    0730               
+OL,19,GFR 305   London STN 1000               
+OL,20,FLH 1261  Frankfurt  1055               
+OL,21,GEW 4342  Berlin     1105               
+OL,22,FBQ 1993  Rom FCO    1215               
+OL,23,Q,,F12:25hGFlughafen SalzburgF0662/8580 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

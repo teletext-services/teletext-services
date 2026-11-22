@@ -3,27 +3,27 @@ PN,67601
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G676 YLE TEKSTI-TV 21.03.13:46:33
+OL,0,       G676 YLE TEKSTI-TV 22.03.08:22:55
 OL,1,G]DENGLANTI A]GMESTARUUSSARJA       1/4 
 OL,2,K                                       
-OL,3,BBirmingham      15  8  5  2  28-14   29
-OL,4,BMiddlesbrough   15  8  5  2  30-19   29
-OL,5,FStoke           15  9  2  4  24-18   29
-OL,6,FWolverhampton   15  8  4  3  26-18   28
-OL,7,FWest Bromwich   15  8  4  3  23-15   28
-OL,8,FSwansea         15  8  2  5  22-18   26
-OL,9,FSouthampton     15  8  4  3  29-15   24
-OL,10,FQPR             15  6  6  3  24-18   24
-OL,11,GWest Ham        15  6  5  4  37-23   23
-OL,12,GSheffield U     15  6  4  5  21-19   22
-OL,13,GPortsmouth      15  6  4  5  20-18   22
-OL,14,GNorwich         15  7  0  8  32-24   21
+OL,3,BMiddlesbrough   16  9  5  2  32-19   32
+OL,4,BStoke           16 10  2  4  25-18   32
+OL,5,FWolverhampton   16  9  4  3  28-19   31
+OL,6,FBirmingham      16  8  5  3  28-15   29
+OL,7,FWest Bromwich   16  8  5  3  25-17   29
+OL,8,FSouthampton     16  9  4  3  31-15   27
+OL,9,FQPR             16  7  6  3  25-18   27
+OL,10,FSwansea         16  8  3  5  24-20   27
+OL,11,GSheffield U     16  7  4  5  25-19   25
+OL,12,GWest Ham        16  6  6  4  38-24   24
+OL,13,GNorwich         16  8  0  8  34-25   24
+OL,14,GPortsmouth      16  6  5  5  21-19   23
 OL,15,GBlackburn       15  6  3  6  22-23   21
-OL,16,GCardiff         15  4  6  5  27-27   18
-OL,17,GWrexham         15  4  6  5  18-20   18
-OL,18,GMillwall        15  5  3  7  23-27   18
-OL,19,GBristol City    15  5  3  7  16-24   18
-OL,20,GBolton          15  5  2  8  20-29   17
+OL,16,GWrexham         16  5  6  5  19-20   21
+OL,17,GCardiff         16  4  6  6  28-29   18
+OL,18,GMillwall        16  5  3  8  23-28   18
+OL,19,GBolton          16  5  3  8  21-30   18
+OL,20,GBristol City    16  5  3  8  16-26   18
 OL,21,K                                       
 OL,22,K                                       
 OL,23,K                                       
@@ -33,15 +33,15 @@ PN,67602
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G676 YLE TEKSTI-TV 21.03.13:46:33
+OL,0,       G676 YLE TEKSTI-TV 22.03.08:22:55
 OL,1,G]DENGLANTI A]GMESTARUUSSARJA       2/4 
 OL,2,K                                       
-OL,3,GCharlton        15  4  5  6  13-23   17
-OL,4,GWatford         15  4  3  8  13-23   15
-OL,5,GLincoln City    15  4  3  8  15-26   15
+OL,3,GCharlton        16  4  5  7  14-25   17
+OL,4,GLincoln City    16  4  3  9  15-27   15
+OL,5,GWatford         16  4  3  9  13-27   15
 OL,6,FBurnley         15  1  7  7  22-31   10
-OL,7,FDerby           15  2  4  9  14-30   10
-OL,8,FPreston         15  2  2 11  13-30    8
+OL,7,FDerby           16  2  4 10  14-32   10
+OL,8,FPreston         16  2  3 11  14-31    9
 OL,9,K                                       
 OL,10,K                                       
 OL,11,K                                       
@@ -63,58 +63,58 @@ PN,67603
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G676 YLE TEKSTI-TV 21.03.13:46:33
+OL,0,       G676 YLE TEKSTI-TV 22.03.08:22:55
 OL,1,G]DENGLANTI A]GMESTARUUSSARJA       3/4 
 OL,2,K                                       
-OL,3,B21.11.                                 
-OL,4, Bolton        - Portsmouth   F17.00    
-OL,5, Lincoln City  - Wrexham      F17.00    
-OL,6, Middlesbrough - Bristol City F17.00    
-OL,7, Sheffield U   - Watford      F17.00    
-OL,8, Stoke         - Birmingham   F17.00    
-OL,9, Swansea       - West BromwichF17.00    
-OL,10, West Ham      - Preston      F17.00    
-OL,11, Wolverhampton - Charlton     F17.00    
-OL,12,K                                       
-OL,13,B22.11.                                 
-OL,14, Burnley       - Blackburn    F14.00    
+OL,3,B22.11.                                 
+OL,4, Burnley       - Blackburn    F14.00    
+OL,5,K                                       
+OL,6,B24.11.                                 
+OL,7, Bristol City  - Wrexham      F21.45    
+OL,8, Cardiff       - Preston      F21.45    
+OL,9, Charlton      - Lincoln City F21.45    
+OL,10, Middlesbrough - Swansea      F21.45    
+OL,11, Norwich       - QPR          F21.45    
+OL,12, Portsmouth    - West Ham     F21.45    
+OL,13, Sheffield U   - Southampton  F21.45    
+OL,14, Wolverhampton - Derby        F22.00    
 OL,15,K                                       
-OL,16,B24.11.                                 
-OL,17, Bristol City  - Wrexham      F21.45    
-OL,18, Cardiff       - Preston      F21.45    
-OL,19, Charlton      - Lincoln City F21.45    
-OL,20, Middlesbrough - Swansea      F21.45    
-OL,21, Norwich       - QPR          F21.45    
-OL,22, Portsmouth    - West Ham     F21.45    
-OL,23, Sheffield U   - Southampton  F21.45    
+OL,16,B25.11.                                 
+OL,17, Bolton        - West BromwichF21.45    
+OL,18, Burnley       - Birmingham   F21.45    
+OL,19, Watford       - Blackburn    F21.45    
+OL,20, Stoke         - Millwall     F22.00    
+OL,21,K                                       
+OL,22,B27.11.                                 
+OL,23, Southampton   - MiddlesbroughF22.00    
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,67604
 SC,0004
 PS,C100
 CT,10,T
-OL,0,       G676 YLE TEKSTI-TV 21.03.13:46:33
+OL,0,       G676 YLE TEKSTI-TV 22.03.08:22:55
 OL,1,G]DENGLANTI A]GMESTARUUSSARJA       4/4 
 OL,2,K                                       
-OL,3,BMAALIP\RSSI 07.11.                     
+OL,3,BMAALIP\RSSI 21.11.                     
 OL,4,K                                       
 OL,5,GWill Lankshear              MID    13  
 OL,6,FAndri Gudjohnsen            BLB    10  
 OL,7,FJack Moylan                 CAC    10  
-OL,8,GCyle Larin                  SOU     7  
-OL,9,GJarrod Bowen                WHU     7  
-OL,10,FAugust Priske               BIR     6  
-OL,11,FFer Lopez                   WOL     6  
-OL,12,FIsaac Price                 WBA     6  
-OL,13,FSam Dalby                   BOL     6  
-OL,14,GJack McGlynn                STK     5  
-OL,15,GKieffer Moore               WRE     5  
-OL,16,GKonstantinos Mavropanos     WHU     5  
-OL,17,GMohamed Tour`               NOR     5  
-OL,18,GOladapo Afolayan            BLB     5  
-OL,19,GPatrick Bamford             SHU     5  
-OL,20,GScott Twine                 BRC     5  
-OL,21,GYousef Salech               CAC     5  
+OL,8,GCyle Larin                  SOU     8  
+OL,9,FIsaac Price                 WBA     7  
+OL,10,FJarrod Bowen                WHU     7  
+OL,11,FSam Dalby                   BOL     7  
+OL,12,GAugust Priske               BIR     6  
+OL,13,GFer Lopez                   WOL     6  
+OL,14,GKonstantinos Mavropanos     WHU     6  
+OL,15,GYousef Salech               CAC     6  
+OL,16,FAdam Armstrong              WOL     5  
+OL,17,FEdmond-Paris Maghoma        NOR     5  
+OL,18,FKieffer Moore               WRE     5  
+OL,19,FOladapo Afolayan            BLB     5  
+OL,20,FPatrick Bamford             SHU     5  
+OL,21,FScott Twine                 BRC     5  
 OL,22,K                                       
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike

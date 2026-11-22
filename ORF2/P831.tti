@@ -3,44 +3,55 @@ PN,83101
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G831FORF2   GSa 21.11.26 10:35:39
+OL,0,       G831FORF2   GSo 22.11.26 12:30:20
 OL,1,A]G                      Flughafen Linz 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug     von        Plan aktuell       
-OL,5,FDX 194  Frankfurt   1520B              
-OL,6,F  LH 7342                              
-OL,7,GXR 2304 Hurghada    1300B    22.11.26  
-OL,8,FDX 194  Frankfurt   1520B    22.11.26  
-OL,9,F  LH 7342                              
-OL,10,GDX 198  Frankfurt   2200B    22.11.26  
-OL,11,G  LH 7344                              
-OL,12,FQY 4126 Leipzig/Hall2245B    22.11.26  
-OL,13,GDX 192  Frankfurt   1000B    23.11.26  
-OL,14,G  LH 7340                              
-OL,23,Q,F10:34hGFlughafen LinzF07221/600-1100 
+OL,5,FXR 2304 Hurghada    1300B    On Time   
+OL,6,GDX 194  Frankfurt   1520B              
+OL,7,G  LH 7342                              
+OL,8,FDX 198  Frankfurt   2200B              
+OL,9,F  LH 7344                              
+OL,10,GQY 4126 Leipzig/Hall2245B              
+OL,11,FDX 192  Frankfurt   1000B    23.11.26  
+OL,12,F  LH 7340                              
+OL,13,GQY 238P Porto       1050B    23.11.26  
+OL,14,FC3 9381 Zagreb      1215B    23.11.26  
+OL,15,GDX 194  Frankfurt   1520B    23.11.26  
+OL,16,G  LH 7342                              
+OL,17,FFR 3486 Alicante    2000B    23.11.26  
+OL,18,GDX 198  Frankfurt   2200B    23.11.26  
+OL,19,G  LH 7344                              
+OL,20,FQY 4126 Leipzig/Hall0635B    24.11.26  
+OL,23,Q,F12:30hGFlughafen LinzF07221/600-1100 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83102
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G831FORF2   GSa 21.11.26 10:35:39
+OL,0,       G831FORF2   GSo 22.11.26 12:30:20
 OL,1,A]G                      Flughafen Linz 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug     nach       Plan aktuell       
-OL,5,FDX 193  Frankfurt   1130B              
-OL,6,F  LH 7343                              
-OL,7,GDX 193  Frankfurt   1130B    22.11.26  
-OL,8,G  LH 7343                              
-OL,9,FXR 2303 Hurghada    1400B    22.11.26  
-OL,10,GDX 197  Frankfurt   1730B    22.11.26  
-OL,11,G  LH 7345                              
-OL,12,FDX 191  Frankfurt   0615B    23.11.26  
-OL,13,F  LH 7341                              
-OL,14,GDX 193  Frankfurt   1030B    23.11.26  
-OL,15,G  LH 7343                              
-OL,23,Q,F10:34hGFlughafen LinzF07221/600-1100 
+OL,5,FXR 2303 Hurghada    1400B              
+OL,6,GDX 197  Frankfurt   1730B              
+OL,7,G  LH 7345                              
+OL,8,FDX 191  Frankfurt   0615B    23.11.26  
+OL,9,F  LH 7341                              
+OL,10,GDX 193  Frankfurt   1030B    23.11.26  
+OL,11,G  LH 7343                              
+OL,12,FC3 381  Bodo        1400B    23.11.26  
+OL,13,GDX 197  Frankfurt   1730B    23.11.26  
+OL,14,G  LH 7345                              
+OL,15,FFR 3487 Alicante    2025B    23.11.26  
+OL,16,GQY 4127 Leipzig/Hall2145B    23.11.26  
+OL,17,FQY 4301 K|ln/Bonn   2230B    23.11.26  
+OL,18,GDX 191  Frankfurt   0615B    24.11.26  
+OL,19,G  LH 7341                              
+OL,20,FKK 7110 Bodo        1000B    24.11.26  
+OL,23,Q,F12:30hGFlughafen LinzF07221/600-1100 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

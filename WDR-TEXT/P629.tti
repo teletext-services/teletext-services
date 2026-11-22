@@ -1,29 +1,45 @@
 DE,WDR-TEXT 629
-PN,62900
-SC,0000
-PS,8208
+PN,62901
+SC,0001
+PS,C200
 CT,10,T
-OL,0,     G629 WDR Text GSa 21.11.26 15:33:29
+OL,0,     G629 WDR Text GSo 22.11.26 07:06:47
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: Bundesliga/M     
-OL,5,CElversberg : Freiburg             E0:0 
-OL,6, 1. Der Ball rollt! Freiburg st|~t an   
-OL,7, und tr{ge heute rote Trikots. Die SV   
-OL,8, ELversberg spielt in Wei~ und          
-OL,9, Schwarz.                               
-OL,10, 1. Spielbeginn                         
-OL,11, 0. Als Regelh}ter mit dabei ist heute  
-OL,12, Richard Hempel aus Dresden.            
-OL,13, 0. Wer gewinnt das unerwartete         
-OL,14, Spitzenspiel zwischen Elversberg und   
-OL,15, Freiburg? Finden wir es heraus,        
-OL,16, gleich geht's los!                     
-OL,17, 0. Personell gibt es bei den           
-OL,18, Freiburgern nur einen Wechsel:         
-OL,19, Torj{ger Suzuki erh{lt nach der        
-OL,20, L{nderspiel-Reise mit Japan eine       
-OL,21, Pause und wird von Matanovi            
+OL,5,CElversberg : Freiburg         0:1 (0:0)
+OL,7,CTore:                                  
+OL,8, 0:1 Matanovi  (68.)                    
+OL,10,CStrafen:                               
+OL,11,S|GBeste (33.) S|GMatanovi  (70.)       
+OL,12,S|GLienhart (78.)                       
+OL,14,CZuschauer: G9.307                      
+OL,16,CSR: GRichard Hempel                    
 OL,23,]D600 < ]bersicht      Live-Ticker > 630
-OL,24,A]G- 628B]G+ 630  \                     
+OL,24,A]G- 628B]G+ 630  \               G(1/2)
+FL,628,630,0,0,0,100
+PN,62902
+SC,0002
+PS,C200
+CT,10,T
+OL,0,     G629 WDR Text GSo 22.11.26 07:06:47
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: Bundesliga/M     
+OL,5,CElversberg : Freiburg         0:1 (0:0)
+OL,7,CAustellungen:                          
+OL,9,CElversberg                             
+OL,10, Kristof G}nther Rohr (89. Adam)        
+OL,11, Pinckert Gyamerah (64. Sirch) Por ba   
+OL,12, Keidel Campbell (74. Zimmerschied)     
+OL,13, Onyeka (64. Futkeu) Petkov             
+OL,14, Mokwa (74. Krattenmacher)              
+OL,15,CFreiburg                               
+OL,16, Backhaus Makengo Lienhart Ginter Treu  
+OL,17, Engelhardt Eggestein                   
+OL,18, Scherhant (81. Grifo)                  
+OL,19, H|ler (71. Suzuki) Beste (71. Irie)    
+OL,20, Matanovi  (81. Goto)                   
+OL,23,]D600 < ]bersicht      Live-Ticker > 630
+OL,24,A]G- 628B]G+ 630  \               G(2/2)
 FL,628,630,0,0,0,100

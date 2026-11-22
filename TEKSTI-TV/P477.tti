@@ -3,8 +3,8 @@ PN,47701
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         VOITTAJAVETO 1         1/16 
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         VOITTAJAVETO 1         1/14 
 OL,2,K                                       
 OL,3,BM       Salibandyn MM-kisat 2026       
 OL,5,K                                       
@@ -32,8 +32,8 @@ PN,47702
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         VOITTAJAVETO 2         2/16 
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         VOITTAJAVETO 2         2/14 
 OL,2,K                                       
 OL,3,BM             F1, USA:n GP             
 OL,5,K                                       
@@ -61,8 +61,8 @@ PN,47703
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         VOITTAJAVETO 3         3/16 
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         VOITTAJAVETO 3         3/14 
 OL,2,K                                       
 OL,3,BMF1, USA:n GP, Valtteri Bottaksen sijoi
 OL,5,K                                       
@@ -90,37 +90,66 @@ PN,47704
 SC,0004
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         SUPERTRIPLA 1          4/16 
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         SUPERTRIPLA 2          4/14 
 OL,2,K                                       
-OL,3,BMM{kihyppy, kokonaiskilpailu, miesten m
+OL,3,BMHiihto, miehet 20km (v) yhteisl{ht|, R
 OL,5,K                                       
 OL,6,BVoittaja                               
 OL,7,K                                       
-OL,8,G 1 Prevc Domen      15 Granerud Halvor 
-OL,9,G 2 Kobayashi Ryoyu  16 Muu voittaja    
-OL,10,G 3 Tschofenig Danie                    
-OL,11,G 4 Hoerl Jan                           
-OL,12,G 5 Nikaido Ren                         
-OL,13,G 6 Kraft Stefan                        
-OL,14,G 7 Lanisek Anze                        
-OL,15,G 8 Embacher Stephan                    
-OL,16,G 9 Lindvik Marius                      
-OL,17,G10 Forfang Johan An                    
-OL,18,G11 Raimund Philipp                     
-OL,19,G12 Hoffmann Felix                      
-OL,20,G13 Wellinger Andrea                    
-OL,21,G14 Geiger Karl                         
+OL,8,G 1 Anttola Niko     15 Lepist| Lauri   
+OL,9,G 2 Lindholm Remi    16 Muu voittaja    
+OL,10,G 3 Koivisto Petteri                    
+OL,11,G 4 St}hlberg Alexan                    
+OL,12,G 5 Pyykk| Veeti                        
+OL,13,G 6 Husu Niko                           
+OL,14,G 7 Kemppi Anton                        
+OL,15,G 8 Parantainen Kall                    
+OL,16,G 9 Karppanen Miro                      
+OL,17,G10 Haarala Juuso                       
+OL,18,G11 Laitila Olli-Pek                    
+OL,19,G12 Liekari Emil                        
+OL,20,G13 M{ki Joni                           
+OL,21,G14 Vuorinen Lauri                      
 OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy la 21.11. klo 17.50.
+OL,23,BPelaaminen p{{ttyy su 22.11. klo 12.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,47705
 SC,0005
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         SUPERTRIPLA 4          5/16 
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         SUPERTRIPLA 3          5/14 
+OL,2,K                                       
+OL,3,BMHiihto, naiset 20km (v) yhteisl{ht|, R
+OL,5,K                                       
+OL,6,BVoittaja                               
+OL,7,K                                       
+OL,8,G 1 Saari Anna-Kaisa 15 Piippo Eveliina 
+OL,9,G 2 Alakoski Anni    16 Muu voittaja    
+OL,10,G 3 Nissinen Vilma                      
+OL,11,G 4 Rossi Selene                        
+OL,12,G 5 Kyt{j{ Nora                         
+OL,13,G 6 K{h{r{ Jasmin                       
+OL,14,G 7 Niemel{ Hilla                       
+OL,15,G 8 Kemppi Silva                        
+OL,16,G 9 Kettunen Oona                       
+OL,17,G10 L{ms{ Emmi                          
+OL,18,G11 Matintalo Johann                    
+OL,19,G12 Torvinen Elsa                       
+OL,20,G13 Lonka Katariina                     
+OL,21,G14 Kukonlehto Fanny                    
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy su 22.11. klo 10.30.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47706
+SC,0006
+PS,C100
+CT,10,T
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         SUPERTRIPLA 4          6/14 
 OL,2,K                                       
 OL,3,BM        MotoGP, Portugalin GP         
 OL,5,K                                       
@@ -144,12 +173,12 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy su 22.11. klo 15.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47706
-SC,0006
+PN,47707
+SC,0007
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         SUPERTRIPLA 5          6/16 
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         SUPERTRIPLA 5          7/14 
 OL,2,K                                       
 OL,3,BMAmpumahiihto, kokonaiskilpailu, mieste
 OL,5,K                                       
@@ -173,12 +202,12 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy to 26.11. klo 17.15.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47707
-SC,0007
+PN,47708
+SC,0008
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         SUPERTRIPLA 6          7/16 
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         SUPERTRIPLA 6          8/14 
 OL,2,K                                       
 OL,3,BMAmpumahiihto, kokonaiskilpailu, naiste
 OL,5,K                                       
@@ -202,12 +231,12 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy pe 27.11. klo 17.15.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47708
-SC,0008
+PN,47709
+SC,0009
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         SUPERTRIPLA 7          8/16 
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         SUPERTRIPLA 7          9/14 
 OL,2,K                                       
 OL,3,BM             F1, USA:n GP             
 OL,5,K                                       
@@ -231,12 +260,12 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy su 22.11. klo 06.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47709
-SC,0009
+PN,47710
+SC,0010
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         SUPERTRIPLA 8          9/16 
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         SUPERTRIPLA 8          10/14
 OL,2,K                                       
 OL,3,BM   F1, USA:n GP, ilman k{rkitalleja   
 OL,5,K                                       
@@ -260,47 +289,18 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy su 22.11. klo 06.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47710
-SC,0010
-PS,C100
-CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         P[IV[N TRIO 1          10/16
-OL,2,K                                       
-OL,3,BM        Otteluiden maalim{{r{t        
-OL,5,K                                       
-OL,6,Bkilpailu 1: K{rp{t - Jokerit           
-OL,7,Bkilpailu 2: Lukko - HPK                
-OL,8,Bkilpailu 3: Sport - Pelicans           
-OL,9,K                                       
-OL,10,G 1 0-1 maalia                          
-OL,11,G 2 2 maalia                            
-OL,12,G 3 3 maalia                            
-OL,13,G 4 4 maalia                            
-OL,14,G 5 5 maalia                            
-OL,15,G 6 6 maalia                            
-OL,16,G 7 7 maalia                            
-OL,17,G 8 8 maalia                            
-OL,18,G 9 9 maalia                            
-OL,19,G10 10 maalia                           
-OL,20,G11 11 maalia                           
-OL,21,G12 12 maalia tai yli                   
-OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy la 21.11. klo 17.00.
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
 PN,47711
 SC,0011
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         P[IV[N TRIO 2          11/16
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         P[IV[N TRIO 1          11/14
 OL,2,K                                       
 OL,3,BM        Otteluiden maalim{{r{t        
 OL,5,K                                       
-OL,6,Bkilpailu 1: Utah - Anaheim             
-OL,7,Bkilpailu 2: Vancouver - Minnesota      
-OL,8,Bkilpailu 3: San Jose - Seattle         
+OL,6,Bkilpailu 1: Tampa Bay - Buffalo        
+OL,7,Bkilpailu 2: Dallas - Pittsburgh        
+OL,8,Bkilpailu 3: St.Louis - Edmonton        
 OL,9,K                                       
 OL,10,G 1 0-1 maalia                          
 OL,11,G 2 2 maalia                            
@@ -315,15 +315,15 @@ OL,19,G10 10 maalia
 OL,20,G11 11 maalia                           
 OL,21,G12 12 maalia tai yli                   
 OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy su 22.11. klo 04.00.
+OL,23,BPelaaminen p{{ttyy ma 23.11. klo 00.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,47712
 SC,0012
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         P[IV[N TRIO 3          12/16
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         P[IV[N TRIO 3          12/14
 OL,2,K                                       
 OL,3,BM             F1, USA:n GP             
 OL,5,K                                       
@@ -351,8 +351,8 @@ PN,47713
 SC,0013
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         P[IV[N TRIO 3          13/16
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         P[IV[N TRIO 3          13/14
 OL,2,K                                       
 OL,3,BM             F1, USA:n GP             
 OL,5,K                                       
@@ -380,8 +380,8 @@ PN,47714
 SC,0014
 PS,C100
 CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         P[IV[N TRIO 3          14/16
+OL,0,       G477 YLE TEKSTI-TV 22.03.03:04:12
+OL,1,D]G         P[IV[N TRIO 3          14/14
 OL,2,K                                       
 OL,3,BM             F1, USA:n GP             
 OL,5,K                                       
@@ -403,63 +403,5 @@ OL,20,K
 OL,21,K                                       
 OL,22,K                                       
 OL,23,BPelaaminen p{{ttyy su 22.11. klo 06.00.
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,47715
-SC,0015
-PS,C100
-CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         P[IV[N TRIO 4          15/16
-OL,2,K                                       
-OL,3,BM         Puoliaika/lopputulos         
-OL,5,K                                       
-OL,6,Bkilpailu 1: Tottenham - Ipswich T      
-OL,7,Bkilpailu 2: Bournemouth - Nottingham   
-OL,8,Bkilpailu 3: Coventry C - Crystal P     
-OL,9,K                                       
-OL,10,G 1 1/1                                 
-OL,11,G 2 1/X                                 
-OL,12,G 3 1/2                                 
-OL,13,G 4 X/1                                 
-OL,14,G 5 X/X                                 
-OL,15,G 6 X/2                                 
-OL,16,G 7 2/1                                 
-OL,17,G 8 2/X                                 
-OL,18,G 9 2/2                                 
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy la 21.11. klo 17.00.
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,47716
-SC,0016
-PS,C100
-CT,10,T
-OL,0,       G477 YLE TEKSTI-TV 21.03.13:42:47
-OL,1,D]G         P[IV[N TRIO 5          16/16
-OL,2,K                                       
-OL,3,BM         Puoliaika/lopputulos         
-OL,5,K                                       
-OL,6,Bkilpailu 1: Napoli - Torino            
-OL,7,Bkilpailu 2: Lille - Lyon               
-OL,8,Bkilpailu 3: Real Madrid - Celta        
-OL,9,K                                       
-OL,10,G 1 1/1                                 
-OL,11,G 2 1/X                                 
-OL,12,G 3 1/2                                 
-OL,13,G 4 X/1                                 
-OL,14,G 5 X/X                                 
-OL,15,G 6 X/2                                 
-OL,16,G 7 2/1                                 
-OL,17,G 8 2/X                                 
-OL,18,G 9 2/2                                 
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy la 21.11. klo 21.45.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

@@ -3,26 +3,31 @@ PN,83201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G832FORF1   GSa 21.11.26 10:20:59
+OL,0,       G832FORF1   GSo 22.11.26 12:31:42
 OL,1,A]G                 Flughafen Innsbruck 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug    von        Plan aktuell        
 OL,5,FOS 0105 Wien       1400B               
-OL,23,F09:35hGFlugh. InnsbruckF0512/22525-375 
+OL,6,GU2 2637 London LTN 1430B               
+OL,7,FHV 6603 Amsterdam  1800B               
+OL,8,GOS 0107 Wien       1810B               
+OL,23,F12:18hGFlugh. InnsbruckF0512/22525-375 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G832FORF1   GSa 21.11.26 10:20:59
+OL,0,       G832FORF1   GSo 22.11.26 12:31:42
 OL,1,A]G                 Flughafen Innsbruck 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug    nach       Plan aktuell        
-OL,5,FHV 6610 Amsterdam  0925B0933 gestartet 
+OL,5,FU2 2638 London LTN 1510B               
 OL,6,GOS 0106 Wien       1515B               
-OL,23,F09:35hGFlugh. InnsbruckF0512/22525-375 
+OL,7,FOS 0108 Wien       1850B               
+OL,8,GHV 6604 Amsterdam  1850B               
+OL,23,F12:18hGFlugh. InnsbruckF0512/22525-375 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

@@ -3,8 +3,8 @@ PN,46101
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G461 YLE TEKSTI-TV 21.03.13:42:29
-OL,1,D]G       VERMON TOTO75-RAVIT       1/11
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G       VERMON TOTO75-RAVIT       1/17
 OL,2,   B  NO VOITTAJA     AIKA  2. 3.   KK  
 OL,3,    1 14 Iris        G29,3   5  8  70,55
 OL,4,K                                       
@@ -12,19 +12,19 @@ OL,5,    2  6 Mudcake ComeG12,8a  2  4  42,16
 OL,6,K                                       
 OL,7,    3  2 Creditboy RaG16,1a  4  3   5,72
 OL,8,K                                       
-OL,9,    4 10 Neo Savoy   G    a  9  3   6,72
+OL,9,    4 10 Neo Savoy   G15,3a  9  3   6,72
 OL,10,K                                       
-OL,11,F75G5                                   
+OL,11,F75G5  5 Magic Love  G15,7a 11  2 106,46
 OL,12,K                                       
-OL,13,F75G6                                   
+OL,13,F75G6  6 Selim       G30,2a  8  2   5,45
 OL,14,K                                       
-OL,15,F75G7                                   
-OL,16,                         CTroikka       
+OL,15,F75G7  1 Truly Easy  G14,6a  2  6   9,55
+OL,16,                         CTroikka 313,92
 OL,17, Voittajakertoimet jaFpoissaolleet:     
 OL,18,K                                       
-OL,19, 1.G20,13 F-        G5.                 
-OL,20, 2. G1,90 F-        G6.                 
-OL,21, 3. G7,17 F-        G7.                 
+OL,19, 1.G20,13 F-        G5. G5,18 F4        
+OL,20, 2. G1,90 F-        G6. G5,65 F12       
+OL,21, 3. G7,17 F-        G7. G7,19 F-        
 OL,22, 4. G8,81 F-                            
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
@@ -33,18 +33,18 @@ PN,46102
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G461 YLE TEKSTI-TV 21.03.13:42:29
-OL,1,D]G       VERMON TOTO75-RAVIT       2/11
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G       VERMON TOTO75-RAVIT       2/17
 OL,2,   B   NO VOITTAJA    AIKA  2. 3.   KK  
 OL,3,K                                       
-OL,4,F75 B8                                  
+OL,4,F75 B8  4 Costner    B27,3   7 15   7,87
 OL,5,K                                       
-OL,6,F75 B9                                  
+OL,6,F75 B9  8 Wertti     B23,4a  2  3   3,38
 OL,7,K                                       
-OL,8,F75B10FDuo-1                            
+OL,8,F75B10F 7 Joe Juneau B15,3a  6  4   2,96
 OL,9,K                                       
-OL,10,F75B11FDuo-2                            
-OL,11,                         CTroikka       
+OL,10,F75B11F 1 Cheeky ShadB14,5  15  4 858,83
+OL,11,                       CTroikka 14777,56
 OL,12,K                                       
 OL,13,K                                       
 OL,14,K                                       
@@ -53,78 +53,108 @@ OL,16,K
 OL,17,K                                       
 OL,18, Voittajakertoimet jaFpoissaolleet:     
 OL,19,K                                       
-OL,20,B8.                B10.                 
-OL,21,B9.                B11.                 
-OL,22,FT75:                                   
-OL,23,BT4:                FDuo:G              
+OL,20,B8.G12,91 F6       B10. G1,42 F10       
+OL,21,B9. G2,12 F-       B11.G89,38 F6 10 11  
+OL,22,FT75:F7:G10770,91 eF6:G42,01 eF5:G2,46 e
+OL,23,BT4:4-8-7-1G567,80 eFDuo:G98,34         
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,46103
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G461 YLE TEKSTI-TV 21.03.13:42:29
-OL,1,D]G      J[GERSRON TOTO85-RAVIT     3/11
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G      J[GERSRON TOTO85-RAVIT     3/17
 OL,2,   B  NO VOITTAJA     AIKA  2. 3.   KK  
-OL,3,   B1  4 Motson*     B    a  1 10   5,92
+OL,3,   B1  4 Motson*     B14,4a  1 10   5,92
 OL,4,                          CTroikka 46,92
-OL,5,   B2                                   
-OL,6,                         CTroikka       
-OL,7,   B3FDuo/1-1                           
-OL,8,                         CTroikka       
-OL,9,   B4FDuo/1-2                           
-OL,10,                         CTroikka       
-OL,11,F85G5                                   
-OL,12,                         CTroikka       
-OL,13,F85G6                                   
-OL,14,                         CTroikka       
-OL,15,F85G7                                   
-OL,16,                         CTroikka       
+OL,5,   B2  5 Altura*     B15,2a  6  3  43,07
+OL,6,                         CTroikka 519,94
+OL,7,   B3F 6 Assar Rapid*B14,6   3 11  23,51
+OL,8,                         CTroikka 214,92
+OL,9,   B4F 1 Eugenius FacB12,4a  7  6  12,86
+OL,10,                         CTroikka 293,98
+OL,11,F85G5  7 Riverdale Z.G11,8a  4  6   8,21
+OL,12,                          CTroikka 60,09
+OL,13,F85G6  5 Boscha DiablG13,1a  2  4   1,81
+OL,14,                          CTroikka 43,71
+OL,15,F85G7 12 Turfmans NanG12,5   3  5  74,57
+OL,16,                        CTroikka 5182,10
 OL,17, Voittajakertoimet jaFpoissaolleet:     
 OL,18,K                                       
-OL,19,B1. G4,57 F2        G5.                 
-OL,20,B2.                 G6.                 
-OL,21,B3.                 G7.                 
-OL,22,B4.                                     
-OL,23,BT4:4G8,40 e      FDuo/1:G              
+OL,19,B1. G4,57 F2        G5. G2,40 F1 3 11 12
+OL,20,B2. G4,85 F-        G6. G3,54 F-        
+OL,21,B3. G3,58 F-        G7.G33,98 F-        
+OL,22,B4. G8,95 F3                            
+OL,23,BT4:4-5-6-1G235,80 eFDuo/1:G38,38       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,46104
 SC,0004
 PS,C100
 CT,10,T
-OL,0,       G461 YLE TEKSTI-TV 21.03.13:42:29
-OL,1,D]G      J[GERSRON TOTO85-RAVIT     4/11
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G      J[GERSRON TOTO85-RAVIT     4/17
 OL,2,   B   NO VOITTAJA    AIKA  2. 3.   KK  
-OL,3,F85 B8                                  
-OL,4,                         CTroikka       
-OL,5,F85 B9                                  
-OL,6,                         CTroikka       
+OL,3,F85 B8  3 Rocksteady B12,9a  9 11  33,98
+OL,4,                         CTroikka 515,72
+OL,5,F85 B9  5 Ideal StoneB11,0a 12  1  32,33
+OL,6,                         CTroikka 366,35
 OL,7,K                                       
-OL,8,F85B10                                  
-OL,9,                         CTroikka       
+OL,8,F85B10  8 Wingait SteB14,7a  5  7  63,04
+OL,9,                         CTroikka 946,69
 OL,10,K                                       
-OL,11,F85B11FDuo/2-1                          
-OL,12,                         CTroikka       
+OL,11,F85B11F 2 Gurion FontB13,0a  4  1   7,39
+OL,12,                          CTroikka 32,78
 OL,13,K                                       
-OL,14,F85B12FDuo/2-2                          
-OL,15,                         CTroikka       
+OL,14,F85B12F 5 Ugalli*    B12,3a  4  1  34,63
+OL,15,                         CTroikka 583,78
 OL,16,K                                       
 OL,17, Voittajakertoimet jaFpoissaolleet:     
-OL,18, B8.                B11.                
-OL,19, B9.                B12.                
-OL,20,B10.                                    
-OL,21,BT5:                                    
-OL,22,FT85:                                   
-OL,23,FP{iv{n Duo/2:G                         
+OL,18, B8. G1,68 F8 12    B11. G2,08 F-       
+OL,19, B9. G6,46 F-       B12.G14,15 F8       
+OL,20,B10. G7,20 F10                          
+OL,21,BT5: 3-5-8-2-5G221,50 e                 
+OL,22,FT85:F8G14296,20 eF7G106,30 eF6G3,20 eF5
+OL,23,FP{iv{n Duo/2:G32,71                    
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,46105
 SC,0005
 PS,C100
 CT,10,T
-OL,0,       G461 YLE TEKSTI-TV 21.03.13:42:29
-OL,1,D]G         AUTEUILIN RAVIT         5/11
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G          REIMSIN RAVIT          5/17
+OL,2,K                                       
+OL,3,B   NO VOITTAJA       AIKA  2. 3.   KK  
+OL,4, 1. 14 Le Porto*     G12,3a  2  7   4,10
+OL,5, 2. 15 Matrix SautreuG14,4   6  9  26,90
+OL,6, 3.  3 Krick De CondeG13,1a  1  2   4,20
+OL,7, 4. 16 Miss Dam LorraG15,2  15 14 120,70
+OL,8, 5.  2 Klarissa*     G15,3a  1 11  27,90
+OL,9, 6.  6 Oscar Piya*   G17,5   8 10  41,30
+OL,10, 7.  5 Number One FliG14,5   4 10  10,40
+OL,11, 8. 10 Notre Folie*  G14,8   6  1  20,10
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17, Voittajakertoimet jaFpoissaolleet:     
+OL,18,K                                       
+OL,19,  1. G4,70 F-       G5. G6,80 F-        
+OL,20,  2.G10,40 F-       G6. G2,30 F-        
+OL,21,  3. G5,50 F-       G7. G4,10 F-        
+OL,22,  4. G5,80 F-       G8. G2,00 F-        
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46106
+SC,0006
+PS,C100
+CT,10,T
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G         AUTEUILIN RAVIT         6/17
 OL,2,K                                       
 OL,3,B   NO VOITTAJA       AIKA  2. 3.   KK  
 OL,4, 1.  5 Loki De La BruG       1  6      -
@@ -133,49 +163,19 @@ OL,6, 2.  8 Nirvana Gold* G       9  1  21,40
 OL,7, 3.  4 Him Malaya*   G19,1   5  2   6,40
 OL,8,                                    2,30
 OL,9,                                    1,00
-OL,10, 4.                                     
-OL,11, 5.                                     
-OL,12, 6.                                     
-OL,13, 7.                                     
-OL,14, 8.                                     
-OL,15,K                                       
-OL,16,K                                       
-OL,17, Voittajakertoimet jaFpoissaolleet:     
-OL,18,K                                       
-OL,19,  1.G10,40 F-       G5.                 
-OL,20,  2. G7,60 F-       G6.                 
-OL,21,  3. G2,90 F8       G7.                 
-OL,22,  4.                G8.                 
-OL,23,K                                       
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,46106
-SC,0006
-PS,C100
-CT,10,T
-OL,0,       G461 YLE TEKSTI-TV 21.03.13:42:29
-OL,1,D]G     MARSEILLE BORELYN RAVIT     6/11
-OL,2,K                                       
-OL,3,B   NO VOITTAJA       AIKA  2. 3.   KK  
-OL,4, 1. 11 Keops Du ChataG15,8   7 10   7,60
-OL,5,                                    2,50
-OL,6,                                    1,00
-OL,7, 2.  4 Nodessa JosselG      11 12   6,50
-OL,8, 3.  2 Niarkos De CreG17,8   5  3  33,00
-OL,9, 4.                                     
-OL,10, 5.                                     
-OL,11, 6.                                     
-OL,12, 7.                                     
-OL,13, 8.                                     
-OL,14,K                                       
-OL,15,K                                       
-OL,16,K                                       
-OL,17, Voittajakertoimet jaFpoissaolleet:     
-OL,18,K                                       
-OL,19,  1. G2,10 F3       G5.                 
-OL,20,  2. G3,10 F-       G6.                 
-OL,21,  3. G8,00 F-       G7.                 
-OL,22,  4.                G8.                 
+OL,10, 4.  7 Fosbury*      G      11  3  64,00
+OL,11,                                   16,60
+OL,12,                                    1,00
+OL,13, 5.  8 Passionata*   G       2  5  46,20
+OL,14, 6. 12 Blida*        G       8  1  15,70
+OL,15,                                    4,30
+OL,16,                                    1,00
+OL,17, 7.  8 Pacha Des BeauG16,5   4  7 158,00
+OL,18, 8.  7 Louis Banbou* G       3  4   9,30
+OL,19,                                    1,10
+OL,20,                                    1,00
+OL,21,K                                       
+OL,22,K                                       
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -183,29 +183,29 @@ PN,46107
 SC,0007
 PS,C100
 CT,10,T
-OL,0,       G461 YLE TEKSTI-TV 21.03.13:42:29
-OL,1,D]G          ANGERSIN RAVIT         7/11
-OL,2,K                                       
-OL,3,B   NO VOITTAJA       AIKA  2. 3.   KK  
-OL,4, 1.  8 Ouragan De BeGm17,3   7  5   4,20
-OL,5,                                    1,80
-OL,6,                                    1,00
-OL,7, 2.                                     
-OL,8, 3.                                     
-OL,9, 4.                                     
-OL,10, 5.                                     
-OL,11, 6.                                     
-OL,12, 7.                                     
-OL,13, 8.                                     
-OL,14,K                                       
-OL,15,K                                       
-OL,16,K                                       
-OL,17, Voittajakertoimet jaFpoissaolleet:     
-OL,18,K                                       
-OL,19,  1. G5,30 F6       G5.                 
-OL,20,  2.                G6.                 
-OL,21,  3.                G7.                 
-OL,22,  4.                G8.                 
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G          ANGERSIN RAVIT         7/17
+OL,2,B   NO VOITTAJA       AIKA  2. 3.   KK  
+OL,3, 1.  8 Ouragan De BeGm17,3   7  5   4,20
+OL,4,                                    1,80
+OL,5,                                    1,00
+OL,6, 2.  3 Norwood Des V G16,8   8  5   9,30
+OL,7, 3.  4 Le Havre*     G15,6  10  5  35,70
+OL,8,                                    9,60
+OL,9,                                    1,00
+OL,10, 4. 14 Magic Morning G17,0   6 12  60,20
+OL,11, 5.  4 Mega Djob*    G16,4  14 12  17,60
+OL,12, 6. 10 Kanelle De Ti G14,8  16 15   8,40
+OL,13, 7. 13 Kellisia Girl G       5 16  63,50
+OL,14,                                    1,10
+OL,15,                                    1,00
+OL,16, 8. 12 Kalio De Bray G15,3   8 10  40,40
+OL,17,K                                       
+OL,18, Voittajakertoimet jaFpoissaolleet:     
+OL,19,  1. G5,30 F6       G5. G9,40 F-        
+OL,20,  2. G3,80 F-       G6. G9,10 F-        
+OL,21,  3.G10,30 F8 14    G7.G11,10 F2        
+OL,22,  4.G37,30 F-       G8. G4,80 F-        
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -213,8 +213,68 @@ PN,46108
 SC,0008
 PS,C100
 CT,10,T
-OL,0,       G461 YLE TEKSTI-TV 21.03.13:42:29
-OL,1,D]G         AXEVALLAN RAVIT         8/11
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G     MARSEILLE BORELYN RAVIT     8/17
+OL,2,K                                       
+OL,3,B   NO VOITTAJA       AIKA  2. 3.   KK  
+OL,4, 1. 11 Keops Du Chat G15,8   7 10   7,60
+OL,5,                                    2,50
+OL,6,                                    1,00
+OL,7, 2.  4 Nodessa Josse G      11 12   6,50
+OL,8, 3.  2 Niarkos De Cr G17,8   5  3  33,00
+OL,9, 4.  1 Madison Star*Gm      12 11  54,50
+OL,10, 5. 16 Manzana Cheno G15,3   2 15  39,60
+OL,11, 6.  6 L'Amiral Flow G14,0   5 12   5,70
+OL,12, 7.  6 Kiss Me Julry G13,2   9  4  36,50
+OL,13, 8. 16 Ibrox Park*   G13,3  14  5  35,70
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17, Voittajakertoimet jaFpoissaolleet:     
+OL,18,K                                       
+OL,19,  1. G2,10 F3       G5. G9,80 F-        
+OL,20,  2. G3,10 F-       G6. G2,40 F-        
+OL,21,  3. G8,00 F-       G7. G3,60 F-        
+OL,22,  4.G19,80 F-       G8. G5,20 F-        
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46109
+SC,0009
+PS,C100
+CT,10,T
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G        CASABLANCAN RAVIT        9/17
+OL,2,K                                       
+OL,3,B   NO VOITTAJA       AIKA  2. 3.   KK  
+OL,4, 1.Gklo 18.10                           
+OL,5, 2.                                     
+OL,6, 3.                                     
+OL,7, 4.                                     
+OL,8, 5.                                     
+OL,9, 6.  6 Wine Palace*  G05,1  17  5  50,10
+OL,10,                                   11,10
+OL,11,                                    1,00
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,Voittaja/tallikertoimet jaFpoissaolleet:
+OL,19,K                                       
+OL,20,  1.                G4.                 
+OL,21,  2.                G5.                 
+OL,22,  3.                G6. G6,30 F1 4 13   
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46110
+SC,0010
+PS,C100
+CT,10,T
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G         AXEVALLAN RAVIT        10/17
 OL,2,B  NO VOITTAJA        AIKA  2. 3.   KK  
 OL,3, 1Gklo 12.32                            
 OL,4,K                                       
@@ -226,29 +286,29 @@ OL,9,B4  1 Ravissant*     B15,7a  4  9  15,86
 OL,10,                         CTroikka 463,72
 OL,11,B5 10 Bitte Lock*    B14,6a  5 12  23,15
 OL,12,                         CTroikka 745,00
-OL,13,B6 11 Honey Dun Girl*B       9  8 112,67
+OL,13,B6 11 Honey Dun Girl B14,4   9  8 112,67
 OL,14,                        CTroikka 2404,21
-OL,15,B7                                      
-OL,16,                         CTroikka       
+OL,15,B7  8 Moni Talks*   Bm16,1   1  4  16,13
+OL,16,                         CTroikka 543,26
 OL,17, Voittajakertoimet jaFpoissaolleet:     
 OL,18,K                                       
 OL,19, 1.                 B5.G15,55 F-        
 OL,20,B2. G1,99 F-        B6.G36,38 F-        
-OL,21,B3.G51,03 F2 6      B7.                 
+OL,21,B3.G51,03 F2 6      B7. G5,52 F-        
 OL,22,B4. G6,09 F-                            
 OL,23,BT4: 3-10-1-10G8466,00 e                
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,46109
-SC,0009
+PN,46111
+SC,0011
 PS,C100
 CT,10,T
-OL,0,       G461 YLE TEKSTI-TV 21.03.13:42:29
-OL,1,D]G         AXEVALLAN RAVIT         9/11
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G         AXEVALLAN RAVIT        11/17
 OL,2,B  NO VOITTAJA        AIKA  2. 3.   KK  
 OL,3,K                                       
-OL,4,B8                                      
-OL,5,                         CTroikka       
+OL,4,B8  2 Woo Doo Doo ArtB17,2a  1  3   6,65
+OL,5,                          CTroikka 39,36
 OL,6,K                                       
 OL,7,K                                       
 OL,8,K                                       
@@ -258,9 +318,9 @@ OL,11,K
 OL,12,K                                       
 OL,13, Voittajakertoimet jaFpoissaolleet:     
 OL,14,K                                       
-OL,15,B8.                                     
+OL,15,B8. G3,37 F-                            
 OL,16,K                                       
-OL,17,BT5: 1-10-11G3085,40 e                  
+OL,17,BT5: 1-10-11-8-2G116,70 e (4 oikein)    
 OL,18,K                                       
 OL,19,K                                       
 OL,20,K                                       
@@ -269,12 +329,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,46110
-SC,0010
+PN,46112
+SC,0012
 PS,C100
 CT,10,T
-OL,0,       G461 YLE TEKSTI-TV 21.03.13:42:29
-OL,1,D]G         HARSTADIN RAVIT        10/11
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G         HARSTADIN RAVIT        12/17
 OL,2,B  NO VOITTAJA        AIKA  2. 3.   KK  
 OL,3, 1  1 Endurance Me P G18,8   5     16,67
 OL,4,                     CTroikka *-*-* 1,00
@@ -286,29 +346,29 @@ OL,9,B4  8 Astriks*       B31,6   3  9  44,66
 OL,10,                         CTroikka 217,59
 OL,11,B5  6 Mellem Frost*  B26,6   7  3   5,15
 OL,12,                          CTroikka 42,35
-OL,13,B6                                      
-OL,14,                         CTroikka       
-OL,15,B7                                      
-OL,16,                         CTroikka       
+OL,13,B6  3 Amador*        B15,6a  8 10  19,67
+OL,14,                         CTroikka 181,90
+OL,15,B7  6 Sweet Candyman B13,8a  4  3  30,51
+OL,16,                         CTroikka 255,32
 OL,17, Voittajakertoimet jaFpoissaolleet:     
 OL,18, 1. G1,97 F2        B5. G4,06 F4        
-OL,19,B2.G23,47 F-        B6.                 
-OL,20,B3. G1,38 F2 7      B7.                 
+OL,19,B2.G23,47 F-        B6. G5,74 F-        
+OL,20,B3. G1,38 F2 7      B7. G7,48 F7        
 OL,21,B4. G6,89 F1 2                          
-OL,22,BT5: 11-9-8-6G122,40 e                  
+OL,22,BT5: 11-9-8-6-3G237,70 e                
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,46111
-SC,0011
+PN,46113
+SC,0013
 PS,C100
 CT,10,T
-OL,0,       G461 YLE TEKSTI-TV 21.03.13:42:29
-OL,1,D]G         HARSTADIN RAVIT        11/11
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G         HARSTADIN RAVIT        13/17
 OL,2,B  NO VOITTAJA        AIKA  2. 3.   KK  
 OL,3,K                                       
-OL,4,B8                                      
-OL,5,                         CTroikka       
+OL,4,B8  9 Selmer I.H.*   B12,3a  1  2   7,40
+OL,5,                          CTroikka 53,55
 OL,6,K                                       
 OL,7,K                                       
 OL,8,K                                       
@@ -318,14 +378,134 @@ OL,11,K
 OL,12,K                                       
 OL,13, Voittajakertoimet jaFpoissaolleet:     
 OL,14,K                                       
-OL,15,B8.                                     
+OL,15,B8. G4,32 F8 12                         
 OL,16,K                                       
-OL,17,BT4: 6G5,50 e                           
+OL,17,BT4: 6-3-6-9G71,30 e                    
 OL,18,K                                       
 OL,19,K                                       
 OL,20,K                                       
 OL,21,K                                       
 OL,22,K                                       
 OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46114
+SC,0014
+PS,C100
+CT,10,T
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G        ORKLA TOTO65-RAVIT      14/17
+OL,2,   B  NO VOITTAJA     AIKA  2. 3.   KK  
+OL,3,    1  6 Valle Kodin*G30,4a  3 10   5,89
+OL,4,                          CTroikka 45,79
+OL,5,    2  4 SchnellfahreG17,3a  6  1   6,06
+OL,6,                         CTroikka 108,10
+OL,7,    3  1 F ynland BorG32,5   7  6  30,64
+OL,8,                         CTroikka 189,77
+OL,9,F65G4  2 T.Wall's NotG13,9a  1  9  12,35
+OL,10,                          CTroikka 60,69
+OL,11,F65G5  2 Evangeline* G17,0   1 10  16,19
+OL,12,                         CTroikka 750,89
+OL,13,F65B6  3 KringelandkyB25,5   8  1  22,38
+OL,14,                         CTroikka 146,55
+OL,15,F65B7  4 Lippi*      B13,3a  1  9   4,82
+OL,16,                         CTroikka 190,23
+OL,17, Voittajakertoimet jaFpoissaolleet:     
+OL,18,K                                       
+OL,19, 1. G2,15 F7        G5.G17,38 F-        
+OL,20, 2. G4,02 F-        B6. G2,62 F-        
+OL,21, 3. G4,12 F-        B7. G1,44 F-        
+OL,22, 4. G1,51 F-                            
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46115
+SC,0015
+PS,C100
+CT,10,T
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G        ORKLA TOTO65-RAVIT      15/17
+OL,2,   B  NO VOITTAJA     AIKA  2. 3.   KK  
+OL,3,K                                       
+OL,4,F65B8  6 Hage Balder*B24,7a 10  5  10,20
+OL,5,                         CTroikka 123,45
+OL,6,K                                       
+OL,7,F65B9 12 Italy*      B15,2a  1  8  66,09
+OL,8,                         CTroikka 571,15
+OL,9,K                                       
+OL,10,K                                       
+OL,11,K                                       
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16, Voittajakertoimet jaFpoissaolleet:     
+OL,17,K                                       
+OL,18,B8. G3,48 F4 12     B9. G8,78 F9        
+OL,19,K                                       
+OL,20,FT65:F6:G312,80 eF5:G13,10 e            
+OL,21,BT4: 3-4-6-12G46,50 e                   
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46116
+SC,0016
+PS,C100
+CT,10,T
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G          ]RHUSIN RAVIT         16/17
+OL,2,K                                       
+OL,3,B   NO VOITTAJA       AIKA  2. 3.   KK  
+OL,4,B1.  3 Made By D C*  B       6  1   7,53
+OL,5,                         CTroikka 107,17
+OL,6,B2.  5 Enzo Flame*   B       4  8   9,21
+OL,7,                          CTroikka 67,79
+OL,8,B3.  5 Moon Dust*    B    a  2  8  13,04
+OL,9,                          CTroikka 69,74
+OL,10,B4.  6 Lucky Love*   B    a  7  3  22,40
+OL,11,                         CTroikka 145,10
+OL,12,B5.  7 Fox On The RunB    a  1  6  21,88
+OL,13,                         CTroikka 493,91
+OL,14,B6.  3 Miss Hohneck* B    a  7  1   6,32
+OL,15,                poissa - /CTroikka 29,42
+OL,16,K                                       
+OL,17,BT5:nGvoittajakertoimet jaFpoissaolleet:
+OL,18, B1. G6,25 F-        B4. G2,61 F-       
+OL,19, B2. G5,84 F10       B5. G2,52 F-       
+OL,20, B3. G1,56 F-                           
+OL,21,K                                       
+OL,22,BT5: 3-5-5-6-7G70,20 e                  
+OL,23,BT4: 5-6-7-3G9,60 e                     
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46117
+SC,0017
+PS,C100
+CT,10,T
+OL,0,       G461 YLE TEKSTI-TV 22.03.02:38:36
+OL,1,D]G           USA:N RAVIT          17/17
+OL,2,K                                       
+OL,3,B    NO VOITTAJA      AIKA  2. 3.       
+OL,4,  1.  3 Max Is Him   G       6  5       
+OL,5,  2.  6 Cavatelli    G       2  4       
+OL,6,  3.  4 Chiqueada    G       2  5       
+OL,7,  4. 12 Jaydeevee    G       2  3       
+OL,8,  5.  4 Kintrigue    G       3  5       
+OL,9,  6.  6 Vissino      G       2  5       
+OL,10, B7.  5 Quick Pick   B       4  8       
+OL,11, B8.  4 Southern RoadB       7  3       
+OL,12, B9.  3 Paris TwilighB       9  6       
+OL,13,B10.  2 Gramp's LegacB       8  3       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,BT4:nGvoittajakertoimet jaFpoissaolleet:
+OL,19,K                                       
+OL,20, B7. G1,44 F1 6 10 12 B9. G6,36 F8      
+OL,21, B8. G9,57 F5 8      B10. G9,22 F6 9    
+OL,22,K                                       
+OL,23,BT4: 5-4-3-2G93,60 e                    
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:10:59
+OL,0,      BTVP2     196Csob 21 lis  19:34:24
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!      Cwojew_dztwo lubuskie     Q"##
@@ -22,7 +22,47 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:10:59
+OL,0,      BTVP2     196Csob 21 lis  19:34:24
+OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
+OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
+OL,3,Q##!      Cwojew_dztwo }_dzkie      Q"##
+OL,5,     FUtrudnienie DK 12 (407,1 km)      
+OL,7, CUtrudnienie DK 12 (407,1 km), kierunek
+OL,8,Coba. Zderzenie pojazd_w. Droga         
+OL,9,Czablokowana. Objazd drogami lokalnymi. 
+OL,11, Utrudnienie DK 12 (407,1 km), kierunek 
+OL,12, oba. Zderzenie pojazd_w. Droga         
+OL,13, zablokowana. Objazd drogami lokalnymi. 
+FL,195,197,200,200,0,100
+PN,19603
+SC,0003
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP2     196Csob 21 lis  19:34:24
+OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
+OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
+OL,3,Q##!      Cwojew_dztwo }_dzkie      Q"##
+OL,5,     FUtrudnienie DK A2 (386,5 km)      
+OL,7, CUtrudnienie na DK A2 (386,5 km),      
+OL,8,Ckierunek Warszawa. Zderzenie pojazdu z 
+OL,9,Cbarierami. Zablokowany lewy pas w      
+OL,10,Ckierunku Warszawy. Zablokowany jeden   
+OL,11,Cpas ruchu.                             
+OL,13, Utrudnienie na DK A2 (386,5 km),       
+OL,14, kierunek Warszawa. Zderzenie pojazdu z 
+OL,15, barierami. Zablokowany lewy pas w      
+OL,16, kierunku Warszawy. Zablokowany jeden   
+OL,17, pas ruchu. Ruch odbywa si` prawym      
+OL,18, pasem. Wy|wietlono komunikaty na       
+OL,19, tablicach zmiennej tre|ci.             
+FL,195,197,200,200,0,100
+PN,19604
+SC,0004
+PS,C000
+RE,1
+CT,10,T
+OL,0,      BTVP2     196Csob 21 lis  19:34:24
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!      Cwojew_dztwo }_dzkie      Q"##
@@ -42,29 +82,30 @@ OL,19, dodatkowe pasy ruchu oraz remont
 OL,20, autostrady A2 na odc. A0 od 361 km do  
 OL,21, 366 km.                                
 FL,195,197,200,200,0,100
-PN,19603
-SC,0003
+PN,19605
+SC,0005
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:10:59
+OL,0,      BTVP2     196Csob 21 lis  19:34:24
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
-OL,5,           FUtrudnienia na A4           
-OL,7, CWypadek na A4 w m. Mokrzyska          
-OL,9, Mokrzyska, A4 (pow. brzeski) 469 km pas
-OL,10, w kierunku Krakowa wypadek samochodu   
-OL,11, osobowego. Na miejscu udzielana jest   
-OL,12, pomoc osobom poszkodowanym. Autostrada 
-OL,13, w kierunku Krakowa zablokowana.        
+OL,5,           FUtrudnienie na A4           
+OL,7, CUtrudnienia na A4 w m. Mokrzyska      
+OL,9, Mokrzyska, a4 469 (pow. brzeski) A4 469
+OL,10, kierunek na Krakow. Samochod osobowy   
+OL,11, uderzyl w zabezpieczenie autostrady,   
+OL,12, pojazd uderzyl rowniez w radiowoz,     
+OL,13, Droga zablokowana. Przewidywany czas   
+OL,14, utrudnie$ ok. 3h.                      
 FL,195,197,200,200,0,100
-PN,19604
-SC,0004
+PN,19606
+SC,0006
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:10:59
+OL,0,      BTVP2     196Csob 21 lis  19:34:24
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
@@ -79,12 +120,12 @@ OL,14, 8:00 - 16:00. Wy}@czenie ruchu
 OL,15, spowodowane jest planowanymi robotami  
 OL,16, zwi@zanymi z wykonywaniem nawierzchni. 
 FL,195,197,200,200,0,100
-PN,19605
-SC,0005
+PN,19607
+SC,0007
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:10:59
+OL,0,      BTVP2     196Csob 21 lis  19:34:24
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
@@ -106,24 +147,24 @@ OL,21, zamkni`tego odcinka drogi mo{liwy
 OL,22, b`dzie: ul. Limanowsk@ i ulic@         
 OL,23, Papiesk@, nast`pnie przez m. \winiarsko
 FL,195,197,200,200,0,100
-PN,19606
-SC,0006
+PN,19608
+SC,0008
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:10:59
+OL,0,      BTVP2     196Csob 21 lis  19:34:24
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
 OL,5,        FUtrudnienia na dp 1583K        
 OL,7, do ronda w m. Podrzecze.               
 FL,195,197,200,200,0,100
-PN,19607
-SC,0007
+PN,19609
+SC,0009
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:10:59
+OL,0,      BTVP2     196Csob 21 lis  19:34:25
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
@@ -143,12 +184,12 @@ OL,20, - Ster}awki Wielkie) - dojazdy do
 OL,21, cmentarzy w dniu 01.11.2026 odbywa^ si`
 OL,22, b`d@ bez utrudnie$ - objazd_w.         
 FL,195,197,200,200,0,100
-PN,19608
-SC,0008
+PN,19610
+SC,0010
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:10:59
+OL,0,      BTVP2     196Csob 21 lis  19:34:25
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
@@ -168,12 +209,12 @@ OL,21, https://www.google.com/maps/d/u/0/edit?
 OL,22, mid=143eKd1yB7vx61Hn9gE1GM06AJ9FQFl0&us
 OL,23, p=sharing                              
 FL,195,197,200,200,0,100
-PN,19609
-SC,0009
+PN,19611
+SC,0011
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:11:00
+OL,0,      BTVP2     196Csob 21 lis  19:34:25
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
@@ -189,12 +230,12 @@ OL,21, Odbywa} si` b`dzie drog@ wojew_dzk@
 OL,22, numer 592 od strony miejscowo|ci       
 OL,23, K`trzyn.                               
 FL,195,197,200,200,0,100
-PN,19610
-SC,0010
+PN,19612
+SC,0012
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:11:00
+OL,0,      BTVP2     196Csob 21 lis  19:34:25
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
@@ -210,12 +251,12 @@ OL,19, - Ster}awki Ma}e
 OL,21, - Kalinowo                             
 OL,23, - Wrony Nowe                           
 FL,195,197,200,200,0,100
-PN,19611
-SC,0011
+PN,19613
+SC,0013
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:11:00
+OL,0,      BTVP2     196Csob 21 lis  19:34:25
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
@@ -231,56 +272,4 @@ OL,17, prace wyko$czeniowe, prosimy o
 OL,18, zachowanie szczeg_lnej ostro{no|ci i   
 OL,19, stosowanie si` do wprowadzonych        
 OL,20, ogranicze$ pr`dko|ci.                  
-FL,195,197,200,200,0,100
-PN,19612
-SC,0012
-PS,C000
-RE,1
-CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:11:00
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
-OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
-OL,5,           FUtrudnienia na S3           
-OL,7, CGDDKiA: utrudnienia pomi`dzy w`z}ami  
-OL,8,CGoleni_w P}d.- Kliniska Wielkie w      
-OL,9,Ckierunku Szczecina. Zablokowany jeden  
-OL,10,Cpas ruchu.                             
-OL,12, 1. Wojew_dztwo: zachodniopomorskie     
-OL,13, 2. Nr drogi: S3                        
-OL,14, 3. Kilometra{: 74+000                  
-OL,15, 4. Odcinek drogi ograniczony           
-OL,16, rozpoznawalnymi miejscowo|ciami: W.    
-OL,17, Goleni_w P}d.- W. Kliniska Wielkie     
-OL,18, 5. Kierunek: Szczecin                  
-OL,19, 6. Miejscowo|^ zdarzenia: -            
-OL,20, 7. Rodzaj zdarzenia: Kolizja           
-OL,21, 8. Opis zdarzenia: Z auta ci`{arowego  
-OL,22, spad}a tafla lodu uszkadzaj@c auto     
-OL,23, osobowe. Zaj`ty pas wolny i awaryjny.  
-FL,195,197,200,200,0,100
-PN,19613
-SC,0013
-PS,C000
-RE,1
-CT,10,T
-OL,0,      BTVP2     196Csob 21 lis  15:11:00
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]  @Sta}e utrudnienia na drogach  Q
-OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
-OL,5,           FUtrudnienia na S3           
-OL,7, 9. Rodzaj pojazd_w uczestnicz@cych w   
-OL,8, zdarzeniu: 1 auto ci`{arowe, 1 auto    
-OL,9, osobowe                                
-OL,10, 10. Liczba rannych: 0                  
-OL,11, 11. Liczba zabitych: 0                 
-OL,12, 12. Rodzaj utrudnienia: Zablokowany    
-OL,13, jeden pas ruchu                        
-OL,14, 13. Rodzaj wprowadzonych u}atwie$:     
-OL,15, Przejazd pasem szybkim.                
-OL,16, 14. Przewidywany czas utrudnienia (h): 
-OL,17, 2                                      
-OL,18, 15. Data powstania zdarzenia:          
-OL,19, 21.11.2026                             
-OL,20, 16. Godzina powstania zdarzenia: 14:34 
 FL,195,197,200,200,0,100

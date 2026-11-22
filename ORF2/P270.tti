@@ -1,30 +1,55 @@
 DE,ORF2 270
-PN,27000
-SC,0000
-PS,8208
+PN,27001
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       G270FORF2   GSa 21.11.26 10:26:15
+OL,0,       G270FORF2   GSa 21.11.26 21:31:55
 OL,1,A]G                         Skispringen 
-OL,2,A]GSPORT  ]A                           \
-OL,3,Q#########G                             
-OL,4,FWeltcup in Lillehammer, Freitag        
-OL,6,FMixed-Team, Endstand (8 Spr}nge)       
-OL,7,F 1. Norwegen         1.012,4           
-OL,8,      Hansen/Sundal/Kvandal/Lindvik     
-OL,9,F 2. Japan              951,3           
-OL,10,      Ito/Kobayashi/Maruyama/Nikaido    
-OL,11,C 3.C\sterreich         893,5           
-OL,12,G     L.Fettner         125,5 112,5     
-OL,13,      Zimmermann        133,5 138,0     
-OL,14,      M}hlbacher        105,5 117,0     
-OL,15,      H|rl              136,0 140,5     
-OL,16,F 4. Slowenien          881,3           
-OL,17,      N.Prevc/Zajc/Vodan/D.Prevc        
-OL,18,F 5. Deutschland        821,7           
-OL,19,      Reisch/Raimund/Freitag/Paschke    
-OL,20,F 6. Finnland           801,2           
-OL,21,F 7. Polen              676,6           
-OL,22,F 8. Italien            548,1           
+OL,2,A]GSPORT  ]A                     Damen \
+OL,3,Q#########G                        1/2  
+OL,4,FWeltcup in Lillehammer, Samstag        
+OL,6,F1.Bewerb, Endstand                     
+OL,7,F 1.FS.Embacher    AUT 141,0 140,5 278,0
+OL,8,  2. H.E.Granerud  NOR 127,0 139,0 265,9
+OL,9,F 3.FR.Zimmermann  AUT 138,0 130,5 259,6
+OL,10,F 4.FD.Tschofenig  AUT 132,5 137,5 250,2
+OL,11,  5. K.E.Sundal    NOR 128,5 134,5 248,3
+OL,12,F 6.FJ.H|rl        AUT 129,5 136,5 246,2
+OL,13,F 7.FM.Ortner      AUT 135,5 126,0 245,3
+OL,14,  8. R.Kobayashi   JPN 135,0 126,5 244,2
+OL,15,  9. I.A.Langmo    NOR 127,0 130,5 235,1
+OL,16, 10. R.Imhof       SUI 133,0 130,0 234,8
+OL,17,Fweiters                                
+OL,18, 26. C.Aigner      AUT 117,0 116,0 188,1
+OL,19, 30. S.Kraft       AUT 129,5  80,0 140,3
+OL,21,CSonntag                                
+OL,22, Einzel, 2.Bewerb              16.00hF* 
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,F* live in ORF1 
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,27002
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       G270FORF2   GSa 21.11.26 21:31:55
+OL,1,A]G                         Skispringen 
+OL,2,A]GSPORT  ]A                     Damen \
+OL,3,Q#########G                        2/2  
+OL,4,FWeltcup, Stand nach 1 Bewerb           
+OL,6,F 1. Stephan Embacher       AUT     100 
+OL,7,  2. Halvor Egner Granerud  NOR      80 
+OL,8,F 3. Raffael Zimmermann     AUT      60 
+OL,9,F 4. Daniel Tschofenig      AUT      50 
+OL,10,  5. Kristoffer E. Sundal   NOR      45 
+OL,11,F 6. Jan H|rl               AUT      40 
+OL,12,F 7. Maximilian Ortner      AUT      36 
+OL,13,  8. Ryoyu Kobayashi        JPN      32 
+OL,14,  9. Isak Andreas Langmo    NOR      29 
+OL,15, 10. Remo Imhof             SUI      26 
+OL,16,Fweiters                                
+OL,17, 26. Clemens Aigner         AUT       5 
+OL,18, 30. Stefan Kraft           AUT       1 
+OL,20,FN{chster Bewerb:GLillehammer (22.11.)  
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

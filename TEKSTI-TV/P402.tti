@@ -3,53 +3,53 @@ PN,40201
 SC,0001
 PS,C100
 CT,10,T
-OL,0,       G402 YLE TEKSTI-TV 21.03.13:40:50
+OL,0,       G402 YLE TEKSTI-TV 22.03.01:04:03
 OL,1,Vppppppppppppppppppppppppppppppppppppppp
-OL,2,D]MGS{{ maa-asemilla 21.11. klo 12LF1/3 
+OL,2,D]MGS{{ maa-asemilla 21.11. klo 20LF1/3 
 OL,4,V#######################################
-OL,5,CHelsinki     C  3C SEC 5CHEIK.VESIKUUR 
-OL,6,GHki-Vantaa   G  1G  EG 3GHEIK.VESIKUUR 
-OL,7,CTurku        C  1C  EC 3CPILVIST[      
-OL,8,GMaarianhaminaG  4G NEG 2GPILVIST[      
-OL,9,CPori         C  2C  EC 3CPILVIST[      
-OL,10,GKankaanp{{   G  2G NEG 1GHEIK.VESIKUUR 
-OL,11,CTampere      C  1C  EC 2CMELK.PILVIST[ 
-OL,12,GJokioinen    G  1G  EG 3GPILVIST[      
-OL,13,CLahti        C  1C --C -CSADETTA       
-OL,14,GLappeenranta G  2G  SG 1GMELK.SELKE[[  
-OL,15,CVarkaus      C  2C NEC 3CHEIK.VESISAD  
-OL,16,GIlomantsi    G  0G NEG 3GHEIK.LUMISAD  
-OL,17,CJoensuu      C  1C  EC 4CHEIK.LUMISAD  
-OL,18,GKuopio       G  1G  EG 2GHEIK.VESIKUUR 
-OL,19,CViitasaari   C  0C NEC 1CHEIK.VESISAD  
-OL,20,GJyv{skyl{    G  1G  NG 1GHEIK.VESISAD  
-OL,21,C[ht{ri       C  1C --C -CPILVIST[      
-OL,22,GKauhava      G  0G NEG 4GHEIK.LUMISAD  
-OL,23,CVaasa        C  1C --C -CHEIK.R[NT[SAD 
+OL,5,CHelsinki     C  2C NEC 4CHEIK.VESIKUUR 
+OL,6,GHki-Vantaa   G  1G NEG 4GPILVIST[      
+OL,7,CTurku        C  1C  NC 4CMELK.PILVIST[ 
+OL,8,GMaarianhaminaG  2G  NG 3GMELK.PILVIST[ 
+OL,9,CPori         C  1C  NC 3CHEIK.VESIKUUR 
+OL,10,GKankaanp{{   G  0G  NG 3GHEIK.LUMISAD  
+OL,11,CTampere      C  0C NEC 1CMELK.PILVIST[ 
+OL,12,GJokioinen    G  1G NEG 3GPILVIST[      
+OL,13,CLahti        C  1C --C -CPILVIST[      
+OL,14,GLappeenranta G  0G SEG 2GSELKE[[       
+OL,15,CVarkaus      C  0C NEC 1CHEIK.R[NT[SAD 
+OL,16,GIlomantsi    G  0G NEG 2GHEIK.LUMISAD  
+OL,17,CJoensuu      C  1C  EC 3CHEIK.LUMISAD  
+OL,18,GKuopio       G  1G NEG 2GHEIK.R[NT[SAD 
+OL,19,CViitasaari   C  0C NEC 1CHEIK.R[NT[SAD 
+OL,20,GJyv{skyl{    G  0G  NG 2GHEIK.LUMISAD  
+OL,21,C[ht{ri       C  0C --C -CKOHT.LUMISAD  
+OL,22,GKauhava      G -1G  NG 6GHEIK.LUMISAD  
+OL,23,CVaasa        C  0C NEC 7CHEIK.LUMISAD  
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,40202
 SC,0002
 PS,C100
 CT,10,T
-OL,0,       G402 YLE TEKSTI-TV 21.03.13:40:50
+OL,0,       G402 YLE TEKSTI-TV 22.03.01:04:03
 OL,1,Vppppppppppppppppppppppppppppppppppppppp
-OL,2,D]MGS{{ maa-asemilla 21.11. klo 12LF2/3 
+OL,2,D]MGS{{ maa-asemilla 21.11. klo 20LF2/3 
 OL,4,V#######################################
-OL,5,GYlivieska    G -1G NEG 4GHEIK.LUMISAD  
-OL,6,CKajaani      C -1C NEC 5CHEIK.LUMISAD  
-OL,7,GOulu         G -1G NEG 5GPILVIST[      
-OL,8,CPudasj{rvi   C -2C  NC 4CPILVIST[      
-OL,9,GSuomussalmi  G -2G NEG 3GHEIK.LUMIKUUR 
-OL,10,CKuusamo      C -2C NEC 2CPILVIST[      
-OL,11,GRovaniemi    G -3G NEG 1GPILVIST[      
-OL,12,CPello        C -1C  NC 3CPILVIST[      
+OL,5,GYlivieska    G -1G  NG 5GHEIK.LUMISAD  
+OL,6,CKajaani      C  0C NEC 5CHEIK.LUMISAD  
+OL,7,GOulu         G -1G  NG 5GHEIK.LUMISAD  
+OL,8,CPudasj{rvi   C -1C  NC 4CHEIK.LUMISAD  
+OL,9,GSuomussalmi  G -1G NEG 3GHEIK.LUMISAD  
+OL,10,CKuusamo      C -2C  NC 3CHEIK.LUMISAD  
+OL,11,GRovaniemi    G -2G  NG 3GPILVIST[      
+OL,12,CPello        C -3C NWC 3CHEIK.LUMIKUUR 
 OL,13,GSalla        G -4G NWG 2GPILVIST[      
-OL,14,CSodankyl{    C -3C  NC 1CPILVIST[      
-OL,15,GKittil{      G -2G NWG 1GPILVIST[      
-OL,16,CKilpisj{rvi  C-10C  EC 1CHEIK.LUMIKUUR 
-OL,17,GInari        G -2G  SG 2GPILVIST[      
-OL,18,CUtsjoki      C-10C  SC 1CMELK.PILVIST[ 
+OL,14,CSodankyl{    C -3C  NC 2CHEIK.LUMISAD  
+OL,15,GKittil{      G -3G NWG 4GMELK.PILVIST[ 
+OL,16,CKilpisj{rvi  C-10C SEC 2CPUOLIPILVIST[ 
+OL,17,GInari        G -2G NWG 2GHEIK.LUMISAD  
+OL,18,CUtsjoki      C-12C SEC 3CPUOLIPILVIST[ 
 OL,19,K                                       
 OL,20,F---------------------------------------
 OL,21,FS=etel{ N=pohjoinen W=l{nsi E=it{      
@@ -61,29 +61,29 @@ PN,40203
 SC,0003
 PS,C100
 CT,10,T
-OL,0,       G402 YLE TEKSTI-TV 21.03.13:40:50
+OL,0,       G402 YLE TEKSTI-TV 22.03.01:04:03
 OL,1,Vppppppppppppppppppppppppppppppppppppppp
-OL,2,D]G   L{mp|tiloja ulkomailla 20.11.     
+OL,2,D]G   L{mp|tiloja ulkomailla 21.11.     
 OL,3,F]D   Klo 14 Suomen aikaa          3/3  
 OL,4,K                                       
 OL,5,CAmsterdam    C  8G  GOslo         G  3 
-OL,6,GAteena       G 21G  CPalma de MallC 21 
-OL,7,CBelgrad      C 19G  GPariisi      G 13 
-OL,8,GBerliini     G  5G  CPietari      C  4 
-OL,9,CBryssel      C 10G  GPraha        G  9 
-OL,10,GBudapest     G 10G  CReykjavik    C  2 
-OL,11,CBukarest     C 17G  GRodos        G 24 
-OL,12,GFrankfurt A  G  9G  CRooma        C 20 
-OL,13,CIstanbul     C 20G  GTallinna     G  5 
-OL,14,GK||penhamina G  6G  CTel Aviv     C 27 
-OL,15,CLas Palmas   C 24G  GTokio        G 10 
-OL,16,GLissabon     G 18G  CTromssa      C -1 
-OL,17,CLontoo       C 10G  GTukholma     G  0 
-OL,18,GMadrid       G 12G  CVarna        C 20 
-OL,19,CMalaga       C 20G  GVarsova      G  6 
-OL,20,GMoskova      G  7G  CVenetsia     C 14 
-OL,21,CNew York     C 11G  GWien         G 13 
-OL,22,GNizza        G 19G  CZ rich       C 10 
+OL,6,GAteena       G 22G  CPalma de MallC 20 
+OL,7,CBelgrad      C 16G  GPariisi      G 10 
+OL,8,GBerliini     G  7G  CPietari      C  1 
+OL,9,CBryssel      C  8G  GPraha        G  6 
+OL,10,GBudapest     G 10G  CReykjavik    C  4 
+OL,11,CBukarest     C 16G  GRodos        G 22 
+OL,12,GFrankfurt A  G  8G  CRooma        C 17 
+OL,13,CIstanbul     C 18G  GTallinna     G  2 
+OL,14,GK||penhamina G  6G  CTel Aviv     C 26 
+OL,15,CLas Palmas   C 24G  GTokio        G  9 
+OL,16,GLissabon     G 19G  CTromssa      C  0 
+OL,17,CLontoo       C  9G  GTukholma     G  0 
+OL,18,GMadrid       G 11G  CVarna        C 18 
+OL,19,CMalaga       C 20G  GVarsova      G  2 
+OL,20,GMoskova      G  5G  CVenetsia     C  7 
+OL,21,CNew York     C 11G  GWien         G  8 
+OL,22,GNizza        G 17G  CZ rich       C  8 
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

@@ -3,9 +3,9 @@ PN,35101
 SC,0001
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 351  L|r 21 novC00:07:34
+OL,0,      GSVT Text 351  L|r 21 novC23:11:14
 OL,1,D]GFOTBOLL Skytteliga Allsvenskan       
-OL,3,BSenast {ndrad 2026-11-08            M}l
+OL,3,BSenast {ndrad 2026-11-21            M}l
 OL,4, F1GKristian Lien      Djurg}rden    F17
 OL,5, F1GPaulos Abraham     Hammarby      F17
 OL,6, F3GIsak Bjerkebo      Sirius        F15
@@ -32,7 +32,7 @@ PN,35102
 SC,0002
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 351  L|r 21 novC00:07:34
+OL,0,      GSVT Text 351  L|r 21 novC23:11:14
 OL,1,D]GFOTBOLL Skytteliga Damallsvenskan    
 OL,3,BSenast {ndrad 2026-11-15            M}l
 OL,4, F1GMaja Bodin         H{cken        F16
@@ -61,7 +61,7 @@ PN,35103
 SC,0003
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 351  L|r 21 novC00:07:34
+OL,0,      GSVT Text 351  L|r 21 novC23:11:14
 OL,1,D]GFOTBOLL Skytteliga Superettan        
 OL,3,BSenast {ndrad 2026-11-07            M}l
 OL,4, F1GAlbin Andersson    Falkenberg    F19
@@ -90,9 +90,9 @@ PN,35104
 SC,0004
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 351  L|r 21 novC00:07:34
+OL,0,      GSVT Text 351  L|r 21 novC23:11:14
 OL,1,D]GFOTBOLL Skytteliga Spanska ligan     
-OL,3,BSenast {ndrad 2026-11-20            M}l
+OL,3,BSenast {ndrad 2026-11-21            M}l
 OL,4, F1GRaphinha           Barcelona     F15
 OL,5, F2GKylian Mbapp`      Real Madrid   F13
 OL,6, F3GLamine Yamal       Barcelona     F10
@@ -102,16 +102,16 @@ OL,9, F6GFermin Lopez       Barcelona      F7
 OL,10, F6GRoberto Fernandez  Espanyol       F7
 OL,11, F6GSergio Camello     Rayo Vallecano F7
 OL,12, F9GFer Nino           Elche          F6
-OL,13,F10GAdrian Nino        Malaga         F5
-OL,14,F10GAlejandro Baena    At Madrid      F5
-OL,15,F10GLucas Boye         Alaves         F5
-OL,16,F10GPierre-Emerick Aub La Coruna      F5
-OL,17,F10GRoger Brugu`       Levante        F5
-OL,18,F15GAlejandro Grimaldo At Madrid      F4
-OL,19,F15GAlex Berenguer     Bilbao         F4
-OL,20,F15GGiuliano Simeone   At Madrid      F4
-OL,21,F15GJude Bellingham    Real Madrid    F4
-OL,22,F15GLuka Sucic         Sociedad       F4
+OL,13, F9GLucas Boye         Alaves         F6
+OL,14,F11GAdrian Nino        Malaga         F5
+OL,15,F11GAlejandro Baena    At Madrid      F5
+OL,16,F11GJude Bellingham    Real Madrid    F5
+OL,17,F11GPierre-Emerick Aub La Coruna      F5
+OL,18,F11GRoger Brugu`       Levante        F5
+OL,19,F16GAlejandro Grimaldo At Madrid      F4
+OL,20,F16GAlex Berenguer     Bilbao         F4
+OL,21,F16GGiuliano Simeone   At Madrid      F4
+OL,22,F16GLuka Sucic         Sociedad       F4
 OL,23,D]G         Serie A f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG (4/10)
 FL,100,300,400,700,0,100
@@ -119,28 +119,28 @@ PN,35105
 SC,0005
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 351  L|r 21 novC00:07:34
+OL,0,      GSVT Text 351  L|r 21 novC23:11:14
 OL,1,D]GFOTBOLL Skytteliga Serie A           
-OL,3,BSenast {ndrad 2026-11-08            M}l
-OL,4, F1GGustavo Varela     Monza          F9
-OL,5, F2GAntonio Raimondo   Frosinone      F8
-OL,6, F2GDonyell Malen      Roma           F8
+OL,3,BSenast {ndrad 2026-11-21            M}l
+OL,4, F1GDonyell Malen      Roma          F12
+OL,5, F2GGustavo Varela     Monza          F9
+OL,6, F3GAntonio Raimondo   Frosinone      F8
 OL,7, F4GNikola Krstovic    Atalanta       F7
 OL,8, F5GMarcus Thuram      Inter          F6
-OL,9, F6GAdrien Rabiot      Milan          F5
-OL,10, F6GAlphadjo Ciss      Milan          F5
-OL,11, F6GAnastasios Douvika Como           F5
-OL,12, F6GDaniel Maldini     Cagliari       F5
-OL,13, F6GGiacomo Calo       Frosinone      F5
-OL,14,F11GChe Adams          Torino         F4
-OL,15,F11GChristian Pulisic  Milan          F4
-OL,16,F11GDavide Frattesi    Lazio          F4
-OL,17,F11GDiego Moreira      Milan          F4
-OL,18,F11GFranco Mastantuono Fiorentina     F4
-OL,19,F11GGustav Isaksen     Lazio          F4
-OL,20,F11GKevin De Bruyne    Napoli         F4
-OL,21,F11GLautaro Martinez   Inter          F4
-OL,22,F11GMateo Pellegrino   Fiorentina     F4
+OL,9, F5GTijjani Noslin     Lazio          F6
+OL,10, F7GAdrien Rabiot      Milan          F5
+OL,11, F7GAlphadjo Ciss      Milan          F5
+OL,12, F7GAnastasios Douvika Como           F5
+OL,13, F7GDaniel Maldini     Cagliari       F5
+OL,14, F7GDavide Frattesi    Lazio          F5
+OL,15, F7GGiacomo Calo       Frosinone      F5
+OL,16, F7GRodrigo Mora       Roma           F5
+OL,17,F14GChe Adams          Torino         F4
+OL,18,F14GChristian Pulisic  Milan          F4
+OL,19,F14GDiego Moreira      Milan          F4
+OL,20,F14GFranco Mastantuono Fiorentina     F4
+OL,21,F14GGustav Isaksen     Lazio          F4
+OL,22,F14GKevin De Bruyne    Napoli         F4
 OL,23,D]G      Premier League f|ljer >>>      
 OL,24,ANyheter BSport CV{der FInneh}llG (5/10)
 FL,100,300,400,700,0,100
@@ -148,28 +148,28 @@ PN,35106
 SC,0006
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 351  L|r 21 novC00:07:34
+OL,0,      GSVT Text 351  L|r 21 novC23:11:14
 OL,1,D]GFOTBOLL Skytteliga Premier League    
-OL,3,BSenast {ndrad 2026-11-08            M}l
+OL,3,BSenast {ndrad 2026-11-21            M}l
 OL,4, F1GErling Haaland     Man City       F9
 OL,5, F2CAlexander Isak     Liverpool      F7
-OL,6, F3GNicolas Jackson    Aston Villa    F6
-OL,7, F3GThierno Barry      Everton        F6
-OL,8, F5GEvanilson          Bournemouth    F5
-OL,9, F5GJoao Pedro         Chelsea        F5
-OL,10, F5GMarcus Tavernier   Bournemouth    F5
-OL,11, F5GMorgan Rogers      Chelsea        F5
-OL,12, F5GRayan Cherki       Man City       F5
-OL,13,F10GBruno Fernandes    Man United     F4
-OL,14,F10GBryan Mbeumo       Man United     F4
-OL,15,F10GDominic Calvert-Le Leeds          F4
-OL,16,F10GPascal Gross       Brighton       F4
-OL,17,F14GBrian Brobbey      Sunderland     F3
-OL,18,F14GBukayo Saka        Arsenal        F3
-OL,19,F14GCharalampos Kostou Brighton       F3
-OL,20,F14GCole Palmer        Chelsea        F3
-OL,21,F14GEnzo Le Fee        Sunderland     F3
-OL,22,F14GJack Hinshelwood   Brighton       F3
+OL,6, F3GEvanilson          Bournemouth    F6
+OL,7, F3GNicolas Jackson    Aston Villa    F6
+OL,8, F3GThierno Barry      Everton        F6
+OL,9, F6GDominic Calvert-Le Leeds          F5
+OL,10, F6GJoao Pedro         Chelsea        F5
+OL,11, F6GMarcus Tavernier   Bournemouth    F5
+OL,12, F6GMorgan Rogers      Chelsea        F5
+OL,13, F6GRayan Cherki       Man City       F5
+OL,14,F11GBruno Fernandes    Man United     F4
+OL,15,F11GBryan Mbeumo       Man United     F4
+OL,16,F11GNoah Okafor        Leeds          F4
+OL,17,F11GPascal Gross       Brighton       F4
+OL,18,F15GBrian Brobbey      Sunderland     F3
+OL,19,F15GBukayo Saka        Arsenal        F3
+OL,20,F15GCharalampos Kostou Brighton       F3
+OL,21,F15GCole Palmer        Chelsea        F3
+OL,22,F15GEnzo Le Fee        Sunderland     F3
 OL,23,D]G       Tyska ligan f|ljer >>>        
 OL,24,ANyheter BSport CV{der FInneh}llG (6/10)
 FL,100,300,400,700,0,100
@@ -177,27 +177,27 @@ PN,35107
 SC,0007
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 351  L|r 21 novC00:07:34
+OL,0,      GSVT Text 351  L|r 21 novC23:11:14
 OL,1,D]GFOTBOLL Skytteliga Bundesliga        
-OL,3,BSenast {ndrad 2026-11-20            M}l
+OL,3,BSenast {ndrad 2026-11-21            M}l
 OL,4, F1GNiclas F llkrug    W Bremen       F9
-OL,5, F2GPatrik Schick      Leverkusen     F8
-OL,6, F3GMichael Olise      B M nchen      F6
-OL,7, F3GPhillip Tietz      Mainz          F6
-OL,8, F3GYounes Ebnoutalib  Frankfurt      F6
-OL,9, F6GChristopher Nkunku RB Leipzig     F5
-OL,10, F6GErmedin Demirovic  Stuttgart      F5
-OL,11, F6GJonathan Burkardt  Frankfurt      F5
-OL,12, F6GMichael Gregoritsc Augsburg       F5
-OL,13, F6GRomulo Cruz        RB Leipzig     F5
-OL,14, F6GYuito Suzuki       Freiburg       F5
-OL,15,F12GAntonio Nusa       RB Leipzig     F4
-OL,16,F12GFelix Nmecha       Dortmund       F4
-OL,17,F12GHarry Kane         B M nchen      F4
-OL,18,F12GIgor Matanovic     Freiburg       F4
-OL,19,F12GJoseph Scally      M|nchengladbachF4
-OL,20,F12GLuis Diaz          B M nchen      F4
-OL,21,F12GMaurice Krattenmac Elversberg     F4
+OL,5, F1GPatrik Schick      Leverkusen     F9
+OL,6, F3GJonathan Burkardt  Frankfurt      F6
+OL,7, F3GMichael Olise      B M nchen      F6
+OL,8, F3GPhillip Tietz      Mainz          F6
+OL,9, F3GRomulo Cruz        RB Leipzig     F6
+OL,10, F3GYounes Ebnoutalib  Frankfurt      F6
+OL,11, F8GAntonio Nusa       RB Leipzig     F5
+OL,12, F8GChristopher Nkunku RB Leipzig     F5
+OL,13, F8GErmedin Demirovic  Stuttgart      F5
+OL,14, F8GFelix Nmecha       Dortmund       F5
+OL,15, F8GIgor Matanovic     Freiburg       F5
+OL,16, F8GMichael Gregoritsc Augsburg       F5
+OL,17, F8GYuito Suzuki       Freiburg       F5
+OL,18,F15GHarry Kane         B M nchen      F4
+OL,19,F15GJoseph Scally      M|nchengladbachF4
+OL,20,F15GLuis Diaz          B M nchen      F4
+OL,21,F15GMaurice Krattenmac Elversberg     F4
 OL,22,F19GAnthony Caci       Mainz          F3
 OL,23,D]G      Franska ligan f|ljer >>>       
 OL,24,ANyheter BSport CV{der FInneh}llG (7/10)
@@ -206,9 +206,9 @@ PN,35108
 SC,0008
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 351  L|r 21 novC00:07:34
+OL,0,      GSVT Text 351  L|r 21 novC23:11:14
 OL,1,D]GFOTBOLL Skytteliga Franska ligan     
-OL,3,BSenast {ndrad 2026-11-20            M}l
+OL,3,BSenast {ndrad 2026-11-21            M}l
 OL,4, F1GLassine Sinayoko   Paris FC       F9
 OL,5, F2GAmine Gouiri       Marseille      F7
 OL,6, F2GEsteban Lepaul     Rennes         F7
@@ -216,16 +216,16 @@ OL,7, F4GCameron Archer     Auxerre        F6
 OL,8, F4GElye Wahi          Nice           F6
 OL,9, F6GBoulaye Dia        Rennes         F5
 OL,10, F6GCasper Tengstedt   Toulouse       F5
-OL,11, F6GFlorian Thauvin    Lens           F5
-OL,12, F6GJosh Maja          Le Havre       F5
-OL,13, F6GLudovic Ajorque    Brest          F5
-OL,14,F11GErnest Nuamah      Lyon           F4
-OL,15,F11GFerran Torres      Paris SG       F4
-OL,16,F11GGessime Yassine    Strasbourg     F4
-OL,17,F11GKamory Doumbia     Brest          F4
-OL,18,F11GLouis Mafouta      Le Mans        F4
-OL,19,F11GParis Brunner      Monaco         F4
-OL,20,F11GSebastian Szymansk Rennes         F4
+OL,11, F6GFerran Torres      Paris SG       F5
+OL,12, F6GFlorian Thauvin    Lens           F5
+OL,13, F6GJosh Maja          Le Havre       F5
+OL,14, F6GLudovic Ajorque    Brest          F5
+OL,15,F12GErnest Nuamah      Lyon           F4
+OL,16,F12GGessime Yassine    Strasbourg     F4
+OL,17,F12GKamory Doumbia     Brest          F4
+OL,18,F12GLouis Mafouta      Le Mans        F4
+OL,19,F12GParis Brunner      Monaco         F4
+OL,20,F12GSebastian Szymansk Rennes         F4
 OL,21,F18GAchraf Hakimi      Paris SG       F3
 OL,22,F18GAdil Bourabaa      Le Mans        F3
 OL,23,D]G   Nederl{ndska ligan f|ljer >>>     
@@ -235,28 +235,28 @@ PN,35109
 SC,0009
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 351  L|r 21 novC00:07:34
+OL,0,      GSVT Text 351  L|r 21 novC23:11:14
 OL,1,D]GFOTBOLL Skytteliga Nederl{ndska ligan
-OL,3,BSenast {ndrad 2026-11-08            M}l
+OL,3,BSenast {ndrad 2026-11-21            M}l
 OL,4, F1GBrynjolfur Anderse Groningen      F9
 OL,5, F1GSven Mijnans       PSV Eindhoven  F9
 OL,6, F1GS|ren Tengstedt    GA Eagles      F9
-OL,7, F1GWout Weghorst      Twente         F9
-OL,8, F5GThom van Bergen    Groningen      F8
+OL,7, F1GThom van Bergen    Groningen      F9
+OL,8, F1GWout Weghorst      Twente         F9
 OL,9, F6GAnis Hadj Moussa   Feyenoord      F7
 OL,10, F6GGuus Til           PSV Eindhoven  F7
 OL,11, F6GMilan Zonneveld    Sparta RotterdaF7
 OL,12, F6GNacho Ferri        Feyenoord      F7
 OL,13, F6GTolu Arokodare     Ajax           F7
-OL,14,F11GJacob Trenskow     Heerenveen     F6
-OL,15,F11GJulian Brandt      Ajax           F6
-OL,16,F11GMexx Meerdink      AZ             F6
-OL,17,F11GRafik El Arguioui  Cambuur        F6
-OL,18,F15GAnthony Descotte   For Sittard    F5
-OL,19,F15GArtem Stepanov     Utrecht        F5
-OL,20,F15GGjivai Zechiel     Feyenoord      F5
-OL,21,F15GIlyes Hamache      Cambuur        F5
-OL,22,F15GLuciano Valente    Feyenoord      F5
+OL,14,F11GArtem Stepanov     Utrecht        F6
+OL,15,F11GIlyes Hamache      Cambuur        F6
+OL,16,F11GJacob Trenskow     Heerenveen     F6
+OL,17,F11GJulian Brandt      Ajax           F6
+OL,18,F11GMexx Meerdink      AZ             F6
+OL,19,F11GNicolas Binder     Cambuur        F6
+OL,20,F11GRafik El Arguioui  Cambuur        F6
+OL,21,F18GAnthony Descotte   For Sittard    F5
+OL,22,F18GGjivai Zechiel     Feyenoord      F5
 OL,23,D]G    Champions League f|ljer >>>      
 OL,24,ANyheter BSport CV{der FInneh}llG (9/10)
 FL,100,300,400,700,0,100
@@ -264,7 +264,7 @@ PN,35110
 SC,0010
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 351  L|r 21 novC00:07:34
+OL,0,      GSVT Text 351  L|r 21 novC23:11:14
 OL,1,D]GFOTBOLL Skytteliga Champions League  
 OL,3,BSenast {ndrad 2026-11-04            M}l
 OL,4, F1GAnastasios Douvika Como           F6

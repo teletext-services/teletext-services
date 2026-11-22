@@ -3,25 +3,25 @@ PN,76801
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  768Czat 21 nov  09:51:34
+OL,0,       BNOS-TT  768Czon 22 nov  10:49:08
 OL,1,T]C                               F 1/7 
 OL,2,D]                                      
 OL,3,B] DMaastricht-Aachen Airport Aankomsten
 OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,5,BSchema Vlucht Herkomst     Verwacht@@@@
 OL,6,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C07:10FXM359  CDublin      C07:01FGeland
-OL,8,C09:40FTK6514 CIstanbul    C10:29FVerw.@
-OL,9,C13:35FET3501 CHouston     C14:34FVerw.@
-OL,10,C18:00FTK6040 CQuito       C17:24FVerw.@
-OL,11,C19:55FW67621 CPodgorica   @@@@@@@@@@@@@
-OL,12,BZondag 22 November 2026@@@@@@@@@@@@@@@@
-OL,13,C06:00FET3773 CKaraganda   @@@@@@@@@@@@@
-OL,14,C07:15FET3887 CKaraganda   @@@@@@@@@@@@@
-OL,15,C07:20FRO7301 CBoekarest   @@@@@@@@@@@@@
-OL,16,C10:30FRJ033  CAmman       @@@@@@@@@@@@@
-OL,17,C12:00FBT7702 CLjubljana   @@@@@@@@@@@@@
-OL,18,C15:40FET3408 CAddis Ababa @@@@@@@@@@@@@
+OL,7,C07:15FET3887 CKaraganda   C07:09FGeland
+OL,8,C07:20FRO7301 CBoekarest   C07:26FGeland
+OL,9,C10:30FRJ033  CAmman       C10:43FGeland
+OL,10,C12:00FBT7702 CLjubljana   C12:03FVerw.@
+OL,11,C12:45FAC7296 CToronto     C12:49FVerw.@
+OL,12,C16:35FET3408 CAddis Ababa C17:17FVerw.@
+OL,13,BMaandag 23 November 2026@@@@@@@@@@@@@@@
+OL,14,C12:00FRJ033  CAmman       @@@@@@@@@@@@@
+OL,15,C13:25FET3883 CKaraganda   @@@@@@@@@@@@@
+OL,16,C13:25FET3883 CHong Kong   @@@@@@@@@@@@@
+OL,17,C14:10FW64241 CTuzla       @@@@@@@@@@@@@
+OL,18,C15:40FTK6024 CQuito       @@@@@@@@@@@@@
 OL,19,B Info Maastricht Airport 043-358 98 98@
 OL,20,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -33,25 +33,25 @@ PN,76802
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  768Czat 21 nov  09:51:34
+OL,0,       BNOS-TT  768Czon 22 nov  10:49:08
 OL,1,T]C                               F 2/7 
 OL,2,D]                                      
 OL,3,B] DMaastricht-Aachen Airport Vertrekken
 OL,4,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,5,BSchema Vlucht Bestemming     Vertrek@@@
 OL,6,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C16:25FET3884 CKaraganda   @@@@@@@@@@@@@
-OL,8,C20:10FTK6040 CIstanbul    @@@@@@@@@@@@@
-OL,9,C20:30FW67622 CPodgorica   @@@@@@@@@@@@@
-OL,10,BZondag 22 November 2026@@@@@@@@@@@@@@@@
-OL,11,C08:00FET3794 CHong Kong   @@@@@@@@@@@@@
-OL,12,C08:10FRO7302 CBoekarest   @@@@@@@@@@@@@
-OL,13,C09:15FET3887 COslo        @@@@@@@@@@@@@
-OL,14,C12:00FRJ034  CAmman       @@@@@@@@@@@@@
-OL,15,C17:40FET3640 COslo        @@@@@@@@@@@@@
-OL,16,B Info Maastricht Airport 043-358 98 98@
-OL,17,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,18,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C08:00FET3794 CHong Kong   C08:00@@@@@@@
+OL,8,C08:10FRO7302 CBoekarest   C08:10@@@@@@@
+OL,9,C12:00FRJ034  CAmman       @@@@@@@@@@@@@
+OL,10,C14:45FAC7297 CToronto     @@@@@@@@@@@@@
+OL,11,BMaandag 23 November 2026@@@@@@@@@@@@@@@
+OL,12,C09:30F8R241  CTurijn      @@@@@@@@@@@@@
+OL,13,C10:35FCD040  CMadrid      @@@@@@@@@@@@@
+OL,14,C13:30FRJ034  CAmman       @@@@@@@@@@@@@
+OL,15,C14:45FW64242 CTuzla       @@@@@@@@@@@@@
+OL,16,C15:30FET3711 CMuscat      @@@@@@@@@@@@@
+OL,17,C17:50FTK6024 CIstanbul    @@@@@@@@@@@@@
+OL,18,B Info Maastricht Airport 043-358 98 98@
 OL,19,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,20,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -63,29 +63,29 @@ PN,76803
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  768Czat 21 nov  09:51:34
+OL,0,       BNOS-TT  768Czon 22 nov  10:49:08
 OL,1,]D                                D 3/7 
 OL,2,]DEINDHOVEN AIRPORT          Aankomsten@
 OL,3,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,4,GTIJD  VLUCHT  HERKOMST     STATUS     @
-OL,5,G08:25FW64715 GSkopje      B08:10   @@@@
-OL,6,G08:45FFR5681 GLondon STN  B08:17   @@@@
-OL,7,G08:50FW43071 GBucharest OTB08:29   @@@@
-OL,8,G08:55FFR2575 GMalaga      B08:26   @@@@
-OL,9,G10:00FFR1548 GVenice TSF  B09:34   @@@@
-OL,10,G10:20FFR1717 GValencia     Verw 10:08@@
-OL,11,G10:55FFR2120 GGirona       Verw 10:33@@
-OL,12,G11:35FFR8534 GLondon STN             @@
-OL,13,G11:40FHV5106 GValencia     Verw 11:26@@
-OL,14,G11:55FPC1265 GIstanbul SAW Verw 12:05@@
-OL,15,G12:00FFR3460 GMilan BGY    Verw 11:38@@
-OL,16,G12:15FFR5672 GMalaga       Verw 12:03@@
-OL,17,G12:40FW61071 GKatowice     Verw 12:28@@
-OL,18,G12:45FHV6514 GIbiza                  @@
-OL,19,G13:05FTB2626 GNador                  @@
-OL,20,G13:25FFR2534 GLondon STN             @@
-OL,21,G13:30FHV6624 GAlicante               @@
-OL,22,G13:45FHV6658 GMalaga       Verw 13:27@@
+OL,5,G08:25FW64325 GSofia       B08:42   @@@@
+OL,6,G08:40FW64071 GBelgrade    B08:58   @@@@
+OL,7,G08:45FW61641 GGdansk      B08:39   @@@@
+OL,8,G08:45FFR9939 GTirana      B09:12   @@@@
+OL,9,G08:50FW43071 GBucharest OTB08:49   @@@@
+OL,10,G08:55FW62271 GBudapest    B09:01   @@@@
+OL,11,G10:20FFR7522 GAlicante    B09:47   @@@@
+OL,12,G10:45FFR5768 GFaro        B10:24   @@@@
+OL,13,G11:15FFR2575 GMalaga       Verw 10:57@@
+OL,14,G11:15FFR9577 GTenerife    B10:41   @@@@
+OL,15,G11:50FFR2537 GLondon STN             @@
+OL,16,G11:55FPC1265 GIstanbul SAW Verw 12:14@@
+OL,17,G12:05FFR5868 GZagreb       Verw 11:53@@
+OL,18,G12:25FFR9923 GPisa         Verw 12:29@@
+OL,19,G12:35FFR3537 GMilan BGY    Verw 12:39@@
+OL,20,G12:40FW61071 GKatowice     Verw 12:19@@
+OL,21,G12:50FHV5106 GValencia     Verw 12:17@@
+OL,22,G13:35FFR42   GKrakow       Verw 13:20@@
 OL,23,]D Meer info: www.eindhovenairport.nl@@@
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -93,29 +93,29 @@ PN,76804
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  768Czat 21 nov  09:51:34
+OL,0,       BNOS-TT  768Czon 22 nov  10:49:08
 OL,1,]D                                D 4/7 
 OL,2,]DEINDHOVEN AIRPORT          Aankomsten@
 OL,3,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,4,GTIJD  VLUCHT  HERKOMST     STATUS     @
-OL,5,G14:10FW43659 GIasi         Verw 13:54@@
-OL,6,G14:10FW61371 GWarsaw       Verw 14:06@@
-OL,7,G15:10FHV6534 GMarrakech    Verw 14:40@@
-OL,8,G15:10FFR687  GVienna       Verw 14:54@@
-OL,9,G15:30FW43341 GCluj Napoca  Verw 15:16@@
-OL,10,G15:40FFR7522 GAlicante     Verw 15:29@@
-OL,11,G16:20FHV6358 GArrecife               @@
-OL,12,G16:25FFR42   GKrakow       Verw 16:12@@
-OL,13,G16:30FFR9936 GPaphos       Verw 16:37@@
-OL,14,G16:45FW62273 GBudapest     Verw 16:36@@
-OL,15,G17:20FFR1871 GBratislava             @@
-OL,16,G17:40FFR5814 GRome FCO     Verw 17:47@@
-OL,17,G18:35FFR2537 GLondon STN             @@
-OL,18,G19:25FFR6013 GSofia                  @@
-OL,19,G19:30FFR7655 GVilnius      Verw 19:19@@
-OL,20,G19:40FFR788  GBologna                @@
-OL,21,G20:15FFR3092 GLisbon                 @@
-OL,22,G20:40FOR1682 GTenerife     Verw 20:16@@
+OL,5,G14:10FW61371 GWarsaw                 @@
+OL,6,G14:20FFR5814 GRome FCO     Verw 14:12@@
+OL,7,G14:30FHV6654 GMalaga       Verw 14:13@@
+OL,8,G14:30FHV6624 GAlicante     Verw 14:23@@
+OL,9,G14:50FFR4022 GWarsaw WMI   Verw 14:43@@
+OL,10,G15:15FFR5681 GLondon STN             @@
+OL,11,G15:30FW43341 GCluj Napoca  Verw 15:22@@
+OL,12,G15:35FFR6013 GSofia                  @@
+OL,13,G16:20FHV6534 GMarrakech    Verw 15:53@@
+OL,14,G16:45FW62273 GBudapest     Verw 16:35@@
+OL,15,G16:50FHV6216 GTenerife     Verw 16:46@@
+OL,16,G16:50FFR3237 GBrindisi               @@
+OL,17,G16:55FHV6366 GGran Canaria Verw 16:38@@
+OL,18,G17:00FW61825 GWroclaw      Verw 16:54@@
+OL,19,G17:25FFR7655 GVilnius      Verw 17:16@@
+OL,20,G18:10FFR7472 GPorto        Verw 17:59@@
+OL,21,G18:40FFR5672 GMalaga       Verw 18:30@@
+OL,22,G19:05FFR5892 GKrakow       Verw 18:51@@
 OL,23,]D Meer info: www.eindhovenairport.nl@@@
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -123,29 +123,29 @@ PN,76805
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  768Czat 21 nov  09:51:34
+OL,0,       BNOS-TT  768Czon 22 nov  10:49:08
 OL,1,]D                                D 5/7 
 OL,2,]DEINDHOVEN AIRPORT          Vertrekken@
 OL,3,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,4,GTIJD  VLUCHT  BESTEMMING   STATUS     @
-OL,5,G06:55FHV6357 GArrecife    B06:55   @@@@
-OL,6,G07:00FHV6533 GMarrakech   B07:00   @@@@
-OL,7,G07:00FHV6657 GMalaga      B07:05   @@@@
-OL,8,G07:05FHV6513 GIbiza       B07:11   @@@@
-OL,9,G07:30FHV6623 GAlicante    B07:27   @@@@
-OL,10,G07:35FHV5105 GValencia    B07:34   @@@@
-OL,11,G09:00FW64716 GSkopje      B09:16   @@@@
-OL,12,G09:10FFR5682 GLondon STN  B09:04   @@@@
-OL,13,G09:20FFR2576 GMalaga      B09:13   @@@@
-OL,14,G09:25FW43072 GBucharest OTB09:22   @@@@
-OL,15,G10:00FOR1681 GTenerife               @@
-OL,16,G10:30FFR1549 GVenice TSF             @@
-OL,17,G11:05FFR1718 GValencia               @@
-OL,18,G11:20FFR2119 GGirona                 @@
-OL,19,G12:00FFR8535 GLondon STN             @@
-OL,20,G12:05FHV6365 GGran Canaria           @@
-OL,21,G12:25FHV6215 GTenerife               @@
-OL,22,G12:30FFR3461 GMilan BGY              @@
+OL,5,G07:55FHV6533 GMarrakech   B07:58   @@@@
+OL,6,G08:10FOR3425 GHurghada    B08:16   @@@@
+OL,7,G08:20FHV6623 GAlicante    B08:24   @@@@
+OL,8,G09:00FW64326 GSofia       B09:22   @@@@
+OL,9,G09:10FFR9940 GTirana      B09:47   @@@@
+OL,10,G09:15FW64072 GBelgrade    B09:50   @@@@
+OL,11,G09:20FW61642 GGdansk      B09:20   @@@@
+OL,12,G09:25FW43072 GBucharest OTB09:30   @@@@
+OL,13,G09:30FW62272 GBudapest    B09:56   @@@@
+OL,14,G10:45FFR7523 GAlicante               @@
+OL,15,G11:10FFR5769 GFaro                   @@
+OL,16,G11:40FFR2576 GMalaga                 @@
+OL,17,G11:50FFR9576 GTenerife               @@
+OL,18,G12:20FFR2538 GLondon STN             @@
+OL,19,G12:30FFR5869 GZagreb                 @@
+OL,20,G12:50FFR9924 GPisa         Verw 13:00@@
+OL,21,G13:15FW61072 GKatowice               @@
+OL,22,G13:15FPC1266 GIstanbul SAW           @@
 OL,23,]D Meer info: www.eindhovenairport.nl@@@
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -153,29 +153,29 @@ PN,76806
 SC,0006
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  768Czat 21 nov  09:51:34
+OL,0,       BNOS-TT  768Czon 22 nov  10:49:08
 OL,1,]D                                D 6/7 
 OL,2,]DEINDHOVEN AIRPORT          Vertrekken@
 OL,3,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,4,GTIJD  VLUCHT  BESTEMMING   STATUS     @
-OL,5,G13:00FFR5671 GMalaga                 @@
-OL,6,G13:15FW61072 GKatowice               @@
-OL,7,G13:30FPC1266 GIstanbul SAW           @@
-OL,8,G14:00FFR2533 GLondon STN             @@
-OL,9,G14:25FTB2625 GNador                  @@
-OL,10,G14:45FW43660 GIasi                   @@
-OL,11,G14:45FW61372 GWarsaw                 @@
-OL,12,G15:15FHV6377 GFaro                   @@
-OL,13,G15:25FHV6625 GAlicante               @@
-OL,14,G15:45FHV6653 GMalaga                 @@
-OL,15,G15:50FFR688  GVienna                 @@
-OL,16,G15:55FHV5085 GSevilla                @@
-OL,17,G16:05FFR7523 GAlicante               @@
-OL,18,G16:05FW43342 GCluj Napoca            @@
-OL,19,G16:50FFR43   GKrakow                 @@
-OL,20,G16:55FFR9935 GPaphos                 @@
-OL,21,G17:20FW62274 GBudapest               @@
-OL,22,G17:45FFR1870 GBratislava             @@
+OL,5,G13:30FFR3538 GMilan BGY              @@
+OL,6,G14:20FFR43   GKrakow                 @@
+OL,7,G14:45FW61372 GWarsaw                 @@
+OL,8,G15:00FFR5815 GRome FCO               @@
+OL,9,G15:15FFR4021 GWarsaw WMI             @@
+OL,10,G15:40FFR5682 GLondon STN             @@
+OL,11,G15:40FHV5513 GFaro                   @@
+OL,12,G15:45FHV6651 GMalaga                 @@
+OL,13,G16:00FFR6014 GSofia                  @@
+OL,14,G16:05FW43342 GCluj Napoca            @@
+OL,15,G16:10FHV6205 GLisbon                 @@
+OL,16,G17:15FFR3236 GBrindisi               @@
+OL,17,G17:20FHV6621 GAlicante               @@
+OL,18,G17:20FW62274 GBudapest               @@
+OL,19,G17:35FW61826 GWroclaw                @@
+OL,20,G17:35FHV6787 GBarcelona              @@
+OL,21,G17:40FHV5235 GPrague                 @@
+OL,22,G17:50FFR7654 GVilnius                @@
 OL,23,]D Meer info: www.eindhovenairport.nl@@@
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -183,7 +183,7 @@ PN,76807
 SC,0007
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  768Czat 21 nov  09:51:34
+OL,0,       BNOS-TT  768Czon 22 nov  10:49:08
 OL,1,Tssssssssssssssssssssssss]C       F 7/7 
 OL,2,B] DEXTRA VEILIGHEIDSMAATREGELEN        
 OL,3,G                                       

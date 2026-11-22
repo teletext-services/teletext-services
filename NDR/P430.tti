@@ -1,26 +1,166 @@
 DE,NDR 430
-PN,43000
-SC,0000
-PS,8208
+PN,43001
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       G430FNDR TEXT GSa 21.11.B09:35:44
+OL,0,       G430FNDR TEXT GSo 22.11.B01:49:43
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD    NDR INFO                 
-OL,4,F]T  %D        Samstag 21.11.2026       
+OL,4,F]T  %D        Sonntag 22.11.2026       
 OL,6, 00:00  ARD Infonacht: Gut informiert   
 OL,7,        durch die Nacht                 
-OL,8,F05:56  Morgenandacht: Stephan Vasel,   
-OL,9,F       Superintendent im Kirchenkreis  
-OL,10,F       Hameln-Pyrmont                  
-OL,11, 06:00  Infoprogramm: NDR Info - Die    
-OL,12,        Nachrichten f}r den Norden.     
-OL,13,F20:00  Tagesschau: NDR Info pr{sentiert
-OL,14,F       die Tagesschau                  
-OL,15, 20:15  ARD Infoabend: Gut informiert   
-OL,16,        durch den Abend                 
-OL,17,F22:00  ARD Infonacht: Gut informiert   
-OL,18,F       durch die Nacht                 
-OL,23,F]D400<                      WEITER >431
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,8,F06:00  Nachrichten                     
+OL,9, 06:04  Abenteuer Diagnose - der        
+OL,10,        Medizin-Krimi-Podcast: Perfekte 
+OL,11,        Tarnung                         
+OL,12,F06:30  Nachrichten                     
+OL,13, 06:34  63 Hektar - der                 
+OL,14,        Landwirtschafts-Podcast:        
+OL,15,        Antibiotika in der Tierhaltung: 
+OL,16,        Welche Folgen hat der Einsatz?  
+OL,17,F07:00  Nachrichten                     
+OL,18, 07:04  vertikal - horizontal. Glaubens-
+OL,19,        und Gewissensfragen:            
+OL,20,        Urnen-Nischen sind im Trend     
+OL,21,F07:15  Humanismus heute                
+OL,22, 07:30  Nachrichten                     
+OL,23,F]D400<                        WEITER >>
+OL,24,AInhalt BSport CFernsehen FWetter G(1/6)
+FL,101,200,300,650,0,100
+PN,43002
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       G430FNDR TEXT GSo 22.11.B01:49:43
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    NDR INFO                 
+OL,4,F]T  %D        Sonntag 22.11.2026       
+OL,6, 07:34  Transrapid. Ein Unfall und seine
+OL,7,        Folgen: Ein Unfall und seine    
+OL,8,        Folgen: Das Erbe (3/3)          
+OL,9,F08:00  Nachrichten                     
+OL,10, 08:04  Mikado - Magazin f}r Kinder:    
+OL,11,        Mikado am Sonntag               
+OL,12,F09:00  Nachrichten                     
+OL,13, 09:04  Infoprogramm: Themen des Tages  
+OL,14,F09:30  Nachrichten                     
+OL,15, 09:34  Zwischen Hamburg und Haiti: Sail
+OL,16,        Away: Segeln lernen auf der     
+OL,17,        Alexander von Humboldt II       
+OL,18,F10:00  Evangelischer Gottesdienst: aus 
+OL,19,F       dem "Paul-Gerhardt-Haus" in     
+OL,20,F       Hattingen                       
+OL,21, 11:00  Nachrichten                     
+OL,23,F]D400<                        WEITER >>
+OL,24,AInhalt BSport CFernsehen FWetter G(2/6)
+FL,101,200,300,650,0,100
+PN,43003
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       G430FNDR TEXT GSo 22.11.B01:49:43
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    NDR INFO                 
+OL,4,F]T  %D        Sonntag 22.11.2026       
+OL,6, 11:04  Sportschau F - Inspirierende    
+OL,7,        Frauen aus dem Sport:           
+OL,8,        Tischfu~ballerin Linh Tran -    
+OL,9,        Wann ist man gut genug?         
+OL,10,F12:00  ARD Presseclub: Ukraine: Wie    
+OL,11,F       viel Unterst}tzung wollen wir   
+OL,12,F       leisten?                        
+OL,13, 13:00  Nachrichten                     
+OL,14,F13:04  Infoprogramm: Themen des Tages  
+OL,15, 13:30  Nachrichten                     
+OL,16,F13:34  vertikal - horizontal. Glaubens-
+OL,17,F       und Gewissensfragen:            
+OL,18,F       Urnen-Nischen sind im Trend     
+OL,19, 14:00  Nachrichten                     
+OL,20,F14:04  Zwischen Hamburg und Haiti: Sail
+OL,21,F       Away: Segeln lernen auf der     
+OL,22,F       Alexander von Humboldt II       
+OL,23,F]D400<                        WEITER >>
+OL,24,AInhalt BSport CFernsehen FWetter G(3/6)
+FL,101,200,300,650,0,100
+PN,43004
+SC,0004
+PS,C200
+CT,10,T
+OL,0,       G430FNDR TEXT GSo 22.11.B01:49:43
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    NDR INFO                 
+OL,4,F]T  %D        Sonntag 22.11.2026       
+OL,6, 14:30  Nachrichten                     
+OL,7,F14:34  Transrapid. Ein Unfall und seine
+OL,8,F       Folgen: Ein Unfall und seine    
+OL,9,F       Folgen: Das Erbe (3/3)          
+OL,10, 15:00  Nachrichten                     
+OL,11,F15:04  Die L|sung - der                
+OL,12,F       Psychologie-Podcast: Icks,      
+OL,13,F       Redflags und die Illusion von   
+OL,14,F       Perfektion / Sollten wir Dates  
+OL,15,F       mehr zweite Chancen geben?      
+OL,16, 15:30  Nachrichten                     
+OL,17,F15:34  Abenteuer Diagnose - der        
+OL,18,F       Medizin-Krimi-Podcast: Perfekte 
+OL,19,F       Tarnung                         
+OL,20, 16:00  Nachrichten                     
+OL,23,F]D400<                        WEITER >>
+OL,24,AInhalt BSport CFernsehen FWetter G(4/6)
+FL,101,200,300,650,0,100
+PN,43005
+SC,0005
+PS,C200
+CT,10,T
+OL,0,       G430FNDR TEXT GSo 22.11.B01:49:43
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    NDR INFO                 
+OL,4,F]T  %D        Sonntag 22.11.2026       
+OL,6, 16:04  MAFIA LAND: Koks und K}sschen:  
+OL,7,        Passwort: Pecora - Die Codes der
+OL,8,        Mafia (2/4)                     
+OL,9,F17:00  Nachrichten                     
+OL,10, 17:04  Sportschau F - Inspirierende    
+OL,11,        Frauen aus dem Sport:           
+OL,12,        Tischfu~ballerin Linh Tran -    
+OL,13,        Wann ist man gut genug?         
+OL,14,F18:00  Nachrichten                     
+OL,15, 18:04  63 Hektar - der                 
+OL,16,        Landwirtschafts-Podcast:        
+OL,17,        Antibiotika in der Tierhaltung: 
+OL,18,        Welche Folgen hat der Einsatz?  
+OL,19,F18:30  Nachrichten                     
+OL,20, 18:34  Infoprogramm: Themen des Tages  
+OL,21,F19:00  Nachrichten                     
+OL,23,F]D400<                        WEITER >>
+OL,24,AInhalt BSport CFernsehen FWetter G(5/6)
+FL,101,200,300,650,0,100
+PN,43006
+SC,0006
+PS,C200
+CT,10,T
+OL,0,       G430FNDR TEXT GSo 22.11.B01:49:43
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    NDR INFO                 
+OL,4,F]T  %D        Sonntag 22.11.2026       
+OL,6, 19:03  MAFIA LAND: Koks und K}sschen:  
+OL,7,        Passwort: Pecora - Die Codes der
+OL,8,        Mafia (2/4)                     
+OL,9,F20:00  Tagesschau: NDR Info pr{sentiert
+OL,10,F       die Tagesschau                  
+OL,11, 20:15  ARD Infoabend Hintergrund       
+OL,12,F20:30  Nachrichten                     
+OL,13, 20:33  ARD Infoabend Podcast:          
+OL,14,        Recherchen, Reportagen,         
+OL,15,        Gespr{che                       
+OL,16,F22:00  ARD Infonacht: Gut informiert   
+OL,17,F       durch die Nacht                 
+OL,23,F]D400<                   WEITER >431 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(6/6)
 FL,101,200,300,650,0,100

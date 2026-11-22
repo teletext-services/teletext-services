@@ -4,20 +4,24 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    238Csob 21 lis  14:45:02
+OL,0,      BSPORT    238Csob 21 lis  20:41:58
 OL,1,C]DPI]KA NO[NA  ] GHISZPANIA - LaLiga   
 OL,2,                 C20.11                 
 OL,3,FAth. Bilbao    - Espanyol          0:1 
 OL,4,                  Fernandez 66          
 OL,5,                 C21.11                 
-OL,6,FAlaves         - Deportivo        14:00
-OL,8,FVallecano      - Valencia         16:15
-OL,10,FSevilla        - Betis            18:30
-OL,12,FReal Madryt    - Celta Vigo       21:00
-OL,14,                 C22.11                 
-OL,15,FBarcelona      - Villarreal       14:00
-OL,17,FSantander      - Real Sociedad    16:15
-OL,19,FOsasuna        - Malaga           18:30
+OL,6,FAlaves         - Deportivo         3:1 
+OL,7, Perez 2,Boye 62,Suarez 90              
+OL,8,                      - Tenaglia 41-sam 
+OL,9,FVallecano      - Valencia          0:1 
+OL,10,                  Copete 41             
+OL,11,FSevilla        - Betis             1:1 
+OL,12, Salas 90+1       Antony 50             
+OL,13,FReal Madryt    - Celta Vigo       21:00
+OL,15,                 C22.11                 
+OL,16,FBarcelona      - Villarreal       14:00
+OL,18,FSantander      - Real Sociedad    16:15
+OL,20,FOsasuna        - Malaga           18:30
 OL,21,FGetafe         - Atl. Madryt      21.00
 OL,22,                 C23.11                 
 OL,23,FLevante        - Elche            21.00
@@ -28,7 +32,7 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    238Csob 21 lis  14:45:03
+OL,0,      BSPORT    238Csob 21 lis  20:41:58
 OL,1,C]DPI]KA NO[NA  ] GHISZPANIA - LaLiga   
 OL,2, B1.Barcelona (m)   12 11  0  1 48-13 33
 OL,3, B2.Real Madryt     12 10  0  2 31-10 30
@@ -37,12 +41,12 @@ OL,5, B4.Betis           12  8  2  2 20-15 26
 OL,6, B5.Real Sociedad(p)12  7  1  4 21-20 22
 OL,7, C6.Sevilla         12  5  3  4 17-19 18
 OL,8, F7.Ath. Bilbao     12  4  4  4 15-12 16
-OL,9,  8.Villarreal      12  4  3  5 17-15 15
-OL,10,  9.Deportivo (b)   12  3  6  3 15-14 15
+OL,9,  8.Alaves          13  4  4  5 18-18 16
+OL,10,  9.Villarreal      12  4  3  5 17-15 15
 OL,11, 10.Espanyol        13  4  3  6 14-14 15
-OL,12, 11.Santander (b)   12  4  2  6 17-30 14
-OL,13, 12.Celta Vigo      12  2  7  3 10-10 13
-OL,14, 13.Alaves          12  3  4  5 15-17 13
+OL,12, 11.Deportivo (b)   13  3  6  4 16-17 15
+OL,13, 12.Santander (b)   12  4  2  6 17-30 14
+OL,14, 13.Celta Vigo      12  2  7  3 10-10 13
 OL,15, 14.Vallecano       11  3  3  5 15-21 12
 OL,16, 15.Getafe          12  3  3  6  8-18 12
 OL,17, 16.Osasuna         12  3  3  6 12-23 12
@@ -59,12 +63,15 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    238Csob 21 lis  14:45:03
+OL,0,      BSPORT    238Csob 21 lis  20:41:58
 OL,1,C]DPI]KA NO[NA  ]  GW]OCHY - Serie A    
 OL,2,                 C21.11                 
-OL,3,FComo           - Cagliari         15.00
-OL,5,FLazio          - Lecce            15.00
-OL,7,FParma          - Roma             18.00
+OL,3,FComo           - Cagliari          2:0 
+OL,4, Ramon 24,Da Cunha 56                   
+OL,5,FLazio          - Lecce             3:0 
+OL,6, Noslin 25,68,Frattesi 90               
+OL,7,FParma          - Roma              1:5 
+OL,8, Elphege 54 - Malen 39,68,77,90,Mora 71 
 OL,9,FNapoli         - Torino           20.45
 OL,11,                 C22.11                 
 OL,12,FJuventus       - Venezia          12.30
@@ -81,22 +88,22 @@ SC,0004
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BSPORT    238Csob 21 lis  14:45:03
+OL,0,      BSPORT    238Csob 21 lis  20:41:58
 OL,1,C]DPI]KA NO[NA  ]  GW]OCHY - Serie A    
-OL,2, B1.Lazio           11  9  2  0 25-9  29
+OL,2, B1.Lazio           12 10  2  0 28-9  32
 OL,3, B2.Inter (m,p)     11  9  1  1 28-13 28
 OL,4, B3.AS Roma         11  8  3  0 31-10 27
-OL,5, B4.AC Milan        11  7  3  1 23-13 24
-OL,6, C5.Como            11  7  2  2 18-10 23
+OL,5, B4.Como            12  8  2  2 20-10 26
+OL,6, C5.AC Milan        11  7  3  1 23-13 24
 OL,7, C6.Frosinone (b)   11  6  2  3 24-15 20
 OL,8, F7.Juventus        11  5  3  3 15-12 18
 OL,9,  8.Bologna         11  5  2  4 16-14 17
-OL,10,  9.Cagliari        11  5  1  5 10-15 16
+OL,10,  9.Cagliari        12  5  1  6 10-17 16
 OL,11, 10.Napoli          11  4  3  4 18-14 15
 OL,12, 11.Torino          11  4  2  5 15-17 14
 OL,13, 12.Atalanta        11  4  2  5 17-20 14
 OL,14, 13.Genoa           11  4  1  6 11-16 13
-OL,15, 14.Lecce           11  3  1  7 12-22 10
+OL,15, 14.Lecce           12  3  1  8 12-25 10
 OL,16, 15.Fiorentina      11  2  3  6 17-25  9
 OL,17, 16.Parma           11  2  2  7  9-17  8
 OL,18, 17.Sassuolo        11  2  2  7 16-29  8

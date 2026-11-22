@@ -1,29 +1,46 @@
 DE,WDR-TEXT 662
-PN,66200
-SC,0000
-PS,8208
+PN,66201
+SC,0001
+PS,C200
 CT,10,T
-OL,0,     G662 WDR Text GSa 21.11.26 15:34:29
+OL,0,     G662 WDR Text GSo 22.11.26 07:59:45
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: 3. Liga          
-OL,5,CHoffenheim II : Pr. M}nster  E4:0C(1:0)
-OL,6, 72. Gelbe Karte f}r Romario R|sch      
-OL,7, (Preu~en M}nster)Romario R|sch h{lt    
-OL,8, Yasin Zor fest und testet dabei das    
-OL,9, Material seines Gegenspielers sehr     
-OL,10, ausgiebig, sodass er das               
-OL,11, Unterzieh-Shirt des Hoffenheimers      
-OL,12, nahezu vollst{ndig zerrei~t. F}r       
-OL,13, diese Aktion sieht er Gelb.            
-OL,14, 71. Einwechslung bei Preu~en M}nster:  
-OL,15, Leon Tasov                             
-OL,16, 71. Auswechslung bei Preu~en M}nster:  
-OL,17, Felix Higl                             
-OL,18, 71. Einwechslung bei Preu~en M}nster:  
-OL,19, Marvin Schulz                          
-OL,20, 71. Auswechslung bei Preu~en M}nster:  
-OL,21, Louis Kolbe                            
+OL,5,CHoffenheim II : Pr. M}nster   4:0 (1:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Dulic (32.) 2:0 Makanda (47.)      
+OL,9, 3:0 Fields (48.) 4:0 Zor (53.)         
+OL,11,CStrafen:                               
+OL,12,S|GGjasula (30.) S|GKoulis (34.)        
+OL,13,S|GR|sch (72.)                          
+OL,15,CZuschauer: G885                        
+OL,17,CSR: GFabienne Michel                   
 OL,23,]D600 < ]bersicht      Live-Ticker > 663
-OL,24,A]G- 661B]G+ 663  \                     
+OL,24,A]G- 661B]G+ 663  \               G(1/2)
+FL,661,663,0,0,0,100
+PN,66202
+SC,0002
+PS,C200
+CT,10,T
+OL,0,     G662 WDR Text GSo 22.11.26 07:59:45
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: 3. Liga          
+OL,5,CHoffenheim II : Pr. M}nster   4:0 (1:0)
+OL,7,CAustellungen:                          
+OL,9,CHoffenheim II                          
+OL,10, Petersson Theuer (87. M}ller) L{ssig   
+OL,11, Dulic Moore Engelns (77.    ek)        
+OL,12, Gjasula Zor Poller (77. Da deviren)    
+OL,13, Makanda (65. Hencke)                   
+OL,14, Fields (87. Opoku)                     
+OL,15,CPr. M}nster                            
+OL,16, Harsman R|sch Koulis Zeller Varelmann  
+OL,17, Maier (83. Adeh) Althaus (56. Schulz)  
+OL,18, Kolbe (71. Schulz) Makridis            
+OL,19, Ndikom (55. Demirhan)                  
+OL,20, Higl (72. Tasov)                       
+OL,23,]D600 < ]bersicht      Live-Ticker > 663
+OL,24,A]G- 661B]G+ 663  \               G(2/2)
 FL,661,663,0,0,0,100

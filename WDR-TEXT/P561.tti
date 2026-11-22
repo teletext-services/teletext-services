@@ -1,23 +1,43 @@
 DE,WDR-TEXT 561
-PN,56100
-SC,0000
-PS,8208
+PN,56101
+SC,0001
+PS,C200
 CT,10,T
-OL,0,     G561 WDR Text GSa 21.11.26 15:31:41
+OL,0,     G561 WDR Text GSo 22.11.26 05:18:17
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DM]NSTER/OSNAB. ]          
 OL,3,]T5D     Abflug                    
-OL,4,                 STAND 15:29            
+OL,4,                 STAND 05:13            
 OL,6,CZEIT  FLUGNR.          ERWARTET BEMERK.
-OL,7,B15:10 FR 7248 Palma d.M.           GCL 
-OL,8, ------Abfl}ge n{chster Tag-------------
-OL,9,B00:05 XQ 251  Antalya            22.11.
-OL,10, 06:05 VL 2143 M}nchen            22.11.
-OL,11,B07:20 DE 1324 Gran Canaria       22.11.
-OL,12, 10:05 FR 3369 Malaga             22.11.
-OL,13,B13:05 VL 2137 M}nchen            22.11.
-OL,14, 20:30 IV 7241 Pristina           22.11.
-OL,15,B23:40 RK 6142 London STN         22.11.
+OL,7,B06:05 VL 2143 M}nchen              GTO 
+OL,8, 07:20 DE 1324 Gran Canaria             
+OL,9,B10:05 FR 3369 Malaga                   
+OL,10, 13:05 VL 2137 M}nchen                  
+OL,11,B20:30 IV 7241 Pristina                 
+OL,12, 23:40 RK 6142 London STN               
+OL,13,B------Abfl}ge n{chster Tag-------------
+OL,14, 00:05 XQ 251  Antalya            23.11.
+OL,15,B06:05 VL 2143 M}nchen            23.11.
+OL,16, 08:20 DE 1322 Teneriffa          23.11.
+OL,17,B09:20 FR 1451 Alicante           23.11.
+OL,18, 09:50 VL 2135 M}nchen            23.11.
+OL,19,B16:15 FR 6142 London STN         23.11.
+OL,20, 16:55 VL 2139 M}nchen            23.11.
+OL,21,B20:15 LH 2141 M}nchen            23.11.
 OL,23,]D555 < ]bersicht      PAD Ankunft > 562
-OL,24,A]G- 560B]G+ 562C]DMuenster \           
+OL,24,A]G- 560B]G+ 562C]DMuenster \     G(1/2)
+FL,560,562,0,0,0,100
+PN,56102
+SC,0002
+PS,C200
+CT,10,T
+OL,0,     G561 WDR Text GSo 22.11.26 05:18:17
+OL,1,]D]        G]               @]  CSERVICE
+OL,2,]D]GWDR     ]DM]NSTER/OSNAB. ]          
+OL,3,]T5D     Abflug                    
+OL,4,                 STAND 05:13            
+OL,6,CZEIT  FLUGNR.          ERWARTET BEMERK.
+OL,7,B21:50 FR 7248 Palma d.M.         23.11.
+OL,23,]D555 < ]bersicht      PAD Ankunft > 562
+OL,24,A]G- 560B]G+ 562C]DMuenster \     G(2/2)
 FL,560,562,0,0,0,100

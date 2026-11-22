@@ -1,11 +1,11 @@
 DE,RTS2 783
-PN,78300
-SC,0000
-PS,8088
-CT,10,T
-OL,0,       G783  RTS 2     21.11.26 01:36:11
+PN,78301
+SC,0001
+PS,C080
+CT,8,T
+OL,0,       G783  RTS 2     22.11.26 11:14:17
 OL,1,A]GRTS ESPACE 2    G]@aujourd'hui       
-OL,3,G                                       
+OL,3,G                                   1/2 
 OL,4,C07:06GMusique Matin                    
 OL,5,C09:06GLa Petite Compagnie              
 OL,6,C12:06GLes R#f#rences                   
@@ -25,6 +25,23 @@ OL,19,      Fjoue Schubert, Wolf et Berg.
 OL,20,C22:03GLes R#f#rences                   
 OL,21,C23:03GZone bleue                       
 OL,22,      FBastien Moeckli _ 216            
+OL,23,G]AProgrammes RTS      > 780 sur RTS 1  
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,78302
+SC,0002
+PS,C080
+CT,8,T
+OL,0,       G783  RTS 2     22.11.26 11:14:17
+OL,1,A]GRTS ESPACE 2    G]@aujourd'hui       
+OL,3,G                                   2/2 
+OL,4,C19:30GLa Note Bleue                    
+OL,5,      FNova Jazz 2025 _ 2 - Hemu Jazz   
+OL,6,      FOrchestra avec Marilyn Mazur &   
+OL,7,      FMatthieu Michel - Tord Gustavsen 
+OL,8,      FTrio                             
+OL,9,C22:03GMusique d'Avenir                 
+OL,10,      FEar we are 2025: The Dietrichs   
 OL,23,G]AProgrammes RTS      > 780 sur RTS 1  
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

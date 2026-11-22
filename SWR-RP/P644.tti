@@ -3,7 +3,7 @@ PN,64401
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:19:35
+OL,0,       BSWR RLPC   So, 22.11.26G07:31:35
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -18,29 +18,31 @@ PN,64402
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:19:35
+OL,0,       BSWR RLPC   So, 22.11.26G07:31:35
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,11,FWARNUNG vor GL[TTE                     
 OL,12, G}ltig: So 00:00 bis So 09:00          
-OL,14,FBodenseekreis, Sigmaringen             
-OL,16, Es besteht vereinzelt Gl{ttegefahr.    
-OL,23,D]GQuelle:DWD  Stand:12:31  Hinweise 654
+OL,14,FBodenseekreis, Ravensburg, Sigmaringen 
+OL,16, Es besteht Gl{ttegefahr.               
+OL,23,D]GQuelle:DWD  Stand:22:36  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,64403
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:19:35
+OL,0,       BSWR RLPC   So, 22.11.26G07:31:35
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,11,FWARNUNG vor GL[TTE                     
-OL,12, G}ltig: So 00:00 bis So 09:00          
-OL,14,FRavensburg                             
-OL,16, Es besteht Gl{ttegefahr.               
-OL,23,D]GQuelle:DWD  Stand:12:31  Hinweise 654
+OL,10,FWARNUNG vor NEBEL                      
+OL,11, G}ltig: So 02:31 bis So 09:00          
+OL,13,FRavensburg                             
+OL,15, Vor allem in Flussniederungen und      
+OL,16, Tallagen tritt gebietsweise Nebel mit  
+OL,17, Sichtweiten unter 150 Metern auf.      
+OL,23,D]GQuelle:DWD  Stand:02:31  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

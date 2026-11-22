@@ -3,26 +3,29 @@ PN,40201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,     G402 WDR Text GSa 21.11.26 15:29:23
+OL,0,     G402 WDR Text GSo 22.11.26 01:04:14
 OL,1,]D]        G]               @]    CRADIO
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     WDR 2                     
-OL,4,          CSamstag, 21.11.26            
+OL,4,          CSonntag, 22.11.26            
 OL,5,B00.00 WDR 2 Popnacht                   
-OL,6,       Darin:                           
-OL,7,       zur vollen Stunde WDR aktuell    
-OL,8,B06.00 WDR 2 Das Morgenmagazin          
-OL,9,       Mit Tobi Strau~                  
-OL,10,       Darin:                           
-OL,11,       zur vollen und zur halben Stunde 
-OL,12,       WDR aktuell                      
-OL,13,B09.00 WDR 2 mit Olli und Micha. Die 2  
-OL,14,      Bam Samstag                       
-OL,15,       Mit Michael Imhof, Olli Briesch  
-OL,16,       Darin:                           
-OL,17,       Zur vollen Stunde WDR aktuell    
-OL,18,       Zur halben Stunde WDR 2 Regional 
-OL,19,       11:45 Der Stichtag               
+OL,6,       Darin: zur vollen Stunde WDR ak- 
+OL,7,       tuell                            
+OL,8,B06.00 WDR 2 Der Sonntagmorgen          
+OL,9,       Mit Niklas Hoth                  
+OL,10,       Darin: zur vollen Stunde WDR ak- 
+OL,11,       tuell                            
+OL,12,       07:45 H|r mal - Kirche in WDR 2  
+OL,13,       Philipp Reichling                
+OL,14,B08.00 WDR 2 Sonntagsfragen             
+OL,15,       Mit Gisela Steinhauer            
+OL,16,       Darin: zur vollen Stunde WDR ak- 
+OL,17,       tuell                            
+OL,18,B09.00 WDR 2 Die Sonntagsshow           
+OL,19,       Mit Marco Schreyl                
+OL,20,       Darin: zur vollen Stunde WDR ak- 
+OL,21,       tuell                            
+OL,22,       11:45 Der Stichtag               
 OL,23,]D400 < ]bersicht            WDR 3 > 403
 OL,24,A]G- 401B]G+ 403C]DWDR 2 \        G(1/2)
 FL,401,403,0,0,0,100
@@ -30,26 +33,22 @@ PN,40202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,     G402 WDR Text GSa 21.11.26 15:29:23
+OL,0,     G402 WDR Text GSo 22.11.26 01:04:14
 OL,1,]D]        G]               @]    CRADIO
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     WDR 2                     
-OL,4,          CSamstag, 21.11.26            
-OL,5,B14.00 WDR 2 Liga Live                  
-OL,6,       Mit Sven Pistor                  
-OL,7,       Darin:                           
-OL,8,       14.00, 15.00, 16.00 WDR aktuell  
-OL,9,       16.08 Uhr Bundesliga-Halbzeitkon-
-OL,10,       ferenz                           
-OL,11,       16.55 Uhr Bundesliga-Schlusskon- 
-OL,12,       ferenz                           
-OL,13,B18.00 WDR 2 Hausparty                  
-OL,14,       Mit Conni Wonigeit               
-OL,15,       Darin:                           
-OL,16,       zur vollen Stunde WDR aktuell    
-OL,17,B21.00 WDR 2 POP. Die Abendshow         
-OL,18,       Darin:                           
-OL,19,       zur vollen Stunde WDR aktuell    
+OL,4,          CSonntag, 22.11.26            
+OL,5,B12.00 WDR 2 J|rg Thadeusz              
+OL,6,       Mit J|rg Thadeusz                
+OL,7,       Darin: zur vollen Stunde WDR ak- 
+OL,8,       tuell                            
+OL,9,B14.00 WDR 2 Sonntag Live               
+OL,10,       Mit Thilo Jahn                   
+OL,11,       Darin: zur vollen Stunde WDR ak- 
+OL,12,       tuell                            
+OL,13,B20.00 WDR 2 POP. Die Abendshow         
+OL,14,       Darin: zur vollen Stunde WDR ak- 
+OL,15,       tuell                            
 OL,23,]D400 < ]bersicht            WDR 3 > 403
 OL,24,A]G- 401B]G+ 403C]DWDR 2 \        G(2/2)
 FL,401,403,0,0,0,100

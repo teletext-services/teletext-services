@@ -3,29 +3,29 @@ PN,37800
 SC,0000
 PS,8108
 CT,10,T
-OL,0,      GSVT Text 378  L|r 21 novC09:06:04
+OL,0,      GSVT Text 378  S|n 22 novC00:08:18
 OL,1,D]G             M]LSERVICE              
 OL,2,BInnebandy SSL                          
-OL,3,GWarberg      - Kalmarsund   X - XB15:00
-OL,4,C(X-X,X-X,X-X)                          
-OL,5,GLink|ping    - AIK          X - XB15:00
-OL,6,C(X-X,X-X,X-X)                          
-OL,7,GNykvarn      - Pixbo        X - XB18:00
-OL,8,C(X-X,X-X,X-X)                          
+OL,3,FWarberg      - Kalmarsund           3-2
+OL,4,C(1-0,2-1,0-1)                          
+OL,5,FLink|ping    - AIK                  5-7
+OL,6,C(1-2,1-0,3-5)                          
+OL,7,FNykvarn     - Pixbo              5-4 es
+OL,8,C(2-1,2-1,0-2,0-0,1-0)                  
 OL,9,BInnebandy SSL damer                    
-OL,10,GKarlstad     - Storvreta IB X - XB14:00
-OL,11,C(X-X,X-X,X-X)                          
-OL,12,GT{by         - Kalmarsund   X - XB15:30
-OL,13,C(X-X,X-X,X-X)                          
-OL,14,GR|nnby       - Malm|        X - XB16:00
-OL,15,C(X-X,X-X,X-X)                          
-OL,16,GEndre        - V{xj|        X - XB17:00
-OL,17,C(X-X,X-X,X-X)                          
-OL,18,GMora         - Lund         X - XB17:00
-OL,19,C(X-X,X-X,X-X)                          
+OL,10,FKarlstad     - Storvreta IB         4-6
+OL,11,C(1-2,1-3,2-1)                          
+OL,12,FT{by         - Kalmarsund           6-2
+OL,13,C(0-1,2-1,4-0)                          
+OL,14,FR|nnby       - Malm|               12-0
+OL,15,C(3-0,4-0,5-0)                          
+OL,16,FEndre        - V{xj|               11-2
+OL,17,C(4-0,5-1,2-1)                          
+OL,18,FMora         - Lund                 0-6
+OL,19,C(0-1,0-2,0-3)                          
 OL,20,BHandboll Handbollsligan damer          
-OL,21,GHallby    - Skara     X - XC(X-X)B13:00
-OL,22,GSkuru     - Kristians X - XC(X-X)B14:00
+OL,21,FHallby       - Skara      22-38C(11-18)
+OL,22,FSkuru        - Kristianst 35-20C(14-10)
 OL,23,D]G M}lserviceindex 376 * Resultat 330  
 OL,24,ANyheter   BSport    CV{der    FInneh}ll
 FL,100,300,400,700,0,100

@@ -3,28 +3,28 @@ PN,35501
 SC,0001
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 355  L|r 21 novC00:07:36
+OL,0,      GSVT Text 355  L|r 21 novC16:50:07
 OL,1,D]GHANDBOLL Handbollsligan, damer       
-OL,3,C10/11FH65 H||r   - Boden      34-30    
-OL,4,C11/11F\nnered    - Hallby     21-21    
-OL,5,      FV{ster}sIr - Skara      26-25    
-OL,6,C12/11FSk|vde     - S{vehof    22-27    
-OL,7,C13/11FKristianst - H65 H||r   18-22    
-OL,8,C14/11FYstad      - \nnered    22-23    
-OL,9,C17/11FSkara      - Skuru      30-29    
-OL,10,C18/11FHallby     - Sk|vde     23-30    
-OL,11,      FBoden      - Helsingbor 31-24    
-OL,12,      FS{vehof    - V{ster}sIr 36-27    
-OL,13,C21/11GHallby     - Skara               
-OL,14,      GSkuru      - Kristianst          
-OL,15,      GH65 H||r   - S{vehof             
-OL,16,      G\nnered    - Boden               
-OL,17,C22/11GSk|vde     - Ystad               
-OL,18,      GHelsingbor - V{ster}sIr          
-OL,19,C21/12GKristianst - Sk|vde              
-OL,20,C22/12GV{ster}sIr - Boden               
-OL,21,      GSkara      - H65 H||r            
-OL,22,C26/12GSkuru      - Hallby              
+OL,3,C13/11FKristianst - H65 H||r   18-22    
+OL,4,C14/11FYstad      - \nnered    22-23    
+OL,5,C17/11FSkara      - Skuru      30-29    
+OL,6,C18/11FHallby     - Sk|vde     23-30    
+OL,7,      FBoden      - Helsingbor 31-24    
+OL,8,      FS{vehof    - V{ster}sIr 36-27    
+OL,9,C21/11FHallby     - Skara      22-38    
+OL,10,      FSkuru      - Kristianst 35-20    
+OL,11,      FH65 H||r   - S{vehof    28-35    
+OL,12,      F\nnered    - Boden      32-29    
+OL,13,C22/11GSk|vde     - Ystad               
+OL,14,      GHelsingbor - V{ster}sIr          
+OL,15,C21/12GKristianst - Sk|vde              
+OL,16,C22/12GV{ster}sIr - Boden               
+OL,17,      GSkara      - H65 H||r            
+OL,18,C26/12GSkuru      - Hallby              
+OL,19,      GS{vehof    - \nnered             
+OL,20,C27/12GYstad      - Helsingbor          
+OL,21,C30/12GHallby     - Kristianst          
+OL,22,      GH65 H||r   - Ystad               
 OL,23,D]G          Tabell f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
 FL,100,300,400,700,0,100
@@ -32,20 +32,20 @@ PN,35502
 SC,0002
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 355  L|r 21 novC00:07:36
+OL,0,      GSVT Text 355  L|r 21 novC16:50:07
 OL,1,D]GHANDBOLL Handbollsligan, damer       
-OL,3, B1 S{vehof      8  7  0  1  255-187  14
-OL,4, B2 V{ster}sIrs  8  7  0  1  235-209  14
-OL,5, B3 Skara        8  6  0  2  243-185  12
-OL,6, B4 Boden        8  6  0  2  239-220  12
-OL,7, B5 H65 H||r     8  5  0  3  233-223  10
-OL,8, B6 \nnered      8  4  1  3  197-207   9
-OL,9, B7 Sk|vde       8  4  0  4  229-226   8
-OL,10, B8 Skuru        8  3  0  5  213-218   6
+OL,3, B1 S{vehof      9  8  0  1  290-215  16
+OL,4, B2 Skara        9  7  0  2  281-207  14
+OL,5, B3 V{ster}sIrs  8  7  0  1  235-209  14
+OL,6, B4 Boden        9  6  0  3  268-252  12
+OL,7, B5 \nnered      9  5  1  3  229-236  11
+OL,8, B6 H65 H||r     9  5  0  4  261-258  10
+OL,9, B7 Skuru        9  4  0  5  248-238   8
+OL,10, B8 Sk|vde       8  4  0  4  229-226   8
 OL,11, G9 Helsingborg  8  2  0  6  186-212   4
 OL,12,G10 Ystad        8  2  0  6  163-218   4
-OL,13,C11 Hallby       8  1  1  6  180-217   3
-OL,14,F12 Kristiansta  8  0  0  8  167-218   0
+OL,13,C11 Hallby       9  1  1  7  202-255   3
+OL,14,F12 Kristiansta  9  0  0  9  187-253   0
 OL,23,D]G         Matcher f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (2/2)
 FL,100,300,400,700,0,100

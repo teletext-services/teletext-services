@@ -4,26 +4,26 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     853Csob 21 lis  14:26:40
+OL,0,      BTVP3     853Cnie 22 lis  13:06:34
 OL,1,C]      MDM U L T I   M U L T I         
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
-OL,4,C]DData losowania:@20.11.2026 r.        
+OL,4,C]DData losowania:@21.11.2026 r.        
 OL,5,S
 OL,6,C]DGodzina:@14:00                       
 OL,7,S
 OL,8,C]DWylosowane liczby:                   
-OL,9,C] A3D-@trzy         A33D-@trzy-trzy    
-OL,10,C] A7D-@siedem       A50D-@pi`^-zero    
-OL,11,C] A8D-@osiem        A51D-@pi`^-jeden   
-OL,12,C]A10D-@jeden-zero   A55D-@pi`^-pi`^    
-OL,13,C]A11D-@jeden-jeden  A57D-@pi`^-siedem  
-OL,14,C]A17D-@jeden-siedem A62D-@sze|^-dwa    
-OL,15,C]A19D-@jeden-dziewi`A63D-@sze|^-trzy   
-OL,16,C]A25D-@dwa-pi`^     A67D-@sze|^-siedem 
-OL,17,C]A26D-@dwa-sze|^    A71D-@siedem-jeden 
-OL,18,C]A32D-@trzy-dwa     A72D-@siedem-dwa   
+OL,9,C] A1D-@jeden        A40D-@cztery-zero  
+OL,10,C] A4D-@cztery       A41D-@cztery-jeden 
+OL,11,C] A8D-@osiem        A44D-@cztery-cztery
+OL,12,C]A14D-@jeden-cztery A47D-@cztery-siedem
+OL,13,C]A19D-@jeden-dziewi`A49D-@cztery-dziewi
+OL,14,C]A25D-@dwa-pi`^     A50D-@pi`^-zero    
+OL,15,C]A27D-@dwa-siedem   A53D-@pi`^-trzy    
+OL,16,C]A28D-@dwa-osiem    A59D-@pi`^-dziewi`^
+OL,17,C]A30D-@trzy-zero    A65D-@sze|^-pi`^   
+OL,18,C]A39D-@trzy-dziewi`^A78D-@siedem-osiem 
 OL,19,S
-OL,20,C]             DPlus A72D-@siedem-dwa   
+OL,20,C]             DPlus A65D-@sze|^-pi`^   
 OL,21,S///////////////////////////////////////
 OL,22,Q
 OL,23,Q
@@ -33,26 +33,26 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     853Csob 21 lis  14:26:40
+OL,0,      BTVP3     853Cnie 22 lis  13:06:35
 OL,1,C]      MDM U L T I   M U L T I         
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
-OL,4,C]DData losowania:@20.11.2026 r.        
+OL,4,C]DData losowania:@21.11.2026 r.        
 OL,5,S
 OL,6,C]DGodzina:@22:00                       
 OL,7,S
 OL,8,C]DWylosowane liczby:                   
-OL,9,C] A2D-@dwa          A32D-@trzy-dwa     
-OL,10,C] A3D-@trzy         A33D-@trzy-trzy    
-OL,11,C] A6D-@sze|^        A34D-@trzy-cztery  
-OL,12,C] A8D-@osiem        A40D-@cztery-zero  
-OL,13,C]A12D-@jeden-dwa    A43D-@cztery-trzy  
-OL,14,C]A13D-@jeden-trzy   A46D-@cztery-sze|^ 
-OL,15,C]A21D-@dwa-jeden    A50D-@pi`^-zero    
-OL,16,C]A23D-@dwa-trzy     A55D-@pi`^-pi`^    
-OL,17,C]A26D-@dwa-sze|^    A69D-@sze|^-dziewi`
-OL,18,C]A27D-@dwa-siedem   A78D-@siedem-osiem 
+OL,9,C] A3D-@trzy         A46D-@cztery-sze|^ 
+OL,10,C] A4D-@cztery       A50D-@pi`^-zero    
+OL,11,C] A5D-@pi`^         A57D-@pi`^-siedem  
+OL,12,C]A13D-@jeden-trzy   A59D-@pi`^-dziewi`^
+OL,13,C]A16D-@jeden-sze|^  A60D-@sze|^-zero   
+OL,14,C]A18D-@jeden-osiem  A62D-@sze|^-dwa    
+OL,15,C]A25D-@dwa-pi`^     A66D-@sze|^-sze|^  
+OL,16,C]A32D-@trzy-dwa     A78D-@siedem-osiem 
+OL,17,C]A36D-@trzy-sze|^   A79D-@siedem-dziewi
+OL,18,C]A38D-@trzy-osiem   A80D-@osiem-zero   
 OL,19,S
-OL,20,C]             DPlus A55D-@pi`^-pi`^    
+OL,20,C]             DPlus  A5D-@pi`^         
 OL,21,S///////////////////////////////////////
 OL,22,Q
 OL,23,Q

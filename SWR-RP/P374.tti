@@ -3,7 +3,7 @@ PN,37401
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:09:21
+OL,0,       BSWR RLPC   So, 22.11.26G00:19:03
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
@@ -26,7 +26,7 @@ PN,37402
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:09:21
+OL,0,       BSWR RLPC   So, 22.11.26G00:19:03
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
@@ -53,7 +53,7 @@ PN,37403
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:09:21
+OL,0,       BSWR RLPC   So, 22.11.26G00:19:03
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
@@ -78,7 +78,7 @@ PN,37404
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:09:21
+OL,0,       BSWR RLPC   So, 22.11.26G00:19:03
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
@@ -102,7 +102,7 @@ PN,37405
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:09:21
+OL,0,       BSWR RLPC   So, 22.11.26G00:19:03
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
@@ -128,7 +128,7 @@ PN,37406
 SC,0006
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:09:22
+OL,0,       BSWR RLPC   So, 22.11.26G00:19:03
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
@@ -142,8 +142,10 @@ OL,13, Es bitzli Gotthard - Modellbahn von
 OL,14, Heinz Mulheim (1006)                   
 OL,16,F11.12.2026 10:25 Uhr                   
 OL,17, Die Inselbahn Wangerooge (1060)        
-OL,19,F11.12.2026 10:55 Uhr                   
-OL,20, Mit dem Zug durchs Weserland (19)      
+OL,18,F11.12.2026 10:55 Uhr                   
+OL,19, Mit dem Zug durchs Weserland (19)      
+OL,21,F14.12.2026 10:25 Uhr                   
+OL,22, Die Rhein-Haardtbahn (933)             
 OL,23,A]                                   G>>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -151,24 +153,25 @@ PN,37407
 SC,0007
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:09:22
+OL,0,       BSWR RLPC   So, 22.11.26G00:19:03
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
 OL,4,CEisenbahn-Romantik                     
-OL,6,F14.12.2026 10:25 Uhr                   
-OL,7, Die Rhein-Haardtbahn (933)             
-OL,9,F14.12.2026 10:55 Uhr                   
-OL,10, Als die Eisenbahn in den S}dwesten kam 
-OL,11, (85)                                   
-OL,13,F15.12.2026 10:20 Uhr                   
-OL,14, Mit dem L{ufelfingerli durch den       
-OL,15, Schweizer Jura (944)                   
-OL,17,F16.12.2026 10:20 Uhr                   
-OL,18, Gartenbahnen in Portland (935)         
-OL,20,F17.12.2026 10:20 Uhr                   
-OL,21, Blech, Karton & Co. - historische      
-OL,22, Modellbahnsch{tze (945)                
+OL,6,F14.12.2026 10:55 Uhr                   
+OL,7, Als die Eisenbahn in den S}dwesten kam 
+OL,8, (85)                                   
+OL,10,F15.12.2026 10:20 Uhr                   
+OL,11, Mit dem L{ufelfingerli durch den       
+OL,12, Schweizer Jura (944)                   
+OL,14,F16.12.2026 10:20 Uhr                   
+OL,15, Gartenbahnen in Portland (935)         
+OL,17,F17.12.2026 10:20 Uhr                   
+OL,18, Blech, Karton & Co. - historische      
+OL,19, Modellbahnsch{tze (945)                
+OL,20,F17.12.2026 10:45 Uhr                   
+OL,21, Licht aus - Spot an! Effekte auf der   
+OL,22, Modellbahn (1051)                      
 OL,23,A]                                   G>>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -176,24 +179,23 @@ PN,37408
 SC,0008
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:09:22
+OL,0,       BSWR RLPC   So, 22.11.26G00:19:03
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
 OL,4,CEisenbahn-Romantik                     
-OL,6,F17.12.2026 10:45 Uhr                   
-OL,7, Licht aus - Spot an! Effekte auf der   
-OL,8, Modellbahn (1051)                      
-OL,10,F18.12.2026 10:20 Uhr                   
-OL,11, Die Rigi - Zwei Bahnen auf einem Berg  
-OL,12, (1061)                                 
-OL,14,F21.12.2026 10:20 Uhr                   
-OL,15, Mit dem Zug zum Mont Blanc (49)        
-OL,17,F22.12.2026 10:20 Uhr                   
-OL,18, Winter im Waadtland - Zahnradbahn in   
-OL,19, den Schnee (1048)                      
-OL,21,F23.12.2026 10:20 Uhr                   
-OL,22, Korsika (763)                          
+OL,6,F18.12.2026 10:20 Uhr                   
+OL,7, Die Rigi - Zwei Bahnen auf einem Berg  
+OL,8, (1061)                                 
+OL,10,F21.12.2026 10:20 Uhr                   
+OL,11, Mit dem Zug zum Mont Blanc (49)        
+OL,13,F22.12.2026 10:20 Uhr                   
+OL,14, Winter im Waadtland - Zahnradbahn in   
+OL,15, den Schnee (1048)                      
+OL,17,F23.12.2026 10:20 Uhr                   
+OL,18, Korsika (763)                          
+OL,20,F23.12.2026 10:30 Uhr                   
+OL,21, Der Bahnhof Metz (941)                 
 OL,23,A]                                   G>>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -201,24 +203,25 @@ PN,37409
 SC,0009
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:09:22
+OL,0,       BSWR RLPC   So, 22.11.26G00:19:03
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
 OL,4,CEisenbahn-Romantik                     
-OL,6,F23.12.2026 10:30 Uhr                   
-OL,7, Der Bahnhof Metz (941)                 
-OL,9,F27.12.2026 09:20 Uhr                   
-OL,10, Die B|hmische Schweiz durchs Zugfenster
-OL,11, (946)                                  
-OL,13,F28.12.2026 10:35 Uhr                   
-OL,14, Glacierexpress - Von St. Moritz in die 
-OL,15, Rheinschlucht (951)                    
-OL,17,F29.12.2026 10:15 Uhr                   
-OL,18, Glacierexpress - Von Disentis ins      
-OL,19, Wallis (952)                           
-OL,21,F30.12.2026 10:20 Uhr                   
-OL,22, Gletscherwunder Jungfraubahn (768)     
+OL,5,F27.12.2026 09:20 Uhr                   
+OL,6, Die B|hmische Schweiz durchs Zugfenster
+OL,7, (946)                                  
+OL,9,F28.12.2026 10:35 Uhr                   
+OL,10, Glacierexpress - Von St. Moritz in die 
+OL,11, Rheinschlucht (951)                    
+OL,13,F29.12.2026 10:15 Uhr                   
+OL,14, Glacierexpress - Von Disentis ins      
+OL,15, Wallis (952)                           
+OL,17,F30.12.2026 10:20 Uhr                   
+OL,18, Gletscherwunder Jungfraubahn (768)     
+OL,20,F30.12.2026 10:45 Uhr                   
+OL,21, Winterland Lengerfeld-Trieschfall  -   
+OL,22, Modellbahn von J}rgen Hauser (1006)    
 OL,23,A]                                   G>>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -226,17 +229,46 @@ PN,37410
 SC,0010
 PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:09:22
+OL,0,       BSWR RLPC   So, 22.11.26G00:19:03
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
 OL,4,CEisenbahn-Romantik                     
-OL,6,F30.12.2026 10:45 Uhr                   
-OL,7, Winterland Lengerfeld-Trieschfall  -   
-OL,8, Modellbahn von J}rgen Hauser (1006)    
-OL,10,F04.01.2027 10:40 Uhr                   
-OL,11, Glacierexpress - Von Brig zum          
-OL,12, Matterhorn (953)                       
+OL,6,F04.01.2027 10:40 Uhr                   
+OL,7, Glacierexpress - Von Brig zum          
+OL,8, Matterhorn (953)                       
+OL,10,F05.01.2027 10:40 Uhr                   
+OL,11, Stra~enbahn-Europameisterschaft in     
+OL,12, Stuttgart (948)                        
+OL,14,F06.01.2027 10:50 Uhr                   
+OL,15, Dampfspektakel Trier und Abschied bei  
+OL,16, der Waldenburgerbahn (950)             
+OL,18,F07.01.2027 10:30 Uhr                   
+OL,19, Auf Schienen an die D{nische Riviera - 
+OL,20, Von Insel zu Insel (956)               
+OL,23,A]                                   G>>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,37411
+SC,0011
+PS,C200
+CT,10,T
+OL,0,       BSWR RLPC   So, 22.11.26G00:19:03
+OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,A]GSWR >>P5GFERNSEHEN           P5      
+OL,3,Q#########"######################"######
+OL,4,CEisenbahn-Romantik                     
+OL,6,F08.01.2027 10:30 Uhr                   
+OL,7, Durchs B|hmische Mittelgebirge nach    
+OL,8, Prag (954)                             
+OL,10,F11.01.2027 10:30 Uhr                   
+OL,11, Die Costa Blanca - Wie sie Lokf}hrer   
+OL,12, sehen (1093)                           
+OL,14,F12.01.2027 10:30 Uhr                   
+OL,15, Tren Maya - Unterwegs in Mexiko (1094) 
+OL,17,F13.01.2027 10:30 Uhr                   
+OL,18, Auf der Baltischen Eisenbahn durch     
+OL,19, Estland (1095)                         
 OL,23,A]                                   G>>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

@@ -3,29 +3,29 @@ PN,84201
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  842Czat 21 nov  09:53:00
+OL,0,       BNOS-TT  842Czon 22 nov  12:47:32
 OL,1,S OETBALQ,,,,,,,,,,,,,,,,,,,,,,,A 1/2 
 OL,2,S+,'A]C        Italie,Serie A           
 OL,3,Q#######################################
-OL,4,BZaterdag,15.00 uur:                    
-OL,5,CLazio            B-CLecce            B-
-OL,6,CComo             B-CCagliari         B-
-OL,7,B18.00 uur:                             
-OL,8,CParma            B-CAS Roma          B-
-OL,9,B20.45 uur:                             
-OL,10,CNapoli           B-CTorino           B-
-OL,11,BZondag:                                
-OL,12,CJuventus         B-CVenezia          B-
-OL,13,CBologna          B-CUdinese          B-
-OL,14,CSassuolo         B-CGenoa            B-
-OL,15,CAC Milan         B-CFrosinone        B-
-OL,16,CAtalanta         B-CInternazionale   B-
-OL,17,BMaandag:                               
-OL,18,CMonza            B-CFiorentina       B-
-OL,19,BTopscorers per 08/11:                  
-OL,20,CVarela (Monza)...................... B9
-OL,21,CMALEN (AS Roma)..................... B8
-OL,22,CRaimondo (Frosinone)................ B8
+OL,4,BZaterdag:                              
+OL,5,CLazio            B3CLecce            B0
+OL,6,BNoslin 2x                              
+OL,7,CComo             B2CCagliari         B0
+OL,8,CParma            B1CAS Roma          B5
+OL,9,G                   BMalen 4x           
+OL,10,CNapoli           B1CTorino           B0
+OL,11,B12.30 uur:                 FTUSSENSTAND
+OL,12,CJuventus         F0CVenezia          F0
+OL,13,B15.00 uur:                             
+OL,14,CBologna          B-CUdinese          B-
+OL,15,CSassuolo         B-CGenoa            B-
+OL,16,B18.00 uur:                             
+OL,17,CAC Milan         B-CFrosinone        B-
+OL,18,B20.45 uur:                             
+OL,19,CAtalanta         B-CInternazionale   B-
+OL,20,BMaandag:                               
+OL,21,CMonza            B-CFiorentina       B-
+OL,22,G                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,Aweer    Bnieuws    Csport    Fvoetbal@@
 FL,702,101,601,801,0,100
@@ -33,26 +33,26 @@ PN,84202
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  842Czat 21 nov  09:52:54
+OL,0,       BNOS-TT  842Czon 22 nov  12:47:18
 OL,1,S OETBALQ,,,,,,,,,,,,,,,,,,,,,,,A 2/2 
-OL,2,S+,'A]C     Italie,stand per 08/11      
+OL,2,S+,'A]C     Italie,stand per 21/11      
 OL,3,Q#######################################
-OL,4,B 1.CLazio       B11  9  2  0  29  25- 9
-OL,5,B 2.CInternazion.B11  9  1  1  28  28-13
-OL,6,B 3.CAS Roma     B11  8  3  0  27  31-10
-OL,7,B 4.CAC Milan    B11  7  3  1  24  23-13
-OL,8,B 5.CComo        B11  7  2  2  23  18-10
+OL,4,B 1.CLazio       B12 10  2  0  32  28- 9
+OL,5,B 2.CAS Roma     B12  9  3  0  30  36-11
+OL,6,B 3.CInternazion.B11  9  1  1  28  28-13
+OL,7,B 4.CComo        B12  8  2  2  26  20-10
+OL,8,B 5.CAC Milan    B11  7  3  1  24  23-13
 OL,9,B 6.CFrosinone   B11  6  2  3  20  24-15
-OL,10,B 7.CJuventus    B11  5  3  3  18  15-12
-OL,11,B 8.CBologna     B11  5  2  4  17  16-14
-OL,12,B 9.CCagliari    B11  5  1  5  16  10-15
-OL,13,B10.CNapoli      B11  4  3  4  15  18-14
-OL,14,B11.CTorino      B11  4  2  5  14  15-17
-OL,15,B12.CAtalanta    B11  4  2  5  14  17-20
+OL,10,B 7.CNapoli      B12  5  3  4  18  19-14
+OL,11,B 8.CJuventus    B11  5  3  3  18  15-12
+OL,12,B 9.CBologna     B11  5  2  4  17  16-14
+OL,13,B10.CCagliari    B12  5  1  6  16  10-17
+OL,14,B11.CAtalanta    B11  4  2  5  14  17-20
+OL,15,B12.CTorino      B12  4  2  6  14  15-18
 OL,16,B13.CGenoa       B11  4  1  6  13  11-16
-OL,17,B14.CLecce       B11  3  1  7  10  12-22
+OL,17,B14.CLecce       B12  3  1  8  10  12-25
 OL,18,B15.CFiorentina  B11  2  3  6   9  17-25
-OL,19,B16.CParma       B11  2  2  7   8   9-17
+OL,19,B16.CParma       B12  2  2  8   8  10-22
 OL,20,B17.CSassuolo    B11  2  2  7   8  16-29
 OL,21,B18.CMonza       B11  2  1  8   7  17-25
 OL,22,B19.CVenezia     B11  2  0  9   6   8-21

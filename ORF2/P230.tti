@@ -3,59 +3,51 @@ PN,23001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G230FORF2   GSa 21.11.26 10:25:39
+OL,0,       G230FORF2   GSa 21.11.26 20:27:40
 OL,1,A]G                            Formel 1 
 OL,2,A]GSPORT  ]A     Las Vegas, 21.WM-Lauf \
 OL,3,Q#########G                        1/3  
-OL,4,FQualifying, Endstand nach Q3           
-OL,5,  1. K.Antonelli  MercedesF*G  1:33,893 
-OL,6,  2. M.Verstappen Red Bull      + 0,258 
-OL,7,  3. G.Russell    Mercedes        0,331 
-OL,8,  4. L.Norris     McLaren         0,351 
-OL,9,  5. I.Hadjar     Red Bull        0,699 
-OL,10,  6. A.Lindblad   Racing Bulls    0,775 
-OL,11,  7. O.Piastri    McLarenF*G      1,006 
-OL,12,  8. L.Lawson     Racing Bulls    1,197 
-OL,13,  9. P.Gasly      Alpine          1,212 
-OL,14, 10. F.Colapinto  Alpine          1,421 
-OL,15, 11. C.Leclerc    Ferrari    Fout in Q2 
-OL,16, 12. L.Hamilton   Ferrari    Fout in Q2 
-OL,17, 13. N.H}lkenberg Audi       Fout in Q2 
-OL,18, 14. C.Sainz      WilliamsF* Fout in Q2 
-OL,19, 15. G.Bortoleto  Audi       Fout in Q2 
-OL,20, 16. A.Albon      Williams   Fout in Q2 
-OL,21,Fweiters, out in Q1:GCamara, Perez,     
-OL,22,GAlonso, StrollF*,GBottas, BearmanF*    
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F* Strafe 
+OL,4,FQualifying, Samstag                    
+OL,6,FEndstand nach Q3                       
+OL,7,  1. K.Antonelli  MercedesF*G  1:33,893 
+OL,8,  2. M.Verstappen Red Bull      + 0,258 
+OL,9,  3. G.Russell    Mercedes        0,331 
+OL,10,  4. L.Norris     McLaren         0,351 
+OL,11,  5. I.Hadjar     Red Bull        0,699 
+OL,12,  6. A.Lindblad   Racing Bulls    0,775 
+OL,13,  7. O.Piastri    McLarenF**G     1,006 
+OL,14,  8. L.Lawson     Racing Bulls    1,197 
+OL,15,  9. P.Gasly      Alpine          1,212 
+OL,16, 10. F.Colapinto  Alpine          1,421 
+OL,18,F*G5 Pl{tze zur}ck (neuer Motor)        
+OL,19,F**G15 Pl{tze zur}ck (neuer Antrieb)    
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,23002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G230FORF2   GSa 21.11.26 10:25:39
+OL,0,       G230FORF2   GSa 21.11.26 20:27:40
 OL,1,A]G                            Formel 1 
 OL,2,A]GSPORT  ]A     Las Vegas, 21.WM-Lauf \
 OL,3,Q#########G                        2/3  
-OL,4,FStartaufstellung                       
-OL,5,F 1.GM.Verstappen Red Bull              
-OL,6,F 2.GG.Russell    Mercedes              
-OL,7,F 3.GL.Norris     McLaren               
-OL,8,F 4.GI.Hadjar     Red Bull              
-OL,9,F 5.GA.Lindblad   Racing Bulls          
-OL,10,F 6.GK.Antonelli  Mercedes  G           
-OL,11,F 7.GL.Lawson     Racing Bulls          
-OL,12,F 8.GP.Gasly      Alpine                
-OL,13,F 9.GF.Colapinto  Alpine                
-OL,14,F10.GC.Leclerc    Ferrari    F          
-OL,15,F11.GL.Hamilton   Ferrari    F          
-OL,16,F12.GN.H}lkenberg Audi       F          
-OL,17,F13.GG.Bortoleto  Audi       F          
-OL,18,F14.GA.Albon      Williams   F          
-OL,19,F15.GR.Camara (Haas)    F19.GV.Bottas   
-OL,20,F16.GS.Perez (Cadillac) F20.GC.Sainz    
-OL,21,F17.GO.Piastri (McLaren)F21.GL.Stroll   
-OL,22,F18.GF.Alonso (Aston M.)F22.GO.Bearman  
+OL,4,FQualifying, Samstag                    
+OL,6,Fout nach Q2                            
+OL,7, 11. C.Leclerc    Ferrari      1:35,197 
+OL,8, 12. L.Hamilton   Ferrari      1:35,253 
+OL,9, 13. N.H}lkenberg Audi         1:35,460 
+OL,10, 14. C.Sainz      WilliamsF*G  1:35,641 
+OL,11, 15. G.Bortoleto  Audi         1:35,993 
+OL,12, 16. A.Albon      Williams     1:36,125 
+OL,14,Fout nach Q1                            
+OL,15, 17. R.Camara     Haas         1:36,220 
+OL,16, 18. S.Perez      Cadillac     1:37,383 
+OL,17, 19. F.Alonso     Aston Martin 1:37,400 
+OL,18, 20. L.Stroll     Aston Martin 1:37,550 
+OL,19, 21. V.Bottas     Cadillac     1:37,601 
+OL,20, 22. O.Bearman    Haas         1:48,005 
+OL,22,F*G10 Pl{tze zur}ck (neuer Antrieb)     
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -63,18 +55,29 @@ PN,23003
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G230FORF2   GSa 21.11.26 10:25:39
+OL,0,       G230FORF2   GSa 21.11.26 20:27:40
 OL,1,A]G                            Formel 1 
 OL,2,A]GSPORT  ]A     Las Vegas, 21.WM-Lauf \
 OL,3,Q#########G                        3/3  
-OL,4,F50 Runden a 6,201 km = 309,958 km      
-OL,6,CSonntag                                
-OL,7, Grand Prix                     5.00hF* 
-OL,9,F            * live in ORF1             
-OL,11,FErgebnis 2025                          
-OL,12,  1. Max Verstappen       Red Bull      
-OL,13,  2. George Russell       Mercedes      
-OL,14,  3. Kimi Antonelli       Mercedes      
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,4,FRennen, Sonntag, Startaufstellung *    
+OL,5,  1.GM.Verstappen Red Bull              
+OL,6,  2.GG.Russell    Mercedes              
+OL,7,  3.GL.Norris     McLaren               
+OL,8,  4.GI.Hadjar     Red Bull              
+OL,9,  5.GA.Lindblad   Racing Bulls          
+OL,10,  6.GK.Antonelli  Mercedes  G           
+OL,11,  7.GL.Lawson     Racing Bulls          
+OL,12,  8.GP.Gasly      Alpine                
+OL,13,  9.GF.Colapinto  Alpine                
+OL,14, 10.GC.Leclerc    Ferrari    F          
+OL,15, 11.GL.Hamilton   Ferrari    F          
+OL,16, 12.GN.H}lkenberg Audi       F          
+OL,17, 13.GG.Bortoleto  Audi       F          
+OL,18, 14.GA.Albon      Williams   F          
+OL,19, 15.GR.Camara     Haas                  
+OL,20,G16.GS.Perez      Cadillac              
+OL,21,G17.GO.Piastri    McLaren               
+OL,22,G18.GF.Alonso     Aston Martin          
+OL,23,Q,,,,,,,,,,,,,,,,,,F* Start: 5.00h/ORF1 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

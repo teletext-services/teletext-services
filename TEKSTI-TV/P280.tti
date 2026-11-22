@@ -1,20 +1,80 @@
 DE,TEKSTI-TV 280
-PN,28000
-SC,0000
-PS,8108
+PN,28001
+SC,0001
+PS,C100
 CT,10,T
-OL,0,       G280 YLE TEKSTI-TV 21.03.13:38:29
-OL,1,A]GSVEITSIN J[[KIEKKO    G]A21.11.  1/1 
+OL,0,       G280 YLE TEKSTI-TV 21.03.21:48:30
+OL,1,A]GSVEITSIN J[[KIEKKO    G]A21.11.  1/3 
 OL,2,K                                       
-OL,3, Ajoie          - Fribourg       G20.45 
-OL,4,K                                       
-OL,5, Ambri-P.       - Zug            G20.45 
-OL,6,K                                       
-OL,7, Biel           - Bern           G20.45 
-OL,8,K                                       
-OL,9, Kloten         - Davos          G20.45 
+OL,3,F20.45 (1-0,1-1,0-0)                    
+OL,4, Ajoie          - Fribourg     F    2-1 
+OL,5,BTurkulainen   10FKapla         37      
+OL,6,B(Tanus)                                
+OL,7,FSopa          23                       
+OL,8,B(Honka)                                
+OL,9,K                                       
+OL,10,F20.45 (1-1,1-1,1-0)                    
+OL,11, Ambri-P.       - Zug          F    3-2 
+OL,12,FSchnarr       10FKovar          0      
+OL,13,B(J{rventie,     FRohrer        29      
+OL,14,BVirtanen)                              
+OL,15,BJ{rventie     38                       
+OL,16,FBosson        50                       
+OL,17,B(Virtanen)                             
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,28002
+SC,0002
+PS,C100
+CT,10,T
+OL,0,       G280 YLE TEKSTI-TV 21.03.21:48:30
+OL,1,A]GSVEITSIN J[[KIEKKO    G]A21.11.  2/3 
+OL,2,K                                       
+OL,3,F20.45 (0-2,2-4,2-1)                    
+OL,4, Biel           - Bern         F    4-7 
+OL,5,FAndersson     26FBemstr|m       0      
+OL,6,FS|derstr|m    29B(Aaltonen)            
+OL,7,FCajka         41FAbols          8      
+OL,8,FAndersson     50FAbols         23      
+OL,9,                 FBemstr|m      26      
+OL,10,                 FLehmann       33      
+OL,11,                 FM ller        39      
+OL,12,                 FAbols         47      
+OL,13,K                                       
+OL,14,F20.45 (1-1,2-1,0-0)                    
+OL,15, Kloten         - Davos        F    3-2 
+OL,16,FLindroth       8FFrehner        3      
+OL,17,FMeier         31FFrehner       29      
+OL,18,FSchappi       32                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,28003
+SC,0003
+PS,C100
+CT,10,T
+OL,0,       G280 YLE TEKSTI-TV 21.03.21:48:30
+OL,1,A]GSVEITSIN J[[KIEKKO    G]A21.11.  3/3 
+OL,2,K                                       
+OL,3,F20.45 (0-1,1-0,1-0)                    
+OL,4, ZSC Lions      - Lugano       F    2-1 
+OL,5,FStr|mwall     30FFazzini       17      
+OL,6,B(Lehtonen)                             
+OL,7,FKnak          48                       
+OL,8,B(Lehtonen)                             
+OL,9,K                                       
 OL,10,K                                       
-OL,11, ZSC Lions      - Lugano         G20.45 
+OL,11,K                                       
 OL,12,K                                       
 OL,13,K                                       
 OL,14,K                                       

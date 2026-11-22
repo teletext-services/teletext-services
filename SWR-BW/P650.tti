@@ -1,9 +1,9 @@
 DE,SWR-BW 650
-PN,65000
-SC,0000
-PS,8208
+PN,65001
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G12:52:29
+OL,0,       BSWR BW C   So, 22.11.26G07:41:09
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -14,5 +14,38 @@ OL,14,FMainz-Bingen und Stadt Mainz
 OL,16, Es tritt leichter Frost zwischen 0 `C  
 OL,17, und -3 `C auf.                         
 OL,23,D]GQuelle:DWD  Stand:12:34  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,65002
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   So, 22.11.26G07:41:09
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor GL[TTE                     
+OL,11, G}ltig: So 05:51 bis So 09:00          
+OL,13,FBad Kreuznach, Stadt Worms, Alzey-Worms
+OL,14,FMainz-Bingen und Stadt Mainz           
+OL,16, Es besteht Gl{ttegefahr.               
+OL,23,D]GQuelle:DWD  Stand:05:51  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,65003
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       BSWR BW C   So, 22.11.26G07:41:09
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor NEBEL                      
+OL,11, G}ltig: So 04:05 bis So 09:00          
+OL,13,FBad Kreuznach, Alzey-Worms             
+OL,14,FMainz-Bingen und Stadt Mainz           
+OL,16, Es tritt gebietsweise Nebel mit        
+OL,17, Sichtweiten unter 150 Metern auf.      
+OL,23,D]GQuelle:DWD  Stand:04:05  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

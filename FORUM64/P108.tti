@@ -3,62 +3,67 @@ PN,10801
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GSa 21 Nov F08:23:34
+OL,0,         GFORUM64   GSa 21 Nov F17:13:36
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EMal wieder ein kleiner Ausflug in die  
-OL,3,ELinux-Welt... und wieder mit fadem     
-OL,4,EBeigeschmack (kein Bashing!)           
-OL,6,CAntwort:  BSaskia                      
-OL,7,CComments: B1600                        
-OL,8,F                                       
-OL,9,Falle Infos findest auf der modelcard   
-OL,10,Fbei huggingface. Incl. der open weights
-OL,11,Fzum download (1.8 TB)                  
-OL,13,CErster Beitrag:                        
-OL,15,GIch wollte "es" mal wieder wissen.     
-OL,17,GIch tippe hier gerade auf einem {lteren
-OL,18,GAcer Laptop.                           
-OL,20,GMir gefiel immer schon "Deepin Linux". 
-OL,21,GDas hatte ich vor ein paar Jahren auf  
-OL,22,Gmeinem Desktop (i5-4560, 16GB, 4GB     
-OL,23,GRTX970). Hatte mir sehr gut gefallen,  
+OL,2,ENew Release! pottendo-Pi1541 /         
+OL,3,EWebserver for upload images & updates  
+OL,5,CAntwort:  BStefan_h                    
+OL,6,CComments: B388                         
+OL,7,F                                       
+OL,8,FLeider habe ich davon gar keine Ahnung 
+OL,10,FDie KI sagt dazu                       
+OL,12,FWas genau geht und was (noch) nicht    
+OL,13,Fgeht:                                  
+OL,15,F1. Das funktioniert sofort (}ber die   
+OL,16,FPi1541-WebUI):                         
+OL,18,FWenn du in der options.txt die Zeile   
+OL,19,F//PrinterName = ... auskommentiert     
+OL,20,Fl{sst, empf{ngt dein Pi1541            
+OL,22,CErster Beitrag:                        
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,10802
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GSa 21 Nov F08:23:34
+OL,0,         GFORUM64   GSa 21 Nov F17:13:36
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gaber es scheiterte, wie so oft bei     
-OL,4,GLinux, an bestimmten Kleinigkeiten.    
-OL,5,GDrucken war z.B. nicht wie ich es      
-OL,6,Gwollte, CUPS war irgendwie nur ein     
-OL,7,GNotnagel und ich vermisste den Komfort 
-OL,8,Gdes Windows-Treibers. Egal.            
-OL,10,GDeepin Linux haftet ja ein etwas       
-OL,11,Gzweifelhaftes Image an, da aus China.  
-OL,12,GWas eine Freude, als ich Ubunt DDE     
-OL,13,Ggefunden habe. "Normales" Ubunte, aber 
-OL,14,Gmit der Deepin-Oberfl{che. GEIL!       
-OL,16,GAlso erst mal in einer VM getestet -   
-OL,17,Gging! Dann ab damit auf den alten      
-OL,18,GLaptop.                                
-OL,20,GIm Vergleich zu meinem letzten         
-OL,21,GLinux-Ausflug mit Mint erkannte diese  
-OL,22,GDistro das vorhandene W10 und die      
-OL,23,GInstallation war sch|n "flawless", also
+OL,3,GHi Retro-Fellows,                      
+OL,5,Gsupported by @znarF and @ILAH several  
+OL,6,Gtests have been successful (Option A   
+OL,7,Gand B HW) and I was motivated to add   
+OL,8,Gsome more features in a brand new V1.10
+OL,9,Gof my circle port of Pi1541:           
+OL,11,G- D81 Images can be uploaded           
+OL,13,G- static network configuration to speed
+OL,14,Gup webserver startup (see ReadMe, how  
+OL,15,Gto configure in options.txt)           
+OL,17,G- healthMonitor on serial console is   
+OL,18,Goff by default and can be enabled; when
+OL,19,Genabled, temperature is displayed also 
+OL,20,Gon the LCD                             
+OL,22,G- some more information on webserver,  
+OL,23,Gnicer formatting                       
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,10803
 SC,0003
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GSa 21 Nov F08:23:34
+OL,0,         GFORUM64   GSa 21 Nov F17:13:36
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gfluffig.                               
-OL,5,GEin bisschen Herumkonfigurieren, wie   
-OL,6,Gbei Windows - alles gut.               
-OL,8,GAls Browser nutze ich auf all meinen   
+OL,3,GGet it from here .                     
+OL,5,GCredits as always to Steve, Rene and   
+OL,6,GStephan for their exceptional projects!
+OL,8,GFeedback is welcome, let me know what  
+OL,9,Gyou're missing!                        
+OL,11,GHappy uploading, pottendo              
+OL,13,GPS: No, this isn't updated to the      
+OL,14,Glatest (and probably greatest) Pi1541  
+OL,15,GV1.25 as provided by Steve to his      
+OL,16,Gfellow-patreons.                       
+OL,18,GPPS: spreche auch immer noch Deutsch,  
+OL,19,Gsolltet Ihr mit mir Kontakt aufnehmen  
+OL,20,Gwollen!                                
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

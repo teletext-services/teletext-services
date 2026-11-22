@@ -3,26 +3,24 @@ PN,83201
 SC,0001
 PS,C280
 CT,10,T
-OL,0,      BLA SEXTA 832Cs[b 21 nov  09:16:33
-OL,1,M]DlaSexta   Domingo, 22 de noviembre   
-OL,3,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  G1/2
-OL,4, 04:55 PAZY: QUE TE RECUERDEN COMO HAS  
-OL,5,       VIVIDO (TELEVENTA)BTP ST         
-OL,6,F06:35 EQUIPO DE INVESTIGACION          
-OL,7,      F(INVESTIGACION)BTP ST AD         
-OL,8, 07:30 EQUIPO DE INVESTIGACION          
-OL,9,       (INVESTIGACION)B+12 ST AD        
-OL,10,F08:30 ARUSER$S WEEKEND (OTROS)B+16 ST  
-OL,11, 11:00 ESPECIAL ARV EN CAMPANAB+16 ST   
-OL,12,F14:00 LASEXTA NOTICIAS FIN DE SEMANA   
-OL,13,      F(INFORMATIVO)BST                 
-OL,14, 15:05 LASEXTA DEPORTES (INFORMATIVO)BST
-OL,15,F15:15 LASEXTA METEO (INFORMATIVO)BST   
-OL,16, 15:30 LA ROCA (MAGAZINE)B+12 ST        
-OL,17,F20:00 LASEXTA NOTICIAS FIN DE SEMANA   
-OL,18,      F(INFORMATIVO)BST                 
-OL,19, 21:05 LA SEXTA DEPORTES (INFORMATIVO)  
-OL,20,      BST                               
+OL,0,      BLA SEXTA 832Cdom 22 nov  12:33:06
+OL,1,M]DlaSexta   Lunes, 23 de noviembre     
+OL,3,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  G1/3
+OL,5, 03:55 GALERIA DEL COLECCIONISTA        
+OL,6,       (TELEVENTA)BTP ST                
+OL,7,F07:00 ARUSER$S PREVIO (OTROS)B+7 ST    
+OL,8, 09:00 ARUSER$S (OTROS)B+16 ST          
+OL,9,F11:00 AL ROJO VIVO (INFORMATIVO)B+16 ST
+OL,10, 14:20 LASEXTA NOTICIAS 1a EDICION      
+OL,11,       (INFORMATIVO)BST                 
+OL,12,F15:10 LASEXTA DEPORTES (INFORMATIVO)BST
+OL,13, 15:20 LASEXTA METEO (INFORMATIVO)BST   
+OL,14,F15:30 ZAPEANDO (HUMOR)B+16 ST          
+OL,15, 17:00 MAS VALE TARDEB+16 ST            
+OL,16,F20:00 LASEXTA NOTICIAS 2a EDICION      
+OL,17,      F(INFORMATIVO)BST                 
+OL,18, 21:00 LASEXTA CLAVE (INFORMATIVO)B+16  
+OL,19,      BST                               
 OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,G21:20 -> 832/2
 OL,22,T
 OL,23,T
@@ -32,27 +30,50 @@ PN,83202
 SC,0002
 PS,C280
 CT,10,T
-OL,0,      BLA SEXTA 832Cvie 20 nov  08:23:06
-OL,1,M]DlaSexta   S[bado, 21 de noviembre    
-OL,3,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  G2/2
-OL,4, 20:00 LASEXTA NOTICIAS FIN DE SEMANA   
-OL,5,       (INFORMATIVO)BST                 
-OL,6,F21:00 LA SEXTA DEPORTES (INFORMATIVO)  
-OL,7,      BST                               
-OL,8, 21:10 LA SEXTA METEO (INFORMATIVO)BST  
-OL,9,F21:15 LAS CLAVES DE XPLICAB+16 ST      
-OL,10, 21:35 LASEXTA XPLICAB+16 ST            
-OL,11,F02:20 EQUIPO DE INVESTIGACION          
-OL,12,      F(INVESTIGACION)B+16 ST AD        
-OL,13, 03:15 LA CASA DE JUEGO DE POKERSTARS   
+OL,0,      BLA SEXTA 832Cdom 22 nov  12:33:06
+OL,1,M]DlaSexta   Lunes, 23 de noviembre     
+OL,3,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  G2/3
+OL,7, 21:20 LA SEXTA METEO (INFORMATIVO)BST  
+OL,8,F21:25 LA SEXTA DEPORTES (INFORMATIVO)  
+OL,9,      BST                               
+OL,10, 21:30 EL INTERMEDIO (HUMOR)B+12 ST     
+OL,11,F23:00 EL TAQUILLAZO: MARLOWE (THRILLER)
+OL,12,      B+12 ST AD                        
+OL,13,      FT]tulo Original: MARLOWE /       
+OL,14,      FDirecci^n: Neil Jordan / Reparto:
+OL,15,      FLiam Neeson, Diane Kruger, Danny 
+OL,16,      FHuston / Duraci^n: 105 / Pa]s:   
+OL,17,      FESPANA, FRANCIA, IRLANDA, EE.UU. 
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,G01:10 -> 832/3
+OL,22,T
+OL,23,T
+OL,24,AMANANABSUBTI HOYCPROGRAMACIONFQUE PONEN
+FL,832,886,800,895,0,100
+PN,83203
+SC,0003
+PS,C280
+CT,10,T
+OL,0,      BLA SEXTA 832Cdom 22 nov  12:33:07
+OL,1,M]DlaSexta   Martes, 24 de noviembre    
+OL,3,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  G3/3
+OL,4, 01:10 CINE: LA COMUNIDAD (COMEDIA)B+12 
+OL,5,      BST                               
+OL,6,       T]tulo Original: COMUNIDAD, LA / 
+OL,7,       Direcci^n: ALEX DE LA IGLESIA /  
+OL,8,       Reparto: CARMEN MAURA, EMILIO    
+OL,9,       GUTIERREZ CABA, TERELE PEREZ /   
+OL,10,       Duraci^n: 105 / Pa]s: ESPANA     
+OL,11,F03:05 LA CASA DE JUEGO DE POKERSTARS   
+OL,12,      F(JUEGO ONLINE)B+18 ST            
+OL,13, 03:45 MEGA CASINO LIVE EXPERIENCE      
 OL,14,       (JUEGO ONLINE)B+18 ST            
-OL,15,F04:00 MEGA CASINO LIVE EXPERIENCE      
-OL,16,      F(JUEGO ONLINE)B+18 ST            
-OL,17, 04:15 SPORTIUM GAME SHOW (JUEGO ONLINE)
-OL,18,      B+18                              
-OL,19,F04:55 PAZY: QUE TE RECUERDEN COMO HAS  
-OL,20,      FVIVIDO (TELEVENTA)BTP ST         
-OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,G06:35 -> 833  
+OL,15,F04:00 SPORTIUM GAME SHOW (JUEGO ONLINE)
+OL,16,      B+18                              
+OL,17, 04:40 PAZY: QUE TE RECUERDEN COMO HAS  
+OL,18,       VIVIDO (TELEVENTA)BTP ST         
+OL,19,F05:00 GALERIA DEL COLECCIONISTA        
+OL,20,      F(TELEVENTA)BTP ST                
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,G06:00 -> 833  
 OL,22,T
 OL,23,T
 OL,24,AMANANABSUBTI HOYCPROGRAMACIONFQUE PONEN

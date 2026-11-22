@@ -3,28 +3,28 @@ PN,37201
 SC,0001
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 372  L|r 21 novC00:06:21
+OL,0,      GSVT Text 372  S|n 22 novC00:07:58
 OL,1,D]GBASKET SBL, damer                    
-OL,3,C31/10FAIK       - \stersund  66-97     
-OL,4,      FOnsala    - S|dert{lj  71-78     
-OL,5,C1/11 FNorrk|pin - Eos Lund   80-53     
-OL,6,C4/11 FAlvik     - Uppsala    80-73     
-OL,7,C7/11 FH|gsbo    - Brahe      72-67     
-OL,8,      FEos Lund  - Onsala     65-89     
-OL,9,      FS|dert{lj - Visby      72-54     
-OL,10,      FUppsala   - Norrk|pin  64-58     
-OL,11,      FAIK       - Lule}      56-89     
-OL,12,      F\stersund - Alvik      79-69     
-OL,13,C21/11GBrahe     - S|dert{lj            
-OL,14,      GAlvik     - Eos Lund             
-OL,15,      GH|gsbo    - Uppsala              
-OL,16,      GOnsala    - AIK                  
-OL,17,C22/11GBrahe     - AIK                  
-OL,18,      GNorrk|pin - Lule}                
-OL,19,      GVisby     - \stersund            
-OL,20,C27/11GLule}     - Alvik                
-OL,21,C28/11GEos Lund  - Visby                
-OL,22,C29/11GUppsala   - Onsala               
+OL,3,C7/11 FH|gsbo    - Brahe      72-67     
+OL,4,      FEos Lund  - Onsala     65-89     
+OL,5,      FS|dert{lj - Visby      72-54     
+OL,6,      FUppsala   - Norrk|pin  64-58     
+OL,7,      FAIK       - Lule}      56-89     
+OL,8,      F\stersund - Alvik      79-69     
+OL,9,C21/11FBrahe     - S|dert{lj  36-81     
+OL,10,      FAlvik     - Eos Lund   77-53     
+OL,11,      FH|gsbo    - Uppsala    51-79     
+OL,12,      FOnsala    - AIK        96-50     
+OL,13,C22/11GBrahe     - AIK                  
+OL,14,      GNorrk|pin - Lule}                
+OL,15,      GVisby     - \stersund            
+OL,16,C27/11GLule}     - Alvik                
+OL,17,C28/11GEos Lund  - Visby                
+OL,18,C29/11GUppsala   - Onsala               
+OL,19,      GAIK       - Norrk|pin            
+OL,20,      G\stersund - Brahe                
+OL,21,      GS|dert{lj - H|gsbo               
+OL,22,C5/12 GBrahe     - Uppsala              
 OL,23,D]G          Tabell f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
 FL,100,300,400,700,0,100
@@ -32,20 +32,20 @@ PN,37202
 SC,0002
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 372  L|r 21 novC00:06:21
+OL,0,      GSVT Text 372  S|n 22 novC00:07:58
 OL,1,D]GBASKET SBL, damer                    
-OL,3, B1 Lule}        6  5  1   585-337   10 
-OL,4, B2 Onsala       6  5  1   529-384   10 
-OL,5, B3 Norrk|ping   6  5  1   459-381   10 
-OL,6, B4 Alvik        6  5  1   481-415   10 
-OL,7, B5 S|dert{lje   6  5  1   438-399   10 
+OL,3, B1 Alvik        7  6  1   558-468   12 
+OL,4, B2 S|dert{lje   7  6  1   519-435   12 
+OL,5, B3 Onsala       7  6  1   625-434   12 
+OL,6, B5 Norrk|ping   6  5  1   459-381   10 
+OL,7, B6 Lule}        6  5  1   585-337   10 
 OL,8, B6 \stersund    6  4  2   479-465    8 
-OL,9, B7 Uppsala      6  3  3   457-426    6 
+OL,9, B6 Uppsala      7  4  3   536-477    8 
 OL,10, B8 Visby        6  2  4   428-454    4 
-OL,11, G9 AIK          6  1  5   384-505    2 
-OL,12,G10 H|gsbo       6  1  5   362-517    2 
-OL,13,F11 Eos Lund     6  0  6   357-470    0 
-OL,14,F12 Brahe        6  0  6   345-551    0 
+OL,11, G9 AIK          7  1  6   434-601    2 
+OL,12,G10 H|gsbo       7  1  6   413-596    2 
+OL,13,G10 Brahe        7  0  7   381-632    0 
+OL,14,F11 Eos Lund     7  0  7   410-547    0 
 OL,23,D]G         Matcher f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (2/2)
 FL,100,300,400,700,0,100

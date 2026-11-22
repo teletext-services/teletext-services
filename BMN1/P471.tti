@@ -3,134 +3,1381 @@ PN,47101
 SC,0001
 PS,C200
 CT,25,T
-OL,0,          G471BBMN1Gza 21.11.26 07:51:04
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
 OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
 OL,2,T]G                                     
-OL,3,V]DParis KLM Royal Dutch AirlinesE7:25  
-OL,4,T]FParis IndiGo    E7:25                
-OL,5,V]DParis Air FranceE7:25                
-OL,6,T]FParis Delta Air LinesE7:25           
-OL,7,V]DParis Garuda    E7:25                
-OL,8,T]FParis Kenya AirwaysE7:25             
-OL,9,V]DParis China Eastern AirlinesE7:25    
-OL,10,T]FParis Vietnam AirlinesE7:25          
-OL,11,V]DLondon KLM Royal Dutch AirlinesE7:27 
-OL,12,T]FLondon IndiGo   E7:27                
-OL,13,V]DLondon Delta Air LinesE7:27          
-OL,14,T]FLondon Garuda   E7:27                
-OL,15,V]DLondon Xiamen AirlinesE7:27          
-OL,16,T]FLondon Virgin AtlanticE7:27          
-OL,17,V]DLyon KLM Royal Dutch AirlinesE7:29   
-OL,18,T]FLyon Air France E7:29                
-OL,19,V]DLyon Delta Air LinesE7:29            
-OL,20,T]FLyon Garuda     E7:29                
-OL,21,V]DDublin KLM Royal Dutch AirlinesE7:30 
-OL,22,T]FDublin IndiGo   E7:30                
-OL,23,V]DDublin Delta Air LinesE7:30          
+OL,3,V]DFuerteventura TransaviaE6:15         
+OL,4,T]FSanta Cruz de Tenerife TransaviaE6:1 
+OL,5,V]DSanta Cruz de Tenerife KLM Royal Dut 
+OL,6,T]FTromso TransaviaE6:25                
+OL,7,V]DMarrakech TransaviaE6:29             
+OL,8,T]FMarrakech Delta Air LinesE6:29       
+OL,9,V]DMarrakech KLM Royal Dutch AirlinesE6 
+OL,10,T]FLas Palmas de Gran Canaria Transavia 
+OL,11,V]DLas Palmas de Gran Canaria KLM Royal 
+OL,12,T]FMalaga TransaviaE6:39                
+OL,13,V]DMalaga Delta Air LinesE6:39          
+OL,14,T]FMalaga KLM Royal Dutch AirlinesE6:39 
+OL,15,V]DAlicante TransaviaE6:40              
+OL,16,T]FAlicante Delta Air LinesE6:40        
+OL,17,V]DAlicante KLM Royal Dutch AirlinesE6: 
+OL,18,T]FRome KLM Royal Dutch AirlinesE6:49   
+OL,19,V]DOslo KLM Royal Dutch AirlinesE6:49   
+OL,20,T]FSal Transavia   E6:50                
+OL,21,V]DZurich KLM Royal Dutch AirlinesE6:50 
+OL,22,T]FZurich IndiGo   E6:50                
+OL,23,V]DZurich Delta Air LinesE6:50          
 FL,0,0,0,0,0,100
 PN,47102
 SC,0002
 PS,C200
 CT,25,T
-OL,0,          G471BBMN1Gza 21.11.26 07:51:04
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
 OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
 OL,2,T]G                                     
-OL,3,V]DDublin Garuda   E7:30                
-OL,4,T]FDublin Xiamen AirlinesE7:30          
-OL,5,V]DFrankfurt LufthansaE7:41             
-OL,6,T]FFrankfurt Aegean AirlinesE7:41       
-OL,7,V]DFrankfurt Air CanadaE7:41            
-OL,8,T]FFrankfurt Air IndiaE7:41             
-OL,9,V]DFrankfurt All Nippon AirwaysE7:41    
-OL,10,T]FFrankfurt United AirlinesE7:41       
-OL,11,V]DMunich KLM Royal Dutch AirlinesE7:50 
-OL,12,T]FMunich IndiGo   E7:50                
-OL,13,V]DMunich Delta Air LinesE7:50          
-OL,14,T]FMunich Garuda   E7:50                
-OL,15,V]DMunich Korean AirE7:50               
-OL,16,T]FMunich Xiamen AirlinesE7:50          
-OL,17,V]DCopenhagen KLM Royal Dutch AirlinesE 
-OL,18,T]FCopenhagen IndiGoE7:54               
-OL,19,V]DCopenhagen Delta Air LinesE7:54      
-OL,20,T]FCopenhagen GarudaE7:54               
-OL,21,V]DCopenhagen Xiamen AirlinesE7:54      
-OL,22,T]FCopenhagen China Eastern AirlinesE7: 
-OL,23,V]DCopenhagen SAS  E7:54                
+OL,3,V]DZurich Xiamen AirlinesE6:50          
+OL,4,T]FPrague KLM Royal Dutch AirlinesE6:55 
+OL,5,V]DDusseldorf KLM Royal Dutch AirlinesE 
+OL,6,T]FHamburg KLM Royal Dutch AirlinesE6:5 
+OL,7,V]DBrussels KLM Royal Dutch AirlinesE6: 
+OL,8,T]FParis KLM Royal Dutch AirlinesE6:55  
+OL,9,V]DGeneva KLM Royal Dutch AirlinesE6:55 
+OL,10,T]FBrussels IndiGo E6:55                
+OL,11,V]DBrussels Delta Air LinesE6:55        
+OL,12,T]FDusseldorf IndiGoE6:55               
+OL,13,V]DDusseldorf Delta Air LinesE6:55      
+OL,14,T]FDusseldorf Xiamen AirlinesE6:55      
+OL,15,V]DDusseldorf China Eastern AirlinesE6: 
+OL,16,T]FHamburg IndiGo  E6:55                
+OL,17,V]DHamburg Delta Air LinesE6:55         
+OL,18,T]FHamburg Korean AirE6:55              
+OL,19,V]DHamburg China Eastern AirlinesE6:55  
+OL,20,T]FPrague IndiGo   E6:55                
+OL,21,V]DPrague Delta Air LinesE6:55          
+OL,22,T]FBrussels Xiamen AirlinesE6:55        
+OL,23,V]DLisbon TAP PortugalE6:59             
 FL,0,0,0,0,0,100
 PN,47103
 SC,0003
 PS,C200
 CT,25,T
-OL,0,          G471BBMN1Gza 21.11.26 07:51:04
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
 OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
 OL,2,T]G                                     
-OL,3,V]DStavanger KLM Royal Dutch AirlinesE7 
-OL,4,T]FManchester KLM Royal Dutch AirlinesE 
-OL,5,V]DManchester IndiGoE7:55               
-OL,6,T]FManchester Delta Air LinesE7:55      
-OL,7,V]DManchester GarudaE7:55               
-OL,8,T]FManchester Korean AirE7:55           
-OL,9,V]DManchester Xiamen AirlinesE7:55      
-OL,10,T]FManchester China Eastern AirlinesE7: 
-OL,11,V]DManchester Virgin AtlanticE7:55      
-OL,12,T]FParis Air Zeta  E8:04                
-OL,13,V]DBarcelona Vueling AirlinesE6:59      
-OL,14,T]FBirmingham easyJetE6:59              
-OL,15,V]DBarcelona IberiaE6:59                
-OL,16,T]FBarcelona LATAM Airlines ChileE6:59  
-OL,17,V]DBarcelona LEVEL E6:59                
-OL,18,T]FBarcelona Qatar AirwaysE6:59         
-OL,19,V]DBarcelona TransaviaE7:00             
-OL,20,T]FInnsbruck TransaviaE7:00             
-OL,21,V]DInnsbruck Delta Air LinesE7:00       
-OL,22,T]FInnsbruck KLM Royal Dutch AirlinesE7 
-OL,23,V]DWarsaw LOT - Polish AirlinesE7:00    
+OL,3,V]DWarsaw LOT - Polish AirlinesE6:59    
+OL,4,T]FBarcelona Vueling AirlinesE6:59      
+OL,5,V]DMalaga easyJet  E7:00                
+OL,6,T]FZurich Swiss    E7:00                
+OL,7,V]DLondon British AirwaysE7:00          
+OL,8,T]FSevilla TransaviaE7:05               
+OL,9,V]DLondon easyJet  E7:05                
+OL,10,T]FMadrid Iberia   E7:10                
+OL,11,V]DSalerno TransaviaE7:10               
+OL,12,T]FManchester easyJetE7:10              
+OL,13,V]DManchester easyJet EuropeE7:10       
+OL,14,T]FFunchal TransaviaE7:14               
+OL,15,V]DFunchal Delta Air LinesE7:14         
+OL,16,T]FFunchal KLM Royal Dutch AirlinesE7:1 
+OL,17,V]DBirmingham easyJetE7:15              
+OL,18,T]FVienna Austrian E7:18                
+OL,19,V]DVienna All Nippon AirwaysE7:18       
+OL,20,T]FPrague easyJet  E7:19                
+OL,21,V]DManises TransaviaE7:20               
+OL,22,T]FLondon KLM Royal Dutch AirlinesE7:20 
+OL,23,V]DMadrid KLM Royal Dutch AirlinesE7:20 
 FL,0,0,0,0,0,100
 PN,47104
 SC,0004
 PS,C200
 CT,25,T
-OL,0,          G471BBMN1Gza 21.11.26 07:51:04
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
 OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
 OL,2,T]G                                     
-OL,3,V]DZurich Swiss    E7:00                
-OL,4,T]FLisbon TAP PortugalE7:00             
-OL,5,V]DManises easyJet E7:00                
-OL,6,T]FMarrakech easyJetE7:00               
-OL,7,V]DWarsaw Jetblue AirwaysE7:00          
-OL,8,T]FLisbon Azul     E7:00                
-OL,9,V]DLisbon LATAM Airlines ChileE7:00     
-OL,10,T]FLisbon Azores AirlinesE7:00          
-OL,11,V]DLisbon United AirlinesE7:00          
-OL,12,T]FLondon British AirwaysE7:04          
-OL,13,V]DLondon American AirlinesE7:04        
-OL,14,T]FLondon Qatar AirwaysE7:04            
-OL,15,V]DLondon Jetblue AirwaysE7:04          
-OL,16,T]FGuangzhou China Southern AirlinesE7: 
-OL,17,V]DPrague easyJet  E7:14                
-OL,18,T]FVienna Austrian E7:17                
-OL,19,V]DMadrid KLM Royal Dutch AirlinesE7:20 
-OL,20,T]FMadrid airBalticE7:20                
-OL,21,V]DMadrid Delta Air LinesE7:20          
-OL,22,T]FMadrid Garuda   E7:20                
-OL,23,V]DMadrid Xiamen AirlinesE7:20          
+OL,3,V]DParis KLM Royal Dutch AirlinesE7:24  
+OL,4,T]FPalma de Mallorca TransaviaE7:25     
+OL,5,V]DDublin KLM Royal Dutch AirlinesE7:25 
+OL,6,T]FPalma de Mallorca Delta Air LinesE7: 
+OL,7,V]DPalma de Mallorca KLM Royal Dutch Ai 
+OL,8,T]FDublin IndiGo   E7:25                
+OL,9,V]DDublin Delta Air LinesE7:25          
+OL,10,T]FDublin Garuda   E7:25                
+OL,11,V]DDublin Xiamen AirlinesE7:25          
+OL,12,T]FFrankfurt LufthansaE7:30             
+OL,13,V]DFrankfurt Air IndiaE7:30             
+OL,14,T]FFrankfurt United AirlinesE7:30       
+OL,15,V]DFrankfurt Air CanadaE7:30            
+OL,16,T]FFrankfurt All Nippon AirwaysE7:30    
+OL,17,V]DFrankfurt Aegean AirlinesE7:30       
+OL,18,T]FBoa Vista TUI fly NetherlandsE7:34   
+OL,19,V]DBanjul Corendon Dutch AirlinesE7:35  
+OL,20,T]FCopenhagen KLM Royal Dutch AirlinesE 
+OL,21,V]DStavanger KLM Royal Dutch AirlinesE7 
+OL,22,T]FMunich KLM Royal Dutch AirlinesE7:50 
+OL,23,V]DBerlin KLM Royal Dutch AirlinesE7:55 
 FL,0,0,0,0,0,100
 PN,47105
 SC,0005
 PS,C200
 CT,25,T
-OL,0,          G471BBMN1Gza 21.11.26 07:51:04
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
 OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
 OL,2,T]G                                     
-OL,3,V]DMadrid China Eastern AirlinesE7:20   
-OL,4,T]FMadrid Air EuropaE7:20               
-OL,5,V]DMadrid Iberia   E7:22                
-OL,6,T]FMadrid LATAM Airlines ChileE7:22     
-OL,7,V]DMadrid American AirlinesE7:22        
-OL,8,T]FSal TUI fly NetherlandsE7:23         
-OL,9,V]DMarrakech TransaviaE7:24             
-OL,10,T]FMarrakech Delta Air LinesE7:24       
-OL,11,V]DMarrakech KLM Royal Dutch AirlinesE7 
+OL,3,V]DBerlin Delta Air LinesE7:55          
+OL,4,T]FBerlin China Eastern AirlinesE7:55   
+OL,5,V]DBerlin Garuda   E7:55                
+OL,6,T]FBerlin IndiGo   E7:55                
+OL,7,V]DBerlin Korean AirE7:55               
+OL,8,T]FBerlin Xiamen AirlinesE7:55          
+OL,9,V]DGothenburg KLM Royal Dutch AirlinesE 
+OL,10,T]FLondon easyJet  E8:00                
+OL,11,V]DLondon easyJet EuropeE8:00           
+OL,12,T]FGothenburg IndiGoE8:00               
+OL,13,V]DGothenburg Delta Air LinesE8:00      
+OL,14,T]FGothenburg Malaysia AirlinesE8:00    
+OL,15,V]DManchester KLM Royal Dutch AirlinesE 
+OL,16,T]FManchester IndiGoE8:08               
+OL,17,V]DManchester Delta Air LinesE8:08      
+OL,18,T]FManchester GarudaE8:08               
+OL,19,V]DManchester Xiamen AirlinesE8:08      
+OL,20,T]FManchester China Eastern AirlinesE8: 
+OL,21,V]DManchester Virgin AtlanticE8:08      
+OL,22,T]FEdinburgh KLM Royal Dutch AirlinesE8 
+OL,23,V]DParamaribo KLM Royal Dutch AirlinesE 
+FL,0,0,0,0,0,100
+PN,47106
+SC,0006
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DMulhouse-Basel KLM Royal Dutch Airli 
+OL,4,T]FMulhouse-Basel Air FranceE8:15       
+OL,5,V]DMulhouse-Basel Delta Air LinesE8:15  
+OL,6,T]FMulhouse-Basel SASE8:15              
+OL,7,V]DMulhouse-Basel GOL Linhas Aereas Int 
+OL,8,T]FLarnaca TransaviaE8:20               
+OL,9,V]DParis KLM Royal Dutch AirlinesE8:20  
+OL,10,T]FLarnaca Delta Air LinesE8:20         
+OL,11,V]DLarnaca KLM Royal Dutch AirlinesE8:2 
+OL,12,T]FBergen KLM Royal Dutch AirlinesE8:25 
+OL,13,V]DBarcelona KLM Royal Dutch AirlinesE8 
+OL,14,T]FNewcastle KLM Royal Dutch AirlinesE8 
+OL,15,V]DMilan KLM Royal Dutch AirlinesE8:25  
+OL,16,T]FAalborg KLM Royal Dutch AirlinesE8:3 
+OL,17,V]DBillund KLM Royal Dutch AirlinesE8:3 
+OL,18,T]FNuremberg KLM Royal Dutch AirlinesE8 
+OL,19,V]DLisbon KLM Royal Dutch AirlinesE8:30 
+OL,20,T]FNuremberg IndiGoE8:30                
+OL,21,V]DNuremberg Delta Air LinesE8:30       
+OL,22,T]FNuremberg SAS   E8:30                
+OL,23,V]DAalborg Delta Air LinesE8:30         
+FL,0,0,0,0,0,100
+PN,47107
+SC,0007
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DBillund Delta Air LinesE8:30         
+OL,4,T]FBillund SAS     E8:30                
+OL,5,V]DFrankfurt KLM Royal Dutch AirlinesE8 
+OL,6,T]FBelfast KLM Royal Dutch AirlinesE8:3 
+OL,7,V]DFrankfurt GarudaE8:35                
+OL,8,T]FFrankfurt Vietnam AirlinesE8:35      
+OL,9,V]DFrankfurt Xiamen AirlinesE8:35       
+OL,10,T]FFrankfurt SAS   E8:35                
+OL,11,V]DFrankfurt Delta Air LinesE8:35       
+OL,12,T]FEastleigh near Southampton KLM Royal 
+OL,13,V]DEastleigh near Southampton Delta Air 
+OL,14,T]FEastleigh near Southampton Virgin At 
+OL,15,V]DStockholm KLM Royal Dutch AirlinesE8 
+OL,16,T]FStockholm IndiGoE8:40                
+OL,17,V]DStockholm Delta Air LinesE8:40       
+OL,18,T]FStockholm GarudaE8:40                
+OL,19,V]DStockholm Korean AirE8:40            
+OL,20,T]FStockholm Xiamen AirlinesE8:40       
+OL,21,V]DStockholm Malaysia AirlinesE8:40     
+OL,22,T]FStockholm SAS   E8:40                
+OL,23,V]DFlorence KLM Royal Dutch AirlinesE8: 
+FL,0,0,0,0,0,100
+PN,47108
+SC,0008
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DFrankfurt Lufthansa CityE8:45        
+OL,4,T]FFlorence Delta Air LinesE8:45        
+OL,5,V]DPorto KLM Royal Dutch AirlinesE8:49  
+OL,6,T]FNew York Delta Air LinesE8:55        
+OL,7,V]DHurghada easyJetE8:59                
+OL,8,T]FCatania KLM Royal Dutch AirlinesE9:0 
+OL,9,V]DNorwich KLM Royal Dutch AirlinesE9:0 
+OL,10,T]FKlaipeda-Palanga airBalticE9:00      
+OL,11,V]DCatania Delta Air LinesE9:00         
+OL,12,T]FCatania Kenya AirwaysE9:00           
+OL,13,V]DCatania SAS     E9:00                
+OL,14,T]FMunich LufthansaE9:08                
+OL,15,V]DMunich Aegean AirlinesE9:08          
+OL,16,T]FMunich Air CanadaE9:08               
+OL,17,V]DBilbao KLM Royal Dutch AirlinesE9:15 
+OL,18,T]FNewark United AirlinesE9:15          
+OL,19,V]DLiverpool easyJetE9:15               
+OL,20,T]FHumberside KLM Royal Dutch AirlinesE 
+OL,21,V]DAbu Dhabi EtihadE9:15                
+OL,22,T]FBilbao Delta Air LinesE9:15          
+OL,23,V]DBilbao GOL Linhas Aereas Inteligente 
+FL,0,0,0,0,0,100
+PN,47109
+SC,0009
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DBilbao SAS      E9:15                
+OL,4,T]FHumberside Air FranceE9:15           
+OL,5,V]DHumberside Delta Air LinesE9:15      
+OL,6,T]FHumberside Virgin AtlanticE9:15      
+OL,7,V]DBucharest KLM Royal Dutch AirlinesE9 
+OL,8,T]FPorto Transavia E9:19                
+OL,9,V]DBucharest Delta Air LinesE9:19       
+OL,10,T]FBucharest TAROM E9:19                
+OL,11,V]DBucharest SAS   E9:19                
+OL,12,T]FPrague KLM Royal Dutch AirlinesE9:20 
+OL,13,V]DBogota KLM Royal Dutch AirlinesE9:20 
+OL,14,T]FParis Air FranceE9:20                
+OL,15,V]DKrakow KLM Royal Dutch AirlinesE9:20 
+OL,16,T]FPrague IndiGo   E9:20                
+OL,17,V]DPrague China AirlinesE9:20           
+OL,18,T]FPrague Delta Air LinesE9:20          
+OL,19,V]DPrague Garuda   E9:20                
+OL,20,T]FPrague Kenya AirwaysE9:20            
+OL,21,V]DBrussels KLM Royal Dutch AirlinesE9: 
+OL,22,T]FBremen KLM Royal Dutch AirlinesE9:25 
+OL,23,V]DHannover KLM Royal Dutch AirlinesE9: 
+FL,0,0,0,0,0,100
+PN,47110
+SC,0010
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DHannover IndiGo E9:25                
+OL,4,T]FHannover Delta Air LinesE9:25        
+OL,5,V]DHannover China Eastern AirlinesE9:25 
+OL,6,T]FHannover SAS    E9:25                
+OL,7,V]DBremen Delta Air LinesE9:25          
+OL,8,T]FBremen SAS      E9:25                
+OL,9,V]DIbiza Transavia E9:29                
+OL,10,T]FCardiff KLM Royal Dutch AirlinesE9:2 
+OL,11,V]DMunich KLM Royal Dutch AirlinesE9:29 
+OL,12,T]FCardiff IndiGo  E9:29                
+OL,13,V]DCardiff Delta Air LinesE9:29         
+OL,14,T]FCardiff Kenya AirwaysE9:29           
+OL,15,V]DCardiff Virgin AtlanticE9:29         
+OL,16,T]FIbiza Delta Air LinesE9:29           
+OL,17,V]DIbiza KLM Royal Dutch AirlinesE9:29  
+OL,18,T]FMunich IndiGo   E9:29                
+OL,19,V]DMunich Delta Air LinesE9:29          
+OL,20,T]FMunich Garuda   E9:29                
+OL,21,V]DMunich Kenya AirwaysE9:29            
+OL,22,T]FMunich Xiamen AirlinesE9:29          
+OL,23,V]DMunich China Eastern AirlinesE9:29   
+FL,0,0,0,0,0,100
+PN,47111
+SC,0011
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DMunich SAS      E9:29                
+OL,4,T]FGdansk KLM Royal Dutch AirlinesE9:30 
+OL,5,V]DGeneva KLM Royal Dutch AirlinesE9:30 
+OL,6,T]FBudapest KLM Royal Dutch AirlinesE9: 
+OL,7,V]DSalt Lake City Delta Air LinesE9:30  
+OL,8,T]FLuxembourg KLM Royal Dutch AirlinesE 
+OL,9,V]DGlasgow KLM Royal Dutch AirlinesE9:3 
+OL,10,T]FLuxembourg Delta Air LinesE9:30      
+OL,11,V]DLuxembourg Kenya AirwaysE9:30        
+OL,12,T]FLuxembourg Cargolux Airlines Interna 
+OL,13,V]DGlasgow IndiGo  E9:30                
+OL,14,T]FGlasgow Air FranceE9:30              
+OL,15,V]DGlasgow Delta Air LinesE9:30         
+OL,16,T]FGlasgow Xiamen AirlinesE9:30         
+OL,17,V]DGlasgow China Eastern AirlinesE9:30  
+OL,18,T]FGlasgow Virgin AtlanticE9:30         
+OL,19,V]DLeeds KLM Royal Dutch AirlinesE9:34  
+OL,20,T]FLeeds Air FranceE9:34                
+OL,21,V]DLeeds Delta Air LinesE9:34           
+OL,22,T]FLeeds Kenya AirwaysE9:34             
+OL,23,V]DLeeds Virgin AtlanticE9:34           
+FL,0,0,0,0,0,100
+PN,47112
+SC,0012
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DRome KLM Royal Dutch AirlinesE9:35   
+OL,4,T]FNice KLM Royal Dutch AirlinesE9:35   
+OL,5,V]DBirmingham KLM Royal Dutch AirlinesE 
+OL,6,T]FVienna KLM Royal Dutch AirlinesE9:35 
+OL,7,V]DHouston KLM Royal Dutch AirlinesE9:3 
+OL,8,T]FDublin Aer LingusE9:35               
+OL,9,V]DNice Air France E9:35                
+OL,10,T]FNice Delta Air LinesE9:35            
+OL,11,V]DNice Garuda     E9:35                
+OL,12,T]FNice Kenya AirwaysE9:35              
+OL,13,V]DNice Xiamen AirlinesE9:35            
+OL,14,T]FNice China Eastern AirlinesE9:35     
+OL,15,V]DHamburg KLM Royal Dutch AirlinesE9:3 
+OL,16,T]FVenice KLM Royal Dutch AirlinesE9:39 
+OL,17,V]DHamburg IndiGo  E9:39                
+OL,18,T]FHamburg Delta Air LinesE9:39         
+OL,19,V]DHamburg Kenya AirwaysE9:39           
+OL,20,T]FHamburg China Eastern AirlinesE9:39  
+OL,21,V]DLos Angeles KLM Royal Dutch Airlines 
+OL,22,T]FMadrid KLM Royal Dutch AirlinesE9:40 
+OL,23,V]DStavanger KLM Royal Dutch AirlinesE9 
+FL,0,0,0,0,0,100
+PN,47113
+SC,0013
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DMarseille KLM Royal Dutch AirlinesE9 
+OL,4,T]FZurich KLM Royal Dutch AirlinesE9:40 
+OL,5,V]DNantes KLM Royal Dutch AirlinesE9:40 
+OL,6,T]FBelgrade KLM Royal Dutch AirlinesE9: 
+OL,7,V]DWroclaw KLM Royal Dutch AirlinesE9:4 
+OL,8,T]FBerlin KLM Royal Dutch AirlinesE9:45 
+OL,9,V]DGothenburg KLM Royal Dutch AirlinesE 
+OL,10,T]FAberdeen KLM Royal Dutch AirlinesE9: 
+OL,11,V]DManchester KLM Royal Dutch AirlinesE 
+OL,12,T]FVantaa KLM Royal Dutch AirlinesE9:45 
+OL,13,V]DBerlin Delta Air LinesE9:45          
+OL,14,T]FBerlin China Eastern AirlinesE9:45   
+OL,15,V]DBerlin IndiGo   E9:45                
+OL,16,T]FBerlin Kenya AirwaysE9:45            
+OL,17,V]DBerlin Garuda   E9:45                
+OL,18,T]FBerlin Xiamen AirlinesE9:45          
+OL,19,V]DGothenburg IndiGoE9:45               
+OL,20,T]FGothenburg Delta Air LinesE9:45      
+OL,21,V]DGothenburg Kenya AirwaysE9:45        
+OL,22,T]FGothenburg Malaysia AirlinesE9:45    
+OL,23,V]DManchester IndiGoE9:45               
+FL,0,0,0,0,0,100
+PN,47114
+SC,0014
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DManchester airBalticE9:45            
+OL,4,T]FManchester China AirlinesE9:45       
+OL,5,V]DManchester Delta Air LinesE9:45      
+OL,6,T]FManchester GarudaE9:45               
+OL,7,V]DManchester Kenya AirwaysE9:45        
+OL,8,T]FManchester Xiamen AirlinesE9:45      
+OL,9,V]DManchester China Eastern AirlinesE9: 
+OL,10,T]FManchester Virgin AtlanticE9:45      
+OL,11,V]DZurich Swiss    E9:49                
+OL,12,T]FSan Francisco KLM Royal Dutch Airlin 
+OL,13,V]DCopenhagen KLM Royal Dutch AirlinesE 
+OL,14,T]FToulouse KLM Royal Dutch AirlinesE9: 
+OL,15,V]DToulouse Air FranceE9:54             
+OL,16,T]FToulouse Delta Air LinesE9:54        
+OL,17,V]DToulouse China Eastern AirlinesE9:54 
+OL,18,T]FToulouse SAS    E9:54                
+OL,19,V]DHamburg Ghadames AirE9:55            
+OL,20,T]FTampa Delta Air LinesE9:55           
+OL,21,V]DOslo KLM Royal Dutch AirlinesE9:55   
+OL,22,T]FCork KLM Royal Dutch AirlinesE9:55   
+OL,23,V]DCuracao KLM Royal Dutch AirlinesE9:5 
+FL,0,0,0,0,0,100
+PN,47115
+SC,0015
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DSplit KLM Royal Dutch AirlinesE9:55  
+OL,4,T]FBristol KLM Royal Dutch AirlinesE9:5 
+OL,5,V]DCuracao Air FranceE9:55              
+OL,6,T]FCork Delta Air LinesE9:55            
+OL,7,V]DTallinn airBalticE9:59               
+OL,8,T]FFrankfurt KLM Royal Dutch AirlinesE9 
+OL,9,V]DTallinn Delta Air LinesE9:59         
+OL,10,T]FTallinn EmiratesE9:59                
+OL,11,V]DTallinn KLM Royal Dutch AirlinesE9:5 
+OL,12,T]FFrankfurt IndiGoE9:59                
+OL,13,V]DFrankfurt Delta Air LinesE9:59       
+OL,14,T]FFrankfurt GarudaE9:59                
+OL,15,V]DFrankfurt Kenya AirwaysE9:59         
+OL,16,T]FFrankfurt Xiamen AirlinesE9:59       
+OL,17,V]DRotterdam KLM CityhopperE10:00       
+OL,18,T]FRotterdam KLM Royal Dutch AirlinesE1 
+OL,19,V]DAlicante TransaviaE10:00             
+OL,20,T]FAtlanta KLM Royal Dutch AirlinesE10: 
+OL,21,V]DVienna Austrian E10:00               
+OL,22,T]FManises Vueling AirlinesE10:00       
+OL,23,V]DAlicante Delta Air LinesE10:00       
+FL,0,0,0,0,0,100
+PN,47116
+SC,0016
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DAlicante KLM Royal Dutch AirlinesE10 
+OL,4,T]FManchester easyJetE10:04             
+OL,5,V]DZanzibar KLM Royal Dutch AirlinesE10 
+OL,6,T]FBordeaux KLM Royal Dutch AirlinesE10 
+OL,7,V]DMalaga Ryanair  E10:05               
+OL,8,T]FWarsaw KLM Royal Dutch AirlinesE10:0 
+OL,9,V]DPhilipsburg, St. Maarten KLM Royal D 
+OL,10,T]FBarcelona KLM Royal Dutch AirlinesE1 
+OL,11,V]DBordeaux Air FranceE10:05            
+OL,12,T]FBordeaux Delta Air LinesE10:05       
+OL,13,V]DBordeaux Kenya AirwaysE10:05         
+OL,14,T]FBordeaux China Eastern AirlinesE10:0 
+OL,15,V]DBordeaux SAS    E10:05               
+OL,16,T]FStuttgart KLM Royal Dutch AirlinesE1 
+OL,17,V]DLjubljana KLM Royal Dutch AirlinesE1 
+OL,18,T]FStuttgart IndiGoE10:09               
+OL,19,V]DStuttgart Delta Air LinesE10:09      
+OL,20,T]FStuttgart Kenya AirwaysE10:09        
+OL,21,V]DStuttgart SAS   E10:09               
+OL,22,T]FLjubljana Air FranceE10:09           
+OL,23,V]DLjubljana Delta Air LinesE10:09      
+FL,0,0,0,0,0,100
+PN,47117
+SC,0017
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DJohannesburg KLM Royal Dutch Airline 
+OL,4,T]FDusseldorf KLM Royal Dutch AirlinesE 
+OL,5,V]DDetroit Delta Air LinesE10:10        
+OL,6,T]FVilnius airBalticE10:10              
+OL,7,V]DNewcastle KLM Royal Dutch AirlinesE1 
+OL,8,T]FDusseldorf IndiGoE10:10              
+OL,9,V]DDusseldorf Delta Air LinesE10:10     
+OL,10,T]FDusseldorf GarudaE10:10              
+OL,11,V]DDusseldorf Kenya AirwaysE10:10       
+OL,12,T]FDusseldorf Xiamen AirlinesE10:10     
+OL,13,V]DDusseldorf China Eastern AirlinesE10 
+OL,14,T]FVilnius Delta Air LinesE10:10        
+OL,15,V]DVilnius EmiratesE10:10               
+OL,16,T]FVilnius KLM Royal Dutch AirlinesE10: 
+OL,17,V]DSeattle Delta Air LinesE10:15        
+OL,18,T]FCape Town KLM Royal Dutch AirlinesE1 
+OL,19,V]DBillund KLM Royal Dutch AirlinesE10: 
+OL,20,T]FMilan KLM Royal Dutch AirlinesE10:15 
+OL,21,V]DBillund Air FranceE10:15             
+OL,22,T]FBillund Delta Air LinesE10:15        
+OL,23,V]DBillund Kenya AirwaysE10:15          
+FL,0,0,0,0,0,100
+PN,47118
+SC,0018
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DBillund SAS     E10:15               
+OL,4,T]FHouston United AirlinesE10:20        
+OL,5,V]DSingapore Singapore AirlinesE10:20   
+OL,6,T]FParamaribo Surinam AirwaysE10:20     
+OL,7,V]DSofia Bulgaria AirE10:20             
+OL,8,T]FLondon KLM Royal Dutch AirlinesE10:2 
+OL,9,V]DLondon British AirwaysE10:20         
+OL,10,T]FSofia KLM Royal Dutch AirlinesE10:20 
+OL,11,V]DSofia airBaltic E10:20               
+OL,12,T]FIstanbul Turkish AirlinesE10:20      
+OL,13,V]DMinneapolis Delta Air LinesE10:25    
+OL,14,T]FFlorence KLM Royal Dutch AirlinesE10 
+OL,15,V]DParis Air FranceE10:25               
+OL,16,T]FQuito KLM Royal Dutch AirlinesE10:25 
+OL,17,V]DCopenhagen SAS  E10:30               
+OL,18,T]FBologna KLM Royal Dutch AirlinesE10: 
+OL,19,V]DLuxembourg Cargolux Airlines Interna 
+OL,20,T]FBologna Delta Air LinesE10:30        
+OL,21,V]DBologna Kenya AirwaysE10:30          
+OL,22,T]FBologna Xiamen AirlinesE10:30        
+OL,23,V]DBologna China Eastern AirlinesE10:30 
+FL,0,0,0,0,0,100
+PN,47119
+SC,0019
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DDubai Emirates  E10:35               
+OL,4,T]FStockholm SAS   E10:35               
+OL,5,V]DPortland KLM Royal Dutch AirlinesE10 
+OL,6,T]FBangalore KLM Royal Dutch AirlinesE1 
+OL,7,V]DRio de Janeiro KLM Royal Dutch Airli 
+OL,8,T]FBristol easyJet E10:40               
+OL,9,V]DBudapest KLM Royal Dutch AirlinesE10 
+OL,10,T]FKigali KLM Royal Dutch AirlinesE10:4 
+OL,11,V]DMunich LufthansaE10:45               
+OL,12,T]FStockholm KLM Royal Dutch AirlinesE1 
+OL,13,V]DMiami KLM Royal Dutch AirlinesE10:45 
+OL,14,T]FFrankfurt LufthansaE10:55            
+OL,15,V]DSao Paulo KLM Royal Dutch AirlinesE1 
+OL,16,T]FLuton easyJet   E10:55               
+OL,17,V]DBeirut MEA      E11:00               
+OL,18,T]FWashington DC United AirlinesE11:00  
+OL,19,V]DMadrid Air EuropaE11:00              
+OL,20,T]FFuerteventura TUI fly NetherlandsE11 
+OL,21,V]DCuracao TUI fly NetherlandsE11:10    
+OL,22,T]FAtlanta Delta Air LinesE11:10        
+OL,23,V]DLas Palmas de Gran Canaria TUI fly N 
+FL,0,0,0,0,0,100
+PN,47120
+SC,0020
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DSharm el Sheikh easyJetE11:10        
+OL,4,T]FEdinburgh easyJetE11:15              
+OL,5,V]DMumbai KLM Royal Dutch AirlinesE11:1 
+OL,6,T]FZagreb Croatia AirlinesE11:19        
+OL,7,V]DZagreb Air CanadaE11:19              
+OL,8,T]FZagreb Air IndiaE11:19               
+OL,9,V]DZagreb KLM Royal Dutch AirlinesE11:1 
+OL,10,T]FZagreb United AirlinesE11:19         
+OL,11,V]DReykjavik TransaviaE11:20            
+OL,12,T]FVantaa Finnair  E11:20               
+OL,13,V]DPanama City KLM Royal Dutch Airlines 
+OL,14,T]FBarcelona TransaviaE11:20            
+OL,15,V]DReykjavik Delta Air LinesE11:20      
+OL,16,T]FReykjavik KLM Royal Dutch AirlinesE1 
+OL,17,V]DHyderabad KLM Royal Dutch AirlinesE1 
+OL,18,T]FTel Aviv Yafo EL ALE11:30            
+OL,19,V]DGudja KM Malta AirlinesE11:30        
+OL,20,T]FGudja airBaltic E11:30               
+OL,21,V]DGudja KLM Royal Dutch AirlinesE11:30 
+OL,22,T]FIstanbul KLM Royal Dutch AirlinesE11 
+OL,23,V]DNairobi KLM Royal Dutch AirlinesE11: 
+FL,0,0,0,0,0,100
+PN,47121
+SC,0021
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DLondon easyJet  E11:35               
+OL,4,T]FNew York Delta Air LinesE11:35       
+OL,5,V]DLondon British AirwaysE11:35         
+OL,6,T]FIstanbul AeromexicoE11:35            
+OL,7,V]DIstanbul Delta Air LinesE11:35       
+OL,8,T]FIstanbul Kenya AirwaysE11:35         
+OL,9,V]DIstanbul SAS    E11:35               
+OL,10,T]FChicago United AirlinesE11:40        
+OL,11,V]DSanta Cruz de Tenerife TUI fly Nethe 
+OL,12,T]FGdansk KLM Royal Dutch AirlinesE11:4 
+OL,13,V]DLima KLM Royal Dutch AirlinesE11:40  
+OL,14,T]FBucharest TAROM E11:40               
+OL,15,V]DBucharest KLM Royal Dutch AirlinesE1 
+OL,16,T]FBucharest SAS   E11:40               
+OL,17,V]DBucharest Xiamen AirlinesE11:40      
+OL,18,T]FBucharest airBalticE11:40            
+OL,19,V]DFaro Transavia  E11:45               
+OL,20,T]FBergen KLM Royal Dutch AirlinesE11:4 
+OL,21,V]DMilan easyJet   E11:45               
+OL,22,T]FLondon KLM Royal Dutch AirlinesE11:4 
+OL,23,V]DFaro Delta Air LinesE11:45           
+FL,0,0,0,0,0,100
+PN,47122
+SC,0022
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DFaro KLM Royal Dutch AirlinesE11:45  
+OL,4,T]FMilan ITA AirwaysE11:50              
+OL,5,V]DKrakow KLM Royal Dutch AirlinesE11:5 
+OL,6,T]FGenova KLM Royal Dutch AirlinesE11:5 
+OL,7,V]DLyon KLM Royal Dutch AirlinesE11:55  
+OL,8,T]FLyon Air France E11:55               
+OL,9,V]DLyon airBaltic  E11:55               
+OL,10,T]FLyon Delta Air LinesE11:55           
+OL,11,V]DLyon Garuda     E11:55               
+OL,12,T]FLyon Kenya AirwaysE11:55             
+OL,13,V]DLyon SAS        E11:55               
+OL,14,T]FManises easyJet E12:00               
+OL,15,V]DIstanbul PegasusE12:00               
+OL,16,T]FIstanbul KLM Royal Dutch AirlinesE12 
+OL,17,V]DMarrakech easyJetE12:05              
+OL,18,T]FRome ITA AirwaysE12:05               
+OL,19,V]DDublin KLM Royal Dutch AirlinesE12:0 
+OL,20,T]FToronto Air CanadaE12:05             
+OL,21,V]DMunich KLM Royal Dutch AirlinesE12:0 
+OL,22,T]FEdinburgh KLM Royal Dutch AirlinesE1 
+OL,23,V]DPoznan KLM Royal Dutch AirlinesE12:1 
+FL,0,0,0,0,0,100
+PN,47123
+SC,0023
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DSevilla easyJet E12:10               
+OL,4,T]FGlasgow KLM Royal Dutch AirlinesE12: 
+OL,5,V]DMulhouse-Basel KLM Royal Dutch Airli 
+OL,6,T]FMulhouse-Basel Air FranceE12:10      
+OL,7,V]DMulhouse-Basel Delta Air LinesE12:10 
+OL,8,T]FMulhouse-Basel Kenya AirwaysE12:10   
+OL,9,V]DMulhouse-Basel SASE12:10             
+OL,10,T]FMulhouse-Basel Delta Air LinesE12:10 
+OL,11,V]DMulhouse-Basel SASE12:10             
+OL,12,T]FGlasgow IndiGo  E12:10               
+OL,13,V]DGlasgow AeromexicoE12:10             
+OL,14,T]FGlasgow Aerolineas ArgentinasE12:10  
+OL,15,V]DGlasgow airBalticE12:10              
+OL,16,T]FGlasgow Delta Air LinesE12:10        
+OL,17,V]DGlasgow Xiamen AirlinesE12:10        
+OL,18,T]FGlasgow Virgin AtlanticE12:10        
+OL,19,V]DBerlin KLM Royal Dutch AirlinesE12:1 
+OL,20,T]FZurich KLM Royal Dutch AirlinesE12:1 
+OL,21,V]DIstanbul Turkish AirlinesE12:15      
+OL,22,T]FMadrid Iberia   E12:15               
+OL,23,V]DBoston Delta Air LinesE12:15         
+FL,0,0,0,0,0,100
+PN,47124
+SC,0024
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DBerlin Delta Air LinesE12:15         
+OL,4,T]FBerlin Air EuropaE12:15              
+OL,5,V]DBerlin IndiGo   E12:15               
+OL,6,T]FBerlin AeromexicoE12:15              
+OL,7,V]DCopenhagen KLM Royal Dutch AirlinesE 
+OL,8,T]FPrague KLM Royal Dutch AirlinesE12:2 
+OL,9,V]DRovaniemi KLM Royal Dutch AirlinesE1 
+OL,10,T]FGeneva KLM Royal Dutch AirlinesE12:2 
+OL,11,V]DCalgary, AB KLM Royal Dutch Airlines 
+OL,12,T]FHong Kong Cathay Pacific AirwaysE12: 
+OL,13,V]DAthens KLM Royal Dutch AirlinesE12:2 
+OL,14,T]FRovaniemi Delta Air LinesE12:20      
+OL,15,V]DPrague China AirlinesE12:20          
+OL,16,T]FPrague Delta Air LinesE12:20         
+OL,17,V]DPrague IndiGo   E12:20               
+OL,18,T]FParis KLM Royal Dutch AirlinesE12:25 
+OL,19,V]DVienna Austrian E12:25               
+OL,20,T]FAthens Aegean AirlinesE12:25         
+OL,21,V]DStavanger KLM Royal Dutch AirlinesE1 
+OL,22,T]FNice Transportes AereoE12:29         
+OL,23,V]DChicago KLM Royal Dutch AirlinesE12: 
+FL,0,0,0,0,0,100
+PN,47125
+SC,0025
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DNew Delhi KLM Royal Dutch AirlinesE1 
+OL,4,T]FGothenburg KLM Royal Dutch AirlinesE 
+OL,5,V]DAalborg KLM Royal Dutch AirlinesE12: 
+OL,6,T]FAalborg Air FranceE12:30             
+OL,7,V]DAalborg Delta Air LinesE12:30        
+OL,8,T]FAalborg Kenya AirwaysE12:30          
+OL,9,V]DGothenburg IndiGoE12:30              
+OL,10,T]FGothenburg Delta Air LinesE12:30     
+OL,11,V]DGothenburg Malaysia AirlinesE12:30   
+OL,12,T]FGothenburg TAROME12:30               
+OL,13,V]DLondon British AirwaysE12:34         
+OL,14,T]FFrankfurt KLM Royal Dutch AirlinesE1 
+OL,15,V]DBillund KLM Royal Dutch AirlinesE12: 
+OL,16,T]FCuracao TUI fly NetherlandsE12:35    
+OL,17,V]DBirmingham KLM Royal Dutch AirlinesE 
+OL,18,T]FBillund Air FranceE12:35             
+OL,19,V]DBillund Delta Air LinesE12:35        
+OL,20,T]FBillund Kenya AirwaysE12:35          
+OL,21,V]DBillund SAS     E12:35               
+OL,22,T]FSan Jose KLM Royal Dutch AirlinesE12 
+OL,23,V]DLisbon KLM Royal Dutch AirlinesE12:4 
+FL,0,0,0,0,0,100
+PN,47126
+SC,0026
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DMilan easyJet   E12:40               
+OL,4,T]FMumbai IndiGo   E12:40               
+OL,5,V]DOslo SAS        E12:45               
+OL,6,T]FManchester KLM Royal Dutch AirlinesE 
+OL,7,V]DManchester IndiGoE12:49              
+OL,8,T]FManchester AeromexicoE12:49          
+OL,9,V]DManchester airBalticE12:49           
+OL,10,T]FManchester China AirlinesE12:49      
+OL,11,V]DManchester Delta Air LinesE12:49     
+OL,12,T]FManchester Xiamen AirlinesE12:49     
+OL,13,V]DNewcastle KLM Royal Dutch AirlinesE1 
+OL,14,T]FStuttgart KLM Royal Dutch AirlinesE1 
+OL,15,V]DMinneapolis Delta Air LinesE12:50    
+OL,16,T]FStuttgart IndiGoE12:50               
+OL,17,V]DStuttgart AeromexicoE12:50           
+OL,18,T]FStuttgart Delta Air LinesE12:50      
+OL,19,V]DStuttgart Kenya AirwaysE12:50        
+OL,20,T]FStuttgart SAS   E12:50               
+OL,21,V]DReykjavik IcelandairE12:55           
+OL,22,T]FReykjavik EmiratesE12:55             
+OL,23,V]DReykjavik Turkish AirlinesE12:55     
+FL,0,0,0,0,0,100
+PN,47127
+SC,0027
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DOrlando Delta Air LinesE13:00        
+OL,4,T]FHamburg KLM Royal Dutch AirlinesE13: 
+OL,5,V]DLondon KLM Royal Dutch AirlinesE13:0 
+OL,6,T]FDusseldorf KLM Royal Dutch AirlinesE 
+OL,7,V]DCuracao KLM Royal Dutch AirlinesE13: 
+OL,8,T]FNew Philadelphia American AirlinesE1 
+OL,9,V]DAruba KLM Royal Dutch AirlinesE13:05 
+OL,10,T]FLondon Delta Air LinesE13:05         
+OL,11,V]DLondon Virgin AtlanticE13:05         
+OL,12,T]FHamburg IndiGo  E13:05               
+OL,13,V]DHamburg AeromexicoE13:05             
+OL,14,T]FHamburg Delta Air LinesE13:05        
+OL,15,V]DHamburg Kenya AirwaysE13:05          
+OL,16,T]FHamburg Air EuropaE13:05             
+OL,17,V]DDusseldorf IndiGoE13:05              
+OL,18,T]FDusseldorf Delta Air LinesE13:05     
+OL,19,V]DDusseldorf GarudaE13:05              
+OL,20,T]FDusseldorf Xiamen AirlinesE13:05     
+OL,21,V]DAruba Air FranceE13:05               
+OL,22,T]FIzmir SunExpressE13:10               
+OL,23,V]DWashington DC KLM Royal Dutch Airlin 
+FL,0,0,0,0,0,100
+PN,47128
+SC,0028
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DLuxembourg KLM Royal Dutch AirlinesE 
+OL,4,T]FLuxembourg Delta Air LinesE13:15     
+OL,5,V]DDusseldorf KLM CityhopperE13:19      
+OL,6,T]FAtlanta Delta Air LinesE13:20        
+OL,7,V]DBucharest KLM Royal Dutch AirlinesE1 
+OL,8,T]FBucharest Delta Air LinesE13:20      
+OL,9,V]DBucharest TAROM E13:20               
+OL,10,T]FBucharest SAS   E13:20               
+OL,11,V]DDublin Ryanair  E13:25               
+OL,12,T]FAlicante KLM Royal Dutch AirlinesE13 
+OL,13,V]DBarcelona Vueling AirlinesE13:25     
+OL,14,T]FLuxembourg Cargolux Airlines Interna 
+OL,15,V]DAlicante Delta Air LinesE13:25       
+OL,16,T]FDublin Aer LingusE13:30              
+OL,17,V]DBrussels KLM Royal Dutch AirlinesE13 
+OL,18,T]FToronto KLM Royal Dutch AirlinesE13: 
+OL,19,V]DMadrid KLM Royal Dutch AirlinesE13:3 
+OL,20,T]FHiguey TUI fly NetherlandsE13:40     
+OL,21,V]DIstanbul Ajet   E13:40               
+OL,22,T]FMunich LufthansaE13:40               
+OL,23,V]DLisbon TAP PortugalE13:40            
+FL,0,0,0,0,0,100
+PN,47129
+SC,0029
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DKayseri SunExpressE13:40             
+OL,4,T]FManises KLM Royal Dutch AirlinesE13: 
+OL,5,V]DPorto KLM Royal Dutch AirlinesE13:45 
+OL,6,T]FShanghai KLM Royal Dutch AirlinesE13 
+OL,7,V]DCuracao Corendon Dutch AirlinesE14:0 
+OL,8,T]FCairo Transavia E14:00               
+OL,9,V]DLuton easyJet   E14:00               
+OL,10,T]FDubai KLM Royal Dutch AirlinesE14:00 
+OL,11,V]DLas Palmas de Gran Canaria Transavia 
+OL,12,T]FVantaa KLM Royal Dutch AirlinesE14:0 
+OL,13,V]DInverness KLM Royal Dutch AirlinesE1 
+OL,14,T]FZagreb KLM Royal Dutch AirlinesE14:1 
+OL,15,V]DTurin KLM Royal Dutch AirlinesE14:10 
+OL,16,T]FParis Air FranceE14:10               
+OL,17,V]DRiga airBaltic  E14:10               
+OL,18,T]FGeneva easyJet  E14:10               
+OL,19,V]DRome KLM Royal Dutch AirlinesE14:10  
+OL,20,T]FAthens Sky ExpressE14:10             
+OL,21,V]DEdmonton, AB KLM Royal Dutch Airline 
+OL,22,T]FRiga Air Canada E14:10               
+OL,23,V]DRiga Delta Air LinesE14:10           
+FL,0,0,0,0,0,100
+PN,47130
+SC,0030
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DRiga Emirates   E14:10               
+OL,4,T]FRiga KLM Royal Dutch AirlinesE14:10  
+OL,5,V]DRiga KM Malta AirlinesE14:10         
+OL,6,T]FRiga TAROM      E14:10               
+OL,7,V]DRiga TAP PortugalE14:10              
+OL,8,T]FZagreb Delta Air LinesE14:10         
+OL,9,V]DZagreb Croatia AirlinesE14:10        
+OL,10,T]FZagreb SAS      E14:10               
+OL,11,V]DBudapest KLM Royal Dutch AirlinesE14 
+OL,12,T]FMilan KLM Royal Dutch AirlinesE14:15 
+OL,13,V]DTokyo KLM Royal Dutch AirlinesE14:15 
+OL,14,T]FLondon British AirwaysE14:15         
+OL,15,V]DLagos KLM Royal Dutch AirlinesE14:20 
+OL,16,T]FSanta Cruz de Tenerife TransaviaE14: 
+OL,17,V]DBillund KLM Royal Dutch AirlinesE14: 
+OL,18,T]FWarsaw KLM Royal Dutch AirlinesE14:2 
+OL,19,V]DWarsaw LOT - Polish AirlinesE14:20   
+OL,20,T]FBangkok Thai Airways InternationalE1 
+OL,21,V]DOslo KLM Royal Dutch AirlinesE14:20  
+OL,22,T]FAalesund KLM Royal Dutch AirlinesE14 
+OL,23,V]DBarcelona KLM Royal Dutch AirlinesE1 
+FL,0,0,0,0,0,100
+PN,47131
+SC,0031
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DBillund Air FranceE14:20             
+OL,4,T]FBillund Delta Air LinesE14:20        
+OL,5,V]DBillund GOL Linhas Aereas Inteligent 
+OL,6,T]FBillund Kenya AirwaysE14:20          
+OL,7,V]DBillund SAS     E14:20               
+OL,8,T]FSanta Cruz de Tenerife KLM Royal Dut 
+OL,9,V]DSanta Cruz de Tenerife Delta Air Lin 
+OL,10,T]FKuwait City Kuwait AirwaysE14:25     
+OL,11,V]DBilbao KLM Royal Dutch AirlinesE14:2 
+OL,12,T]FNice KLM Royal Dutch AirlinesE14:25  
+OL,13,V]DBerlin KLM Royal Dutch AirlinesE14:2 
+OL,14,T]FTrondheim KLM Royal Dutch AirlinesE1 
+OL,15,V]DBerlin Garuda   E14:25               
+OL,16,T]FBerlin IndiGo   E14:25               
+OL,17,V]DBerlin Saudi Arabian AirlinesE14:25  
+OL,18,T]FBerlin AeromexicoE14:25              
+OL,19,V]DBerlin Delta Air LinesE14:25         
+OL,20,T]FBilbao Delta Air LinesE14:25         
+OL,21,V]DBilbao GOL Linhas Aereas Inteligente 
+OL,22,T]FBilbao Kenya AirwaysE14:25           
+OL,23,V]DBilbao SAS      E14:25               
+FL,0,0,0,0,0,100
+PN,47132
+SC,0032
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DTrondheim Air FranceE14:25           
+OL,4,T]FTrondheim Delta Air LinesE14:25      
+OL,5,V]DTrondheim GOL Linhas Aereas Intelige 
+OL,6,T]FIstanbul Turkish AirlinesE14:29      
+OL,7,V]DIstanbul IndiGo E14:29               
+OL,8,T]FIstanbul IcelandairE14:29            
+OL,9,V]DIstanbul Gulf AirE14:29              
+OL,10,T]FIstanbul Pakistan International Airl 
+OL,11,V]DIstanbul Thai Airways InternationalE 
+OL,12,T]FIstanbul United AirlinesE14:29       
+OL,13,V]DIstanbul flynas E14:29               
+OL,14,T]FToulouse KLM Royal Dutch AirlinesE14 
+OL,15,V]DMexico City KLM Royal Dutch Airlines 
+OL,16,T]FAccra KLM Royal Dutch AirlinesE14:30 
+OL,17,V]DFlorence KLM Royal Dutch AirlinesE14 
+OL,18,T]FMontpellier KLM Royal Dutch Airlines 
+OL,19,V]DToulouse Air FranceE14:30            
+OL,20,T]FToulouse Delta Air LinesE14:30       
+OL,21,V]DToulouse GOL Linhas Aereas Inteligen 
+OL,22,T]FToulouse SAS    E14:30               
+OL,23,V]DFlorence Delta Air LinesE14:30       
+FL,0,0,0,0,0,100
+PN,47133
+SC,0033
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DFlorence GOL Linhas Aereas Inteligen 
+OL,4,T]FAccra Air FranceE14:30               
+OL,5,V]DAccra Delta Air LinesE14:30          
+OL,6,T]FAlicante Vueling AirlinesE14:35      
+OL,7,V]DVienna KLM Royal Dutch AirlinesE14:3 
+OL,8,T]FMarseille KLM Royal Dutch AirlinesE1 
+OL,9,V]DDubai Emirates  E14:40               
+OL,10,T]FRiyadh KLM Royal Dutch AirlinesE14:4 
+OL,11,V]DCopenhagen Norwegian Air Sweden AOCE 
+OL,12,T]FCopenhagen NorwegianE14:40           
+OL,13,V]DBologna KLM Royal Dutch AirlinesE14: 
+OL,14,T]FStockholm KLM Royal Dutch AirlinesE1 
+OL,15,V]DFrankfurt LufthansaE14:45            
+OL,16,T]FEdinburgh easyJetE14:45              
+OL,17,V]DParis Air FranceE14:50               
+OL,18,T]FBarcelona Vueling AirlinesE14:50     
+OL,19,V]DAlicante TransaviaE14:50             
+OL,20,T]FDublin Ryanair  E14:55               
+OL,21,V]DDetroit Delta Air LinesE14:55        
+OL,22,T]FLondon easyJet  E15:00               
+OL,23,V]DHurghada TransaviaE15:05             
+FL,0,0,0,0,0,100
+PN,47134
+SC,0034
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DDoha Qatar AirwaysE15:05             
+OL,4,T]FKrakow KLM Royal Dutch AirlinesE15:0 
+OL,5,V]DGothenburg KLM Royal Dutch AirlinesE 
+OL,6,T]FStavanger KLM Royal Dutch AirlinesE1 
+OL,7,V]DNantes KLM Royal Dutch AirlinesE15:0 
+OL,8,T]FGothenburg IndiGoE15:05              
+OL,9,V]DGothenburg AeromexicoE15:05          
+OL,10,T]FGothenburg Delta Air LinesE15:05     
+OL,11,V]DGothenburg GOL Linhas Aereas Intelig 
+OL,12,T]FHurghada KLM Royal Dutch AirlinesE15 
+OL,13,V]DGeneva KLM Royal Dutch AirlinesE15:1 
+OL,14,T]FVenice KLM Royal Dutch AirlinesE15:1 
+OL,15,V]DBergen KLM Royal Dutch AirlinesE15:1 
+OL,16,T]FVenice AeromexicoE15:10              
+OL,17,V]DVenice Delta Air LinesE15:10         
+OL,18,T]FVenice GOL Linhas Aereas Inteligente 
+OL,19,V]DVenice Garuda   E15:10               
+OL,20,T]FVenice Xiamen AirlinesE15:10         
+OL,21,V]DVenice China Eastern AirlinesE15:10  
+OL,22,T]FLinkoping KLM Royal Dutch AirlinesE1 
+OL,23,V]DCairo Egyptair  E15:15               
+FL,0,0,0,0,0,100
+PN,47135
+SC,0035
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DZurich Swiss    E15:15               
+OL,4,T]FLinkoping Air FranceE15:15           
+OL,5,V]DLinkoping Delta Air LinesE15:15      
+OL,6,T]FLinkoping GOL Linhas Aereas Intelige 
+OL,7,V]DLinkoping SAS   E15:15               
+OL,8,T]FMarrakech TransaviaE15:20            
+OL,9,V]DMunich KLM Royal Dutch AirlinesE15:2 
+OL,10,T]FZurich KLM Royal Dutch AirlinesE15:2 
+OL,11,V]DAmman Royal JordanianE15:20          
+OL,12,T]FCopenhagen KLM Royal Dutch AirlinesE 
+OL,13,V]DMarrakech Delta Air LinesE15:20      
+OL,14,T]FMarrakech KLM Royal Dutch AirlinesE1 
+OL,15,V]DLondon easyJet  E15:30               
+OL,16,T]FAthens TransaviaE15:35               
+OL,17,V]DBordeaux KLM Royal Dutch AirlinesE15 
+OL,18,T]FBordeaux Air FranceE15:35            
+OL,19,V]DBordeaux Delta Air LinesE15:35       
+OL,20,T]FBordeaux GOL Linhas Aereas Inteligen 
+OL,21,V]DBordeaux Kenya AirwaysE15:35         
+OL,22,T]FBordeaux SAS    E15:35               
+OL,23,V]DJeddah Saudi Arabian AirlinesE15:40  
+FL,0,0,0,0,0,100
+PN,47136
+SC,0036
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DManchester easyJetE15:40             
+OL,4,T]FEdinburgh KLM Royal Dutch AirlinesE1 
+OL,5,V]DDublin KLM Royal Dutch AirlinesE15:4 
+OL,6,T]FLondon KLM Royal Dutch AirlinesE15:4 
+OL,7,V]DMadrid Iberia   E15:50               
+OL,8,T]FIstanbul PegasusE15:55               
+OL,9,V]DCork KLM Royal Dutch AirlinesE15:55  
+OL,10,T]FGdansk KLM Royal Dutch AirlinesE15:5 
+OL,11,V]DCork Delta Air LinesE15:55           
+OL,12,T]FLondon British AirwaysE15:59         
+OL,13,V]DGlasgow KLM Royal Dutch AirlinesE16: 
+OL,14,T]FGlasgow IndiGo  E16:00               
+OL,15,V]DGlasgow Air FranceE16:00             
+OL,16,T]FGlasgow AeromexicoE16:00             
+OL,17,V]DGlasgow airBalticE16:00              
+OL,18,T]FGlasgow Delta Air LinesE16:00        
+OL,19,V]DGlasgow GOL Linhas Aereas Inteligent 
+OL,20,T]FGlasgow Kenya AirwaysE16:00          
+OL,21,V]DGlasgow Xiamen AirlinesE16:00        
+OL,22,T]FGlasgow Saudi Arabian AirlinesE16:00 
+OL,23,V]DGlasgow Virgin AtlanticE16:00        
+FL,0,0,0,0,0,100
+PN,47137
+SC,0037
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DAberdeen KLM Royal Dutch AirlinesE16 
+OL,4,T]FMulhouse-Basel KLM Royal Dutch Airli 
+OL,5,V]DMulhouse-Basel Air FranceE16:10      
+OL,6,T]FMulhouse-Basel Delta Air LinesE16:10 
+OL,7,V]DMulhouse-Basel GOL Linhas Aereas Int 
+OL,8,T]FMulhouse-Basel Kenya AirwaysE16:10   
+OL,9,V]DMulhouse-Basel SASE16:10             
+OL,10,T]FCatania TransaviaE16:15              
+OL,11,V]DCatania KLM Royal Dutch AirlinesE16: 
+OL,12,T]FExeter KLM Royal Dutch AirlinesE16:2 
+OL,13,V]DExeter Air FranceE16:20              
+OL,14,T]FExeter Virgin AtlanticE16:20         
+OL,15,V]DBerlin KLM Royal Dutch AirlinesE16:2 
+OL,16,T]FAalborg KLM Royal Dutch AirlinesE16: 
+OL,17,V]DAalborg Delta Air LinesE16:25        
+OL,18,T]FAalborg Kenya AirwaysE16:25          
+OL,19,V]DInnsbruck TransaviaE16:25            
+OL,20,T]FInnsbruck Delta Air LinesE16:25      
+OL,21,V]DInnsbruck KLM Royal Dutch AirlinesE1 
+OL,22,T]FRabat Transavia E16:30               
+OL,23,V]DNewcastle KLM Royal Dutch AirlinesE1 
+FL,0,0,0,0,0,100
+PN,47138
+SC,0038
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DRabat Delta Air LinesE16:30          
+OL,4,T]FRabat KLM Royal Dutch AirlinesE16:30 
+OL,5,V]DBarcelona Vueling AirlinesE16:35     
+OL,6,T]FLeeds KLM Royal Dutch AirlinesE16:35 
+OL,7,V]DBirmingham KLM Royal Dutch AirlinesE 
+OL,8,T]FLeeds Air FranceE16:35               
+OL,9,V]DLeeds Delta Air LinesE16:35          
+OL,10,T]FLeeds GOL Linhas Aereas Inteligentes 
+OL,11,V]DLeeds Kenya AirwaysE16:35            
+OL,12,T]FLeeds Virgin AtlanticE16:35          
+OL,13,V]DStuttgart KLM Royal Dutch AirlinesE1 
+OL,14,T]FIstanbul Ajet   E16:40               
+OL,15,V]DCardiff KLM Royal Dutch AirlinesE16: 
+OL,16,T]FCardiff IndiGo  E16:40               
+OL,17,V]DCardiff Delta Air LinesE16:40        
+OL,18,T]FCardiff GOL Linhas Aereas Inteligent 
+OL,19,V]DCardiff Kenya AirwaysE16:40          
+OL,20,T]FCardiff Virgin AtlanticE16:40        
+OL,21,V]DStuttgart IndiGoE16:40               
+OL,22,T]FStuttgart AeromexicoE16:40           
+OL,23,V]DStuttgart Delta Air LinesE16:40      
+FL,0,0,0,0,0,100
+PN,47139
+SC,0039
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DStuttgart Kenya AirwaysE16:40        
+OL,4,T]FStuttgart China Eastern AirlinesE16: 
+OL,5,V]DStuttgart SAS   E16:40               
+OL,6,T]FNuremberg KLM Royal Dutch AirlinesE1 
+OL,7,V]DNuremberg IndiGoE16:45               
+OL,8,T]FNuremberg AeromexicoE16:45           
+OL,9,V]DNuremberg Delta Air LinesE16:45      
+OL,10,T]FNuremberg China Eastern AirlinesE16: 
+OL,11,V]DNuremberg SAS   E16:45               
+OL,12,T]FVilnius airBalticE16:45              
+OL,13,V]DVilnius Air CanadaE16:45             
+OL,14,T]FVilnius Delta Air LinesE16:45        
+OL,15,V]DVilnius EmiratesE16:45               
+OL,16,T]FVilnius KLM Royal Dutch AirlinesE16: 
+OL,17,V]DVilnius TAROM   E16:45               
+OL,18,T]FVilnius TAP PortugalE16:45           
+OL,19,V]DEastleigh near Southampton KLM Royal 
+OL,20,T]FEastleigh near Southampton Delta Air 
+OL,21,V]DEastleigh near Southampton Kenya Air 
+OL,22,T]FEastleigh near Southampton Virgin At 
+OL,23,V]DMinneapolis KLM Royal Dutch Airlines 
+FL,0,0,0,0,0,100
+PN,47140
+SC,0040
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DMinneapolis Air FranceE16:49         
+OL,4,T]FMinneapolis Delta Air LinesE16:49    
+OL,5,V]DMinneapolis Virgin AtlanticE16:49    
+OL,6,T]FHannover KLM Royal Dutch AirlinesE16 
+OL,7,V]DBarcelona KLM Royal Dutch AirlinesE1 
+OL,8,T]FFrankfurt KLM Royal Dutch AirlinesE1 
+OL,9,V]DHannover IndiGo E16:50               
+OL,10,T]FHannover AeromexicoE16:50            
+OL,11,V]DHannover Delta Air LinesE16:50       
+OL,12,T]FHannover China Eastern AirlinesE16:5 
+OL,13,V]DHannover SAS    E16:50               
+OL,14,T]FLuxembourg KLM Royal Dutch AirlinesE 
+OL,15,V]DLuxembourg Delta Air LinesE16:50     
+OL,16,T]FLuxembourg Kenya AirwaysE16:50       
+OL,17,V]DLuxembourg Air EuropaE16:50          
+OL,18,T]FBangkok KLM Royal Dutch AirlinesE16: 
+OL,19,V]DBremen KLM Royal Dutch AirlinesE16:5 
+OL,20,T]FBremen Air FranceE16:55              
+OL,21,V]DBremen AeromexicoE16:55              
+OL,22,T]FBremen Delta Air LinesE16:55         
+OL,23,V]DBremen Kenya AirwaysE16:55           
+FL,0,0,0,0,0,100
+PN,47141
+SC,0041
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DBremen SAS      E16:55               
+OL,4,T]FBillund KLM Royal Dutch AirlinesE16: 
+OL,5,V]DBillund Air FranceE16:55             
+OL,6,T]FBillund Delta Air LinesE16:55        
+OL,7,V]DBillund GOL Linhas Aereas Inteligent 
+OL,8,T]FBillund Kenya AirwaysE16:55          
+OL,9,V]DBillund SAS     E16:55               
+OL,10,T]FBillund GOL Linhas Aereas Inteligent 
+OL,11,V]DMadrid KLM Royal Dutch AirlinesE17:0 
+OL,12,T]FHamburg KLM Royal Dutch AirlinesE17: 
+OL,13,V]DHamburg IndiGo  E17:03               
+OL,14,T]FHamburg AeromexicoE17:03             
+OL,15,V]DNew York KLM Royal Dutch AirlinesE17 
+OL,16,T]FDusseldorf KLM Royal Dutch AirlinesE 
+OL,17,V]DTeesside, Durham KLM Royal Dutch Air 
+OL,18,T]FTeesside, Durham Air FranceE17:15    
+OL,19,V]DTeesside, Durham Delta Air LinesE17: 
+OL,20,T]FTeesside, Durham GOL Linhas Aereas I 
+OL,21,V]DTeesside, Durham Kenya AirwaysE17:15 
+OL,22,T]FTeesside, Durham Virgin AtlanticE17: 
+OL,23,V]DSevilla TransaviaE17:20              
+FL,0,0,0,0,0,100
+PN,47142
+SC,0042
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DLondon KLM Royal Dutch AirlinesE17:2 
+OL,4,T]FLondon Kenya AirwaysE17:20           
+OL,5,V]DLondon Virgin AtlanticE17:20         
+OL,6,T]FVienna Austrian E17:30               
+OL,7,V]DManises TransaviaE17:35              
+OL,8,T]FBari Transavia  E17:40               
+OL,9,V]DMunich LufthansaE17:45               
+OL,10,T]FMunich KLM Royal Dutch AirlinesE17:5 
+OL,11,V]DRome ITA AirwaysE17:55               
+OL,12,T]FIstanbul MNG AirlinesE18:00          
+OL,13,V]DParis KLM Royal Dutch AirlinesE18:05 
+OL,14,T]FSouthend-on-Sea easyJetE18:10        
+OL,15,V]DLondon British AirwaysE18:14         
+OL,16,T]FLondon KLM Royal Dutch AirlinesE18:2 
+OL,17,V]DLondon Kenya AirwaysE18:25           
+OL,18,T]FLondon Virgin AtlanticE18:25         
+OL,19,V]DIstanbul Turkish AirlinesE18:30      
+OL,20,T]FFrankfurt LufthansaE18:40            
+OL,21,V]DMadrid Air EuropaE19:00              
+OL,22,T]FGlasgow easyJet E19:04               
+OL,23,V]DLondon easyJet  E19:05               
+FL,0,0,0,0,0,100
+PN,47143
+SC,0043
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DBarcelona Vueling AirlinesE19:15     
+OL,4,T]FRiga airBaltic  E19:25               
+OL,5,V]DRiga Air India  E19:25               
+OL,6,T]FRiga Iberia     E19:25               
+OL,7,V]DRiga KLM Royal Dutch AirlinesE19:25  
+OL,8,T]FRiga TAROM      E19:25               
+OL,9,V]DLondon KLM Royal Dutch AirlinesE19:3 
+OL,10,T]FLondon Kenya AirwaysE19:30           
+OL,11,V]DLondon Virgin AtlanticE19:30         
+OL,12,T]FAbu Dhabi EtihadE19:35               
+OL,13,V]DNairobi Kenya AirwaysE19:35          
+OL,14,T]FParis Air FranceE19:35               
+OL,15,V]DNairobi Delta Air LinesE19:35        
+OL,16,T]FNairobi KLM Royal Dutch AirlinesE19: 
+OL,17,V]DNairobi China Eastern AirlinesE19:35 
+OL,18,T]FNairobi Air EuropaE19:35             
+OL,19,V]DManchester KLM Royal Dutch AirlinesE 
+OL,20,T]FNador Air Arabia MarocE19:45         
+OL,21,V]DMunich LufthansaE19:55               
+OL,22,T]FReykjavik IcelandairE20:20           
+OL,23,V]DNew Delhi Air IndiaE20:35            
+FL,0,0,0,0,0,100
+PN,47144
+SC,0044
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DLondon easyJet  E20:35               
+OL,4,T]FToulouse KLM Royal Dutch AirlinesE20 
+OL,5,V]DVenice KLM Royal Dutch AirlinesE20:4 
+OL,6,T]FSingapore KLM Royal Dutch AirlinesE2 
+OL,7,V]DNantes KLM Royal Dutch AirlinesE20:4 
+OL,8,T]FMulhouse-Basel KLM Royal Dutch Airli 
+OL,9,V]DMulhouse-Basel Air FranceE20:45      
+OL,10,T]FMulhouse-Basel GOL Linhas Aereas Int 
+OL,11,V]DMulhouse-Basel Kenya AirwaysE20:45   
+OL,12,T]FMulhouse-Basel China Eastern Airline 
+OL,13,V]DMulhouse-Basel SASE20:45             
+OL,14,T]FBucharest KLM Royal Dutch AirlinesE2 
+OL,15,V]DMunich KLM Royal Dutch AirlinesE20:5 
+OL,16,T]FHamburg KLM Royal Dutch AirlinesE20: 
+OL,17,V]DBilbao KLM Royal Dutch AirlinesE20:5 
+OL,18,T]FBarcelona KLM Royal Dutch AirlinesE2 
+OL,19,V]DVantaa KLM Royal Dutch AirlinesE20:5 
+OL,20,T]FFlorence KLM Royal Dutch AirlinesE20 
+OL,21,V]DFlorence Kenya AirwaysE20:55         
+OL,22,T]FFlorence China Eastern AirlinesE20:5 
+OL,23,V]DGothenburg KLM Royal Dutch AirlinesE 
+FL,0,0,0,0,0,100
+PN,47145
+SC,0045
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DGothenburg IndiGoE20:55              
+OL,4,T]FGothenburg AeromexicoE20:55          
+OL,5,V]DGothenburg Kenya AirwaysE20:55       
+OL,6,T]FPrague KLM Royal Dutch AirlinesE20:5 
+OL,7,V]DPrague IndiGo   E20:55               
+OL,8,T]FPrague AeromexicoE20:55              
+OL,9,V]DPrague Kenya AirwaysE20:55           
+OL,10,T]FBerlin KLM Royal Dutch AirlinesE21:0 
+OL,11,V]DTrondheim KLM Royal Dutch AirlinesE2 
+OL,12,T]FTrondheim Kenya AirwaysE21:00        
+OL,13,V]DLinkoping KLM Royal Dutch AirlinesE2 
+OL,14,T]FLinkoping Air FranceE21:00           
+OL,15,V]DLinkoping Kenya AirwaysE21:00        
+OL,16,T]FLinkoping SAS   E21:00               
+OL,17,V]DVienna KLM Royal Dutch AirlinesE21:0 
+OL,18,T]FBirmingham KLM Royal Dutch AirlinesE 
+OL,19,V]DZurich KLM Royal Dutch AirlinesE21:0 
+OL,20,T]FMadrid KLM Royal Dutch AirlinesE21:0 
+OL,21,V]DHannover KLM Royal Dutch AirlinesE21 
+OL,22,T]FBremen KLM Royal Dutch AirlinesE21:1 
+OL,23,V]DHannover IndiGo E21:10               
+FL,0,0,0,0,0,100
+PN,47146
+SC,0046
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DHannover AeromexicoE21:10            
+OL,4,T]FHannover China Eastern AirlinesE21:1 
+OL,5,V]DHannover SAS    E21:10               
+OL,6,T]FZagreb KLM Royal Dutch AirlinesE21:1 
+OL,7,V]DZagreb Delta Air LinesE21:10         
+OL,8,T]FZagreb SAS      E21:10               
+OL,9,V]DBologna KLM Royal Dutch AirlinesE21: 
+OL,10,T]FDusseldorf KLM Royal Dutch AirlinesE 
+OL,11,V]DStuttgart KLM Royal Dutch AirlinesE2 
+OL,12,T]FLondon easyJet  E21:20               
+OL,13,V]DStuttgart IndiGoE21:20               
+OL,14,T]FStuttgart AeromexicoE21:20           
+OL,15,V]DStuttgart Kenya AirwaysE21:20        
+OL,16,T]FStuttgart China Eastern AirlinesE21: 
+OL,17,V]DStuttgart SAS   E21:20               
+OL,18,T]FBelfast easyJet E21:24               
+OL,19,V]DStockholm SAS   E21:25               
+OL,20,T]FTeesside, Durham KLM Royal Dutch Air 
+OL,21,V]DTeesside, Durham Air FranceE21:25    
+OL,22,T]FTeesside, Durham GOL Linhas Aereas I 
+OL,23,V]DTeesside, Durham Kenya AirwaysE21:25 
+FL,0,0,0,0,0,100
+PN,47147
+SC,0047
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DTeesside, Durham Virgin AtlanticE21: 
+OL,4,T]FAbu Dhabi EtihadE21:29               
+OL,5,V]DWarsaw KLM Royal Dutch AirlinesE21:3 
+OL,6,T]FBillund KLM Royal Dutch AirlinesE21: 
+OL,7,V]DBarcelona Vueling AirlinesE21:40     
+OL,8,T]FBrussels KLM Royal Dutch AirlinesE21 
+OL,9,V]DManchester easyJetE21:40             
+OL,10,T]FDublin KLM Royal Dutch AirlinesE21:4 
+OL,11,V]DDubai Emirates  E21:45               
+OL,12,T]FBuenos Aires KLM Royal Dutch Airline 
+OL,13,V]DDoha Qatar AirwaysE21:50             
+OL,14,T]FMexico City AeromexicoE22:00         
+OL,15,V]DBristol KLM Royal Dutch AirlinesE22: 
+OL,16,T]FSouthend-on-Sea easyJetE22:05        
+OL,17,V]DIstanbul Turkish AirlinesE22:30      
+OL,18,T]FCork KLM Royal Dutch AirlinesE22:40  
+OL,19,V]DLeeds KLM Royal Dutch AirlinesE22:40 
+OL,20,T]FLeeds Air FranceE22:40               
+OL,21,V]DLeeds GOL Linhas Aereas Inteligentes 
+OL,22,T]FLeeds Kenya AirwaysE22:40            
+OL,23,V]DLeeds China Eastern AirlinesE22:40   
+FL,0,0,0,0,0,100
+PN,47148
+SC,0048
+PS,C200
+CT,25,T
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
+OL,1,T]G SCHIPHOL VERTREKKEN/DEPARTURES 1/5  
+OL,2,T]G                                     
+OL,3,V]DLeeds Virgin AtlanticE22:40          
+OL,4,T]FCork Delta Air LinesE22:40           
+OL,5,V                                       
+OL,6,T                                       
+OL,7,V                                       
+OL,8,T                                       
+OL,9,V                                       
+OL,10,T                                       
+OL,11,V                                       
 OL,12,T                                       
 OL,13,V                                       
 OL,14,T                                       
@@ -144,206 +1391,61 @@ OL,21,V
 OL,22,T                                       
 OL,23,V                                       
 FL,0,0,0,0,0,100
-PN,47106
-SC,0006
+PN,47149
+SC,0049
 PS,C200
 CT,25,T
-OL,0,          G471BBMN1Gza 21.11.26 07:51:04
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
 OL,1,T]G SCHIPHOL AANKOMSTEN/ARRIVALS   1/5  
 OL,2,T]G                                     
-OL,3,V]DLos Angeles Martinair HollandE07:06  
-OL,4,T]FPortland KLM Royal Dutch AirlinesE07 
-OL,5,V]DHouston KLM Royal Dutch AirlinesE07: 
-OL,6,T]FHouston Air FranceE07:08             
-OL,7,V]DHouston Delta Air LinesE07:08        
-OL,8,T]FHouston Virgin AtlanticE07:08        
-OL,9,V]DPanama City Qatar AirwaysE07:52      
-OL,10,T]FMiami KLM Royal Dutch AirlinesE07:35 
-OL,11,V]DMiami Air FranceE07:35               
-OL,12,T]FMiami Delta Air LinesE07:35          
-OL,13,V]DMiami Virgin AtlanticE07:35          
-OL,14,T]FAtlanta Delta Air LinesE07:35        
-OL,15,V]DAtlanta Air FranceE07:35             
-OL,16,T]FAtlanta KLM Royal Dutch AirlinesE07: 
-OL,17,V]DAtlanta Saudi Arabian AirlinesE07:35 
-OL,18,T]FAtlanta Virgin AtlanticE07:35        
-OL,19,V]DToronto KLM Royal Dutch AirlinesE07: 
-OL,20,T]FToronto Air FranceE07:05             
-OL,21,V]DToronto Delta Air LinesE07:05        
-OL,22,T]FToronto Virgin AtlanticE07:05        
-OL,23,V]DNewark United AirlinesE07:15         
+OL,3,V]DMumbai KLM Royal Dutch AirlinesE07:4 
+OL,4,T]FNairobi Cargolux Airlines Internatio 
+OL,5,V]DAbu Dhabi EtihadE06:52               
+OL,6,T]FGuangzhou China Southern AirlinesE07 
+OL,7,V]DGuangzhou China Southern AirlinesE07 
+OL,8,T]FDubai Emirates  E07:42               
+OL,9,V]DDubai IcelandairE07:42               
+OL,10,T]FDubai Qantas AirwaysE07:42           
+OL,11,V]DDoha Qatar AirwaysE08:15             
+OL,12,T]FNew Delhi KLM Royal Dutch AirlinesE0 
+OL,13,V]DNew Delhi Air FranceE07:57           
+OL,14,T]FNew Delhi Delta Air LinesE07:57      
+OL,15,V]DDoha Qatar AirwaysE08:20             
+OL,16,T]FNairobi Cargolux Airlines Internatio 
+OL,17,V]DShanghai China Southern AirlinesE08: 
+OL,18,T]FChengdu Air ChinaE07:31              
+OL,19,V]DBucharest KLM Royal Dutch AirlinesE0 
+OL,20,T]FBucharest Air FranceE06:17           
+OL,21,V]DBucharest Delta Air LinesE06:17      
+OL,22,T]FBucharest Kenya AirwaysE06:17        
+OL,23,V]DBucharest EL AL E06:17               
 FL,0,0,0,0,0,100
-PN,47107
-SC,0007
+PN,47150
+SC,0050
 PS,C200
 CT,25,T
-OL,0,          G471BBMN1Gza 21.11.26 07:51:04
+OL,0,          G471BBMN1Gzo 22.11.26 02:55:07
 OL,1,T]G SCHIPHOL AANKOMSTEN/ARRIVALS   1/5  
 OL,2,T]G                                     
-OL,3,V]DNewark Air CanadaE07:15              
-OL,4,T]FNewark LufthansaE07:15               
-OL,5,V]DNewark Swiss    E07:15               
-OL,6,T]FNewark Austrian E07:15               
-OL,7,V]DWashington DC KLM Royal Dutch Airlin 
-OL,8,T]FWashington DC Air FranceE07:35       
-OL,9,V]DWashington DC Delta Air LinesE07:35  
-OL,10,T]FWashington DC Virgin AtlanticE07:35  
-OL,11,V]DNairobi KLM Royal Dutch AirlinesE06: 
-OL,12,T]FNairobi Air FranceE06:41             
-OL,13,V]DNairobi Delta Air LinesE06:41        
-OL,14,T]FNairobi SAS     E06:41               
-OL,15,V]DDar es Salaam KLM Royal Dutch Airlin 
-OL,16,T]FTaipei China AirlinesE07:50          
-OL,17,V]DTaipei KLM Royal Dutch AirlinesE07:5 
-OL,18,T]FTaipei Air EuropaE07:50              
-OL,19,V]DMumbai KLM Royal Dutch AirlinesE07:2 
-OL,20,T]FMumbai Air FranceE07:23              
-OL,21,V]DMumbai Delta Air LinesE07:23         
-OL,22,T]FAbu Dhabi EtihadE06:52               
-OL,23,V]DDubai Emirates  E07:50               
-FL,0,0,0,0,0,100
-PN,47108
-SC,0008
-PS,C200
-CT,25,T
-OL,0,          G471BBMN1Gza 21.11.26 07:51:04
-OL,1,T]G SCHIPHOL AANKOMSTEN/ARRIVALS   1/5  
-OL,2,T]G                                     
-OL,3,V]DDubai IcelandairE07:50               
-OL,4,T]FDubai Qantas AirwaysE07:50           
-OL,5,V]DJeddah Saudi Arabian AirlinesE07:50  
-OL,6,T]FIstanbul Turkish AirlinesE07:00      
-OL,7,V]DTeesside, Durham KLM Royal Dutch Air 
-OL,8,T]FBillund KLM Royal Dutch AirlinesE07: 
-OL,9,V]DBillund Air FranceE07:20             
-OL,10,T]FBillund Delta Air LinesE07:20        
-OL,11,V]DBillund GOL Linhas Aereas Inteligent 
-OL,12,T]FBillund SAS     E07:20               
-OL,13,V]DMulhouse-Basel KLM Royal Dutch Airli 
-OL,14,T]FMulhouse-Basel Air FranceE07:30      
-OL,15,V]DMulhouse-Basel Delta Air LinesE07:30 
-OL,16,T]FMulhouse-Basel GOL Linhas Aereas Int 
-OL,17,V]DMulhouse-Basel Kenya AirwaysE07:30   
-OL,18,T]FMulhouse-Basel SASE07:30             
-OL,19,V]DAalborg KLM Royal Dutch AirlinesE07: 
-OL,20,T]FAalborg Air FranceE07:30             
-OL,21,V]DAalborg Delta Air LinesE07:30        
-OL,22,T]FAalborg GOL Linhas Aereas Inteligent 
-OL,23,V]DAalborg Kenya AirwaysE07:30          
-FL,0,0,0,0,0,100
-PN,47109
-SC,0009
-PS,C200
-CT,25,T
-OL,0,          G471BBMN1Gza 21.11.26 07:51:04
-OL,1,T]G SCHIPHOL AANKOMSTEN/ARRIVALS   1/5  
-OL,2,T]G                                     
-OL,3,V]DGothenburg KLM Royal Dutch AirlinesE 
-OL,4,T]FPrague KLM Royal Dutch AirlinesE07:3 
-OL,5,V]DGothenburg IndiGoE07:35              
-OL,6,T]FGothenburg AeromexicoE07:35          
-OL,7,V]DGothenburg Delta Air LinesE07:35     
-OL,8,T]FPrague IndiGo   E07:35               
-OL,9,V]DPrague AeromexicoE07:35              
-OL,10,T]FPrague China AirlinesE07:35          
-OL,11,V]DPrague Delta Air LinesE07:35         
-OL,12,T]FStavanger KLM Royal Dutch AirlinesE0 
-OL,13,V]DBordeaux KLM Royal Dutch AirlinesE07 
-OL,14,T]FBordeaux Air FranceE07:45            
-OL,15,V]DBordeaux Delta Air LinesE07:45       
-OL,16,T]FBordeaux GOL Linhas Aereas Inteligen 
-OL,17,V]DBordeaux Kenya AirwaysE07:45         
-OL,18,T]FBordeaux SAS    E07:45               
-OL,19,V]DBergen KLM Royal Dutch AirlinesE07:4 
-OL,20,T]FLinkoping KLM Royal Dutch AirlinesE0 
-OL,21,V]DLinkoping Air FranceE07:50           
-OL,22,T]FLinkoping Delta Air LinesE07:50      
-OL,23,V]DLinkoping GOL Linhas Aereas Intelige 
-FL,0,0,0,0,0,100
-PN,47110
-SC,0010
-PS,C200
-CT,25,T
-OL,0,          G471BBMN1Gza 21.11.26 07:51:04
-OL,1,T]G SCHIPHOL AANKOMSTEN/ARRIVALS   1/5  
-OL,2,T]G                                     
-OL,3,V]DLinkoping Kenya AirwaysE07:50        
-OL,4,T]FLinkoping SAS   E07:50               
-OL,5,V]DLuxembourg KLM Royal Dutch AirlinesE 
-OL,6,T]FLuxembourg Delta Air LinesE07:15     
-OL,7,V]DLuxembourg Air EuropaE07:15          
-OL,8,T]FStuttgart KLM Royal Dutch AirlinesE0 
-OL,9,V]DStuttgart IndiGoE07:30               
-OL,10,T]FStuttgart AeromexicoE07:30           
-OL,11,V]DStuttgart Delta Air LinesE07:30      
-OL,12,T]FStuttgart SAS   E07:30               
-OL,13,V]DNantes KLM Royal Dutch AirlinesE07:4 
-OL,14,T]FNantes Air FranceE07:40              
-OL,15,V]DNantes Delta Air LinesE07:40         
-OL,16,T]FBordeaux KLM CityhopperE07:45        
-OL,17,V]DWroclaw KLM Royal Dutch AirlinesE07: 
-OL,18,T]FCopenhagen KLM Royal Dutch AirlinesE 
-OL,19,V]DCopenhagen IndiGoE07:30              
-OL,20,T]FCopenhagen AeromexicoE07:30          
-OL,21,V]DCopenhagen Delta Air LinesE07:30     
-OL,22,T]FCopenhagen GOL Linhas Aereas Intelig 
-OL,23,V]DCopenhagen GarudaE07:30              
-FL,0,0,0,0,0,100
-PN,47111
-SC,0011
-PS,C200
-CT,25,T
-OL,0,          G471BBMN1Gza 21.11.26 07:51:04
-OL,1,T]G SCHIPHOL AANKOMSTEN/ARRIVALS   1/5  
-OL,2,T]G                                     
-OL,3,V]DCopenhagen Xiamen AirlinesE07:30     
-OL,4,T]FCopenhagen TAROME07:30               
-OL,5,V]DCopenhagen SAS  E07:30               
-OL,6,T]FBerlin KLM Royal Dutch AirlinesE07:1 
-OL,7,V]DBerlin IndiGo   E07:13               
-OL,8,T]FBerlin AeromexicoE07:13              
-OL,9,V]DBerlin Delta Air LinesE07:13         
-OL,10,T]FBerlin Garuda   E07:13               
-OL,11,V]DBerlin Xiamen AirlinesE07:13         
-OL,12,T]FBerlin Air EuropaE07:13              
-OL,13,V]DBremen KLM Royal Dutch AirlinesE07:1 
-OL,14,T]FBremen Air FranceE07:15              
-OL,15,V]DBremen AeromexicoE07:15              
-OL,16,T]FBremen Delta Air LinesE07:15         
-OL,17,V]DBremen SAS      E07:15               
-OL,18,T]FHannover KLM Royal Dutch AirlinesE06 
-OL,19,V]DHannover IndiGo E06:59               
-OL,20,T]FHannover AeromexicoE06:59            
-OL,21,V]DHannover Delta Air LinesE06:59       
-OL,22,T]FHannover China Eastern AirlinesE06:5 
-OL,23,V]DHannover SAS    E06:59               
-FL,0,0,0,0,0,100
-PN,47112
-SC,0012
-PS,C200
-CT,25,T
-OL,0,          G471BBMN1Gza 21.11.26 07:51:04
-OL,1,T]G SCHIPHOL AANKOMSTEN/ARRIVALS   1/5  
-OL,2,T]G                                     
-OL,3,V]DHamburg KLM Royal Dutch AirlinesE07: 
-OL,4,T]FHamburg IndiGo  E07:15               
-OL,5,V]DHamburg AeromexicoE07:15             
-OL,6,T]FHamburg Delta Air LinesE07:15        
-OL,7,V]DHamburg Air EuropaE07:15             
-OL,8,T]FBrussels KLM Royal Dutch AirlinesE07 
-OL,9,V]DBrussels IndiGo E07:15               
-OL,10,T]FBrussels AeromexicoE07:15            
-OL,11,V]DBrussels Delta Air LinesE07:15       
-OL,12,T]FBrussels Kenya AirwaysE07:15         
-OL,13,V]DBrussels Xiamen AirlinesE07:15       
-OL,14,T]FDusseldorf KLM Royal Dutch AirlinesE 
-OL,15,V]DDusseldorf IndiGoE07:15              
-OL,16,T]FDusseldorf AeromexicoE07:15          
-OL,17,V]DDusseldorf Delta Air LinesE07:15     
-OL,18,T]FDusseldorf Xiamen AirlinesE07:15     
-OL,19,V                                       
-OL,20,T                                       
-OL,21,V                                       
-OL,22,T                                       
-OL,23,V                                       
+OL,3,V]DPorto KLM Royal Dutch AirlinesE08:32 
+OL,4,T]FPorto Delta Air LinesE08:32          
+OL,5,V]DPorto GOL Linhas Aereas Inteligentes 
+OL,6,T]FPorto SAS       E08:32               
+OL,7,V]DPorto Saudi Arabian AirlinesE08:32   
+OL,8,T]FLisbon KLM Royal Dutch AirlinesE08:5 
+OL,9,V]DLisbon IndiGo   E08:52               
+OL,10,T]FLisbon AeromexicoE08:52              
+OL,11,V]DLisbon Delta Air LinesE08:52         
+OL,12,T]FLisbon Kenya AirwaysE08:52           
+OL,13,V]DLisbon TAROM    E08:52               
+OL,14,T]FLisbon Saudi Arabian AirlinesE08:52  
+OL,15,V]DShanghai Air ChinaE10:10             
+OL,16,T]FTeesside, Durham KLM Royal Dutch Air 
+OL,17,V]DTeesside, Durham Air FranceE07:47    
+OL,18,T]FTeesside, Durham Delta Air LinesE07: 
+OL,19,V]DTeesside, Durham GOL Linhas Aereas I 
+OL,20,T]FTeesside, Durham Virgin AtlanticE07: 
+OL,21,V]DEdinburgh KLM Royal Dutch AirlinesE0 
+OL,22,T]FBangkok Thai Airways InternationalE1 
+OL,23,V]DDublin KLM Royal Dutch AirlinesE08:1 
 FL,0,0,0,0,0,100

@@ -3,27 +3,27 @@ PN,56601
 SC,0001
 PS,C200
 CT,10,T
-OL,0,     G566 WDR Text GSa 21.11.26 15:32:07
+OL,0,     G566 WDR Text GSo 22.11.26 05:26:36
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DWEEZE          ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 15:30            
+OL,4,                 STAND 05:08            
 OL,6,CZEIT  FLUGNR. VON       ERWARTET BEMERK
-OL,7,B15:10 FR 5560 ESSAOUIRA    14:57 geland
-OL,8, 15:50 FR 2125 ZAGREB       15:35 erwart
-OL,9,B16:00 FR 7563 TENERIFFA-SU 15:55 erwart
-OL,10, 16:10 FR 1817 RABAT        15:55 erwart
-OL,11,B17:15 FR 5780 FARO                     
-OL,12, 19:30 FR 4987 AGADIR                   
-OL,13,B22:25 FR 8333 TIRANA                   
-OL,14, 22:40 FR 1821 TANGER                   
-OL,15,B22:45 FR 6213 ALICANTE                 
-OL,16, 22:45 FR 6358 NADOR                    
-OL,17,B22:55 FR 7561 MARRAKESCH               
-OL,18, 10:40 FR 1817 RABAT              Morgen
-OL,19,B11:35 FR 7525 BARI               Morgen
-OL,20, 12:25 FR 6213 ALICANTE           Morgen
-OL,21,B12:55 FR 9644 LANZAROTE -        Morgen
+OL,7,B10:40 FR 1817 RABAT                    
+OL,8, 11:35 FR 7525 BARI                     
+OL,9,B12:25 FR 6213 ALICANTE                 
+OL,10, 12:55 FR 9644 LANZAROTE -              
+OL,11,B13:00 FR 5488 PORTO                    
+OL,12, 14:10 FR 6358 NADOR                    
+OL,13,B15:20 FR 2125 ZAGREB                   
+OL,14, 15:30 FR 9643 FUERTEVENTUR             
+OL,15,B16:10 FR 5687 EDINBURGH                
+OL,16, 19:05 FR 5526 PORTO                    
+OL,17,B20:40 FR 7563 TENERIFFA-SU             
+OL,18, 22:25 FR 3879 PAPHOS                   
+OL,19,B22:30 FR 8524 ALICANTE                 
+OL,20, 22:55 FR 2357 OUJDA                    
+OL,21,B22:55 FR 7561 MARRAKESCH               
 OL,23,]D559 < ]bersicht       WEZ Abflug > 558
 OL,24,A]G- 565B]G+ 567C]DWeeze \        G(1/2)
 FL,565,567,0,0,0,100
@@ -31,17 +31,17 @@ PN,56602
 SC,0002
 PS,C200
 CT,10,T
-OL,0,     G566 WDR Text GSa 21.11.26 15:32:07
+OL,0,     G566 WDR Text GSo 22.11.26 05:26:36
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DWEEZE          ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 15:30            
+OL,4,                 STAND 05:08            
 OL,6,CZEIT  FLUGNR. VON       ERWARTET BEMERK
-OL,7,B13:00 FR 5488 PORTO              Morgen
-OL,8, 14:10 FR 6358 NADOR              Morgen
-OL,9,B15:20 FR 2125 ZAGREB             Morgen
-OL,10, 15:30 FR 9643 FUERTEVENTUR       Morgen
-OL,11,B16:10 FR 5687 EDINBURGH          Morgen
+OL,7,B22:55 FR 8613 MALAGA                   
+OL,8, 11:00 FR 7561 MARRAKESCH         Morgen
+OL,9,B11:05 FR 5780 FARO               Morgen
+OL,10, 12:05 FR 5488 PORTO              Morgen
+OL,11,B12:20 FR 6213 ALICANTE           Morgen
 OL,23,]D559 < ]bersicht       WEZ Abflug > 558
 OL,24,A]G- 565B]G+ 567C]DWeeze \        G(2/2)
 FL,565,567,0,0,0,100

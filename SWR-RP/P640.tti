@@ -1,9 +1,9 @@
 DE,SWR-RP 640
-PN,64000
-SC,0000
-PS,8208
+PN,64001
+SC,0001
+PS,C200
 CT,10,T
-OL,0,       BSWR RLPC   Sa, 21.11.26G13:18:35
+OL,0,       BSWR RLPC   So, 22.11.26G07:24:56
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -13,5 +13,38 @@ OL,13,FRottweil, Schwarzwald-Baar-Kreis
 OL,14,FTuttlingen                             
 OL,16, Es tritt leichter Frost bis -2 `C auf. 
 OL,23,D]GQuelle:DWD  Stand:12:31  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64002
+SC,0002
+PS,C200
+CT,10,T
+OL,0,       BSWR RLPC   So, 22.11.26G07:24:56
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor GL[TTE                     
+OL,11, G}ltig: So 00:00 bis So 09:00          
+OL,13,FRottweil, Schwarzwald-Baar-Kreis       
+OL,14,FTuttlingen                             
+OL,16, Es besteht Gl{ttegefahr.               
+OL,23,D]GQuelle:DWD  Stand:22:36  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64003
+SC,0003
+PS,C200
+CT,10,T
+OL,0,       BSWR RLPC   So, 22.11.26G07:24:56
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor LEICHTEM SCHNEEFALL        
+OL,11, G}ltig: So 11:00 bis Mo 20:00          
+OL,13,FSchwarzwald-Baar-Kreis                 
+OL,15, Es tritt im Warnzeitraum oberhalb 1000 
+OL,16, m leichter Schneefall mit Mengen bis 15
+OL,17, cm auf. Verbreitet wird es glatt.      
+OL,23,D]GQuelle:DWD  Stand:06:56  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

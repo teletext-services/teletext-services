@@ -3,36 +3,132 @@ PN,39501
 SC,0001
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 395  L|r 21 novC09:06:12
+OL,0,      GSVT Text 395  S|n 22 novC00:08:29
 OL,1,D]G             M]LSERVICE              
 OL,3,BInnebandy SSL                          
-OL,4,GLink|ping    - AIK          X - XB15:00
-OL,5,C(X-X,X-X,X-X)                          
-OL,7,GWarberg      - Kalmarsund   X - XB15:00
-OL,8,C(X-X,X-X,X-X)                          
-OL,10,GNykvarn      - Pixbo        X - XB18:00
-OL,11,C(X-X,X-X,X-X)                          
-OL,13,BInnebandy SSL damer                    
-OL,14,GKarlstad     - Storvreta IB X - XB14:00
-OL,15,C(X-X,X-X,X-X)                          
-OL,17,GT{by         - Kalmarsund   X - XB15:30
-OL,18,C(X-X,X-X,X-X)                          
-OL,20,GR|nnby       - Malm|        X - XB16:00
-OL,21,C(X-X,X-X,X-X)                          
+OL,4,FLink|ping        - AIK              5-7
+OL,5,C(1-2,1-0,3-5)                          
+OL,6,CAldeeb 12.51       Eriksson 13.04      
+OL,7,CPalm`n 26.12       Abrahamsson 17.12   
+OL,8,CHovlund 49.42      Abrahamsson 40.26   
+OL,9,CPuncochar 53.34    ]berg 46.57         
+OL,10,CHovlund 59.55      Abrahamsson 54.05   
+OL,11,                   CSteffansson 55.00   
+OL,12,                   CBj|rk 59.02         
+OL,14,FWarberg          - Kalmarsund       3-2
+OL,15,C(1-0,2-1,0-1)                          
+OL,16,CAsp 3.01           Wettergren 26.07    
+OL,17,CErheden 22.43      Wettergren 56.44    
+OL,18,CAsp 38.37                              
 OL,23,D]G M}lserviceindex 376 * Resultat 330  
-OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
+OL,24,ANyheter BSport CV{der FInneh}llG  (1/6)
 FL,100,300,400,700,0,100
 PN,39502
 SC,0002
 PS,C100
 CT,10,T
-OL,0,      GSVT Text 395  L|r 21 novC09:06:12
+OL,0,      GSVT Text 395  S|n 22 novC00:08:29
+OL,1,D]G             M]LSERVICE              
+OL,3,BInnebandy SSL                          
+OL,4,FNykvarn         - Pixbo          5-4 es
+OL,5,C(2-1,2-1,0-2,0-0,1-0)                  
+OL,6,CT|rngren 6.07      Nestorsson 0.29     
+OL,7,CDakhallah 10.33    Heins 34.02         
+OL,8,CIsberg 26.55       Kalentun 47.45      
+OL,9,CAhr`n 38.25        [se 58.29           
+OL,10,CKilpi 65.01 str                        
+OL,12,BInnebandy SSL damer                    
+OL,13,FKarlstad         - Storvreta IBK    4-6
+OL,14,C(1-2,1-3,2-1)                          
+OL,15,CEklund 6.40        Niederberger 9.33   
+OL,16, C30.36             Gr{ngsj| 17.05      
+OL,17, C53.07             Niederberger 26.16  
+OL,18,CTerner 58.53       Niederberger 28.56  
+OL,19,                   CNiederberger 37.40  
+OL,20,                   CLjunggren 49.56     
+OL,23,D]G M}lserviceindex 376 * Resultat 330  
+OL,24,ANyheter BSport CV{der FInneh}llG  (2/6)
+FL,100,300,400,700,0,100
+PN,39503
+SC,0003
+PS,C100
+CT,10,T
+OL,0,      GSVT Text 395  S|n 22 novC00:08:29
 OL,1,D]G             M]LSERVICE              
 OL,3,BInnebandy SSL damer                    
-OL,4,GEndre        - V{xj|        X - XB17:00
-OL,5,C(X-X,X-X,X-X)                          
-OL,7,GMora         - Lund         X - XB17:00
-OL,8,C(X-X,X-X,X-X)                          
+OL,4,FT{by             - Kalmarsund       6-2
+OL,5,C(0-1,2-1,4-0)                          
+OL,6,CValtola 23.49      Gustafsson 5.05     
+OL,7,CBoric Sv{rd 31.22  Rasmussen 30.31     
+OL,8,CNordstrand 44.46                       
+OL,9,CStenberg 54.06                         
+OL,10,CNordstrand 59.10                       
+OL,11, C59.51                                 
 OL,23,D]G M}lserviceindex 376 * Resultat 330  
-OL,24,ANyheter BSport CV{der FInneh}llG  (2/2)
+OL,24,ANyheter BSport CV{der FInneh}llG  (3/6)
+FL,100,300,400,700,0,100
+PN,39504
+SC,0004
+PS,C100
+CT,10,T
+OL,0,      GSVT Text 395  S|n 22 novC00:08:29
+OL,1,D]G             M]LSERVICE              
+OL,3,BInnebandy SSL damer                    
+OL,4,FR|nnby           - Malm|           12-0
+OL,5,C(3-0,4-0,5-0)                          
+OL,6,CFaisst 12.25                           
+OL,7,CGustafsson 16.55                       
+OL,8,CFrederiksen 17.54                      
+OL,9,CGunnarsson 21.29                       
+OL,10,CLaitila 28.12                          
+OL,11,CFrederiksen 32.05                      
+OL,12,CDimitrov 33.00                         
+OL,13,CHammar 41.22                           
+OL,14,CGunnarsson 44.59                       
+OL,15,CHammar 45.40                           
+OL,16,CGustafsson 51.48                       
+OL,17,CBjerkefeldt 52.04                      
+OL,23,D]G M}lserviceindex 376 * Resultat 330  
+OL,24,ANyheter BSport CV{der FInneh}llG  (4/6)
+FL,100,300,400,700,0,100
+PN,39505
+SC,0005
+PS,C100
+CT,10,T
+OL,0,      GSVT Text 395  S|n 22 novC00:08:29
+OL,1,D]G             M]LSERVICE              
+OL,3,BInnebandy SSL damer                    
+OL,4,FEndre            - V{xj|           11-2
+OL,5,C(4-0,5-1,2-1)                          
+OL,6,CJohannesson 0.32   J|nsson 32.08       
+OL,7,CHansson 1.58       Andersson 48.28     
+OL,8,CRyttergaard 12.05                      
+OL,9,CGredig 19.26                           
+OL,10,CPakarinen 20.20                        
+OL,11,CRyttergaard 21.44                      
+OL,12,CHansson 24.04                          
+OL,13,CRyttergaard 36.16                      
+OL,14,CWyss 37.00                             
+OL,15,CFitzi 42.06                            
+OL,16,CJohannesson 45.27                      
+OL,23,D]G M}lserviceindex 376 * Resultat 330  
+OL,24,ANyheter BSport CV{der FInneh}llG  (5/6)
+FL,100,300,400,700,0,100
+PN,39506
+SC,0006
+PS,C100
+CT,10,T
+OL,0,      GSVT Text 395  S|n 22 novC00:08:29
+OL,1,D]G             M]LSERVICE              
+OL,3,BInnebandy SSL damer                    
+OL,4,FMora             - Lund             0-6
+OL,5,C(0-1,0-2,0-3)                          
+OL,6,                   CKarlsson 18.41      
+OL,7,                   CMattsson 35.02      
+OL,8,                   CNilsson 37.17       
+OL,9,                   CKeprtova 49.35      
+OL,10,                   CMattsson 52.22      
+OL,11,                   CPudisova 59.54      
+OL,23,D]G M}lserviceindex 376 * Resultat 330  
+OL,24,ANyheter BSport CV{der FInneh}llG  (6/6)
 FL,100,300,400,700,0,100

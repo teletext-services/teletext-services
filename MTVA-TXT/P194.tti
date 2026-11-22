@@ -3,7 +3,7 @@ PN,19401
 SC,0001
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -13,7 +13,7 @@ OL,7,FW62500   Baku            01:05     2B
 OL,8, W62572   Reykjavik KEF   01:05     2B  
 OL,9,FW62460   Marrakesh       01:25     2B  
 OL,10, W62266   Gran Canaria    01:40     2A  
-OL,11,FW62308   Cairo Giza SPX  02:05     2B  
+OL,11,FW62308Z  Cairo Giza SPX  02:05     2B  
 OL,12, FM869    Shanghai PVG    07:05     2B  
 OL,13,FMU8639   Shanghai PVG    07:05     2B  
 OL,14, W67863   Yerevan EVN     07:10     2B  
@@ -29,7 +29,7 @@ PN,19402
 SC,0002
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -55,7 +55,7 @@ PN,19403
 SC,0003
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -81,7 +81,7 @@ PN,19404
 SC,0004
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -107,7 +107,7 @@ PN,19405
 SC,0005
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -133,7 +133,7 @@ PN,19406
 SC,0006
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -159,7 +159,7 @@ PN,19407
 SC,0007
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -167,10 +167,10 @@ OL,5,D]GJARAT  HONNAN          MIKOR TERMINAL
 OL,6, UA9038   Munich          12:40     2A  
 OL,7,FW62326   Tel Aviv TLV    12:45     2B  
 OL,8, FR2420   Valencia        12:45     2A  
-OL,9,FFR5713   Madrid MAD      12:50     2A  
-OL,10, W64349   Sofia           12:50     2A  
-OL,11,FFR5211   Bari            12:55     2A  
-OL,12, W62414   Bilbao          13:00     2A  
+OL,9,FW62414   Bilbao          12:50     2A  
+OL,10, FR5713   Madrid MAD      12:50     2A  
+OL,11,FW64349   Sofia           12:50     2A  
+OL,12, FR5211   Bari            12:55     2A  
 OL,13,FTK1033   Istanbul IST    13:00     2B  
 OL,14, W67637   Podgorica       13:00     2B  
 OL,15,FEK111    Dubai DXB       13:05     2B  
@@ -185,7 +185,7 @@ PN,19408
 SC,0008
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -211,7 +211,7 @@ PN,19409
 SC,0009
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -237,7 +237,7 @@ PN,19410
 SC,0010
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -263,7 +263,7 @@ PN,19411
 SC,0011
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -289,7 +289,7 @@ PN,19412
 SC,0012
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -315,7 +315,7 @@ PN,19413
 SC,0013
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -341,7 +341,7 @@ PN,19414
 SC,0014
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -367,7 +367,7 @@ PN,19415
 SC,0015
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -393,7 +393,7 @@ PN,19416
 SC,0016
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -419,7 +419,7 @@ PN,19417
 SC,0017
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -445,12 +445,12 @@ PN,19418
 SC,0018
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
 OL,5,D]GJARAT  HONNAN          MIKOR TERMINAL
-OL,6, W62308Z  Cairo Giza SPX  22:55     2B  
+OL,6, W62308   Cairo Giza SPX  22:55     2B  
 OL,7,FFR9751   Krakow          22:55     2A  
 OL,8, W62496   Malta           22:55     2A  
 OL,9,FBA870    London LHR      23:00     2B  
@@ -471,7 +471,7 @@ PN,19419
 SC,0019
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
@@ -482,14 +482,14 @@ OL,8, W62344   Rome FCO        23:20     2A
 OL,9,FW62316   Berlin BER      23:25     2A  
 OL,10, W62390   Malaga          23:25     2A  
 OL,11,FW62330   Tel Aviv TLV    23:25     2B  
-OL,12, W62378   Barcelona       23:30     2A  
-OL,13,FW62206   London LTN      23:30     2B  
-OL,14, FR4230   Paris BVA       23:30     2A  
-OL,15,FLH1340   Frankfurt       23:40     2A  
-OL,16, EY4177   Frankfurt       23:40     2A  
-OL,17,FNH5467   Frankfurt       23:40     2A  
-OL,18, SN7147   Frankfurt       23:40     2A  
-OL,19,FSQ2058   Frankfurt       23:40     2A  
+OL,12, W62206   London LTN      23:30     2B  
+OL,13,FFR4230   Paris BVA       23:30     2A  
+OL,14, LH1340   Frankfurt       23:40     2A  
+OL,15,FEY4177   Frankfurt       23:40     2A  
+OL,16, NH5467   Frankfurt       23:40     2A  
+OL,17,FSN7147   Frankfurt       23:40     2A  
+OL,18, SQ2058   Frankfurt       23:40     2A  
+OL,19,FTP7508   Frankfurt       23:40     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CHolnapi indulas ................. 195
 FL,101,175,200,300,0,100
@@ -497,13 +497,13 @@ PN,19420
 SC,0020
 PS,C100
 CT,10,T
-OL,0,        C194BMTVA    G2026.11.21. C09:19
+OL,0,        C194BMTVA    G2026.11.21. C19:31
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]     DJaratinformacio: 296-7000       
 OL,3, ]MDHOLNAPI @rkez`s/Arrival  2026.11.22 
 OL,5,D]GJARAT  HONNAN          MIKOR TERMINAL
-OL,6, TP7508   Frankfurt       23:40     2A  
-OL,7,FFR6279   Catania CTA     23:50     2A  
+OL,6, FR6279   Catania CTA     23:50     2A  
+OL,7,FW62378   Barcelona       23:55     2A  
 OL,8, FR8326   Milan MXP       23:55     2A  
 OL,21,  http://www.bud.hu                     
 OL,22,D]CHolnapi indulas ................. 195

@@ -1,29 +1,47 @@
 DE,WDR-TEXT 626
-PN,62600
-SC,0000
-PS,8208
+PN,62601
+SC,0001
+PS,C200
 CT,10,T
-OL,0,     G626 WDR Text GSa 21.11.26 15:33:21
+OL,0,     G626 WDR Text GSo 22.11.26 07:02:31
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: Bundesliga/M     
-OL,5,CE. Frankfurt : Hoffenheim         E0:0 
-OL,6, 1. Spielbeginn                         
-OL,7, 0. Das Duell SGE gegen TSG bot in der  
-OL,8, j}ngeren Vergangenheit vor allem       
-OL,9, eins: Tore. In den vergangenen 13      
-OL,10, Aufeinandertreffen trafen stets beide  
-OL,11, Vereine und in den letzten elf         
-OL,12, Vergleichen fielen stets mindestens    
-OL,13, vier Treffer. In der Vorsaison gab es  
-OL,14, in beiden Begegnungen einen            
-OL,15, 3:1-Ausw{rtssieg.                      
-OL,16, 0. Auch die Formkurve der              
-OL,17, Hoffenheimer zeigte zuletzt ganz klar  
-OL,18, nach oben. Mit neun Punkten aus den    
-OL,19, letzten vier Bundesliga-Spielen        
-OL,20, stehen die Sinsheimer in dem Zeitraum  
-OL,21, sogar auf dem dritten Platz der        
+OL,5,CE. Frankfurt : Hoffenheim     1:0 (1:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Burkardt (25.)                     
+OL,10,CStrafen:                               
+OL,11,S|GAvdullahu (69.) S|GBurger (88.)      
+OL,12,Q|GKabak (90.) S|GAtubolu (90.)         
+OL,13,S|GH}tter (90.) S|GPimpong (90.)        
+OL,15,CZuschauer: G59.100                     
+OL,17,CSR: GDr. Max Burda                     
 OL,23,]D600 < ]bersicht      Live-Ticker > 627
-OL,24,A]G- 625B]G+ 627  \                     
+OL,24,A]G- 625B]G+ 627  \               G(1/2)
+FL,625,627,0,0,0,100
+PN,62602
+SC,0002
+PS,C200
+CT,10,T
+OL,0,     G626 WDR Text GSo 22.11.26 07:02:31
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: Bundesliga/M     
+OL,5,CE. Frankfurt : Hoffenheim     1:0 (1:0)
+OL,7,CAustellungen:                          
+OL,9,CE. Frankfurt                           
+OL,10, Atubolu Kosugi Brassier Koch           
+OL,11, Knauff (83. Collins)                   
+OL,12, Aseko (64. H jlund) Onyedika Chaibi    
+OL,13, D an Burkardt (84. Pimpong)            
+OL,14, Ebnoutalib (83. G|tze)                 
+OL,15,CHoffenheim                             
+OL,16, Baumann Bernardo (72. Rots) Machida    
+OL,17, Kabak Coufal Burger Avdullahu          
+OL,18, Prass (80. Moerstedt)                  
+OL,19, Asllani (72. Conte)                    
+OL,20, Kramari  (61. Hlo ek)                  
+OL,21, Lemperle (61. Daghim)                  
+OL,23,]D600 < ]bersicht      Live-Ticker > 627
+OL,24,A]G- 625B]G+ 627  \               G(2/2)
 FL,625,627,0,0,0,100

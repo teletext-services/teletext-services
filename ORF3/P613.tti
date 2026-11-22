@@ -3,24 +3,25 @@ PN,61301
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G613FORF IIIGSa 21.11.26 10:41:44
+OL,0,       G613FORF IIIGSo 22.11.26 06:41:55
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########   G                    1/5  
-OL,4, Vorhersage f}r den 21.11.2026,         
-OL,5, vom 21.11.2026, 0500 Uhr lct           
+OL,3,Q##########   G                    1/4  
+OL,4, Vorhersage f}r den 22.11.2026,         
+OL,5, vom 22.11.2026, 0500 Uhr lct           
 OL,7,FWetterlage:                            
-OL,8, Nach Durchzug einer Kaltfront beginnt  
-OL,9, es abzutrocknen. Mit der anhaltend     
-OL,10, kr{ftigen West- bis Nordweststr|mung   
-OL,11, bleibt der Nordstau erhalten.          
+OL,8, Am Sonntag verlagert sich ein          
+OL,9, Italientief ostw{rts. Es beeinflusst   
+OL,10, vor allem den Westen und S}den mit     
+OL,11, Schneefall bis in tiefe Lagen.         
 OL,13,FWind freie Atmosph{re 1300 Uhr lct:    
-OL,14,  5000ft amsl 260-320/15-30kt           
-OL,15, 10000ft amsl 280-300/20-35kt           
-OL,16, 15000ft amsl 290-310/25-35kt           
-OL,18,FNullgradgrenze:                        
-OL,19, Im Norden um 3000ft, im S}den um 6000ft
-OL,20, amsl.                                  
+OL,14,  5000ft amsl 220/15-25kt im SO,        
+OL,15, 180/05-10kt sonst                      
+OL,16, 10000ft amsl 220-270/20-30kt           
+OL,17, 15000ft amsl 250-270/25-50kt           
+OL,19,FNullgradgrenze:                        
+OL,20, Im S um 6000ft amsl, im W zum Teil in  
+OL,21, Bodenn{he. Im NO um 3000ft amsl.       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -28,27 +29,26 @@ PN,61302
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G613FORF IIIGSa 21.11.26 10:41:44
+OL,0,       G613FORF IIIGSo 22.11.26 06:41:55
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########   G                    2/5  
-OL,4, Vorhersage f}r den 21.11.2026,         
-OL,5, vom 21.11.2026, 0500 Uhr lct           
+OL,3,Q##########   G                    2/4  
+OL,4, Vorhersage f}r den 22.11.2026,         
+OL,5, vom 22.11.2026, 0500 Uhr lct           
 OL,7,FInformationen Instrumentenflug:        
-OL,8, Alpennordseitig m{~ige Vereisung unter-
-OL,9, halb FL140 und teils starke Low-Level- 
-OL,10, Turbulenz.                             
-OL,12,FInformationen Sichtflug:               
-OL,13, Entlang und n|rdlich des Alpenhaupt-   
-OL,14, kamms kompakte & tiefbasige Bew|lkung. 
-OL,15, Bis Mittag h{ufig Regen, Schneefall-   
-OL,16, grenze bis unter 3000ft amsl. Am Nach- 
-OL,17, mittag nur noch im W Niederschl{ge,    
-OL,18, Berge und P{sse in Wolken. Von O\ bis  
-OL,19, ins Nordburgenland allm{hlich sonnig.  
-OL,20, Der S}den ist allgemein beg}nstigt,    
-OL,21, hier gibt es nach einigen Fr}hnebel-   
-OL,22, feldern tags}ber gutes Sichtflugwetter.
+OL,8, Vereisung in der aufziehenden Warmfront
+OL,9, zwischen 4000ft amsl und FL180. In     
+OL,10, Vorarlberg stark auffrischende         
+OL,11, Westwinde im Hochgebirge.              
+OL,13,FInformationen Sichtflug:               
+OL,14, Verbreitet Nebel und Stratus, die im   
+OL,15, Westen und S}dwesten im Tagesverlauf   
+OL,16, von kompaktem CS/AS }berschichtet      
+OL,17, werden. Berge und P{sse bleiben im     
+OL,18, Bergland oft ganztags eingeh}llt. Im   
+OL,19, Osten anfangs sonnig, sp{ter mit       
+OL,20, auflebendem Ostwind Hochnebelans{tze   
+OL,21, m|glich.                               
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -56,23 +56,24 @@ PN,61303
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G613FORF IIIGSa 21.11.26 10:41:44
+OL,0,       G613FORF IIIGSo 22.11.26 06:41:55
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########   G                    3/5  
-OL,4, Vorhersage f}r den 21.11.2026,         
-OL,5, vom 21.11.2026, 0500 Uhr lct           
+OL,3,Q##########   G                    3/4  
+OL,4, Vorhersage f}r den 22.11.2026,         
+OL,5, vom 22.11.2026, 0500 Uhr lct           
 OL,7,FInformationen Thermik/Wellen:          
-OL,8, Am Alpenostrand und alpens}dseitig     
-OL,9, hochreichende Wellen.                  
-OL,11,FInformationen Ballonfahrten:           
-OL,12, Oft zu windig, am ehesten in K{rnten   
-OL,13, planbare Bedingungen.                  
-OL,15,FVorschau f}r Sonntag, den 22.11.:      
-OL,16, Die Okklusion eines Italientiefs greift
-OL,17, im Tagesverlauf auf die Alpens}dseite  
-OL,18, }ber. Diese bringt Regen und Schneefall
-OL,19, sowie erhebliche Vereisung bis FL180.  
+OL,8, Keine Wellenbildung.                   
+OL,10,FInformationen Ballonfahrten:           
+OL,11, Abseits der Nebelregionen brauchbare   
+OL,12, Bedingungen vor allem im Donauraum, ehe
+OL,13, Hochnebelans{tze mehr werden.          
+OL,15,FVorschau f}r Montag, den 23.11.:       
+OL,16, Zufuhr von feuchtkalten Luftmassen aus 
+OL,17, Norden. Im Nordstau ganzt{gig          
+OL,18, Schneefall bis in tiefe Lagen. Einzelne
+OL,19, Schauer auch im Donauraum und im       
+OL,20, S}dosten.                              
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -80,42 +81,26 @@ PN,61304
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G613FORF IIIGSa 21.11.26 10:41:44
+OL,0,       G613FORF IIIGSo 22.11.26 06:41:55
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########   G                    4/5  
+OL,3,Q##########   G                    4/4  
 OL,4, Flugwetterausblick:                    
-OL,6,FVorschau f}r Montag, den 23.11.:       
-OL,7, Abzug des Tiefs nach Osten und Wetter- 
-OL,8, besserung. Im Nordstau noch unbest{ndig
-OL,9, mit Schneeschauern und IMC. Anhaltend  
-OL,10, windig.                                
-OL,12,FVorschau f}r Dienstag, den 24.11.:     
-OL,13, Weiterhin Nordweststr|mung. Nachlassen-
-OL,14, der Nordstau und zunehmend VMC. Nur    
-OL,15, ganz im W noch Schneeschauer.          
-OL,17,FHinweis zur Prognosesicherheit:        
-OL,18, Unsicherheiten insbesondere in Verbin- 
-OL,19, dung mit der Italientiefentwicklung.   
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
-OL,24,A]bersichtBFernsehenCKultur+Show FWetter
-FL,100,300,400,600,0,100
-PN,61305
-SC,0005
-PS,C200
-CT,10,T
-OL,0,       G613FORF IIIGSa 21.11.26 10:41:44
-OL,1,A]G                          Flugwetter 
-OL,2,A]GWETTER  ]A                          \
-OL,3,Q##########   G                    5/5  
-OL,4, Aufgrund technischer Probleme (Daten-  
-OL,5, leitung unterbrochen) ist es derzeit   
-OL,6, nicht m|glich, die Flugwetterprognosen 
-OL,7, und die Flugwetterwerte der anderen    
-OL,8, Unterseiten zu aktualisieren.          
-OL,10, An der Behebung des Problems wird      
-OL,11, gearbeitet, wir bedauern und bitten um 
-OL,12, Ihr Verst{ndnis.                       
+OL,6,FVorschau f}r Dienstag, den 24.11.:     
+OL,7, Im Osten quert ein H|hentrog mit       
+OL,8, Schneeschauern bis in tiefe Lagen.     
+OL,9, Sonst dominiert Hochdruckeinfluss mit  
+OL,10, trockenen Luftmasssen.                 
+OL,12,FVorschau f}r Mittwoch, den 25.11.:     
+OL,13, Zwischenhocheinfluss mit meist guten   
+OL,14, Sichten und nur einzelnen gefrierenden 
+OL,15, Fr}hnebelfeldern. Im S}dwesten         
+OL,16, Wolkenaufzug, aber bis ECET noch       
+OL,17, trocken.                               
+OL,19,FHinweis zur Prognosesicherheit:        
+OL,20, Unsicherheiten bez}glich ]bergreifen   
+OL,21, der Niederschl{ge am Dienstag und      
+OL,22, Mittwoch.                              
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100

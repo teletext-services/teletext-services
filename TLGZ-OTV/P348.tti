@@ -4,21 +4,21 @@ SC,0001
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     348Csob 21 lis  14:16:39
+OL,0,      BTVP3     348Csob 21 lis  23:38:27
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo |l@skie      Q"##
-OL,4,E21.11.2026 13:00    GStany:            
+OL,4,E21.11.2026 23:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FBrynica                         
-OL,8,FSzabelnia        B29    F70    100    =
+OL,8,FSzabelnia        B27    F70    100    =
 OL,10, Rzeka:FGostynia                        
-OL,11,FBojszowy        B110   F170    230    -
+OL,11,FBojszowy        B105   F170    230    =
 OL,13, Rzeka:FLiswarta                        
 OL,14,FNiwki           B137   F200    250    =
-OL,15, Kule             B95   G250    300    =
+OL,15, Kule             B94   G250    300    =
 OL,17, Rzeka:FMa}a Panew                      
-OL,18,FKrupski M}yn     B29   F160    250    =
+OL,18,FKrupski M}yn     B26   F160    250    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,347,349,100,100,0,100
 PN,34802
@@ -26,23 +26,23 @@ SC,0002
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     348Csob 21 lis  14:16:39
+OL,0,      BTVP3     348Csob 21 lis  23:38:27
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo |l@skie      Q"##
-OL,4,E21.11.2026 13:00    GStany:            
+OL,4,E21.11.2026 23:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FOdra                            
-OL,8,FCha}upki        B155   F300    420    =
-OL,9, Olza            B153   G500    610    =
-OL,10,FRacib_rz MiedoniB139   F400    600    =
+OL,8,FCha}upki        B161   F300    420    =
+OL,9, Olza            B170   G500    610    +
+OL,10,FRacib_rz MiedoniB144   F400    600    =
 OL,12, Rzeka:FOlza                            
-OL,13,FCieszyn          B54   F140    230    +
+OL,13,FCieszyn          B49   F140    230    -
 OL,15, Rzeka:FPilica                          
 OL,16,FW@sosz          B172   F250    300    =
 OL,18, Rzeka:FPrzemsza                        
-OL,19,FRadocha          B37    F90    130    -
-OL,20, Jele$           B158   G280    330    -
+OL,19,FRadocha          B36    F90    130    =
+OL,20, Jele$           B151   G280    330    +
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,347,349,100,100,0,100
 PN,34803
@@ -50,23 +50,23 @@ SC,0003
 PS,C000
 RE,1
 CT,10,T
-OL,0,      BTVP3     348Csob 21 lis  14:16:39
+OL,0,      BTVP3     348Csob 21 lis  23:38:27
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo |l@skie      Q"##
-OL,4,E21.11.2026 13:00    GStany:            
+OL,4,E21.11.2026 23:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FPsina                           
 OL,8,FBojan_w          B52   F150    210    =
 OL,10, Rzeka:FSo}a                            
-OL,11,FCi`cina         B149   F280    360    -
-OL,12, [ywiec          B238   G280    340    =
+OL,11,FCi`cina         B134   F280    360    -
+OL,12, [ywiec          B229   G280    340    -
 OL,14, Rzeka:FWarta                           
-OL,15,FKr`ciwilk        B28    F80    130    -
+OL,15,FKr`ciwilk        B27    F80    130    =
 OL,16, Poraj            B76   G220    290    =
 OL,18, Rzeka:FWis}a                           
-OL,19,FSkocz_w         B165   F210    260    =
-OL,20, Gocza}kowice    B118   G290    410    -
-OL,21,FNowy Bieru$     B110   F220    330    +
+OL,19,FSkocz_w         B160   F210    260    =
+OL,20, Gocza}kowice    B112   G290    410    -
+OL,21,FNowy Bieru$     B121   F220    330    -
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,347,349,100,100,0,100

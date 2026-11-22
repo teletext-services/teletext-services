@@ -3,39 +3,62 @@ PN,11601
 SC,0001
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GSa 21 Nov F08:23:48
+OL,0,         GFORUM64   GSa 21 Nov F17:26:39
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EGameboy Emulator f}r das A8PicoCart    
-OL,4,CAntwort:  BMiCv2                       
-OL,5,CComments: B3                           
-OL,6,F                                       
-OL,7,FLeute, schaut Euch dass mal an, was auf
-OL,8,FBBC Master und Atari XL/XE, mit Hilfe  
-OL,9,Fder KI schon konvertiert wurde         
-OL,11,FIch wei~, dieses "live" ist auf        
-OL,12,FPolnisch, aber es ist immer geschrieben
-OL,13,Fwas auf dem Bildschirm grad so l{uft.  
-OL,15,FNat}rlich kommt auch das A8PicoCart    
-OL,17,CErster Beitrag:                        
-OL,19,GHabe letztens Larek's YT live gesehen, 
-OL,20,Gund war beeindruckt, dass es jetzt f}r 
-OL,21,Gdas A8PicoCart einen GameBoy Emulator  
-OL,22,Ggibt. Es lassen sich die 4-Grundfarben 
-OL,23,Gfrei w{hlen, oder alle 2min. erfolgt   
-OL,24,D]FForum64.de RSS feed            (1/2) 
+OL,2,EAdam Is Me f}r C16 LittleSixteen V4    
+OL,3,ERelease Candidate                      
+OL,5,CAntwort:  BNegan                       
+OL,6,CComments: B6                           
+OL,7,F                                       
+OL,8,FIch habe nun ein Release Candidate     
+OL,9,Ferstellt.                              
+OL,11,FKleinere Fehler beseitigt und Joystick 
+OL,12,FSupport (Port 1) hinzugef}gt.          
+OL,14,CErster Beitrag:                        
+OL,16,GHallo zusammen,                        
+OL,18,Gich arbeite an einer C16-              
+OL,19,Gbeziehungsweise LittleSixteen-Version  
+OL,20,Gdes Atari-Puzzlespiels Adam Is Me von  
+OL,21,GAgenda. Man verschiebt darin Objekte   
+OL,22,Gund W|rter. So lassen sich Regeln wie  
+OL,23,GBOX IS PUSH ver{ndern.                 
+OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11602
 SC,0002
 PS,C200
 CT,10,T
-OL,0,         GFORUM64   GSa 21 Nov F08:23:48
+OL,0,         GFORUM64   GSa 21 Nov F17:26:39
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Geine Automatische Umschaltung.         
-OL,5,Ghttps://www.atari.org.pl/forum/viewtopi
-OL,6,Gc.php?id=20853                         
-OL,8,GDie PL- Seite k|nnt Ihr ja im Browser  
-OL,9,G}bersetzen, ist ja heute kein Problem  
-OL,11,Ghttps://www.youtube.com/live/HSlbrIAWdx
-OL,12,GM?si=Ow4cA0pTjWaPuLJv                  
-OL,24,D]FForum64.de RSS feed            (2/2) 
+OL,3,GDie aktuelle Testversion enth{lt alle  
+OL,4,G64 Originallevel aus acht Welten ,     
+OL,5,GTitelbild, Intro und Levelauswahl.     
+OL,6,GGrafik und Farben wurden f}r den TED   
+OL,7,Gangepasst; bewegliche Objekte werden   
+OL,8,Gmit Software-Sprites dargestellt. Die  
+OL,9,GSpieleffekte laufen }ber den TED. Vier 
+OL,10,GMusikst}cke des Atari-Originals wurden 
+OL,11,Gals dreistimmige Arrangements f}r den  
+OL,12,GSID 8580 bei $FD40 umgesetzt.          
+OL,14,GSteuerung der aktuellen Testversion    
+OL,15,Gvorerst nur per Tastatur:              
+OL,17,GW, A, S, D: ADAM bewegen; in der       
+OL,18,GGalaxie eine Welt und in der           
+OL,19,GLevelauswahl ein Level w{hlen.         
+OL,20,GLeertaste: Titel und Intro fortsetzen, 
+OL,21,GAuswahl best{tigen, im Level die Pause 
+OL,22,G|ffnen und nach einem Sieg zum n{chsten
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,11603
+SC,0003
+PS,C200
+CT,10,T
+OL,0,         GFORUM64   GSa 21 Nov F17:26:39
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GLevel wechseln. C: Auf dem Titelbild   
+OL,4,Gdie Credits anzeigen. Mit der Leertaste
+OL,5,Ggeht es zur}ck. R: Das aktuelle Level  
+OL,6,Gneu starten; funktioniert auch im      
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

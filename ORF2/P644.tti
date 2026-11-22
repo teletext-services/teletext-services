@@ -3,7 +3,7 @@ PN,64401
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       G644FORF2   GSa 21.11.26 10:33:32
+OL,0,       G644FORF2   GSo 22.11.26 07:31:23
 OL,1,A]G                            UV-Index 
 OL,2,A]GGESUNDHEIT  ]A             Prognose \
 OL,3,Q##############G                   1/6  
@@ -27,7 +27,7 @@ PN,64402
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       G644FORF2   GSa 21.11.26 10:33:32
+OL,0,       G644FORF2   GSo 22.11.26 07:31:23
 OL,1,A]G                            UV-Index 
 OL,2,A]GGESUNDHEIT  ]A             Prognose \
 OL,3,Q##############G                   2/6  
@@ -56,7 +56,7 @@ PN,64403
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       G644FORF2   GSa 21.11.26 10:33:32
+OL,0,       G644FORF2   GSo 22.11.26 07:31:24
 OL,1,A]G                            UV-Index 
 OL,2,A]GGESUNDHEIT  ]A    Lichtschutzfaktor \
 OL,3,Q##############G                   3/6  
@@ -84,7 +84,7 @@ PN,64404
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       G644FORF2   GSa 21.11.26 10:33:32
+OL,0,       G644FORF2   GSo 22.11.26 07:31:24
 OL,1,A]G                            UV-Index 
 OL,2,A]GGESUNDHEIT  ]A    Lichtschutzfaktor \
 OL,3,Q##############G                   4/6  
@@ -109,23 +109,23 @@ PN,64405
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       G644FORF2   GSa 21.11.26 10:33:32
+OL,0,       G644FORF2   GSo 22.11.26 07:31:24
 OL,1,A]G                            UV-Index 
 OL,2,A]GGESUNDHEIT  ]A   Maximale Messwerte \
 OL,3,Q##############G                   5/6  
-OL,4,C           Sa  So  Mo  Di  Mi  Do  Fr  
-OL,5,C           14. 15. 16. 17. 18. 19. 20. 
+OL,4,C           So  Mo  Di  Mi  Do  Fr  Sa  
+OL,5,C           15. 16. 17. 18. 19. 20. 21. 
 OL,6,C           Nov Nov Nov Nov Nov Nov Nov 
-OL,7,GDornbirn    1   1   1   0   1   0   1  
-OL,8,FGerlitzen   2   1   1   1   1   0   1  
-OL,9,GGraz        1   1   1   1   1   0   1  
-OL,10,FInnsbruck   1   1   1   1   1   0   1  
-OL,11,GKlagenfurt  1   1   1   1   1   0   1  
-OL,12,FLinz        1   1   1   1   1   0   1  
-OL,13,GMarchfeld   1   1   0   1   1   1   1  
-OL,14,FMariapfarr  2   1   1   1   1   0   1  
-OL,15,GSonnblick   2   2   2   2   2   1   1  
-OL,16,FWien        1   1   0   1   1   0   1  
+OL,7,GDornbirn    1   1   0   1   0   1   0  
+OL,8,FGerlitzen   1   1   1   1   0   1   1  
+OL,9,GGraz        1   1   1   1   0   1   1  
+OL,10,FInnsbruck   1   1   1   1   0   1   1  
+OL,11,GKlagenfurt  1   1   1   1   0   1   1  
+OL,12,FLinz        1   1   1   1   0   1   -  
+OL,13,GMarchfeld   1   0   1   1   1   1   1  
+OL,14,FMariapfarr  1   1   1   1   0   1   1  
+OL,15,GSonnblick   2   2   2   2   1   1   1  
+OL,16,FWien        1   0   1   1   0   1   1  
 OL,18,           F0-2:GniedrigF8-10:Gsehr hoch
 OL,19,           F3-5:Gm{~ig F > 10:Gextrem   
 OL,20,           F6-7:Ghoch                   
@@ -137,7 +137,7 @@ PN,64406
 SC,0006
 PS,C200
 CT,10,T
-OL,0,       G644FORF2   GSa 21.11.26 10:33:32
+OL,0,       G644FORF2   GSo 22.11.26 07:31:24
 OL,1,A]G                          Gesamtozon 
 OL,2,A]GGESUNDHEIT  ]AMesswerte Ozonschicht \
 OL,3,Q##############G                   6/6  
@@ -150,13 +150,13 @@ OL,10,GSpalte 2: Ver{nderung in Prozent zum
 OL,11,G          langj{hrigen Monatsschnitt   
 OL,12,FSpalte 3: Ver{nderung in Prozent zum   
 OL,13,F          Vergleichsmonat des Vorjahres
-OL,14,GSa, 14.11.26 F 276 G  95 % F  95 %     
-OL,15,GSo, 15.11.26 F 301 G 103 % F 103 %     
-OL,16,GMo, 16.11.26 F 318 G 109 % F 109 %     
-OL,17,GDi, 17.11.26 F 277 G  95 % F  95 %     
-OL,18,GMi, 18.11.26 F 296 G 102 % F 101 %     
-OL,19,GDo, 19.11.26 F 328 G 113 % F 113 %     
-OL,20,GFr, 20.11.26 F 332 G 114 % F 114 %     
+OL,14,GSo, 15.11.26 F 301 G 103 % F 103 %     
+OL,15,GMo, 16.11.26 F 318 G 109 % F 109 %     
+OL,16,GDi, 17.11.26 F 277 G  95 % F  95 %     
+OL,17,GMi, 18.11.26 F 296 G 102 % F 101 %     
+OL,18,GDo, 19.11.26 F 328 G 113 % F 113 %     
+OL,19,GFr, 20.11.26 F 332 G 114 % F 114 %     
+OL,20,GSa, 21.11.26 F --- G  ---- F  ----     
 OL,22,                      Umweltministerium 
 OL,23,Q,,,,,,,GInst.f.Meteorol.u.Physik, BOKU 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter

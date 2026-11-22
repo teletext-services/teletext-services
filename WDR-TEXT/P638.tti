@@ -1,29 +1,47 @@
 DE,WDR-TEXT 638
-PN,63800
-SC,0000
-PS,8208
+PN,63801
+SC,0001
+PS,C200
 CT,10,T
-OL,0,     G638 WDR Text GSa 21.11.26 15:33:42
+OL,0,     G638 WDR Text GSo 22.11.26 07:21:26
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: Bundesliga/F     
-OL,5,CK|ln : Werder                E1:1C(1:0)
-OL,6, 69. Momentan ist schwer                
-OL,7, vorherzusehen, in welche Richtung      
-OL,8, diese Partie in den letzten zwanzig    
-OL,9, Minuten kippen k|nnte. Keines der      
-OL,10, beiden Teams dr}ckt gerade so          
-OL,11, richtig. Stattdessen gibt es viel      
-OL,12, Gepl{nkel im Mittelfeld, man           
-OL,13, neutralisiert sich gegenseitig.        
-OL,14, 66. Einwechslung bei Werder Bremen:    
-OL,15, Elena Dhont                            
-OL,16, 66. Auswechslung bei Werder Bremen:    
-OL,17, Isabella Jaron                         
-OL,18, 65. Gelbe Karte f}r Juliane Wirtz      
-OL,19, (Werder Bremen)Die Kapit{nin zieht     
-OL,20, links am Rand des Sechzehners ihre     
-OL,21, Gegenspielerin zu Boden. Anschlie~end  
+OL,5,CK|ln : Werder                 2:2 (1:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Vogt (26.) 1:1 Vanzeir (56.)       
+OL,9, 2:1 Andrade (74.) 2:2 Shimada (78.)    
+OL,11,CStrafen:                               
+OL,12,S|GMahmoud (30.) S|GAndrade (40.)       
+OL,13,S|GUlbrich (45.) S|GKromp (58.)         
+OL,14,S|GWirtz (65.) S|GLeimenstoll (77.)     
+OL,16,CZuschauer: G2.112                      
+OL,18,CSR: GMiriam Schwermer (geb.            
+OL,19,Schweinefu~)                            
 OL,23,]D600 < ]bersicht      Live-Ticker > 639
-OL,24,A]G- 637B]G+ 639  \                     
+OL,24,A]G- 637B]G+ 639  \               G(1/2)
+FL,637,639,0,0,0,100
+PN,63802
+SC,0002
+PS,C200
+CT,10,T
+OL,0,     G638 WDR Text GSo 22.11.26 07:21:26
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: Bundesliga/F     
+OL,6,CK|ln : Werder                 2:2 (1:0)
+OL,8,CAustellungen:                          
+OL,10,CK|ln                                   
+OL,11, Schmitz Hegering Vogt Degen            
+OL,12, Leimenstoll Feiersinger                
+OL,13, Imping (76. Sterner)                   
+OL,14, Elsen (45. Zeller) Donhauser           
+OL,15, Andrade (76. Schiffarth) Bremer        
+OL,16,CWerder                                 
+OL,17, El Sherif Zieniewicz Gutmann Ulbrich   
+OL,18, Wei~ Wirtz Hipp Jaron (66. Dhont)      
+OL,19, Vanzeir (73. Shimada) Purtscheller     
+OL,20, Mahmoud (87. De i )                    
+OL,23,]D600 < ]bersicht      Live-Ticker > 639
+OL,24,A]G- 637B]G+ 639  \               G(2/2)
 FL,637,639,0,0,0,100

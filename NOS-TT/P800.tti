@@ -3,7 +3,7 @@ PN,80001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  800Czat 21 nov  09:51:44
+OL,0,       BNOS-TT  800Czon 22 nov  11:40:07
 OL,1,GW|,|Q|,|W|,,Q,,,,,,,,,,,,,,,,,,,,A 1/3 
 OL,2,AW Q W/,|A]G     INDEX VOETBAL      
 OL,3,QW/ /Q/,/W,,/Q|,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -33,7 +33,7 @@ PN,80002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  800Czat 21 nov  09:51:44
+OL,0,       BNOS-TT  800Czon 22 nov  kstC800 
 OL,1,GW|,|Q|,|W|,,Q,,,,,,,,,,,,,,,,,,,,A 2/3 
 OL,2,AW Q W/,|A]G     INDEX VOETBAL      
 OL,3,QW/ /Q/,/W,,/Q|,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50,9 +50,9 @@ OL,13,C835 Derde divis.B CF849 Champ.League
 OL,14,G                  FC                   
 OL,15,B--- BUITENLAND --- B---- AMATEURS ----C
 OL,16,C836 Verslag        C894 Vierde div.A-B 
-OL,17,F837 Verslag        C895 Vierde div.C-DF
-OL,18,F838 Verslag        C896 Eerste klasse F
-OL,19,F839 Verslag        C897 Tweede klasse  
+OL,17,C837 Verslag        C895 Vierde div.C-DF
+OL,18,C838 Verslag        C896 Eerste klasse F
+OL,19,C839 Verslag        C897 Tweede klasse  
 OL,20,C840 Duitsland      C898 Derde klasse   
 OL,21,C841 Engeland       C899 Futsal         
 OL,22,C842 Italie         C                   
@@ -63,29 +63,29 @@ PN,80003
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       BNOS-TT  800Czat 21 nov  09:51:44
+OL,0,       BNOS-TT  800Czon 22 nov  11:40:19
 OL,1,GW|,|Q|,|W|,,Q,,,,,,,,,,,,,,,,,,,,A 3/3 
 OL,2,AW Q W/,|A]G INDEX WINTERSPORTEN    
 OL,3,QW/ /Q/,/W,,/Q|,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,4,Q##############     F864 WB snowboarden 
-OL,5,B-- WB SCHAATSEN -- F865 WB snowboarden 
-OL,6,C850 Verslag heren  F866 WB snowboarden 
-OL,7,C851 Uitslag.heren                      
-OL,8,C852 Uitslag.heren  B-- WB SHORTTRACK --
-OL,9,C853 Verslag dames  C867 Verslag heren  
-OL,10,C854 Uitslag.dames  C868 Uitslag.heren  
-OL,11,C855 Uitslag.dames  F869 Uitslag.herenF 
-OL,12,F856 Nieuws         C870 Verslag dames  
-OL,13,F857 Nieuws         C871 Uitslag.dames  
-OL,14,F                   F872 Uitslag.dames  
-OL,15,F858 Marathon                           
-OL,16,F859 Marathon       F873 WB bob/skelet. 
-OL,17,G                  CF874 WB bob/skelet. 
-OL,18,C860 IJshockey      F875 WB bob/skelet. 
-OL,19,C                   F                   
-OL,20,F861 WB skien      CF876 Over.wintersp. 
-OL,21,F862 WB skien       F877 Over.wintersp. 
-OL,22,F863 WB skien      CF878 Over.wintersp. 
+OL,4,Q##############     F                   
+OL,5,B-- WB SCHAATSEN -- F864 WB snowboarden 
+OL,6,C850 Verslag heren  F865 WB snowboarden 
+OL,7,C851 Uitslag.heren  F866 WB snowboarden 
+OL,8,C852 Uitslag.heren                      
+OL,9,C853 Verslag dames  B-- WB SHORTTRACK --
+OL,10,C854 Uitslag.dames  C867 Verslag heren  
+OL,11,C855 Uitslag.dames  C868 Uitslag.heren  
+OL,12,F856 Nieuws         C869 Uitslag.herenF 
+OL,13,F857 Nieuws         C870 Verslag dames  
+OL,14,F                   C871 Uitslag.dames  
+OL,15,F858 Marathon       C872 Uitslag.dames  
+OL,16,C859 Marathon                           
+OL,17,G                  CF873 WB bob/skelet. 
+OL,18,C860 IJshockey      F874 WB bob/skelet. 
+OL,19,C                   F875 WB bob/skelet. 
+OL,20,C861 WB skien      CF                   
+OL,21,F862 WB skien       F876 Over.wintersp. 
+OL,22,C863 WB skien      CF877 Over.wintersp. 
 OL,23,A]Gindex overige sporten op pagina 600  
 OL,24,Aweer    Bnieuws    Csport    Fvoetbal@@
 FL,702,101,601,801,0,100

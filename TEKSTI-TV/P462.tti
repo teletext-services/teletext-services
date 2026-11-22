@@ -1,15 +1,45 @@
 DE,TEKSTI-TV 462
-PN,46200
-SC,0000
-PS,8108
+PN,46201
+SC,0001
+PS,C100
 CT,10,T
-OL,0,       G462 YLE TEKSTI-TV 21.03.13:42:31
-OL,1,D]GVERMO (01)           TILANNE 14:40:05
+OL,0,       G462 YLE TEKSTI-TV 22.03.02:40:00
+OL,1,D]G           VERMO 21.11.         L1/2 
+OL,2,B]D      TOTO75-PELIN TULOKSET          
+OL,3,K                                       
+OL,4,   BL[HT\ NO NIMI              POISSA   
+OL,5, L5/T75-1  5 Magic Love        4        
+OL,6,K                                       
+OL,7, L6/T75-2  6 Selim             12       
+OL,8,K                                       
+OL,9, L7/T75-3  1 Truly Easy        -        
+OL,10,K                                       
+OL,11, L8/T75-4  4 Costner           6        
+OL,12,K                                       
+OL,13, L9/T75-5  8 Wertti            -        
+OL,14,K                                       
+OL,15,L10/T75-6  7 Joe Juneau Zet    10       
+OL,16,K                                       
+OL,17,L11/T75-7  1 Cheeky Shade      6,10,11  
+OL,18,K                                       
+OL,19,K                                       
+OL,20,BVOITTO-OSUUS                           
+OL,21, 7 oikein 10 770,91 e                   
+OL,22, 6 oikein     42,01 e                   
+OL,23, 5 oikein      2,46 e                   
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46202
+SC,0002
+PS,C100
+CT,10,T
+OL,0,       G462 YLE TEKSTI-TV 22.03.02:40:00
+OL,1,D]G           VERMO 21.11.         L2/2 
 OL,2,B]D  TOTO75-PELIN PROSENTTIJAKAUMA      
 OL,3,    B75-1B75-2B75-3B75-4B75-5B75-6B75-7 
-OL,4, B1   G17   G5  G15   G0   G1   G1   G1 
-OL,5, B2   G15   G8  F32   G0  G16   G0   G1 
-OL,6, B3    G9  G22  G12   G5  G14   G6  G23 
+OL,4, B1   G17   G5  G14   G0   G1   G1   G1 
+OL,5, B2   G15   G8  F31   G0  G17   G0   G1 
+OL,6, B3    G8  G22  G12   G5  G14   G6  G24 
 OL,7, B4    A0   G4  G15   G7   G0   G0  F39 
 OL,8, B5   F23   G3   G4   G1   G0   G1   G1 
 OL,9, B6   G15  G24   G4   A0   G3  G14   A0 
@@ -18,7 +48,7 @@ OL,11, B8    G2  F30   G3   G1  F56   G1   G1
 OL,12,K                                       
 OL,13, B9    G1   G2   G1   G3   G8   G1   G1 
 OL,14,B10    G0   G0   G8   G0        A0   A0 
-OL,15,B11    G1   G1   G5   G3        G3   G0 
+OL,15,B11    G1   G1   G5   G3        G3   A0 
 OL,16,B12    G2   A0   G1  G12        G0   G0 
 OL,17,B13                   G5             G0 
 OL,18,B14                   G0             G9 
@@ -26,6 +56,6 @@ OL,19,B15                   G1             G4
 OL,20,B16                   G1            G19 
 OL,21,FPeli sulkeutuu la 21.11. n. klo 14.45  
 OL,22,D]G         VAIHTO  F]D      JAKOSUMMA  
-OL,23,D]G   154 335,79 e  F]D   117 608,70 e  
+OL,23,D]G   165 735,59 e  F]D   125 018,56 e  
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

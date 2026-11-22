@@ -3,19 +3,19 @@ PN,19601
 SC,0001
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F08:33:29
+OL,0,           Fhr-textGSa 21.11.26F19:33:40
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G      Nordhessen 
 OL,3,W#######################################
 OL,4,            Sa.       So.       Tendenz 
-OL,6,BKASSEL    C6  F0    C5  F-2   C3  F-2  
+OL,6,BKASSEL    C6  F0    C5  F-2   C3  F-4  
 OL,7, Vormittag  wolkig    leicht            
 OL,8,                      bew|lkt           
 OL,9, Nachmittag wolkig+   wolkig    leicht  
 OL,10,            Schauer             bew|lkt 
 OL,11, Abend      wolkig    leicht            
 OL,12,                      bew|lkt           
-OL,14,BKORBACH   C4  F-1   C4  F-3   C1  F-4  
+OL,14,BKORBACH   C4  F-1   C4  F-3   C1  F-5  
 OL,15, Vormittag  leicht    leicht            
 OL,16,            bew|lkt   bew|lkt           
 OL,17, Nachmittag wolkig    wolkig    leicht  
@@ -30,21 +30,21 @@ PN,19602
 SC,0002
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F08:33:29
+OL,0,           Fhr-textGSa 21.11.26F19:33:40
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G       Osthessen 
 OL,3,W#######################################
 OL,4,            Sa.       So.       Tendenz 
-OL,6,BB.HERSFELDC6  F-1   C5  F-2   C3  F-3  
+OL,6,BB.HERSFELDC6  F-1   C5  F-2   C2  F-4  
 OL,7, Vormittag  wolkig    wolkig+           
 OL,8,                      Nebel             
 OL,9, Nachmittag wolkig    leicht    leicht  
 OL,10,                      bew|lkt   bew|lkt 
 OL,11, Abend      leicht    leicht            
 OL,12,            bew|lkt   bew|lkt           
-OL,14,BFULDA     C6  F-2   C4  F-2   C2  F-5  
-OL,15, Vormittag  leicht    bedeckt           
-OL,16,            bew|lkt   od. tr}b          
+OL,14,BFULDA     C6  F-2   C4  F-2   C3  F-5  
+OL,15, Vormittag  wolkig    bedeckt           
+OL,16,                      od. tr}b          
 OL,17, Nachmittag wolkig    wolkig+   leicht  
 OL,18,                      Nebel     bew|lkt 
 OL,19, Abend      leicht    leicht            
@@ -57,22 +57,22 @@ PN,19603
 SC,0003
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F08:33:29
+OL,0,           Fhr-textGSa 21.11.26F19:33:40
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G    Mittelhessen 
 OL,3,W#######################################
 OL,4,            Sa.       So.       Tendenz 
-OL,6,BMARBURG   C6  F-2   C3  F-2   C2  F-3  
+OL,6,BMARBURG   C6  F-2   C3  F-2   C3  F-5  
 OL,7, Vormittag  wolkig    bedeckt           
 OL,8,                      od. tr}b          
-OL,9, Nachmittag wolkig    wolkig+   leicht  
-OL,10,                      Nebel     bew|lkt 
+OL,9, Nachmittag wolkig    wolkig+   wolkig+ 
+OL,10,                      Nebel     Nebel   
 OL,11, Abend      klar      wolkig            
-OL,14,BGIESSEN   C7  F-2   C4  F-2   C3  F-3  
+OL,14,BGIESSEN   C7  F-2   C4  F-2   C4  F-4  
 OL,15, Vormittag  leicht    bedeckt           
 OL,16,            bew|lkt   od. tr}b          
-OL,17, Nachmittag leicht    wolkig+   leicht  
-OL,18,            bew|lkt   Nebel     bew|lkt 
+OL,17, Nachmittag leicht    wolkig+   wolkig+ 
+OL,18,            bew|lkt   Nebel     Nebel   
 OL,19, Abend      klar      leicht            
 OL,20,                      bew|lkt           
 OL,22,CH|chstwert TagG/FTiefstwert NachtGin `C
@@ -83,19 +83,19 @@ PN,19604
 SC,0004
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F08:33:29
+OL,0,           Fhr-textGSa 21.11.26F19:33:40
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G      Rhein-Main 
 OL,3,W#######################################
 OL,4,            Sa.       So.       Tendenz 
-OL,6,BFRANKFURT C8  F-1   C5  F-1   C6  F0   
+OL,6,BFRANKFURT C8  F-1   C5  F-1   C5  F-2  
 OL,7, Vormittag  sonnig    wolkig+           
 OL,8,                      Nebel             
 OL,9, Nachmittag leicht    wolkig    leicht  
 OL,10,            bew|lkt             bew|lkt 
 OL,11, Abend      klar      leicht            
 OL,12,                      bew|lkt           
-OL,14,BWIESBADEN C8  F-1   C6  F0    C5  F-1  
+OL,14,BWIESBADEN C8  F-1   C6  F0    C5  F-3  
 OL,15, Vormittag  sonnig    wolkig+           
 OL,16,                      Nebel             
 OL,17, Nachmittag sonnig    wolkig    leicht  
@@ -110,19 +110,19 @@ PN,19605
 SC,0005
 PS,C200
 CT,10,T
-OL,0,           Fhr-textGSa 21.11.26F08:33:29
+OL,0,           Fhr-textGSa 21.11.26F19:33:40
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G       S}dhessen 
 OL,3,W#######################################
 OL,4,            Sa.       So.       Tendenz 
-OL,6,BDARMSTADT C8  F-2   C5  F-1   C6  F-1  
+OL,6,BDARMSTADT C8  F-2   C5  F-1   C5  F-4  
 OL,7, Vormittag  sonnig    leicht            
 OL,8,                      bew|lkt           
 OL,9, Nachmittag sonnig    wolkig    leicht  
 OL,10,                                bew|lkt 
 OL,11, Abend      klar      leicht            
 OL,12,                      bew|lkt           
-OL,14,BMICHELST. C8  F-3   C5  F-2   C5  F-2  
+OL,14,BMICHELST. C8  F-3   C5  F-2   C3  F-5  
 OL,15, Vormittag  sonnig    leicht            
 OL,16,                      bew|lkt           
 OL,17, Nachmittag leicht    wolkig    leicht  

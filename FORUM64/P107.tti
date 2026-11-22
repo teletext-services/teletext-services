@@ -1,22 +1,40 @@
 DE,FORUM64 107
-PN,10700
-SC,0000
-PS,8208
+PN,10701
+SC,0001
+PS,C200
 CT,10,T
-OL,0,         GFORUM64   GSa 21 Nov F08:23:32
+OL,0,         GFORUM64   GSa 21 Nov F17:11:42
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EC128 80Terminal                        
-OL,4,CAntwort:  BLukasSid                    
-OL,5,CComments: B2                           
+OL,2,ESoftIEC - das leidige Thema            
+OL,4,CAntwort:  BWebFritzi                   
+OL,5,CComments: B14                          
 OL,6,F                                       
-OL,7,FIRC + Amiga                            
-OL,8,Fhttps://github.com/LukaszDziwosz/      
-OL,9,Fses/tag/v0.51.0                        
-OL,11,FDu kannst die Wic64-Emulation in x128  
-OL,12,Fnutzen.                                
-OL,14,CErster Beitrag:                        
-OL,16,GBeta                                   
-OL,17,Ghttps://github.com/LukaszDziwosz/80Term
-OL,18,Ginal_C128                              
-OL,24,D]FForum64.de RSS feed                  
+OL,7,F( )                                    
+OL,9,FJa, das UCI gibt wenigstens zur}ck, von
+OL,10,Fwelchem Typ eine Datei ist. Ich hatte  
+OL,11,Feigentlich gehofft, GUI64 vom UCI      
+OL,12,Fabkoppeln zu k|nnen, um Platz im RAM zu
+OL,13,Fsparen. Aber so ist das UCI immer noch 
+OL,14,Fbesser. Auch weil man auf den gesamten 
+OL,15,Flangen Dateinamen                      
+OL,17,CErster Beitrag:                        
+OL,19,GMit der neuen Firmware 1.2.1 soll nun  
+OL,20,Galles anders werden, was das SoftIEC   
+OL,21,Gangeht. Leider scheint das immer noch  
+OL,22,Gnicht das Gelbe vom Ei zu sein. Lasst  
+OL,23,Guns hier Bugs und Probleme sammeln.    
+OL,24,D]FForum64.de RSS feed            (1/2) 
+FL,0,0,0,0,0,100
+PN,10702
+SC,0002
+PS,C200
+CT,10,T
+OL,0,         GFORUM64   GSa 21 Nov F17:11:42
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GMich st|rt z.B., dass d64-Dateien immer
+OL,4,Gnoch als SEQ-Dateien im Directory      
+OL,5,Gangezeigt werden, anstatt als          
+OL,6,GPRG-Dateien, wie auf SD2IEC }blich.    
+OL,8,GWas ist euch noch aufgefallen?         
+OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

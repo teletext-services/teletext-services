@@ -3,25 +3,25 @@ PN,16501
 SC,0001
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G12:35:35
+OL,0,       BSWR BW C   Sa, 21.11.26G18:43:57
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte BW      P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 21.11.2026 12:25     
+OL,4, WETTERZUSTAND vom 21.11.2026 18:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CKurpfalz                               
-OL,8, Heidelberg        sonnig             7 
-OL,9,FMannheim          sonnig             7 
+OL,8, Heidelberg        klar               3 
+OL,9,FMannheim          klar               3 
 OL,11,CKraichgau                              
-OL,12, M}hlacker         sonnig             7 
-OL,13,FPforzheim         sonnig             7 
+OL,12, M}hlacker         bedeckt            5 
+OL,13,FPforzheim         bedeckt            5 
 OL,15,COberrhein                              
-OL,16, Baden-Baden       leicht bew|lkt     9 
-OL,17,FOffenburg         wolkig             9 
-OL,18, Freiburg im Brsg. bedeckt            9 
-OL,19,FKarlsruhe         sonnig             8 
-OL,20, Lahr              bedeckt            9 
+OL,16, Baden-Baden       wolkig             6 
+OL,17,FOffenburg         bedeckt            8 
+OL,18, Freiburg im Brsg. bedeckt            8 
+OL,19,FKarlsruhe         wolkig             5 
+OL,20, Lahr              bedeckt            8 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -29,25 +29,25 @@ PN,16502
 SC,0002
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G12:35:35
+OL,0,       BSWR BW C   Sa, 21.11.26G18:43:57
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte BW      P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 21.11.2026 12:25     
+OL,4, WETTERZUSTAND vom 21.11.2026 18:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CHochrhein                              
-OL,8, L|rrach           wolkig            10 
-OL,9,FWaldshut-Tiengen  wolkig            10 
+OL,8, L|rrach           bedeckt            7 
+OL,9,FWaldshut-Tiengen  bedeckt            5 
 OL,11,CSchwarzwald                            
-OL,12, Calw              sonnig             6 
-OL,13,FFurtwangen        wolkig             4 
-OL,14, Schramberg        leicht bew|lkt     7 
-OL,15,FFeldberg im Schw. wolkig             0 
-OL,16, Freudenstadt      sonnig             5 
+OL,12, Calw              bedeckt            5 
+OL,13,FFurtwangen        bedeckt            3 
+OL,14, Schramberg        bedeckt            6 
+OL,15,FFeldberg im Schw. bedeckt            0 
+OL,16, Freudenstadt      bedeckt            4 
 OL,18,CBaar                                   
-OL,19, Rottweil          wolkig             6 
-OL,20,FVillingen-Schw.   wolkig             5 
+OL,19, Rottweil          bedeckt            5 
+OL,20,FVillingen-Schw.   bedeckt            4 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -55,28 +55,28 @@ PN,16503
 SC,0003
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G12:35:35
+OL,0,       BSWR BW C   Sa, 21.11.26G18:43:57
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte BW      P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 21.11.2026 12:25     
+OL,4, WETTERZUSTAND vom 21.11.2026 18:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CRaum Stuttgart                         
-OL,8, Backnang          leicht bew|lkt     7 
-OL,9,FBietigheim-Biss.  sonnig             7 
-OL,10, Esslingen         leicht bew|lkt     7 
-OL,11,FHeilbronn         leicht bew|lkt     7 
-OL,12, Kirchheim Teck    wolkig             7 
-OL,13,FReutlingen        wolkig             7 
-OL,14, Schw{bisch Gm}nd  leicht bew|lkt     5 
-OL,15,FT}bingen          leicht bew|lkt     7 
-OL,16, Stuttgart         leicht bew|lkt     7 
-OL,17,FStuttgart-Flugh.  wolkig             6 
+OL,8, Backnang          wolkig             4 
+OL,9,FBietigheim-Biss.  wolkig             4 
+OL,10, Esslingen         bedeckt            5 
+OL,11,FHeilbronn         leicht bew|lkt     3 
+OL,12, Kirchheim Teck    bedeckt            5 
+OL,13,FReutlingen        bedeckt            6 
+OL,14, Schw{bisch Gm}nd  wolkig             3 
+OL,15,FT}bingen          bedeckt            7 
+OL,16, Stuttgart         bedeckt            5 
+OL,17,FStuttgart-Flugh.  bedeckt            5 
 OL,19,CDonau                                  
-OL,20, Sigmaringen       wolkig             6 
-OL,21,FTuttlingen        wolkig             6 
-OL,22, Ulm-M{hringen     wolkig             5 
+OL,20, Sigmaringen       bedeckt            6 
+OL,21,FTuttlingen        bedeckt            5 
+OL,22, Ulm-M{hringen     bedeckt            4 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -84,25 +84,25 @@ PN,16504
 SC,0004
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G12:35:35
+OL,0,       BSWR BW C   Sa, 21.11.26G18:43:57
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte BW      P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 21.11.2026 12:25     
+OL,4, WETTERZUSTAND vom 21.11.2026 18:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CMain                                   
-OL,8, Wertheim          wolkig             5 
+OL,8, Wertheim          klar               2 
 OL,10,COdenwald                               
-OL,11, Buchen            leicht bew|lkt     5 
-OL,12,FMosbach           leicht bew|lkt     6 
-OL,13, Michelstadt       sonnig             4 
+OL,11, Buchen            klar               2 
+OL,12,FMosbach           klar               2 
+OL,13, Michelstadt       klar               2 
 OL,15,CHohenloher Ebene                       
-OL,16, Bad Mergentheim   leicht bew|lkt     6 
-OL,17,FCrailsheim        leicht bew|lkt     5 
-OL,18, \hringen          leicht bew|lkt     6 
-OL,19,FSchw{bisch Hall   leicht bew|lkt     6 
-OL,20, Niederstetten     leicht bew|lkt     6 
+OL,16, Bad Mergentheim   klar               2 
+OL,17,FCrailsheim        leicht bew|lkt     1 
+OL,18, \hringen          klar               2 
+OL,19,FSchw{bisch Hall   leicht bew|lkt     2 
+OL,20, Niederstetten     klar               2 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -110,25 +110,25 @@ PN,16505
 SC,0005
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G12:35:35
+OL,0,       BSWR BW C   Sa, 21.11.26G18:43:57
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte BW      P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 21.11.2026 12:25     
+OL,4, WETTERZUSTAND vom 21.11.2026 18:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CSchw{bische Alb                        
-OL,8, Aalen             leicht bew|lkt     5 
-OL,9,FAlbstadt          leicht bew|lkt     5 
-OL,10, Balingen          leicht bew|lkt     6 
-OL,11,FHeidenheim        wolkig             5 
-OL,12, M}nsingen         wolkig             5 
-OL,13,FSt|tten           leicht bew|lkt     3 
-OL,14, Me~stetten        wolkig             5 
+OL,8, Aalen             leicht bew|lkt     2 
+OL,9,FAlbstadt          bedeckt            4 
+OL,10, Balingen          bedeckt            6 
+OL,11,FHeidenheim        wolkig             3 
+OL,12, M}nsingen         wolkig             4 
+OL,13,FSt|tten           wolkig             2 
+OL,14, Me~stetten        bedeckt            4 
 OL,16,COberschwaben                           
-OL,17, Biberach          wolkig             6 
-OL,18,FPfullendorf       wolkig             6 
-OL,19, Ravensburg        Regen              7 
+OL,17, Biberach          wolkig             5 
+OL,18,FPfullendorf       bedeckt            5 
+OL,19, Ravensburg        wolkig             6 
 OL,20,FLaupheim          wolkig             6 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
@@ -137,26 +137,26 @@ PN,16506
 SC,0006
 PS,C200
 CT,10,T
-OL,0,       BSWR BW C   Sa, 21.11.26G12:35:35
+OL,0,       BSWR BW C   Sa, 21.11.26G18:43:57
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte BW      P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 21.11.2026 12:25     
+OL,4, WETTERZUSTAND vom 21.11.2026 18:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CAllg{u                                 
-OL,8, Isny              bedeckt            5 
-OL,9,FLeutkirch         bedeckt            5 
-OL,10, Memmingen         bedeckt            5 
-OL,11,FWangen im Allg.   Regen              6 
+OL,8, Isny              Regen              4 
+OL,9,FLeutkirch         wolkig             4 
+OL,10, Memmingen         wolkig             5 
+OL,11,FWangen im Allg.   wolkig             5 
 OL,12, Kempten           Regen              4 
-OL,13,FOberstdorf        bedeckt            4 
+OL,13,FOberstdorf        wolkig             4 
 OL,15,CBodensee                               
 OL,16, Friedrichshafen   bedeckt            7 
-OL,17,FLindau            bedeckt            6 
-OL,18, Radolfzell        bedeckt            8 
+OL,17,FLindau            wolkig             6 
+OL,18, Radolfzell        bedeckt            7 
 OL,19,FSingen            bedeckt            7 
-OL,20, ]berlingen        wolkig             7 
+OL,20, ]berlingen        bedeckt            7 
 OL,21,FKonstanz          bedeckt            7 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport

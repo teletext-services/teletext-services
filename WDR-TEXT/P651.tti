@@ -1,13 +1,47 @@
 DE,WDR-TEXT 651
-PN,65100
-SC,0000
-PS,8208
+PN,65101
+SC,0001
+PS,C200
 CT,10,T
-OL,0,     G651 WDR Text GSa 21.11.26 15:34:27
+OL,0,     G651 WDR Text GSo 22.11.26 07:42:32
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: 2. Bundesliga/M  
-OL,5,CSt. Pauli : Bochum                 -:- 
+OL,5,CSt. Pauli : Bochum            2:0 (1:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Niang (3.) 2:0 Ando (47.)          
+OL,10,CStrafen:                               
+OL,11,S|GMeyer (7.) S|GSmith (14.)            
+OL,12,S|GCeesay (45.) S|GKlein (90.)          
+OL,13,S|GOuro-Tagba (90.)                     
+OL,15,CZuschauer: G29.546                     
+OL,17,CSR: GDaniel Schlager                   
 OL,23,]D600 < ]bersicht      Live-Ticker > 652
-OL,24,A]G- 650B]G+ 652  \                     
+OL,24,A]G- 650B]G+ 652  \               G(1/2)
+FL,650,652,0,0,0,100
+PN,65102
+SC,0002
+PS,C200
+CT,10,T
+OL,0,     G651 WDR Text GSo 22.11.26 07:42:32
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: 2. Bundesliga/M  
+OL,5,CSt. Pauli : Bochum            2:0 (1:0)
+OL,7,CAustellungen:                          
+OL,9,CSt. Pauli                              
+OL,10, Voll Ando Mathisen Nemeth              
+OL,11, Ritzka (46. Ahlstrand) Pyrka           
+OL,12, Fujita (90. Klein) Smith               
+OL,13, Hrgota (87. Metcalfe)                  
+OL,14, Ceesay (81. Hara) Niang (87. Kaars)    
+OL,15,CBochum                                 
+OL,16, Horn Wittek Mets Steinwender           
+OL,17, Klaiber (70. Olsen) Pannewig           
+OL,18, Meyer (58. Pati o)                     
+OL,19, Rasmussen (78. Ouro-Tagba)             
+OL,20, Taz (58. Holtmann)                     
+OL,21, Steuckers (58. Miyoshi) Hofmann        
+OL,23,]D600 < ]bersicht      Live-Ticker > 652
+OL,24,A]G- 650B]G+ 652  \               G(2/2)
 FL,650,652,0,0,0,100
