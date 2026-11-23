@@ -3,23 +3,23 @@ PN,72201
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G722  RTS 2     22.11.26 19:38:12
-OL,1,A]GRTS 2     ]@mardi 24 novembre        
-OL,2,                                    1/5 
+OL,0,       G722  RTS 2     23.11.26 05:38:36
+OL,1,A]GRTS 2     ]@mardi 1 d#cembre         
+OL,2,                                    1/4 
 OL,4,G07:00 GLa Matinale                     
 OL,5,       GLa Matinale en vid#oCS-T        
 OL,6,F08:00 FSuisse en sc`ne                 
-OL,7,E 0759 FJulie ContiCS-T                 
+OL,7,E 0759 FSelim KrichaneCS-T              
 OL,8,G08:30 GRTS Info                        
 OL,9,E 0800 GL'actualit# en continuCS-T      
 OL,10,F09:00 FForum                           
-OL,11,       FForum en diff#r#  du 23.11.     
+OL,11,       FForum en diff#r#  du 30.11.     
 OL,12,       F2026CS-T                        
 OL,13,G10:00 GRTS Info                        
 OL,14,E 0940 GL'actualit# en continuCS-T      
 OL,15,F10:25 FAu coeur de la Suisse           
 OL,16,       FEn marche sur les glaciers      
-OL,17,       F- Tremoggia et RosegCS-T        
+OL,17,       F- Sauvetage en altitudeCS-T     
 OL,18,       C(R)                             
 OL,19,G10:50 GRTS Info                        
 OL,20,E 1045 GL'actualit# en continuCS-T      
@@ -29,100 +29,68 @@ PN,72202
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G722  RTS 2     22.11.26 19:38:12
-OL,1,A]GRTS 2     ]@mardi 24 novembre        
-OL,2,                                    2/5 
+OL,0,       G722  RTS 2     23.11.26 05:38:36
+OL,1,A]GRTS 2     ]@mardi 1 d#cembre         
+OL,2,                                    2/4 
 OL,4,F11:25 Fbasik                           
-OL,5,       FBienvenue au clubCS-TC(R)       
-OL,6,G11:50 GRTS Info                        
-OL,7,E 1140 GL'actualit# en continuCS-T      
-OL,8,F12:10 FCouleurs locales                
-OL,9,       CS-TC(R)                         
-OL,10,G12:25 GRTS Info                        
-OL,11,E 1230 GL'actualit# en continuCS-T      
-OL,12,F13:15 F12h45                           
-OL,13,       CS-TC(R)                         
-OL,14,G13:36 GM#t#o                           
-OL,15,E 1335 CS-TC(R)                         
-OL,16,F13:40 FRTS Info                        
-OL,17,       FL'actualit# en continuCS-T      
-OL,18,G14:05 GSignes                          
-OL,19,       GUn si`cle de DeaflympicsCS-     
-OL,20,       GTCLSC(R)                        
+OL,5,E 1120 Fbasik 2026CS-TC(R)              
+OL,6,G11:55 GNatation                        
+OL,7,E 1110 GChampionnats du mondeCS-T       
+OL,8,F14:10 F36.9  Sant# - Sign#             
+OL,9,E 1405 CS-TCLSC(R)                      
+OL,10,G15:00 GA bon entendeur                 
+OL,11,E 1440 GLocataires @ bout: r#cits       
+OL,12,       Gde conflits ordinairesCS-T      
+OL,13,       C(R)                             
+OL,14,F15:40 FRTS Info                        
+OL,15,E 1525 FL'actualit# en continuCS-T      
+OL,16,G16:15 Gbasik                           
+OL,17,       Gbasik 2026CS-TC(R)              
+OL,18,F16:40 FRTS Info                        
+OL,19,       FL'actualit# en continuCS-T      
+OL,20,G18:00 GForum                           
+OL,21,       GForum du 01.12.2026CS-T         
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,72203
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G722  RTS 2     22.11.26 19:38:12
-OL,1,A]GRTS 2     ]@mardi 24 novembre        
-OL,2,                                    3/5 
-OL,4,F14:35 FA bon entendeur                 
-OL,5,E 1440 FS#cheresse: quel avenir         
-OL,6,       Fpour le Gruy`re?CS-TC(R)        
-OL,7,G15:15 GRTS Info                        
-OL,8,E 1525 GL'actualit# en continuCS-T      
-OL,9,F16:05 Fbasik                           
-OL,10,       FBienvenue au clubCS-TC(R)       
-OL,11,G16:30 GRTS Info                        
-OL,12,E 1640 GL'actualit# en continuCS-T      
-OL,13,F18:00 FForum                           
-OL,14,       FForum du 24.11.2026CS-T         
-OL,15,G19:05 GRTS Info                        
-OL,16,E 1900 GL'actualit# en continuCS-T      
-OL,17,F19:30 F19h30 - Sign#                   
-OL,18,       CS-TCLS                          
-OL,19,G20:05 GPMU                             
-OL,20,E 2000                                  
+OL,0,       G722  RTS 2     23.11.26 05:38:36
+OL,1,A]GRTS 2     ]@mardi 1 d#cembre         
+OL,2,                                    3/4 
+OL,4,F18:45 FFootball                        
+OL,5,E 1850 FQualifications Coupe du         
+OL,6,       FMonde FIFA 2027CS-T             
+OL,7,G21:10 GFootball                        
+OL,8,E 1946 GCoupe de SuisseCS-T             
+OL,9,F22:35 FPMU                             
+OL,10,E 2000                                  
+OL,11,G22:40 GInsoumises                      
+OL,12,E 2239 CS-T                             
+OL,13,F00:15 FZap RTS Sport                   
+OL,14,E 2240 CS-T                             
+OL,15,G00:20 GNocturne                        
+OL,16,E 2345 GFormentera Lady CS-T            
+OL,17,F01:35 F19h30 - Sign#                   
+OL,18,E 1930 CS-TCLS                          
+OL,19,G02:05 GA bon entendeur                 
+OL,20,E 0105 GParfums : les codes du luxe     
+OL,21,       Gr#invent#sCS-TC(R)              
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,72204
 SC,0004
 PS,C080
 CT,8,T
-OL,0,       G722  RTS 2     22.11.26 19:38:12
-OL,1,A]GRTS 2     ]@mardi 24 novembre        
-OL,2,                                    4/5 
-OL,4,F20:10 FDes trains pas comme les        
-OL,5,       Fautres                          
-OL,6,       FIstanbulCS-T                    
-OL,7,G21:05 GA forgotten man                 
-OL,8,       CS-T                             
-OL,9,F22:40 FZap RTS Sport                   
-OL,10,       CS-T                             
-OL,11,G22:45 GNocturne                        
-OL,12,E 2250 GLe roman de Jim CS-T            
-OL,13,F00:25 FMeurtres @ l'Avent              
-OL,14,E 2345 FEpisode 1  "L'ange des          
-OL,15,       Fneiges"CS-T                     
-OL,16,G00:50 GMeurtres @ l'Avent              
-OL,17,E 0045 GEpisode 2  "Un lutin            
-OL,18,       Genfum#"CS-T                     
-OL,19,F01:15 FMeurtres @ l'Avent              
-OL,20,E 0110 FEpisode 3  "Mon beau sapin"     
-OL,21,       CS-T                             
-OL,24,AIndex    BSport     CMeteo    FTV&Radio
-FL,101,180,500,700,0,100
-PN,72205
-SC,0005
-PS,C080
-CT,8,T
-OL,0,       G722  RTS 2     22.11.26 19:38:12
-OL,1,A]GRTS 2     ]@mardi 24 novembre        
-OL,2,                                    5/5 
-OL,4,G01:40 GMeurtres @ l'Avent              
-OL,5,E 0135 GEpisode 4  "Nom de bleu !"      
-OL,6,       CS-T                             
-OL,7,F02:10 FA bon entendeur                 
-OL,8,E 0125 FLocataires @ bout: r#cits       
-OL,9,       Fde conflits ordinairesCS-T      
-OL,10,       C(R)                             
-OL,11,G02:45 GCouleurs locales                
-OL,12,E 0130 CS-TC(R)                         
-OL,13,F03:05 F19h30 - Sign#                   
-OL,14,E 0150 CS-TCLSC(R)                      
-OL,15,G05:55 GRTS Info                        
-OL,16,       GL'actualit# en continuCS-T      
+OL,0,       G722  RTS 2     23.11.26 05:38:36
+OL,1,A]GRTS 2     ]@mardi 1 d#cembre         
+OL,2,                                    4/4 
+OL,4,F02:45 FCouleurs locales                
+OL,5,E 0130 CS-TC(R)                         
+OL,6,G03:00 G19h30 - Sign#                   
+OL,7,E 0150 CS-TCLSC(R)                      
+OL,8,F05:55 FRTS Info                        
+OL,9,       FL'actualit# en continuCS-T      
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

@@ -1,21 +1,81 @@
 DE,TEKSTI-TV 305
-PN,30500
-SC,0000
-PS,8108
+PN,30501
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       G305 YLE TEKSTI-TV 22.03.21:43:22
-OL,1,C]AYle TeemaA]                    C 1/1 
-OL,2,C]A    Fem  A]C   Sunnuntai 22.11.      
+OL,0,       G305 YLE TEKSTI-TV 23.03.07:43:32
+OL,1,C]AYle TeemaA]                    C 1/3 
+OL,2,C]A    Fem  A]C   Maanantai 23.11.      
 OL,3,S##########^Q###########################
-OL,4, 21.00GPer ja Marie - Roxetten tarina   
-OL,5,      G(S)BAC>360                       
-OL,6, 21.55GGullsp}ngin ihmeG(S)BAC>360      
-OL,7,K                                       
-OL,8,K                                       
-OL,9,K                                       
-OL,10,K                                       
-OL,11,K                                       
-OL,12,K                                       
+OL,4, 07.42GL{{k{rit vastaan internetBAC>359 
+OL,5, 08.22GSportlivETBA                     
+OL,6, 08.33GVillit kokitBAC>359              
+OL,7, 09.02GSukumme arvetETBAC>359           
+OL,8, 09.41GPiispatBAC>359                   
+OL,9, 10.02GKampradin miljoonatBAC>359       
+OL,10, 11.00GKenza Zouiten - bloggaajasta     
+OL,11,      Gsomet{hdeksiBAC>359              
+OL,12, 12.00GP{ivien lumoETBAC>359            
+OL,13, 13.30GLewerentz - el{m{n ja kuoleman   
+OL,14,      GarkkitehtiBAC>359                
+OL,15, 14.30GSaranakoiraG(12)ETC>359 &357     
+OL,16, 15.00GLa Promesa - Salaisuuksien       
+OL,17,      GkartanoG(7)BAC>359               
+OL,18, 16.00GPastori ja ruma joulukuusiG(S)ET 
+OL,19,      BAC>359                           
+OL,20, 16.30GT{m{kin on tottaETBAC>359        
+OL,21,K                                       
+OL,22,ET = Tekstitys                          
+OL,23,BA = Jo Areenassa   FA = Tulee Areenaan 
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,30502
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       G305 YLE TEKSTI-TV 23.03.07:43:32
+OL,1,B]DYle TeemaG]                    D 2/3 
+OL,2,B]D    Fem  G]D   Maanantai 23.11.      
+OL,3,R##########^W###########################
+OL,4, 16.41GSuomen historia, uudella tavalla 
+OL,5,      G(7)BAC>359                       
+OL,6, 16.50GSinkkumysteeriG(S)BAC>359        
+OL,7, 17.45GLivet - suomenruotsalaisia       
+OL,8,      GtarinoitaBAC>356                 
+OL,9, 17.55GYle Nyheter TV-nytt 17.55FA      
+OL,10, 18.00GBUU-klubbenBA                    
+OL,11, 18.30GRahaa, rahaa, rahaaBAC>360       
+OL,12, 19.00GKyl{kanavan valtakuntaBAC>360    
+OL,13, 19.30GYle Nyheter TV-nytt 19.30FA      
+OL,14, 19.55GNuoret kilvoittelijatG(S)ETBA    
+OL,15,      C>356                             
+OL,16, 20.17GHallnG(12)BAC>360                
+OL,17, 20.34GHallnG(12)BAC>360                
+OL,18, 20.53GRuotsi tutkiiBAC>360             
+OL,19, 21.00GEfter NioFAC>360                 
+OL,20, 22.00GYh{ hengiss{G(7)BAC>360          
+OL,21, 22.46GSolsidan - Onnea onkimassaG(7)BA 
+OL,22,      C>360                             
+OL,23,B]DTeema&Fem huomennaD312 ylihuomenna317
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,30503
+SC,0003
+PS,C100
+CT,15,T
+OL,0,       G305 YLE TEKSTI-TV 23.03.07:43:32
+OL,1,C]AYle TeemaA]                    C 3/3 
+OL,2,C]A    Fem  A]C   Maanantai 23.11.      
+OL,3,S##########^Q###########################
+OL,4, 20.17GHallnG(12)BAC>360                
+OL,5, 20.34GHallnG(12)BAC>360                
+OL,6, 20.53GRuotsi tutkiiBAC>360             
+OL,7, 21.00GEfter NioFAC>360                 
+OL,8, 22.00GYh{ hengiss{G(7)BAC>360          
+OL,9, 22.46GSolsidan - Onnea onkimassaG(7)BA 
+OL,10,      C>360                             
+OL,11, 23.08GSolsidan - Onnea onkimassaG(12)BA
+OL,12,      C>360                             
 OL,13,K                                       
 OL,14,K                                       
 OL,15,K                                       
@@ -25,7 +85,7 @@ OL,18,K
 OL,19,K                                       
 OL,20,K                                       
 OL,21,K                                       
-OL,22,ET = Tekstitys                          
-OL,23,BA = Jo Areenassa   FA = Tulee Areenaan 
+OL,22,K                                       
+OL,23,A]C    TV-ohjelmien hakemisto s.C300    
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

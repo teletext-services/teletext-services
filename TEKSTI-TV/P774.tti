@@ -3,29 +3,29 @@ PN,77401
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G774 YLE TEKSTI-TV 22.03.21:53:43
-OL,1,B]DYle TeemaG]                    D 1/2 
-OL,2,B]D    Fem  G]D   S|ndag 22.11.         
+OL,0,       G774 YLE TEKSTI-TV 23.03.07:54:05
+OL,1,B]DYle TeemaG]                    D 1/3 
+OL,2,B]D    Fem  G]D   M}ndag 23.11.         
 OL,3,R##########^W###########################
-OL,4, 21.00GPer och Marie - historien om     
-OL,5,      GRoxetteG(S)ETBAC>776             
-OL,6, 21.55GMiraklet i Gullsp}ngG(S)BAC>776  
-OL,7,K                                       
-OL,8,     B  M}ndag 23.11.B                  
-OL,9, 07.42GL{karna mot internetBA           
-OL,10, 08.22GSportlivBA                       
-OL,11, 08.33GVilda kockarETBA                 
-OL,12, 09.02GS}ren vi {rvdeETBA               
-OL,13, 09.41GFem biskoparETBA                 
-OL,14, 10.02GKamprads miljonerETBA            
-OL,15, 11.00GKenza den f|rstaETBA             
-OL,16, 12.00GDagarnas skimmerBA               
-OL,17, 13.30GArkitekt LewerentzETBA           
-OL,18, 14.30GG}ngj{rnshundenG(12)             
-OL,19, 15.00GLa Promesa - hemligheternas      
-OL,20,      Gherrg}rdG(7)FA                   
-OL,21, 16.00GPastorn och den fula julgranen   
-OL,22,      G(S)BA                            
+OL,4, 07.42GL{karna mot internetBAC>775      
+OL,5, 08.22GSportlivBA                       
+OL,6, 08.33GVilda kockarETBAC>775            
+OL,7, 09.02GS}ren vi {rvdeETBAC>775          
+OL,8, 09.41GFem biskoparETBAC>775            
+OL,9, 10.02GKamprads miljonerETBAC>775       
+OL,10, 11.00GKenza den f|rstaETBAC>775        
+OL,11, 12.00GDagarnas skimmerBAC>775          
+OL,12, 13.30GArkitekt LewerentzETBAC>775      
+OL,13, 14.30GG}ngj{rnshundenG(12)C>775        
+OL,14, 15.00GLa Promesa - hemligheternas      
+OL,15,      Gherrg}rdG(7)BAC>775              
+OL,16, 16.00GPastorn och den fula julgranen   
+OL,17,      G(S)BAC>775                       
+OL,18, 16.30GDet h{r {r ocks} santBAC>775     
+OL,19, 16.41GFinlands historia - som du aldrig
+OL,20,      Ghar sett den f|rrG(7)ETBAC>775   
+OL,21, 16.50GSingelg}tanG(S)BAC>775           
+OL,22,K                                       
 OL,23,B]D    A = Arenan    L{s mera s.775-776 
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -33,29 +33,59 @@ PN,77402
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G774 YLE TEKSTI-TV 22.03.21:53:43
-OL,1,B]DYle TeemaG]                    D 2/2 
+OL,0,       G774 YLE TEKSTI-TV 23.03.07:54:05
+OL,1,B]DYle TeemaG]                    D 2/3 
 OL,2,B]D    Fem  G]D   M}ndag 23.11.         
 OL,3,R##########^W###########################
-OL,4, 16.30GDet h{r {r ocks} santBA          
-OL,5, 16.41GFinlands historia - som du aldrig
-OL,6,      Ghar sett den f|rrG(7)ETBA        
-OL,7, 16.50GSingelg}tanG(S)BA                
-OL,8, 17.45GLivet - ber{ttelser fr}n         
-OL,9,      GSvenskfinlandETFA                
-OL,10, 17.55GYle Nyheter TV-nytt 17.55FA      
-OL,11, 18.00GBUU-klubbenETFA                  
-OL,12, 18.30GPengar, pengar, pengarBA         
-OL,13, 19.00GLokal-TV LandETBA                
-OL,14, 19.30GYle Nyheter TV-nytt 19.30FA      
-OL,15, 19.55GDe nya ortodoxaG(S)ETBA          
-OL,16, 20.17GHallnG(12)ETBA                   
-OL,17, 20.34GHallnG(12)ETBA                   
-OL,18, 20.53GSverige forskarETBA              
-OL,19, 21.00GEfter NioFA                      
-OL,20, 22.00GStill BreathingG(7)BA            
-OL,21, 22.46GSolsidanG(7)ETFA                 
-OL,22, 23.08GSolsidanG(12)ETFA                
+OL,4, 17.45GLivet - ber{ttelser fr}n         
+OL,5,      GSvenskfinlandETBA                
+OL,6, 17.55GYle Nyheter TV-nytt 17.55FA      
+OL,7, 18.00GBUU-klubbenETBA                  
+OL,8, 18.30GPengar, pengar, pengarBAC>776    
+OL,9, 19.00GLokal-TV LandETBAC>776           
+OL,10, 19.30GYle Nyheter TV-nytt 19.30FA      
+OL,11, 19.55GDe nya ortodoxaG(S)ETBA          
+OL,12, 20.17GHallnG(12)ETBAC>776              
+OL,13, 20.34GHallnG(12)ETBAC>776              
+OL,14, 20.53GSverige forskarETBAC>776         
+OL,15, 21.00GEfter NioFAC>776                 
+OL,16, 22.00GStill BreathingG(7)BAC>776       
+OL,17, 22.46GSolsidanG(7)ETBAC>776            
+OL,18, 23.08GSolsidanG(12)ETBAC>776           
+OL,19,K                                       
+OL,20,     B  Tisdag 24.11.B                  
+OL,21, 07.36GL{karna mot internetBA           
+OL,22, 08.15GMin kvinnliga ytaETBA            
+OL,23,B]D    NyheterD700                      
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,77403
+SC,0003
+PS,C100
+CT,15,T
+OL,0,       G774 YLE TEKSTI-TV 23.03.07:54:05
+OL,1,B]DYle TeemaG]                    D 3/3 
+OL,2,B]D    Fem  G]D   Tisdag 24.11.         
+OL,3,R##########^W###########################
+OL,4, 08.33GGud s} gottETFA                  
+OL,5, 09.02GEfter NioFA                      
+OL,6, 10.01GMin sanningETBA                  
+OL,7, 11.00GPengar, pengar, pengarBA         
+OL,8, 11.30GLokal-TV LandETBA                
+OL,9, 12.00GDansprovBA                       
+OL,10, 12.30GLevande arkiv: Lagra ackordBA    
+OL,11, 12.45GJohn Neumeiers GlasmenagerietBA  
+OL,12, 15.00GLa Promesa - hemligheternas      
+OL,13,      Gherrg}rdG(7)BA                   
+OL,14, 15.55GJohn Neumeier: Ett liv f|r dansen
+OL,15,      BA                                
+OL,16, 16.50GNy film: TransVersumG(S)BA       
+OL,17, 17.11GSvenska designklassikerET        
+OL,18, 17.16GFinlands historia - som du aldrig
+OL,19,      Ghar sett den f|rrG(7)ETBA        
+OL,20, 17.25GTordyveln flyger i skymningenG(S)
+OL,21,      ETBA                              
+OL,22, 17.50GOrmar ombordG(S)ETBA             
 OL,23,B]D    NyheterD700                      
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

@@ -1,9 +1,9 @@
 DE,SWR-RP 635
-PN,63500
-SC,0000
-PS,8208
+PN,63501
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:22:51
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:23:47
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -12,5 +12,36 @@ OL,12, G}ltig: So 18:00 bis Mo 10:00
 OL,14,FHeidenheim, Ostalbkreis                
 OL,16, Es tritt leichter Frost bis -3 `C auf. 
 OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,63502
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:23:47
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,11,FWARNUNG vor GL[TTE                     
+OL,12, G}ltig: So 22:00 bis Mo 10:00          
+OL,14,FOstalbkreis                            
+OL,16, Es besteht Gl{ttegefahr.               
+OL,23,D]GQuelle:DWD  Stand:21:57  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,63503
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:23:47
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor NEBEL                      
+OL,11, G}ltig: Mo 01:01 bis Mo 09:00          
+OL,13,FOstalbkreis                            
+OL,15, Es tritt gebietsweise Nebel mit        
+OL,16, Sichtweiten unter 150 Metern auf.      
+OL,23,D]GQuelle:DWD  Stand:06:03  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

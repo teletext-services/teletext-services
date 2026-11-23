@@ -3,29 +3,29 @@ PN,72100
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       G721FNDR TEXT GSo 22.11.B17:41:04
+OL,0,       G721FNDR TEXT GMo 23.11.B03:41:04
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN HANNOVER          
-OL,4,F]T  %D     Abflug       Stand 17:34    
+OL,4,F]T  %D     Abflug       Stand 03:12    
 OL,5,BFLUG    NACH          PLAN ERW. TER/BEM
-OL,6, EW 3886 Rom Fiumicino 1655 1701 A Start
-OL,7,FVL 2095 M}nchen       1715 1722 A Start
-OL,8, TK 1556 Istanbul      1800      C      
-OL,9,FKL 1792 Amsterdam     1815      A      
-OL,10, EW 6851 P. de Mallorc 1815      A      
-OL,11,FLH  047 Frankfurt     1900      A      
-OL,12, LX  829 Z}rich        1905      A      
-OL,13,FAF 1839 Paris - CDG   1910      A      
-OL,14, LH 2097 M}nchen       1945      A      
-OL,15,FOS  278 Wien          2025      A      
-OL,16, BA  929 London-Heathr 2155      C      
-OL,17,C        -- Am 23.11.2026 --            
-OL,18, PC 1036 Istanbul-Sab. 0045      C      
-OL,19,FUD  496 Erbil         0105      C      
-OL,20, SM 2933 Hurghada      0220      C      
-OL,21,FXQ  231 Antalya       0235      C      
-OL,22, X3 2274 Jerez         0325      A      
+OL,6, UD  496 Erbil         0105 0204 C Start
+OL,7,FSM 2933 Hurghada      0220 0241 C Start
+OL,8, XQ  231 Antalya       0235 0255 C Start
+OL,9,FX3 2274 Jerez         0325      A      
+OL,10, X3 2146 P. de Mallorc 0500      A      
+OL,11,FX3 6150 Sal / Kap Ver 0540      C      
+OL,12,C   via Boa Vista / Kap Ver             
+OL,13,FVL 2101 M}nchen       0600      A      
+OL,14, KL 1786 Amsterdam     0605      A      
+OL,15,FLH  049 Frankfurt     0615      A      
+OL,16, AF 1439 Paris - CDG   0720      A      
+OL,17,FX3 6954 Hurghada      0750      C      
+OL,18, EW 3592 P. de Mallorc 0755      A      
+OL,19,FXR  541 Fuerteventura 0900      B      
+OL,20, LH 2091 M}nchen       0915      A      
+OL,21,FJU  281 Belgrad       0920      C      
+OL,22, LX  815 Z}rich        0935      A      
 OL,23,A]G700<                      WEITER >722
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

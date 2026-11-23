@@ -3,20 +3,26 @@ PN,70400
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G704  RSI LA 2  21.11.26 11:09:13
-OL,1,A]GRSI   ]@LA2       SABATO 21 novembre 
+OL,0,       G704  RSI LA 2  23.11.26 05:10:34
+OL,1,A]GRSI   ]@LA2       LUNEDI 23 novembre 
 OL,2,G                                       
-OL,3, G23:25  G1997 fuga da New  CSTCI/IIC710
-OL,4,         GYork                          
-OL,5, F01:00  FMinisguardCST                 
-OL,6, G01:15  GSportseraCR                   
-OL,7, F01:40  FA tutto hockey                
-OL,8, G02:00  GSci alpino: Coppa del   CSTCR 
-OL,9,         GMondo 2026/2027               
-OL,10,         GSlalom femminile              
-OL,11, F03:10  FMotomondiale 2026CSTCR        
-OL,12,         FGran Premio del Portogallo    
-OL,13, G04:05  GMotomondiale 2026CSTCR        
-OL,14,         GGran Premio del Portogallo    
+OL,3, G19:10  GLe sorelle McLeodCSTCI/II     
+OL,4,         GLegami di sangue              
+OL,5, F20:00  FModern FamilyCSTCI/II         
+OL,6,         FIl raffreddore                
+OL,7, G20:25  GTelesguardCST                 
+OL,8, F20:45  F60 minutiCST                  
+OL,9, G21:55  GIl canto del       CSTC1TVC710
+OL,10,         Grespiro                       
+OL,11, F23:50  FSegni dei tempiCST            
+OL,12, G00:10  GPaganini                      
+OL,13, F01:05  FTelesguardCST                 
+OL,14, G01:20  GTG Notte                      
+OL,15, F01:40  FMeteoCST                      
+OL,16, G01:45  GPrima OraCST                  
+OL,17, F02:35  FIl QuotidianoCST              
+OL,18, G03:05  GTelegiornaleCST               
+OL,19, F03:35  FTG Notte                      
+OL,20, G03:55  GMeteoCST                      
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

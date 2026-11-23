@@ -3,25 +3,22 @@ PN,60201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G602FORF IIIGSo 22.11.26 18:42:01
+OL,0,       G602FORF IIIGMo 23.11.26 04:42:03
 OL,1,A]G                                Wien 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       1/3  
-OL,4,FHeute NachtGstark bew|lkt, aber trocken
-OL,5,Gbei einem Tiefstwert um 0 Grad.        
-OL,7,FMorgenGzeitweise sonnig, windig, kalt. 
-OL,8,GBei auflebendem, teils kr{ftigem       
-OL,9,GNW-Wind wechseln Wolken und Sonne. Ein 
-OL,10,Gkurzer Schnee- oder Regenschauer ist   
-OL,11,Gnicht ganz ausgeschlossen. Die Tempera-
-OL,12,Gtur kommt }ber 5 Grad nicht mehr       
-OL,13,Ghinaus.                                
-OL,15,F]bermorgenGscheint den ganzen Tag die  
-OL,16,GSonne, Wolken gibt es nur wenige.      
-OL,17,GTags}ber weht lebhafter NW-Wind, zum   
-OL,18,GAbend hin flaut der Wind ab. Der       
-OL,19,GH|chstwert liegt um 4 Grad.            
-OL,21,F                           ORF 16:00h  
+OL,4,FHeuteGist es anfangs st{rker bew|lkt,  
+OL,5,Gdoch NW-Wind, der Spitzen um 50 km/h   
+OL,6,Gerreicht, lockert die Wolken im Laufe  
+OL,7,Gdes Tages immer mehr auf. Die Tempera- 
+OL,8,Gtur erreicht 4 oder 5 Grad.            
+OL,10,FMorgenGscheint meist die Sonne, ab und 
+OL,11,Gzu ziehen Wolken durch. Bis zum fr}hen 
+OL,12,GNachmittag sind lebhafte Windb|en aus  
+OL,13,GNW m|glich, anschlie~end ist der Wind  
+OL,14,Gdurchwegs schwach. Der H|chstwert liegt
+OL,15,Gbei 4 Grad.                            
+OL,21,F                           ORF 00:00h  
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -29,23 +26,23 @@ PN,60202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G602FORF IIIGSo 22.11.26 18:42:01
+OL,0,       G602FORF IIIGMo 23.11.26 04:42:03
 OL,1,A]G                                Wien 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       2/3  
-OL,4,FDonaufeld     C18hGstark bew|lktF  3,4`
-OL,5, GNW   2-6 km/h 1009hPa  0,0mm/2h  68%LF
-OL,7,FFlughafen WienC18hGstark bew|lktF  3,9`
-OL,8, GN   9-11 km/h 1009hPa  0,0mm/2h  73%LF
-OL,10,FHohe Warte    C18hGstark bew|lktF  3,6`
-OL,11, GN   5-10 km/h 1009hPa  0,0mm/2h  70%LF
-OL,13,FInnere Stadt  C18hGstark bew|lktF  5,2`
-OL,14, GNW  7-14 km/h 1009hPa  0,0mm/2h  59%LF
-OL,16,FJubil{umswarteC18hGstark bew|lktF  1,7`
-OL,17, GNO 10-13 km/h 1009hPa  0,0mm/2h  74%LF
-OL,19,FMariabrunn    C18hGstark bew|lktF  2,5`
-OL,20, GN    1-2 km/h 1009hPa  0,0mm/2h  76%LF
-OL,21,F              Geosphere Austria  18:00h
+OL,4,FDonaufeld     C04hGstark bew|lktF  2,5`
+OL,5, GNW  7-15 km/h 1013hPa  0,0mm/2h  71%LF
+OL,7,FFlughafen WienC04hGstark bew|lktF  2,1`
+OL,8, GNW 26-37 km/h 1013hPa  0,0mm/2h  73%LF
+OL,10,FHohe Warte    C04hG       wolkigF  2,8`
+OL,11, GNW 20-39 km/h 1013hPa  0,0mm/2h  73%LF
+OL,13,FInnere Stadt  C04hGstark bew|lktF  3,5`
+OL,14, GNW 19-37 km/h 1013hPa  0,0mm/2h  68%LF
+OL,16,FJubil{umswarteC04hGstark bew|lktF  0,2`
+OL,17, GNW 33-48 km/h 1013hPa  0,0mm/2h  87%LF
+OL,19,FMariabrunn    C04hGstark bew|lktF  2,6`
+OL,20, GNW 11-24 km/h 1013hPa  0,0mm/2h  74%LF
+OL,21,F              Geosphere Austria  04:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -53,15 +50,15 @@ PN,60203
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G602FORF IIIGSo 22.11.26 18:42:01
+OL,0,       G602FORF IIIGMo 23.11.26 04:42:03
 OL,1,A]G                                Wien 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       3/3  
-OL,4,FStammersdorf  C18hGstark bew|lktF  2,6`
-OL,5, GN  10-13 km/h 1010hPa  0,0mm/2h  76%LF
-OL,7,FUnterlaa      C18hGstark bew|lktF  4,2`
-OL,8, GN   9-13 km/h 1009hPa  0,0mm/2h  70%LF
-OL,21,F              Geosphere Austria  18:00h
+OL,4,FStammersdorf  C04hGstark bew|lktF  1,9`
+OL,5, GNW 11-22 km/h 1014hPa  0,0mm/2h  76%LF
+OL,7,FUnterlaa      C04hGstark bew|lktF  2,8`
+OL,8, GNW 22-39 km/h 1014hPa  0,0mm/2h  74%LF
+OL,21,F              Geosphere Austria  04:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100

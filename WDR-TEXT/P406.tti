@@ -1,27 +1,49 @@
 DE,WDR-TEXT 406
-PN,40600
-SC,0000
-PS,8208
+PN,40601
+SC,0001
+PS,C200
 CT,15,T
-OL,0,     G406 WDR Text GSo 22.11.26 23:36:39
+OL,0,     G406 WDR Text GMo 23.11.26 09:37:25
 OL,1,]D]        G]               @]    CRADIO
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     COSMO                     
-OL,4,          CSonntag, 22.11.26            
-OL,5,B00.00 Schwarz zu blau                  
-OL,7,B08.00 COSMO                            
-OL,8,       Mit Daniel  K{hler               
-OL,9,B13.00 COSMO                            
-OL,10,       Mit Boussa Thiam                 
-OL,11,B18.00 COSMO Konzerte                   
-OL,13,B19.00 No comment                       
-OL,15,B20.00 COSMO kurdi                      
-OL,16,       (kurdisch)                       
-OL,17,B21.00 COSMO sta ellinika               
-OL,18,       (griechisch)                     
-OL,19,B22.00 COSMO en espa#ol                 
-OL,20,       (spanisch)                       
-OL,21,B23.00 Schwarz zu blau                  
+OL,4,           CMontag, 23.11.26            
+OL,5,B00.00 Neu in COSMO                     
+OL,7,B02.00 Schwarz zu blau                  
+OL,9,B07.00 COSMO                            
+OL,10,       Mit Evren Zahirovic              
+OL,11,B12.00 No comment                       
+OL,13,B14.00 COSMO                            
+OL,14,       Mit Jan Kawelke                  
+OL,15,B19.00 COSMO Podcasts                   
+OL,17,B20.00 COSMO t}rk#e                     
+OL,18,       (t}rkisch)                       
+OL,19,B20.30 COSMO bosanski / hrvatski / srp- 
+OL,20,      Bski                              
+OL,21,       (s}dosteurop{ische Sprachen)     
+OL,22,       Mit Maja Mari#                   
 OL,23,]D400 < ]bersicht               weiter >
-OL,24,A]G- 405B]G+ 408  \                     
+OL,24,A]G- 405B]G+ 408  \               G(1/2)
+FL,405,408,0,0,0,100
+PN,40602
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G406 WDR Text GMo 23.11.26 09:37:25
+OL,1,]D]        G]               @]    CRADIO
+OL,2,]D]GWDR     ]DPROGRAMM       ]          
+OL,3,]T5D     COSMO                     
+OL,4,           CMontag, 23.11.26            
+OL,5,B21.00 COSMO italiano                   
+OL,6,       (italienisch)                    
+OL,7,       Mit Luciana Caglioti             
+OL,8,B21.30 COSMO po-russki                  
+OL,9,       (russisch)                       
+OL,10,B22.00 COSMO po polsku                  
+OL,11,       (polnisch)                       
+OL,12,B22.30 COSMO bel-arabi                  
+OL,13,       (arabisch)                       
+OL,14,B23.00 Schwarz zu blau                  
+OL,23,]D400 < ]bersicht               weiter >
+OL,24,A]G- 405B]G+ 408  \               G(2/2)
 FL,405,408,0,0,0,100

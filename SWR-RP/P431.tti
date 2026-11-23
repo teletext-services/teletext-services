@@ -3,17 +3,21 @@ PN,43101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:15:50
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:16:23
 OL,1,Qpppppppppp`ppppppppppppppppppppp`pppppp
-OL,2,A]GSWR4 >>P5G22. NOVEMBER       P5GRLP  
+OL,2,A]GSWR4 >>P5G23. NOVEMBER       P5GRLP  
 OL,3,Q##########"#####################"######
-OL,7, 00.00  ARD Hitnacht                    
-OL,10, 06.00  SWR4 am Sonntagmorgen           
-OL,11,        darin:                          
-OL,12,        07.15 Uhr Wetterstudio          
-OL,13,        07.45 Uhr Begegnungen           
-OL,15, 08.00  SWR4 Sonntagskonzert            
-OL,18, 10.00  SWR4 Promitalk                  
+OL,5,  0.00  ARD Hitnacht                    
+OL,6,        darin: 05.57 Uhr Morgengedanken 
+OL,9, 06.00  SWR4 am Morgen                  
+OL,10,        darin:                          
+OL,11,        06.45 Uhr Wetterstudio          
+OL,12,        06.57 Uhr Morgengedanken        
+OL,13,        08.45 Uhr Wetterstudio          
+OL,16, 10.00  SWR4 am Montag                  
+OL,17,        darin: 12.45 Uhr Wetterstudio   
+OL,20, 14.00  SWR4 am Nachmittag              
+OL,21,        darin: 16.45 Uhr Wetterstudio   
 OL,23,A]                                   G>>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -21,16 +25,17 @@ PN,43102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:15:50
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:16:23
 OL,1,Qpppppppppp`ppppppppppppppppppppp`pppppp
-OL,2,A]GSWR4 >>P5G22. NOVEMBER       P5GRLP  
+OL,2,A]GSWR4 >>P5G23. NOVEMBER       P5GRLP  
 OL,3,Q##########"#####################"######
-OL,6, 12.00  SWR4 am Sonntag                 
-OL,7,        darin:                          
-OL,8,        12.45 Uhr Wetterstudio          
-OL,12, 17.00  SWR4 am Sonntagabend            
-OL,15, 21.00  SWR Big Band & G{ste            
-OL,18, 23.00  ARD Hitnacht                    
+OL,7, 18.00  SWR4 am Abend                   
+OL,8,        darin:                          
+OL,9,        18.45 Uhr Wetterstudio          
+OL,10,        18.57 Uhr Abendgedanken         
+OL,13, 19.00  SWR4 - 70er nach 7              
+OL,16, 20.00  SWR4 am Montagabend             
+OL,19, 23.00  ARD Hitnacht                    
 OL,23,A]                                   G>>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

@@ -3,7 +3,7 @@ PN,25001
 SC,0001
 PS,C200
 CT,8,T
-OL,0,       G250  SRF zwei  22.11.26 19:59:54
+OL,0,       G250  SRF zwei  23.11.26 06:00:23
 OL,1,C]@FUSSBALL         G]@22.11.26 18:14G"=
 OL,2,GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 OL,3,                                    1/4 
@@ -28,21 +28,23 @@ PN,25002
 SC,0002
 PS,C200
 CT,8,T
-OL,0,       G250  SRF zwei  22.11.26 19:59:54
-OL,1,C]@FUSSBALL         G]@22.11.26 19:52G"=
+OL,0,       G250  SRF zwei  23.11.26 06:00:23
+OL,1,C]@FUSSBALL         G]@22.11.26 22:06G"=
 OL,2,GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 OL,3,                                    2/4 
-OL,4,COsasuna     - Malaga     A *C 1:0 (1:0)
+OL,4,COsasuna     - Malaga        C 1:0 (1:0)
 OL,5,G20'Budimir.                            
-OL,9,FOsasuna:GHerrera;GRosier,CCatena,G     
-OL,10,GBoyomo,GRico;GMoncayola,GGomez;G       
-OL,11,GRu.Garcia,GOrozG(65'Osambela),GBarjaG  
-OL,12,G(65'Moro);GBudimir.                    
+OL,9,FOsasuna:GHerrera;GRosier,ACatena/92',G 
+OL,10,GBoyomo,GRico;GMoncayola,GGomezG        
+OL,11,G(76'Torro);GRu.GarciaG(76'Munoz),GOrozC
+OL,12,C(65'Osambela),GBarjaG(65'Moro);GBudimir
+OL,13,C(86'Ra.Garcia).                        
 OL,15,FMalaga:GHerrero;GMurillo,GPastorG      
-OL,16,G(46'Puga),GRecio;GLarrubia,GRodriguezG 
-OL,17,G(46'Enriquez),GMartinez,GMunozG        
-OL,18,G(60'Lorenzo),GSalinas;GDotor,GNino.    
-OL,21,FEstadio El Sadar                       
+OL,16,G(46'Puga),GRecio;GLarrubiaG(83'Cruz),G 
+OL,17,GRodriguezG(46'Enriquez),GMartinezG     
+OL,18,G(76'Chupe),GMunozG(60'Lorenzo),G       
+OL,19,GSalinas;GDotor,GNino.                  
+OL,21,FEstadio El Sadar: 19813                
 OL,22,GRicardo de Burgos BengoetxeaG(ESP)     
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100
@@ -50,19 +52,30 @@ PN,25003
 SC,0003
 PS,C200
 CT,8,T
-OL,0,       G250  SRF zwei  22.11.26 19:59:54
-OL,1,C]@FUSSBALL         G]@09.11.26 13:25G"=
+OL,0,       G250  SRF zwei  23.11.26 06:00:23
+OL,1,C]@FUSSBALL         G]@22.11.26 22:56G"=
 OL,2,GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 OL,3,                                    3/4 
-OL,4,CGetafe      - A.Madrid   CSO 21.00 Uhr 
-OL,21,FColiseum                               
+OL,4,CGetafe      - A.Madrid      C 0:3 (0:2)
+OL,5,G10'Baena,G30'Cardoso,G90+2'Grimaldo(P).
+OL,9,FGetafe:GSoria;GGarciaG(85'Davinchi),A  
+OL,10,ADjene/90',GValouG(46'Satriano),GRomero;
+OL,11,GTerratsG(46'Femenia),GMangala,GSerranoC
+OL,12,C(67'Martin),GMojica;GAzonG(67'Mayoral),
+OL,13,G]nal.                                  
+OL,15,FA.Madrid:GOblak;GLlorente,CLe Normand,G
+OL,16,GHancko,GGrimaldo;GKoke;CCardosoG       
+OL,17,G(46'Lee),GBarrios;GSimeone,GAlvarezG   
+OL,18,G(75'S|rloth),GBaenaG(67'Mendoza).      
+OL,21,FColiseum: 8875                         
+OL,22,GJesus Gil ManzanoG(ESP)                
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100
 PN,25004
 SC,0004
 PS,C200
 CT,8,T
-OL,0,       G250  SRF zwei  22.11.26 19:59:54
+OL,0,       G250  SRF zwei  23.11.26 06:00:23
 OL,1,C]@FUSSBALL         G]@09.11.26 13:25G"=
 OL,2,GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 OL,3,                                    4/4 

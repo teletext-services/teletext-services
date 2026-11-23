@@ -3,15 +3,15 @@ PN,89801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  898Czon 22 nov  17:52:47
+OL,0,       BNOS-TT  898Cmaa 23 nov  03:53:12
 OL,1,A]CWest I 3A         West I 3B    C 1/8 
-OL,2,CLSVV-Z'aven       BCMeerv.-RWZ        B
-OL,3,CSpart.-RKEDO      BCF.W'veer-Alkm.B   B
-OL,4,CFlevo-Grass.      BCWSV30-Limmen      B
-OL,5,CVVW-Vic.O         BCRCZ-Il'dam        B
-OL,6,CZwal.30-HCSC   B4-3CMeteoor-Sp.Krom   B
-OL,7,CSp.And.-EnkhuizB4-0CAlcm.V-IVV        B
-OL,8,C                  BCSaenden-Castr.    B
+OL,2,CLSVV-Z'aven    B2-0CMeerv.-RWZ     B6-0
+OL,3,CSpart.-RKEDO   B3-1CF.W'veer-Alkm.BB3-0
+OL,4,CFlevo-Grass.   B1-1CWSV30-Limmen   B5-2
+OL,5,CVVW-Vic.O      B1-1CRCZ-Il'dam     B1-4
+OL,6,CZwal.30-HCSC   B4-3CMeteoor-Sp.KromB0-3
+OL,7,CSp.And.-EnkhuizB4-0CAlcm.V-IVV     B1-2
+OL,8,C                  BCSaenden-Castr. B2-1
 OL,9,G                                       
 OL,10,G                                       
 OL,11,A]CWest I 3C         West I 3D          
@@ -19,8 +19,8 @@ OL,12,CDTA For-EVC    B2-0CSDZ-Zwanenb    B2-0
 OL,13,CPurmer.-OFC    B6-0CZandv.-DWS     B3-0
 OL,14,CDZS-M'dam     BgestCArsenal-ZSGO   B1-1
 OL,15,CDeMeer-W'burg. B0-3CUrban T-A'veen B2-5
-OL,16,CSDOB-Forza A   B2-2CAVV Swift-Buiten. B
-OL,17,CDiemen-Real Sr B1-5CDSS-AGB           B
+OL,16,CSDOB-Forza A   B2-2CAVV Swift-BuiteB3-1
+OL,17,CDiemen-Real Sr B1-5CDSS-AGB        B3-2
 OL,18,G                                       
 OL,19,G                                       
 OL,20,G                                       
@@ -33,7 +33,7 @@ PN,89802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  898Czon 22 nov  17:52:41
+OL,0,       BNOS-TT  898Cmaa 23 nov  03:53:12
 OL,1,A]CWest I 3E         West I 3F    C 2/8 
 OL,2,CR'woude-OlympiaB2-3CSMVC-IJFC      B5-2
 OL,3,CLoosd.-V-vog.  B3-2CEvers.-Odijk   B0-2
@@ -63,7 +63,7 @@ PN,89803
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  898Czon 22 nov  17:52:28
+OL,0,       BNOS-TT  898Cmaa 23 nov  03:53:13
 OL,1,A]CWest II 3C        West II 3D   C 3/8 
 OL,2,CN'wijk-LYRA    B2-0CObeijer-SSS    B1-1
 OL,3,CGDA-Kethel     B1-2COVV-Bommel    Bgest
@@ -75,8 +75,8 @@ OL,8,C                  BCZinkw.B-S'dam  B4-1
 OL,9,G                                       
 OL,10,G                                       
 OL,11,A]CNoord 3A          Noord 3B           
-OL,12,CRenado-VENO       BCLeovar.-Min'ga B3-1
-OL,13,COlyph.-Makkin.    BCFriesl.-St.Ann.   B
+OL,12,CRenado-VENO    B2-0CLeovar.-Min'ga B3-1
+OL,13,COlyph.-Makkin. B3-0CFriesl.-St.Ann.B3-3
 OL,14,CJubbega-Delft. B4-1CGAVC-Akkrum    B2-0
 OL,15,CBalk-MSC       B1-3CGeelWit-L.Zwal B0-4
 OL,16,CMarkn.-VHK     B3-1CAVC-Foarut     B2-3
@@ -93,7 +93,7 @@ PN,89804
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  898Czon 22 nov  17:52:36
+OL,0,       BNOS-TT  898Cmaa 23 nov  03:53:13
 OL,1,A]CNoord 3C          Noord 3D     C 4/8 
 OL,2,CONT-Oosterw    B1-6CZuidl.-Ap'dam  B3-0
 OL,3,CAduard-Zwaag.  B2-3CWilderv-GVAV-RaB1-0
@@ -105,13 +105,13 @@ OL,8,CZ'horn-BQuick  B1-1CNEC D.-Assen   B0-2
 OL,9,G                                       
 OL,10,G                                       
 OL,11,A]CNoord 3E          Noord 3F           
-OL,12,CMusselk-Selli.    BCDwing.-Pesse      B
-OL,13,CGron.B-SVZ        BCHavelte-Ruinen    B
-OL,14,CGieten-Stadsk.    BCErica-SVV04       B
-OL,15,CHeilig.-N.Buin.   BCH'berg-Barger. B4-1
-OL,16,CT.Apel-N'ster     BCH'veld-Hoogev. B1-2
-OL,17,CTitan-MOVV        BCWeide-Beilen   B0-1
-OL,18,CV'veen-HOVC       BCZuidwol-Sweel  B8-0
+OL,12,CMusselk-Selli. B1-3CDwing.-Pesse   B1-2
+OL,13,CGron.B-SVZ     B3-7CHavelte-Ruinen B1-3
+OL,14,CGieten-Stadsk. B2-1CErica-SVV04    B0-2
+OL,15,CHeilig.-N.Buin.B1-3CH'berg-Barger. B4-1
+OL,16,CT.Apel-N'ster  B6-1CH'veld-Hoogev. B1-2
+OL,17,CTitan-MOVV     B5-0CWeide-Beilen   B0-1
+OL,18,CV'veen-HOVC    B3-0CZuidwol-Sweel  B8-0
 OL,19,G                                       
 OL,20,G                                       
 OL,21,G                                       
@@ -123,25 +123,25 @@ PN,89805
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  898Czon 22 nov  17:52:35
+OL,0,       BNOS-TT  898Cmaa 23 nov  03:53:13
 OL,1,A]COost 3A           Oost 3B      C 5/8 
-OL,2,CBergh.-Esch    B1-3CHolten-Bentelo    B
-OL,3,CEnterV-TVV     B2-0COverw.-ABS        B
-OL,4,CPH-O.Nass.     B1-1CTwGoor-S'haar     B
-OL,5,CFlering-BWO       BCZweef-Lochem   B3-2
-OL,6,CUD W-Avan.W       BCRDC-VoorwT     B3-4
+OL,2,CBergh.-Esch    B1-3CHolten-Bentelo B0-3
+OL,3,CEnterV-TVV     B2-0COverw.-ABS     B1-1
+OL,4,CPH-O.Nass.     B1-1CTwGoor-S'haar  B1-1
+OL,5,CFlering-BWO    B2-2CZweef-Lochem   B3-2
+OL,6,CUD W-Avan.W    B4-2CRDC-VoorwT     B3-4
 OL,7,CVogido-Wilhel. B1-4CHulzenB-JuventaB1-3
-OL,8,CBarbaro-Vasse     BCW'kamp.-WVV34     B
+OL,8,CBarbaro-Vasse  B2-4CW'kamp.-WVV34  B1-1
 OL,9,G                                       
 OL,10,G                                       
 OL,11,A]COost 3C           Oost 3D            
-OL,12,CWisch-DVC26    B0-2CVDZ-DIO30         B
-OL,13,CE'weide-Bergh     BCGroesB-Kunde      B
-OL,14,CVorden-Conc.W     BCOSC-SML           B
-OL,15,CDVV-GWVV          BCUnion-Juliana     B
-OL,16,CPax-Trias         BCGerman.-Spero     B
-OL,17,CV'zoom-Dinxperlo  BCDriel-B'stein     B
-OL,18,CZZC'20-RKZVC   B2-4CKrayen.-DDV'23    B
+OL,12,CWisch-DVC26    B0-2CVDZ-DIO30      B0-0
+OL,13,CE'weide-Bergh  B8-0CGroesB-Kunde   B4-2
+OL,14,CVorden-Conc.W  B3-1COSC-SML        B2-0
+OL,15,CDVV-GWVV       B2-2CUnion-Juliana  B2-4
+OL,16,CPax-Trias      B4-0CGerman.-Spero  B2-0
+OL,17,CV'zoom-DinxperlB1-1CDriel-B'stein  B1-3
+OL,18,CZZC'20-RKZVC   B2-4CKrayen.-DDV'23 Bafg
 OL,19,G                                       
 OL,20,G                                       
 OL,21,G                                       
@@ -153,7 +153,7 @@ PN,89806
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  898Czon 22 nov  17:52:30
+OL,0,       BNOS-TT  898Cmaa 23 nov  03:53:13
 OL,1,A]COost 3E           Oost 3F      C 6/8 
 OL,2,CColum.-WAVV    B2-1CBeQuick-OWIOS  B4-0
 OL,3,CONA'53-GW'62   B3-2CHeerde-Dieze W B3-4
@@ -166,12 +166,12 @@ OL,9,G
 OL,10,G                                       
 OL,11,A]CZuid I 3A         Zuid I 3B          
 OL,12,CH.Aren.-S'kerkeB2-1CKogel.-MOC17   B0-3
-OL,13,CAxel-Meeuw.    B1-2CHVV24-BSC         B
-OL,14,CKapel.-Y'seke  B1-0CSteen-DOSKO       B
+OL,13,CAxel-Meeuw.    B1-2CHVV24-BSC      B3-1
+OL,14,CKapel.-Y'seke  B1-0CSteen-DOSKO    B4-1
 OL,15,CVCK-Pat'zen    B2-3CSteenb.-RSV    B6-0
 OL,16,CTerneu.-RCS OosB2-2CAllian.-Hoeven B2-2
 OL,17,CMZC11-Zeeland  B2-3CKlund.-Vic.03  B4-2
-OL,18,CLebo/SV-WHS    B0-2CRdWit W-R'daal    B
+OL,18,CLebo/SV-WHS    B0-2CRdWit W-R'daal B1-0
 OL,19,G                                       
 OL,20,G                                       
 OL,21,G                                       
@@ -183,25 +183,25 @@ PN,89807
 SC,0007
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  898Czon 22 nov  17:52:47
+OL,0,       BNOS-TT  898Cmaa 23 nov  03:53:13
 OL,1,A]CZuid I 3C         Zuid I 3D    C 7/8 
-OL,2,CAltena-DeAlb.  B3-2CBavel-O'hout      B
+OL,2,CAltena-DeAlb.  B3-2CBavel-O'hout   B3-2
 OL,3,CArkel-Drecht   B3-2CRFC-Waspik     B2-1
 OL,4,CH'veld-S'wijk  B0-0CZwal.-Hilvar.  B1-1
 OL,5,CHeukel.-GSC/ODSB2-0CSeolto-Rijen   B0-1
-OL,6,CG.Amm.-Herov.  B0-0CUnoAn.-DIA        B
-OL,7,CS'hoven-S'kerk B7-1CBeek V-GSBW       B
-OL,8,CVVAC-Perkouw   B2-0CGudok-ZIGO        B
+OL,6,CG.Amm.-Herov.  B0-0CUnoAn.-DIA     B2-2
+OL,7,CS'hoven-S'kerk B7-1CBeek V-GSBW    B1-5
+OL,8,CVVAC-Perkouw   B2-0CGudok-ZIGO     B2-0
 OL,9,G                                       
 OL,10,G                                       
 OL,11,A]CZuid I 3E         Zuid I 3F          
-OL,12,CRWB-WSC        B2-8CPSV (am.)-Vessem  B
-OL,13,CGRC 14-NEO25   B1-0CAcht-Braban.      B
-OL,14,CRKDVC-GDC      B6-3CSBC-RoodW.        B
-OL,15,CDSC-Wil.26     B2-1CGestel-ZSC        B
-OL,16,CJ.Brab.-H'voirt   BCDOSKO-Braak.      B
-OL,17,CDVG-OSS'20        BCWilh.B-Beer.B     B
-OL,18,CDungen-SCG'18     BCDommel.-RKVVO     B
+OL,12,CRWB-WSC        B2-8CPSV (am.)-VesseB2-1
+OL,13,CGRC 14-NEO25   B1-0CAcht-Braban.   B0-4
+OL,14,CRKDVC-GDC      B6-3CSBC-RoodW.     B2-4
+OL,15,CDSC-Wil.26     B2-1CGestel-ZSC     B5-0
+OL,16,CJ.Brab.-H'voirtB1-0CDOSKO-Braak.   B1-3
+OL,17,CDVG-OSS'20     B1-1CWilh.B-Beer.B  B1-2
+OL,18,CDungen-SCG'18  B4-0CDommel.-RKVVO  B0-3
 OL,19,G                                       
 OL,20,G                                       
 OL,21,G                                       
@@ -213,25 +213,25 @@ PN,89808
 SC,0008
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  898Czon 22 nov  17:52:47
+OL,0,       BNOS-TT  898Cmaa 23 nov  03:53:13
 OL,1,A]CZuid II 3A        Zuid II 3B   C 8/8 
-OL,2,CWEC-V'horst       BCHelden-DSV        B
-OL,3,CVel/Nul-Spar.25   BCB'rick-Heijen     B
-OL,4,CFC Uden-Volkel    BCMifano-Venlo      B
-OL,5,CH'wijk-Irene      BCBruheze-ZSV       B
-OL,6,CM'hout-Schijn.    BCASV33-SV Unit     B
-OL,7,CFestil.-NooitG    BCPEC'20-Lierop     B
-OL,8,CEGS'20-EVVC       BCVICI 04-Olym.18   B
+OL,2,CWEC-V'horst    B1-3CHelden-DSV     Bafg
+OL,3,CVel/Nul-Spar.25B0-0CB'rick-Heijen  B1-1
+OL,4,CFC Uden-Volkel B3-3CMifano-Venlo   B4-1
+OL,5,CH'wijk-Irene   B0-1CBruheze-ZSV    B1-0
+OL,6,CM'hout-Schijn. B1-2CASV33-SV Unit  B1-3
+OL,7,CFestil.-NooitG B0-1CPEC'20-Lierop  B1-1
+OL,8,CEGS'20-EVVC    B0-2CVICI 04-Olym.18B4-3
 OL,9,G                                       
 OL,10,G                                       
 OL,11,A]CZuid II 3C        Zuid II 3D         
-OL,12,CN'beek-TSC Ire    BCRVU-R-Groen       B
-OL,13,CSp'beek-RoodWit   BCLeeuw-Eijsden     B
-OL,14,COda-Linden.       BCL'berg-Hoens.     B
-OL,15,CHaslou-V'rade     BCBunde-RKHSV       B
-OL,16,CRKSVN-DVO         BCFC Land-RKHBS     B
-OL,17,CBreven.-Verit.    BCJek'dal-Keer      B
-OL,18,CHebes-Sittard     BCMaastri-Gulpen    B
+OL,12,CN'beek-TSC Ire B7-2CRVU-R-Groen    B9-0
+OL,13,CSp'beek-RoodWitB4-0CLeeuw-Eijsden  B2-3
+OL,14,COda-Linden.    B3-3CL'berg-Hoens.  B2-1
+OL,15,CHaslou-V'rade  B9-3CBunde-RKHSV    B1-1
+OL,16,CRKSVN-DVO      B0-4CFC Land-RKHBS  B2-0
+OL,17,CBreven.-Verit. B6-1CJek'dal-Keer   B1-2
+OL,18,CHebes-Sittard  B0-3CMaastri-Gulpen B2-3
 OL,19,G                                       
 OL,20,G                                       
 OL,21,G                                       

@@ -3,26 +3,26 @@ PN,70800
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G708  RSI LA 1  22.11.26 18:59:10
+OL,0,       G708  RSI LA 1  23.11.26 04:59:57
 OL,1,A]GRSI   ]@LA1       LUNEDI 23 novembre 
 OL,2,G                                       
-OL,3, F20:35  FMeteoCST                      
-OL,4, G20:40  GL'elefanteCST.............C711
-OL,5,         GViaggiare                     
-OL,6, F21:45  FCome ammazzare il CSTCI/IIC712
-OL,7,         Fcapo e vivere                 
-OL,8,         Ffelici                        
-OL,9, G23:25  GTG Notte                      
-OL,10, F23:50  FMeteoCST                      
-OL,11, G23:55  GDetective Maria      CSTCI/II 
-OL,12,         GKallio                        
-OL,13,         GLa fine dell'innocenza        
-OL,14, F00:40  FDetective Maria      CSTCI/II 
-OL,15,         FKallio                        
-OL,16,         FPista sbagliata               
-OL,17, G01:20  GSiamo fuoriCST                
-OL,18, F02:20  FTG Notte                      
-OL,19, G02:40  GMeteoCST                      
-OL,20, F02:45  FPrima OraCST                  
+OL,3, G19:55  GMeteo regionaleCST            
+OL,4, F20:00  FTelegiornaleCST               
+OL,5, G20:35  GMeteoCST                      
+OL,6, F20:40  FL'elefanteCST.............C710
+OL,7,         FViaggiare                     
+OL,8, G21:45  GCome ammazzare il CSTCI/IIC712
+OL,9,         Gcapo e vivere                 
+OL,10,         Gfelici                        
+OL,11, F23:25  FTG Notte                      
+OL,12, G23:50  GMeteoCST                      
+OL,13, F23:55  FDetective Maria      CSTCI/II 
+OL,14,         FKallio                        
+OL,15,         FLa fine dell'innocenza        
+OL,16, G00:40  GDetective Maria      CSTCI/II 
+OL,17,         GKallio                        
+OL,18,         GPista sbagliata               
+OL,19, F01:20  FSiamo fuoriCST                
+OL,20, G02:20  GTG Notte                      
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

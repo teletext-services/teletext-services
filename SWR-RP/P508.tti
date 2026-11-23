@@ -1,17 +1,41 @@
 DE,SWR-RP 508
-PN,50800
-SC,0000
-PS,8208
+PN,50801
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:18:22
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:18:53
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,              Autobahn A643             
-OL,6,CA643FMainz Richtung Wiesbaden          
-OL,7, in H|he Schiersteiner Kreuz Gefahr     
-OL,8, durch defektes Fahrzeug auf dem        
-OL,9, Abbiegestreifen                        
-OL,23,D]GStand:22.11. 21:15   ]bersicht 501 >>
+OL,4,             Autobahn A6,A65            
+OL,6,CA6FN}rnberg Richtung Heilbronn         
+OL,7, zwischen Kupferzell und Neuenstein     
+OL,8, Gefahr durch ein totes Tier auf dem    
+OL,9, linken und dem mittleren Fahrstreifen  
+OL,11,CA6FN}rnberg Richtung Heilbronn         
+OL,12, in H|he Rastst{tte Hohenlohe Nord      
+OL,13, Gefahr durch Gegenst{nde auf der       
+OL,14, Fahrbahn                               
+OL,16,CA6FHeilbronn Richtung Mannheim         
+OL,17, in H|he Schwetzingen/Hockenheim Gefahr 
+OL,18, durch ungesicherte Unfallstelle auf dem
+OL,19, Beschleunigungsstreifen                
+OL,23,D]GStand:23.11. 07:15   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50802
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:18:53
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,             Autobahn A6,A65            
+OL,6,CA65FLandau Richtung Ludwigshafen       
+OL,7, zwischen Ha~loch und Kreuz Mutterstadt 
+OL,8, 4 km stockender Verkehr, Zeitverlust   
+OL,9, von bis zu 10 Minuten                  
+OL,23,D]GStand:23.11. 07:15   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

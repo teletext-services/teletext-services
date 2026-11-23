@@ -3,8 +3,8 @@ PN,47701
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 22.03.21:47:27
-OL,1,D]G         VOITTAJAVETO 1         1/4  
+OL,0,       G477 YLE TEKSTI-TV 23.03.07:47:24
+OL,1,D]G         VOITTAJAVETO 1         1/5  
 OL,2,K                                       
 OL,3,BM       Salibandyn MM-kisat 2026       
 OL,5,K                                       
@@ -32,8 +32,8 @@ PN,47702
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 22.03.21:47:27
-OL,1,D]G         SUPERTRIPLA 5          2/4  
+OL,0,       G477 YLE TEKSTI-TV 23.03.07:47:24
+OL,1,D]G         SUPERTRIPLA 5          2/5  
 OL,2,K                                       
 OL,3,BMAmpumahiihto, kokonaiskilpailu, mieste
 OL,5,K                                       
@@ -61,8 +61,8 @@ PN,47703
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 22.03.21:47:27
-OL,1,D]G         SUPERTRIPLA 6          3/4  
+OL,0,       G477 YLE TEKSTI-TV 23.03.07:47:24
+OL,1,D]G         SUPERTRIPLA 6          3/5  
 OL,2,K                                       
 OL,3,BMAmpumahiihto, kokonaiskilpailu, naiste
 OL,5,K                                       
@@ -90,14 +90,43 @@ PN,47704
 SC,0004
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 22.03.21:47:27
-OL,1,D]G         P[IV[N TRIO 1          4/4  
+OL,0,       G477 YLE TEKSTI-TV 23.03.07:47:24
+OL,1,D]G         P[IV[N TRIO 1          4/5  
+OL,2,K                                       
+OL,3,BM         Puoliaika/lopputulos         
+OL,5,K                                       
+OL,6,Bkilpailu 1: Monza - Fiorentina         
+OL,7,Bkilpailu 2: Brentford - Everton        
+OL,8,Bkilpailu 3: Levante - Elche            
+OL,9,K                                       
+OL,10,G 1 1/1                                 
+OL,11,G 2 1/X                                 
+OL,12,G 3 1/2                                 
+OL,13,G 4 X/1                                 
+OL,14,G 5 X/X                                 
+OL,15,G 6 X/2                                 
+OL,16,G 7 2/1                                 
+OL,17,G 8 2/X                                 
+OL,18,G 9 2/2                                 
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy ma 23.11. klo 21.45.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47705
+SC,0005
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 23.03.07:47:24
+OL,1,D]G         P[IV[N TRIO 2          5/5  
 OL,2,K                                       
 OL,3,BM        Otteluiden maalim{{r{t        
 OL,5,K                                       
-OL,6,Bkilpailu 1: Tampa Bay - Buffalo        
-OL,7,Bkilpailu 2: Dallas - Pittsburgh        
-OL,8,Bkilpailu 3: St.Louis - Edmonton        
+OL,6,Bkilpailu 1: NY Islanders - Toronto     
+OL,7,Bkilpailu 2: Seattle - Anaheim          
+OL,8,Bkilpailu 3: San Jose - Minnesota       
 OL,9,K                                       
 OL,10,G 1 0-1 maalia                          
 OL,11,G 2 2 maalia                            
@@ -112,6 +141,6 @@ OL,19,G10 10 maalia
 OL,20,G11 11 maalia                           
 OL,21,G12 12 maalia tai yli                   
 OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy ma 23.11. klo 00.00.
+OL,23,BPelaaminen p{{ttyy ti 24.11. klo 02.30.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

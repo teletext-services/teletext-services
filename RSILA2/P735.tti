@@ -3,94 +3,71 @@ PN,73501
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G735  RSI LA 2  22.11.26 19:11:15
-OL,1,A]GRSI   ]@LA1       LUNEDI 23 novembre 
+OL,0,       G735  RSI LA 2  23.11.26 05:11:09
+OL,1,A]GRSI   ]@LA1      MARTEDI 24 novembre 
 OL,2,G                                       
-OL,3, G05:00  GTG Notte                  1/4 
-OL,4, F05:05  FMeteoCST                      
-OL,5, G05:20  GLa domenica sportivaCST       
-OL,6, F07:10  FMezz'ora per voiCST           
-OL,7, G07:40  GMezz'ora per voiCST           
-OL,8, F08:05  FEverywhere I go -         CST 
-OL,9,         FCoincidenze d'amore           
-OL,10,         FEpisodio 40                   
-OL,11, G08:50  GLa signora in gialloCSTCI/II  
-OL,12,         GMorte a Milano                
-OL,13, F09:40  FUn anno di vita sulla     CST 
-OL,14,         FTerra                         
-OL,15,         FNovembre - Dicembre           
-OL,16, G10:30  GShakespeare &        CSTCI/II 
-OL,17,         GHathaway                      
-OL,18,         Ginvestigatori privati         
-OL,19,         GIl fantasma del pub           
-OL,20, F11:20  FWalker, Texas RangerCSTCI/II  
-OL,21,         FIl campeggio                  
+OL,3, G05:00  GRepliche informazione     1/3 
+OL,4, F06:15  FSiamo fuoriCSTCR              
+OL,5, G07:10  GMezz'ora per voiCST           
+OL,6, F07:40  FMezz'ora per voiCST           
+OL,7, G08:05  GEverywhere I go -         CST 
+OL,8,         GCoincidenze d'amore           
+OL,9,         GEpisodio 41                   
+OL,10, F08:50  FLa signora in gialloCSTCI/II  
+OL,11,         FMaga imprevidente             
+OL,12, G09:40  GIl KalahariCST                
+OL,13,         GPrima parte                   
+OL,14, F10:30  FShakespeare &        CSTCI/II 
+OL,15,         FHathaway                      
+OL,16,         Finvestigatori privati         
+OL,17,         FSepararsi } un s~ dolce dolore
+OL,18, G11:15  GWalker, Texas RangerCSTCI/II  
+OL,19,         GLa sfida finale               
+OL,20, F12:05  FModern FamilyCSTCI/II         
+OL,21,         FSuperstizioni                 
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73502
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G735  RSI LA 2  22.11.26 19:11:15
-OL,1,A]GRSI   ]@LA1       LUNEDI 23 novembre 
+OL,0,       G735  RSI LA 2  23.11.26 05:11:09
+OL,1,A]GRSI   ]@LA1      MARTEDI 24 novembre 
 OL,2,G                                       
-OL,3, G12:00  GModern FamilyCSTCI/II     2/4 
-OL,4,         GIl raffreddore                
-OL,5, F12:30  FTelegiornaleCST               
-OL,6, G12:45  GMeteo regionaleCST            
-OL,7, F12:55  FPrevisioni per NataleCSTCI/II 
-OL,8, G14:20  GTesori del mondoCST           
-OL,9,         GIsole Eolie: sorelle di fuoco 
-OL,10,         Ge vento                       
-OL,11, F14:35  FLe sorelle McLeodCSTCI/II     
-OL,12,         FLegami di sangue              
-OL,13, G15:25  GI ricordi di zia     CSTCI/II 
-OL,14,         GFrida                         
-OL,15, F16:55  FSiamo fuoriCST                
-OL,16, G18:00  GPrima OraCST                  
-OL,17, F19:00  FIl QuotidianoCST              
-OL,18, G19:35  GZeroveroCST                   
-OL,19, F19:55  FMeteo regionaleCST            
-OL,20, G20:00  GTelegiornaleCST               
+OL,3, G12:30  GTelegiornaleCST           2/3 
+OL,4, F12:45  FMeteo regionaleCST            
+OL,5, G12:55  GUn principe          CSTCI/II 
+OL,6,         Ginaspettato                   
+OL,7, F14:25  FDonne che hanno cambiato  CST 
+OL,8,         Fil mondo                      
+OL,9,         FMaria di Nazareth             
+OL,10, G14:35  GLe sorelle McLeodCSTCI/II     
+OL,11,         GFollie d'amore                
+OL,12, F15:25  FUn viaggio per NataleCSTCI/II 
+OL,13, G16:55  GSiamo fuoriCST                
+OL,14, F18:00  FPrima OraCST                  
+OL,15, G19:00  GIl QuotidianoCST              
+OL,16, F19:35  FZeroveroCST                   
+OL,17, G19:55  GMeteo regionaleCST            
+OL,18, F20:00  FTelegiornaleCST               
+OL,19, G20:35  GMeteoCST                      
+OL,20, F20:40  FFal|CST                       
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73503
 SC,0003
 PS,C300
 CT,8,T
-OL,0,       G735  RSI LA 2  22.11.26 19:11:15
-OL,1,A]GRSI   ]@LA1       LUNEDI 23 novembre 
+OL,0,       G735  RSI LA 2  23.11.26 05:11:09
+OL,1,A]GRSI   ]@LA1      MARTEDI 24 novembre 
 OL,2,G                                       
-OL,3, F20:35  FMeteoCST                  3/4 
-OL,4, G20:40  GL'elefanteCST.............C711
-OL,5,         GViaggiare                     
-OL,6, F21:45  FCome ammazzare il CSTCI/IIC712
-OL,7,         Fcapo e vivere                 
-OL,8,         Ffelici                        
-OL,9, G23:25  GTG Notte                      
-OL,10, F23:50  FMeteoCST                      
-OL,11, G23:55  GDetective Maria      CSTCI/II 
-OL,12,         GKallio                        
-OL,13,         GLa fine dell'innocenza        
-OL,14, F00:40  FDetective Maria      CSTCI/II 
-OL,15,         FKallio                        
-OL,16,         FPista sbagliata               
-OL,17, G01:20  GSiamo fuoriCST                
-OL,18, F02:20  FTG Notte                      
-OL,19, G02:40  GMeteoCST                      
-OL,20, F02:45  FPrima OraCST                  
-OL,24,AIndice    BSport    CMeteo    FTV&Radio
-FL,101,180,500,700,0,100
-PN,73504
-SC,0004
-PS,C300
-CT,8,T
-OL,0,       G735  RSI LA 2  22.11.26 19:11:15
-OL,1,A]GRSI   ]@LA1       LUNEDI 23 novembre 
-OL,2,G                                       
-OL,3, G03:40  GIl QuotidianoCST          4/4 
-OL,4, F04:10  FTelegiornaleCST               
-OL,5, G04:35  GTG Notte                      
-OL,6, F04:55  FMeteoCST                      
+OL,3, G21:50  GICE: caccia        CSTC1T 3/3 
+OL,4,         Gall'uomo                      
+OL,5, F23:15  FTG Notte                      
+OL,6, G23:40  GMeteoCST                      
+OL,7, F23:50  FBussano alla    CSTCI/IIAC713
+OL,8,         Fporta                         
+OL,9, G01:20  GSiamo fuoriCSTCR              
+OL,10, F02:20  FRepliche informazione         
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

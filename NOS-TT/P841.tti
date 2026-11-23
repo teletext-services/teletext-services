@@ -3,29 +3,29 @@ PN,84101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  841Czon 22 nov  17:51:40
+OL,0,       BNOS-TT  841Cmaa 23 nov  03:52:06
 OL,1,S OETBALQ,,,,,,,,,,,,,,,,,,,,,,,A 1/2 
 OL,2,S+,'A]C    Engeland,Premier League      
 OL,3,Q#######################################
-OL,4,G                                       
-OL,5,BZaterdag:                              
-OL,6,CManchester City  B1CFulham           B1
-OL,7,CAston Villa      B0CSunderland       B0
-OL,8,CChelsea          B1CLeeds United     B4
-OL,9,BEmegha                                 
-OL,10,CTottenh.Hotspur  B2CIpswich Town     B0
-OL,11,CCoventry City    B3CCrystal Palace   B2
-OL,12,CBournemouth      B2CNottingh.Forest  B0
-OL,13,BKluivert 1x                            
-OL,14,CNewcastle Utd    B2CArsenal          B2
-OL,15,G                                       
-OL,16,BZondag:                                
-OL,17,CHull City        B2CBrighton & Hove  B0
-OL,18,B17.30 uur:                 FTUSSENSTAND
-OL,19,CLiverpool        F2CManchester Utd   F0
-OL,20,G                                       
-OL,21,BMaandag:                               
-OL,22,CBrentford        B-CEverton          B-
+OL,4,BZaterdag:                              
+OL,5,CManchester City  B1CFulham           B1
+OL,6,CAston Villa      B0CSunderland       B0
+OL,7,CChelsea          B1CLeeds United     B4
+OL,8,BEmegha                                 
+OL,9,CTottenh.Hotspur  B2CIpswich Town     B0
+OL,10,CCoventry City    B3CCrystal Palace   B2
+OL,11,CBournemouth      B2CNottingh.Forest  B0
+OL,12,BKluivert 1x                            
+OL,13,CNewcastle Utd    B2CArsenal          B2
+OL,14,BZondag:                                
+OL,15,CHull City        B2CBrighton & Hove  B0
+OL,16,CLiverpool        B4CManchester Utd   B0
+OL,17,BMaandag:                               
+OL,18,CBrentford        B-CEverton          B-
+OL,19,G                                       
+OL,20,BTopscorers per 22/11:                  
+OL,21,CHaaland (Manchester City)........... B9
+OL,22,CIsak (Liverpool).................... B7
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,Aweer    Bnieuws    Csport    Fvoetbal@@
 FL,702,101,601,801,0,100
@@ -33,15 +33,15 @@ PN,84102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  841Czon 22 nov  kstC841 
+OL,0,       BNOS-TT  841Cmaa 23 nov  03:52:01
 OL,1,S OETBALQ,,,,,,,,,,,,,,,,,,,,,,,A 2/2 
 OL,2,S+,'A]C    Engeland,stand per 22/11     
 OL,3,Q#######################################
 OL,4,B 1.CArsenal     B11  9  1  1  28  17- 7
 OL,5,B 2.CBrighton    B11  7  1  3  22  26- 9
 OL,6,B 3.CManch.City  B11  7  1  3  22  22-14
-OL,7,B 4.CBournemouth B11  5  3  3  18  18-14
-OL,8,B 5.CLiverpool   B10  5  3  2  18  14-10
+OL,7,B 4.CLiverpool   B11  6  3  2  21  18-10
+OL,8,B 5.CBournemouth B11  5  3  3  18  18-14
 OL,9,B 6.CLeeds UnitedB11  4  5  2  17  14- 9
 OL,10,B 7.CEverton     B10  4  4  2  16  12-10
 OL,11,B 8.CChelsea     B11  5  1  5  16  20-20
@@ -55,7 +55,7 @@ OL,18,B15.CFulham      B11  2  5  4  11  11-13
 OL,19,B16.CIpswich TownB11  3  2  6  11  15-22
 OL,20,B17.CNottingham  B11  2  3  6   9   9-15
 OL,21,B18.CSunderland  B11  2  3  6   9   8-17
-OL,22,B19.CMan United  B10  1  5  4   8  14-19
+OL,22,B19.CMan United  B11  1  5  5   8  14-23
 OL,23,B20.CCrystal Pal.B11  2  1  8   7  12-27
 OL,24,Aweer    Bnieuws    Csport    Fvoetbal@@
 FL,702,101,601,801,0,100

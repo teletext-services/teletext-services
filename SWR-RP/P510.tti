@@ -1,17 +1,43 @@
 DE,SWR-RP 510
-PN,51000
-SC,0000
-PS,8208
+PN,51001
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:18:25
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:18:21
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,               Autobahn A8              
-OL,6,CA8FStuttgart Richtung M}nchen          
-OL,7, zwischen Hohenstadt und Merklingen     
-OL,8, liegengebliebenes Fahrzeug auf dem     
-OL,9, Standstreifen                          
-OL,23,D]GStand:22.11. 21:15   ]bersicht 501 >>
+OL,4,             Autobahn A8,A81            
+OL,6,CA8FM}nchen Richtung Stuttgart          
+OL,7, zwischen Kirchheim Teck-West und       
+OL,8, Wendlingen Gefahr durch ungesicherte   
+OL,9, Unfallstelle auf dem linken            
+OL,10, Fahrstreifen                           
+OL,12,CA8FM}nchen Richtung Stuttgart          
+OL,13, zwischen Kirchheim Teck-West und       
+OL,14, Wendlingen Bergungsarbeiten, rechter   
+OL,15, Fahrstreifen gesperrt                  
+OL,17,CA81FHeilbronn Richtung Stuttgart       
+OL,18, zwischen Ludwigsburg-S}d und           
+OL,19, Stuttgart-Zuffenhausen Gefahr durch    
+OL,20, ungesicherte Unfallstelle auf dem      
+OL,21, Standstreifen                          
+OL,23,D]GStand:23.11. 07:15   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,51002
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:18:21
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,             Autobahn A8,A81            
+OL,6,CA81FHeilbronn Richtung W}rzburg        
+OL,7, zwischen Heilbronn/Untergruppenbach und
+OL,8, Weinsberg/Ellhofen Unfall, 3 km Stau,  
+OL,9, Zeitverlust von bis zu 15 Minuten      
+OL,23,D]GStand:23.11. 07:15   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

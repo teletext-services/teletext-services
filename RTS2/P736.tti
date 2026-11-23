@@ -1,10 +1,10 @@
 DE,RTS2 736
-PN,73600
-SC,0000
-PS,8088
-CT,15,T
-OL,0,       G736  RTS 2     22.11.26 19:38:45
-OL,1,A]GRTS  ]@   A bon entendeur            
+PN,73601
+SC,0001
+PS,C080
+CT,8,T
+OL,0,       G736  RTS 2     23.11.26 05:39:19
+OL,1,A]GRTS  ]@   A bon entendeur        1/2 
 OL,2,Bmardi 24 novembre           20:10-20:50
 OL,3,G                                       
 OL,4,CLocataires @ bout: r#cits de conflits  
@@ -23,8 +23,21 @@ OL,17,BRediffusions RTS2:
 OL,18,                    Gmer. 25.11. @ 02:10
 OL,19,                    Gmer. 25.11. @ 03:35
 OL,20,                    Gmer. 25.11. @ 05:00
-OL,21,                    Glun. 30.11. @ 14:20
-OL,22,BRediffusions RTS1:                     
-OL,23,                    Gmer. 25.11. @ 04:20
+OL,21,                    Gmer. 25.11. @ 11:05
+OL,22,                    Gmer. 25.11. @ 16:05
+OL,23,                    Glun. 30.11. @ 14:20
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,73602
+SC,0002
+PS,C080
+CT,8,T
+OL,0,       G736  RTS 2     23.11.26 05:39:19
+OL,1,A]GRTS  ]@   A bon entendeur        2/2 
+OL,2,Bmardi 24 novembre           20:10-20:50
+OL,3,G                                       
+OL,4,BRediffusions RTS1:                     
+OL,5,                    Gmer. 25.11. @ 04:20
+OL,6,                    Gmer. 02.12. @ 03:44
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

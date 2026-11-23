@@ -3,26 +3,20 @@ PN,72000
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       G720  SRF info  22.11.26 20:21:43
-OL,1,A]GSRF info G]@Montag, 23. November     
+OL,0,       G720  SRF info  23.11.26 06:21:40
+OL,1,A]GSRF info G]@Dienstag, 24. November   
 OL,2,G                                       
-OL,3,G01:30 G10 vor 10 (W)CDDCUT.........C   
-OL,4,F01:55 FMeteo (W)...................C   
-OL,5,       FSp{tausgabeCDDCUT               
-OL,6,G02:00 GSportflash (W)..............C   
-OL,7,       GDie Sportnews des TagesCDD      
-OL,8,F02:05 FNewsflash SRF 1 (W)CDDCUT...C   
-OL,9,G02:10 G10 vor 10 (W)CDDCUT.........C   
-OL,10,F02:30 FMeteo (W)...................C   
-OL,11,       FSp{tausgabeCDDCUT               
-OL,12,G02:35 GSportflash (W)..............C   
-OL,13,       GDie Sportnews des TagesCDD      
-OL,14,F02:40 FNewsflash SRF 1 (W)CDDCUT...C   
-OL,15,G02:45 G10 vor 10 (W)CDDCUT.........C   
-OL,16,F03:10 FMeteo (W)...................C   
-OL,17,       FSp{tausgabeCDDCUT               
-OL,18,G03:15 GSportflash (W)..............C   
-OL,19,       GDie Sportnews des TagesCDD      
-OL,20,F03:20 FNewsflash SRF 1 (W)CDDCUT...C   
+OL,3,G03:20 GUEFA Champions League -.....C   
+OL,4,       GHighlights M{nner   (W)         
+OL,5,       GAlle Spiele, alle ToreCDD       
+OL,6,F04:10 FNewsflash SRF 1 (W)CDDCUT...C   
+OL,7,G04:20 G10 vor 10 (W)CDDCUT.........C   
+OL,8,F04:45 FMeteo (W)...................C   
+OL,9,       FSp{tausgabeCDDCUT               
+OL,10,G04:50 GSportflash (W)..............C   
+OL,11,       GDie Sportnews des TagesCDD      
+OL,12,F04:55 FUEFA Champions League -.....C   
+OL,13,       FHighlights M{nner   (W)         
+OL,14,       FAlle Spiele, alle ToreCDD       
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

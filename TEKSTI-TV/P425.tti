@@ -3,13 +3,13 @@ PN,42501
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G425 YLE TEKSTI-TV 22.03.21:46:29
+OL,0,       G425 YLE TEKSTI-TV 23.03.07:47:14
 OL,1,D]G         TAMPERE-PIRKKALA        1/6 
 OL,2,D]G       L{htev{t/Departures           
-OL,3,F]D05:25 Riika      BT358               
-OL,4,D]G06:00 Helsinki   AY270               
-OL,5,D]G12:20 Helsinki   AY644               
-OL,6,F]D15:30 Riika      BT356               
+OL,3,F]D12:20 Helsinki   AY644               
+OL,4,D]G15:30 Riika      BT356               
+OL,5,D]G23:30 Malm|      FTL323              
+OL,6,F]D06:00 Helsinki   AY270               
 OL,7,F]D                                     
 OL,8,D]G                                     
 OL,9,D]G                                     
@@ -33,13 +33,13 @@ PN,42502
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G425 YLE TEKSTI-TV 22.03.21:46:29
+OL,0,       G425 YLE TEKSTI-TV 23.03.07:47:14
 OL,1,D]G         TAMPERE-PIRKKALA        2/6 
 OL,2,F]D        Saapuvat/Arrivals            
-OL,3,D]G00:20 Helsinki   AY269  Arvioit 00:51
-OL,4,F]D00:55 Riika      BT357               
-OL,5,F]D11:55 Oulu       AY644               
-OL,6,D]G14:50 Riika      BT355               
+OL,3,D]G11:55 Oulu       AY644               
+OL,4,F]D14:50 Riika      BT355               
+OL,5,F]D00:20 Helsinki   AY269               
+OL,6,D]G00:55 Riika      BT357               
 OL,7,D]G                                     
 OL,8,F]D                                     
 OL,9,F]D                                     
@@ -63,17 +63,17 @@ PN,42503
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G425 YLE TEKSTI-TV 22.03.21:46:29
+OL,0,       G425 YLE TEKSTI-TV 23.03.07:47:14
 OL,1,D]G         TURKU                   3/6 
 OL,2,D]G       L{htev{t/Departures           
-OL,3,F]D18:00 Nice       NJE638              
-OL,4,D]G05:25 Riika      BT360               
-OL,5,D]G06:00 Helsinki   AY230               
-OL,6,F]D06:20 Tukholma   SK4231              
-OL,7,F]D08:00 Gr.Canaria DK1352              
-OL,8,D]G11:55 Helsinki   AY654               
-OL,9,D]G16:15 Maarianham HP286               
-OL,10,F]D16:55 Tukholma   SK2727              
+OL,3,F]D11:55 Helsinki   AY654               
+OL,4,D]G16:15 Maarianham HP286               
+OL,5,D]G16:55 Tukholma   SK2727              
+OL,6,F]D05:25 Riika      BT360               
+OL,7,F]D06:00 Helsinki   AY230               
+OL,8,D]G06:20 Tukholma   SK4231              
+OL,9,D]G                                     
+OL,10,F]D                                     
 OL,11,F]D                                     
 OL,12,D]G                                     
 OL,13,D]G                                     
@@ -93,16 +93,16 @@ PN,42504
 SC,0004
 PS,C100
 CT,15,T
-OL,0,       G425 YLE TEKSTI-TV 22.03.21:46:29
+OL,0,       G425 YLE TEKSTI-TV 23.03.07:47:14
 OL,1,D]G         TURKU                   4/6 
 OL,2,F]D        Saapuvat/Arrivals            
-OL,3,D]G23:55 Tukholma   SK2720              
-OL,4,F]D00:20 Helsinki   AY229               
-OL,5,F]D00:50 Riika      BT359               
-OL,6,D]G06:30 Malm|      DK4552              
-OL,7,D]G11:30 Tukholma   AY654               
-OL,8,F]D11:30 Maarianham HP285               
-OL,9,F]D16:25 Tukholma   SK2728              
+OL,3,D]G11:30 Maarianham HP285               
+OL,4,F]D11:30 Tukholma   AY654               
+OL,5,F]D16:25 Tukholma   SK2728              
+OL,6,D]G23:55 Tukholma   SK2720              
+OL,7,D]G00:20 Helsinki   AY229               
+OL,8,F]D00:50 Riika      BT359               
+OL,9,F]D08:40 Gdansk     W61751              
 OL,10,D]G                                     
 OL,11,D]G                                     
 OL,12,F]D                                     
@@ -123,22 +123,22 @@ PN,42505
 SC,0005
 PS,C100
 CT,15,T
-OL,0,       G425 YLE TEKSTI-TV 22.03.21:46:29
+OL,0,       G425 YLE TEKSTI-TV 23.03.07:47:14
 OL,1,D]G         OULU                    5/6 
 OL,2,D]G       L{htev{t/Departures           
-OL,3,F]D22:40 Helsinki   AY446  Arvioit 00:10
-OL,4,D]G05:35 Helsinki   AY450               
-OL,5,D]G06:25 Helsinki   AY448               
-OL,6,F]D07:35 Helsinki   AY432               
-OL,7,F]D08:55 Helsinki   AY434               
-OL,8,D]G10:55 Tampere    AY644               
-OL,9,D]G14:20 Helsinki   AY438               
-OL,10,F]D15:25 Helsinki   AY440               
-OL,11,F]D16:45 Helsinki   AY442               
-OL,12,D]G16:55 Gr.Canaria JTD802              
-OL,13,D]G17:45 Helsinki   AY444               
-OL,14,F]D22:15 Helsinki   AY456               
-OL,15,F]D22:40 Helsinki   AY446               
+OL,3,F]D08:55 Helsinki   AY434  Arvioit 09:20
+OL,4,D]G10:55 Tampere    AY644               
+OL,5,D]G14:20 Helsinki   AY438               
+OL,6,F]D15:25 Helsinki   AY440               
+OL,7,F]D16:45 Helsinki   AY442               
+OL,8,D]G16:55 Gr.Canaria JTD802              
+OL,9,D]G17:45 Helsinki   AY444               
+OL,10,F]D22:15 Helsinki   AY456               
+OL,11,F]D22:40 Helsinki   AY446               
+OL,12,D]G05:35 Helsinki   AY450               
+OL,13,D]G06:25 Helsinki   AY448               
+OL,14,F]D07:35 Helsinki   AY432               
+OL,15,F]D                                     
 OL,16,D]G                                     
 OL,17,D]G                                     
 OL,18,F]D                                     
@@ -153,22 +153,22 @@ PN,42506
 SC,0006
 PS,C100
 CT,15,T
-OL,0,       G425 YLE TEKSTI-TV 22.03.21:46:29
+OL,0,       G425 YLE TEKSTI-TV 23.03.07:47:14
 OL,1,D]G         OULU                    6/6 
 OL,2,F]D        Saapuvat/Arrivals            
-OL,3,D]G22:00 Helsinki   AY445  Arvioit 23:50
-OL,4,F]D23:45 Helsinki   AY447               
-OL,5,F]D01:05 Helsinki   AY449  Arvioit 01:39
-OL,6,D]G06:55 Helsinki   AY431               
-OL,7,D]G08:15 Helsinki   AY433               
-OL,8,F]D10:30 Helsinki   AY435               
-OL,9,F]D13:40 Helsinki   AY437               
-OL,10,D]G15:00 Helsinki   AY439               
-OL,11,D]G15:50 Gr.Canaria JTD801              
-OL,12,F]D16:05 Helsinki   AY441               
-OL,13,F]D17:05 Helsinki   AY443               
-OL,14,D]G21:35 Helsinki   AY455               
-OL,15,D]G22:00 Helsinki   AY445               
+OL,3,D]G08:15 Helsinki   AY433  Arvioit 08:56
+OL,4,F]D10:30 Helsinki   AY435               
+OL,5,F]D13:40 Helsinki   AY437               
+OL,6,D]G15:00 Helsinki   AY439               
+OL,7,D]G15:50 Gr.Canaria JTD801              
+OL,8,F]D16:05 Helsinki   AY441               
+OL,9,F]D17:05 Helsinki   AY443               
+OL,10,D]G21:35 Helsinki   AY455               
+OL,11,D]G22:00 Helsinki   AY445               
+OL,12,F]D23:45 Helsinki   AY447               
+OL,13,F]D01:05 Helsinki   AY449               
+OL,14,D]G06:55 Helsinki   AY431               
+OL,15,D]G08:15 Helsinki   AY433               
 OL,16,F]D                                     
 OL,17,F]D                                     
 OL,18,D]G                                     

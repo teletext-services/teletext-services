@@ -3,7 +3,7 @@ PN,64001
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:22:24
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:22:54
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -19,7 +19,23 @@ PN,64002
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:22:24
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:22:54
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor GL[TTE                     
+OL,11, G}ltig: So 21:00 bis Mo 10:00          
+OL,13,FRottweil, Schwarzwald-Baar-Kreis       
+OL,14,FTuttlingen                             
+OL,16, Es besteht Gl{ttegefahr.               
+OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64003
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:22:55
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -32,45 +48,11 @@ OL,17, Gl{ttegefahr.
 OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
-PN,64003
-SC,0003
-PS,C200
-CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:22:24
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,10,FWARNUNG vor GL[TTE                     
-OL,11, G}ltig: So 21:00 bis Mo 10:00          
-OL,13,FRottweil, Schwarzwald-Baar-Kreis       
-OL,14,FTuttlingen                             
-OL,16, Es besteht Gl{ttegefahr.               
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
 PN,64004
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:22:24
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,9,FWARNUNG vor LEICHTEM SCHNEEFALL        
-OL,10, G}ltig: So 16:00 bis Mo 08:00          
-OL,12,FRottweil, Schwarzwald-Baar-Kreis       
-OL,13,FTuttlingen                             
-OL,15, Es tritt im Warnzeitraum oberhalb 800 m
-OL,16, leichter Schneefall mit Mengen bis 5 cm
-OL,17, auf. Verbreitet wird es glatt.         
-OL,23,D]GQuelle:DWD  Stand:09:56  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,64005
-SC,0005
-PS,C200
-CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:22:24
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:22:55
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######

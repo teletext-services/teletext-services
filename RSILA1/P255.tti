@@ -3,7 +3,7 @@ PN,25501
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G255  RSI LA 1  22.11.26 18:53:41
+OL,0,       G255  RSI LA 1  23.11.26 04:53:40
 OL,1,C]@CALCIO           G]@22.11.26 18:14G.=
 OL,2,C                                       
 OL,3,                                    1/4 
@@ -28,20 +28,25 @@ PN,25502
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G255  RSI LA 1  22.11.26 18:53:41
-OL,1,C]@CALCIO           G]@22.11.26 18:51G.=
+OL,0,       G255  RSI LA 1  23.11.26 04:53:40
+OL,1,C]@CALCIO           G]@22.11.26 22:06G.=
 OL,2,C                                       
 OL,3,                                    2/4 
-OL,4,COsasuna     - Malaga     A *C 1-0 (.-.)
+OL,4,COsasuna     - Malaga        C 1-0 (1-0)
 OL,5,G20'Budimir.                            
-OL,9,FOsasuna:GHerrera Piron;GRosier,GCatena,
-OL,10,GBoyomo,GRico;GMoncayola,GGomez;GSantos,
-OL,11,GOroz,GBarja;GBudimir.                  
-OL,15,FMalaga:GHerrero;GMurillo,GPastor,GRecio
-OL,16,GGuti@rrez;GLarrubia,GRodriguez,G       
-OL,17,GMartinez,GMunoz Benavides,GSalinas;G   
-OL,18,GDotor,GNino.                           
-OL,21,FEstadio El Sadar                       
+OL,9,FOsasuna:GHerrera Piron;GRosier,A       
+OL,10,ACatena/92',GBoyomo,GRico;GMoncayola,G  
+OL,11,GGomezG(76'Torro Marset);GSantosG       
+OL,12,G(76'Munoz),GOrozC(65'Osambela),GBarjaG 
+OL,13,G(65'Moro Prescoli);GBudimirC           
+OL,14,C(86'Garcia).                           
+OL,15,FMalaga:GHerrero;GMurillo,GPastorG      
+OL,16,G(46'Puga),GRecio Guti@rrez;GLarrubiaG  
+OL,17,G(83'Diaz Esposito),GRodriguezG         
+OL,18,G(46'Rodriguez),GMartinezG(76'Ruiz      
+OL,19,GRubio),GMunoz BenavidesG(60'Lorenzo),G 
+OL,20,GSalinas;GDotor,GNino.                  
+OL,21,FEstadio El Sadar: 19813                
 OL,22,GRicardo de Burgos BengoetxeaG(ESP)     
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -49,19 +54,32 @@ PN,25503
 SC,0003
 PS,C300
 CT,8,T
-OL,0,       G255  RSI LA 1  22.11.26 18:53:41
-OL,1,C]@CALCIO           G]@09.11.26 13:16G.=
+OL,0,       G255  RSI LA 1  23.11.26 04:53:40
+OL,1,C]@CALCIO           G]@22.11.26 22:56G.=
 OL,2,C                                       
 OL,3,                                    3/4 
-OL,4,CGetafe      - A.Madrid   CDO 21h00     
-OL,21,FColiseum                               
+OL,4,CGetafe      - A.Madrid      C 0-3 (0-2)
+OL,5,G10'Baena,G30'Cardoso,G90+2'Grimaldo(R).
+OL,9,FGetafe:GSoria;GGarcia RobledoG         
+OL,10,G(85'Cordon Mancha),ADjene/90',GValouG  
+OL,11,G(46'Satriano),GRomero;GTerratsG        
+OL,12,G(46'Kiko),GMangala,GSerranoC           
+OL,13,C(67'Martin),GMojica;GAzonG(67'Mayoral),
+OL,14,GUnal.                                  
+OL,15,FA.Madrid:GOblak;GM.Llorente,CLe        
+OL,16,CNormand,GHancko,GGrimaldo;GKoke;C      
+OL,17,CCardosoG(46'KI.Lee),GBarrios;GSimeone,G
+OL,18,GAlvarezG(75'Sorloth),GBaenaG           
+OL,19,G(67'Mendoza).                          
+OL,21,FColiseum: 8875                         
+OL,22,GJesus Gil ManzanoG(ESP)                
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,25504
 SC,0004
 PS,C300
 CT,8,T
-OL,0,       G255  RSI LA 1  22.11.26 18:53:41
+OL,0,       G255  RSI LA 1  23.11.26 04:53:40
 OL,1,C]@CALCIO           G]@09.11.26 13:16G.=
 OL,2,C                                       
 OL,3,                                    4/4 

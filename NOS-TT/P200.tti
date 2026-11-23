@@ -3,9 +3,9 @@ PN,20001
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  200Czon 22 nov  17:44:38
-OL,1,G Wh|||4| h4                     GG 1/4 
-OL,2,D]W     j5GIDSGG       zondag         
+OL,0,       BNOS-TT  200Cmaa 23 nov  03:45:25
+OL,1,W Wh|||4| h4                     GG 1/3 
+OL,2,D]W     j5GIDSGG       maandag        
 OL,3,W,,,$/  +-/!,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,4,Bnpo            1      2      3 W       
 OL,5,Gvandaag      C201    202    203W G     
@@ -18,13 +18,13 @@ OL,11,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,12,Gnpo                 F296               
 OL,13,Ginfo rijksoverheid  F297G              
 OL,14,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,15,GactualiteitenC220F221 Gtalkshow FFC229 
+OL,15,GactualiteitenF220C221 Gtalkshow  FC229 
 OL,16,GjeugdjournaalF223     Gcomedy    FF231 
-OL,17,Gsport        C224   G GserieF     C232 
-OL,18,Gjournaal     C225  FG Ggeloof en  F    
-OL,19,Gzappelin/zappC226FCCG GsamenlevingC233 
-OL,20,Gfilm        FC227  FG Gmuziek     F234 
-OL,21,Gdocumentaire C228C  G                  
+OL,17,Gsport       CC224  FG  serieF    CF232 
+OL,18,Gjournaal     C225  FG  geloof enFFC    
+OL,19,Gzappelin/zappC226FCCG  samenlevingF233 
+OL,20,Gfilm         F227  FG  muziek    FC234 
+OL,21,GdocumentaireFC228C FG              F   
 OL,22,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,D]G pagina's inFblauwGniet oproepbaar   
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
@@ -33,29 +33,29 @@ PN,20002
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  200Czon 22 nov  17:44:38
-OL,1,F Wh|||4| h4                     GG 2/4 
-OL,2,D]W     j5GIDSGG       zondag         
+OL,0,       BNOS-TT  200Cmaa 23 nov  03:45:25
+OL,1,G Wh|||4| h4                     GG 2/3 
+OL,2,D]W     j5GIDSGG       maandag        
 OL,3,W,,,$/  +-/!,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,4,FBuitenhof..........................C220
-OL,5,FSport bij de NOS...................C224
-OL,6,FJournaal...........................C225
-OL,7,G                                       
-OL,8,FZappbios:Lars is LOL.............C226/1
-OL,9,FFri fri Suriname.................C226/2
-OL,10,FEscape from Albatros.............C226/3
-OL,11,FFreeks wilde wereld..............C226/4
-OL,12,FWilde buren alleen maar love.....C226/5
-OL,13,FRachel valt binnen...............C226/6
-OL,14,FZappdoc:tussen werelden..........C226/7
-OL,15,G                                       
-OL,16,FFryslan Dok......................C228/1
-OL,17,FHollands glorie..................C228/2
-OL,18,FDe joodse wereld.................C228/3
-OL,19,FClose up.........................C228/4
-OL,20,FRond de zwarte zee...............C228/5
-OL,21,FNPO Doc:I know you know I exist..C228/6
-OL,22,G                                       
+OL,4,FNieuwsuur........................C221/1
+OL,5,FBuitenhof........................C221/2
+OL,6,G                                       
+OL,7,FSport bij de NOS.................C224/1
+OL,8,G                                       
+OL,9,FSuperheldenschool................C226/1
+OL,10,FCheckpoint.......................C226/2
+OL,11,FBerts koeienparadijs.............C226/3
+OL,12,FFreeks wilde wereld..............C226/4
+OL,13,FHet klokhuis.....................C226/5
+OL,14,G                                       
+OL,15,FNatural Born Rebels..............C228/1
+OL,16,FMotorbendes......................C228/2
+OL,17,FHet uur van de wolf..............C228/3
+OL,18,FBrandmerk........................C228/4
+OL,19,G                                       
+OL,20,FTijd voor MAX......................C229
+OL,21,F                                       
+OL,22,FPauscast...........................C233
 OL,23,D]Ginformatie radio-programma's op 250  
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -63,59 +63,29 @@ PN,20003
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  200Czon 22 nov  17:44:38
-OL,1,G Wh|||4| h4                     GG 3/4 
-OL,2,D]W     j5GIDSGG       zondag         
+OL,0,       BNOS-TT  200Cmaa 23 nov  03:45:25
+OL,1,G Wh|||4| h4                     GG 3/3 
+OL,2,D]W     j5GIDSGG       maandag        
 OL,3,W,,,$/  +-/!,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,4,FWNL op zondag......................C229
-OL,5,G                                       
-OL,6,FPush...........................C232/1+2
-OL,7,G                                       
-OL,8,FPetrus in het land..............CC233/1
-OL,9,FDe verwondering..................C233/2
-OL,10,FGeloofsgesprek...................C233/3
-OL,11,FEucharistieviering...............C233/4
-OL,12,FDe verandering..................C 233/5
-OL,13,FAdieu!...........................C233/6
-OL,14,FPauscast.........................C223/7
-OL,15,G                                       
-OL,16,FPromenade presenteert:Promemedia...C231
-OL,17,FPodium klassiek....................C234
-OL,18,FFloortje over de oceaan............C235
-OL,19,G                                       
-OL,20,FMeer dan verwacht..................C236
-OL,21,FZorg uit handen....................C237
-OL,22,FHeel Holland bakt..................C238
-OL,23,D]Ginformatie radio-programma's op 250  
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,20004
-SC,0004
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  200Czon 22 nov  17:44:38
-OL,1,G Wh|||4| h4                     GG 4/4 
-OL,2,D]W     j5GIDSGG       zondag         
-OL,3,W,,,$/  +-/!,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,4,FIk mis je..........................C239
-OL,5,FMetterdaad.........................C240
-OL,6,G                                       
-OL,7,FFocus..............................C241
-OL,8,FDe geknipte gast...................C242
-OL,9,G                                       
-OL,10,FIedereen verlicht..................C243
-OL,11,FBoeken.............................C244
-OL,12,G                                       
-OL,13,FVroege vogels......................C245
-OL,14,FMetropolis.........................C246
-OL,15,G                                       
-OL,16,FBureau buitenland..................C247
-OL,17,F3 op reis..........................C248
+OL,4,F2 meter sessies....................C234
+OL,5,FKook mee met MAX...................C235
+OL,6,FSoep,sores en soelaas..............C236
+OL,7,FBoer zoekt vrouw...................C237
+OL,8,G                                       
+OL,9,FBinnenstebuiten....................C238
+OL,10,FZentijd............................C239
+OL,11,FMAX maakt mogelijk.................C240
+OL,12,FNu te zien!........................C241
+OL,13,G                                       
+OL,14,FStand van Nederland................C242
+OL,15,FDe ongelooflijke podcast...........C243
+OL,16,FArt Dept...........................C244
+OL,17,FBlauw bloed........................C245
 OL,18,G                                       
-OL,19,FBoerderij van Dorst................C249
-OL,20,G                                       
-OL,21,G                                       
-OL,22,G                                       
+OL,19,FExpeditie Nederland................C246
+OL,20,FRadar..............................C247
+OL,21,FReizen Waes........................C248
+OL,22,FOpsporing Verzocht.................C285
 OL,23,D]Ginformatie radio-programma's op 250  
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100

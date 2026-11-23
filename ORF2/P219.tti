@@ -3,7 +3,7 @@ PN,21901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G219FORF2   GSo 22.11.26 18:24:44
+OL,0,       G219FORF2   GMo 23.11.26 04:25:22
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A      Frankreich, 11.Runde \
 OL,3,Q#########G                        1/3  
@@ -11,21 +11,20 @@ OL,4,CSonntag
 OL,5,FParis FC      - Angers       F4:0 (0:0)
 OL,6, Zabi 47., Koleosho 55., Lopez 65.,     
 OL,7, Coppola 72.                            
-OL,8,C17.15h                                 
-OL,9,FLorient       - Rennes       A1:1F(1:1)
-OL,10, Talbi 45.; Dia 27.                     
-OL,11,C20.45h                                 
-OL,12,FMarseille     - Le Mans      F-:- (-:-)
-OL,13,CSamstag                                
-OL,14,FNizza         - Paris SG     F2:3 (1:2)
-OL,15, Amoura 8., Abdi 95.; Mayulu 31./E,     
-OL,16, Doue 32., F.Torres 85.                 
-OL,17,FLille         - Lyon         F0:1 (0:1)
-OL,18, Bidstrup 40.; mit Bacher (Lyon)        
-OL,19,FStrasbourg    - Brest        F0:1 (0:1)
-OL,20, Edjouma 22.                            
-OL,21,FMonaco        - Auxerre      F1:1 (0:1)
-OL,22, Diop 82.; Faivre 29.                   
+OL,8,FLorient       - Rennes       F1:1 (1:1)
+OL,9, Talbi 45.; Dia 27.                     
+OL,10, Rot: Thomasson 92./R                   
+OL,11,FMarseille     - Le Mans      F2:3 (2:0)
+OL,12, Gouiri 33., Paixao 40.; Mafouta 70.,   
+OL,13, Colas 84., Vercruysse 95.              
+OL,15,CSamstag                                
+OL,16,FNizza         - Paris SG     F2:3 (1:2)
+OL,17, Amoura 8., Abdi 95.; Mayulu 31./E,     
+OL,18, Doue 32., F.Torres 85.                 
+OL,19,FLille         - Lyon         F0:1 (0:1)
+OL,20, Bidstrup 40.; mit Bacher (Lyon)        
+OL,21,FStrasbourg    - Brest        F0:1 (0:1)
+OL,22, Edjouma 22.                            
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -33,18 +32,20 @@ PN,21902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G219FORF2   GSo 22.11.26 18:24:44
+OL,0,       G219FORF2   GMo 23.11.26 04:25:22
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A      Frankreich, 11.Runde \
 OL,3,Q#########G                        2/3  
 OL,4,CSamstag (Forts.)                       
-OL,5,FLens          - Toulouse     F1:1 (0:1)
-OL,6, Cuisance 47.; Russell-Rowe 39.;        
-OL,7, mit Baidoo (L)                         
-OL,9,CFreitag                                
-OL,10,FTroyes        - Le Havre     F3:1 (1:1)
-OL,11, Mille 19.,69., Ripart 98./E; Maja 3.   
-OL,12, Rot: Koffi 89./L                       
+OL,5,FMonaco        - Auxerre      F1:1 (0:1)
+OL,6, Diop 82.; Faivre 29.                   
+OL,7,FLens          - Toulouse     F1:1 (0:1)
+OL,8, Cuisance 47.; Russell-Rowe 39.;        
+OL,9, mit Baidoo (L)                         
+OL,11,CFreitag                                
+OL,12,FTroyes        - Le Havre     F3:1 (1:1)
+OL,13, Mille 19.,69., Ripart 98./E; Maja 3.   
+OL,14, Rot: Koffi 89./L                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -52,15 +53,15 @@ PN,21903
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G219FORF2   GSo 22.11.26 18:24:44
+OL,0,       G219FORF2   GMo 23.11.26 04:25:22
 OL,1,A]G                             Fu~ball 
-OL,2,A]GSPORT  ]ELIVE! AFrankreich, Tabelle \
+OL,2,A]GSPORT  ]A      AFrankreich, Tabelle \
 OL,3,Q#########G                        3/3  
 OL,4,G 1 Paris SG        11  8  2  1 25:12 26
 OL,5,G 2 Paris FC        11  7  2  2 21:10 23
 OL,6,G 3 OSC Lille       11  6  3  2 14:8  21
 OL,7,G 4 Olympique Lyon  11  6  2  3 16:9  20
-OL,8,F 5 Olymp.Marseille 10  6  0  4 22:14 18
+OL,8,F 5 Olymp.Marseille 11  6  0  5 24:17 18
 OL,9,F 6 Stade Brest     11  5  3  3 19:12 18
 OL,10,G 7 OGC Nizza       11  5  2  4 17:15 17
 OL,11,G 8 AS Monaco       11  4  5  2 14:12 17
@@ -68,10 +69,10 @@ OL,12,G 9 Stade Rennes    11  5  2  4 22:22 17
 OL,13,G10 FC Lorient      11  4  4  3 10:9  16
 OL,14,G11 RC Lens         11  4  2  5 18:16 14
 OL,15,G12 FC Toulouse     11  3  5  3 16:15 14
-OL,16,G13 ES Troyes       11  3  2  6 10:18 11
-OL,17,G14 AJ Auxerre      11  3  2  6 14:25 11
-OL,18,G15 RC Strasbourg   11  3  1  7 18:23 10
-OL,19,F16 Le Mans FC      10  1  5  4 12:19  8
+OL,16,G13 Le Mans FC      11  2  5  4 15:21 11
+OL,17,G14 ES Troyes       11  3  2  6 10:18 11
+OL,18,G15 AJ Auxerre      11  3  2  6 14:25 11
+OL,19,F16 RC Strasbourg   11  3  1  7 18:23 10
 OL,20,G17 SCO Angers      11  2  2  7  9:23  8
 OL,21,G18 Le Havre AC     11  0  2  9 10:25  2
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

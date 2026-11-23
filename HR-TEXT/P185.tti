@@ -1,9 +1,43 @@
 DE,HR-TEXT 185
-PN,18500
-SC,0000
-PS,8208
-CT,10,T
-OL,0,           Fhr-textGSo 22.11.26F16:30:34
+PN,18501
+SC,0001
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGMo 23.11.26F02:31:01
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]DWETTERWARNUNG  D] G    Mo. 23.11.2026
+OL,3,W#######################################
+OL,4,CWARNUNG vor NEBEL                      
+OL,6, G}ltig : Mo. 01:30 bis Mo. 09:00       
+OL,8,FKreis und Stadt Offenbach              
+OL,10, Es tritt verbreitet Nebel mit          
+OL,11, Sichtweiten unter 150 Metern auf.      
+OL,23,F]DQuelle: DWD 02:20 Uhr            F-> 
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,18502
+SC,0002
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGMo 23.11.26F02:31:01
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]DWETTERWARNUNG  D] G    So. 22.11.2026
+OL,3,W#######################################
+OL,4,CWARNUNG vor NEBEL                      
+OL,6, G}ltig : So. 23:43 bis Mo. 09:00       
+OL,8,FHochtaunuskreis, Main-Kinzig-Kreis,    
+OL,9,FMain-Taunus-Kreis,                     
+OL,10,FRheingau-Taunus-Kreis, Stadt Wiesbaden 
+OL,12, Es tritt verbreitet Nebel mit          
+OL,13, Sichtweiten unter 150 Metern auf.      
+OL,23,F]DQuelle: DWD 02:20 Uhr            F-> 
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,18503
+SC,0003
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGMo 23.11.26F02:31:01
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERWARNUNG  D] G    So. 22.11.2026
 OL,3,W#######################################
@@ -16,6 +50,52 @@ OL,11,FRheingau-Taunus-Kreis, Stadt Frankfurt
 OL,12,Fam Main, Stadt Wiesbaden               
 OL,14, Es tritt leichter Frost zwischen -1 `C 
 OL,15, und -4 `C auf.                         
-OL,23,F]DQuelle: DWD 16:20 Uhr            F-> 
+OL,23,F]DQuelle: DWD 02:20 Uhr            F-> 
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,18504
+SC,0004
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGMo 23.11.26F02:31:01
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]DWETTERWARNUNG  D] G    So. 22.11.2026
+OL,3,W#######################################
+OL,4,CWARNUNG vor GL[TTE                     
+OL,6, G}ltig : So. 23:58 bis Mo. 10:00       
+OL,8,FMain-Taunus-Kreis, Stadt Wiesbaden     
+OL,10, Es besteht vereinzelt Gl{ttegefahr.    
+OL,23,F]DQuelle: DWD 02:20 Uhr            F-> 
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,18505
+SC,0005
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGMo 23.11.26F02:31:01
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]DWETTERWARNUNG  D] G    Mo. 23.11.2026
+OL,3,W#######################################
+OL,4,CWARNUNG vor GL[TTE                     
+OL,6, G}ltig : Mo. 01:30 bis Mo. 10:00       
+OL,8,FKreis und Stadt Offenbach              
+OL,10, Es besteht vereinzelt Gl{ttegefahr.    
+OL,23,F]DQuelle: DWD 02:20 Uhr            F-> 
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,18506
+SC,0006
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGMo 23.11.26F02:31:01
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]DWETTERWARNUNG  D] G    So. 22.11.2026
+OL,3,W#######################################
+OL,4,CWARNUNG vor GL[TTE                     
+OL,6, G}ltig : So. 23:45 bis Mo. 10:00       
+OL,8,FHochtaunuskreis, Main-Kinzig-Kreis,    
+OL,9,FRheingau-Taunus-Kreis                  
+OL,11, Es besteht vereinzelt Gl{ttegefahr.    
+OL,23,F]DQuelle: DWD 02:20 Uhr            F-> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100

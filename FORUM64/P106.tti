@@ -2,65 +2,45 @@ DE,FORUM64 106
 PN,10601
 SC,0001
 PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSo 22 Nov F16:21:58
+CT,15,T
+OL,0,         GFORUM64   GMo 23 Nov F02:22:18
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EWas w{re wenn: es einen v|llig neuen   
-OL,3,E16bit Computer auf MISTer Core Basis   
-OL,4,Eg{be - irgendwo zwischen C64 und Amiga 
-OL,6,CAntwort:  Bsanstarr                    
-OL,7,CComments: B188                         
-OL,8,F                                       
-OL,9,F@UnterUns33                            
-OL,11,FIch sehe, dass du hier hin und wieder  
-OL,12,Freagierst; aber nirgendwo, dass du es  
-OL,13,Fauch schon getestet und Feedback       
-OL,14,Fgegeben hast?                          
-OL,16,FWas st|rt Dich genau an dem Konzept und
-OL,17,Fmit was genau wirst Du nicht warm?     
-OL,19,FZum Umfang von TRANCE: --- Kapitel 1   
-OL,20,FDas                                    
+OL,2,EDolphinDOS26 f}r den VIC20/VC20        
+OL,4,CAntwort:  BMike                        
+OL,5,CComments: B1                           
+OL,6,F                                       
+OL,7,FIch hab das mal ins Denial-Forum       
+OL,8,Fweitergereicht, hier: VIC20DD26 VIC-20 
+OL,9,FKERNAL for DolphinDos26 - Denial       
+OL,11,FHoffe mal meine Kurzbeschreibung pa~t  
+OL,12,Fso.                                    
+OL,14,FViele Gr}~e,                           
+OL,16,FMichael                                
+OL,18,FP.S. der Inhalt dieses Beitrags wurde  
+OL,19,Fnicht KI-unterst}tzt erstellt. Einfach 
+OL,20,Fbeim                                   
 OL,22,CErster Beitrag:                        
-OL,24,D]FForum64.de RSS feed            (1/3) 
+OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,10602
 SC,0002
 PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSo 22 Nov F16:21:58
+CT,15,T
+OL,0,         GFORUM64   GMo 23 Nov F02:22:18
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GDann w}rde vielleicht ein Projekt wie  
-OL,4,Gdieses dabei herauskommen              
-OL,6,GAbseits von FABULA gehe ich mit        
-OL,7,GRetro-Modern noch ganz andere Wege.    
-OL,9,GMein zweiter MiSTer, den ich hier      
-OL,10,Gstehen habe, war eigentlich immer als  
-OL,11,GErsatz gedacht bis ich nebenbei anfing,
-OL,12,Gmich mit Hilfe von Vibe Coding mit     
-OL,13,Geigenen Cores zu besch{ftigen.         
-OL,15,GHerausgekommen ist etwas, das noch Zeit
-OL,16,Gbraucht, aber grunds{tzlich            
-OL,17,Gfunktioniert und unglaublich           
-OL,18,Gfaszinierend ist.                      
-OL,20,GDarf ich vorstellen: MERIDIAN 816 der  
-OL,21,GHeimcomputer, den es nie gab.          
-OL,23,GIrgendwo zwischen C64 und Amiga: 65C816
-OL,24,D]FForum64.de RSS feed            (2/3) 
-FL,0,0,0,0,0,100
-PN,10603
-SC,0003
-PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSo 22 Nov F16:21:58
-OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gmit 8 MHz, 256 aus 4096 Farben, 32     
-OL,4,GSprites, ein Soundchip mit SID-artigen 
-OL,5,GStimmen und Samplekan{len, Copper,     
-OL,6,GBlitter, 16 MB Speicher und beim       
-OL,7,GEinschalten Microsoft BASIC mit 47102  
-OL,8,GBytes frei. Alles l{uft auf echter     
-OL,9,GMiSTer-Hardware.                       
-OL,11,GBitte melde Dich an, um diesen Anhang  
-OL,12,Gzu                                     
-OL,24,D]FForum64.de RSS feed            (3/3) 
+OL,3,GHallo,                                 
+OL,5,GDie Tage habe ich mal den DolphinDos26 
+OL,6,GKernal auf den VC20 portiert. Einfach  
+OL,7,Gmal so zum Testen. Es funktioniert. Der
+OL,8,GVC20 kommuniziert jetzt }ber den       
+OL,9,GParallelport und Userport mit einer    
+OL,10,G1541. Zudem kann der VC20 auch parallel
+OL,11,Goder }ber das JiffyDos Protokoll mit   
+OL,12,GSD2IEC oder PI1541 sprechen etc. Mit   
+OL,13,Gdem ganzen Komfort wie F-Tasten und @  
+OL,14,Getc. Viel Spass                        
+OL,16,GLink:                                  
+OL,18,Ghttps://github.com/FraEgg/Dolphin      
+OL,19,Gvic20-kernal.md                        
+OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

@@ -2,71 +2,59 @@ DE,FORUM64 120
 PN,12001
 SC,0001
 PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSo 22 Nov F16:22:10
+CT,15,T
+OL,0,         GFORUM64   GMo 23 Nov F02:22:48
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,ESD-Karten-Problematik beim MEGA65      
-OL,4,CAntwort:  BSnoopy                      
-OL,5,CComments: B44                          
+OL,2,E(WIP) CSDb Mobile Viewer               
+OL,4,CAntwort:  Bherrfabu                    
+OL,5,CComments: B0                           
 OL,6,F                                       
-OL,7,FClaude:                                
-OL,9,FGute Nachricht zuerst: SkulleateR hat  
-OL,10,Fgenau das best{tigt, worum es geht. Ein
-OL,11,Fabsichtlich fragmentiertes D81 wurde   
-OL,12,Fbeim Mounten im Freezer umkopiert und  
-OL,13,Fist danach auch im normalen Core       
-OL,14,Flesbar. Damit l{uft das Defragmentieren
-OL,15,Fauf echter Hardware                    
+OL,7,FAhoi!                                  
+OL,9,FIch bin ein regelm{~iger Besucher der  
+OL,10,FC64 Scene Database , aber das Design   
+OL,11,Fist f}r die mobile Nutzung aufm        
+OL,12,FSmartphone quasi nicht zu gebrauchen.  
+OL,13,FAlso habe ich mich etwas mit deren     
+OL,14,FWebservice (API) vertraut gemacht und  
+OL,15,Feine Seite gebaut, die das             
 OL,17,CErster Beitrag:                        
-OL,19,GIch hole das mal von hier r}ber, damit 
-OL,20,Gman vielleicht an dieses Problem mal   
-OL,21,Grangehen kann?                         
-OL,23,G( )                                    
+OL,19,GAhoi!                                  
+OL,21,GIch bin ein regelm{~iger Besucher der  
+OL,22,GC64 Scene Database , aber das Design   
+OL,23,Gist f}r die mobile Nutzung aufm        
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,12002
 SC,0002
 PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSo 22 Nov F16:22:10
+CT,15,T
+OL,0,         GFORUM64   GMo 23 Nov F02:22:48
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GIch habe von FPGA-Progarmmierung leider
-OL,4,Gnur so viel Ahnung, wie vom            
-OL,5,GRosenz}chten in Neuseeland, aber       
-OL,6,Gzumindest kann ich Claude bedienen und 
-OL,7,Gmir damit helfen lassen, die           
-OL,8,Ginteressanten Stellen herauszufinden.  
-OL,10,GUnd hier habe ich mal zu dem Problem   
-OL,11,Gnachgefragt:                           
-OL,13,G---                                    
-OL,15,GFrage:                                 
-OL,17,GKannst du dieses Github-Repo |ffnen und
-OL,18,Geinsehen?                              
-OL,19,Ghttps://github.com/MEGA65/mega65-core  
-OL,21,GIch habe eine Frage dazu: Kannst du    
-OL,22,Gerkennen, ob und wenn ja, wo sich der  
+OL,3,GSmartphone quasi nicht zu gebrauchen.  
+OL,4,GAlso habe ich mich etwas mit deren     
+OL,5,GWebservice (API) vertraut gemacht und  
+OL,6,Geine Seite gebaut, die das {ndert. Das 
+OL,7,Gmeiste klappt schon, aber in der       
+OL,8,GTestphase ist die Seite noch           
+OL,9,Gnicht-|ffentlich und passwortgesch}tzt.
+OL,11,GWer Link und Passwort zum Testen haben 
+OL,12,Gm|chte, kann mir gerne eine PM         
+OL,13,Gschicken. Ich w{re f}r Feedback        
+OL,14,Gdankbar. Was ist gut, was weniger gut, 
+OL,15,Gwas fehlt? Das kann dann auch gerne    
+OL,16,Ghier im Thread gepostet werden, damit  
+OL,17,Ges nicht un}bersichtlich wird.         
+OL,19,GLiebe Gr}~e Fabu                       
+OL,21,GPS: Falls der Forenbereich falsch sein 
+OL,22,Gsollte, den Thread bitte einfach       
+OL,23,Gverschieben.                           
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,12003
 SC,0003
 PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSo 22 Nov F16:22:10
+CT,15,T
+OL,0,         GFORUM64   GMo 23 Nov F02:22:48
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GCode befindet, der f}r den Zugriff des 
-OL,4,GMEGA65 auf die SD-Karte zust{ndig ist? 
-OL,6,GClaude:                                
-OL,8,GJa, ich habe das Repo ge|ffnet (Branch 
-OL,9,Gdevelopment , Stand 31.10.2026). Der   
-OL,10,GSD-Karten-Code ist vorhanden und       
-OL,11,Gverteilt sich auf zwei Ebenen.         
-OL,13,G1. Hardware im FPGA (VHDL)             
-OL,15,Gsrc/vhdl/sdcard.vhdl (688 Zeilen)      
-OL,16,Genth{lt die Entity SdCardCtrl , den    
-OL,17,Geigentlichen SPI-Controller f}r die    
-OL,18,GKarte (Reset/Init, CMD-Sequenzen,      
-OL,19,GLesen/Schreiben von 512-Byte-Bl|cken,  
-OL,20,GSDHC). Er beruht auf einem             
-OL,21,GXESS-Controller (LGPL)                 
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

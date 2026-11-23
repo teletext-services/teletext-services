@@ -2,15 +2,18 @@ DE,DR-TEKST-TV 493
 PN,49301
 SC,0001
 PS,C100
-CT,10,T
-OL,0,       GDR   S493  son 22 nov   15:53:53
+CT,15,T
+OL,0,       GDR   S493  man 23 nov   01:23:34
 OL,1,D]G                                     
 OL,2,D]G        BORNHOLMS  INDENRIGS/UDENRIGS
 OL,3,D]G        LUFTHAVN               AFGANG
 OL,4,T#######################################
 OL,5,CTID  FORV FLY    TIL          BEMARK   
-OL,6,   -------  2026-11-22  -------         
-OL,7, 1645      DX041  Kobenhavn     Go to Ga
+OL,6,   -------  2026-11-23  -------         
+OL,7, 0615      DX031  Kobenhavn             
+OL,8, 0825      DK1002 Gran Canaria          
+OL,9, 0845      DX035  Kobenhavn             
+OL,10, 1320      DX041  Kobenhavn             
 OL,22, ]                                      
 OL,23, ]A480@FLY                          1/2 
 OL,24,  ANyheder    BSport    CTV    FVejret  
@@ -18,15 +21,16 @@ FL,110,200,300,400,0,100
 PN,49302
 SC,0002
 PS,C100
-CT,10,T
-OL,0,       GDR   S493  son 22 nov   15:53:22
+CT,15,T
+OL,0,       GDR   S493  man 23 nov   01:23:04
 OL,1,D]G                                     
 OL,2,D]G        BORNHOLMS  INDENRIGS/UDENRIGS
 OL,3,D]G        LUFTHAVN              ANKOMST
 OL,4,T#######################################
 OL,5,CTID  FORV FLY    FRA          BEMARK   
-OL,6,   -------  2026-11-22  -------         
-OL,7, 1850      DX054  Kobenhavn             
+OL,6,   -------  2026-11-23  -------         
+OL,7, 0810      DX032  Kobenhavn             
+OL,8, 1210      DX038  Kobenhavn             
 OL,22, ]                                      
 OL,23, ]A480@FLY                          2/2 
 OL,24,  ANyheder    BSport    CTV    FVejret  

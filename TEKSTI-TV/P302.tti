@@ -1,31 +1,61 @@
 DE,TEKSTI-TV 302
-PN,30200
-SC,0000
-PS,8108
+PN,30201
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       G302 YLE TEKSTI-TV 22.03.21:43:10
-OL,1,D]         G]                    D  1/1 
-OL,2,D]GTV2     G]D    Sunnuntai 22.11.      
+OL,0,       G302 YLE TEKSTI-TV 23.03.07:43:30
+OL,1,D]         G]                    D  1/2 
+OL,2,D]GTV2     G]D    Maanantai 23.11.      
 OL,3,T#########^W############################
-OL,4, 21.00GDangerous PlayG(7)ETBAC>354      
-OL,5, 21.45GIhmeiden {{rell{G(12)BAC>354     
-OL,6, 22.30GPoliisiopiskelijatG(S)ETBAC>354  
-OL,7, 22.55GTappavan v{kivallan motiivitG(12)
-OL,8,      BAC>354                           
-OL,9, 23.25GAvoimenaBAC>354                  
-OL,10, 23.55GKuka uskoisG(12)ETBAC>354        
-OL,11, 00.05GPentulive 2026 TV2 y|striimi     
-OL,12,K                                       
-OL,13,K                                       
-OL,14,K                                       
-OL,15,K                                       
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
+OL,4, 07.33GTuuriG(S)ETBAC>353               
+OL,5, 07.41GRyhm{ HauG(S)ETBAC>353           
+OL,6, 08.03GNimip{iv{onnittelu: 23.11.BAC>353
+OL,7, 08.05GPikku Kakkonen                   
+OL,8, 08.06GOlipa kerran keksint|G(7)ETBA    
+OL,9,      C>353                             
+OL,10, 08.13GVoihan PoniG(S)ETBAC>353         
+OL,11, 08.25GMuumilaaksoG(S)BA                
+OL,12, 08.50GJumppahetkiETBA                  
+OL,13, 09.00GChydeniukset ChydeniuksestaG(S)ET
+OL,14,      BAC>353                           
+OL,15, 10.00GDanny - viihdemaratonin          
+OL,16,      GloppusuoraETBAC>353              
+OL,17, 11.15GRahdinmets{st{j{tETBAC>353       
+OL,18, 11.45GSeitsem{s taivasETBAC>353        
+OL,19, 12.35GVintage-valtakuntaETBAC>353      
+OL,20, 13.05GUnelma LapistaETBAC>353          
+OL,21, 13.35GTiett|m{n taipaleen takanaBAC>353
 OL,22,ET = Tekstitys                          
 OL,23,BA = Jo Areenassa   FA = Tulee Areenaan 
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,30202
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       G302 YLE TEKSTI-TV 23.03.07:43:30
+OL,1,D]         G]                    D  2/2 
+OL,2,D]GTV2     G]D    Maanantai 23.11.      
+OL,3,T#########^W############################
+OL,4, 14.30GTanskalainen maajussiBAC>353     
+OL,5, 15.00GKauppakaupunkien aarteitaFAC>353 
+OL,6, 16.00GRuma SuomiETBAC>353              
+OL,7, 16.30GUnelmakoti SisiliassaBAC>353     
+OL,8, 17.00GPikku KakkonenETBA               
+OL,9, 18.00GSuomiLOVEETBAC>354               
+OL,10, 19.00GSohvaperunatETBAC>354            
+OL,11, 19.50GKansallismaisemat: Hein{vesiETBA 
+OL,12,      C>354                             
+OL,13, 20.00GSuuri keramiikkakisaBAC>354      
+OL,14, 21.00GVahtikoiratG(12)BAC>354          
+OL,15, 21.45GMoneylabETBAC>354                
+OL,16, 22.05GOuto historiaG(7)ETBAC>354       
+OL,17, 22.50GQueen of Fucking EverythingG(12) 
+OL,18,      ETBAC>354                         
+OL,19, 23.45GBelzebubsG(12)ETBAC>354          
+OL,20, 00.10GMonissa h{iss{G(S)ETBAC>354      
+OL,21, 00.40GPentulive 2026 TV2 y|striimi     
+OL,22,K                                       
+OL,23,G]DTV2 huomennaD311  ylihuomennaD316    
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

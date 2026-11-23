@@ -3,46 +3,42 @@ PN,82901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G829FORF2   GSo 22.11.26 18:35:35
+OL,0,       G829FORF2   GMo 23.11.26 04:35:53
 OL,1,A]G                  Flughafen Salzburg 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug     von        Plan aktuell       
-OL,5,FLY 5193  Tel-Aviv   1800Bgelandet      
-OL,6,GLH 1264  Frankfurt  1815Bgelandet  1810
-OL,7,FTK 1383  Istanbul   1815Aversp{tet 1835
-OL,8,GEW 4355  Hamburg    2050               
-OL,9,FEW 4339  D}sseldorf 2055               
-OL,10,GLH 1266  Frankfurt  2230               
-OL,23,Q,,F18:35hGFlughafen SalzburgF0662/8580 
+OL,5,FFR 304   London STN 0915               
+OL,6,GEW 4335  D}sseldorf 1000               
+OL,7,FLH 1260  Frankfurt  1005               
+OL,8,GEW 4355  Hamburg    1045               
+OL,9,FBQ 1992  Rom FCO    1130               
+OL,10,GBA 2628  London LGW 1155               
+OL,11,FLH 1262  Frankfurt  1355               
+OL,12,GEW 4343  Berlin     1405               
+OL,23,Q,,F04:35hGFlughafen SalzburgF0662/8580 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G829FORF2   GSo 22.11.26 18:35:35
+OL,0,       G829FORF2   GMo 23.11.26 04:35:53
 OL,1,A]G                  Flughafen Salzburg 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug     nach       Plan aktuell       
-OL,5,FFR 309   London STN 1725Bgestartet     
-OL,6,GEW 4354  Hamburg    1730Bgestartet     
-OL,7,FEW 4338  D}sseldorf 1750Bgestartet     
-OL,8,GLH 1265  Frankfurt  1900               
-OL,9,FLY 5194  Tel-Aviv   1905               
-OL,10,GTK 1384  Istanbul   1910               
-OL,11,CN{chster Tag: 2026-11-23               
-OL,12,FLH 1267  Frankfurt  0605               
-OL,13,GEW 4334  D}sseldorf 0655               
-OL,14,FEW 4354  Hamburg    0730               
-OL,15,GFR 305   London STN 1000               
-OL,16,FLH 1261  Frankfurt  1055               
-OL,17,GEW 4342  Berlin     1105               
-OL,18,FBQ 1993  Rom FCO    1215               
-OL,19,GBA 2629  London LGW 1245               
-OL,20,FLH 1263  Frankfurt  1445               
-OL,21,GEW 4338  D}sseldorf 1625               
-OL,23,Q,,F18:35hGFlughafen SalzburgF0662/8580 
+OL,5,FLH 1267  Frankfurt  0605               
+OL,6,GEW 4334  D}sseldorf 0655               
+OL,7,FEW 4354  Hamburg    0730               
+OL,8,GFR 305   London STN 1000               
+OL,9,FLH 1261  Frankfurt  1055               
+OL,10,GEW 4342  Berlin     1105               
+OL,11,FBQ 1993  Rom FCO    1215               
+OL,12,GBA 2629  London LGW 1245               
+OL,13,FLH 1263  Frankfurt  1445               
+OL,14,GEW 4338  D}sseldorf 1625               
+OL,15,FJU 325   Belgrad    2015               
+OL,23,Q,,F04:35hGFlughafen SalzburgF0662/8580 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

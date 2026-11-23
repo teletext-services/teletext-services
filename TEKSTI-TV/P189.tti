@@ -3,71 +3,11 @@ PN,18901
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G189 YLE TEKSTI-TV 22.03.21:40:20
+OL,0,       G189 YLE TEKSTI-TV 23.03.07:40:37
 OL,1,D]CNord Pool                      F 1/4 
-OL,2,D]GP|rssis{hk|          22.11. klo 22.35
-OL,3,BHinta nytF1,20 snt/kWhB(sis. ALV:n)    
+OL,2,D]GP|rssis{hk|          23.11. klo 08.35
+OL,3,BHinta nytF1,63 snt/kWhB(sis. ALV:n)    
 OL,4,CT{n{{nGklo 00-12 (hinta 15 min v{lein) 
-OL,5,G00F  1,63G03F  0,63G06F  0,78G09F  1,00
-OL,6,G  F  1,26G  F  0,60G  F  0,75G  F  1,04
-OL,7,G  F  1,12G  F  0,54G  F  0,76G  F  1,22
-OL,8,G  F  1,01G  F  0,53G  F  0,69G  F  1,23
-OL,9,G01F  0,95G04F  0,60G07F  0,72G10F  1,21
-OL,10,G  F  0,70G  F  0,58G  F  0,72G  F  1,25
-OL,11,G  F  0,63G  F  0,52G  F  0,76G  F  1,29
-OL,12,G  F  0,60G  F  0,39G  F  0,83G  F  1,35
-OL,13,G02F  0,75G05F  0,74G08F  0,92G11F  1,28
-OL,14,G  F  0,65G  F  0,73G  F  0,92G  F  1,32
-OL,15,G  F  0,62G  F  0,66G  F  0,93G  F  1,53
-OL,16,G  F  0,58G  F  0,53G  F  1,04G  F  1,51
-OL,17,K                                       
-OL,18,GP{iv{n alin/ylinF           0,39/1,70  
-OL,19,GKuluvan p{iv{n keskihintaF       1,13  
-OL,20,G3 edell. p{iv{n alin/ylinF  1,25/30,97 
-OL,21,G7  vrk:n keskihintaF             10,99 
-OL,22,G28 vrk:n keskihintaF             7,89  
-OL,23,ETuntikeskihinnat 188CT{n{{n klo 12-24 >
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,18902
-SC,0002
-PS,C100
-CT,15,T
-OL,0,       G189 YLE TEKSTI-TV 22.03.21:40:20
-OL,1,D]CNord Pool                      F 2/4 
-OL,2,D]GP|rssis{hk|          22.11. klo 22.35
-OL,3,BHinta nytF1,20 snt/kWhB(sis. ALV:n)    
-OL,4,CT{n{{nGklo 12-24 (hinta 15min v{lein)  
-OL,5,G12F  1,26G15F  1,26G18F  1,63G21F  1,28
-OL,6,G  F  1,25G  F  1,26G  F  1,63G  F  1,26
-OL,7,G  F  1,25G  F  1,51G  F  1,67G  F  1,21
-OL,8,G  F  1,25G  F  1,61G  F  1,63G  F  1,14
-OL,9,G13F  1,38G16F  1,41G19F  1,63G22F  1,21
-OL,10,G  F  1,34G  F  1,60G  F  1,63G  F  1,21
-OL,11,G  F  1,25G  F  1,58G  F  1,55G  F  1,20
-OL,12,G  F  1,26G  F  1,63G  F  1,53G  F  1,04
-OL,13,G14F  1,47G17F  1,61G20F  1,30G23F  1,20
-OL,14,G  F  1,26G  F  1,55G  F  1,31G  F  1,14
-OL,15,G  F  1,26G  F  1,63G  F  1,43G  F  1,04
-OL,16,G  F  1,28G  F  1,70G  F  1,33G  F  1,03
-OL,17,K                                       
-OL,18,GP{iv{n alin/ylinF           0,39/1,70  
-OL,19,GKuluvan p{iv{n keskihintaF       1,13  
-OL,20,G3 edell. p{iv{n alin/ylinF  1,25/30,97 
-OL,21,G7  vrk:n keskihintaF             10,99 
-OL,22,G28 vrk:n keskihintaF             7,89  
-OL,23,EKeskihinnat s.188CHuomenna klo 00-12 >>
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,18903
-SC,0003
-PS,C100
-CT,15,T
-OL,0,       G189 YLE TEKSTI-TV 22.03.21:40:20
-OL,1,D]CNord Pool                      F 3/4 
-OL,2,D]GP|rssis{hk|          22.11. klo 22.35
-OL,3,BHinta nytF1,20 snt/kWhB(sis. ALV:n)    
-OL,4,CHuomennaGklo 00-12 (hinta 15min v{lein)
 OL,5,G00F  1,00G03F  0,49G06F  0,64G09F  1,48
 OL,6,G  F  0,99G  F  0,48G  F  0,74G  F  1,63
 OL,7,G  F  0,99G  F  0,45G  F  0,92G  F  1,88
@@ -81,23 +21,23 @@ OL,14,G  F  0,51G  F  0,59G  F  1,27G  F  1,88
 OL,15,G  F  0,47G  F  0,59G  F  1,63G  F  2,44
 OL,16,G  F  0,48G  F  0,62G  F  1,83G  F  3,14
 OL,17,K                                       
-OL,18,GHuomisen alin/ylinF         0,38/3,14  
-OL,19,GHuomisen keskihintaF             1,71  
-OL,20,G3 edell. p{iv{n alin/ylinF  1,25/30,97 
-OL,21,G7  vrk:n keskihintaF             10,99 
-OL,22,G28 vrk:n keskihintaF             7,89  
-OL,23,EKeskihinnat s.188CHuomenna klo 12-24 >>
+OL,18,GP{iv{n alin/ylinF           0,38/3,14  
+OL,19,GKuluvan p{iv{n keskihintaF       1,71  
+OL,20,G3 edell. p{iv{n alin/ylinF  0,39/14,13 
+OL,21,G7  vrk:n keskihintaF             9,70  
+OL,22,G28 vrk:n keskihintaF             7,93  
+OL,23,ETuntikeskihinnat 188CT{n{{n klo 12-24 >
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,18904
-SC,0004
+PN,18902
+SC,0002
 PS,C100
 CT,15,T
-OL,0,       G189 YLE TEKSTI-TV 22.03.21:40:20
-OL,1,D]CNord Pool                      F 4/4 
-OL,2,D]GP|rssis{hk|          22.11. klo 22.35
-OL,3,BHinta nytF1,20 snt/kWhB(sis. ALV:n)    
-OL,4,CHuomennaGklo 12-24 (hinta 15min v{lein)
+OL,0,       G189 YLE TEKSTI-TV 23.03.07:40:37
+OL,1,D]CNord Pool                      F 2/4 
+OL,2,D]GP|rssis{hk|          23.11. klo 08.35
+OL,3,BHinta nytF1,63 snt/kWhB(sis. ALV:n)    
+OL,4,CT{n{{nGklo 12-24 (hinta 15min v{lein)  
 OL,5,G12F  2,03G15F  2,65G18F  2,30G21F  2,44
 OL,6,G  F  2,42G  F  2,51G  F  2,35G  F  2,45
 OL,7,G  F  2,68G  F  2,27G  F  2,44G  F  2,14
@@ -111,11 +51,71 @@ OL,14,G  F  2,45G  F  2,24G  F  2,31G  F  2,33
 OL,15,G  F  2,51G  F  2,31G  F  2,42G  F  2,28
 OL,16,G  F  2,53G  F  2,45G  F  2,21G  F  1,92
 OL,17,K                                       
-OL,18,GHuomisen alin/ylinF         0,38/3,14  
-OL,19,GHuomisen keskihintaF             1,71  
-OL,20,G3 edell. p{iv{n alin/ylinF  1,25/30,97 
-OL,21,G7  vrk:n keskihintaF             10,99 
-OL,22,G28 vrk:n keskihintaF             7,89  
+OL,18,GP{iv{n alin/ylinF           0,38/3,14  
+OL,19,GKuluvan p{iv{n keskihintaF       1,71  
+OL,20,G3 edell. p{iv{n alin/ylinF  0,39/14,13 
+OL,21,G7  vrk:n keskihintaF             9,70  
+OL,22,G28 vrk:n keskihintaF             7,93  
+OL,23,EKeskihinnat s.188CHuomenna klo 00-12 >>
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,18903
+SC,0003
+PS,C100
+CT,15,T
+OL,0,       G189 YLE TEKSTI-TV 23.03.07:40:37
+OL,1,D]CNord Pool                      F 3/4 
+OL,2,D]GP|rssis{hk|          23.11. klo 08.35
+OL,3,BHinta nytF1,63 snt/kWhB(sis. ALV:n)    
+OL,4,CHuomennaGklo 00-12 (hinta 15min v{lein)
+OL,5,G00F  2,14G03F   -  G06F   -  G09F   -  
+OL,6,G  F  2,02G  F   -  G  F   -  G  F   -  
+OL,7,G  F  2,30G  F   -  G  F   -  G  F   -  
+OL,8,G  F  2,22G  F   -  G  F   -  G  F   -  
+OL,9,G01F   -  G04F   -  G07F   -  G10F   -  
+OL,10,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,11,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,12,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,13,G02F   -  G05F   -  G08F   -  G11F   -  
+OL,14,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,15,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,16,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,17,K                                       
+OL,18,GHuomisen alin/ylinF          -  /   -  
+OL,19,GHuomisen keskihintaF                -  
+OL,20,G3 edell. p{iv{n alin/ylinF  0,39/14,13 
+OL,21,G7  vrk:n keskihintaF             9,70  
+OL,22,G28 vrk:n keskihintaF             7,93  
+OL,23,EKeskihinnat s.188CHuomenna klo 12-24 >>
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,18904
+SC,0004
+PS,C100
+CT,15,T
+OL,0,       G189 YLE TEKSTI-TV 23.03.07:40:37
+OL,1,D]CNord Pool                      F 4/4 
+OL,2,D]GP|rssis{hk|          23.11. klo 08.35
+OL,3,BHinta nytF1,63 snt/kWhB(sis. ALV:n)    
+OL,4,CHuomennaGklo 12-24 (hinta 15min v{lein)
+OL,5,G12F   -  G15F   -  G18F   -  G21F   -  
+OL,6,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,7,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,8,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,9,G13F   -  G16F   -  G19F   -  G22F   -  
+OL,10,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,11,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,12,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,13,G14F   -  G17F   -  G20F   -  G23F   -  
+OL,14,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,15,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,16,G  F   -  G  F   -  G  F   -  G  F   -  
+OL,17,K                                       
+OL,18,GHuomisen alin/ylinF          -  /   -  
+OL,19,GHuomisen keskihintaF                -  
+OL,20,G3 edell. p{iv{n alin/ylinF  0,39/14,13 
+OL,21,G7  vrk:n keskihintaF             9,70  
+OL,22,G28 vrk:n keskihintaF             7,93  
 OL,23,ETuntikeskihinnat 188CT{n{{n klo 00-12 >
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

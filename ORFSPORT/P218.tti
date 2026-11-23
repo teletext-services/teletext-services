@@ -3,28 +3,26 @@ PN,21801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G218CORF SPORT+G22.11.26 18:44:32
+OL,0,       G218CORF SPORT+G23.11.26 04:45:15
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A         Spanien, 13.Runde \
 OL,3,Q#########G                        1/3  
-OL,4,CSonntag                                
-OL,5,FBarcelona     - Villarreal   F3:2 (0:2)
-OL,6, Martin 57., Lopez 61., Navarro 67./ET; 
-OL,7, Buchanan 5., Oluwaseyi 7.              
-OL,8, Gelb-Rot: Navarro 93./V                
-OL,9, Rot: Lopez 75./B                       
-OL,10,FSantander     - R.Sociedad   F3:2 (2:1)
-OL,11, Zabiri 6.,8., Canales 68./E;           
-OL,12, Oyarzabal 45.+1, Guedes 60.            
-OL,13,C18.30h                                 
-OL,14,FOsasuna       - Malaga       A0:0F(-:-)
-OL,15,C21.00h                                 
-OL,16,FGetafe        - Atl.Madrid   F-:- (-:-)
-OL,18,CMontag                                 
-OL,19,GLevante       - Elche        G21.00h   
-OL,20,CSamstag                                
-OL,21,FReal Madrid   - Celta        F2:1 (0:1)
-OL,22, Bellingham 66., Espi 85.; Duran 6.     
+OL,4,CMontag, 21.00h                         
+OL,5,FLevante       - Elche        F-:- (-:-)
+OL,7,CSonntag                                
+OL,8,FBarcelona     - Villarreal   F3:2 (0:2)
+OL,9, Martin 57., Lopez 61., Navarro 67./ET; 
+OL,10, Buchanan 5., Oluwaseyi 7.              
+OL,11, Gelb-Rot: Navarro 93./V                
+OL,12, Rot: Lopez 75./B                       
+OL,13,FGetafe        - Atl.Madrid   F0:3 (0:2)
+OL,14, Baena 10., Cardoso 30., Grimaldo 92./E 
+OL,15, Rot: Dakonam 90./G                     
+OL,16,FSantander     - R.Sociedad   F3:2 (2:1)
+OL,17, Zabiri 6.,8., Canales 68./E;           
+OL,18, Oyarzabal 45.+1, Guedes 60.            
+OL,19,FOsasuna       - Malaga       F1:0 (1:0)
+OL,20, Budimir 20.; Gelb-Rot: Catena 92./O    
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -32,21 +30,23 @@ PN,21802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G218CORF SPORT+G22.11.26 18:44:32
+OL,0,       G218CORF SPORT+G23.11.26 04:45:15
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A         Spanien, 13.Runde \
 OL,3,Q#########G                        2/3  
-OL,4,CSamstag (Forts.)                       
-OL,5,FSevilla       - Betis        F1:1 (0:0)
-OL,6, K.Salas 91.; Antony 50.                
-OL,7,FAlaves        - La Coruna    F3:1 (1:1)
-OL,8, Perez 2., Boye 62., Suarez 90.;        
-OL,9, Tenaglia 41./ET                        
-OL,10,FR.Vallecano   - Valencia     F0:1 (0:1)
-OL,11, Copete 41.                             
-OL,13,CFreitag                                
-OL,14,FBilbao        - Espanyol     F0:1 (0:0)
-OL,15, R.Fernandez 66.                        
+OL,4,CSamstag                                
+OL,5,FReal Madrid   - Celta        F2:1 (0:1)
+OL,6, Bellingham 66., Espi 85.; Duran 6.     
+OL,7,FSevilla       - Betis        F1:1 (0:0)
+OL,8, K.Salas 91.; Antony 50.                
+OL,9,FAlaves        - La Coruna    F3:1 (1:1)
+OL,10, Perez 2., Boye 62., Suarez 90.;        
+OL,11, Tenaglia 41./ET                        
+OL,12,FR.Vallecano   - Valencia     F0:1 (0:1)
+OL,13, Copete 41.                             
+OL,15,CFreitag                                
+OL,16,FBilbao        - Espanyol     F0:1 (0:0)
+OL,17, R.Fernandez 66.                        
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -54,13 +54,13 @@ PN,21803
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G218CORF SPORT+G22.11.26 18:44:32
+OL,0,       G218CORF SPORT+G23.11.26 04:45:15
 OL,1,A]G                             Fu~ball 
-OL,2,A]GSPORT  ]ELIVE!  A  Spanien, Tabelle \
+OL,2,A]GSPORT  ]A       A  Spanien, Tabelle \
 OL,3,Q#########G                        3/3  
 OL,4,G 1 FC Barcelona    13 12  0  1 51:15 36
 OL,5,G 2 Real Madrid     13 11  0  2 33:11 33
-OL,6,G 3 Atletico Madrid 12  9  1  2 23:10 28
+OL,6,G 3 Atletico Madrid 13 10  1  2 26:10 31
 OL,7,G 4 Betis Sevilla   13  8  3  2 21:16 27
 OL,8,F 5 Real Sociedad   13  7  1  5 23:23 22
 OL,9,F 6 Sevilla FC      13  5  4  4 18:20 19
@@ -70,13 +70,13 @@ OL,12,G 9 Depor.Alaves    13  4  4  5 18:18 16
 OL,13,G10 Villarreal CF   13  4  3  6 19:18 15
 OL,14,G11 Espanyol Barc.  13  4  3  6 14:14 15
 OL,15,G12 Depor.La Coruna 13  3  6  4 16:17 15
-OL,16,G13 Celta de Vigo   13  2  7  4 11:12 13
-OL,17,G14 CA Osasuna      13  3  4  6 12:23 13
+OL,16,G13 CA Osasuna      13  4  3  6 13:23 15
+OL,17,G14 Celta de Vigo   13  2  7  4 11:12 13
 OL,18,G15 Rayo Vallecano  12  3  3  6 15:22 12
-OL,19,G16 Getafe CF       12  3  3  6  8:18 12
-OL,20,G17 Valencia CF     13  3  3  7  9:20 12
+OL,19,G16 Valencia CF     13  3  3  7  9:20 12
+OL,20,G17 Getafe CF       13  3  3  7  8:21 12
 OL,21,F18 Levante UD      12  2  5  5 16:21 11
 OL,22,F19 Elche CF        12  2  4  6 14:20 10
-OL,23,F20 Malaga CF       13  0  6  7  9:23  6
+OL,23,F20 Malaga CF       13  0  5  8  9:24  5
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

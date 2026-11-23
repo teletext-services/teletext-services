@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  222Cnie 22 lis  22:36:18
+OL,0,      BPOLONIA  222Cpon 23 lis  08:35:36
 OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.I  
 OL,3,                 C21.11                 
 OL,4, Jagiellonia II-Mazovia Mi$sk MF2-4(1-3)
@@ -24,7 +24,18 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  222Cnie 22 lis  22:36:18
+OL,0,      BPOLONIA  222Cpon 23 lis  08:35:37
+OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.I  
+OL,3,                 C25.11                 
+OL,4, Jagiellonia II  - Widzew II ]_d~ B13:00
+OL,24,A<= 238      B240      C241      F242 =>
+FL,238,240,241,242,0,100
+PN,22203
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BPOLONIA  222Cpon 23 lis  08:35:37
 OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.I  
 OL,3,  1.KTS Wesz}o      18 13  2  3 36-18 41
 OL,4,  2.Wigry Suwa}ki   18 11  4  3 34-20 37
@@ -48,12 +59,12 @@ OL,22,C]     DEkstraliga Kobiet -> 239
 OL,23,C]    DOrlen I liga kobiet -> 240       
 OL,24,A<= 238      B240      C241      F242 =>
 FL,238,240,241,242,0,100
-PN,22203
-SC,0003
+PN,22204
+SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  222Cnie 22 lis  22:36:18
+OL,0,      BPOLONIA  222Cpon 23 lis  08:35:37
 OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.II 
 OL,3,                 C21.11                 
 OL,4, Wik`d Luzino  - Kotwica K_rnikF4-1(1-1)
@@ -67,23 +78,23 @@ OL,11, Polonia \roda W-Ba}tyk KoszaliF4-2(2-1)
 OL,12, KKS Kalisz  -Flota \winouj|cieF0-2(0-1)
 OL,24,A<= 238      B240      C241      F242 =>
 FL,238,240,241,242,0,100
-PN,22204
-SC,0004
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BPOLONIA  222Cnie 22 lis  22:36:18
-OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.II 
-OL,3,                 C25.11                 
-OL,4, Lech II Pozna$  - Ba}tyk KoszalinB13:00
-OL,24,A<= 238      B240      C241      F242 =>
-FL,238,240,241,242,0,100
 PN,22205
 SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  222Cnie 22 lis  22:36:18
+OL,0,      BPOLONIA  222Cpon 23 lis  08:35:37
+OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.II 
+OL,3,                 C25.11                 
+OL,4, Lech II Pozna$  - Ba}tyk KoszalinB13:00
+OL,24,A<= 238      B240      C241      F242 =>
+FL,238,240,241,242,0,100
+PN,22206
+SC,0006
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BPOLONIA  222Cpon 23 lis  08:35:37
 OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.II 
 OL,3,  1.Polonia \roda Wl18 13  4  1 50-24 43
 OL,4,  2.Wda \wiecie     18  9  6  3 27-22 33
@@ -107,12 +118,12 @@ OL,22,C]     DEkstraliga Kobiet -> 239
 OL,23,C]    DOrlen I liga kobiet -> 240       
 OL,24,A<= 238      B240      C241      F242 =>
 FL,238,240,241,242,0,100
-PN,22206
-SC,0006
+PN,22207
+SC,0007
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  222Cnie 22 lis  22:36:19
+OL,0,      BPOLONIA  222Cpon 23 lis  08:35:37
 OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.III
 OL,3,                 C20.11                 
 OL,4, Rak_w II Cz-wa-G_rnik PolkowicF0-2(0-0)
@@ -127,12 +138,32 @@ OL,14,                 C22.11
 OL,15, Warta Gorz_w Wlkp.-ROW 1964 Rybnik F0-0
 OL,24,A<= 238      B240      C241      F242 =>
 FL,238,240,241,242,0,100
-PN,22207
-SC,0007
+PN,22208
+SC,0008
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  222Cnie 22 lis  22:36:19
+OL,0,      BPOLONIA  222Cpon 23 lis  08:35:37
+OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.III
+OL,3,                 C27.11                 
+OL,4, Carina Gubin - Warta Gorz_w Wlkp.B13:00
+OL,5, Gocza}kowice Zdr_j-Zag.Sosnowiec B13:00
+OL,7,                 C28.11                 
+OL,8, Odra Bytom Odrza$s-Rak_w II Cz-waB12:00
+OL,9, \l`za Wroc}aw   - Stal Brzeg     B13:00
+OL,10, G_rnik Polkowice- MKS Kluczbork  B13:00
+OL,11, Stilon Gorz_w Wlk-Sparta KatowiceB13:00
+OL,12, ROW 1964 Rybnik-Karkonosze J.G_raB14:00
+OL,14,                 C29.11                 
+OL,15, Zag}`bie II L.  - Polonia Nysa   B12:00
+OL,24,A<= 238      B240      C241      F242 =>
+FL,238,240,241,242,0,100
+PN,22209
+SC,0009
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BPOLONIA  222Cpon 23 lis  08:35:37
 OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.III
 OL,3,  1.Zag}`bie Sosnowi18 14  1  3 31-12 43
 OL,4,  2.Sparta Katowice 18 13  3  2 34-10 42
@@ -156,12 +187,12 @@ OL,22,C]     DEkstraliga Kobiet -> 239
 OL,23,C]    DOrlen I liga kobiet -> 240       
 OL,24,A<= 238      B240      C241      F242 =>
 FL,238,240,241,242,0,100
-PN,22208
-SC,0008
+PN,22210
+SC,0010
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  222Cnie 22 lis  22:36:19
+OL,0,      BPOLONIA  222Cpon 23 lis  08:35:37
 OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.IV 
 OL,3,                 C20.11                 
 OL,4, Wis}oka D`bica-AKS 1947 Busko F1-2(1-1)
@@ -176,12 +207,12 @@ OL,13, Podlasie Bia}a -KSZO OstrowiecF0-1(0-1)
 OL,14, Wi|lanie Skawi-Moravia MorawicF4-0(1-0)
 OL,24,A<= 238      B240      C241      F242 =>
 FL,238,240,241,242,0,100
-PN,22209
-SC,0009
+PN,22211
+SC,0011
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  222Cnie 22 lis  22:36:19
+OL,0,      BPOLONIA  222Cpon 23 lis  08:35:37
 OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.IV 
 OL,3,                 C28.11                 
 OL,4, Hetman Zamo|^ - Podlasie Bia}a P.B12:00
@@ -195,12 +226,12 @@ OL,11, Czarni Po}aniec-Siarka TarnobrzegB18:00
 OL,12, Naprz_d J`drzej_-Wi|lanie SkawinaB18:00
 OL,24,A<= 238      B240      C241      F242 =>
 FL,238,240,241,242,0,100
-PN,22210
-SC,0010
+PN,22212
+SC,0012
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  222Cnie 22 lis  22:36:19
+OL,0,      BPOLONIA  222Cpon 23 lis  08:35:38
 OL,1,C]DPI]KA NO[NA  ]GPOLSKA III LIGA GR.IV 
 OL,3,  1.Che}mianka Che}m18 14  4  0 30-8  46
 OL,4,  2.KSZO Ostrowiec  18 10  5  3 30-15 35

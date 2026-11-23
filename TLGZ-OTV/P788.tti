@@ -4,23 +4,23 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     788Cnie 22 lis  22:30:11
+OL,0,      BTVP3     788Cpon 23 lis  08:30:02
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo dolno|l@skie   Q"##
-OL,4,E22.11.2026 22:00    GStany:            
+OL,4,E23.11.2026  8:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FBarycz                          
-OL,8,FOsetno          B162   F260    330    =
+OL,8,FOsetno          B163   F260    330    =
 OL,10, Rzeka:FBia}a L@decka                   
-OL,11,FL@dek-Zdr_j      B40    F80    120    =
+OL,11,FL@dek-Zdr_j      B39    F80    120    =
 OL,13, Rzeka:FB_br                            
-OL,14,FJelenia G_ra / B B91   F160    220    =
-OL,15, D@browa Boles}awB112   G300    350    -
+OL,14,FJelenia G_ra / B B89   F160    220    =
+OL,15, D@browa Boles}awB106   G300    350    -
 OL,17, Rzeka:FBystrzyca                       
-OL,18,FLubach_w        B140   F210    230    =
-OL,19, Jarno}t_w        B82   G230    270    -
-OL,20,FBystrzyca K}odzk B36    F80    120    =
+OL,18,FLubach_w        B139   F210    230    =
+OL,19, Jarno}t_w        B82   G230    270    =
+OL,20,FBystrzyca K}odzk B34    F80    120    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,787,789,100,100,0,100
 PN,78802
@@ -28,23 +28,23 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     788Cnie 22 lis  22:30:11
+OL,0,      BTVP3     788Cpon 23 lis  08:30:02
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo dolno|l@skie   Q"##
-OL,4,E22.11.2026 22:00    GStany:            
+OL,4,E23.11.2026  8:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FKaczawa                         
-OL,8,F\wierzawa       B124   F150    220    +
-OL,9, Pi@tnica        B121   G300    370    =
+OL,8,F\wierzawa       B121   F150    220    =
+OL,9, Pi@tnica        B120   G300    370    =
 OL,11, Rzeka:FKwisa                           
-OL,12,FMirsk / Kwisa   B327   F420    470    =
-OL,13, Nowogrodziec    B112   G330    380    -
+OL,12,FMirsk / Kwisa   B326   F420    470    =
+OL,13, Nowogrodziec    B131   G330    380    +
 OL,15, Rzeka:FNysa K}odzka                    
-OL,16,FMi`dzylesie     B100   F180    200    =
-OL,17, Bystrzyca K}odzk B56   G110    180    =
-OL,18,FK}odzko         B115   F160    240    =
-OL,19, Bardo            B55   G180    250    -
+OL,16,FMi`dzylesie      B98   F180    200    =
+OL,17, Bystrzyca K}odzk B52   G110    180    =
+OL,18,FK}odzko         B111   F160    240    =
+OL,19, Bardo            B53   G180    250    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,787,789,100,100,0,100
 PN,78803
@@ -52,21 +52,21 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     788Cnie 22 lis  22:30:11
+OL,0,      BTVP3     788Cpon 23 lis  08:30:02
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo dolno|l@skie   Q"##
-OL,4,E22.11.2026 22:00    GStany:            
+OL,4,E23.11.2026  8:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FNysa ]u{ycka                    
-OL,8,FZgorzelec / NysaB154   F340    400    =
+OL,8,FZgorzelec / NysaB153   F340    400    =
 OL,10, Rzeka:FNysa Szalona                    
-OL,11,FJawor            B25   F100    150    =
+OL,11,FJawor            B24   F100    150    =
 OL,13, Rzeka:FOdra                            
-OL,14,FO}awa / Odra    B197   F500    560    -
-OL,15, Trestno         B324   G380    450    =
-OL,16,FBrzeg Dolny     B320   F510    630    +
-OL,17, G}og_w          B182   G400    450    +
+OL,14,FO}awa / Odra    B207   F500    560    +
+OL,15, Trestno         B321   G380    450    =
+OL,16,FBrzeg Dolny     B319   F510    630    -
+OL,17, G}og_w          B196   G400    450    +
 OL,19, Rzeka:FO}awa                           
 OL,20,FO}awa / O}awa   B133   F200    250    =
 OL,23,                        ~r_d}o: IMGW-PIB
@@ -76,16 +76,16 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     788Cnie 22 lis  22:30:11
+OL,0,      BTVP3     788Cpon 23 lis  08:30:02
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo dolno|l@skie   Q"##
-OL,4,E22.11.2026 22:00    GStany:            
+OL,4,E23.11.2026  8:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FStrzegomka                      
-OL,8,F]azany           B97   F200    240    +
+OL,8,F]azany           B97   F200    240    =
 OL,10, Rzeka:F\l`za                           
-OL,11,F\l`za           B202   F270    300    =
+OL,11,F\l`za           B211   F270    300    +
 OL,13, Rzeka:FWidawa                          
 OL,14,FKrzy{anowice / W B96   F150    200    =
 OL,16, Rzeka:FWilczka                         

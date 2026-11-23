@@ -3,29 +3,28 @@ PN,21701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G217FORF2   GSo 22.11.26 18:25:03
+OL,0,       G217FORF2   GMo 23.11.26 04:25:18
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A         Italien, 12.Runde \
 OL,3,Q#########G                        1/3  
-OL,4,CSonntag                                
-OL,5,FJuventus      - Venezia      F4:0 (0:0)
-OL,6, Woltemade 53., Koopmeiners 59.,        
-OL,7, Cabal 65., Kolo Muani 71./E            
-OL,8,FBologna       - Udinese      F1:1 (1:0)
-OL,9, Zortea 43.; Zaniolo 67.;               
-OL,10, Alaba ab 87. (U)                       
-OL,11,FSassuolo      - Genoa        F0:2 (0:2)
-OL,12, Osmajic 26.,38.                        
-OL,13,C18.00h                                 
-OL,14,FMilan         - Frosinone    A2:0F(-:-)
-OL,15, Calvani 4./ET, G.Ramos 19.             
-OL,16,C20.45h                                 
-OL,17,FAtalanta      - Inter        F-:- (-:-)
-OL,18,CMontag                                 
-OL,19,GMonza         - Fiorentina   G20.45h   
-OL,20,CSamstag                                
-OL,21,FLazio         - Lecce        F3:0 (1:0)
-OL,22, Noslin 25.,68., Frattesi 90.           
+OL,4,CMontag, 20.45h                         
+OL,5,FMonza         - Fiorentina   F-:- (-:-)
+OL,7,CSonntag                                
+OL,8,FAtalanta      - Inter        F4:4 (1:2)
+OL,9, Elmas 35., De Ketelaere 72.,80.,       
+OL,10, Kessie 91./E; P.Esposito 16.,32.,52.,  
+OL,11, Sucic 76./E                            
+OL,12,FMilan         - Frosinone    F5:1 (2:1)
+OL,13, Calvani 4./ET, G.Ramos 19.,            
+OL,14, Jashari 48., Alphadjo Cisse 60.,       
+OL,15, Pulisic 68.; Masini 25.;               
+OL,16, Schmid bis 74. (F)                     
+OL,17,FJuventus      - Venezia      F4:0 (0:0)
+OL,18, Woltemade 53., Koopmeiners 59.,        
+OL,19, Cabal 65., Kolo Muani 71./E            
+OL,20,FBologna       - Udinese      F1:1 (1:0)
+OL,21, Zortea 43.; Zaniolo 67.;               
+OL,22, Alaba ab 87. (U)                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -33,18 +32,23 @@ PN,21702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G217FORF2   GSo 22.11.26 18:25:03
+OL,0,       G217FORF2   GMo 23.11.26 04:25:18
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A         Italien, 12.Runde \
 OL,3,Q#########G                        2/3  
-OL,4,CSamstag (Forts.)                       
-OL,5,FParma         - Roma         F1:5 (0:1)
-OL,6, Elphege 54.; Malen 39.,68.,77.,90.,    
-OL,7, Rodrigo Mora 71.                       
-OL,8,FComo          - Cagliari     F2:0 (1:0)
-OL,9, Ramon 24., da Cunha 56.                
-OL,10,FNapoli        - Torino       F1:0 (0:0)
-OL,11, McTominay 73.                          
+OL,4,CSonntag (Forts.)                       
+OL,5,FSassuolo      - Genoa        F0:2 (0:2)
+OL,6, Osmajic 26.,38.                        
+OL,8,CSamstag                                
+OL,9,FLazio         - Lecce        F3:0 (1:0)
+OL,10, Noslin 25.,68., Frattesi 90.           
+OL,11,FParma         - Roma         F1:5 (0:1)
+OL,12, Elphege 54.; Malen 39.,68.,77.,90.,    
+OL,13, Rodrigo Mora 71.                       
+OL,14,FComo          - Cagliari     F2:0 (1:0)
+OL,15, Ramon 24., da Cunha 56.                
+OL,16,FNapoli        - Torino       F1:0 (0:0)
+OL,17, McTominay 73.                          
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -52,22 +56,22 @@ PN,21703
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G217FORF2   GSo 22.11.26 18:25:03
+OL,0,       G217FORF2   GMo 23.11.26 04:25:18
 OL,1,A]G                             Fu~ball 
-OL,2,A]GSPORT  ]ELIVE!    AItalien, Tabelle \
+OL,2,A]GSPORT  ]A         AItalien, Tabelle \
 OL,3,Q#########G                        3/3  
 OL,4,G 1 Lazio Rom       12 10  2  0 28:9  32
 OL,5,G 2 AS Roma         12  9  3  0 36:11 30
-OL,6,G 3 Inter Mailand   11  9  1  1 28:13 28
-OL,7,G 4 AC Milan        12  8  3  1 25:13 27
+OL,6,G 3 Inter Mailand   12  9  2  1 32:17 29
+OL,7,G 4 AC Milan        12  8  3  1 28:14 27
 OL,8,F 5 Como 1907       12  8  2  2 20:10 26
 OL,9,F 6 Juventus Turin  12  6  3  3 19:12 21
-OL,10,G 7 Frosinone C.    12  6  2  4 24:17 20
+OL,10,G 7 Frosinone C.    12  6  2  4 25:20 20
 OL,11,G 8 SSC Napoli      12  5  3  4 19:14 18
 OL,12,G 9 Bologna FC      12  5  3  4 17:15 18
 OL,13,G10 Genoa CFC       12  5  1  6 13:16 16
 OL,14,G11 Cagliari Calcio 12  5  1  6 10:17 16
-OL,15,G12 Atalanta BC     11  4  2  5 17:20 14
+OL,15,G12 Atalanta BC     12  4  3  5 21:24 15
 OL,16,G13 Torino FC       12  4  2  6 15:18 14
 OL,17,G14 US Lecce        12  3  1  8 12:25 10
 OL,18,G15 AC Fiorentina   11  2  3  6 17:25  9

@@ -3,49 +3,53 @@ PN,83001
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G830FORF2   GSo 22.11.26 18:35:57
+OL,0,       G830FORF2   GMo 23.11.26 04:35:57
 OL,1,A]G                      Flughafen Graz 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug    von          Plan aktuell      
-OL,5,FPWF1909 Altenrhein   1910B             
-OL,6,GEW 7756 Hamburg      1945B1942         
-OL,7,FLH 2348 M}nchen      2220B             
-OL,8,GLH 1256 Frankfurt    2240B             
-OL,9,FEW 9724 D}sseldorf   0825B      23.11  
-OL,10,GEN 2340 M}nchen      0910B      23.11  
-OL,11,FLH 1250 Frankfurt    0940B      23.11  
-OL,12,GLX 1512 Z}rich       0955B      23.11  
-OL,13,FLH 1252 Frankfurt    1355B      23.11  
-OL,14,GEW 8346 Berlin       1425B      23.11  
-OL,15,FBA 2632 London LGW   1845B      23.11  
-OL,16,GLH 2348 M}nchen      2220B      23.11  
-OL,17,FLH 1256 Frankfurt    2240B      23.11  
-OL,23,Q,,,,F18:28hGFlughafen GrazF0316/2902-0 
+OL,5,FEW 9724 D}sseldorf   0825B             
+OL,6,GEN 2340 M}nchen      0910B             
+OL,7,FLH 1250 Frankfurt    0940B             
+OL,8,GLX 1512 Z}rich       0955B             
+OL,9,FLH 1252 Frankfurt    1355B             
+OL,10,GEW 8346 Berlin       1425B             
+OL,11,FBA 2632 London LGW   1845B             
+OL,12,GLH 2348 M}nchen      2220B             
+OL,13,FLH 1256 Frankfurt    2240B             
+OL,14,GEN 2340 M}nchen      0910B      24.11  
+OL,15,FLX 1512 Z}rich       0955B      24.11  
+OL,16,GEW 9724 D}sseldorf   1025B      24.11  
+OL,17,FLH 2342 M}nchen      1305B      24.11  
+OL,18,GLH 1252 Frankfurt    1355B      24.11  
+OL,23,Q,,,,F00:03hGFlughafen GrazF0316/2902-0 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83002
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G830FORF2   GSo 22.11.26 18:35:57
+OL,0,       G830FORF2   GMo 23.11.26 04:35:57
 OL,1,A]G                      Flughafen Graz 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug    nach         Plan aktuell      
-OL,5,FEW 7757 Hamburg      2030B             
-OL,6,GLH 1257 Frankfurt    0600B      23.11  
-OL,7,FLH 2349 M}nchen      0610B      23.11  
-OL,8,GEW 9725 D}sseldorf   0910B      23.11  
-OL,9,FEN 2341 M}nchen      0950B      23.11  
-OL,10,GPWF100  Ingolstadt   1000B    ]berstell
-OL,11,FLH 1251 Frankfurt    1020B      23.11  
-OL,12,GLX 1513 Z}rich       1045B      23.11  
-OL,13,FLH 1253 Frankfurt    1435B      23.11  
-OL,14,GEW 8347 Berlin       1510B      23.11  
-OL,15,FBA 2633 London LGW   1935B      23.11  
-OL,16,GLH 1257 Frankfurt    0600B      24.11  
-OL,17,FLH 2349 M}nchen      0610B      24.11  
-OL,23,Q,,,,F18:28hGFlughafen GrazF0316/2902-0 
+OL,5,FLH 1257 Frankfurt    0600B             
+OL,6,GLH 2349 M}nchen      0610B             
+OL,7,FEW 9725 D}sseldorf   0910B             
+OL,8,GEN 2341 M}nchen      0950B             
+OL,9,FPWF100  Ingolstadt   1000B    ]berstell
+OL,10,GLH 1251 Frankfurt    1020B             
+OL,11,FLX 1513 Z}rich       1045B             
+OL,12,GLH 1253 Frankfurt    1435B             
+OL,13,FEW 8347 Berlin       1510B             
+OL,14,GBA 2633 London LGW   1935B             
+OL,15,FLH 1257 Frankfurt    0600B      24.11  
+OL,16,GLH 2349 M}nchen      0610B      24.11  
+OL,17,FEN 2341 M}nchen      0950B      24.11  
+OL,18,GLX 1513 Z}rich       1040B      24.11  
+OL,19,FEW 9725 D}sseldorf   1110B      24.11  
+OL,20,GLH 2343 M}nchen      1350B      24.11  
+OL,23,Q,,,,F00:03hGFlughafen GrazF0316/2902-0 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

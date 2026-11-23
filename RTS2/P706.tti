@@ -1,11 +1,39 @@
 DE,RTS2 706
-PN,70600
-SC,0000
-PS,8088
-CT,15,T
-OL,0,       G706  RTS 2     22.11.26 09:10:59
-OL,1,A]GRTS 2     ]@dimanche 22 novembre     
-OL,4,G07:00 GLa Matinale                     
-OL,5,       GLa Matinale en vid#oCS-T        
+PN,70601
+SC,0001
+PS,C080
+CT,8,T
+OL,0,       G706  RTS 2     23.11.26 05:37:44
+OL,1,A]GRTS 2     ]@lundi 23 novembre        
+OL,2,                                    1/2 
+OL,4,F03:40 F19h30 - Sign#                   
+OL,5,E 0145 CS-TCLSC(R)                      
+OL,6,G04:10 GCouleurs locales                
+OL,7,E 0130 CS-TC(R)                         
+OL,8,F04:30 F19h30 - Sign#                   
+OL,9,E 0150 CS-TCLSC(R)                      
+OL,10,G05:00 GCouleurs locales                
+OL,11,E 0200 CS-TC(R)                         
+OL,12,F05:15 F19h30 - Sign#                   
+OL,13,E 0214 CS-TCLSC(R)                      
+OL,14,G05:50 GCouleurs locales                
+OL,15,E 0215 CS-TC(R)                         
+OL,16,F06:05 F19h30 - Sign#                   
+OL,17,E 0225 CS-TCLSC(R)                      
+OL,18,G06:35 GCouleurs locales                
+OL,19,E 0224 CS-TC(R)                         
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,70602
+SC,0002
+PS,C080
+CT,8,T
+OL,0,       G706  RTS 2     23.11.26 05:37:44
+OL,1,A]GRTS 2     ]@lundi 23 novembre        
+OL,2,                                    2/2 
+OL,4,F06:55 FRTS Info                        
+OL,5,E 0555 FL'actualit# en continuCS-T      
+OL,6,G07:00 GLa Matinale                     
+OL,7,       GLa Matinale en vid#oCS-T        
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

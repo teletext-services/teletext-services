@@ -3,7 +3,7 @@ PN,23501
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G235  RTS 2     22.11.26 19:32:13
+OL,0,       G235  RTS 2     23.11.26 05:31:57
 OL,1,C]@FOOTBALL         G]@22.11.26 17:39G.=
 OL,2,G                                       
 OL,3,                                    1/3 
@@ -29,8 +29,8 @@ PN,23502
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G235  RTS 2     22.11.26 19:32:13
-OL,1,C]@FOOTBALL         G]@22.11.26 19:10G.=
+OL,0,       G235  RTS 2     23.11.26 05:31:57
+OL,1,C]@FOOTBALL         G]@22.11.26 19:37G.=
 OL,2,G                                       
 OL,3,                                    2/3 
 OL,4,CLorient     - Rennes        C 1-1 (1-1)
@@ -45,7 +45,7 @@ OL,17,G(82'Merlin);CSzymanskiA
 OL,18,A(71'Thomasson/92'),GRongierG(29'Ciss#),
 OL,19,GCamara;GTamariG(71'Soumar#),GDiaG      
 OL,20,G(71'Lepaul).                           
-OL,21,FStade du Moustoir                      
+OL,21,FStade du Moustoir: 16358               
 OL,22,GMarc BollengierG(FRA)                  
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -53,11 +53,24 @@ PN,23503
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G235  RTS 2     22.11.26 19:32:13
-OL,1,C]@FOOTBALL         G]@09.11.26 11:26G.=
+OL,0,       G235  RTS 2     23.11.26 05:31:57
+OL,1,C]@FOOTBALL         G]@22.11.26 22:45G.=
 OL,2,G                                       
 OL,3,                                    3/3 
-OL,4,CMarseille   - Le Mans    CDI 20h45     
+OL,4,CMarseille   - Le Mans       C 2-3 (2-0)
+OL,5,G33'Gouiri 1-0,G40'Paixao 2-0,G         
+OL,6,G70'Mafouta 2-1,G84'Colas 2-2,G         
+OL,7,G90+5'Vercruysse 2-3.                   
+OL,9,FMarseille:GDe Lange;GWeah,GEgan-Riley,G
+OL,10,GAguerd,GGarciaG(88'Koum);CKondogbiaG   
+OL,11,G(74'Kamissoko),CNnadiG(74'Gomes);GHarit
+OL,12,G(88'Abdallah),CAbdelli,GPaixao;GGouiri.
+OL,15,FLe Mans:GKocik;CBamba,GYohou,CVoyerG   
+OL,16,G(82'Torrente);GBretelle;GBuadesG       
+OL,17,G(82'Boiss#),CRabillardG(63'Vercruysse),
+OL,18,CTraor#,GCalodat;GMafoutaG(82'Harhouz),G
+OL,19,GGueyeG(63'Colas).                      
 OL,21,FOrange V#lodrome                       
+OL,22,GEric WattellierG(FRA)                  
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

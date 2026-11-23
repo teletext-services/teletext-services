@@ -1,9 +1,9 @@
 DE,SWR-RP 649
-PN,64900
-SC,0000
-PS,8208
+PN,64901
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:23:03
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:23:35
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -14,5 +14,67 @@ OL,14,FKusel
 OL,16, Es tritt leichter Frost zwischen -1 `C 
 OL,17, und -4 `C auf.                         
 OL,23,D]GQuelle:DWD  Stand:12:39  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64902
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:23:35
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,11,FWARNUNG vor GL[TTE                     
+OL,12, G}ltig: Mo 01:42 bis Mo 10:00          
+OL,14,FBirkenfeld, Kusel                      
+OL,16, Es besteht vereinzelt Gl{ttegefahr.    
+OL,23,D]GQuelle:DWD  Stand:07:00  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64903
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:23:35
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor NEBEL                      
+OL,11, G}ltig: Mo 01:42 bis Mo 09:00          
+OL,13,FBirkenfeld, Kusel                      
+OL,15, Es tritt verbreitet Nebel mit          
+OL,16, Sichtweiten unter 150 Metern auf.      
+OL,23,D]GQuelle:DWD  Stand:01:42  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64904
+SC,0004
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:23:35
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,11,FWARNUNG vor GL[TTE                     
+OL,12, G}ltig: So 21:35 bis Mo 10:00          
+OL,14,FRhein-Hunsr}ck-Kreis                   
+OL,16, Es besteht vereinzelt Gl{ttegefahr.    
+OL,23,D]GQuelle:DWD  Stand:22:10  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64905
+SC,0005
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:23:35
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor NEBEL                      
+OL,11, G}ltig: So 22:06 bis Mo 09:00          
+OL,13,FRhein-Hunsr}ck-Kreis                   
+OL,15, Es tritt verbreitet Nebel mit          
+OL,16, Sichtweiten unter 150 Metern auf.      
+OL,23,D]GQuelle:DWD  Stand:22:06  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

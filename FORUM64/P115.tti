@@ -2,69 +2,67 @@ DE,FORUM64 115
 PN,11501
 SC,0001
 PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSo 22 Nov F16:22:36
+CT,15,T
+OL,0,         GFORUM64   GMo 23 Nov F02:22:36
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EHeartbeat Soundtracker (C64U)          
-OL,4,CAntwort:  BTorstenK                    
-OL,5,CComments: B35                          
-OL,6,F                                       
-OL,7,FOK. Also schau doch erstmal bitte ob Du
-OL,8,Fdie Version 1.01 installiert hast.     
-OL,9,FDownloadlink f}r aktuellste Version des
-OL,10,FHeartbeat Soundtrackers:               
-OL,11,Fhttps://sites.google.com/view/heartbeat
-OL,12,Fsoundtracker                           
-OL,14,FMit der Commodore+L Taste rufst Du dann
-OL,15,Fdas Lademen} auf und                   
-OL,17,CErster Beitrag:                        
-OL,19,GK|nnte manche interessieren:           
-OL,21,GHeartbeat Soundtracker                 
-OL,23,GThe Ultimate Music Workstation for     
+OL,2,EDolphinDOS26UL: neues Kernal f}r C64   
+OL,3,Eund C64U (aus C64U-Thread)...          
+OL,5,CAntwort:  BJammet                      
+OL,6,CComments: B64                          
+OL,7,F                                       
+OL,8,FEs war ein ziemlicher Bug im Editor der
+OL,9,Funbedingt gefixed werden musste. Sp{ter
+OL,10,Fwerde ich noch eine Version            
+OL,11,Fnachliefern, vermutlich auch mit ein   
+OL,12,Fpaar neuen Bootscreens von @Rob64 :3.  
+OL,13,FSo wie sie sind passen sie noch nicht  
+OL,14,F"rein"...                              
+OL,16,CErster Beitrag:                        
+OL,18,GHallo,                                 
+OL,20,Gich habe ein spezielles Laufwerks und  
+OL,21,GC64 Kernel ROM f}r den C64U erstellt.  
+OL,22,GEs basiert auf DolphinDOS 3 und nennt  
+OL,23,Gsich DolphinDOS26UL. Mit diesem 1541   
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11502
 SC,0002
 PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSo 22 Nov F16:22:36
+CT,15,T
+OL,0,         GFORUM64   GMo 23 Nov F02:22:36
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GCommodore 64 Ultimate 31 Channels - 8  
-OL,4,GSIDs + 7 CD-Quality Sampler Channels   
-OL,5,GFirst look:                            
-OL,6,Ghttps://www.youtube.com/watch?v=1Im3quH
-OL,7,GJc8w                                   
-OL,9,GComing soon! See                       
-OL,10,Ghttps://bit.ly/heartbeatsoundtracker   
-OL,11,Gand https://fb.me/eightbitshed for the 
-OL,12,Glatest information                     
-OL,14,GKey Features: - 8 SIDs - 24 SID        
-OL,15,Gchannels - 7 Ultimate Audio sampler    
-OL,16,Gchannels with stereo panning - Load    
-OL,17,G16-bit 44.100 Hz mono WAVs from        
-OL,18,GmicroSD/USB - 15.6 MB of REU sample    
-OL,19,Gmemory - 64 samples & 64 SID           
-OL,20,Ginstruments per song - 64 SID          
-OL,21,Ginstrument presets always in memory -  
-OL,22,G64 patterns of 64 steps each - Linear  
-OL,23,Gfrequency table with 64 finetune       
+OL,3,Gund C64 Kernal kann der C64U }ber den  
+OL,4,Ginternen Parallelport f}r das Drive A  
+OL,5,Gmit DolphinDOS + Zusatz RAM arbeiten.  
+OL,6,GParallel kann der Kernel mit anderen   
+OL,7,GIEC-Ger{ten wie 1541, 1571, PI1541,    
+OL,8,GSD2IEC }ber das JiffyDOS-Protokoll     
+OL,9,Gsprechen ohne den Kernal zu wechseln.  
+OL,10,GSomit hat man immer eine schnelle      
+OL,11,G]bertragung. Der Kernel w{hlt          
+OL,12,Gautomatisch das beste Protokoll        
+OL,13,G(DolphinDOS, JiffyDOS oder original    
+OL,14,GCBM-Seriell).                          
+OL,16,GDas gleiche habe ich auch mit dem      
+OL,17,GSpeedDOS gemacht. Es hei~t jetzt bei   
+OL,18,Gmir SpeedDOS26 und braucht im Gegensatz
+OL,19,Gzu DolphinDOS nicht das Zusatz-RAM in  
+OL,20,Gder Floppy.                            
+OL,22,GDas ganze l{uft nat}rlich auch auf     
+OL,23,Grealer Hardware.                       
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,11503
 SC,0003
 PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSo 22 Nov F16:22:36
+CT,15,T
+OL,0,         GFORUM64   GMo 23 Nov F02:22:36
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gsteps/semitone (~1.6 cents) - Tempo    
-OL,4,Gsetting from 64 to 319 BPM in 1 BPM    
-OL,5,Gsteps - 256-step sequencer with        
-OL,6,Gtransposing and track mutes - Live     
-OL,7,GPlay: Loop a pattern and control the   
-OL,8,Gmute switches - Live Play: Queue the   
-OL,9,Gnext pattern or a looping region - Name
-OL,10,Gyour SIDs and Ultimate Audio channels -
-OL,11,GNotepad for composing notes or song    
-OL,12,Grelease info -                         
+OL,3,GLink:                                  
+OL,4,Ghttps://github.com/FraEgg/DolphinDOS   
+OL,6,GWeitere Informationen zum gesamten     
+OL,7,GMulti-Speeder-Projekt unter:           
+OL,9,Ghttps://github.com/FraEgg/Switchless-Mu
+OL,10,Glti-Speeder-Project                    
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

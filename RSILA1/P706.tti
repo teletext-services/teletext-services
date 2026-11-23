@@ -3,27 +3,26 @@ PN,70600
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G706  RSI LA 1  22.11.26 18:59:02
+OL,0,       G706  RSI LA 1  23.11.26 04:59:53
 OL,1,A]GRSI   ]@LA1       LUNEDI 23 novembre 
 OL,2,G                                       
-OL,3, G05:00  GTG Notte                      
-OL,4, F05:05  FMeteoCST                      
-OL,5, G05:20  GLa domenica sportivaCST       
-OL,6, F07:10  FMezz'ora per voiCST           
-OL,7, G07:40  GMezz'ora per voiCST           
-OL,8, F08:05  FEverywhere I go -         CST 
-OL,9,         FCoincidenze d'amore           
-OL,10,         FEpisodio 40                   
-OL,11, G08:50  GLa signora in gialloCSTCI/II  
-OL,12,         GMorte a Milano                
-OL,13, F09:40  FUn anno di vita sulla     CST 
-OL,14,         FTerra                         
-OL,15,         FNovembre - Dicembre           
-OL,16, G10:30  GShakespeare &        CSTCI/II 
-OL,17,         GHathaway                      
-OL,18,         Ginvestigatori privati         
-OL,19,         GIl fantasma del pub           
-OL,20, F11:20  FWalker, Texas RangerCSTCI/II  
-OL,21,         FIl campeggio                  
+OL,3, G04:55  GIl QuotidianoCR               
+OL,4, F05:00  FTG Notte                      
+OL,5, G05:05  GMeteoCST                      
+OL,6, F05:10  FLa domenica sportivaCST       
+OL,7, G07:10  GMezz'ora per voiCST           
+OL,8, F07:40  FMezz'ora per voiCST           
+OL,9, G08:05  GEverywhere I go -         CST 
+OL,10,         GCoincidenze d'amore           
+OL,11,         GEpisodio 40                   
+OL,12, F08:50  FLa signora in gialloCSTCI/II  
+OL,13,         FMorte a Milano                
+OL,14, G09:40  GUn anno di vita sulla     CST 
+OL,15,         GTerra                         
+OL,16,         GNovembre - Dicembre           
+OL,17, F10:30  FShakespeare &        CSTCI/II 
+OL,18,         FHathaway                      
+OL,19,         Finvestigatori privati         
+OL,20,         FIl fantasma del pub           
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

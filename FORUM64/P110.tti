@@ -2,68 +2,63 @@ DE,FORUM64 110
 PN,11001
 SC,0001
 PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSo 22 Nov F16:22:02
+CT,15,T
+OL,0,         GFORUM64   GMo 23 Nov F02:22:26
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,ESourceCode TopDesk128 (Disassembly)    
-OL,4,CAntwort:  Bdarkvision                  
-OL,5,CComments: B48                          
-OL,6,F                                       
-OL,7,F( )                                    
-OL,9,FEnterDeskTop pr}ft das 40/80Z-Flag     
-OL,10,Fnicht... GetFile/LdApplic macht das und
-OL,11,Fkehrt mit Fehler $0E zur}ck zu         
-OL,12,FEnterDeskTop, wenn die Datei nicht zum 
-OL,13,Faktuellen Modus passt.                 
-OL,15,FDaher m}ssen ja 128DESKTOPs den Modus  
-OL,16,Fvorher selbst wechseln damit eine      
-OL,18,CErster Beitrag:                        
-OL,20,GWork in progress... disassemblierter   
-OL,21,GSourceCode zu TopDesk128.              
-OL,23,GWarum?                                 
+OL,2,E"Schreiberl 64" - ein kleiner          
+OL,3,ENotiz-Editor auf Bairisch f}r den C64  
+OL,4,E(Beta)                                 
+OL,6,CAntwort:  BKungPhoo                    
+OL,7,CComments: B7                           
+OL,8,F                                       
+OL,9,FNette Idee. Leider werden viele        
+OL,10,Fhochdeutsche W|rter heute in bayerische
+OL,11,FTexte eingebaut. Dabei kann man das    
+OL,12,Falles auch nativ ausdr}cken. Wir sgaen 
+OL,13,Fes halt nur ganz anders. Datei |ffnen  
+OL,14,Fz.B. w}rde man vielleicht mit "Zellt   
+OL,15,Fhoin" oder "lod a moi was ma           
+OL,17,CErster Beitrag:                        
+OL,19,GAuf vielfachen Wunsch Grund einer      
+OL,20,GNachfrage will ich hier eine           
+OL,21,GBetaversion vom "Schreiberl 64"        
+OL,22,Gvorstellen.                            
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11002
 SC,0002
 PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSo 22 Nov F16:22:02
+CT,15,T
+OL,0,         GFORUM64   GMo 23 Nov F02:22:26
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GMegaPatch wird aktuell ohne DeskTop    
-OL,4,Ginstalliert.                           
-OL,6,GF}r MegaPatch64 k|nnte DTopDesk64      
-OL,7,Gverwendet werden, f}r MegaPatch128     
-OL,8,Gexistiert aktuell aber keine Option, da
-OL,9,Gdie aktuell verwendete Patch-Version   
-OL,10,Gvon TopDesk128 zu viele Fehler enth{lt.
-OL,12,GDas PDF ist ein erster Zwischenstand,  
-OL,13,Gdas Ergebnis ist noch offen (Fix f}r   
-OL,14,GTD128 oder DT128). Basis ist           
-OL,15,GTopDesk128de von hier . Sollte eine    
-OL,16,Gsp{tere Version besser geeignet sein,  
-OL,17,Gkann ich das problemlos korrigieren.   
-OL,19,GAktuell erstellt der SourceCode f}r    
-OL,20,GMegaAssembler5 eine 1:1-Kopie von      
-OL,21,GTopDesk128 281221.                     
+OL,3,GDas Programm ist damals im Vorfeld von 
+OL,4,GUTEXT als "Finger}bung" und aus einer  
+OL,5,GLaune heraus entstanden, um ein paar   
+OL,6,GSachen auszuprobieren, die dann in     
+OL,7,GUTEXT verwendet und dort ausgebaut     
+OL,8,Gworden sind.                           
+OL,10,G"Schreiberl 64" ist in der Beta-Version
+OL,11,G0.2.1 stehengeblieben und hat dann     
+OL,12,GStaub angesetzt.                       
+OL,14,GDas Programm hat zwar noch viele offene
+OL,15,GStellen, funktioniert aber als kleiner 
+OL,16,GUTF-8-Editor und ist durchaus nutzbar. 
+OL,18,GDeshalb will ich es einfach hier mal   
+OL,19,Geinstellen, vielleicht sucht ja noch   
+OL,20,Gjemand ein "nicht ganz humorloses"     
+OL,21,GProgramm zum Texte tippen.             
+OL,23,GMit F2 kann man "beispiel" vom         
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,11003
 SC,0003
 PS,C200
-CT,10,T
-OL,0,         GFORUM64   GSo 22 Nov F16:22:02
+CT,15,T
+OL,0,         GFORUM64   GMo 23 Nov F02:22:26
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GOhne einen C128 kann ich nicht alle    
-OL,4,GFehler oder Funktionen testen. Sollte  
-OL,5,Gich das Projekt fortsetzen, dann nur   
-OL,6,Gmit der Mithilfe der Community.        
-OL,8,GEinige Fehler kann ich aktuell unter   
-OL,9,GVICE simulieren , aber ohne C128+SD2IEC
-OL,10,Gbleiben die Fehler eine Vermutung. (z. 
-OL,11,GB. Crash nach Wechsel von DiskImage und
-OL,12,GDateiCopy bei mehr als zwei Dateien    
-OL,13,G...)                                   
-OL,15,GAndere Fehler (aus TopDesk64) hatte ich
-OL,16,Gja hier schon                          
+OL,3,GDiskettenimage laden. Mit STOP (ESC am 
+OL,4,GPC-Emulator) kommt man ins Men}, in den
+OL,5,Geinige Punkte auch funktionieren.      
+OL,7,GBitte melde Dich an,                   
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

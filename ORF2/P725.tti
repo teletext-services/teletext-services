@@ -3,7 +3,7 @@ PN,72501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G725FORF2   GSo 22.11.26 18:34:05
+OL,0,       G725FORF2   GMo 23.11.26 04:34:11
 OL,1,A]G                           LOTTERIEN 
 OL,2,A]GSPIEL + STERNE  ]A             TOTO \
 OL,3,Q##################G               1/5  
@@ -23,7 +23,7 @@ PN,72502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G725FORF2   GSo 22.11.26 18:34:05
+OL,0,       G725FORF2   GMo 23.11.26 04:34:12
 OL,1,A]G                           LOTTERIEN 
 OL,2,A]GSPIEL + STERNE  ]A             TOTO \
 OL,3,Q##################G               2/5  
@@ -50,7 +50,7 @@ PN,72503
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G725FORF2   GSo 22.11.26 18:34:05
+OL,0,       G725FORF2   GMo 23.11.26 04:34:12
 OL,1,A]G                           LOTTERIEN 
 OL,2,A]GSPIEL + STERNE  ]A             TOTO \
 OL,3,Q##################G               3/5  
@@ -58,7 +58,7 @@ OL,4,CTOTO-Runde 47  vom 21.11. - 22.11.
 OL,12,CErgebnisseFFixspiele / Torwette        
 OL,14,F 1 SCR Altach   - Sturm Graz  G 1:0 F 1
 OL,15,F 2 Wolfsberg    - SV Ried     G 1:2 F 2
-OL,16,F 3 WSG Tirol    - A. Lustenau G     F 2
+OL,16,F 3 WSG Tirol    - A. Lustenau G 0:1 F 2
 OL,17,F 4 Elversberg   - SC Freiburg G 0:1 F 2
 OL,18,F 5 E. Frankfurt - Hoffenheim  G 1:0 F 1
 OL,21,GWahlspiele >725.4                      
@@ -69,7 +69,7 @@ PN,72504
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G725FORF2   GSo 22.11.26 18:34:05
+OL,0,       G725FORF2   GMo 23.11.26 04:34:12
 OL,1,A]G                           LOTTERIEN 
 OL,2,A]GSPIEL + STERNE  ]A             TOTO \
 OL,3,Q##################G               4/5  
@@ -87,7 +87,7 @@ OL,16,G14 Santander    - R. Sociedad       G 1
 OL,17,G15 US Sassuolo  - FC Genua          G 2
 OL,18,G16 Strasbourg   - Stade Brest       G 2
 OL,19,G17 Lille OSC    - Ol. Lyon          G 2
-OL,20,G18 FC Lorient   - Stade Rennes      CSo
+OL,20,G18 FC Lorient   - Stade Rennes      G X
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,Gohne Gew{hr 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -95,24 +95,24 @@ PN,72505
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       G725FORF2   GSo 22.11.26 18:34:05
+OL,0,       G725FORF2   GMo 23.11.26 04:34:12
 OL,1,A]G                           LOTTERIEN 
 OL,2,A]GSPIEL + STERNE  ]A             TOTO \
 OL,3,Q##################G               5/5  
-OL,4,CTOTO-Runde 46  vom 13.11. - 17.11.     
+OL,4,CTOTO-Runde 47  vom 21.11. - 22.11.     
 OL,6,CRichtige Tipps, Gewinne und Quoten     
-OL,8,F X 2 1 1 2G1 1 2 X 2 1 1 2 2 X 1 1 2   
-OL,10,G      3 x 13 Richtige         79.239,70
-OL,11,G     37 x 12 Richtige            527,60
-OL,12,G    339 x 11 Richtige             12,70
-OL,13,G  2.046 x 10 Richtige              4,20
-OL,14,G    520 x 5er Bonus                6,90
+OL,8,F 1 2 2 2 1G1 1 X X 1 1 2 X 1 2 2 2 X   
+OL,10,GJACKPOT   13 Richtige          4.397,20
+OL,11,GJACKPOT   12 Richtige          2.374,50
+OL,12,G      2 x 11 Richtige            263,80
+OL,13,G     15 x 10 Richtige             70,30
+OL,14,G     70 x 5er Bonus                6,20
 OL,15,G          Fixspiele richtig            
-OL,17,CTorwette:F 1:1  2:+  +:1  +:0  2:+     
-OL,19,GJACKPOT   5 Richtige          53.350,50
-OL,20,GJACKPOT   4 Richtige           6.098,10
-OL,21,G      7 x 3 Richtige             156,20
-OL,22,GJACKPOT   Hattrick           197.443,60
+OL,17,CTorwette:F 1:0  1:2  0:1  0:1  1:0     
+OL,19,GJACKPOT   5 Richtige          55.072,00
+OL,20,G      3 x 4 Richtige           2.262,20
+OL,21,G     17 x 3 Richtige              50,60
+OL,22,GJACKPOT   Hattrick           197.615,80
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,Gohne Gew{hr 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

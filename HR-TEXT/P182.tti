@@ -2,18 +2,18 @@ DE,HR-TEXT 182
 PN,18201
 SC,0001
 PS,C200
-CT,10,T
-OL,0,           Fhr-textGSo 22.11.26F16:30:55
+CT,15,T
+OL,0,           Fhr-textGMo 23.11.26F02:30:30
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DBIOWETTERD] G  Vorhersage f}r Hessen 
 OL,3,W#######################################
-OL,4,F                       MONTAG VORMITTAG
+OL,4,F                     DIENSTAG VORMITTAG
 OL,5,CWettereinfluss auf:                    
-OL,6,BAllgemeines Befinden................. #
-OL,7, - Psych.-geistige Leistungsf{higkeit.B#
+OL,6,BAllgemeines Befinden.................F#
+OL,7, - Psych.-geistige Leistungsf{higkeit.F#
 OL,8, - Schmerzempfindlichkeit.............F#
-OL,9, - Schlafqualit{t.....................B#
-OL,10, - Konzentrations-/Leistungsf{higkeit.B#
+OL,9, - Schlafqualit{t.....................F#
+OL,10, - Konzentrations-/Leistungsf{higkeit.F#
 OL,11, - Reizbarkeit, motorische Unruhe.....F#
 OL,12, - Bereitschaft zu Depressionen.......F#
 OL,14,EEmpfehlung:                            
@@ -28,23 +28,24 @@ FL,102,112,170,200,0,100
 PN,18202
 SC,0002
 PS,C200
-CT,10,T
-OL,0,           Fhr-textGSo 22.11.26F16:30:55
+CT,15,T
+OL,0,           Fhr-textGMo 23.11.26F02:30:30
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DBIOWETTERD] G  Vorhersage f}r Hessen 
 OL,3,W#######################################
-OL,4,F                       MONTAG VORMITTAG
+OL,4,F                     DIENSTAG VORMITTAG
 OL,5,CWettereinfluss auf:                    
 OL,6,BHerz-Kreislaufgeschehen (hypoton)....F#
 OL,7, - Kreislauf (Mattigkeit, Schwindel)..F#
 OL,8, - Kopfschmerzanf{lligkeit............F#
-OL,9,BHerz-Kreislaufgeschehen (hyperton)...A#
-OL,10, - Herz-Kreislaufbeschwerden..........A#
-OL,11, - Angina pectoris....................A#
+OL,9,BHerz-Kreislaufgeschehen (hyperton)...C#
+OL,10, - Herz-Kreislaufbeschwerden..........C#
+OL,11, - Angina pectoris....................C#
 OL,13,EEmpfehlung:                            
-OL,14, im Freien auf angepasste Bekleidung    
-OL,15, achten, bei Bluthochdruck: Vermeidung  
-OL,16, ungewohnter Aktivit{ten im Freien      
+OL,14, bei Bluthochdruck und Angina-pectoris: 
+OL,15, Vermeidung Ungewohnter Aktivit{ten im  
+OL,16, Freien; im Freien auf angepasste Be-   
+OL,17, kleidung achten                        
 OL,20,CQuelle: DWD ---------------------------
 OL,21,B#Gpositiver EinflussF#Gkein Einfluss   
 OL,22,C#Ggeringe Gef{hrdungA#Ghohe Gef{hrdung 
@@ -54,12 +55,12 @@ FL,102,112,170,200,0,100
 PN,18203
 SC,0003
 PS,C200
-CT,10,T
-OL,0,           Fhr-textGSo 22.11.26F16:30:55
+CT,15,T
+OL,0,           Fhr-textGMo 23.11.26F02:30:30
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DBIOWETTERD] G  Vorhersage f}r Hessen 
 OL,3,W#######################################
-OL,4,F                       MONTAG VORMITTAG
+OL,4,F                     DIENSTAG VORMITTAG
 OL,5,CWettereinfluss auf:                    
 OL,6,BEntz}ndliche rheumatische BeschwerdenF#
 OL,7,BDegenerative rheumatische BeschwerdenC#
@@ -80,20 +81,20 @@ FL,102,112,170,200,0,100
 PN,18204
 SC,0004
 PS,C200
-CT,10,T
-OL,0,           Fhr-textGSo 22.11.26F16:30:55
+CT,15,T
+OL,0,           Fhr-textGMo 23.11.26F02:30:30
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DBIOWETTERD] G  Vorhersage f}r Hessen 
 OL,3,W#######################################
-OL,4,F                      MONTAG NACHMITTAG
+OL,4,F                    DIENSTAG NACHMITTAG
 OL,5,CWettereinfluss auf:                    
-OL,6,BAllgemeines Befinden.................F#
-OL,7, - Psych.-geistige Leistungsf{higkeit.F#
-OL,8, - Schmerzempfindlichkeit.............F#
+OL,6,BAllgemeines Befinden.................C#
+OL,7, - Psych.-geistige Leistungsf{higkeit.C#
+OL,8, - Schmerzempfindlichkeit.............C#
 OL,9, - Schlafqualit{t.....................F#
-OL,10, - Konzentrations-/Leistungsf{higkeit.F#
-OL,11, - Reizbarkeit, motorische Unruhe.....F#
-OL,12, - Bereitschaft zu Depressionen.......F#
+OL,10, - Konzentrations-/Leistungsf{higkeit.C#
+OL,11, - Reizbarkeit, motorische Unruhe.....C#
+OL,12, - Bereitschaft zu Depressionen.......C#
 OL,14,EEmpfehlung:                            
 OL,15, im Freien auf angepasste Bekleidung    
 OL,16, achten                                 
@@ -106,24 +107,23 @@ FL,102,112,170,200,0,100
 PN,18205
 SC,0005
 PS,C200
-CT,10,T
-OL,0,           Fhr-textGSo 22.11.26F16:30:55
+CT,15,T
+OL,0,           Fhr-textGMo 23.11.26F02:30:30
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DBIOWETTERD] G  Vorhersage f}r Hessen 
 OL,3,W#######################################
-OL,4,F                      MONTAG NACHMITTAG
+OL,4,F                    DIENSTAG NACHMITTAG
 OL,5,CWettereinfluss auf:                    
-OL,6,BHerz-Kreislaufgeschehen (hypoton)....F#
-OL,7, - Kreislauf (Mattigkeit, Schwindel)..F#
-OL,8, - Kopfschmerzanf{lligkeit............F#
+OL,6,BHerz-Kreislaufgeschehen (hypoton)....C#
+OL,7, - Kreislauf (Mattigkeit, Schwindel)..C#
+OL,8, - Kopfschmerzanf{lligkeit............C#
 OL,9,BHerz-Kreislaufgeschehen (hyperton)...C#
 OL,10, - Herz-Kreislaufbeschwerden..........C#
 OL,11, - Angina pectoris....................C#
 OL,13,EEmpfehlung:                            
-OL,14, bei Bluthochdruck und Angina-pectoris: 
-OL,15, Vermeidung Ungewohnter Aktivit{ten im  
-OL,16, Freien; im Freien auf angepasste Be-   
-OL,17, kleidung achten                        
+OL,14, im Freien auf angepasste Bekleidung    
+OL,15, achten, bei Bluthochdruck: Vermeidung  
+OL,16, ungewohnter Aktivit{ten im Freien      
 OL,20,CQuelle: DWD ---------------------------
 OL,21,B#Gpositiver EinflussF#Gkein Einfluss   
 OL,22,C#Ggeringe Gef{hrdungA#Ghohe Gef{hrdung 
@@ -133,14 +133,14 @@ FL,102,112,170,200,0,100
 PN,18206
 SC,0006
 PS,C200
-CT,10,T
-OL,0,           Fhr-textGSo 22.11.26F16:30:55
+CT,15,T
+OL,0,           Fhr-textGMo 23.11.26F02:30:30
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DBIOWETTERD] G  Vorhersage f}r Hessen 
 OL,3,W#######################################
-OL,4,F                      MONTAG NACHMITTAG
+OL,4,F                    DIENSTAG NACHMITTAG
 OL,5,CWettereinfluss auf:                    
-OL,6,BEntz}ndliche rheumatische BeschwerdenF#
+OL,6,BEntz}ndliche rheumatische BeschwerdenC#
 OL,7,BDegenerative rheumatische BeschwerdenC#
 OL,8,EEmpfehlung:                            
 OL,9, im Freien auf angepasste Bekleidung    

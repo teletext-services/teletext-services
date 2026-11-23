@@ -3,16 +3,17 @@ PN,72801
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G728  RTS 2     22.11.26 19:38:34
+OL,0,       G728  RTS 2     23.11.26 05:39:43
 OL,1,D]GRTS 1     ]@dimanche 22 novembre     
 OL,2,                                    1/2 
 OL,4,G06:00 GJeunesse                        
 OL,6,F09:30 FLes Infiltr#s - Le Club         
 OL,7,       FLes Infiltr#s - Le ClubCS-T     
-OL,8,G10:00 GJeunesse                        
-OL,10,F10:25 FQuel temps fait-il ?            
+OL,8,G09:55 GJeunesse                        
+OL,9,E 1000                                  
+OL,10,F10:24 FQuel temps fait-il ?            
 OL,11,E 1010 CS-T                             
-OL,12,G10:26 GSignes......................C743
+OL,12,G10:25 GSignes......................C743
 OL,13,E 1020 GUn si`cle de DeaflympicsCS-     
 OL,14,       GTCLS                            
 OL,15,F11:00 FLes beaux parleurs              
@@ -27,13 +28,13 @@ PN,72802
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G728  RTS 2     22.11.26 19:38:34
+OL,0,       G728  RTS 2     23.11.26 05:39:43
 OL,1,D]GRTS 1     ]@dimanche 22 novembre     
 OL,2,                                    2/2 
-OL,4,G13:05 GM#t#o                           
-OL,5,       CS-T                             
-OL,6,F13:15 FGeopolitis                      
-OL,7,       FLa bataille du railCS-T         
+OL,4,G13:10 GM#t#o                           
+OL,5,E 1305 CS-T                             
+OL,6,F13:20 FGeopolitis                      
+OL,7,E 1315 FLa bataille du railCS-T         
 OL,8,G13:50 GSc`nes de m#nagesCS-T           
 OL,9,E 1349                                  
 OL,10,F14:15 FLes dames de Marlow             

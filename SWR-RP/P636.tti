@@ -3,7 +3,7 @@ PN,63601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:22:53
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:22:50
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -19,7 +19,7 @@ PN,63602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   So, 22.11.26G21:22:53
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:22:50
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
@@ -29,5 +29,22 @@ OL,13,FBaden-Baden, Rastatt
 OL,14,FKreis und Stadt Karlsruhe              
 OL,16, Es besteht Gl{ttegefahr.               
 OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,63603
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Mo, 23.11.26G07:22:50
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor NEBEL                      
+OL,11, G}ltig: Mo 06:11 bis Mo 09:00          
+OL,13,FBaden-Baden, Rastatt                   
+OL,14,FKreis und Stadt Karlsruhe              
+OL,16, Es tritt gebietsweise Nebel mit        
+OL,17, Sichtweiten unter 150 Metern auf.      
+OL,23,D]GQuelle:DWD  Stand:06:11  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
