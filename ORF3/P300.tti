@@ -1,19 +1,19 @@
 DE,ORF3 300
-PN,30000
-SC,0000
-PS,8208
+PN,30001
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G300FORF IIIGMo 23.11.26 04:39:21
+OL,0,       G300FORF IIIGMo 23.11.26 14:39:16
 OL,1,A]Wp0p0p0p0p0p000p0p0 G         ORF III 
 OL,2,A]W= = =155-4= =5= 55 G]A    ]bersicht \
 OL,3,A]W! #!!!!!#!#!!!#!!!  \                
 OL,4,D]G                   Kultur + Show 400 
-OL,5,G]E                                     
-OL,6,G]@Nestroy 2026 - Red Carpet ......A301 
-OL,7,G]@Nestroy 2026 - Die Gala ........A303 
-OL,8,G]@                                     
-OL,9,G]@Michael Niavarani - So bin ich       
-OL,10,G]@wirklich .......................A302 
+OL,5,G]@                                     
+OL,6,G]@Kultur Heute ...................A301 
+OL,7,G]                                      
+OL,8,G]@ORF III Themenmontag                 
+OL,9,G]@Autowerkstatt - der Check ......A302 
+OL,10,G]@Black Friday & Konsumwahn ......A303 
 OL,11,G]@                                     
 OL,12,A]                                      
 OL,13,A]GORF III heute .............. 311-315 
@@ -21,11 +21,27 @@ OL,14,A]GORF III morgen ............. 327-329
 OL,15,A]GJetzt in ORF III ............... 333 
 OL,16,A]GProgrammvorschau ........... 350-358 
 OL,17,A]                                      
-OL,18, ]                                      
-OL,19,G]@                                A    
+OL,18,G]@                                A    
+OL,19, ]                                      
 OL,20,G]@                                     
 OL,21, ]@Sendungen zum Nachsehen: >>on.ORF.at 
 OL,22,G]@                                     
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,G>>tv.ORF.at/orf3 
+OL,24,A]bersichtBFernsehenCKultur+Show FWetter
+FL,100,300,400,600,0,100
+PN,30002
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G300FORF IIIGMo 23.11.26 14:39:16
+OL,1,@        ]@                             
+OL,2,A....A302 Kabarett unter Sternen Die    
+OL,3,Abesten Momente....... .... . ..A303 ORF
+OL,4,AIII heute ......... . .... 311-315 ORF 
+OL,5,AIII morgen ........ .. ... 327-329     
+OL,6,AJetzt in ORF III ...... ... ... ... 333
+OL,7,AProgrammvorschau ..... .... .. 350-358 
+OL,8,ASendungen zum Nachsehen: >>on. ORF.at ,
+OL,9,A,,,,,,,,,,,,,,,,,,,, >>tv.ORF. at/orf3 
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100

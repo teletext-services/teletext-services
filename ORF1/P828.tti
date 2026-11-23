@@ -3,179 +3,179 @@ PN,82801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G828FORF1   GMo 23.11.26 04:20:35
+OL,0,       G828FORF1   GMo 23.11.26 14:20:21
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    1/6  
 OL,4,  CFLUG  PLAN AKTUELL         NACH      
-OL,5,FR 590   0555G     ..........GMalaga    
-OL,6,OS 199   0600G     ..........GFrankfurt 
-OL,7,FR 1586  0605G     ..........GMalta     
-OL,8,OS 181   0610G     ..........GMunich    
-OL,9,AF 1239  0615G     ..........GParis CDG 
-OL,10,FR 802   0615G     ..........GValencia  
-OL,11,FR 7007  0625G     ..........GDublin    
-OL,12,FR 5546  0640G     ..........GAgadir    
-OL,13,FR 729   0640G     ..........GLondon STN
-OL,14,FR 4767  0645G     ..........GBologna   
-OL,15,KL 1900  0650G     ..........GAmsterdam 
-OL,16,OS 101   0650G     ..........GInnsbruck 
-OL,17,OS 331   0650G     ..........GLondon LHR
-OL,18,OS 401   0650G     ..........GBarcelona 
-OL,19,OS 961   0650G     ..........GStockholm 
-OL,20,OS 131   0700G     ..........GZurich    
-OL,21,OS 201   0700G     ..........GFrankfurt 
-OL,22,ET 724   0705G     ..........GCopenhagen
-OL,23,Q,,F04:18GFlughafen WienF01/7007-0      
+OL,5,OS 055   1040F **  boarding .GMontreal  
+OL,6,OS 769   1230B     closed ...GVarna     
+OL,7,OS 703   1250B     gestartet GIasi      
+OL,8,FR 3766  1325G     ..........GSofia     
+OL,9,FR 947   1345F **  boarding .GKrakow    
+OL,10,XQ 191   1355B     gestartet GAntalya   
+OL,11,VF 018   1400B     closed ...GIstanbul  
+OL,12,FR 9753  1415B     gestartet GBanja Luka
+OL,13,BA 695   1420B     closed ...GLondon LHR
+OL,14,XQ 981   1425F **  boarding .GIzmir     
+OL,15,BZ 317   1445F **  boarding .GTel Aviv  
+OL,16,EW 9753  1445F     gate open GDusseldorf
+OL,17,OS 315   1450F     gate open GAmsterdam 
+OL,18,PC 904   1450F **  boarding .GIstanbul  
+OL,19,EK 128   1455F **  boarding .GDubai     
+OL,20,JU 313   1500F     gate open GBelgrade  
+OL,21,OS 141   1500F     gate open GZurich    
+OL,22,OS 213   1505G     ..........GFrankfurt 
+OL,23,Q,,F14:18GFlughafen WienF01/7007-0      
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G828FORF1   GMo 23.11.26 04:20:35
+OL,0,       G828FORF1   GMo 23.11.26 14:20:21
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/6  
 OL,4,  CFLUG  PLAN AKTUELL         NACH      
-OL,5,IB 798   0705G     ..........GMadrid    
-OL,6,FR 751   0710G     ..........GPorto     
-OL,7,OS 223   0710G     ..........GBerlin    
-OL,8,OS 361   0710G     ..........GParis CDG 
-OL,9,OS 151   0715G     ..........GGeneva    
-OL,10,OS 311   0715G     ..........GAmsterdam 
-OL,11,TK 1890  0715G     ..........GIstanbul  
-OL,12,OS 245   0720G     ..........GCologne   
-OL,13,OS 251   0720G     ..........GHamburg   
-OL,14,OS 287   0720G     ..........GBremen    
-OL,15,OS 291   0720A     Ausfall ..GBrussels  
-OL,16,OS 991   0720G     ..........GCopenhagen
-OL,17,FR 432   0725G     ..........GTenerife  
-OL,18,FR 9704  0725G     ..........GLisbon    
-OL,19,OS 263   0725G     ..........GStuttgart 
-OL,20,OS 161   0730G     ..........GDusseldorf
-OL,21,OS 521   0730G     ..........GMilan LIN 
-OL,22,BA 703   0740G     ..........GLondon LHR
-OL,23,Q,,F04:18GFlughafen WienF01/7007-0      
+OL,5,OS 231   1505F     gate open GBerlin    
+OL,6,OS 525   1505G     ..........GMilan LIN 
+OL,7,OS 995   1505F     gate open GCopenhagen
+OL,8,EW 7753  1510G     ..........GHamburg   
+OL,9,OS 295   1515G     ..........GLille     
+OL,10,QR 184   1515F **  boarding .GDoha      
+OL,11,OS 645   1520G     ..........GPrague    
+OL,12,EJU5446  1525G     ..........GMilan LIN 
+OL,13,OS 775   1530G     ..........GSofia     
+OL,14,SV 152   1530F     gate open GGassim    
+OL,15,EW 755   1535G     ..........GCologne   
+OL,16,FR 721   1535G     ..........GPaphos    
+OL,17,FR 198   1545G     ..........GVilnius   
+OL,18,OS 165   1545G     ..........GDusseldorf
+OL,19,FR 689   1550G     ..........GMadrid    
+OL,20,OS 697   1550G     ..........GBucharest 
+OL,21,FR 9857  1640G     ..........GHelsinki  
+OL,22,TK 1898  1640G     ..........GIstanbul  
+OL,23,Q,,F14:18GFlughafen WienF01/7007-0      
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82803
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G828FORF1   GMo 23.11.26 04:20:36
+OL,0,       G828FORF1   GMo 23.11.26 14:20:21
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    3/6  
 OL,4,  CFLUG  PLAN AKTUELL         NACH      
-OL,5,DE 4361  0750G     ..........GFrankfurt 
-OL,6,OS 551   0750G     ..........GRome FCO  
-OL,7,OS 203   0800G     ..........GFrankfurt 
-OL,8,OS 123   0805G     ..........GBasel     
-OL,9,OS 661   0810G     ..........GWarsaw    
-OL,10,OS 133   0825G     ..........GZurich    
-OL,11,OS 271   0825G     ..........GHanover   
-OL,12,FR 8192  0830G     ..........GMilan BGY 
-OL,13,OS 283   0830G     ..........GLeipzig   
-OL,14,FR 7177  0835G     ..........GRome FCO  
-OL,15,PE 101   0835G     ..........GAltenrhein
-OL,16,OS 513   0840G     ..........GBologna   
-OL,17,EW 7751  0845G     ..........GHamburg   
-OL,18,PC 1674  0855G     ..........GAnkara    
-OL,19,BT 272   0900G     ..........GRiga      
-OL,20,OS 205   0900G     ..........GFrankfurt 
-OL,21,QR 190   0900G     ..........GDoha      
-OL,22,SN 2902  0905A     Ausfall ..GBrussels  
-OL,23,Q,,F04:18GFlughafen WienF01/7007-0      
+OL,5,FR 755   1645G     ..........GStockholm 
+OL,6,VF 020   1645G     ..........GIstanbul  
+OL,7,FR 087   1650A     Ausfall ..GCharleroi 
+OL,8,FR 1532  1650G     ..........GMilan BGY 
+OL,9,LG 8854  1655G     ..........GLuxembourg
+OL,10,KL 1906  1705A1730 versp{tet GAmsterdam 
+OL,11,DE 4365  1710G     ..........GFrankfurt 
+OL,12,FR 7350  1710G     ..........GBarcelona 
+OL,13,OS 143   1710G     ..........GZurich    
+OL,14,OS 215   1710G     ..........GFrankfurt 
+OL,15,OS 107   1715G     ..........GInnsbruck 
+OL,16,OS 337   1715G     ..........GLondon LHR
+OL,17,OS 317   1720G     ..........GAmsterdam 
+OL,18,OS 367   1720G     ..........GParis CDG 
+OL,19,OS 297   1725A     Ausfall ..GBrussels  
+OL,20,OS 405   1725G     ..........GBarcelona 
+OL,21,FR 731   1730G     ..........GLondon STN
+OL,22,OS 187   1730G     ..........GMunich    
+OL,23,Q,,F14:18GFlughafen WienF01/7007-0      
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82804
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G828FORF1   GMo 23.11.26 04:20:36
+OL,0,       G828FORF1   GMo 23.11.26 14:20:21
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    4/6  
 OL,4,  CFLUG  PLAN AKTUELL         NACH      
-OL,5,EW 753   0910G     ..........GCologne   
-OL,6,OS 541   0910G     ..........GVenice    
-OL,7,LO 224   0920G     ..........GWarsaw    
-OL,8,OS 225   0920G     ..........GBerlin    
-OL,9,OS 423   0920G     ..........GMallorca  
-OL,10,OS 721   0920G     ..........GBelgrade  
-OL,11,OS 771   0920G     ..........GSofia     
-OL,12,OS 183   0925G     ..........GMunich    
-OL,13,OS 643   0925G     ..........GPrague    
-OL,14,EW 2755  0930G     ..........GStuttgart 
-OL,15,OS 603   0930G     ..........GZagreb    
-OL,16,OS 801   0930G     ..........GAthens    
-OL,17,EW 9751  0935G     ..........GDusseldorf
-OL,18,FR 7356  0940G     ..........GLondon STN
-OL,19,LG 8852  0940G     ..........GLuxembourg
-OL,20,OS 313   0940G     ..........GAmsterdam 
-OL,21,JU 311   0945G     ..........GBelgrade  
-OL,22,OS 135   0945G     ..........GZurich    
-OL,23,Q,,F04:18GFlughafen WienF01/7007-0      
+OL,5,OS 667   1730G     ..........GWarsaw    
+OL,6,OS 155   1735G     ..........GGeneva    
+OL,7,OS 167   1735G     ..........GDusseldorf
+OL,8,OS 269   1735G     ..........GStuttgart 
+OL,9,OS 235   1740G     ..........GBerlin    
+OL,10,OS 557   1740G     ..........GRome FCO  
+OL,11,LS 374   1745G     ..........GBelfast   
+OL,12,OS 257   1745G     ..........GHamburg   
+OL,13,FR 687   1800G     ..........GEindhoven 
+OL,14,LS 4192  1800G     ..........GLondon LGW
+OL,15,OS 127   1800G     ..........GBasel     
+OL,16,EZY8884  1815G     ..........GLondon LGW
+OL,17,OS 277   1815G     ..........GHanover   
+OL,18,PC 906   1815G     ..........GIstanbul  
+OL,19,AF 1739  1820G     ..........GParis CDG 
+OL,20,FR 694   1825G     ..........GManchester
+OL,21,LS 3288  1825G     ..........GLiverpool 
+OL,22,SN 2906  1825A     Ausfall ..GBrussels  
+OL,23,Q,,F14:18GFlughafen WienF01/7007-0      
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82805
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       G828FORF1   GMo 23.11.26 04:20:36
+OL,0,       G828FORF1   GMo 23.11.26 14:20:21
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    5/6  
 OL,4,  CFLUG  PLAN AKTUELL         NACH      
-OL,5,OS 693   0955G     ..........GBucharest 
-OL,6,TK 1884  0955G     ..........GIstanbul  
-OL,7,OS 753   1000G     ..........GTirana    
-OL,8,OS 745   1005G     ..........GPristina  
-OL,9,PC 902   1005G     ..........GIstanbul  
-OL,10,OS 067   1010G     ..........GMarrakech 
-OL,11,OS 109   1010G     ..........GKlagenfurt
-OL,12,OU 441   1010G     ..........GZagreb    
-OL,13,FR 051   1015G     ..........GTreviso   
-OL,14,OS 353   1015G     ..........GLyon      
-OL,15,OS 761   1015G     ..........GSkopje    
-OL,16,SK 1694  1015G     ..........GCopenhagen
-OL,17,OS 041   1020G     ..........GWashington
-OL,18,OS 079   1020G     ..........GTel Aviv  
-OL,19,OS 207   1030G     ..........GFrankfurt 
-OL,20,FR 1624  1035G     ..........GEdinburgh 
-OL,21,OS 037   1040G     ..........GNewark EWR
-OL,22,OS 055   1040G     ..........GMontreal  
-OL,23,Q,,F04:18GFlughafen WienF01/7007-0      
+OL,5,FR 1645  1830G     ..........GRome FCO  
+OL,6,OS 145   1830G     ..........GZurich    
+OL,7,OS 217   1830G     ..........GFrankfurt 
+OL,8,OS 527   1830G     ..........GMilan LIN 
+OL,9,FR 6914  1845G     ..........GMilan MXP 
+OL,10,LS 1308  1850G     ..........GBirmingham
+OL,11,BA 699   1855G     ..........GLondon LHR
+OL,12,FR 7360  1855G     ..........GMilan BGY 
+OL,13,LS 1954  1905G     ..........GNewcastle 
+OL,14,FR 9004  1910G     ..........GBari      
+OL,15,AY 1476  1915G     ..........GHelsinki  
+OL,16,OS 1159  1920G     ..........GTirana    
+OL,17,LO 226   1925G     ..........GWarsaw    
+OL,18,PE 107   1925G     ..........GAltenrhein
+OL,19,BT 274   1930G     ..........GRiga      
+OL,20,KE 938   1930A1950 versp{tet GSeoul ICN 
+OL,21,TK 1888  1930G     ..........GIstanbul  
+OL,22,EW 2759  1935G     ..........GStuttgart 
+OL,23,Q,,F14:18GFlughafen WienF01/7007-0      
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82806
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       G828FORF1   GMo 23.11.26 04:20:36
+OL,0,       G828FORF1   GMo 23.11.26 14:20:21
 OL,1,A]G                      Flughafen Wien 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    6/6  
 OL,4,  CFLUG  PLAN AKTUELL         NACH      
-OL,5,EY 154   1050G     ..........GAbu Dhabi 
-OL,6,A3 861   1055G     ..........GAthens    
-OL,7,LS 3088  1055G     ..........GEast Midl.
-OL,8,OS 045   1055G     ..........GChicago   
-OL,9,CI 064   1100G     ..........GTaipei    
-OL,10,DE 4363  1110G     ..........GFrankfurt 
-OL,11,OS 071   1110G     ..........GCairo     
-OL,12,OS 227   1115G     ..........GBerlin    
-OL,13,OS 977   1115G     ..........GOslo OSL  
-OL,14,OS 209   1120G     ..........GFrankfurt 
-OL,15,EI 661   1130G     ..........GDublin    
-OL,16,EZY2910  1130G     ..........GBristol   
-OL,17,AY 1472  1140G     ..........GHelsinki  
-OL,18,EZY2234  1150G     ..........GManchester
-OL,19,BA 693   1155G     ..........GLondon LHR
-OL,20,BR 066   1205G     ..........GTaipei    
-OL,21,FR 1565  1205G     ..........GCatania   
-OL,22,FR 679   1210G     ..........GBucharest 
-OL,23,Q,,F04:18GFlughafen WienF01/7007-0      
+OL,5,EW 7755  1935G     ..........GHamburg   
+OL,6,LS 1584  1940G     ..........GLondon STN
+OL,7,OU 443   1940G     ..........GZagreb    
+OL,8,TP 1273  1940G     ..........GLisbon    
+OL,9,IB 796   1945G     ..........GMadrid    
+OL,10,LS 498   1945G     ..........GLeeds     
+OL,11,OS 021   1950G     ..........GMale      
+OL,12,OS 189   1950G     ..........GMunich    
+OL,13,FR 1324  2000G     ..........GParis BVA 
+OL,14,SK 696   2005G     ..........GCopenhagen
+OL,15,EW 9755  2010G     ..........GDusseldorf
+OL,16,EW 757   2015G     ..........GCologne   
+OL,17,OS 005   2015G     ..........GBangkok   
+OL,18,OS 147   2015G     ..........GZurich    
+OL,19,OS 221   2015G     ..........GFrankfurt 
+OL,20,FR 9480  2020G     ..........GCologne   
+OL,21,OS 319   2020G     ..........GAmsterdam 
+OL,22,OS 339   2020G     ..........GLondon LHR
+OL,23,Q,,F14:18GFlughafen WienF01/7007-0      
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

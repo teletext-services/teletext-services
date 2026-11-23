@@ -3,10 +3,10 @@ PN,28801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G288FORF1   GMo 23.11.26 04:11:22
+OL,0,       G288FORF1   GMo 23.11.26 14:11:38
 OL,1,A]G                           Eishockey 
 OL,2,A]GSPORT  ]          Awin2day ICE Liga \
-OL,3,Q#########G                        1/2  
+OL,3,Q#########G                        1/3  
 OL,4,CSonntag                                
 OL,5,FLinz      - VSV         7:4G3:1 0:1 4:2
 OL,6, 3.900; Moro 3., Lebler 6., Knott 18.,  
@@ -30,10 +30,10 @@ PN,28802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G288FORF1   GMo 23.11.26 04:11:22
+OL,0,       G288FORF1   GMo 23.11.26 14:11:38
 OL,1,A]G                           Eishockey 
 OL,2,A]GSPORT  ]          Awin2day ICE Liga \
-OL,3,Q#########G                        2/2  
+OL,3,Q#########G                        2/3  
 OL,4,CSonntag                                
 OL,5,FKAC       - Budapest    5:4 n.P.       
 OL,6, 3.700;          1:1 1:2 2:1 / 0:0 / 2:1
@@ -51,5 +51,24 @@ OL,19, 2.200;                1:0 0:1 0:0 / 1:0
 OL,20, Boychuk 11.,Lawrence 62./PP; Deluca 24.
 OL,21, Strafminuten: 0 bzw. 6                 
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,28803
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       G288FORF1   GMo 23.11.26 14:11:38
+OL,1,A]G                           Eishockey 
+OL,2,A]GSPORT  ]Awin2day ICE Liga, 23.Runde \
+OL,3,Q#########G                        3/3  
+OL,4,CMittwoch                               
+OL,5, Budapest   - Linz       18.30h         
+OL,6, Salzburg   - Pustertal  19.15h *       
+OL,7, Fehervar   - Capitals   19.15h         
+OL,8, Ljubljana  - Graz       19.15h         
+OL,9, Vorarlberg - Innsbruck  19.30h         
+OL,10, Milano     - VSV        19.45h         
+OL,11, Bozen      - KAC        19.45h         
+OL,23,Q,,,,,,,,,,,,,,,,,G* live in ORF Sport+ 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

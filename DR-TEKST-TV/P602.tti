@@ -1,31 +1,61 @@
 DE,DR-TEKST-TV 602
-PN,60200
-SC,0000
-PS,8108
+PN,60201
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       GDR   S602  son 22 nov   20:10:22
+OL,0,       GDR   S602  man 23 nov   12:10:23
 OL,1,T################]GSENDER P] FM   
-OL,2,D]GP2  \SONDAG 22.NOV D]GKL.18-06 SEC638
+OL,2,D]GP2  \MANDAG 23.NOV D]GKL.18-06 SEC638
 OL,3,T#######################################
-OL,4,    F19:00GNyt fra hyldenA>             
-OL,5,    F     G                             
-OL,6,C624F19:20GP2 Guldkoncerten             
-OL,7,    F     GMonteverdis Mariavesper      
-OL,8,    F     G- den forste gang i Danmark  
+OL,4,    F12:00GRadioavisenA>                
+OL,5,    F12:15GSiesta - RoA>                
+OL,6,    F     G                             
+OL,7,C618F13:03GFrokostkoncertenA>           
+OL,8,    F     GMozart i 1782                
 OL,9,    F     G                             
-OL,10,    F22:00GNatsvarmeren: Ro p}A>        
+OL,10,    F14:03GKlassisk MixA>               
 OL,11,    F     G                             
-OL,12,    F00:03GP2 Koncerten:                
-OL,13,    F     GPoetiske mestre              
-OL,14,    F     G                             
-OL,15,    F02:45GIntermezzoA>                 
-OL,16,    F     G                             
-OL,17,    F03:03GNatsvarmerenA>               
-OL,18,    F     GUden hastvark                
+OL,12,    F16:05GDagen og MusikkenA>          
+OL,13,    F     G                             
+OL,14,C619F18:05GHammers komponisterA>        
+OL,15,    F     GFanny Mendelssohn - Geniet   
+OL,16,    F     Gfra de berlinske saloner     
+OL,17,    F     G                             
+OL,18,    F     G                             
 OL,19,    F     G                             
 OL,20,    F     G                             
 OL,21,    F     G                             
 OL,22,    F     G                             
-OL,23, ]A600@RADIO     P5A639@NETRADIO        
+OL,23, ]A600@RADIO     P5A639@NETRADIO    1/2 
+OL,24,  ANyheder    BSport    CTV    FVejret  
+FL,110,200,300,400,0,100
+PN,60202
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       GDR   S602  man 23 nov   12:10:52
+OL,1,T################]GSENDER P] FM   
+OL,2,D]GP2  \MANDAG 23.NOV D]GKL.18-06 SEC638
+OL,3,T#######################################
+OL,4,    F19:00GUgens album: Esther 1:2A>    
+OL,5,    F     GAbrami - Amour               
+OL,6,    F     G                             
+OL,7,C620F19:20GP2 Koncerten:                
+OL,8,    F     GReformationsjubilaum i       
+OL,9,    F     GHaderslev med Musica Ficta   
+OL,10,    F     G                             
+OL,11,    F22:00GNatsvarmeren:Uden hastvarkA> 
+OL,12,    F     G                             
+OL,13,    F00:03GP2 KlassiskA>                
+OL,14,    F01:03GKlassisk MixA>               
+OL,15,    F     G                             
+OL,16,    F03:03GNatsvarmeren: Let svimlende  
+OL,17,    F     Gog en anelse fortrylletA>    
+OL,18,    F     G                             
+OL,19,    F     G                             
+OL,20,    F     G                             
+OL,21,    F     G                             
+OL,22,    F     G                             
+OL,23, ]A600@RADIO     P5A639@NETRADIO    2/2 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100

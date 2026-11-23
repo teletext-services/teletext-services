@@ -3,26 +3,26 @@ PN,16601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mo, 23.11.26G07:07:06
+OL,0,       BSWR RLPC   Mo, 23.11.26G17:07:17
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte RLP     P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 23.11.2026 06:25     
+OL,4, WETTERZUSTAND vom 23.11.2026 16:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CEifel                                  
-OL,8, Mayen             wolkig            -1 
-OL,9,FBitburg           wolkig            -1 
-OL,10, Daun              wolkig            -1 
-OL,11,FPr}m              wolkig            -2 
-OL,12, N}rburg           wolkig            -2 
+OL,8, Mayen             leicht bew|lkt     0 
+OL,9,FBitburg           sonnig             2 
+OL,10, Daun              sonnig             0 
+OL,11,FPr}m              sonnig             0 
+OL,12, N}rburg           leicht bew|lkt    -2 
 OL,14,CHunsr}ck                               
-OL,15, Hermeskeil        wolkig            -1 
-OL,16,FIdar-Oberstein    leicht bew|lkt    -2 
-OL,17, Kirn              wolkig            -2 
-OL,18,FMorbach           bedeckt           -1 
-OL,19, Deuselbach        wolkig            -1 
-OL,20,FHahn              bedeckt           -1 
+OL,15, Hermeskeil        sonnig             0 
+OL,16,FIdar-Oberstein    leicht bew|lkt     1 
+OL,17, Kirn              leicht bew|lkt     2 
+OL,18,FMorbach           sonnig             0 
+OL,19, Deuselbach        sonnig             0 
+OL,20,FHahn              sonnig            -1 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -30,23 +30,23 @@ PN,16602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mo, 23.11.26G07:07:06
+OL,0,       BSWR RLPC   Mo, 23.11.26G17:07:17
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte RLP     P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 23.11.2026 06:25     
+OL,4, WETTERZUSTAND vom 23.11.2026 16:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CMittelrhein                            
-OL,8, Bendorf           wolkig            -2 
-OL,9,FKoblenz           wolkig            -1 
-OL,10, Neuwied           wolkig            -2 
-OL,11,FBad Neuenahr      bedeckt           -1 
+OL,8, Bendorf           leicht bew|lkt     0 
+OL,9,FKoblenz           leicht bew|lkt     1 
+OL,10, Neuwied           wolkig             0 
+OL,11,FBad Neuenahr      wolkig             0 
 OL,13,CMosel/Saar                             
-OL,14, Bernkastel-Kues   wolkig             0 
-OL,15,FCochem            leicht bew|lkt     1 
-OL,16, Konz              leicht bew|lkt     0 
-OL,17,FTrier             wolkig             0 
+OL,14, Bernkastel-Kues   sonnig             3 
+OL,15,FCochem            leicht bew|lkt     2 
+OL,16, Konz              sonnig             4 
+OL,17,FTrier             sonnig             4 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -54,27 +54,27 @@ PN,16603
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mo, 23.11.26G07:07:06
+OL,0,       BSWR RLPC   Mo, 23.11.26G17:07:17
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte RLP     P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 23.11.2026 06:25     
+OL,4, WETTERZUSTAND vom 23.11.2026 16:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CPf{lzer Bergland                       
-OL,8, Kaiserslautern    leicht bew|lkt    -3 
-OL,9,FKusel             leicht bew|lkt    -3 
-OL,10, Pirmasens         leicht bew|lkt    -1 
-OL,11,FRamstein-Miesenb. leicht bew|lkt    -3 
-OL,12, Weinbiet          leicht bew|lkt    -2 
-OL,13,FZweibr}cken       klar              -3 
+OL,8, Kaiserslautern    sonnig             3 
+OL,9,FKusel             leicht bew|lkt     3 
+OL,10, Pirmasens         sonnig             2 
+OL,11,FRamstein-Miesenb. sonnig             3 
+OL,12, Weinbiet          sonnig             0 
+OL,13,FZweibr}cken       sonnig             3 
 OL,15,CRheinhessen                            
-OL,16, Alzey             wolkig            -2 
-OL,17,FBad Kreuznach     wolkig            -1 
-OL,18, Bingen am Rhein   bedeckt           -1 
-OL,19,FIngelheim         wolkig            -1 
-OL,20, Mainz             leicht bew|lkt    -1 
-OL,21,FWorms             leicht bew|lkt    -2 
+OL,16, Alzey             sonnig             3 
+OL,17,FBad Kreuznach     sonnig             3 
+OL,18, Bingen am Rhein   sonnig             3 
+OL,19,FIngelheim         sonnig             3 
+OL,20, Mainz             sonnig             3 
+OL,21,FWorms             sonnig             4 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -82,25 +82,25 @@ PN,16604
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mo, 23.11.26G07:07:06
+OL,0,       BSWR RLPC   Mo, 23.11.26G17:07:17
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte RLP     P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 23.11.2026 06:25     
+OL,4, WETTERZUSTAND vom 23.11.2026 16:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CTaunus                                 
-OL,8, Kleiner Feldberg  klar              -4 
-OL,9,FKatzenelnbogen    wolkig            -3 
-OL,10, Nassau a.d. Lahn  wolkig            -2 
-OL,11,FNast{tten         wolkig            -2 
+OL,8, Kleiner Feldberg  sonnig            -3 
+OL,9,FKatzenelnbogen    sonnig            -1 
+OL,10, Nassau a.d. Lahn  leicht bew|lkt     1 
+OL,11,FNast{tten         leicht bew|lkt     0 
 OL,13,CWesterwald                             
-OL,14, Altenkirchen      leicht bew|lkt    -4 
-OL,15,FBetzdorf          leicht bew|lkt    -5 
-OL,16, Diez              leicht bew|lkt    -3 
-OL,17,FMontabaur         leicht bew|lkt    -4 
-OL,18, Westerburg        leicht bew|lkt    -5 
-OL,19,FBad Marienberg    klar              -5 
+OL,14, Altenkirchen      leicht bew|lkt    -1 
+OL,15,FBetzdorf          sonnig            -1 
+OL,16, Diez              sonnig             0 
+OL,17,FMontabaur         leicht bew|lkt    -1 
+OL,18, Westerburg        sonnig            -1 
+OL,19,FBad Marienberg    sonnig            -1 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -108,19 +108,19 @@ PN,16605
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mo, 23.11.26G07:07:06
+OL,0,       BSWR RLPC   Mo, 23.11.26G17:07:17
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte RLP     P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 23.11.2026 06:25     
+OL,4, WETTERZUSTAND vom 23.11.2026 16:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CVorderpfalz                            
-OL,8, Landau i.d. Pfalz leicht bew|lkt    -2 
-OL,9,FLudwigshafen      leicht bew|lkt    -2 
-OL,10, Neustadt          leicht bew|lkt    -3 
-OL,11,FSpeyer            leicht bew|lkt    -3 
-OL,12, Kandel            wolkig            -2 
+OL,8, Landau i.d. Pfalz leicht bew|lkt     3 
+OL,9,FLudwigshafen      sonnig             3 
+OL,10, Neustadt          sonnig             3 
+OL,11,FSpeyer            sonnig             3 
+OL,12, Kandel            sonnig             4 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

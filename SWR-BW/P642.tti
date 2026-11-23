@@ -3,62 +3,31 @@ PN,64201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G06:56:44
+OL,0,       BSWR BW C   Mo, 23.11.26G16:56:17
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,11,FWARNUNG vor FROST                      
-OL,12, G}ltig: So 18:00 bis Mo 10:00          
-OL,14,FReutlingen, T}bingen, Zollernalbkreis  
-OL,16, Es tritt leichter Frost bis -3 `C auf. 
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
+OL,10,FWARNUNG vor FROST                      
+OL,11, G}ltig: Mo 16:00 bis Di 12:00          
+OL,13,FReutlingen, T}bingen, Zollernalbkreis  
+OL,15, Es tritt m{~iger Frost um -6 `C auf.   
+OL,16, In Tal- und Muldenlagen sinken die     
+OL,17, Temperaturen auf Werte um -8 `C.       
+OL,23,D]GQuelle:DWD  Stand:12:34  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,64202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G06:56:44
+OL,0,       BSWR BW C   Mo, 23.11.26G16:56:17
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,11,FWARNUNG vor GL[TTE                     
-OL,12, G}ltig: So 21:00 bis Mo 10:00          
+OL,12, G}ltig: Mo 20:00 bis Di 10:00          
 OL,14,FReutlingen, T}bingen, Zollernalbkreis  
-OL,16, Es besteht Gl{ttegefahr.               
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,64203
-SC,0003
-PS,C200
-CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G06:56:44
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,10,FWARNUNG vor GL[TTE                     
-OL,11, G}ltig: So 21:00 bis Mo 10:00          
-OL,13,FReutlingen, Zollernalbkreis            
-OL,15, Es besteht unterhalb 800 m             
-OL,16, Gl{ttegefahr.                          
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,64204
-SC,0004
-PS,C200
-CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G06:56:44
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,10,FWARNUNG vor LEICHTEM SCHNEEFALL        
-OL,11, G}ltig: So 16:00 bis Mo 08:00          
-OL,13,FReutlingen, Zollernalbkreis            
-OL,15, Es tritt im Warnzeitraum oberhalb 800 m
-OL,16, leichter Schneefall mit Mengen bis 5 cm
-OL,17, auf. Verbreitet wird es glatt.         
-OL,23,D]GQuelle:DWD  Stand:09:56  Hinweise 654
+OL,16, Es besteht vereinzelt Gl{ttegefahr.    
+OL,23,D]GQuelle:DWD  Stand:12:40  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

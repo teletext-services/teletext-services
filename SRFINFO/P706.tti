@@ -3,25 +3,26 @@ PN,70600
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       G706  SRF info  23.11.26 06:20:59
+OL,0,       G706  SRF info  23.11.26 16:21:13
 OL,1,A]GSRF info G]@Montag, 23. November     
 OL,2,G                                       
-OL,3,G18:00 GTelesguard (W)CDDCUT........C741
-OL,4,F18:10 FTagesschau kompakt (W)......C   
-OL,5,       FVorabendausgabeCDDCUT           
-OL,6,G18:15 GMeteo (W)...................C   
-OL,7,       GVorabendausgabeCDDCUT           
-OL,8,F18:20 FTelesguard (W)CDDCUT........C742
-OL,9,G18:30 GTagesschau kompakt (W)......C   
-OL,10,       GVorabendausgabeCDDCUT           
-OL,11,F18:35 FMeteo (W)...................C   
-OL,12,       FVorabendausgabeCDDCUT           
-OL,13,G18:40 GTelesguard (W)CDDCUT........C743
-OL,14,F18:50 FMeteo (W)...................C   
-OL,15,       FVorabendausgabeCDDCUT           
-OL,16,G19:00 GSchweiz aktuell in..........C   
-OL,17,       GGeb{rdenspracheCGSCUT           
-OL,18,F19:25 FSRF B|rse in................C   
-OL,19,       FGeb{rdenspracheCGSCUT           
+OL,3,G01:15 GMeteo (W)...................C   
+OL,4,       GSp{tausgabeCDDCUT               
+OL,5,F01:20 FSportflash (W)..............C741
+OL,6,       FDie Sportnews des TagesCDD      
+OL,7,G01:25 GNewsflash SRF 1 (W)CDDCUT...C   
+OL,8,F01:30 F10 vor 10 (W)CDDCUT.........C   
+OL,9,G01:55 GMeteo (W)...................C   
+OL,10,       GSp{tausgabeCDDCUT               
+OL,11,F02:00 FSportflash (W)..............C742
+OL,12,       FDie Sportnews des TagesCDD      
+OL,13,G02:05 GNewsflash SRF 1 (W)CDDCUT...C   
+OL,14,F02:10 F10 vor 10 (W)CDDCUT.........C   
+OL,15,G02:30 GMeteo (W)...................C   
+OL,16,       GSp{tausgabeCDDCUT               
+OL,17,F02:35 FSportflash (W)..............C743
+OL,18,       FDie Sportnews des TagesCDD      
+OL,19,G02:40 GNewsflash SRF 1 (W)CDDCUT...C   
+OL,20,F02:45 F10 vor 10 (W)CDDCUT.........C   
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

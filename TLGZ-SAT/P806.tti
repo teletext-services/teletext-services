@@ -4,28 +4,27 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  806Cpon 23 lis  08:46:40
-OL,1,C]            @T e n i s           08:31
+OL,0,      BPOLONIA  806Cpon 23 lis  18:48:25
+OL,1,C]            @T e n i s           18:41
 OL,2,C]    @Mecze wg godz. rozpocz`cia       
-OL,3, K.SamrejF1:1GD.SakellaridisC4:6 6:3E5:3
-OL,4, R.OnoF0:0GL.R.Jones                E0:3
-OL,5,F0GSuzuki / Tobe                      E0
-OL,6,F0 GJones / Staeheli                  E2
-OL,7, P.Dietrich - R.Tabata            B14:00
-OL,8,CT.Cigarran - B.Arias             B14:00
-OL,9, D.D.d.Silva - M.Zormann          B14:00
-OL,10,CJ.V.C.Loureiro - R.Tosetto       B14:00
-OL,11, M.A.Gurri - G.Villanueva         B14:00
-OL,12,CA.Chepelev - E.Ribeiro           B14:00
-OL,13, J.Estevez - F.Roncadelli         B14:00
-OL,14,CA.G.Meza - G.Olivieri            B14:00
-OL,15, N.Kicker - E.Moller              B14:00
-OL,16,CR.Nijboer - B.Fernandez          B14:00
-OL,17, J.Nikles - P.B.Dias              B14:00
-OL,18,CM.Pucinelli - C.M.Zarate         B14:00
-OL,19, L.Ratti - J.A.Cardozo            B14:00
-OL,20,CP.Sakamoto - G.Justo             B14:00
-OL,21, J.B.Torres - F.Meligeni          B14:00
+OL,3, G.SchenekenbergF0:1CF.Ribero    6:7E3:2
+OL,4,CN.BrancaccioF1:0GA.Zolotareva  C6:1E3:1
+OL,5, E.C.PredigF0:1CJ.Pereira           E4:6
+OL,6, V.LepchenkoF0:0GA.Rencheli         E4:3
+OL,7, F.ZeballosF0:1CW.Leite          2:6E0:0
+OL,8, E.C.Lima - S.L.Fuente            B19:00
+OL,9,CT.Cigarran - J.V.C.Loureiro      B19:05
+OL,10, D.Papamichail - J.Riera          B20:00
+OL,11,CN.Barrientos - R.Tabata          B21:00
+OL,12, A.Ayeni - A.Bolt                 B00:30
+OL,13,CDelaney / Delaney                B00:30
+OL,14, CBouzige / Zhu                         
+OL,15, Bayldon / Fancutt                B00:30
+OL,16,  Bolt / Kubler                         
+OL,17,CHoeyeraal / Padgham              B00:30
+OL,18, CPuttergill / Sweeny                   
+OL,19, Cook / Sach                      B00:30
+OL,20,  Becroft / Shepp                       
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C803      F804   
@@ -35,24 +34,74 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  806Cpon 23 lis  08:46:40
-OL,1,C]            @T e n i s           08:31
+OL,0,      BPOLONIA  806Cpon 23 lis  18:48:25
+OL,1,C]            @T e n i s           18:41
 OL,2,C]    @Mecze wg godz. rozpocz`cia       
-OL,3,CB.Bonardi - C.Monnet             B15:00
-OL,4, M.Trevisan - A.Akli              B15:00
-OL,5,CG.Schenekenberg - F.Ribero       B15:30
-OL,6, C.H.D.Pino - B.Braga             B15:30
-OL,7,CE.C.Predig - J.Pereira           B15:30
-OL,8, J.B.Cosano - J.C.Cunha           B15:30
-OL,9,CJ.Estevez - A.Geerlings          B16:10
-OL,10, P.Hercog - I.Oz                  B16:10
-OL,11,CO.J.Gutierrez - C.E.Lino         B17:00
-OL,12, F.Zeballos - W.Leite             B17:00
-OL,13,CE.C.Lima - S.L.Fuente            B17:00
-OL,14, N.Zanellato - N.Rodrigues        B17:00
-OL,15,CN.Brancaccio - A.Zolotareva      B17:20
-OL,16, V.Lepchenko - A.Rencheli         B17:20
-OL,17,CD.Papamichail - J.Riera          B20:00
+OL,3,CJovanovski / Stevens             B00:30
+OL,4, CJung / Rai                            
+OL,5, Hazawa / Sueoka                  B00:30
+OL,6,  Ellis / Tu                            
+OL,7,CJ.Delaney - M.Dellavedova        B00:30
+OL,8, D.Pham - C.Dong                  B00:30
+OL,9,CS.Vujic - T.Schoolkate           B01:40
+OL,10, Cu / Ho                          B02:00
+OL,11,  Isomura / Shiraishi                   
+OL,12,CChandraseka / Loof               B02:00
+OL,13, CHsu / Leong                           
+OL,14, Bittoun / Poljak                 B02:00
+OL,15,  Imamura / Matsuda                     
+OL,16,CLai / Sakellaridis               B02:00
+OL,17, CBass / Duncan                         
+OL,18, Ichikawa / Shimizu               B02:00
+OL,19,  Jecan / Kielan                        
+OL,20,CDev / Sinha                      B02:00
+OL,21, CChun / Hsieh                          
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80603
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BPOLONIA  806Cpon 23 lis  18:48:25
+OL,1,C]            @T e n i s           18:41
+OL,2,C]    @Mecze wg godz. rozpocz`cia       
+OL,3, N.Honda - S.D.P.Dev              B02:00
+OL,4,CK.Isomura - H.Shiraishi          B02:00
+OL,5, T.Kumasaka - D.J.Sanchis         B02:00
+OL,6,CT.Sach - C.Langmo                B02:00
+OL,7, Falck / Suarez                   B02:00
+OL,8,  Santillan / Zheng                     
+OL,9,CH.Satara - J.Kubler              B02:50
+OL,10, Z.Stevens - H.Jones              B02:50
+OL,11,CC.Yunseong - F.Bass              B03:10
+OL,12, K.Matsuda - H.Matsuoka           B03:30
+OL,13,CY.Watanuki - K.Uchida            B03:30
+OL,14, E.Winter - L.Tu                  B03:30
+OL,15,CO.Jasika - E.Zhu                 B04:00
+OL,16, C.B.Kouzmine - Y.Takahashi       B04:20
+OL,17,CY.Shimizu - T.Ichikawa           B04:20
+OL,18, C.Jie - B.Hassan                 B05:00
+OL,19,CI.Becroft - C.E.Overbeck         B05:00
+OL,20, D.Sweeny - J.Delaney             B05:00
+OL,21,CN.McDonald - L.Staeheli          B06:30
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80604
+SC,0004
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BPOLONIA  806Cpon 23 lis  18:48:25
+OL,1,C]            @T e n i s           18:41
+OL,2,C]    @Mecze wg godz. rozpocz`cia       
+OL,3, R.Noguchi - M.Jones              B06:30
+OL,4,CJones / Sanada                   B06:30
+OL,5, CMasabayash / M.K                      
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C803      F804   

@@ -3,43 +3,13 @@ PN,77401
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G774 YLE TEKSTI-TV 23.03.07:54:05
+OL,0,       G774 YLE TEKSTI-TV 23.03.17:55:31
 OL,1,B]DYle TeemaG]                    D 1/3 
-OL,2,B]D    Fem  G]D   M}ndag 23.11.         
-OL,3,R##########^W###########################
-OL,4, 07.42GL{karna mot internetBAC>775      
-OL,5, 08.22GSportlivBA                       
-OL,6, 08.33GVilda kockarETBAC>775            
-OL,7, 09.02GS}ren vi {rvdeETBAC>775          
-OL,8, 09.41GFem biskoparETBAC>775            
-OL,9, 10.02GKamprads miljonerETBAC>775       
-OL,10, 11.00GKenza den f|rstaETBAC>775        
-OL,11, 12.00GDagarnas skimmerBAC>775          
-OL,12, 13.30GArkitekt LewerentzETBAC>775      
-OL,13, 14.30GG}ngj{rnshundenG(12)C>775        
-OL,14, 15.00GLa Promesa - hemligheternas      
-OL,15,      Gherrg}rdG(7)BAC>775              
-OL,16, 16.00GPastorn och den fula julgranen   
-OL,17,      G(S)BAC>775                       
-OL,18, 16.30GDet h{r {r ocks} santBAC>775     
-OL,19, 16.41GFinlands historia - som du aldrig
-OL,20,      Ghar sett den f|rrG(7)ETBAC>775   
-OL,21, 16.50GSingelg}tanG(S)BAC>775           
-OL,22,K                                       
-OL,23,B]D    A = Arenan    L{s mera s.775-776 
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,77402
-SC,0002
-PS,C100
-CT,15,T
-OL,0,       G774 YLE TEKSTI-TV 23.03.07:54:05
-OL,1,B]DYle TeemaG]                    D 2/3 
 OL,2,B]D    Fem  G]D   M}ndag 23.11.         
 OL,3,R##########^W###########################
 OL,4, 17.45GLivet - ber{ttelser fr}n         
 OL,5,      GSvenskfinlandETBA                
-OL,6, 17.55GYle Nyheter TV-nytt 17.55FA      
+OL,6, 17.55GYle Nyheter TV-nytt 17.55ETBA    
 OL,7, 18.00GBUU-klubbenETBA                  
 OL,8, 18.30GPengar, pengar, pengarBAC>776    
 OL,9, 19.00GLokal-TV LandETBAC>776           
@@ -48,7 +18,7 @@ OL,11, 19.55GDe nya ortodoxaG(S)ETBA
 OL,12, 20.17GHallnG(12)ETBAC>776              
 OL,13, 20.34GHallnG(12)ETBAC>776              
 OL,14, 20.53GSverige forskarETBAC>776         
-OL,15, 21.00GEfter NioFAC>776                 
+OL,15, 21.00GEfter NioETFAC>776               
 OL,16, 22.00GStill BreathingG(7)BAC>776       
 OL,17, 22.46GSolsidanG(7)ETBAC>776            
 OL,18, 23.08GSolsidanG(12)ETBAC>776           
@@ -56,19 +26,19 @@ OL,19,K
 OL,20,     B  Tisdag 24.11.B                  
 OL,21, 07.36GL{karna mot internetBA           
 OL,22, 08.15GMin kvinnliga ytaETBA            
-OL,23,B]D    NyheterD700                      
+OL,23,B]D    A = Arenan    L{s mera s.775-776 
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,77403
-SC,0003
+PN,77402
+SC,0002
 PS,C100
 CT,15,T
-OL,0,       G774 YLE TEKSTI-TV 23.03.07:54:05
-OL,1,B]DYle TeemaG]                    D 3/3 
+OL,0,       G774 YLE TEKSTI-TV 23.03.17:55:31
+OL,1,B]DYle TeemaG]                    D 2/3 
 OL,2,B]D    Fem  G]D   Tisdag 24.11.         
 OL,3,R##########^W###########################
 OL,4, 08.33GGud s} gottETFA                  
-OL,5, 09.02GEfter NioFA                      
+OL,5, 09.02GEfter NioETFA                    
 OL,6, 10.01GMin sanningETBA                  
 OL,7, 11.00GPengar, pengar, pengarBA         
 OL,8, 11.30GLokal-TV LandETBA                
@@ -86,6 +56,36 @@ OL,19,      Ghar sett den f|rrG(7)ETBA
 OL,20, 17.25GTordyveln flyger i skymningenG(S)
 OL,21,      ETBA                              
 OL,22, 17.50GOrmar ombordG(S)ETBA             
+OL,23,B]D    NyheterD700                      
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,77403
+SC,0003
+PS,C100
+CT,15,T
+OL,0,       G774 YLE TEKSTI-TV 23.03.17:55:31
+OL,1,B]DYle TeemaG]                    D 3/3 
+OL,2,B]D    Fem  G]D   Tisdag 24.11.         
+OL,3,R##########^W###########################
+OL,4, 17.55GYle Nyheter TV-nytt 17.55FA      
+OL,5, 18.00GBUU-klubbenETFA                  
+OL,6, 18.30GFr}n vanlig till kungligBA       
+OL,7, 19.30GYle Nyheter TV-nytt 19.30FA      
+OL,8, 19.53GResm}l ur EgenlandBA             
+OL,9, 20.00GM kari - Sicilianska             
+OL,10,      GmordmysterierG(7)BA              
+OL,11, 21.00GHistoria: Livet i Hitlers        
+OL,12,      GTysklandG(12)BA                  
+OL,13, 21.55G\nskefilm: Ok{nd soldatG(16)BA   
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
 OL,23,B]D    NyheterD700                      
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

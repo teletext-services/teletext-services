@@ -3,11 +3,41 @@ PN,80901
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G809 YLE TEKSTI-TV 23.03.07:54:58
+OL,0,       G809 YLE TEKSTI-TV 23.03.17:56:23
 OL,1,D]GSHAKKISIVUT                     1/8  
 OL,2,K                                       
+OL,3,K                                       
+OL,4,G BSM-liiga                             
+OL,5,K                                       
+OL,6,K  21.11.                               
+OL,7,K  Gambiitti-HSC            3,0-5,0     
+OL,8,K  JyS-VammSK               1,0-7,0     
+OL,9,K  Aatos-RaahLi             6,0-2,0     
+OL,10,K  VSS-EtVaS                2,0-6,0     
+OL,11,K  TammerSh-HSK             6,5-1,5     
+OL,12,G  TuTS-MatSK               2,5-5,5     
+OL,13,K                                       
+OL,14,G  22.11.                               
+OL,15,G  MatSK-HSK                6,0-2,0     
+OL,16,G  JyS-TuTS                 4,5-3,5     
+OL,17,G  VammSK-Gambiitti         4,5-3,5     
+OL,18,G  Aatos-VSS                7,0-1,0     
+OL,19,G  EtVaS-RaahLi             4,5-3,5     
+OL,20,G  TammerSh-HSC             4,0-4,0     
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,80902
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       G809 YLE TEKSTI-TV 23.03.17:56:23
+OL,1,D]GVKL-turnaus Helsinki            2/8  
+OL,2,K                                       
 OL,3,K B14-15.11. 4 kierrosta Peliaika 90min+
-OL,4,K B30sek/siirto VKL-turnaus Helsinki    
+OL,4,K B30sek/siirto                         
 OL,5,K                                       
 OL,6,K FA-ryhm{ (16 pelaajaa)                
 OL,7,G  1.Herman Hietanen      EtVaS    3,5  
@@ -29,12 +59,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,80902
-SC,0002
+PN,80903
+SC,0003
 PS,C100
 CT,15,T
-OL,0,       G809 YLE TEKSTI-TV 23.03.07:54:58
-OL,1,D]GSM-liiga                        2/8  
+OL,0,       G809 YLE TEKSTI-TV 23.03.17:56:23
+OL,1,D]GSM-liiga                        3/8  
 OL,2,K                                       
 OL,3,K  31.10.                               
 OL,4,K  HSK-Gambiitti            5,0-3,0     
@@ -59,12 +89,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,80903
-SC,0003
+PN,80904
+SC,0004
 PS,C100
 CT,15,T
-OL,0,       G809 YLE TEKSTI-TV 23.03.07:54:58
-OL,1,D]GSM-liiga                        3/8  
+OL,0,       G809 YLE TEKSTI-TV 23.03.17:56:23
+OL,1,D]GSM-liiga                        4/8  
 OL,2,K                                       
 OL,3,K                                       
 OL,4,K  31.10.                               
@@ -89,12 +119,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,80904
-SC,0004
+PN,80905
+SC,0005
 PS,C100
 CT,15,T
-OL,0,       G809 YLE TEKSTI-TV 23.03.07:54:58
-OL,1,D]GVKL-turnaus Helsinki            4/8  
+OL,0,       G809 YLE TEKSTI-TV 23.03.17:56:23
+OL,1,D]GVKL-turnaus Helsinki            5/8  
 OL,2,K                                       
 OL,3,K B7-8.11. 4 kierrosta Peliaika 70min+  
 OL,4,G B30sek/siirto Helsinki                
@@ -119,12 +149,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,80905
-SC,0005
+PN,80906
+SC,0006
 PS,C100
 CT,15,T
-OL,0,       G809 YLE TEKSTI-TV 23.03.07:54:58
-OL,1,D]GKoululaisten SM Valkeakoski      5/8 
+OL,0,       G809 YLE TEKSTI-TV 23.03.17:56:23
+OL,1,D]GKoululaisten SM Valkeakoski      6/8 
 OL,2,K B24-25.10. 7 kierrosta Peliaika 50min+
 OL,3,G B10s/siirto                           
 OL,4,K FA-sarja (12 pelaajaa)                
@@ -149,56 +179,26 @@ OL,22,G  3.Jekaterina Kurejeva  Helsinki   3,0
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,80906
-SC,0006
-PS,C100
-CT,15,T
-OL,0,       G809 YLE TEKSTI-TV 23.03.07:54:58
-OL,1,D]GKoululaisten SM Valkeakoski     65/8 
-OL,2,K                                       
-OL,3,K B24-25.10. 7 kierrosta Peliaika 50min+
-OL,4,G B10s/siirto                           
-OL,5,K                                       
-OL,6,K FD-sarja (23 pelaajaa)                
-OL,7,K                                       
-OL,8,K  1.Yiming Zhang          Espoo     6,5
-OL,9,K  2.Mashhadi Aghajan RayanEspoo     5,5
-OL,10,K  3.Maksim Varfolomeev    Vantaa    5,0
-OL,11,G  1.Julia Sinitsyna       Espoo     5,0
-OL,12,G  2.Carolina Damato       Helsinki  4,0
-OL,13,G  3.Sinhyana Bisht        Espoo     3,5
-OL,14,K                                       
-OL,15,K                                       
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,K                                       
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
 PN,80907
 SC,0007
 PS,C100
 CT,15,T
-OL,0,       G809 YLE TEKSTI-TV 23.03.07:54:58
+OL,0,       G809 YLE TEKSTI-TV 23.03.17:56:23
 OL,1,D]GSM-liiga tilanne                7/8  
 OL,2,K                                       
 OL,3,K                  O V T H    P   Me    
-OL,4,K  1.TammerSh, Tre 4 4 0 0    8   23,5  
-OL,5,G  2.MatSK, Espoo  4 3 1 0    7   20,5  
-OL,6,G  3.Aatos, Hki.   4 3 0 1    6   21,0  
-OL,7,G  4.HSC, Helsinki 4 3 0 1    6   21,0  
-OL,8,K  5.VammSK,Sasta. 4 3 0 1    6   19,5  
-OL,9,G  6.RaahLi, Raahe 4 1 1 2    3   16,0  
-OL,10,G  7.JyS, Jkl.     4 1 0 3    2   15,0  
-OL,11,G  8.TuTS, Turku   4 1 0 3    2   13,5  
-OL,12,G  9.VSS, Vaasa    4 1 0 3    2   11,0  
-OL,13,G 10.Gambiitti,Hki 4 1 0 3    2   10,5  
-OL,14,G 11.EtVaS, Vantaa 4 1 0 3    2   10,5  
-OL,15,G 12.HSK, Helsinki 4 1 0 3    2   10,0  
+OL,4,K  1.TammerSh, Tre 6 5 1 0   11   34,0  
+OL,5,G  2.MatSK, Espoo  6 5 1 0   11   32,0  
+OL,6,G  3.Aatos, Hki.   6 5 0 1   10   34,0  
+OL,7,G  4.VammSK,Sasta. 6 5 0 1   10   32,0  
+OL,8,G  5.HSC, Helsinki 6 4 1 1    9   30,0  
+OL,9,G  6.EtVaS, Vantaa 6 3 0 3    6   21,0  
+OL,10,G  7.JyS, Jkl.     6 2 0 4    4   20,5  
+OL,11,G  8.RaahLi, Raahe 6 1 1 4    3   21,5  
+OL,12,G  8.TuTS, Turku   6 1 0 5    2   19,5  
+OL,13,G  9.Gambiitti,Hki 6 1 0 5    2   17,0  
+OL,14,G  9.VSS, Vaasa    6 1 0 5    2   14,0  
+OL,15,G 12.HSK, Helsinki 6 1 0 5    2   13,5  
 OL,16,K                                       
 OL,17,K                                       
 OL,18,K                                       
@@ -213,7 +213,7 @@ PN,80908
 SC,0008
 PS,C100
 CT,15,T
-OL,0,       G809 YLE TEKSTI-TV 23.03.07:54:58
+OL,0,       G809 YLE TEKSTI-TV 23.03.17:56:23
 OL,1,D]  GSHAKKI - VIIKON PELI           8/8 
 OL,2,K                                       
 OL,3,BOsmo Kauppila-Matti Kauranen JSM 12.9. 

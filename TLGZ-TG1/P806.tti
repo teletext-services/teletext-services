@@ -4,28 +4,27 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     806Cpon 23 lis  09:12:31
-OL,1,C]            @T e n i s           09:01
+OL,0,      BTVP1     806Cpon 23 lis  19:13:38
+OL,1,C]            @T e n i s           19:01
 OL,2,C]    @Mecze wg godz. rozpocz`cia       
-OL,3, R.OnoF0:1CL.R.Jones             0:6E0:0
-OL,4,F0GSuzuki / Tobe                    C1E2
-OL,5,F1 CJones / Staeheli                 6E0
-OL,6, P.Dietrich - R.Tabata            B14:00
-OL,7,CT.Cigarran - B.Arias             B14:00
-OL,8, D.D.d.Silva - M.Zormann          B14:00
-OL,9,CJ.V.C.Loureiro - R.Tosetto       B14:00
-OL,10, M.A.Gurri - G.Villanueva         B14:00
-OL,11,CA.Chepelev - E.Ribeiro           B14:00
-OL,12, J.Estevez - F.Roncadelli         B14:00
-OL,13,CA.G.Meza - G.Olivieri            B14:00
-OL,14, N.Kicker - E.Moller              B14:00
-OL,15,CR.Nijboer - B.Fernandez          B14:00
-OL,16, J.Nikles - P.B.Dias              B14:00
-OL,17,CM.Pucinelli - C.M.Zarate         B14:00
-OL,18, L.Ratti - J.A.Cardozo            B14:00
-OL,19,CP.Sakamoto - G.Justo             B14:00
-OL,20, J.B.Torres - F.Meligeni          B14:00
-OL,21,CB.Bonardi - C.Monnet             B15:00
+OL,3, G.SchenekenbergF0:1CF.Ribero    6:7E4:4
+OL,4, E.C.PredigF0:1CJ.Pereira        4:6E1:2
+OL,5,CV.LepchenkoF1:0GA.Rencheli     C6:3E0:1
+OL,6, F.ZeballosF0:1CW.Leite          2:6E1:5
+OL,7, N.ZanellatoF0:0GN.Rodrigues        E1:0
+OL,8, T.Cigarran - J.V.C.Loureiro      B19:05
+OL,9,CE.C.Lima - S.L.Fuente            B19:30
+OL,10, D.Papamichail - J.Riera          B20:00
+OL,11,CN.Barrientos - R.Tabata          B21:00
+OL,12, A.Ayeni - A.Bolt                 B00:30
+OL,13,CDelaney / Delaney                B00:30
+OL,14, CBouzige / Zhu                         
+OL,15, Bayldon / Fancutt                B00:30
+OL,16,  Bolt / Kubler                         
+OL,17,CHoeyeraal / Padgham              B00:30
+OL,18, CPuttergill / Sweeny                   
+OL,19, Cook / Sach                      B00:30
+OL,20,  Becroft / Shepp                       
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C803      F804   
@@ -35,23 +34,74 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     806Cpon 23 lis  09:12:31
-OL,1,C]            @T e n i s           09:01
+OL,0,      BTVP1     806Cpon 23 lis  19:13:38
+OL,1,C]            @T e n i s           19:01
 OL,2,C]    @Mecze wg godz. rozpocz`cia       
-OL,3, M.Trevisan - A.Akli              B15:00
-OL,4,CG.Schenekenberg - F.Ribero       B15:30
-OL,5, C.H.D.Pino - B.Braga             B15:30
-OL,6,CE.C.Predig - J.Pereira           B15:30
-OL,7, J.B.Cosano - J.C.Cunha           B15:30
-OL,8,CJ.Estevez - A.Geerlings          B16:10
-OL,9, P.Hercog - I.Oz                  B16:10
-OL,10,CO.J.Gutierrez - C.E.Lino         B17:00
-OL,11, F.Zeballos - W.Leite             B17:00
-OL,12,CE.C.Lima - S.L.Fuente            B17:00
-OL,13, N.Zanellato - N.Rodrigues        B17:00
-OL,14,CN.Brancaccio - A.Zolotareva      B17:20
-OL,15, V.Lepchenko - A.Rencheli         B17:20
-OL,16,CD.Papamichail - J.Riera          B20:00
+OL,3,CJovanovski / Stevens             B00:30
+OL,4, CJung / Rai                            
+OL,5, Hazawa / Sueoka                  B00:30
+OL,6,  Ellis / Tu                            
+OL,7,CJ.Delaney - M.Dellavedova        B00:30
+OL,8, D.Pham - C.Dong                  B00:30
+OL,9,CS.Vujic - T.Schoolkate           B01:40
+OL,10, Cu / Ho                          B02:00
+OL,11,  Isomura / Shiraishi                   
+OL,12,CChandraseka / Loof               B02:00
+OL,13, CHsu / Leong                           
+OL,14, Bittoun / Poljak                 B02:00
+OL,15,  Imamura / Matsuda                     
+OL,16,CLai / Sakellaridis               B02:00
+OL,17, CBass / Duncan                         
+OL,18, Ichikawa / Shimizu               B02:00
+OL,19,  Jecan / Kielan                        
+OL,20,CDev / Sinha                      B02:00
+OL,21, CChun / Hsieh                          
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80603
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP1     806Cpon 23 lis  19:13:38
+OL,1,C]            @T e n i s           19:01
+OL,2,C]    @Mecze wg godz. rozpocz`cia       
+OL,3, N.Honda - S.D.P.Dev              B02:00
+OL,4,CK.Isomura - H.Shiraishi          B02:00
+OL,5, T.Kumasaka - D.J.Sanchis         B02:00
+OL,6,CT.Sach - C.Langmo                B02:00
+OL,7, Falck / Suarez                   B02:00
+OL,8,  Santillan / Zheng                     
+OL,9,CH.Satara - J.Kubler              B02:50
+OL,10, Z.Stevens - H.Jones              B02:50
+OL,11,CC.Yunseong - F.Bass              B03:10
+OL,12, K.Matsuda - H.Matsuoka           B03:30
+OL,13,CY.Watanuki - K.Uchida            B03:30
+OL,14, E.Winter - L.Tu                  B03:30
+OL,15,CO.Jasika - E.Zhu                 B04:00
+OL,16, C.B.Kouzmine - Y.Takahashi       B04:20
+OL,17,CY.Shimizu - T.Ichikawa           B04:20
+OL,18, C.Jie - B.Hassan                 B05:00
+OL,19,CI.Becroft - C.E.Overbeck         B05:00
+OL,20, D.Sweeny - J.Delaney             B05:00
+OL,21,CN.McDonald - L.Staeheli          B06:30
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80604
+SC,0004
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP1     806Cpon 23 lis  19:13:38
+OL,1,C]            @T e n i s           19:01
+OL,2,C]    @Mecze wg godz. rozpocz`cia       
+OL,3, R.Noguchi - M.Jones              B06:30
+OL,4,CJones / Sanada                   B06:30
+OL,5, CMasabayash / M.K                      
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C803      F804   

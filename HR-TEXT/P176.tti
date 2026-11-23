@@ -3,25 +3,25 @@ PN,17601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F02:30:24
+OL,0,           Fhr-textGMo 23.11.26F12:30:22
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWinddaten        B]   @Mo 23.11.26   
 OL,3,W#######################################
-OL,4,             CUhrzeit:    02   01   00  
-OL,5, Bebra................   0/S 0/SO 1/SO  
-OL,6,FDarmstadt............    ws  1/O  1/O  
-OL,7, Frankfurt Ost........   2/N 1/NO  1/N  
-OL,8,FFrankfurt-Schwanheim.  0/SW   ws   ws  
-OL,9, Fulda Zentral........  1/NW 1/NW 1/NW  
-OL,10,FF}rth/Odenwald.......   1/O  1/O  1/O  
-OL,11, Kassel Mitte.........   1/N  1/N 1/NO  
-OL,12,FKellerwald...........  1/SO  1/S 1/SW  
-OL,13, Kleiner Feldberg.....   4/N  3/N 3/NO  
-OL,14,FLimburg..............  1/NW 1/SW 1/SW  
-OL,15, Linden...............   2/W 1/NW 1/NW  
-OL,16,FMarburg..............    ws   ws   ws  
-OL,17, Michelstadt..........    ws   ws   ws  
-OL,18,FRaunheim.............  0/SO  1/S  0/N  
+OL,4,             CUhrzeit:    12   11   10  
+OL,5, Bebra................  2/NW 1/NW 1/SW  
+OL,6,FDarmstadt............   1/O  1/O  1/O  
+OL,7, Frankfurt Ost........  1/NO 1/NO 0/NO  
+OL,8,FFrankfurt-Schwanheim.  1/NO   ws   ws  
+OL,9, Fulda Zentral........  1/NW  1/W 1/SW  
+OL,10,FF}rth/Odenwald.......  1/NO 1/NO 1/NO  
+OL,11, Kassel Mitte.........   1/N 1/SO 1/NO  
+OL,12,FKellerwald...........  1/SW 2/SW 3/SW  
+OL,13, Kleiner Feldberg.....   2/N  2/N 2/NO  
+OL,14,FLimburg..............  1/SW 1/SO 1/NW  
+OL,15, Linden...............   2/W  2/W  1/W  
+OL,16,FMarburg..............   0/S   ws   ws  
+OL,17, Michelstadt..........   1/N  1/N  1/N  
+OL,18,FRaunheim.............  1/NO  1/N   ws  
 OL,21,FMeter/Sekunde aus Richtung             
 OL,22, dr=drehend, ws=windstill               
 OL,23,G]DQuelle: HLNUG                     -> 
@@ -31,19 +31,19 @@ PN,17602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F02:30:24
+OL,0,           Fhr-textGMo 23.11.26F12:30:22
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWinddaten        B]   @Mo 23.11.26   
 OL,3,W#######################################
-OL,4,             CUhrzeit:    02   01   00  
-OL,5, Riedstadt............  1/NW 1/NW  2/N  
-OL,6,FRimberg..............   2/N  3/N  3/N  
-OL,7, Spessart.............   2/N  3/N  2/N  
-OL,8,FWasserkuppe..........   7/N  6/N  6/N  
-OL,9, Wetzlar..............   1/W  1/W  1/W  
-OL,10,FWiesbaden S}d........   1/W  0/W 1/NW  
-OL,11, Witzenhausen/Wald....   3/N  3/N  3/N  
-OL,12,FZierenberg...........  1/NW  1/W  1/W  
+OL,4,             CUhrzeit:    12   11   10  
+OL,5, Riedstadt............   3/N  2/N 2/NW  
+OL,6,FRimberg..............   1/W 1/NW 1/NW  
+OL,7, Spessart.............   2/N  2/N  1/N  
+OL,8,FWasserkuppe..........  5/NW 4/NW 3/NW  
+OL,9, Wetzlar..............   2/W 1/SW  2/W  
+OL,10,FWiesbaden S}d........  1/NO 1/NW 1/SO  
+OL,11, Witzenhausen/Wald....   3/W  2/W  2/W  
+OL,12,FZierenberg...........  1/NW 1/NW  1/W  
 OL,21,FMeter/Sekunde aus Richtung             
 OL,22, dr=drehend, ws=windstill               
 OL,23,G]DQuelle: HLNUG                     -> 

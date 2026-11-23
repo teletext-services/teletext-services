@@ -3,22 +3,26 @@ PN,32800
 SC,0000
 PS,8208
 CT,15,T
-OL,0,     G328 WDR Text GMo 23.11.26 09:35:14
+OL,0,     G328 WDR Text GMo 23.11.26 19:36:34
 OL,1,]D]        G]               @]CFERNSEHEN
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     morgen                    
 OL,4,          CDienstag, 24.11.26           
-OL,5,B18.15 ServicezeitCHD, UT               
-OL,6,       Servicetel. 0221 56789 999 -     
-OL,7,       www.servicezeit.de               
-OL,8,B18.45 Aktuelle StundeCHD, UT           
-OL,9,       Zuschauertel. 0800 / 5678-100    
-OL,10,B19.30 LokalzeitCHD                     
-OL,12,B20.00 TagesschauCHD, UT                
-OL,14,B20.15 Tatort - Borowski und der        
-OL,15,      BWiederg{ngerCHD, UTB......... 343
-OL,16,       Fernsehfilm, Deutschland 2024    
-OL,17,B21.45 WDR aktuellCHD, UT               
+OL,5,B19.30 LokalzeitCHD                     
+OL,7,B20.00 TagesschauCHD, UT                
+OL,9,B20.15 Tatort - Borowski und der        
+OL,10,      BWiederg{ngerCAD, HD, UTB..... 344
+OL,11,       Fernsehfilm, Deutschland 2024    
+OL,12,B21.45 WDR aktuellCHD, UT               
+OL,14,B22.15 Kommissar Van der ValkCAD, HDB345
+OL,15,       Freiheit in Amsterdam            
+OL,16,       Fernsehfilm, D/GB 2023           
+OL,17,B23.45 Kommissar Van der ValkCHD, UTB346
+OL,18,       Erl|sung in Amsterdam            
+OL,19,       Fernsehfilm, D/GB 2023           
+OL,20,B01.15 Watzmann ermitteltCAD, HD, UTB343
+OL,21,       23. Der letzte Ritt              
+OL,22,       Fernsehserie, D 2022             
 OL,23,]D300 < ]bersicht           weiter > 329
 OL,24,A]G- 327B]G+ 329  \                     
 FL,327,329,0,0,0,100

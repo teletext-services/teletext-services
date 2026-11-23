@@ -1,9 +1,9 @@
 DE,ARD-TEXT 581
-PN,58100
-SC,0000
-PS,8208
+PN,58101
+SC,0001
+PS,C200
 CT,15,T
-OL,0,      BARD-TEXT 581CMon 23 Nov  01:39:53
+OL,0,      BARD-TEXT 581CMon 23 Nov  11:39:59
 OL,1,SppppppppTpppppppppppppppppppppppppppppp
 OL,2,SD]GGewinnzahlen:FLotto Samstag 
 OL,3,S########T##############################
@@ -26,6 +26,36 @@ OL,19,G GG]D  Super 6: 8 3 4 6 2 8     D
 OL,20,G W#############################        
 OL,21,G                        - ohne Gew{hr -
 OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,23,F580G<                             >F582
+OL,23,F580G<             1/2          Quoten >
+OL,24,AStartseite   BSport    CWetter   FB|rse
+FL,100,200,171,710,0,100
+PN,58102
+SC,0002
+PS,C200
+CT,15,T
+OL,0,      BARD-TEXT 581CMon 23 Nov  11:39:59
+OL,1,SppppppppTpppppppppppppppppppppppppppppp
+OL,2,SD]GGewinnzahlen:FLotto Samstag 
+OL,3,S########T##############################
+OL,4,F47. Woche / 21.11.26                   
+OL,5,G                                       
+OL,6,FGewinnquoten                           
+OL,7,G                                       
+OL,8,G6-er+Superzahl            unbesetzt    
+OL,9,G6-er                      unbesetzt    
+OL,10,G5-er+Superzahl    61x     13.214,20 EUR
+OL,11,G5-er             484x      4.964,20 EUR
+OL,12,G4-er+Superz.   2.436x        273,60 EUR
+OL,13,G4-er          28.874x         54,70 EUR
+OL,14,G3-er+Superz.  49.434x         27,20 EUR
+OL,15,G3-er         542.567x         11,70 EUR
+OL,16,G2-er+S.      373.227x          6,00 EUR
+OL,17,G                                       
+OL,18,FJackpot Klasse 1: 15.000.000,00  EUR   
+OL,19,FJackpot Spiel 77:  1.000.000,00  EUR   
+OL,20,G                                       
+OL,21,G                        - ohne Gew{hr -
+OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,23,F580G<             2/2             >F582
 OL,24,AStartseite   BSport    CWetter   FB|rse
 FL,100,200,171,710,0,100

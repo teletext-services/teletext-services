@@ -1,31 +1,61 @@
 DE,DR-TEKST-TV 601
-PN,60100
-SC,0000
-PS,8108
+PN,60101
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       GDR   S601  son 22 nov   20:10:22
+OL,0,       GDR   S601  man 23 nov   12:10:52
 OL,1,T################]GSENDER P] FM   
-OL,2,D]GP1  \SONDAG 22.NOV D]GKL.06-18 SEC638
+OL,2,D]GP1  \MANDAG 23.NOV D]GKL.06-18 SEC638
 OL,3,T#######################################
-OL,4,C614F20:03GUbegribeligtA>               
-OL,5,    F     GKunstig intelligens - part II
-OL,6,C620F21:03GDamerne forst: Shitstorm,    
-OL,7,    F     Ger dit navn kvinde?A>        
-OL,8,C610F22:03GNorsken,svensken og danskenA>
-OL,9,    F     GSatans vark                  
+OL,4,    F12:00GRadioavisenA>                
+OL,5,C612F12:15GP1 DebatA>                   
+OL,6,    F     GBefolkningsudskiftning       
+OL,7,    F     Gog torkladeforbud?           
+OL,8,    F     G                             
+OL,9,C613F13:30GGenstartA>                   
+OL,10,    F     GAlene ved fronten uden fodder
+OL,11,C614F14:03GK-LiveA>                     
+OL,12,C615F15:03GK-LiveA>                     
+OL,13,C616F16:05GP1 OrienteringA>             
+OL,14,    F     G                             
+OL,15,C612F18:05GP1 DebatA> >                 
+OL,16,    F     GBefolkningsudskiftning       
+OL,17,    F     Gog torkladeforbud?           
+OL,18,    F     G                             
+OL,19,    F18:50GP1 anbefalerA>               
+OL,20,C612F19:03GP1 Debat FortsatA>           
+OL,21,    F     GBefolkningsudskiftning       
+OL,22,    F     Gog torkladeforbud?           
+OL,23, ]A600@RADIO     P5A639@NETRADIO    1/2 
+OL,24,  ANyheder    BSport    CTV    FVejret  
+FL,110,200,300,400,0,100
+PN,60102
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       GDR   S601  man 23 nov   12:10:23
+OL,1,T################]GSENDER P] FM   
+OL,2,D]GP1  \MANDAG 23.NOV D]GKL.06-18 SEC638
+OL,3,T#######################################
+OL,4,C613F19:30GGenstartA>                   
+OL,5,    F     GAlene ved fronten uden fodder
+OL,6,    F     G                             
+OL,7,C610F20:03GVildt NaturligtA>            
+OL,8,    F     GVildt Naturligt: Dansk natur 
+OL,9,    F     G- for, nu og fremover?       
 OL,10,    F     G                             
-OL,11,C609F23:03GSupertankerA>                
-OL,12,    F     GN}r solskin kaster skygger   
-OL,13,C621F00:03GVerden ifolge GramA>         
-OL,14,    F     GYalta 2.0 - splitter USA og  
-OL,15,    F     GRusland igen Europa?         
+OL,11,C611F21:03GSupertanker: Havet, hvor     
+OL,12,    F     Ghorisonten }bner sigA>       
+OL,13,    F     G                             
+OL,14,C616F22:03GP1 OrienteringA>             
+OL,15,C609F00:03GSorte talA>                  
 OL,16,    F     G                             
-OL,17,C622F01:03GSkonlitteraturA>             
-OL,18,    F     GBiler, bygder og boys        
-OL,19,C623F02:03GUgens gast:Anders LadekarlA> 
-OL,20,C617F03:03GUdsyn: No future 2.0A>       
-OL,21,C612F04:03GPilgrimA>                    
-OL,22,    F     GParadiset og dodens have     
-OL,23, ]A600@RADIO     P5A639@NETRADIO        
+OL,17,C614F01:03GK-LiveA>                     
+OL,18,C615F02:03GK-LiveA>                     
+OL,19,    F     G                             
+OL,20,C616F03:03GP1 OrienteringA>             
+OL,21,    F     G                             
+OL,22,    F     G                             
+OL,23, ]A600@RADIO     P5A639@NETRADIO    2/2 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100

@@ -3,20 +3,20 @@ PN,61301
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G613FORF1   GMo 23.11.26 04:17:13
+OL,0,       G613FORF1   GMo 23.11.26 14:17:33
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    1/4  
 OL,4, Vorhersage f}r den 23.11.2026,         
-OL,5, vom 22.11.2026, 1700 Uhr lct           
+OL,5, vom 23.11.2026, 0500 Uhr lct           
 OL,7,FWetterlage:                            
-OL,8, H|hentrogpassage von Nordwesten her.   
+OL,8, Kalte Nordweststr|mung.                
 OL,10,FWind freie Atmosph{re 1300 Uhr lct:    
-OL,11,  5000ft amsl 280-360/15-30kt           
-OL,12, 10000ft amsl 320-340/30-45kt           
-OL,13, 15000ft amsl 300-340/35-50kt           
+OL,11,  5000ft amsl 270-310/20-35kt           
+OL,12, 10000ft amsl 300-330/35-50kt           
+OL,13, 15000ft amsl 310-340/50-65kt           
 OL,15,FNullgradgrenze:                        
-OL,16, 1000-2500ft amsl.                      
+OL,16, Boden bis 2000ft amsl.                 
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -24,12 +24,12 @@ PN,61302
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G613FORF1   GMo 23.11.26 04:17:13
+OL,0,       G613FORF1   GMo 23.11.26 14:17:34
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    2/4  
 OL,4, Vorhersage f}r den 23.11.2026,         
-OL,5, vom 22.11.2026, 1700 Uhr lct           
+OL,5, vom 23.11.2026, 0500 Uhr lct           
 OL,7,FInformationen Instrumentenflug:        
 OL,8, Im {u~ersten Westen Vereisungsgefahr.  
 OL,10,FInformationen Sichtflug:               
@@ -39,9 +39,9 @@ OL,13, lokalen Niederschl{gen, die im
 OL,14, {u~ersten Westen intensiver ausfallen, 
 OL,15, Schneefallgrenze in Vbg. nahe 2000ft   
 OL,16, amsl, sonst in Bodenn{he. Beg}nstigt   
-OL,17, mit meist nur hohen Wolkenfeldern sind 
-OL,18, Osttirol bis S}d-Burgenland. ]ber dem  
-OL,19, Lungau, der Mur-/M}rzfurche sowie      
+OL,17, mit meist nur hohen Wolkenfeldern von  
+OL,18, Osttirol bis ins S}dburgenland. ]ber   
+OL,19, dem Lungau, der Mur-/M}rzfurche sowie  
 OL,20, n|rdlich der Donau und im Wiener Becken
 OL,21, anfangs flache SC-Felder, die meist    
 OL,22, vormittags bis mittags auflockern.     
@@ -52,20 +52,20 @@ PN,61303
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G613FORF1   GMo 23.11.26 04:17:14
+OL,0,       G613FORF1   GMo 23.11.26 14:17:34
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    3/4  
 OL,4, Vorhersage f}r den 23.11.2026,         
-OL,5, vom 22.11.2026, 1700 Uhr lct           
+OL,5, vom 23.11.2026, 0500 Uhr lct           
 OL,7,FInformationen Thermik/Wellen:          
 OL,8, Keine Zusatzinformationen.             
 OL,10,FInformationen Ballonfahrten:           
 OL,11, Im N und E durchgreifender nordwest-   
 OL,12, licher H|henwind, der ab Mittag auch im
-OL,13, SE durchschl{gt.                       
+OL,13, SE durchgreift.                        
 OL,15,FVorschau f}r Dienstag, den 24.11.:     
-OL,16, Nord|stlich der Linie Salzburg-        
+OL,16, Nord|stlich einer Linie Salzburg-      
 OL,17, Klagenfurt verbreitet gering bew|lkt   
 OL,18, oder wolkenlos. Weiter westlich        
 OL,19, hingegen h{ufig tiefliegender          
@@ -78,7 +78,7 @@ PN,61304
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G613FORF1   GMo 23.11.26 04:17:14
+OL,0,       G613FORF1   GMo 23.11.26 14:17:34
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    4/4  
@@ -90,12 +90,10 @@ OL,9, sich vor}bergehend S}df|hn durch.
 OL,11,FVorschau f}r Donnerstag, den 26.11.:   
 OL,12, Geschlossene Wolkendecke }ber          
 OL,13, \sterreich mit sehr tiefen Untergrenzen
-OL,14, und Schneefall, im Westen stellenweise 
-OL,15, in tiefen Lagen auch teils gefrierender
-OL,16, Regen. Es besteht verbreitet erhebliche
-OL,17, Vereisungsgefahr.                      
-OL,19,FHinweis zur Prognosesicherheit:        
-OL,20, Ziemlich abgesichert.                  
+OL,14, und Schneefall. Es besteht verbreitet  
+OL,15, erhebliche Vereisungsgefahr.           
+OL,17,FHinweis zur Prognosesicherheit:        
+OL,18, Ziemlich abgesichert.                  
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

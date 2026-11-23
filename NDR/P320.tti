@@ -1,28 +1,47 @@
 DE,NDR 320
-PN,32000
-SC,0000
-PS,8208
+PN,32001
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G320FNDR TEXT GMo 23.11.B03:31:30
+OL,0,       G320FNDR TEXT GMo 23.11.B13:31:26
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD    NDR FERNSEHEN            
 OL,4,F]T  %                                  
-OL,5, Sonntag    22.11.26   19:30 - 20:00 Uhr
-OL,6, Montag     23.11.26   09:30 - 10:00 Uhr
-OL,7, HAMBURG JOURNAL                        
-OL,9,F- Bauarbeiten Berliner Tor             
-OL,10, - FC St. Pauli nach Spiel gegen Bochum 
-OL,11,F- Immer weniger klassische             
-OL,12,F  Sozialwohnungen                      
-OL,13, - Hamburg damals: 55 Jahre             
-OL,14,   Radikalenerlass                      
-OL,15,F- Michael Schulte in der Laeiszhalle   
-OL,16, - Igelstation in Bergedorf             
-OL,18,FModeration: Merlin van Rissenbeck      
-OL,19,FNachrichten: Carl-Georg Salzwedel      
-OL,21, Mehr Nachrichten aus Hamburg ab Seite  
-OL,22, 170 und im Internet: www.ndr.de/hh     
-OL,23,F]D300<       TV-PROGRAMM HEUTE >301-305
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,5, Montag     23.11.26   19:30 - 20:00 Uhr
+OL,6, Dienstag   24.11.26   04:15 - 04:45 Uhr
+OL,7, Dienstag   24.11.26   09:30 - 10:00 Uhr
+OL,8, HAMBURG JOURNAL                        
+OL,10,F- Roncalli Weihnachtsmarkt er|ffnet    
+OL,11, - Was d}rfen private Drohnenpiloten    
+OL,12,   und was nicht                        
+OL,13,F- Nach dem 0:4 gegen Werder Bremen     
+OL,14, - Spatenstich f}r den Ersatzneubau der 
+OL,15,   Norderelbbr}cke                      
+OL,16,F- Das neue Beachvolleyball Team:       
+OL,17,F  Ehlers/W}st                          
+OL,18, - Tatort gucken und stricken im        
+OL,19,   Pier Drei                            
+OL,21,FModeration: Jens Riewa                 
+OL,22,FNachrichten: Merlin van Rissenbeck     
+OL,23,F]D300<    TV-PROGRAMM HEUTE >301-305 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,32002
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G320FNDR TEXT GMo 23.11.B13:31:26
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    NDR FERNSEHEN            
+OL,4,F]T  %                                  
+OL,5, Montag     23.11.26   19:30 - 20:00 Uhr
+OL,6, Dienstag   24.11.26   04:15 - 04:45 Uhr
+OL,7, Dienstag   24.11.26   09:30 - 10:00 Uhr
+OL,8, HAMBURG JOURNAL                        
+OL,11, Mehr Nachrichten aus Hamburg ab Seite  
+OL,12, 170 und im Internet: www.ndr.de/hh     
+OL,23,F]D300<    TV-PROGRAMM HEUTE >301-305 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

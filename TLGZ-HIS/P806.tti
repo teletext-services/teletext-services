@@ -4,28 +4,28 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 806Cpon 23 lis  08:07:50
-OL,1,C]            @T e n i s           08:01
+OL,0,      BHISTORIA 806Cpon 23 lis  18:09:17
+OL,1,C]            @T e n i s           18:01
 OL,2,C]    @Mecze wg godz. rozpocz`cia       
-OL,3, K.SamrejF1:1GD.SakellaridisC4:6 6:3E2:1
-OL,4, Suzuki / Tobe                    B08:00
-OL,5,  Jones / Staeheli                      
-OL,6,CR.Ono - L.R.Jones                B08:15
-OL,7, P.Dietrich - R.Tabata            B14:00
-OL,8,CT.Cigarran - B.Arias             B14:00
-OL,9, D.D.d.Silva - M.Zormann          B14:00
-OL,10,CJ.V.C.Loureiro - R.Tosetto       B14:00
-OL,11, M.A.Gurri - G.Villanueva         B14:00
-OL,12,CA.Chepelev - E.Ribeiro           B14:00
-OL,13, J.Estevez - F.Roncadelli         B14:00
-OL,14,CA.G.Meza - G.Olivieri            B14:00
-OL,15, N.Kicker - E.Moller              B14:00
-OL,16,CR.Nijboer - B.Fernandez          B14:00
-OL,17, J.Nikles - P.B.Dias              B14:00
-OL,18,CM.Pucinelli - C.M.Zarate         B14:00
-OL,19, L.Ratti - J.A.Cardozo            B14:00
-OL,20,CP.Sakamoto - G.Justo             B14:00
-OL,21, J.B.Torres - F.Meligeni          B14:00
+OL,3, G.SchenekenbergF0:0GF.Ribero       E6:6
+OL,4,CC.H.D.PinoF1:0GB.Braga         C6:2E1:2
+OL,5, N.BrancaccioF0:0GA.Zolotareva      E4:0
+OL,6, E.C.PredigF0:0GJ.Pereira           E2:1
+OL,7, V.Lepchenko - A.Rencheli         B18:00
+OL,8,CF.Zeballos - W.Leite             B18:00
+OL,9, E.C.Lima - S.L.Fuente            B18:20
+OL,10,CD.Papamichail - J.Riera          B20:00
+OL,11, A.Ayeni - A.Bolt                 B00:30
+OL,12,CDelaney / Delaney                B00:30
+OL,13, CBouzige / Zhu                         
+OL,14, Bayldon / Fancutt                B00:30
+OL,15,  Bolt / Kubler                         
+OL,16,CHoeyeraal / Padgham              B00:30
+OL,17, CPuttergill / Sweeny                   
+OL,18, Cook / Sach                      B00:30
+OL,19,  Becroft / Shepp                       
+OL,20,CJovanovski / Stevens             B00:30
+OL,21, CJung / Rai                            
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C803      F804   
@@ -35,24 +35,56 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 806Cpon 23 lis  08:07:50
-OL,1,C]            @T e n i s           08:01
+OL,0,      BHISTORIA 806Cpon 23 lis  18:09:17
+OL,1,C]            @T e n i s           18:01
 OL,2,C]    @Mecze wg godz. rozpocz`cia       
-OL,3,CB.Bonardi - C.Monnet             B15:00
-OL,4, M.Trevisan - A.Akli              B15:00
-OL,5,CG.Schenekenberg - F.Ribero       B15:30
-OL,6, C.H.D.Pino - B.Braga             B15:30
-OL,7,CE.C.Predig - J.Pereira           B15:30
-OL,8, J.B.Cosano - J.C.Cunha           B15:30
-OL,9,CJ.Estevez - A.Geerlings          B16:10
-OL,10, P.Hercog - I.Oz                  B16:10
-OL,11,CO.J.Gutierrez - C.E.Lino         B17:00
-OL,12, F.Zeballos - W.Leite             B17:00
-OL,13,CE.C.Lima - S.L.Fuente            B17:00
-OL,14, N.Zanellato - N.Rodrigues        B17:00
-OL,15,CN.Brancaccio - A.Zolotareva      B17:20
-OL,16, V.Lepchenko - A.Rencheli         B17:20
-OL,17,CD.Papamichail - J.Riera          B20:00
+OL,3, Hazawa / Sueoka                  B00:30
+OL,4,  Ellis / Tu                            
+OL,5,CJ.Delaney - M.Dellavedova        B00:30
+OL,6, D.Pham - C.Dong                  B00:30
+OL,7,CS.Vujic - T.Schoolkate           B01:40
+OL,8, Cu / Ho                          B02:00
+OL,9,  Isomura / Shiraishi                   
+OL,10,CChandraseka / Loof               B02:00
+OL,11, CHsu / Leong                           
+OL,12, Bittoun / Poljak                 B02:00
+OL,13,  Imamura / Matsuda                     
+OL,14,CLai / Sakellaridis               B02:00
+OL,15, CBass / Duncan                         
+OL,16, Ichikawa / Shimizu               B02:00
+OL,17,  Jecan / Kielan                        
+OL,18,CDev / Sinha                      B02:00
+OL,19, CChun / Hsieh                          
+OL,20, N.Honda - S.D.P.Dev              B02:00
+OL,21,CK.Isomura - H.Shiraishi          B02:00
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80603
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BHISTORIA 806Cpon 23 lis  18:09:17
+OL,1,C]            @T e n i s           18:01
+OL,2,C]    @Mecze wg godz. rozpocz`cia       
+OL,3, T.Kumasaka - D.J.Sanchis         B02:00
+OL,4,CT.Sach - C.Langmo                B02:00
+OL,5, Falck / Suarez                   B02:00
+OL,6,  Santillan / Zheng                     
+OL,7,CH.Satara - J.Kubler              B02:50
+OL,8, Z.Stevens - H.Jones              B02:50
+OL,9,CC.Yunseong - F.Bass              B03:10
+OL,10, K.Matsuda - H.Matsuoka           B03:30
+OL,11,CY.Watanuki - K.Uchida            B03:30
+OL,12, E.Winter - L.Tu                  B03:30
+OL,13,CO.Jasika - E.Zhu                 B04:00
+OL,14, C.B.Kouzmine - Y.Takahashi       B04:20
+OL,15,CY.Shimizu - T.Ichikawa           B04:20
+OL,16, C.Jie - B.Hassan                 B05:00
+OL,17,CI.Becroft - C.E.Overbeck         B05:00
+OL,18, D.Sweeny - J.Delaney             B05:00
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C803      F804   

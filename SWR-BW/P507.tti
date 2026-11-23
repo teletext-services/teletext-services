@@ -1,19 +1,42 @@
 DE,SWR-BW 507
-PN,50700
-SC,0000
-PS,8208
+PN,50701
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G06:51:53
+OL,0,       BSWR BW C   Mo, 23.11.26G16:51:42
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
 OL,4,               Autobahn A5              
 OL,6,CA5FKarlsruhe Richtung Basel            
-OL,7, zwischen Freiburg-S}d und Bad          
-OL,8, Krozingen Gefahr durch Gegenst{nde     
-OL,9, (Fahrzeugteile) auf der Fahrbahn,      
-OL,10, Gefahr durch 1 liegengebliebenes       
-OL,11, Fahrzeug auf dem Standstreifen         
-OL,23,D]GStand:23.11. 06:48   ]bersicht 501 >>
+OL,7, zwischen Dreieck Weil am Rhein und     
+OL,8, Grenz}bergang Weil am Rhein/Basel 1 km 
+OL,9, Stau f}r LKW auf dem rechten           
+OL,10, Fahrstreifen                           
+OL,12,CA5FKarlsruhe Richtung Basel            
+OL,13, zwischen Freiburg-Mitte und            
+OL,14, Freiburg-S}d 6 km Stau, Zeitverlust    
+OL,15, von bis zu 30 Minuten                  
+OL,23,D]GStand:23.11. 16:48   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50702
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR BW C   Mo, 23.11.26G16:51:42
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,               Autobahn A5              
+OL,6,CA5FHeidelberg Richtung Karlsruhe       
+OL,7, zwischen Heidelberg/Schwetzingen und   
+OL,8, Walldorf/Wiesloch Unfallaufnahme auf   
+OL,9, dem Verz|gerungsstreifen, rechter      
+OL,10, Fahrstreifen gesperrt, Verkehr wird auf
+OL,11, dem linken Fahrstreifen an der         
+OL,12, Unfallstelle vorbeigef}hrt, 8 km Stau, 
+OL,13, Zeitverlust von bis zu 50 Minuten      
+OL,23,D]GStand:23.11. 16:48   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

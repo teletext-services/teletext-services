@@ -3,29 +3,29 @@ PN,73300
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       G733FNDR TEXT GMo 23.11.B03:41:12
+OL,0,       G733FNDR TEXT GMo 23.11.B13:41:15
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN BREMEN            
-OL,4,F]T  %D     Ankunft      Stand 03:40    
+OL,4,F]T  %D     Ankunft      Stand 13:00    
 OL,5,BFLUG    VON           PLAN ERW. TER/BEM
-OL,6, EW 2030 STUTTGART     0755             
-OL,7,FFR 3675 LONDON-STN    0850             
-OL,8, OS 287  WIEN          0900             
-OL,9,FVL 2108 MUENCHEN      0900             
-OL,10, LX 850  ZUERICH       0920             
-OL,11,FFR 9929 MALAGA        0925             
-OL,12, KL 1761 AMSTERDAM     1020             
-OL,13,FLH 2110 MUENCHEN      1230             
-OL,14, BGA 145 HAWARDEN      1335             
-OL,15,FBGA 245 HAWARDEN      1530             
-OL,16, FR 3634 LONDON-STN    1630             
-OL,17,FLH 2112 MUENCHEN      1705             
-OL,18, TK 1333 ISTANBUL      1710             
-OL,19,FKL 1765 AMSTERDAM     1750             
-OL,20, FR 3783 MALLORCA      1815             
-OL,21,FSR 3289 FUERTEVENTUR  1930             
-OL,22, KL 1767 AMSTERDAM     2200             
+OL,6, LH 2110 MUENCHEN      1230 1223 Gelan  
+OL,7,FBGA 145 HAWARDEN      1335 1333        
+OL,8, BGA 245 HAWARDEN      1530             
+OL,9,FFR 3634 LONDON-STN    1630             
+OL,10, LH 2112 MUENCHEN      1705             
+OL,11,FTK 1333 ISTANBUL      1710             
+OL,12, KL 1765 AMSTERDAM     1750             
+OL,13,FFR 3783 MALLORCA      1815             
+OL,14, SR 3289 FUERTEVENTUR  1930             
+OL,15,FKL 1767 AMSTERDAM     2200             
+OL,16, LH 2118 MUENCHEN      2300             
+OL,17,C        -- Am 24.11.2026 --            
+OL,18, EW 2030 STUTTGART     0815             
+OL,19,FLH 2108 MUENCHEN      0900             
+OL,20, TK 1331 ISTANBUL      0950             
+OL,21,FKL 1761 AMSTERDAM     1020             
+OL,22, LH 2110 MUENCHEN      1230             
 OL,23,A]G700<                      WEITER >734
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

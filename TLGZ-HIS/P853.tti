@@ -4,26 +4,26 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 853Cpon 23 lis  08:08:28
+OL,0,      BHISTORIA 853Cpon 23 lis  18:09:54
 OL,1,C]      MDM U L T I   M U L T I         
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
-OL,4,C]DData losowania:@22.11.2026 r.        
+OL,4,C]DData losowania:@23.11.2026 r.        
 OL,5,S
 OL,6,C]DGodzina:@14:00                       
 OL,7,S
 OL,8,C]DWylosowane liczby:                   
-OL,9,C] A1D-@jeden        A35D-@trzy-pi`^    
-OL,10,C] A9D-@dziewi`^     A37D-@trzy-siedem  
-OL,11,C]A10D-@jeden-zero   A43D-@cztery-trzy  
-OL,12,C]A13D-@jeden-trzy   A47D-@cztery-siedem
-OL,13,C]A14D-@jeden-cztery A60D-@sze|^-zero   
-OL,14,C]A15D-@jeden-pi`^   A62D-@sze|^-dwa    
-OL,15,C]A16D-@jeden-sze|^  A67D-@sze|^-siedem 
-OL,16,C]A22D-@dwa-dwa      A69D-@sze|^-dziewi`
-OL,17,C]A26D-@dwa-sze|^    A75D-@siedem-pi`^  
-OL,18,C]A27D-@dwa-siedem   A80D-@osiem-zero   
+OL,9,C] A5D-@pi`^         A35D-@trzy-pi`^    
+OL,10,C]A15D-@jeden-pi`^   A38D-@trzy-osiem   
+OL,11,C]A16D-@jeden-sze|^  A41D-@cztery-jeden 
+OL,12,C]A17D-@jeden-siedem A52D-@pi`^-dwa     
+OL,13,C]A20D-@dwa-zero     A55D-@pi`^-pi`^    
+OL,14,C]A24D-@dwa-cztery   A60D-@sze|^-zero   
+OL,15,C]A26D-@dwa-sze|^    A62D-@sze|^-dwa    
+OL,16,C]A27D-@dwa-siedem   A68D-@sze|^-osiem  
+OL,17,C]A31D-@trzy-jeden   A71D-@siedem-jeden 
+OL,18,C]A34D-@trzy-cztery  A77D-@siedem-siedem
 OL,19,S
-OL,20,C]             DPlus A43D-@cztery-trzy  
+OL,20,C]             DPlus A27D-@dwa-siedem   
 OL,21,S///////////////////////////////////////
 OL,22,Q
 OL,23,Q
@@ -33,7 +33,7 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 853Cpon 23 lis  08:08:28
+OL,0,      BHISTORIA 853Cpon 23 lis  18:09:54
 OL,1,C]      MDM U L T I   M U L T I         
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
 OL,4,C]DData losowania:@22.11.2026 r.        

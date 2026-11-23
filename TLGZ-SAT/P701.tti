@@ -4,7 +4,84 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  701Cpon 23 lis  08:44:59
+OL,0,      BPOLONIA  701Cpon 23 lis  18:46:27
+OL,1,BTABELA KURSOW NR 227/A/NBP/2026 z dnia 
+OL,2,B23.11.2026GBie{@ce kursy |rednie walut 
+OL,3, obcych w z}otych okre|lonych w S 2 pkt 
+OL,4, 1 i 2 uchwa}y Nr 51/2002 Zarz@du Naro- 
+OL,5, dowego Banku Polskiego z dnia 23 wrze|-
+OL,6, nia 2002 r. w sprawie sposobu wylicza- 
+OL,7, nia i og}aszania bie{@cych kurs_w walut
+OL,8, obcych (Dz. Urz. NBP Nr 14, poz. 39 i  
+OL,9, Nr 20, poz. 51, z 2004 r. Nr 2, poz. 3 
+OL,10, oraz z 2007 r. Nr 1, poz. 2):          
+OL,11,R,,,,,,,,,,,,,,,,,,,,<,,,,,,,,,<,,,,,,,,
+OL,12,BNAZWA WALUTY       R5  BKOD  R5 BKURS  
+OL,13,                    R5 BWALUTYR5B\REDNI 
+OL,14,R,,,,,,,,,,,,,,,,,,,,=,,,,,,,,,=,,,,,,,,
+OL,15, bat (Tajlandia)    R5  G1 THBR5A0,1193 
+OL,16,Bdolar ameryka$ski  R5  B1 USDR5A4,0601 
+OL,17, dolar australijski R5  G1 AUDR5A2,6980 
+OL,18,Bdolar Hongkongu    R5  B1 HKDR5A0,5178 
+OL,19, dolar kanadyjski   R5  G1 CADR5A2,8344 
+OL,20,Bdolar nowozelandzkiR%  B1 NZDR%A2,2214 
+FL,700,702,702,100,0,100
+PN,70102
+SC,0002
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BPOLONIA  701Cpon 23 lis  18:46:27
+OL,1,BTABELA NR 227/A/NBP/2026    23.11.2026 
+OL,2,R,,,,,,,,,,,,,,,,,,,<,,,,,,,,,,<,,,,,,,,
+OL,3,BNAZWA WALUTY      R5  BKOD   R5 BKURS  
+OL,4,                   R5 BWALUTY R5B\REDNI 
+OL,5,R,,,,,,,,,,,,,,,,,,,=,,,,,,,,,,=,,,,,,,,
+OL,6, dolar singapurski R5   G1 SGDR5A3,1483 
+OL,7,Beuro              R5   B1 EURR5A4,4556 
+OL,8, forint (W`gry)    R5 G100 HUFR5B1,1965 
+OL,9,Bfrank szwajcarski R5   B1 CHFR5B4,8383 
+OL,10, funt szterling    R5   G1 GBPR5B5,3246 
+OL,11,Bhrywna (Ukraina)  R5   B1 UAHR5A0,0900 
+OL,12, jen (Japonia)     R5 G100 JPYR5A2,5515 
+OL,13,Bkorona czeska     R5   B1 CZKR5F0,1822 
+OL,14, korona du$ska     R5   G1 DKKR5F0,5961 
+OL,15,Bkorona islandzka  R5 B100 ISKR5A3,2475 
+OL,16, korona norweska   R5   G1 NOKR5B0,4174 
+OL,17,Bkorona szwedzka   R5   B1 SEKR5A0,3973 
+OL,18, lej rumu$ski      R5   G1 RONR5B0,8329 
+OL,19,Blira turecka      R5   B1 TRYR5F0,0802 
+OL,20, nowy izraelski szekel   1 ILSR%A1,2168 
+FL,700,702,702,100,0,100
+PN,70103
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BPOLONIA  701Cpon 23 lis  18:46:27
+OL,1,BTABELA NR 227/A/NBP/2026    23.11.2026 
+OL,2,R,,,,,,,,,,,,,,,,,,,<,,,,,,,,,,<,,,,,,,,
+OL,3,BNAZWA WALUTY      R5  BKOD   R5 BKURS  
+OL,4,                   R5 BWALUTY R5B\REDNI 
+OL,5,R,,,,,,,,,,,,,,,,,,,=,,,,,,,,,,=,,,,,,,,
+OL,6, peso chilijskie   R5 G100 CLPR5A0,3970 
+OL,7,Bpeso filipi$skie  R5   B1 PHPR5F0,0636 
+OL,8, peso meksyka$skie R5   G1 MXNR5A0,2116 
+OL,9,Brand (Republika Po}ud   1 ZARR5F0,2324 
+OL,10, real (Brazylia)   R5   G1 BRLR5A0,6825 
+OL,11,Bringgit (Malezja) R5   B1 MYRR5A0,9846 
+OL,12, rupia indonezyjskaR5G10000IDRR5B2,2317 
+OL,13,Brupia indyjska    R5 B100 INRR5A4,3701 
+OL,14, SDR (MFW)         R5   G1 XDRR5A5,4442 
+OL,15,Bwon po}udniowokorea$s 100 KRWR5A0,3018 
+OL,16, yuan renminbi (Chiny)   1 CNYR5B0,6090 
+FL,700,702,702,100,0,100
+PN,70104
+SC,0004
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BPOLONIA  701Cpon 23 lis  18:46:27
 OL,1,BTABELA KURSOW NR 227/C/NBP/2026 z dnia 
 OL,2,B20.11.2026 obowi@zuj@ca od 23.11.2026  
 OL,3, Bie{@ce kursy kupna i sprzeda{y walut  
@@ -25,12 +102,12 @@ OL,17, dolar ameryka$ski  1 USD B4,0115 4,0925
 OL,18,Bdolar australijski 1 AUD  2,6754 2,7294
 OL,19, dolar kanadyjski   1 CAD B2,8010 2,8576
 FL,700,702,702,100,0,100
-PN,70102
-SC,0002
+PN,70105
+SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  701Cpon 23 lis  08:44:59
+OL,0,      BPOLONIA  701Cpon 23 lis  18:46:27
 OL,1,BTABELA KURSOW NR 227/C/NBP/2026 z dnia 
 OL,2,B20.11.2026 obowi@zuj@ca od 23.11.2026  
 OL,4,R,,,,,,,,,,,,,,,,,<,,,,,,l,,,,,,,,,,,,,,

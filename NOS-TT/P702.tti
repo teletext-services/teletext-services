@@ -3,25 +3,25 @@ PN,70201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  702Cmaa 23 nov  03:49:42
+OL,0,       BNOS-TT  702Cmaa 23 nov  13:49:26
 OL,1,D]CVERWACHTING TOT MORGENNACHT:   F 1/2 
 OL,2,D                         V  p<<,l<,lll|
 OL,3,C                       V 8w|~/##+'#+
-OL,4,F                 A  5 Vpv~?!      V*
-OL,5,F                 C  0Vj`?1  A  4  Rj
-OL,6,FVrij helder,in het   Vj+?og~%  C -3  Rj
-OL,7,Fzuiden kans op       Vj  h/o'       R
-OL,8,Fmist.Overdag veel    Vj   0z7  0    R|
-OL,9,Fzon,in het zuiden    Vj   k'#k    Rh
-OL,10,Flokaal hardnekkige   Vj   j  `>A  4R"#
-OL,11,Fmist.Later in het    V:  `fpp& C -3 Rx
-OL,12,Fnoorden een bui.    V8!A          R`x
+OL,4,F                 A  4 Vpv~?!      V*
+OL,5,F                 C -2Vj`?1  A  3  Rj
+OL,6,FOp veel plaatsen     Vj+?og~%  C -5  Rj
+OL,7,Fzonnig.In het        Vj  h/o'       R
+OL,8,Fnoorden wat meer     Vj   0z7  0    R|
+OL,9,Fwolken en lokaal en  Vj   k'#k    Rh
+OL,10,Fbui.Vannacht lokaal  Vj   j  `>A  4R"#
+OL,11,Fmist.Morgen droog    V:  `fpp& C -6 Rx
+OL,12,Fmet geregeld zon.   V8!A          R`x
 OL,13,F                   V8! C A  4    R*
-OL,14,F                  V6     C -4 Rn}~
+OL,14,F                  V6     C -5 Rn}~
 OL,15,F                Vp r)t        Ro
 OL,16,B               Vrt#x#!#        R
 OL,17,F          A  4V6 "#!1Rpx}  A  5Rk
-OL,18,F          C -1V:,x-&R~}C -4Rj
+OL,18,F          C -3V:,x-&R~}C -4Rj
 OL,19,A B= max.temp.VvRp x~}0 c
 OL,20,B    morgen   R}% ~
 OL,21,C B= min.temp.R  j
@@ -33,24 +33,24 @@ PN,70202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  702Cmaa 23 nov  03:49:22
+OL,0,       BNOS-TT  702Cmaa 23 nov  13:49:19
 OL,1,D]CWINDVERWACHTING TOT MORGENNACHTF 2/2 
 OL,2,D                         V  p<<,l<,lll|
 OL,3,C                       V 8w|~/##+'#+
-OL,4,F                 CZO 3Vpv~?!      V*
-OL,5,F                     Vj`?1  CZO 3 Rj
-OL,6,FVannacht variabel    Vj+?og~%        Rj
-OL,7,Fen zwak,1-2 Bft.     Vj  h/o'       R
-OL,8,FOverdag zwak tot     Vj   0z7  0    R|
-OL,9,Fhooguit matig,1-3    Vj   k'#k    Rh
-OL,10,FBft uit westelijke   Vj   j  `>    R"#
-OL,11,Frichtingen.          V:  `fpp& CZO 2Rx
+OL,4,F                 C O 3Vpv~?!      V*
+OL,5,F                     Vj`?1  C O 3 Rj
+OL,6,FVanmiddag weinig     Vj+?og~%        Rj
+OL,7,Fwind uit variabele   Vj  h/o'       R
+OL,8,Frichting.Morgen      Vj   0z7  0    R|
+OL,9,Fzuidoost tot oost    Vj   k'#k    Rh
+OL,10,Fen zwak of matig,2   Vj   j  `>    R"#
+OL,11,Ftot 4 Bft.           V:  `fpp& C O 2Rx
 OL,12,F                    V8!A          R`x
 OL,13,F                   V8!   CZO 3   R*
 OL,14,F                  V6          Rn}~
 OL,15,B                Vp r)t        Ro
 OL,16,                Vrt#x#!#        R
-OL,17,F         CZO 3V6 "#!1Rpx} CZO 3Rk
+OL,17,F         C O 3V6 "#!1Rpx} C O 3Rk
 OL,18,F              V:,x-&R~}    Rj
 OL,19,D             VvRp x~}0 c
 OL,20,B             R}% ~

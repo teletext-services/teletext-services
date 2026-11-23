@@ -3,33 +3,27 @@ PN,83201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G832FORF1   GMo 23.11.26 04:20:43
+OL,0,       G832FORF1   GMo 23.11.26 14:21:22
 OL,1,A]G                 Flughafen Innsbruck 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug    von        Plan aktuell        
-OL,5,FOS 0101 Wien       0745B               
-OL,6,GU2 2281 Manchester 0925B               
-OL,7,FU2 8693 London LGW 1015B               
-OL,8,GOS 0105 Wien       1400B               
-OL,9,FOS 0107 Wien       1810B               
-OL,23,F04:17hGFlugh. InnsbruckF0512/22525-375 
+OL,5,FOS 0105 Wien       1400B1358 gelandet  
+OL,6,GOS 0107 Wien       1810B               
+OL,23,F13:58hGFlugh. InnsbruckF0512/22525-375 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G832FORF1   GMo 23.11.26 04:20:43
+OL,0,       G832FORF1   GMo 23.11.26 14:21:22
 OL,1,A]G                 Flughafen Innsbruck 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug    nach       Plan aktuell        
-OL,5,FOS 0102 Wien       0825B               
-OL,6,GU2 2282 Manchester 1005B               
-OL,7,FU2 8694 London LGW 1055B               
-OL,8,GOS 0106 Wien       1515B               
-OL,9,FOS 0108 Wien       1850B               
-OL,23,F04:17hGFlugh. InnsbruckF0512/22525-375 
+OL,5,FOS 0106 Wien       1515B               
+OL,6,GOS 0108 Wien       1850B               
+OL,23,F13:58hGFlugh. InnsbruckF0512/22525-375 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

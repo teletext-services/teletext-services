@@ -4,32 +4,32 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     808Cpon 23 lis  08:30:42
+OL,0,      BTVP3     808Cpon 23 lis  18:32:00
 OL,1,F]          @Prognoza pogody            
-OL,2,F]        @Poniedzia}ek, 23.11          
+OL,2,F]           @Wtorek, 24.11             
 OL,3, Ca}y dzie$ b`dzie si` mocnej chmurzy^ i
-OL,4, miejscami od czasu do czasu popada do  
-OL,5, po}udnia przelotny deszcz ze |niegiem i
-OL,6, (w Sudetach sam |nieg), po po}udniu    
-OL,7, przelotny deszcz. W ci@gu dnia dokucza}
-OL,8, nam b`dzie silniejszy wiatr, kt_ry po- 
-OL,9, t`gowa} b`dzie odczucie ch}odu.        
-OL,11,CTEMP. MAKS.:God 0 do 2 st. C           
+OL,4, miejscami od czasu do czasu popada     
+OL,5, przelotny deszcz ze |niegiem, a w      
+OL,6, Sudetach |nieg (spadnie do 3 cm        
+OL,7, |wie{ego puchu). W ci@gu dnia dokucza} 
+OL,8, nam b`dzie silniejszy wiatr, kt_ry     
+OL,9, pot`gowa} b`dzie odczucie ch}odu.      
+OL,11,CTEMP. MAKS.:God -1 do 2 st. C          
 OL,13,CCI\NIENIE:Gb`dzie ros}o, w po}udnie    
-OL,14, wyniesie oko}o 993 hPa                 
+OL,14, wyniesie oko}o 1011 hPa                
 OL,16,CWIATR:Gp_}nocno-zachodni, umiarkowany  
-OL,17, 20-25 km/h, chwilami silniejszy 40-50  
-OL,18, km/h, wysoko w Sudetach do 70 km/h     
+OL,17, 20-25 km/h, chwilami silniejszy do 30- 
+OL,18, 40 km/h, a w Sudetach 70 km/h km/h     
 OL,20,CBIOMET:Gniekorzystny                   
-OL,22,CWARUNKI DROGOWE:Gz}e, w opadach drogi  
-OL,23, b`d@ |liskie                           
+OL,22,CWARUNKI DROGOWE:Gpoza opadami dobre,   
+OL,23, podczas opad_w drogi zrobi@ si` |liskie
 FL,807,809,100,100,0,100
 PN,80802
 SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     808Cpon 23 lis  08:30:42
+OL,0,      BTVP3     808Cpon 23 lis  18:32:00
 OL,1,W$                                      
 OL,2,W1BZGORZELEC                            
 OL,3,W(    C1'C                              
@@ -37,20 +37,20 @@ OL,4,W1                 BLEGNICA
 OL,5,W1                   C2'C               
 OL,6,W1  8(((                  BWROC]AW      
 OL,7,W$h!    aBJELENIA GORA      C2'C        
-OL,8,Web     $   C1'C                        
+OL,8,Web     $  C-1'C                        
 OL,9, W!    1                                
 OL,10,      W4                                
 OL,11,      W(0        BWA]BRZYCH             
-OL,12,       W"$$,0   0   C0'C                
+OL,12,       W"$$,0   0   C1'C                
 OL,13,           W"")("(                      
 OL,14,                 W)$$(( $a              
 OL,15,CS]ONCE                 Wh          `,  
-OL,16,CWSCHOD:G07:21         W&          "$*( 
-OL,17,CZACHOD:G15:54        W* BK]ODZKO  Wb  !
-OL,18,                      W(   C0'C    W$   
+OL,16,CWSCHOD:G07:23         W&          "$*( 
+OL,17,CZACHOD:G15:53        W* BK]ODZKO  Wb  !
+OL,18,                      W(   C-2'C    W$  
 OL,19,FKSIE[YC               W(`           $  
-OL,20, 14 DNIFPO NOWIU         W0         2   
-OL,21,1 DZIENFDO PE]NI          W,      `(    
+OL,20, 15 DNIFDO NOWIU          W0         2  
+OL,21,        FW PE]NI           W,      `(   
 OL,22,                            W"(((,"     
 OL,23,CTemperatury maksymalne                 
 FL,807,809,100,100,0,100
@@ -59,7 +59,7 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     808Cpon 23 lis  08:30:42
+OL,0,      BTVP3     808Cpon 23 lis  18:32:00
 OL,1,D]          ZW`ppppppppp p0             
 OL,2,D]          ZWj(<jhhjhlj*#k4            
 OL,3,D]          ZWj 5j*>jj#j *o0            

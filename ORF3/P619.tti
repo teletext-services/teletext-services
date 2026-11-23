@@ -3,23 +3,23 @@ PN,61901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G619FORF IIIGMo 23.11.26 04:42:26
+OL,0,       G619FORF IIIGMo 23.11.26 14:42:52
 OL,1,A]G                           Statistik 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       1/3  
 OL,4,C               Tmax  Tmin  Niederschlag
 OL,5,C              in `C in `C  in mm  in mm
-OL,6,C              (12h) (24h)  (24h)  (12h)
-OL,7,GWien/H. Warte   6,1   0,2    0,0    0,0
-OL,8,FEisenstadt      7,1  -0,5    0,0    0,0
-OL,9,GSt. P|lten      4,7  -1,2    0,0    0,0
-OL,11,FLinz            4,8  -1,5    0,0    0,0
-OL,12,GSalzburg        4,3  -1,0    0,3    0,0
-OL,13,FInnsbruck/Un.   5,5   1,5    1,5    1,5
-OL,15,GBregenz         4,7   1,8   12,4   12,4
-OL,16,FGraz/Stra~ga.   6,0   3,3    3,7    3,7
-OL,17,GKlagenfurt/H.   4,7   2,9    2,1    2,1
-OL,20,F              Geosphere Austria  19:00h
+OL,6,C              (24h) (12h)  (24h)  (12h)
+OL,7,GWien/H. Warte   6,1   2,3    0,0    0,0
+OL,8,FEisenstadt      7,1   1,7    0,0    0,0
+OL,9,GSt. P|lten      4,7   1,5    0,0    0,0
+OL,11,FLinz            4,8   0,8    0,0    0,0
+OL,12,GSalzburg        4,3   1,7    0,1    0,1
+OL,13,FInnsbruck/Un.   5,5   2,2    3,5    2,1
+OL,15,GBregenz         4,7   2,6   16,8    4,5
+OL,16,FGraz/Stra~ga.   6,0  -0,5    5,6    2,2
+OL,17,GKlagenfurt/H.   4,7   1,9    3,9    2,0
+OL,20,F              Geosphere Austria  07:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -27,11 +27,11 @@ PN,61902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G619FORF IIIGMo 23.11.26 04:42:26
+OL,0,       G619FORF IIIGMo 23.11.26 14:42:52
 OL,1,A]G                           Statistik 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       2/3  
-OL,4,FH|chst-Temperaturen 12h                
+OL,4,FH|chst-Temperaturen 24h                
 OL,5,GNeusiedl/See (BGL 119m) ......    7,9`C
 OL,6,GBad Deutsch-Altenb. (NOE 170m)    7,6`C
 OL,7,GAndau (BGL 122m) .............    7,5`C
@@ -39,15 +39,15 @@ OL,8,GPodersdorf (BGL 116m) ........    7,4`C
 OL,9,GBruckneudorf (BGL 167m) ......    7,4`C
 OL,10,GHartberg (STM 337m) ..........    7,2`C
 OL,11,GGaschurn (VBG 975m) ..........    7,1`C
-OL,13,FTiefst-Temperaturen 24h                
-OL,14,GSchwarzau im Freiw. (NOE 788m)   -9,3`C
-OL,15,GLiebenau-Gugu (OOE 845m) .....   -8,8`C
-OL,16,GSt. Michael/Lungau (SBG 1094m)   -7,9`C
-OL,17,GStift Zwettl (NOE 505m) ......   -6,9`C
-OL,18,GMariapfarr (SBG 1153m) .......   -6,5`C
-OL,19,GFreistadt (OOE 535m) .........   -5,9`C
-OL,20,GPabneukirchen (OOE 621m) .....   -5,8`C
-OL,21,F              Geosphere Austria  19:00h
+OL,13,FTiefst-Temperaturen 12h                
+OL,14,GSchwarzau im Freiw. (NOE 788m)   -7,3`C
+OL,15,GLiebenau-Gugu (OOE 845m) .....   -6,2`C
+OL,16,GSillian (TIR 1081m) ..........   -5,1`C
+OL,17,GB{rnkopf (NOE 965m) ..........   -4,4`C
+OL,18,GKolomannsberg (OOE 1114m) ....   -4,4`C
+OL,19,GPabneukirchen (OOE 621m) .....   -4,1`C
+OL,20,GJauerling Gipfel (NOE 959m) ..   -3,9`C
+OL,21,F              Geosphere Austria  07:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -55,27 +55,27 @@ PN,61903
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G619FORF IIIGMo 23.11.26 04:42:26
+OL,0,       G619FORF IIIGMo 23.11.26 14:42:52
 OL,1,A]G                           Statistik 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       3/3  
 OL,4,FNiederschlag 24h                       
-OL,5,GDornbirn (VBG 411m) ..........  13,2 mm
-OL,6,GFraxern (VBG 809m) ...........  12,8 mm
-OL,7,GRohrspitz (VBG 398m) .........  12,8 mm
-OL,8,GAlberschwende (VBG 719m) .....  12,5 mm
-OL,9,GBregenz (VBG 440m) ...........  12,4 mm
-OL,10,GFeldkirch (VBG 451m) .........  12,3 mm
-OL,11,GSulzberg (VBG 1015m) .........  10,2 mm
+OL,5,GFraxern (VBG 809m) ...........  19,6 mm
+OL,6,GLaterns/Gapfohlal. (VBG 1550m)  19,2 mm
+OL,7,GFeldkirch (VBG 451m) .........  18,8 mm
+OL,8,GRohrspitz (VBG 398m) .........  17,9 mm
+OL,9,GDornbirn (VBG 411m) ..........  17,8 mm
+OL,10,GBrand (VBG 1040m) ............  17,0 mm
+OL,11,GBregenz (VBG 440m) ...........  16,8 mm
 OL,13,FWindspitzen 24h                        
-OL,14,GLeiser Berge (NOE 458m) ......  49 km/h
-OL,15,GLoibl/Tunnel (KAE 1096m) .....  46 km/h
-OL,16,GSteinach/Tirol (TIR 1025m) ...  45 km/h
-OL,17,GPodersdorf (BGL 116m) ........  45 km/h
-OL,18,GRohrspitz (VBG 398m) .........  45 km/h
-OL,19,GPrutz (TIR 871m) .............  43 km/h
-OL,20,GGolling (SBG 491m) ...........  41 km/h
-OL,21,F              Geosphere Austria  19:00h
+OL,14,GBad V|slau (NOE 266m) ........  73 km/h
+OL,15,GReichenau/Rax (NOE 485m) .....  66 km/h
+OL,16,GLeiser Berge (NOE 458m) ......  59 km/h
+OL,17,GMallnitz (KAE 1198m) .........  57 km/h
+OL,18,GGumpoldskirchen (NOE 223m) ...  56 km/h
+OL,19,GMariapfarr (SBG 1153m) .......  56 km/h
+OL,20,GWien/Innere Stadt (WIE 178m) .  54 km/h
+OL,21,F              Geosphere Austria  07:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100

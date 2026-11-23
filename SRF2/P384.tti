@@ -1,26 +1,50 @@
 DE,SRF2 384
-PN,38400
-SC,0000
-PS,8208
-CT,15,T
-OL,0,       G384  SRF zwei  23.11.26 06:04:18
-OL,1,C]@SPORT            G]@18.11.26 22:11G  
+PN,38401
+SC,0001
+PS,C200
+CT,8,T
+OL,0,       G384  SRF zwei  23.11.26 16:04:20
+OL,1,C]@SPORT            G]@23.11.26 08:37G  
 OL,2,C                                       
-OL,4,CHANDBALL: SPL 1 Frauen, Qualifikation  
-OL,5,CSpiele vom 10.-18.11.                  
-OL,6,FAargau Ost  - LK Zug      24:42 (14:19)
-OL,7,FGC Amicitia - Sp.Eagles   31:25 (12: 7)
-OL,8,FLC Br}hl    - Yellow W.   33:23 (14:10)
-OL,11,CKlassement (18.11.)                    
-OL,12,G1. LC Br}hl      10 10  0  0 350:245 20
-OL,13,G2. LK Zug        10  7  0  3 334:268 14
-OL,14,G3. Yellow W.     10  7  0  3 294:260 14
-OL,15,G4. GC Amicitia   10  7  0  3 292:260 14
-OL,16,G5. Herz'buchsee   9  4  0  5 239:250  8
-OL,17,G6. Sp.Eagles     10  3  0  7 290:305  6
-OL,18,G7. RW Thun        9  0  1  8 202:297  1
-OL,19,G8. Aargau Ost    10  0  1  9 248:364  1
-OL,21,B                   A                   
+OL,3,                                    1/2 
+OL,4,CHANDBALL: EM F 2026, Vorrunde Gruppe C 
+OL,5,FT}rkei      - Griechenlan C03.12. 16.30
+OL,6,FD{nemark    - Spanien     C03.12. 19.00
+OL,7,FSpanien     - Griechenlan C05.12. 16.30
+OL,8,FD{nemark    - T}rkei      C05.12. 19.00
+OL,9,FT}rkei      - Spanien     C07.12. 16.30
+OL,10,FGriechenland- D{nemark    C07.12. 19.00
+OL,14,CKlassement (23.04.)                    
+OL,15,G1. D{nemark       0  0  0  0   0:  0  0
+OL,16,G . Griechenland   0  0  0  0   0:  0  0
+OL,17,G . Spanien        0  0  0  0   0:  0  0
+OL,18,G . T}rkei         0  0  0  0   0:  0  0
+OL,21,             B                          
+OL,22,C                                       
+OL,23,C]                                      
+OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
+FL,101,180,500,700,0,100
+PN,38402
+SC,0002
+PS,C200
+CT,8,T
+OL,0,       G384  SRF zwei  23.11.26 16:04:20
+OL,1,C]@SPORT            G]@23.11.26 08:37G  
+OL,2,C                                       
+OL,3,                                    2/2 
+OL,4,CHANDBALL: EM F 2026, Vorrunde Gruppe D 
+OL,5,F\sterreich  - Kroatien    C04.12. 18.00
+OL,6,FNiederlande - Tschechien  C04.12. 20.30
+OL,7,FTschechien  - Kroatien    C06.12. 18.00
+OL,8,FNiederlande - \sterreich  C06.12. 20.30
+OL,9,F\sterreich  - Tschechien  C08.12. 18.00
+OL,10,FKroatien    - Niederlande C08.12. 20.30
+OL,14,CKlassement (23.04.)                    
+OL,15,G1. \sterreich     0  0  0  0   0:  0  0
+OL,16,G . Kroatien       0  0  0  0   0:  0  0
+OL,17,G . Tschechien     0  0  0  0   0:  0  0
+OL,18,G . Niederlande    0  0  0  0   0:  0  0
+OL,21,             B                          
 OL,22,C                                       
 OL,23,C]                                      
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio

@@ -3,27 +3,27 @@ PN,73001
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  730Cmaa 23 nov  03:50:19
-OL,1,D]                    Fbinnenland F 1/2 
+OL,0,       BNOS-TT  730Cmaa 23 nov  13:50:13
+OL,1,D]                    Fbinnenland F 1/5 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
-OL,4,D]F actueel            23 nov. 03:45 uur
+OL,4,D]F actueel            23 nov. 13:45 uur
 OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,6,F  Afsluiting/Omleiding:@@@@@@@@@@@@@@@@
-OL,7,F-BN3 Dordrecht->PapendrechtFtussen@@@@@
-OL,8,F  afrit Dordrecht-Centrum en@@@@@@@@@@@
-OL,9,F  Papendrecht wegwerkzaamheden,dicht.@@
-OL,10,F  Verwachte eindtijd: 21 apr.23:59@@@@@
-OL,11,F-BN3 Papendrecht->DordrechtFtussen@@@@@
-OL,12,F  Papendrecht en afrit@@@@@@@@@@@@@@@@@
-OL,13,F  Dordrecht-Centrum wegwerkzaamheden,@@
-OL,14,F  dicht.Verwachte eindtijd: 21 apr.@@@@
-OL,15,F  23:59@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,16,F-BN57 Middelburg->BrouwersdamFtussen@@@
-OL,17,F  Serooskerke-Schouwen en afrit Renesse
-OL,18,F  wegwerkzaamheden,dicht.Verwachte@@@@@
-OL,19,F  eindtijd: 04 dec.15:00@@@@@@@@@@@@@@@
-OL,20,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F  Files:@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,F-BA12 Duitse grens->UtrechtFtussen@@@@@
+OL,8,F  Westervoort en Arnhem-Noord 4 km,13@@
+OL,9,F  min.,door een ongeluk,de weg is@@@@@@
+OL,10,F  weer vrij.@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,11,F-BA15 Gorinchem->RotterdamFtussen@@@@@@
+OL,12,F  Sliedrecht-West en Alblasserdam 3 km,
+OL,13,F  4 min.,te hoog voertuig,dicht.@@@@@@@
+OL,14,F-BA15 Rotterdam->EuropoortFtussen@@@@@@
+OL,15,F  Hoogvliet en Spijkenisse 4 km,door@@@
+OL,16,F  een ongeluk.@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,17,F-BA15 Rotterdam->EuropoortFtussen@@@@@@
+OL,18,F  Rotterdam-Heijplaat en Havens@@@@@@@@
+OL,19,F  4100-5200 6 km,18 min.,door een@@@@@@
+OL,20,F  ongeluk,twee rijstroken zijn dicht.@@
 OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
@@ -33,16 +33,106 @@ PN,73002
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  730Cmaa 23 nov  03:50:29
-OL,1,D]                    Fbinnenland F 2/2 
+OL,0,       BNOS-TT  730Cmaa 23 nov  13:49:57
+OL,1,D]                    Fbinnenland F 2/5 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
-OL,4,D]F actueel            23 nov. 03:45 uur
+OL,4,D]F actueel            23 nov. 13:45 uur
 OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,6,F-BN57 Brouwersdam->MiddelburgFtussen@@@
-OL,7,F  afrit Renesse en Serooskerke-Schouwen
-OL,8,F  wegwerkzaamheden,dicht.Verwachte@@@@@
-OL,9,F  eindtijd: 04 dec.15:00@@@@@@@@@@@@@@@
+OL,6,F-BA16 Breda->RotterdamFtussen@@@@@@@@@@
+OL,7,F  Breda-Noord en Dordrecht 8 km,28@@@@@
+OL,8,F  min.,afgevallen lading,de@@@@@@@@@@@@
+OL,9,F  rechterrijstrook is dicht.Omrijden@@@
+OL,10,F  kan via Bergen op Zoom,over de A58@@@
+OL,11,F  en de A4.Verwachte eindtijd: 23 nov.@
+OL,12,F  17:00@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,13,F-BA17 Roosendaal->DordrechtFtussen@@@@@
+OL,14,F  Moerdijk-Havens en knp.Klaverpolder@@
+OL,15,F  4 km,15 min..@@@@@@@@@@@@@@@@@@@@@@@@
+OL,16,F-BA50 Eindhoven->OssFtussen Eerde en@@@
+OL,17,F  Veghel-Noord 4 km,33 min.,door een@@@
+OL,18,F  ongeluk,de linkerrijstrook is dicht.@
+OL,19,F-BA50 Eindhoven->ArnhemFtussen Oss-Oost
+OL,20,F  en Ravenstein 2 km,6 min..@@@@@@@@@@@
+OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,73003
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  730Cmaa 23 nov  13:50:13
+OL,1,D]                    Fbinnenland F 3/5 
+OL,2,B]DMVERKEERSINFORMATIE                  
+OL,3,B]                                      
+OL,4,D]F actueel            23 nov. 13:45 uur
+OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BA50 Apeldoorn->ArnhemFtussen afrit@@@
+OL,7,F  Hoenderloo en afrit Schaarsbergen 3@@
+OL,8,F  km,5 min..@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,9,F-BA50 Apeldoorn->ArnhemFtussen afrit@@@
+OL,10,F  Hoenderloo en knp.Waterberg 4 km,2@@@
+OL,11,F  min.,door een ongeluk.op de A12.@@@@@
+OL,12,F-BA59 's-Hertogenbosch->OssFtussen Oss@
+OL,13,F  en knp.Paalgraven 3 km,17 min..@@@@@@
+OL,14,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,15,F  Afsluiting/Omleiding:@@@@@@@@@@@@@@@@
+OL,16,F-BN3 Dordrecht->PapendrechtFtussen@@@@@
+OL,17,F  afrit Dordrecht-Centrum en@@@@@@@@@@@
+OL,18,F  Papendrecht wegwerkzaamheden,dicht.@@
+OL,19,F  Verwachte eindtijd: 21 apr.23:59@@@@@
+OL,20,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,73004
+SC,0004
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  730Cmaa 23 nov  13:50:13
+OL,1,D]                    Fbinnenland F 4/5 
+OL,2,B]DMVERKEERSINFORMATIE                  
+OL,3,B]                                      
+OL,4,D]F actueel            23 nov. 13:45 uur
+OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BN3 Papendrecht->DordrechtFtussen@@@@@
+OL,7,F  Papendrecht en afrit@@@@@@@@@@@@@@@@@
+OL,8,F  Dordrecht-Centrum wegwerkzaamheden,@@
+OL,9,F  dicht.Verwachte eindtijd: 21 apr.@@@@
+OL,10,F  23:59@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,11,F-BN57 Middelburg->BrouwersdamFtussen@@@
+OL,12,F  Serooskerke-Schouwen en afrit Renesse
+OL,13,F  wegwerkzaamheden,dicht.Verwachte@@@@@
+OL,14,F  eindtijd: 04 dec.15:00@@@@@@@@@@@@@@@
+OL,15,F-BN57 Brouwersdam->MiddelburgFtussen@@@
+OL,16,F  afrit Renesse en Serooskerke-Schouwen
+OL,17,F  wegwerkzaamheden,dicht.Verwachte@@@@@
+OL,18,F  eindtijd: 04 dec.15:00@@@@@@@@@@@@@@@
+OL,19,F-BN381 Beilen->EmmenFbij de aansluiting
+OL,20,F  met de N34 er staat een auto in@@@@@@
+OL,21,F  brand,dicht.@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,73005
+SC,0005
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  730Cmaa 23 nov  13:50:07
+OL,1,D]                    Fbinnenland F 5/5 
+OL,2,B]DMVERKEERSINFORMATIE                  
+OL,3,B]                                      
+OL,4,D]F actueel            23 nov. 13:45 uur
+OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BN381 Emmen->BeilenFbij Sleen er staat
+OL,7,F  een auto in brand,dicht.@@@@@@@@@@@@@
+OL,8,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,9,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,10,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,11,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,12,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

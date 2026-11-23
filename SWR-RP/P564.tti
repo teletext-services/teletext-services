@@ -3,28 +3,28 @@ PN,56400
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       BSWR RLPC   Mo, 23.11.26G07:20:26
+OL,0,       BSWR RLPC   Mo, 23.11.26G17:20:06
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Mo 07:10 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Mo 17:10 
 OL,3,T#########"#############################
 OL,4,CAnkunftGvon        Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FDE 2575 Bangkok    18:25C11:34     F1 B
-OL,7, LH 3601 K|ln Hbf   05:36C05:36 gel.G1  
-OL,8,FDE 2549 Bangkok    06:00C06:42 gel.F1 C
-OL,9, LH  705 Kuala Lump 06:00C06:50 gel.G1 B
-OL,10,FLH  781 Singapur   06:15C06:44 gel.F1 A
-OL,11, LH 3501 Dus Hbf    06:39            1 T
-OL,12,FSQ  026 Singapur   06:40C06:46 gel.F1 B
-OL,13, LH 3603 K|ln Hbf   06:49            1 T
-OL,14,FLH 3605 K|ln Hbf   06:49            1 T
-OL,15, QR  069 Doha-Hamad 06:50C07:03 gel.G3 J
-OL,16,FVN  031 Ho Chi Min 06:50C06:59 gel.F3 J
-OL,17, LH  149 N}rnberg   06:55C06:59 gel.G1 A
-OL,18,FLH 1481 Eriwan     06:55C06:54 gel.F1 B
-OL,19, CX  289 Hong Kong  07:05C07:18     G3 J
-OL,20,FLH  591 Nairobi    07:05Cim Anflug F1 A
-OL,21, LH  613 Baku       07:05C06:53 gel.G1 C
+OL,6,FLH 3621 Dortmund   15:49C15:49 gel.F1 T
+OL,7, LH 3655 Hamburg    15:49C15:49 gel.G1 T
+OL,8,FLH 1129 Barcelona  16:00C16:57 gel.F1 B
+OL,9, LH 3553 Basel Bad  16:08C16:08 gel.G1 T
+OL,10,FLH 1417 Bukarest   16:15Cim Anflug F1 A
+OL,11, LH 3465 N}rnberg   16:19C16:19 gel.G1  
+OL,12,FLH 3589 Dortmund   16:19C16:19 gel.F1 T
+OL,13, LH 1167 Lissabon   16:25C16:47 gel.G1 A
+OL,14,FLH 1345 Warschau   16:30C16:52 gel.F1 A
+OL,15, LH 1389 Poznan     16:30Cim Anflug G1 B
+OL,16,FOS  213 Wien       16:35C17:02 gel.F1 A
+OL,17, LH 3523 Dus Hbf    16:39            1 T
+OL,18,FA3  532 Thessaloni 16:40C16:49 gel.F1 A
+OL,19, TK 1593 Istanbul   16:45Cim Anflug G1 B
+OL,20,FLH 3623 Dortmund   16:49            1 T
+OL,21, LH 3657 Hamburg    16:49            1 T
 OL,23,D]G< 560       ohne Gew{hr         565 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

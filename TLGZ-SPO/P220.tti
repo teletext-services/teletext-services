@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    220Cpon 23 lis  08:50:10
+OL,0,      BSPORT    220Cpon 23 lis  18:51:58
 OL,1,C]DPI]KA NO[NA  ]  GPOLSKA - I LIGA     
 OL,2,FCHROBRY       - PUSZCZA       0:2 (0:1)
 OL,3,                 Bartolewski 35-sam     
@@ -25,7 +25,7 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    220Cpon 23 lis  08:50:11
+OL,0,      BSPORT    220Cpon 23 lis  18:51:58
 OL,1,C]DPI]KA NO[NA  ]  GPOLSKA - I LIGA     
 OL,2,FPOGON GM      - ARKA          2:3 (0:1)
 OL,3, Majewski 75,87  Dembek 32-sam          
@@ -47,7 +47,7 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    220Cpon 23 lis  08:50:11
+OL,0,      BSPORT    220Cpon 23 lis  18:51:59
 OL,1,C]DPI]KA NO[NA  ]  GPOLSKA - I LIGA     
 OL,2,FRUCH          - WARTA         1:2 (1:1)
 OL,3, Szczepan 4      Kusztal 24             
@@ -66,7 +66,7 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    220Cpon 23 lis  08:50:11
+OL,0,      BSPORT    220Cpon 23 lis  18:51:59
 OL,1,C]DPI]KA NO[NA  ]  GPOLSKA - I LIGA     
 OL,2,FLECHIA GDANSK - ODRA OPOLE    2:1 (1:1)
 OL,3, Blanuta 45      Mijuskovi^ 2           
@@ -82,5 +82,18 @@ OL,17, Wi|niowski 90
 OL,19,CGKaczor, Goss, Leniart - Krzy{ak      
 OL,21,FS`dzia:GGrzegorz Kawa}ko (Olsztyn).    
 OL,22,FWidz_w:G2047.                          
+OL,24,   A219      B221      C222      F223   
+FL,219,221,222,223,0,100
+PN,22005
+SC,0005
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    220Cpon 23 lis  18:51:59
+OL,1,C]DPI]KA NO[NA  ]  GPOLSKA - I LIGA     
+OL,2,FPODBESKIDZIE  - BRUK-BET      -:- (-:-)
+OL,6,C                                      
+OL,8,FS`dzia:                                
+OL,9,FWidz_w:                                
 OL,24,   A219      B221      C222      F223   
 FL,219,221,222,223,0,100

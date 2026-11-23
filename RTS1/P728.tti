@@ -3,51 +3,52 @@ PN,72801
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G728  RTS 1     23.11.26 05:27:42
-OL,1,A]GRTS 2     ]@dimanche 22 novembre     
+OL,0,       G728  RTS 1     23.11.26 15:27:44
+OL,1,A]GRTS 2     ]@lundi 23 novembre        
 OL,2,                                    1/2 
-OL,4,G10:20 GSki alpin                       
-OL,5,E 1011 GCoupe du mondeCS-T              
-OL,6,F11:35 FAdr#naline                      
-OL,7,E 1204 FMagazine de sports extr\mes     
-OL,8,       CS-T                             
-OL,9,G11:50 GRTS Info                        
-OL,10,E 1045 GL'actualit# en continuCS-T      
-OL,11,F12:30 FPasse-moi les jumelles          
-OL,12,E 1348 FL'amiti# en cheminCS-TC(R)      
-OL,13,G13:20 GSki alpin                       
-OL,14,E 1256 GCoupe du mondeCS-T              
-OL,15,F14:25 FMotoGP                          
-OL,16,E 1349 FGP du PortugalCS-T              
-OL,17,G15:20 GFormule 1                       
-OL,18,E 1510 GGP de Las VegasCS-T             
-OL,19,F17:25 FRTS Info                        
-OL,20,E 1705 FL'actualit# en continuCS-T      
+OL,4,G07:00 GLa Matinale                     
+OL,5,       GLa Matinale en vid#oCS-T        
+OL,6,F08:00 FRTS Info                        
+OL,7,       FL'actualit# en continuCS-T      
+OL,8,G09:00 GForum                           
+OL,9,       GForum en diff#r#  du 22.11.     
+OL,10,       G2026CS-T                        
+OL,11,F10:00 Fbasik - Sign#                   
+OL,12,E 0950 FVie solo : vie plein pot -      
+OL,13,       FSign#CS-TCLS                    
+OL,14,G10:25 GA bon entendeur - Sign#         
+OL,15,E 1030 GS#cheresse : quel avenir        
+OL,16,       Gpour le Gruy`re ? - Sign#       
+OL,17,       CS-TCLS                          
+OL,18,F11:10 FSignes                          
+OL,19,E 1105 FUn si`cle de DeaflympicsCS-     
+OL,20,       FTCLSC(R)                        
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,72802
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G728  RTS 1     23.11.26 05:27:42
-OL,1,A]GRTS 2     ]@dimanche 22 novembre     
+OL,0,       G728  RTS 1     23.11.26 15:27:44
+OL,1,A]GRTS 2     ]@lundi 23 novembre        
 OL,2,                                    2/2 
-OL,4,G18:00 GForum                           
-OL,5,       GForum du 22.11.2026CS-T         
-OL,6,F19:05 FRTS Info                        
-OL,7,E 1900 FL'actualit# en continuCS-T      
-OL,8,G19:30 G19h30 - Sign#                   
-OL,9,       CS-TCLS                          
-OL,10,F20:05 FPMU                             
-OL,11,E 2000                                  
-OL,12,G20:10 GLes Simpson                     
-OL,13,       GJe suis juste une fille qui     
-OL,14,       Gpeut pas dire T'oh CI/IICS-     
-OL,15,       GT                               
-OL,16,F20:35 FLes Simpson                     
-OL,17,E 2030 FT'oh CanadaCI/IICS-T            
-OL,18,G20:55 GHistoire vivante                
-OL,19,       GLa strat#gie du tapis de        
-OL,20,       GbombesCS-T                      
+OL,4,G11:45 GRTS Info                        
+OL,5,E 1140 GL'actualit# en continuCS-T      
+OL,6,F12:05 FCouleurs locales                
+OL,7,E 1210 CS-TC(R)                         
+OL,8,G12:25 GSport dimanche                  
+OL,9,E 1230 CS-TC(R)                         
+OL,10,F13:25 F12h45                           
+OL,11,E 1315 CS-TC(R)                         
+OL,12,G13:45 GM#t#o                           
+OL,13,E 1335 CS-TC(R)                         
+OL,14,F13:50 FRTS Info                        
+OL,15,E 1340 FL'actualit# en continuCS-T      
+OL,16,G14:20 GA bon entendeur                 
+OL,17,       GS#cheresse: quel avenir         
+OL,18,       Gpour le Gruy`re?CS-TC(R)        
+OL,19,F15:00 FMise au point                   
+OL,20,       FG#n#ration Z : la r#volte       
+OL,21,       CS-TC(R)                         
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
