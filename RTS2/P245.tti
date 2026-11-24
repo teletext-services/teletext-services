@@ -3,9 +3,9 @@ PN,24501
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G245  RTS 2     23.11.26 15:32:32
+OL,0,       G245  RTS 2     24.11.26 00:52:53
 OL,1,C]@FOOTBALL         G]@21.11.26 20:28G.=
-OL,2,G                                       
+OL,2,D                                       
 OL,3,                                    1/4 
 OL,4,CNewcastle   - Arsenal       C 2-2 (0-1)
 OL,5,G33'Eze 0-1,G49'Barnes 1-1,G62'Thiaw 2- 
@@ -28,9 +28,9 @@ PN,24502
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G245  RTS 2     23.11.26 15:32:32
+OL,0,       G245  RTS 2     24.11.26 00:52:53
 OL,1,C]@FOOTBALL         G]@22.11.26 17:41G.=
-OL,2,G                                       
+OL,2,D                                       
 OL,3,                                    2/4 
 OL,4,CHull City   - Brighton      C 2-0 (0-0)
 OL,5,G90+2'/90+5'McBurnie.                   
@@ -53,7 +53,7 @@ PN,24503
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G245  RTS 2     23.11.26 15:32:32
+OL,0,       G245  RTS 2     24.11.26 00:52:53
 OL,1,C]@FOOTBALL         G]@22.11.26 19:35G.=
 OL,2,D                                       
 OL,3,                                    3/4 
@@ -78,11 +78,26 @@ PN,24504
 SC,0004
 PS,C080
 CT,8,T
-OL,0,       G245  RTS 2     23.11.26 15:32:32
-OL,1,C]@FOOTBALL         G]@09.11.26 11:25G.=
-OL,2,G                                       
+OL,0,       G245  RTS 2     24.11.26 00:52:53
+OL,1,C]@FOOTBALL         G]@23.11.26 23:11G.=
+OL,2,D                                       
 OL,3,                                    4/4 
-OL,4,CBrentford   - Everton    CLU 21h00     
-OL,21,FGtech Community Stadium                
+OL,4,CBrentford   - Everton       C 4-0 (2-0)
+OL,5,G23'/25'Lewis-Potter,G67'Janelt,G       
+OL,6,G90'Carvalho.                           
+OL,9,FBrentford:GKelleher;GKayode,GAjer,GVan 
+OL,10,Gden Berg,GLewis-PotterG(74'Diouf);G    
+OL,11,GYarmolyukG(74'Jensen),GJaneltG         
+OL,12,G(82'Sangar#);GOuattaraG(66'Schade),G   
+OL,13,GDamsgaard,GAnthonyG(81'Carvalho);G     
+OL,14,GWilson.                                
+OL,15,FEverton:GPickford;GO'Brien,A           
+OL,16,ATarkowski/40',GBranthwaite,CMykolenko;G
+OL,17,GArmstrong,GGarnerG(85'Norgaard);GRohlG 
+OL,18,G(69'Keane),GDewsbury-HallG(69'Hackney),
+OL,19,GGeorgeG(46'Grealish);GBarryG           
+OL,20,G(69'Johnson).                          
+OL,21,FGtech Community Stadium: 17168         
+OL,22,GCraig PawsonG(ENG)                     
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

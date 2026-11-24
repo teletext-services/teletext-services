@@ -3,16 +3,16 @@ PN,78201
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G782  RTS 1     23.11.26 15:28:45
+OL,0,       G782  RTS 1     24.11.26 15:12:48
 OL,1,A]GRTS LA PREMIERE G]@demain            
 OL,2,\                                       
 OL,3,G                                   1/4 
 OL,4,C00:00GLe Journal horaire               
 OL,5,      FLe Journal horaire de 00h00      
 OL,6,C00:03GVacarme                          
-OL,7,C00:30GTribu                            
-OL,8,      FLa violence permet-elle de faire 
-OL,9,      Favancer des causes?              
+OL,7,      FTaxis 2/5 - Les ficelles du      
+OL,8,      Fm#tier                           
+OL,9,C00:30GTribu                            
 OL,10,C01:00GLe Journal horaire               
 OL,11,      FLe Journal horaire de 1h00       
 OL,12,C01:03GDr|le d'#poque                   
@@ -33,27 +33,29 @@ PN,78202
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G782  RTS 1     23.11.26 15:28:45
+OL,0,       G782  RTS 1     24.11.26 15:12:48
 OL,1,A]GRTS LA PREMIERE G]@demain            
 OL,2,\                                       
 OL,3,G                                   2/4 
 OL,4,C05:03GLes dicodeurs                    
 OL,5,      FLes Dicodeurs @ Fribourg avec    
-OL,6,      FBlaise Curtenaz (2/5)            
+OL,6,      FBlaise Curtenaz (3/5)            
 OL,7,C06:00GLa Matinale                      
 OL,8,C08:10GTout un monde                    
 OL,9,C08:32GOn en parle                      
-OL,10,      FOn en parle - randonner en hiver,
-OL,11,      Fm#decine l#gale et mort suspecte,
-OL,12,      Fassurance maladie                
-OL,13,C09:00GLe Journal horaire               
-OL,14,      FLe Journal horaire de 9h00       
-OL,15,C10:00GLe Journal horaire               
-OL,16,      FLe Journal horaire de 10h00      
-OL,17,C10:04GCQFD                             
-OL,18,C11:00GLe Journal horaire               
-OL,19,      FLe Journal horaire de 11h00      
-OL,20,C11:04GTribu                            
+OL,10,C09:00GLe Journal horaire               
+OL,11,      FLe Journal horaire de 9h00       
+OL,12,C10:00GLe Journal horaire               
+OL,13,      FLe Journal horaire de 10h00      
+OL,14,C10:04GCQFD                             
+OL,15,C11:00GLe Journal horaire               
+OL,16,      FLe Journal horaire de 11h00      
+OL,17,C11:04GTribu                            
+OL,18,C11:30GLes dicodeurs                    
+OL,19,      FLes Dicodeurs @ Fribourg avec    
+OL,20,      FBlaise Curtenaz (3/5)            
+OL,21,C12:00GLe Journal horaire               
+OL,22,      FLe Journal horaire de 12h00      
 OL,23,G]AFr#quences RTS    > 780 sur RTS 2    
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -61,29 +63,28 @@ PN,78203
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G782  RTS 1     23.11.26 15:28:45
+OL,0,       G782  RTS 1     24.11.26 15:12:48
 OL,1,A]GRTS LA PREMIERE G]@demain            
 OL,2,\                                       
 OL,3,G                                   3/4 
-OL,4,C11:30GLes dicodeurs                    
-OL,5,      FLes Dicodeurs @ Fribourg avec    
-OL,6,      FBlaise Curtenaz (2/5)            
-OL,7,C12:00GLe Journal horaire               
-OL,8,      FLe Journal horaire de 12h00      
-OL,9,C12:30GLe 12h30                         
-OL,10,C13:00GLe Journal horaire               
-OL,11,      FLe Journal horaire de 13h00      
-OL,12,C13:04GVacarme                          
-OL,13,      FTaxis 2/5 - Les ficelles du      
-OL,14,      Fm#tier                           
-OL,15,C13:30GHistoire vivante                 
-OL,16,C14:00GLe Journal horaire               
-OL,17,      FLe Journal horaire de 14h00      
-OL,18,C14:04GDis, pourquoi?                   
-OL,19,      FQuel est le lien entre r\ve,     
-OL,20,      Fsommeil et #veil? (r\ve 2/5)     
-OL,21,C15:00GLe Journal horaire               
-OL,22,      FLe Journal horaire de 15h00      
+OL,4,C12:30GLe 12h30                         
+OL,5,C13:00GLe Journal horaire               
+OL,6,      FLe Journal horaire de 13h00      
+OL,7,C13:04GVacarme                          
+OL,8,      FTaxis 3/5 - Un long feu rouge    
+OL,9,C13:30GHistoire vivante                 
+OL,10,C14:00GLe Journal horaire               
+OL,11,      FLe Journal horaire de 14h00      
+OL,12,C14:04GDis, pourquoi?                   
+OL,13,      FA quoi servent les r\ves? (r\ve  
+OL,14,      F3/5)                             
+OL,15,C15:00GLe Journal horaire               
+OL,16,      FLe Journal horaire de 15h00      
+OL,17,C15:04GDr|le d'#poque                   
+OL,18,      FAudrey Eller, #gyptologue et     
+OL,19,      Fhistorienne de l'Antiquit#       
+OL,20,C16:00GLe Journal horaire               
+OL,21,      FLe Journal horaire de 16h00      
 OL,23,G]AFr#quences RTS    > 780 sur RTS 2    
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -91,28 +92,28 @@ PN,78204
 SC,0004
 PS,C080
 CT,8,T
-OL,0,       G782  RTS 1     23.11.26 15:28:45
+OL,0,       G782  RTS 1     24.11.26 15:12:48
 OL,1,A]GRTS LA PREMIERE G]@demain            
 OL,2,\                                       
 OL,3,G                                   4/4 
-OL,4,C15:04GDr|le d'#poque                   
-OL,5,      FHugo Duminil-Copin,              
-OL,6,      Fmath#maticien, laur#at 2022 de la
-OL,7,      Fm#daille Fields                  
-OL,8,C16:00GLe Journal horaire               
-OL,9,      FLe Journal horaire de 16h00      
-OL,10,C17:00GLe Journal horaire               
-OL,11,      FLe Journal horaire de 17h00      
-OL,12,C17:04GVertigo                          
-OL,13,C18:00GForum                            
-OL,14,C19:00GLe Journal horaire               
-OL,15,      FLe Journal horaire de 19h00      
-OL,16,C19:04GLe grand soir                    
-OL,17,      FLe Grand Soir avec Fran~ois      
-OL,18,      FBarras                           
-OL,19,C20:00GLe Journal horaire               
-OL,20,      FLe Journal horaire de 20h00      
-OL,21,C20:03GJuste mesure                     
+OL,4,C17:00GLe Journal horaire               
+OL,5,      FLe Journal horaire de 17h00      
+OL,6,C17:04GVertigo                          
+OL,7,C18:00GForum                            
+OL,8,C19:00GLe Journal horaire               
+OL,9,      FLe Journal horaire de 19h00      
+OL,10,C19:04GLe grand soir                    
+OL,11,      FLe Grand Soir avec Nuit Incolore 
+OL,12,C20:00GLe Journal horaire               
+OL,13,      FLe Journal horaire de 20h00      
+OL,14,C20:03GJuste mesure                     
+OL,15,C21:00GLe Journal horaire               
+OL,16,      FLe Journal horaire de 21h00      
+OL,17,C22:00GLe Journal horaire               
+OL,18,      FLe Journal horaire de 22h00      
+OL,19,C22:03GLa ligne de coeur                
+OL,20,C23:00GLe Journal horaire               
+OL,21,      FLe Journal horaire de 23h00      
 OL,23,G]AFr#quences RTS    > 780 sur RTS 2    
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

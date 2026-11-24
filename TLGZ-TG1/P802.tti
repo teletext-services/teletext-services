@@ -4,28 +4,28 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     802Cpon 23 lis  19:13:28
-OL,1,B]      @P i } k a   n o { n a     19:01
+OL,0,      BTVP1     802Cwto 24 lis  15:44:36
+OL,1,B]      @P i } k a   n o { n a     15:31
 OL,2,B]    @Mecze wg godz. rozpocz`cia       
-OL,3, Al Shamal - Al Ahli SC        F3-2(0-1)
-OL,4,BTractor SC - Al Wasl          E1-5(0-1)
-OL,5, ]udogorec Razgr-Dunav 2010 RusF1-0(1-0)
-OL,6,BBasaksehir - Corum FK            E(0-1)
-OL,7, Slaven Belupo - NK Osijek        E(1-0)
-OL,8,BBayern Monachium (-Hoffenheim (K)E(1-0)
-OL,9, Podbeskidzie - Bruk-Bet          E(1-1)
-OL,10,BKrasava ENY-Anorthosis Famagusta E(0-2)
-OL,11, Sepsi OSK - FC Rapid 1923        B19:00
-OL,12,BHammarby IF - IFK Goteborg         E0-0
-OL,13, Brondby IF - Midtjylland           E0-0
-OL,14,BOrgryte IS - Kalmar FF             E0-0
-OL,15, Wieczysta Kr. - Motor Lublin       E0-0
-OL,16,BAl Ittihad - Pakhtakor            19:15
-OL,17, Al Quwa Al Jawiya - Al Gharafa   B19:15
-OL,18,BEspanyol (K) - Valencia CF (K)    20:00
-OL,19, AD Ceuta FC - Almeria            B20:30
-OL,20,BFC Nantes - Grenoble              20:45
-OL,21, Sochaux - Dunkerque              B20:45
+OL,3, Como U19 - AEK Athens U19     E1-1(0-0)
+OL,4,BJaponia U17 - Serbia U17      E0-1(0-1)
+OL,5, Slovan U19 - Real Betis U19   E1-2(1-2)
+OL,6,BArsenal U19 - Borussia D. U19 E2-2(1-2)
+OL,7, Meksyk U17 - Kamerun U17         E(0-0)
+OL,8,BDominikana U17 - Chile U17         E0-0
+OL,9, Litwa U19 - Wyspy Owcze U19      B16:00
+OL,10,BFeyenoord U19 - Porto U19         16:00
+OL,11, Manchester City U19 - Napoli U19 B16:00
+OL,12,BRB Leipzig U19 - Lens U19         16:00
+OL,13, Real Madryt U19-PSV Eindhoven U19B16:00
+OL,14,BBrazylia U17 - Tanzania U17       16:00
+OL,15, Al Riffa - Al Zawra'a            B16:30
+OL,16,BAjman Club - Al Ettifaq           16:30
+OL,17, Algieria U17 - Czarnog_ra U17    B16:30
+OL,18,BHonduras U17 - Kolumbia U17       16:30
+OL,19, Shabab Al Ahli Dubai-Al Qadisiya B17:00
+OL,20,BAl Duhail - Neom SC               18:00
+OL,21, Galatasaray - Aston Villa        B18:45
 OL,22,R
 OL,23,R
 OL,24,   A800      B801      C803      F804   
@@ -35,17 +35,47 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     802Cpon 23 lis  19:13:28
-OL,1,B]      @P i } k a   n o { n a     19:01
+OL,0,      BTVP1     802Cwto 24 lis  15:44:36
+OL,1,B]      @P i } k a   n o { n a     15:31
 OL,2,B]    @Mecze wg godz. rozpocz`cia       
-OL,3,BMonza - AC Fiorentina             20:45
-OL,4, Brentford - Everton              B21:00
-OL,5,BGimnasia La Plat-Newell's Old Boy 21:00
-OL,6, Levante UD - Elche CF            B21:00
-OL,7,BInternacional - Vitoria           23:30
-OL,8, Botafogo-RJ - Sao Paulo FC       B00:00
-OL,9,BSantos FC - Gremio                01:00
-OL,10, St. Louis City - Los Angeles FC  B02:00
+OL,3,BBodo/Glimt - LASK Linz            18:45
+OL,4, Juve Stabia - Catanzaro          B19:00
+OL,5,BAl Nassr - Al Sadd                19:15
+OL,6, Benevento Calcio - Empoli        B20:00
+OL,7,BCesena - Ascoli                   20:00
+OL,8, Virtus Entella - Verona          B20:00
+OL,9,BVicenza - Carrarese               20:00
+OL,10, Palermo - Sudtirol               B20:00
+OL,11,BBristol City - Wrexham            20:45
+OL,12, Cardiff City - Preston North End B20:45
+OL,13,BCharlton Athletic - Lincoln City  20:45
+OL,14, Middlesbrough - Swansea City     B20:45
+OL,15,BNorwich City-Queens Park Rangers  20:45
+OL,16, Portsmouth - West Ham Utd        B20:45
+OL,17,BSheffield United - Southampton    20:45
+OL,18, Hibernian - Dundee FC            B20:45
+OL,19,BWolverhampton - Derby County      21:00
+OL,20, Arsenal - Borussia D.            B21:00
+OL,21,BFeyenoord - Porto                 21:00
+OL,22,R
+OL,23,R
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80203
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP1     802Cwto 24 lis  15:44:36
+OL,1,B]      @P i } k a   n o { n a     15:31
+OL,2,B]    @Mecze wg godz. rozpocz`cia       
+OL,3, Manchester City - Napoli         B21:00
+OL,4,BComo - AEK Ateny                  21:00
+OL,5, Real Madryt - PSV Eindhoven      B21:00
+OL,6,BRB Lipsk - RC Lens                21:00
+OL,7, Slovan Bratys}awa - Betis        B21:00
+OL,8,BRangers - Aberdeen                21:00
+OL,9, Chapecoense - Palmeiras          B22:00
 OL,22,R
 OL,23,R
 OL,24,   A800      B801      C803      F804   

@@ -4,23 +4,23 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     428Cpon 23 lis  18:25:30
+OL,0,      BTVP3     428Cwto 24 lis  05:46:15
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
-OL,4,E23.11.2026 18:00    GStany:            
+OL,4,E24.11.2026  5:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FBia}a                           
-OL,8,FCi`{kowice      B172   F350    500    =
+OL,8,FCi`{kowice      B171   F350    500    =
 OL,10, Rzeka:FDunajec                         
-OL,11,FNowy Targ-KowaniB159   F300    380    =
-OL,12, Kro|cienko      B166   G320    390    +
-OL,13,FNowy S@cz        B68   F250    380    =
-OL,14, [abno           B148   G530    750    =
+OL,11,FNowy Targ-KowaniB157   F300    380    =
+OL,12, Kro|cienko      B165   G320    390    =
+OL,13,FNowy S@cz        B67   F250    380    -
+OL,14, [abno           B124   G530    750    +
 OL,16, Rzeka:FKamienica                       
-OL,17,FNowy S@cz        B85   F200    260    =
+OL,17,FNowy S@cz        B84   F200    260    =
 OL,19, Rzeka:F]ubinka                         
-OL,20,FNowy S@cz       B206   F300    380    =
+OL,20,FNowy S@cz       B205   F300    380    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,427,429,100,100,0,100
 PN,42802
@@ -28,23 +28,23 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     428Cpon 23 lis  18:25:30
+OL,0,      BTVP3     428Cwto 24 lis  05:46:15
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
-OL,4,E23.11.2026 18:00    GStany:            
+OL,4,E24.11.2026  5:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FPoprad                          
-OL,8,FStary S@cz      B131   F300    400    =
+OL,8,FStary S@cz      B130   F300    400    =
 OL,10, Rzeka:FRaba                            
-OL,11,FRabka            B76   F140    180    =
-OL,12, Str_{a           B43   G220    290    =
-OL,13,FProsz_wki       B213   F500    700    =
+OL,11,FRabka            B75   F140    180    =
+OL,12, Str_{a           B41   G220    290    -
+OL,13,FProsz_wki       B212   F500    700    =
 OL,15, Rzeka:FSkawa                           
-OL,16,FSucha Beskidzka B108   F215    285    =
-OL,17, Wadowice        B106   G370    490    =
+OL,16,FSucha Beskidzka B106   F215    285    =
+OL,17, Wadowice        B105   G370    490    =
 OL,19, Rzeka:FSo}a                            
-OL,20,FO|wi`cim        B260   F370    460    =
+OL,20,FO|wi`cim        B261   F370    460    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,427,429,100,100,0,100
 PN,42803
@@ -52,21 +52,21 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     428Cpon 23 lis  18:25:30
+OL,0,      BTVP3     428Cwto 24 lis  05:46:15
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
-OL,4,E23.11.2026 18:00    GStany:            
+OL,4,E24.11.2026  5:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FSzreniawa                       
-OL,8,FBiskupice       B292   F410    450    +
+OL,8,FBiskupice       B281   F410    450    =
 OL,10, Rzeka:FUszwica                         
-OL,11,FBorz`cin        B106   F300    400    =
+OL,11,FBorz`cin        B105   F300    400    =
 OL,13, Rzeka:FWis}a                           
-OL,14,FSmolice         B133   F450    630    =
-OL,15, Krak_w Bielany  B159   G370    520    +
-OL,16,FPop`dzynka      B172   F580    750    +
-OL,17, Karsy           B106   G550    750    =
-OL,18,FSzczucin        B100   F460    660    =
+OL,14,FSmolice         B135   F450    630    =
+OL,15, Krak_w Bielany  B148   G370    520    =
+OL,16,FPop`dzynka      B173   F580    750    +
+OL,17, Karsy            B98   G550    750    -
+OL,18,FSzczucin        B101   F460    660    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,427,429,100,100,0,100

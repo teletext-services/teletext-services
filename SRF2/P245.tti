@@ -3,9 +3,9 @@ PN,24501
 SC,0001
 PS,C200
 CT,8,T
-OL,0,       G245  SRF zwei  23.11.26 16:00:09
-OL,1,C]@FUSSBALL         G]@22.11.26 17:46GAT
-OL,2,G                                       
+OL,0,       G245  SRF zwei  24.11.26 00:52:26
+OL,1,C]@FUSSBALL         G]@22.11.26 17:46G"=
+OL,2,GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 OL,3,                                    1/4 
 OL,4,CSassuolo    - Genoa         C 0:2 (0:2)
 OL,5,G26'/38'Osmajic.                        
@@ -29,9 +29,9 @@ PN,24502
 SC,0002
 PS,C200
 CT,8,T
-OL,0,       G245  SRF zwei  23.11.26 16:00:09
-OL,1,C]@FUSSBALL         G]@22.11.26 19:54GAT
-OL,2,G                                       
+OL,0,       G245  SRF zwei  24.11.26 00:52:26
+OL,1,C]@FUSSBALL         G]@22.11.26 19:54G"=
+OL,2,GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 OL,3,                                    2/4 
 OL,4,CAC Milan    - Frosinone     C 5:1 (2:1)
 OL,5,G4'Calvani(Eig) 1:0,G19'Ramos 2:0,G     
@@ -55,9 +55,9 @@ PN,24503
 SC,0003
 PS,C200
 CT,8,T
-OL,0,       G245  SRF zwei  23.11.26 16:00:09
-OL,1,C]@FUSSBALL         G]@22.11.26 23:25GAT
-OL,2,G                                       
+OL,0,       G245  SRF zwei  24.11.26 00:52:26
+OL,1,C]@FUSSBALL         G]@22.11.26 23:25G"=
+OL,2,GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 OL,3,                                    3/4 
 OL,4,CAtalanta    - Inter         C 4:4 (1:2)
 OL,5,G16'/32'P.Esposito 0:2,G35'Elmas 1:2,G  
@@ -83,11 +83,23 @@ PN,24504
 SC,0004
 PS,C200
 CT,8,T
-OL,0,       G245  SRF zwei  23.11.26 16:00:09
-OL,1,C]@FUSSBALL         G]@09.11.26 13:25GAT
-OL,2,G                                       
+OL,0,       G245  SRF zwei  24.11.26 00:52:26
+OL,1,C]@FUSSBALL         G]@23.11.26 22:52G"=
+OL,2,GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 OL,3,                                    4/4 
-OL,4,CMonza       - Fiorentina CMO 20.45 Uhr 
-OL,21,FU-Power Stadium                        
+OL,4,CMonza       - Fiorentina    C 3:0 (1:0)
+OL,5,G45'(P)/51'Varela,G59'Robinson.         
+OL,9,FMonza:GThiam;GKouadioG(74'Ziolkowski),G
+OL,10,GGoglitschidse,GCarboni;GBirindelliG    
+OL,11,G(85'Lucchesi),GAkinsanmiroG(74'Foe     
+OL,12,GOndoa),GColombo,GPessinaG(84'Toure),G  
+OL,13,GMangas;GVarela,GRobinsonG(67'Mota).    
+OL,15,FFiorentina:GDe Gea;GJimenez,CDragusin,G
+OL,16,GVieryG(28'Ranieri),GMario;GNdour,GInao 
+OL,17,GOulai;GGoncalvesG(46'Njie);GMastantuono
+OL,18,G(67'Beto),GPellegrino,GGnontoG         
+OL,19,G(66'Valdepenas).                       
+OL,21,FU-Power Stadium: 12000                 
+OL,22,GDaniele DoveriG(ITA)                   
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

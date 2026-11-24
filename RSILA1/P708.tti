@@ -3,16 +3,17 @@ PN,70800
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G708  RSI LA 1  23.11.26 14:59:42
-OL,1,A]GRSI   ]@LA1      MARTEDI 24 novembre 
+OL,0,       G708  RSI LA 1  24.11.26 13:14:30
+OL,1,A]GRSI   ]@LA1    MERCOLEDI 25 novembre 
 OL,2,G                                       
-OL,3, G21:50  GICE: caccia        CSTC1TVC711
-OL,4,         Gall'uomo                      
-OL,5, F23:15  FTG Notte                      
-OL,6, G23:40  GMeteoCST                      
-OL,7, F23:50  FBussano alla    CSTCI/IIAC713
-OL,8,         Fporta                         
-OL,9, G01:20  GSiamo fuoriCSTCR              
-OL,10, F02:20  FRepliche informazione         
+OL,3, G21:30  G9-1-1CSTCI/IIC1TV             
+OL,4,         GFai da te                     
+OL,5, F22:20  FTG Notte                      
+OL,6, G22:45  GMeteoCST                      
+OL,7, F22:50  FLotto Svizzero                
+OL,8, G23:00  GLa fidanzata di   CSTCI/IIC714
+OL,9,         Gpap{                          
+OL,10, F00:35  FSiamo fuoriCSTCR              
+OL,11, G01:35  GRepliche informazione         
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  238Cpon 23 lis  18:37:31
+OL,0,      BPOLONIA  238Cwto 24 lis  00:41:47
 OL,1,C]DPI]KA NO[NA  ] GHISZPANIA - LaLiga   
 OL,3,                 C20.11                 
 OL,4,FAth. Bilbao    - Espanyol          0:1 
@@ -26,7 +26,7 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  238Cpon 23 lis  18:37:31
+OL,0,      BPOLONIA  238Cwto 24 lis  00:41:47
 OL,1,C]DPI]KA NO[NA  ] GHISZPANIA - LaLiga   
 OL,3,                 C22.11                 
 OL,4,FBarcelona      - Villarreal        3:2 
@@ -40,7 +40,8 @@ OL,13, Budimir 20
 OL,15,FGetafe         - Atl. Madryt       0:3 
 OL,16,     Baena 10,Cardoso 30,Grimaldo 90+2k 
 OL,19,                 C23.11                 
-OL,20,FLevante        - Elche            21.00
+OL,20,FLevante        - Elche             1:1 
+OL,21, Requena 88       Revivo 62             
 OL,24,   A237      B239      C240      F241   
 FL,237,239,240,241,0,100
 PN,23803
@@ -48,7 +49,7 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  238Cpon 23 lis  18:37:31
+OL,0,      BPOLONIA  238Cwto 24 lis  00:41:47
 OL,1,C]DPI]KA NO[NA  ] GHISZPANIA - LaLiga   
 OL,2, B1.Barcelona (m)   13 12  0  1 51-15 36
 OL,3, B2.Real Madryt     13 11  0  2 33-11 33
@@ -64,11 +65,11 @@ OL,12, 11.Espanyol        13  4  3  6 14-14 15
 OL,13, 12.Deportivo (b)   13  3  6  4 16-17 15
 OL,14, 13.Osasuna         13  4  3  6 13-23 15
 OL,15, 14.Celta Vigo      13  2  7  4 11-12 13
-OL,16, 15.Vallecano       12  3  3  6 15-22 12
-OL,17, 16.Valencia        13  3  3  7  9-20 12
-OL,18, 17.Getafe          13  3  3  7  8-21 12
-OL,19,A18.Levante         12  2  5  5 16-21 11
-OL,20,A19.Elche           12  2  4  6 14-20 10
+OL,16, 15.Levante         13  2  6  5 17-22 12
+OL,17, 16.Vallecano       12  3  3  6 15-22 12
+OL,18, 17.Valencia        13  3  3  7  9-20 12
+OL,19,A18.Getafe          13  3  3  7  8-21 12
+OL,20,A19.Elche           13  2  5  6 15-21 11
 OL,21,A20.Malaga (b)      13  0  5  8  9-24  5
 OL,22,B- LM C- L.EuropyF- L.Konferencji Europy
 OL,23,A- spadek                 D]GW]OCHY =>  
@@ -79,7 +80,7 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  238Cpon 23 lis  18:37:31
+OL,0,      BPOLONIA  238Cwto 24 lis  00:41:47
 OL,1,C]DPI]KA NO[NA  ]  GW]OCHY - Serie A    
 OL,5,                 C21.11                 
 OL,6,FComo           - Cagliari          2:0 
@@ -97,7 +98,7 @@ SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  238Cpon 23 lis  18:37:31
+OL,0,      BPOLONIA  238Cwto 24 lis  00:41:47
 OL,1,C]DPI]KA NO[NA  ]  GW]OCHY - Serie A    
 OL,3,                 C22.11                 
 OL,4,FJuventus       - Venezia           4:0 
@@ -114,7 +115,8 @@ OL,14,FAtalanta       - Inter             4:4
 OL,15,Elmas 35,De Ketelaere 72,80,Kessie 90+1k
 OL,16,          - Esposito 16,32,52,Suci^ 75k 
 OL,19,                 C23.11                 
-OL,20,FMonza          - Fiorentina       20.45
+OL,20,FMonza          - Fiorentina        3:0 
+OL,21, Varela 45k,51,Robinson 59              
 OL,24,   A237      B239      C240      F241   
 FL,237,239,240,241,0,100
 PN,23806
@@ -122,7 +124,7 @@ SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  238Cpon 23 lis  18:37:31
+OL,0,      BPOLONIA  238Cwto 24 lis  00:41:47
 OL,1,C]DPI]KA NO[NA  ]  GW]OCHY - Serie A    
 OL,2, B1.Lazio           12 10  2  0 28-9  32
 OL,3, B2.AS Roma         12  9  3  0 36-11 30
@@ -138,10 +140,10 @@ OL,12, 11.Cagliari        12  5  1  6 10-17 16
 OL,13, 12.Atalanta        12  4  3  5 21-24 15
 OL,14, 13.Torino          12  4  2  6 15-18 14
 OL,15, 14.Lecce           12  3  1  8 12-25 10
-OL,16, 15.Fiorentina      11  2  3  6 17-25  9
-OL,17, 16.Parma           12  2  2  8 10-22  8
-OL,18, 17.Sassuolo        12  2  2  8 16-31  8
-OL,19,A18.Monza (b)       11  2  1  8 17-25  7
+OL,16, 15.Monza (b)       12  3  1  8 20-25 10
+OL,17, 16.Fiorentina      12  2  3  7 17-28  9
+OL,18, 17.Parma           12  2  2  8 10-22  8
+OL,19,A18.Sassuolo        12  2  2  8 16-31  8
 OL,20,A19.Venezia (b)     12  2  0 10  8-25  6
 OL,21,A20.Udinese         12  1  3  8 13-26  6
 OL,22,B- LM  C- LE  F- LKE A- spadek          

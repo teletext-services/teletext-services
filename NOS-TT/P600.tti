@@ -3,7 +3,7 @@ PN,60001
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  600Cmaa 23 nov  13:47:20
+OL,0,       BNOS-TT  600Cdin 24 nov  10:20:37
 OL,1,GW|,|Q|,|W|,,Q,,,,,,,,,,,,,,,,,,,,A 1/3 
 OL,2,AW Q W/,|A]G      S P O R T         
 OL,3,QW/ /Q/,/W,,/Q|,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -13,18 +13,18 @@ OL,6,C602 Sportoverzicht F620 Bridge
 OL,7,F603 Afgelastingen FC621 Cricket        
 OL,8,C604 Agenda      F FC622 Dammen         
 OL,9,F605 Algemeen      CC623 Darts          
-OL,10,F606 Algemeen      FF624C625 Golf       
-OL,11,F607 Atletiek       C626-627CHandbal    
+OL,10,F606 Algemeen      FC624-625 Golf       
+OL,11,C607 Atletiek       C626-627CHandbal    
 OL,12,F608 Atletiek      CC628F629CHippisch   
 OL,13,F609 Atletiek      CC630F631CHockey     
 OL,14,F610 Atletiek      CF632-633 Honkbal    
 OL,15,F611 Atletiek       F634 Inline-skaten  
-OL,16,C612 Autosport     FF635 Judo           
-OL,17,C613 Autosport     FC636 Korfbal        
+OL,16,F612 Autosport     FF635 Judo           
+OL,17,F613 Autosport     FC636 Korfbal        
 OL,18,F614 Autosport     CF637 Kracht/vechtsp.
-OL,19,F615 Badminton     CF638 Motocross      
-OL,20,C616 Basketbal     FC639 Motorsport     
-OL,21,C617 Basketbal     CC640 Motorsport     
+OL,19,C615 Badminton     CF638 Motocross      
+OL,20,C616 Basketbal     FF639 Motorsport     
+OL,21,C617 Basketbal     CF640 Motorsport     
 OL,22,C618 Basketbal     FF641FRoeien/Kano    
 OL,23,A]G    index voetbal op pagina 800      
 OL,24,Aweer    Bnieuws    Csport    Fvoetbal@@
@@ -33,7 +33,7 @@ PN,60002
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  600Cmaa 23 nov  13:47:20
+OL,0,       BNOS-TT  600Cdin 24 nov  10:20:37
 OL,1,GW|,|Q|,|W|,,Q,,,,,,,,,,,,,,,,,,,,A 2/3 
 OL,2,AW Q W/,|A]G      S P O R T         
 OL,3,QW/ /Q/,/W,,/Q|,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -41,21 +41,21 @@ OL,4,Q##############
 OL,5,C642 Rugby         CF658 Triatlon       
 OL,6,C643 Schaken       CF659 Turnen         
 OL,7,F644FScherm./Schiet.C660-661CVolleybal  
-OL,8,C645FSnookerCPool   C662 Waterpolo      
+OL,8,C645 SnookerFPool   C662 Waterpolo      
 OL,9,F646 Softbal                            
-OL,10,F647 Squash        CB--- WIELRENNEN --- 
-OL,11,C648 Tafeltennis   CF663 Nieuws         
+OL,10,C647 Squash        CB--- WIELRENNEN --- 
+OL,11,F648 Tafeltennis   CF663 Nieuws         
 OL,12,G                  FF664 Nieuws         
 OL,13,B--- TENNIS ---    FF665 Nieuws         
-OL,14,C649 ATP Finals     F666 Nieuws         
-OL,15,C650 ATP Finals     F667 Nieuws         
-OL,16,C651 ATP Finals     F668 Nieuws         
-OL,17,F652 Nieuws         F669 Veldrijden     
+OL,14,F649 Davis Cup      F666 Nieuws         
+OL,15,C650 Davis Cup      F667 Nieuws         
+OL,16,F651 Davis Cup      F668 Nieuws         
+OL,17,C652 Nieuws         F669 Veldrijden     
 OL,18,F653 Nieuws        FF670 Veldrijden     
-OL,19,F654 Nieuws         C671 Veldrijden     
+OL,19,F654 Nieuws         F671 Veldrijden     
 OL,20,F655 Nieuws                             
 OL,21,F656 Nieuws         F672 Zeilen         
-OL,22,F657 Ranglijsten    F673 Zwemmen        
+OL,22,C657 Ranglijsten    F673 Zwemmen        
 OL,23,A]G    index voetbal op pagina 800      
 OL,24,Aweer    Bnieuws    Csport    Fvoetbal@@
 FL,702,101,601,801,0,100
@@ -63,7 +63,7 @@ PN,60003
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  600Cmaa 23 nov  13:47:20
+OL,0,       BNOS-TT  600Cdin 24 nov  10:20:38
 OL,1,GW|,|Q|,|W|,,Q,,,,,,,,,,,,,,,,,,,,A 3/3 
 OL,2,AW Q W/,|A]G      S P O R T         
 OL,3,QW/ /Q/,/W,,/Q|,,,,,,,,,,,,,,,,,,,,,,,,,

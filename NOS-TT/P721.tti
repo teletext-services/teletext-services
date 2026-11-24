@@ -3,49 +3,19 @@ PN,72101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F 1/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F 1/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
 OL,6,BDamsterhaven@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,7,C-FGeen bediening Havenbrug tnb F@@@@@@@
-OL,8,BEemskanaal@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,9,C-FGeen bediening Driebondsbrug@@@@@@@@@
-OL,10,F  24 nov 22:00-25 nov 05:00@@@@@@@@@@@@
-OL,11,C-FOponthoud max 0,5 u Woldbrug, @@@@@@@
-OL,12,F  Bloemhofbrug,Borgbrug@@@@@@@@@@@@@@@@
-OL,13,F  30 nov t/m 4 dec 07:00-17:00@@@@@@@@@
-OL,14,C-FStremming Kleine kolk Farmsum tnbF@@@
-OL,15,C-FStremming Zeesluis Farmsum@@@@@@@@@@@
-OL,16,F  1 dec 09:00-12:00@@@@@@@@@@@@@@@@@@@@
-OL,17,C-FStremming bew. deel Eelwerderbrug@@@@
-OL,18,F  - 30 nov 12:00-19:00@@@@@@@@@@@@@@@@@
-OL,19,F  - 1,2 dec 07:00-12:00,13:00-19:00@@@@
-OL,20,F  Geen bediening Eelwerderbrug@@@@@@@@@
-OL,21,F  3 dec 07:00-19:00,4 dec 07:00-16:00@@
-OL,22,C-FStremming kmr 09-12CopgehevenF@@@@@@@
-OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,72102
-SC,0002
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F 2/34
-OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
-OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
-OL,5,                                    @@@@
-OL,6,BBoter of Uithuizerdiep@@@@@@@@@@@@@@@@@
-OL,7,C-FGeen bediening Brug Middelstum @@@@@@
-OL,8,F  23 nov t/m 22 jan@@@@@@@@@@@@@@@@@@@@
-OL,9,BReitdiep@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,10,C-FGeen bedien Brug Roodehaan t/m 29 nov
-OL,11,C-FGeen bediening Reitdiepbrug@@@@@@@@@@
-OL,12,F  23 nov 13:00-27 nov 11:30@@@@@@@@@@@@
+OL,8,BVan Starkenborghkanaal@@@@@@@@@@@@@@@@@
+OL,9,C-FOponthoud max 0,5 u Brug Aduard, @@@@
+OL,10,F  Brug Zuidhorn, Dorkwerderbrug, @@@@@@
+OL,11,F  Gaarkeukensluis, @@@@@@@@@@@@@@@@@@@@
+OL,12,F  30 nov t/m 4 dec 07:00-17:00@@@@@@@@@
 OL,13,BWinschoterdiep@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,14,C-FGeen bediening Westerbroeksterbrug@@@
 OL,15,F  1 dec 08:00-12:00@@@@@@@@@@@@@@@@@@@@
@@ -59,33 +29,63 @@ OL,22,F  4 dec 09:45-12:00@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
+PN,72102
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F 2/32
+OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
+OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
+OL,5,                                    @@@@
+OL,6,BBoter of Uithuizerdiep@@@@@@@@@@@@@@@@@
+OL,7,C-FGeen bediening Brug Middelstum @@@@@@
+OL,8,F  t/m 22 jan@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,9,BEemskanaal@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,10,C-FGeen bediening Driebondsbrug@@@@@@@@@
+OL,11,F  24 nov 22:00-25 nov 05:00@@@@@@@@@@@@
+OL,12,C-FOponthoud max 0,5 u Woldbrug, @@@@@@@
+OL,13,F  Bloemhofbrug,Borgbrug@@@@@@@@@@@@@@@@
+OL,14,F  30 nov t/m 4 dec 07:00-17:00@@@@@@@@@
+OL,15,C-FStremming Kleine kolk Farmsum tnbF@@@
+OL,16,C-FStremming Zeesluis Farmsum@@@@@@@@@@@
+OL,17,F  1 dec 09:00-12:00@@@@@@@@@@@@@@@@@@@@
+OL,18,C-FStremming bew. deel Eelwerderbrug@@@@
+OL,19,F  - 30 nov 12:00-19:00@@@@@@@@@@@@@@@@@
+OL,20,F  - 1,2 dec 07:00-12:00,13:00-19:00@@@@
+OL,21,F  Geen bediening Eelwerderbrug@@@@@@@@@
+OL,22,F  3 dec 07:00-19:00,4 dec 07:00-16:00@@
+OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
 PN,72103
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F 3/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F 3/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BVan Starkenborghkanaal@@@@@@@@@@@@@@@@@
-OL,7,C-FCStremming Gaarkeukensluis tnbF@@@@@@
-OL,8,C-FOponthoud max 0,5 u Brug Aduard, @@@@
-OL,9,F  Brug Zuidhorn, Dorkwerderbrug, @@@@@@
-OL,10,F  Gaarkeukensluis, @@@@@@@@@@@@@@@@@@@@
-OL,11,F  30 nov t/m 4 dec 07:00-17:00@@@@@@@@@
-OL,12,BVerbindingskanaal Damsterdiep-Oude @@@@
-OL,13,BEemskanaal@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,14,C-FStremming Roggenkampsluis t/m 16 jan@
-OL,15,F  Geen bedien Stuurhuisbrug t/m 16 jan@
-OL,16,BDamsterdiep@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,17,C-FGeen bedien Winneweerbrug t/m 31 dec@
+OL,6,BMensingeweersterloopdiep@@@@@@@@@@@@@@@
+OL,7,C-FStremming Abelstokstersluis tnb@@@@@@
+OL,8,BDamsterdiep@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,9,C-FGeen bedien Winneweerbrug t/m 31 dec@
+OL,10,BReitdiep@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,11,C-FGeen bedien Brug Roodehaan t/m 29 nov
+OL,12,C-FGeen bediening Reitdiepbrug@@@@@@@@@@
+OL,13,F  27 nov 11:30@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,14,BVerbindingskanaal Damsterdiep-Oude @@@@
+OL,15,BEemskanaal@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,16,C-FStremming Roggenkampsluis t/m 16 jan@
+OL,17,F  Geen bedien Stuurhuisbrug t/m 16 jan@
 OL,18,BLopster Wijmers@@@@@@@@@@@@@@@@@@@@@@@@
 OL,19,C-FGeen bediening Brouwerstil tnb F@@@@@
-OL,20,BMensingeweersterloopdiep@@@@@@@@@@@@@@@
-OL,21,C-FStremming Abelstokstersluis tnb@@@@@@
-OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,20,BWesterwijtwerdermaar@@@@@@@@@@@@@@@@@@@
+OL,21,C-FGeen bediening Westerwijtwerderdraai@
+OL,22,F  t/m 11 mrtFF@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -93,11 +93,11 @@ PN,72104
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F 4/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F 4/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
 OL,6,BOosterdiep@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,7,C-FStremming Batjesverlaat t/m 20 feb@@@
@@ -123,29 +123,29 @@ PN,72105
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F 5/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F 5/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BDeel@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FGeen bedien Deelspoorbrug t/m 30 nov@
-OL,8,BJanesloot@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,9,C-FOponthoud max 1 u Jaansleatbrege@@@@@
-OL,10,F  23 nov 12:00-16:00@@@@@@@@@@@@@@@@@@@
-OL,11,BTurfgracht - Nauwe Gracht - @@@@@@@@@@@
-OL,12,BBolswardertrekvaart@@@@@@@@@@@@@@@@@@@@
-OL,13,C-FGeen bediening Blauwpoortsbrug, @@@@@
-OL,14,F  Gijsbert Japicxbrug,Sint Jansbrug @@@
-OL,15,F  Bolsward 23 nov t/m 19 mrt@@@@@@@@@@@
-OL,16,BNieuwe Kanaal@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,17,C-FStremming 1e Kanaalsbrug tot @@@@@@@@
-OL,18,F  Wirdumerpoortsbrug t/m 11 dec@@@@@@@@
-OL,19,BNauwe Greuns@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,20,C-FGeen bedien Oxena Brids draaibrg tnb@
-OL,21,C-FGewijzigde bediening Oxena Bridsbrug 
-OL,22,F  tnb wo-zo 10:00-16:00@@@@@@@@@@@@@@@@
+OL,6,BVan Harinxmakanaal@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FGeen bediening Van Harinxmabruggen,@@
+OL,8,F  Spoorbrug HRMK t/m 27 nov 07:00-15:30
+OL,9,C-FOponthoud max 1 u Brug Kiesterzijl @@
+OL,10,F  Brug Dronrijp,Fietsbrug Ritsumasyl, @
+OL,11,F  Stationsbrug Franeker, Brug Dronrijp,
+OL,12,F  Frisiabrug, 24 nov,2 dec 20:00-22:00@
+OL,13,C-FOponthoud max 1 u objecten@@@@@@@@@@@
+OL,14,F  -Frisiabrug 24 nov 08:00-12:00@@@@@@@
+OL,15,F  -Brug Kiesterzijl 24 nov 12:00-16:00@
+OL,16,F  -Grote kolk Tsjerk Hiddessluizen@@@@@
+OL,17,F   25 nov 08:00-12:00@@@@@@@@@@@@@@@@@@
+OL,18,F  -Kleine kolk Tsjerk Hiddessluizen@@@@
+OL,19,F   25 nov 12:00-16:00@@@@@@@@@@@@@@@@@@
+OL,20,F  -Fietsbrug Ritsumasyl@@@@@@@@@@@@@@@@
+OL,21,F   26 nov 11:00-14:00@@@@@@@@@@@@@@@@@@
+OL,22,F  -Brug Dronrijp 26 nov 14:00-17:00@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -153,29 +153,29 @@ PN,72106
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F 6/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F 6/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BZool@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FStremming Zeesluis Workum t/m 8 mrt@@
-OL,8,BLits@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,9,C-FGeen bedien Brug Oostermeer t/m 1 apr
-OL,10,BNieuwe Zandsloot@@@@@@@@@@@@@@@@@@@@@@@
-OL,11,C-FOponthoud max 1 u Zandslootbrug @@@@@
-OL,12,F  24 nov,2 dec 20:00-22:00@@@@@@@@@@@@@
-OL,13,BOudeweg@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,14,C-FOponthoud max 1 u Brug Noorder @@@@@@
-OL,15,F  Oudeweg 23 nov 08:00-12:00@@@@@@@@@@@
-OL,16,BPier Christiaanssleat@@@@@@@@@@@@@@@@@@
-OL,17,C-FGeen bediening Pier-Christiaanbrug@@@
-OL,18,F  t/m 28 mrt@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,19,BScharsterrijn of Nieuwe Rijn@@@@@@@@@@@
-OL,20,C-FGeen bediening Scharsterrijnbrug tnbC
-OL,21,BRingvaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,22,C-FGeen bediening Poolsbrug t/m 18 dec@@
+OL,6,BDeel@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FGeen bedien Deelspoorbrug t/m 30 nov@
+OL,8,BNieuwe Kanaal@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,9,C-FStremming 1e Kanaalsbrug tot @@@@@@@@
+OL,10,F  Wirdumerpoortsbrug t/m 11 dec@@@@@@@@
+OL,11,BTurfgracht - Nauwe Gracht - @@@@@@@@@@@
+OL,12,BBolswardertrekvaart@@@@@@@@@@@@@@@@@@@@
+OL,13,C-FGeen bediening Blauwpoortsbrug, @@@@@
+OL,14,F  Gijsbert Japicxbrug,Sint Jansbrug @@@
+OL,15,F  Bolsward t/m 19 mrt@@@@@@@@@@@@@@@@@@
+OL,16,BNauwe Greuns@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,17,C-FGeen bedien Oxena Brids draaibrg tnb@
+OL,18,C-FGewijzigde bediening Oxena Bridsbrug 
+OL,19,F  tnb wo-zo 10:00-16:00@@@@@@@@@@@@@@@@
+OL,20,BNieuwe Zandsloot@@@@@@@@@@@@@@@@@@@@@@@
+OL,21,C-FOponthoud max 1 u Zandslootbrug @@@@@
+OL,22,F  24 nov,2 dec 20:00-22:00@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -183,28 +183,28 @@ PN,72107
 SC,0007
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F 7/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F 7/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BWorkumertrekvaart@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FOponthoud max 1 u Sudergoabrege@@@@@@
-OL,8,F  26 nov 08:00-11:00@@@@@@@@@@@@@@@@@@@
-OL,9,BVan Harinxmakanaal@@@@@@@@@@@@@@@@@@@@@
-OL,10,C-FGeen bediening Van Harinxmabruggen,@@
-OL,11,F  Spoorbrug HRMK @@@@@@@@@@@@@@@@@@@@@@
-OL,12,F  23 t/m 27 nov 07:00-15:30@@@@@@@@@@@@
-OL,13,C-FOponthoud max 1 u Brug Kiesterzijl @@
-OL,14,F  Brug Dronrijp,Fietsbrug Ritsumasyl, @
-OL,15,F  Stationsbrug Franeker, Brug Dronrijp,
-OL,16,F  Frisiabrug, 24 nov,2 dec 20:00-22:00@
-OL,17,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,18,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,19,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,20,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,BPier Christiaanssleat@@@@@@@@@@@@@@@@@@
+OL,7,C-FGeen bediening Pier-Christiaanbrug@@@
+OL,8,F  t/m 28 mrt@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,9,BWorkumertrekvaart@@@@@@@@@@@@@@@@@@@@@@
+OL,10,C-FOponthoud max 1 u Sudergoabrege@@@@@@
+OL,11,F  26 nov 08:00-11:00@@@@@@@@@@@@@@@@@@@
+OL,12,BLits@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,13,C-FGeen bedien Brug Oostermeer t/m 1 apr
+OL,14,BRingvaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,15,C-FGeen bediening Poolsbrug t/m 18 dec@@
+OL,16,BScharsterrijn of Nieuwe Rijn@@@@@@@@@@@
+OL,17,C-FGeen bediening Scharsterrijnbrug tnbC
+OL,18,BWijmerts of Bolswarderzeilvaart@@@@@@@@
+OL,19,C-FCGeen bedien Spoorbrug Nijezijl tnbF@
+OL,20,BZool@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,21,C-FStremming Zeesluis Workum t/m 8 mrt@@
 OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
@@ -213,29 +213,29 @@ PN,72108
 SC,0008
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F 8/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F 8/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BVan Harinxmakanaal@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FOponthoud max 1 u objecten@@@@@@@@@@@
-OL,8,F  -Frisiabrug 24 nov 08:00-12:00@@@@@@@
-OL,9,F  -Brug Kiesterzijl 24 nov 12:00-16:00@
-OL,10,F  -Grote kolk Tsjerk Hiddessluizen@@@@@
-OL,11,F   25 nov 08:00-12:00@@@@@@@@@@@@@@@@@@
-OL,12,F  -Kleine kolk Tsjerk Hiddessluizen@@@@
-OL,13,F   25 nov 12:00-16:00@@@@@@@@@@@@@@@@@@
-OL,14,F  -Fietsbrug Ritsumasyl@@@@@@@@@@@@@@@@
-OL,15,F   26 nov 11:00-14:00@@@@@@@@@@@@@@@@@@
-OL,16,F  -Brug Dronrijp 26 nov 14:00-17:00@@@@
-OL,17,BDrentsche Hoofdvaart@@@@@@@@@@@@@@@@@@@
-OL,18,C-FGeen bediening Spoorbrug o/d Drentse 
-OL,19,F  Hoofdvaart t/m 30 nov 09:00@@@@@@@@@@
-OL,20,C-FStremm Spoorbrug Drentse Hoofdvaart @
-OL,21,F  t/m 30 nov 01:00@@@@@@@@@@@@@@@@@@@@@
-OL,22,C-FStremming Norgerbrug tnb@@@@@@@@@@@@@
+OL,6,BDrentsche Hoofdvaart@@@@@@@@@@@@@@@@@@@
+OL,7,C-FGeen bediening Spoorbrug o/d Drentse 
+OL,8,F  Hoofdvaart t/m 30 nov 09:00@@@@@@@@@@
+OL,9,C-FStremm Spoorbrug Drentse Hoofdvaart @
+OL,10,F  t/m 30 nov 01:00@@@@@@@@@@@@@@@@@@@@@
+OL,11,C-FStremming Norgerbrug tnb@@@@@@@@@@@@@
+OL,12,BKoning Willem-Alexanderkanaal@@@@@@@@@@
+OL,13,C-FStremming Spaarsluis t/m 27 nov@@@@@@
+OL,14,BStieltjeskanaal@@@@@@@@@@@@@@@@@@@@@@@@
+OL,15,C-FGeen bedien Fietsbrug Het Vonder tnb@
+OL,16,BOssenzijlersloot@@@@@@@@@@@@@@@@@@@@@@@
+OL,17,C-FStremming Brug Ossenzijl t/m 31 mrt@@
+OL,18,BKanaal Almelo-De Haandrik@@@@@@@@@@@@@@
+OL,19,C-FStremming Tonnendijkbrug 8 t/m 16 dec
+OL,20,BBeukersgracht@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,21,C-FStremming Beukerssluis@@@@@@@@@@@@@@@
+OL,22,F  7 t/m 9 dec 08:30-12:00,12:30-15:00@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -243,29 +243,29 @@ PN,72109
 SC,0009
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F 9/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F 9/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BBinnengracht (westelijk gedeelte) te @@
-OL,7,BCoevorden@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,8,C-FGeen bediening Spoorbrug @@@@@@@@@@@@
-OL,9,F  Coevorderstadsgracht t/m 23 nov 05:00
-OL,10,BCoevorden-Vechtkanaal@@@@@@@@@@@@@@@@@@
-OL,11,C-FGeen bediening Bentheimer Eisenbahn@@
-OL,12,F  t/m 23 nov 05:00@@@@@@@@@@@@@@@@@@@@@
-OL,13,BKoning Willem-Alexanderkanaal@@@@@@@@@@
-OL,14,C-FStremming Spaarsluis t/m 27 nov@@@@@@
-OL,15,BStieltjeskanaal@@@@@@@@@@@@@@@@@@@@@@@@
-OL,16,C-FGeen bedien Fietsbrug Het Vonder tnb@
-OL,17,BBeukersgracht@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,18,C-FStremming Beukerssluis@@@@@@@@@@@@@@@
-OL,19,F  7 t/m 9 dec 08:30-12:00,12:30-15:00@@
-OL,20,BGanzendiep@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,21,C-FStremming Ganzensluis@@@@@@@@@@@@@@@@
-OL,22,F  30 nov t/m 3 dec@@@@@@@@@@@@@@@@@@@@@
+OL,6,BGanzendiep@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FStremming Ganzensluis@@@@@@@@@@@@@@@@
+OL,8,F  30 nov t/m 3 dec@@@@@@@@@@@@@@@@@@@@@
+OL,9,BGeldersche IJssel@@@@@@@@@@@@@@@@@@@@@@
+OL,10,C-FBodem NAP+85 cm bew.deel IJssel-@@@@@
+OL,11,F  spoorbrug Zutphen tnb@@@@@@@@@@@@@@@@
+OL,12,BKanaal van St. Andries@@@@@@@@@@@@@@@@@
+OL,13,C-FGeen bediening brug Sint Andries@@@@@
+OL,14,F  t/m 30 nov 07:00 F@@@@@@@@@@@@@@@@@@@
+OL,15,C-FStremming Sluis Sint Andries@@@@@@@@@
+OL,16,F  30 nov 07:00-17:00@@@@@@@@@@@@@@@@@@@
+OL,17,BMaas-Waalkanaal@@@@@@@@@@@@@@@@@@@@@@@@
+OL,18,C-FBediening Brug Oostsluis Weurt @@@@@@
+OL,19,F  06:00-23:00 tnbF48uur vooraf meldenC@
+OL,20,C-FGeen bedien Brug Westsluis Weurt tnbC
+OL,21,C-FStremming Oostkolk sluis Weurt@@@@@@@
+OL,22,F  25 nov 08:00-16:00@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -273,29 +273,29 @@ PN,72110
 SC,0010
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F10/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F10/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BGeldersche IJssel@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FBedieningFEilandbrugCnormaalF@@@@@@@@
-OL,8,BOssenzijlersloot@@@@@@@@@@@@@@@@@@@@@@@
-OL,9,C-FStremming Brug Ossenzijl t/m 31 mrt@@
-OL,10,BMaas-Waalkanaal@@@@@@@@@@@@@@@@@@@@@@@@
-OL,11,C-FBediening Brug Oostsluis Weurt @@@@@@
-OL,12,F  06:00-23:00 tnbF48uur vooraf meldenC@
-OL,13,C-FGeen bedien Brug Westsluis Weurt tnbC
-OL,14,C-FStremming Oostkolk sluis Weurt@@@@@@@
-OL,15,F  25 nov 08:00-16:00@@@@@@@@@@@@@@@@@@@
-OL,16,BKanaal van St. Andries@@@@@@@@@@@@@@@@@
-OL,17,C-FGeen bediening brug Sint Andries@@@@@
-OL,18,F  23 novF17:00-30 nov 07:00 F@@@@@@@@@@
-OL,19,C-FStremming Sluis Sint Andries@@@@@@@@@
-OL,20,F  30 nov 07:00-17:00@@@@@@@@@@@@@@@@@@@
-OL,21,C-FStremming Sluis Sint Andries@@@@@@@@@
-OL,22,F  t/mF23 nov 17:00C@@@@@@@@@@@@@@@@@@@@
+OL,6,BOude IJssel@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FBediening Oude IJsselbrug @@@@@@@@@@@
+OL,8,F  tnbC2u vooraf meldenFF@@@@@@@@@@@@@@@
+OL,9,F  Oponthoud max 2 u alle objecten @@@@@
+OL,10,F  Oude IJssel tnb@@@@@@@@@@@@@@@@@@@@@@
+OL,11,BWaal@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,12,C-FStremming Lindenberghaven tnbF@@@@@@@
+OL,13,BVaarweg Krabbersgat@@@@@@@@@@@@@@@@@@@@
+OL,14,C-FStremming Krabbersgatsluis@@@@@@@@@@@
+OL,15,F  24 nov 07:30-17:00@@@@@@@@@@@@@@@@@@@
+OL,16,BDen Oever, Binnenhaven te@@@@@@@@@@@@@@
+OL,17,C-FStremming Stevinsluis@@@@@@@@@@@@@@@@
+OL,18,F  30 nov 17:00-23:00,1 dec 18:00-23:59@
+OL,19,BVaarweg van Urk naar Kornwerderzand@@@@
+OL,20,C-FStremm Kleine kolk Lorentzsluizen tnb
+OL,21,C-FStremming Lorentzsluizen@@@@@@@@@@@@@
+OL,22,F  8 dec 09:00-10:30@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -303,29 +303,29 @@ PN,72111
 SC,0011
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F11/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F11/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BOude IJssel@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FBediening Oude IJsselbrug @@@@@@@@@@@
-OL,8,F  tnbC2u vooraf meldenFF@@@@@@@@@@@@@@@
-OL,9,F  Oponthoud max 2 u alle objecten @@@@@
-OL,10,F  Oude IJssel tnb@@@@@@@@@@@@@@@@@@@@@@
-OL,11,C-FL max 55 m Sluis Doesburg @@@@@@@@@@@
-OL,12,F  Ct/m 23 nov 07:00@@@@@@@@@@@@@@@@@@@@
-OL,13,BGeldersche IJssel@@@@@@@@@@@@@@@@@@@@@@
-OL,14,C-FBodem NAP+85 cm bew.deel IJssel-@@@@@
-OL,15,F  spoorbrug Zutphen tnb@@@@@@@@@@@@@@@@
-OL,16,BWaal@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,17,C-FStremming Lindenberghaven tnbF@@@@@@@
-OL,18,BVaarweg van Urk naar Kornwerderzand@@@@
-OL,19,C-FStremm Kleine kolk Lorentzsluizen tnb
-OL,20,BDen Oever, Binnenhaven te@@@@@@@@@@@@@@
-OL,21,C-FStremming Stevinsluis@@@@@@@@@@@@@@@@
-OL,22,F  30 nov 17:00-23:00,1 dec 18:00-23:59@
+OL,6,BVaarweg van Amsterdam naar Lemmer@@@@@@
+OL,7,C-FOponthoud max 1 u Houtribsluizen@@@@@
+OL,8,F  25 nov 22:00-26 nov 06:00@@@@@@@@@@@@
+OL,9,BHoge Vaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,10,C-FStremm Zuidersluis 25 nov 08:00-12:00
+OL,11,BLemstervaart@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,12,C-FStremming Friese sluis Lemmer@@@@@@@@
+OL,13,F  2 t/m 4 dec 07:00-16:00@@@@@@@@@@@@@@
+OL,14,BZwolsevaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,15,C-FStremming Marknessersluis@@@@@@@@@@@@
+OL,16,F  2 dec 08:00-17:00@@@@@@@@@@@@@@@@@@@@
+OL,17,C-FStremming Marknessersluis@@@@@@@@@@@@
+OL,18,F  7 dec 07:00-16:00@@@@@@@@@@@@@@@@@@@@
+OL,19,BUrkervaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,20,C-FGeen bediening Nagelerbrug@@@@@@@@@@@
+OL,21,F  30 nov t/m 3 dec@@@@@@@@@@@@@@@@@@@@@
+OL,22,C-FStremm Urkersluis 24 nov 07:00-16:00@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -333,29 +333,29 @@ PN,72112
 SC,0012
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F12/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F12/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BVaarweg Krabbersgat@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FStremming Krabbersgatsluis@@@@@@@@@@@
-OL,8,F  24 nov 07:30-17:00@@@@@@@@@@@@@@@@@@@
-OL,9,BVaarweg van Amsterdam naar Lemmer@@@@@@
-OL,10,C-FOponthoud max 1 u Houtribsluizen@@@@@
-OL,11,F  25 nov 22:00-26 nov 06:00@@@@@@@@@@@@
-OL,12,BLemstervaart@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,13,C-FStremming Friese sluis Lemmer@@@@@@@@
-OL,14,F  2 t/m 4 dec 07:00-16:00@@@@@@@@@@@@@@
-OL,15,BLage Vaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,16,C-FCStremming Kampersluis tnbF@@@@@@@@@@
-OL,17,C-FStremm Vaartsluis 25 nov 12:00-16:00@
-OL,18,BUrkervaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,19,C-FGeen bediening Nagelerbrug@@@@@@@@@@@
-OL,20,F  30 nov t/m 3 dec@@@@@@@@@@@@@@@@@@@@@
-OL,21,C-FStremming Urkersluis @@@@@@@@@@@@@@@@
-OL,22,F  23,24 nov 07:00-16:00@@@@@@@@@@@@@@@@
+OL,6,BLage Dwarsvaart@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FStrem Noordersluis 24 nov 08:00-12:00
+OL,8,BLage Vaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,9,C-FStremm Vaartsluis 25 nov 12:00-16:00@
+OL,10,BAngstel@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,11,C-FGeen bedien Dorpsbrug Baambrugge tnb@
+OL,12,BNeder-Rijn@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,13,C-FOponthoud max 2 u Sluis Amerongen tnb
+OL,14,C-FSluis Amerongen L max 154.5m tnb C@@@
+OL,15,BGekanaliseerde Hollandsche IJssel@@@@@@
+OL,16,C-FBediening Wilhelmina Pruisenbrug tnb 
+OL,17,F  08:00-16:00@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,18,C-FStremm kmr 14.5-kmr 26.0 t/m 31 mrt@@
+OL,19,BMerwedekanaal (benoorden de Lek)@@@@@@@
+OL,20,C-FGeen bedien Spinozabrug t/m 30 novF@@
+OL,21,C-FStremming Koninginnensluis Vreeswijk@
+OL,22,F  t/m 31 mrt 2027@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -363,29 +363,29 @@ PN,72113
 SC,0013
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F13/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:50
+OL,1,D]                                F13/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BZwolsevaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FStremming Marknessersluis@@@@@@@@@@@@
-OL,8,F  2 dec 08:00-17:00@@@@@@@@@@@@@@@@@@@@
-OL,9,C-FStremming Marknessersluis@@@@@@@@@@@@
-OL,10,F  7 dec 07:00-16:00@@@@@@@@@@@@@@@@@@@@
-OL,11,BVaarweg Randmeer@@@@@@@@@@@@@@@@@@@@@@@
-OL,12,C-FStremming Nijkerkersluis@@@@@@@@@@@@@
-OL,13,F  23 nov 16:00-19:00@@@@@@@@@@@@@@@@@@@
-OL,14,BHoge Vaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,15,C-FStremm Zuidersluis 25 nov 08:00-12:00
-OL,16,BLage Dwarsvaart@@@@@@@@@@@@@@@@@@@@@@@@
-OL,17,C-FStrem Noordersluis 24 nov 08:00-12:00
-OL,18,BVaarweg Ketelhaven@@@@@@@@@@@@@@@@@@@@@
-OL,19,C-FStremming KetelsluisCopgeheven F@@@@@
-OL,20,BNeder-Rijn@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,21,C-FOponthoud max 2 u Sluis Amerongen tnb
-OL,22,C-FSluis Amerongen L max 154.5m tnb C@@@
+OL,6,BVerbindingskanaal te Nigtevecht@@@@@@@@
+OL,7,C-FGeen bediening Nigtevechtbrug @@@@@@@
+OL,8,F  - 30 nov 06:00-09:00,17:00-22:00@@@@@
+OL,9,F  -  1 dec 06:00-09:00,17:00-22:00@@@@@
+OL,10,BOude Gracht@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,11,C-FStremming thv Kalisbrug@@@@@@@@@@@@@@
+OL,12,F  11 jan t/m 14 feb 16:00-22:00@@@@@@@@
+OL,13,BOude Rijn@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,14,C-FStremming Dorpsbrug Harmelen tot @@@@
+OL,15,F  Pomperspleinbrug t/m 1 mrt@@@@@@@@@@@
+OL,16,BLeidsche Rijn@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,17,C-FStremming Loobrug tnbFFF@@@@@@@@@@@@@
+OL,18,BLek@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,19,C-FL max 110 m Sluis Hagestein tnb F@@@@
+OL,20,BAchterzaan of Binnenzaan@@@@@@@@@@@@@@@
+OL,21,C-FGeen bediening Zaanspoorbrug@@@@@@@@@
+OL,22,F  5 dec 07:00-6 dec 12:00@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -393,29 +393,29 @@ PN,72114
 SC,0014
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:08
-OL,1,D]                                F14/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F14/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BVerbindingskanaal te Nigtevecht@@@@@@@@
-OL,7,C-FGeen bediening Nigtevechtbrug @@@@@@@
-OL,8,F  - 30 nov 06:00-09:00,17:00-22:00@@@@@
-OL,9,F  -  1 dec 06:00-09:00,17:00-22:00@@@@@
-OL,10,BGekanaliseerde Hollandsche IJssel@@@@@@
-OL,11,C-FBediening Wilhelmina Pruisenbrug tnb 
-OL,12,F  08:00-16:00@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,13,C-FStremm kmr 14.5-kmr 26.0 t/m 31 mrt@@
-OL,14,BAmsterdam-Rijnkanaal@@@@@@@@@@@@@@@@@@@
-OL,15,C-FStremming Westkolk Pr Irenesluizen@@@
-OL,16,F  - tnb ma-vr 00:00-06:00       @@@@@@@
-OL,17,F              22:00-23:59@@@@@@@@@@@@@@
-OL,18,F  - tnb za-zo 00:00-23:59@@@@@@@@@@@@@@
-OL,19,BMerwedekanaal (benoorden de Lek)@@@@@@@
-OL,20,C-FCGeen bedien Spinozabrug t/m 30 novF@
-OL,21,C-FStremming Koninginnensluis Vreeswijk@
-OL,22,F  t/m 31 mrt 2027@@@@@@@@@@@@@@@@@@@@@@
+OL,6,BNoordhollandsch Kanaal@@@@@@@@@@@@@@@@@
+OL,7,C-FGeen bedien Friesebrug,Leeghwaterbrug
+OL,8,F  - 05 dec 19:00-19:45@@@@@@@@@@@@@@@@@
+OL,9,F  - 10 dec 17:45-18:30@@@@@@@@@@@@@@@@@
+OL,10,F  - 13 dec 15:45-16:30@@@@@@@@@@@@@@@@@
+OL,11,C-FGeen bediening Schoorldammerbrug@@@@@
+OL,12,F  30 nov t/m 11 dec@@@@@@@@@@@@@@@@@@@@
+OL,13,C-FOponthoud max 2 u Leeghwaterbrug@@@@@
+OL,14,F  2 dec 07:00-12:00@@@@@@@@@@@@@@@@@@@@
+OL,15,C-FStremming Sluis Willem I@@@@@@@@@@@@@
+OL,16,F  7 dec 07:00-11 dec 16:00@@@@@@@@@@@@@
+OL,17,C-FStremming Stolperbasculebrug@@@@@@@@@
+OL,18,F  30 nov t/m 2 apr ma-vr               
+OL,19,F  07:30-12:00,13:00-18:00@@@@@@@@@@@@@@
+OL,20,C-FStremming Zijperkeersluis@@@@@@@@@@@@
+OL,21,F  25,26 nov 08:00-12:00@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -423,71 +423,11 @@ PN,72115
 SC,0015
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F15/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F15/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
-OL,5,                                    @@@@
-OL,6,BOude Gracht@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FStremming thv Kalisbrug@@@@@@@@@@@@@@
-OL,8,F  11 jan t/m 14 feb 16:00-22:00@@@@@@@@
-OL,9,BOude Rijn@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,10,C-FStremming Dorpsbrug Harmelen tot @@@@
-OL,11,F  Pomperspleinbrug t/m 1 mrt@@@@@@@@@@@
-OL,12,BAngstel@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,13,C-FGeen bedien Dorpsbrug Baambrugge tnb@
-OL,14,BLeidsche Rijn@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,15,C-FStremming Loobrug tnbFFF@@@@@@@@@@@@@
-OL,16,BLek@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,17,C-FL max 110 m Sluis Hagestein tnb F@@@@
-OL,18,BWesterkanaal@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,19,C-FGeen bediening Singelgrachtspoorbrug 
-OL,20,F  27 nov 01:27-05:27@@@@@@@@@@@@@@@@@@@
-OL,21,C-FStremm zuiddeel Westerkanaalschutsls@
-OL,22,F  25 nov 06:00-10:00@@@@@@@@@@@@@@@@@@@
-OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,72116
-SC,0016
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F16/34
-OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
-OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
-OL,5,                                    @@@@
-OL,6,BNoordhollandsch Kanaal@@@@@@@@@@@@@@@@@
-OL,7,C-FGeen bedien Friesebrug,Leeghwaterbrug
-OL,8,F  - 5 dec 19:00-19:45@@@@@@@@@@@@@@@@@@
-OL,9,F  - 10 dec 17:45-18:30@@@@@@@@@@@@@@@@@
-OL,10,F  - 13 dec 15:45-16:30@@@@@@@@@@@@@@@@@
-OL,11,C-FGeen bediening Schoorldammerbrug@@@@@
-OL,12,F  30 nov t/m 11 dec@@@@@@@@@@@@@@@@@@@@
-OL,13,C-FStremming Sluis Willem I@@@@@@@@@@@@@
-OL,14,F  7 dec 07:00-11 dec 16:00@@@@@@@@@@@@@
-OL,15,C-FStremming Stolperbasculebrug@@@@@@@@@
-OL,16,F  30 nov t/m 2 apr ma-vr               
-OL,17,F  07:30-12:00,13:00-18:00@@@@@@@@@@@@@@
-OL,18,C-FStremming Zijperkeersluis@@@@@@@@@@@@
-OL,19,F  25,26 nov 08:00-12:00@@@@@@@@@@@@@@@@
-OL,20,BAchterzaan of Binnenzaan@@@@@@@@@@@@@@@
-OL,21,C-FGeen bediening Zaanspoorbrug@@@@@@@@@
-OL,22,F  5 dec 07:00-6 dec 12:00@@@@@@@@@@@@@@
-OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,72117
-SC,0017
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F17/34
-OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
-OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
 OL,6,BKostverlorenvaart@@@@@@@@@@@@@@@@@@@@@@
 OL,7,C-FGeen bediening Overtoomsesluisbrug @@
@@ -500,24 +440,24 @@ OL,13,F  - 7,8 dec 07:00-16:30@@@@@@@@@@@@@@@@
 OL,14,F  - 09 dec 00:00-11 dec 23:59@@@@@@@@@@
 OL,15,F  - 14 t/m 18 dec 07:00-16:30@@@@@@@@@@
 OL,16,C-FStremming Overtoomsesluisbrug @@@@@@@
-OL,17,F  - 23 nov t/m 27 nov 07:00-16:30@@@@@@
-OL,18,BBuiten-IJ, Open-IJ@@@@@@@@@@@@@@@@@@@@@
-OL,19,C-FGeen bediening Schellingwouderbrug @@
-OL,20,F  tnb ma-vr 07:00-09:00,16:00-18:00@@@@
-OL,21,F  Laatste bediening 06:55,15:55@@@@@@@@
-OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,17,F  t/m 27 nov 07:00-16:30@@@@@@@@@@@@@@@
+OL,18,BDen Helder@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,19,C-FStremming Koopvaardersschutsluis@@@@@
+OL,20,F  26 nov 08:00-12:00@@@@@@@@@@@@@@@@@@@
+OL,21,C-FStremming KoopvaardersschutsluisC@@@@
+OL,22,F  CopgehevenF@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
-PN,72118
-SC,0018
+PN,72116
+SC,0016
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F18/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F16/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
 OL,6,BSchinkel@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,7,C-FGeen bedien Theophile Bockbrug tnb F@
@@ -531,23 +471,23 @@ OL,14,F  7 t/m 9 dec 06:00-18:00@@@@@@@@@@@@@@
 OL,15,C-FStremming Nieuwe Meersluis @@@@@@@@@@
 OL,16,F  - t/m 25 nov@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,17,F  - 26 t/m 27 nov 06:00-18:00@@@@@@@@@@
-OL,18,BSmal Weesp@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,19,C-FStremming Sluisbrug Weesp@@@@@@@@@@@@
-OL,20,F  - 23 nov 07:00-27 nov 16:30@@@@@@@@@@
-OL,21,F  - 30 nov 07:00-04 dec 16:30@@@@@@@@@@
-OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,18,BNoordzeekanaal@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,19,C-FStremming Noordersluis IJmuiden@@@@@@
+OL,20,F  24 nov 06:00-17:00@@@@@@@@@@@@@@@@@@@
+OL,21,C-FStremming Noordersluis IJmuiden@@@@@@
+OL,22,F  8 dec 07:00-17:00@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
-PN,72119
-SC,0019
+PN,72117
+SC,0017
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F19/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F17/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
 OL,6,BOosterdok@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,7,C-FGeen bediening Oosterdoksdraaibrug @@
@@ -569,15 +509,15 @@ OL,22,F  t/m 6 dec 23:00@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
-PN,72120
-SC,0020
+PN,72118
+SC,0018
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F20/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F18/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
 OL,6,BOranjesluizen@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,7,C-FStremming Middenkolk Oranjesluizen@@@
@@ -599,15 +539,15 @@ OL,22,F  t/m 24 decC48u vooraf meldenF@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
-PN,72121
-SC,0021
+PN,72119
+SC,0019
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F21/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F19/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
 OL,6,BNoorder Buiten-Spaarne@@@@@@@@@@@@@@@@@
 OL,7,C-FGeen bediening Schoterbrug @@@@@@@@@@
@@ -615,17 +555,77 @@ OL,8,F  tnb 06:00-09:00,16:30-22:00F@@@@@@@@@
 OL,9,F  24 nov gehele dag@@@@@@@@@@@@@@@@@@@@
 OL,10,C-FOponthoud max 0,5 u Waarderbrug @@@@@
 OL,11,F  t/m 15 mrt@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,12,BZijkanaal C@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,13,C-FBediening Brug in de A9 Spaarndam @@@
-OL,14,F  C24 uur vooraf meldenF@@@@@@@@@@@@@@@
-OL,15,C-FGeen bedien Buitenhuizerbrug tnbFF@@@
-OL,16,BBullebaksluis@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,17,C-FStremming Bullebaksluisbrug @@@@@@@@@
-OL,18,F  1 t/m 3 dec 07:00-17:00@@@@@@@@@@@@@@
-OL,19,BDen Helder@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,20,C-FStremming Koopvaardersschutsluis@@@@@
-OL,21,F  26 nov 08:00-12:00@@@@@@@@@@@@@@@@@@@
+OL,12,BSmalweesp@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,13,C-FGeen bediening Brug Driemond@@@@@@@@@
+OL,14,F  30 nov 06:00-08:00, 18:00-22:00@@@@@@
+OL,15,C-FOponthoud max 0,5 u Sluis Driemond@@@
+OL,16,F  25 nov 08:00-16:00@@@@@@@@@@@@@@@@@@@
+OL,17,BWesterkanaal@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,18,C-FGeen bediening Singelgrachtspoorbrug 
+OL,19,F  27 nov 01:27-05:27@@@@@@@@@@@@@@@@@@@
+OL,20,C-FStremm zuiddeel Westerkanaalschutsls@
+OL,21,F  25 nov 06:00-10:00@@@@@@@@@@@@@@@@@@@
 OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,72120
+SC,0020
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F20/32
+OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
+OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
+OL,5,                                    @@@@
+OL,6,BBuiten-IJ, Open-IJ@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FGeen bediening Schellingwouderbrug @@
+OL,8,F  tnb ma-vr 07:00-09:00,16:00-18:00@@@@
+OL,9,F  Laatste bediening 06:55,15:55@@@@@@@@
+OL,10,BSmal Weesp@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,11,C-FStremming Sluisbrug Weesp@@@@@@@@@@@@
+OL,12,F  - t/m 27 nov 16:30@@@@@@@@@@@@@@@@@@@
+OL,13,F  - 30 nov 07:00-04 dec 16:30@@@@@@@@@@
+OL,14,BZijkanaal C@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,15,C-FBediening Brug in de A9 Spaarndam @@@
+OL,16,F  C24 uur vooraf meldenF@@@@@@@@@@@@@@@
+OL,17,C-FGeen bedien Buitenhuizerbrug tnbFF@@@
+OL,18,BBullebaksluis@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,19,C-FStremming Bullebaksluisbrug @@@@@@@@@
+OL,20,F  1 t/m 3 dec 07:00-17:00@@@@@@@@@@@@@@
+OL,21,BDa Costagracht@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,C-FStremming thv brug 108 t/m 7 sep 2027
+OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,72121
+SC,0021
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F21/32
+OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
+OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
+OL,5,                                    @@@@
+OL,6,BHuigenvaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FStremming Huigenfietsbrug@@@@@@@@@@@@
+OL,8,F  t/m 18 dec 16:00@@@@@@@@@@@@@@@@@@@@@
+OL,9,BNieuwe Haven te Edam@@@@@@@@@@@@@@@@@@@
+OL,10,C-FGeen bedien Constabelbrug t/m 16 dec@
+OL,11,C-FGeen bediening Westerbuitenbrug tnbF@
+OL,12,BOverlekerkanaal@@@@@@@@@@@@@@@@@@@@@@@@
+OL,13,C-FStremming Westerhavensluis Medemblik@
+OL,14,F  2 dec 08:00-13:00@@@@@@@@@@@@@@@@@@@@
+OL,15,BSchippersgracht@@@@@@@@@@@@@@@@@@@@@@@@
+OL,16,C-FStremming Rapenburgersluis @@@@@@@@@@
+OL,17,F  26 nov 06:00-10:00@@@@@@@@@@@@@@@@@@@
+OL,18,BSlootvaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,19,C-FGeen bediening Slootsluisbrug tnbFF@@
+OL,20,C-FStremming Haukessluis tnb@@@@@@@@@@@@
+OL,21,BLIjnbaansgracht@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,C-FGeen bediening Oude Fransenbrug tnbC@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -633,71 +633,11 @@ PN,72122
 SC,0022
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F22/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F22/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
-OL,5,                                    @@@@
-OL,6,BHuigenvaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FStremming Huigenfietsbrug@@@@@@@@@@@@
-OL,8,F  t/m 18 dec 16:00@@@@@@@@@@@@@@@@@@@@@
-OL,9,BNauernasche Vaart@@@@@@@@@@@@@@@@@@@@@@
-OL,10,C-FBediening Spoorbrug NauernaschevaartC
-OL,11,F  CnormaalFF@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,12,BNieuwe Haven te Edam@@@@@@@@@@@@@@@@@@@
-OL,13,C-FGeen bedien Constabelbrug t/m 16 dec@
-OL,14,C-FGeen bediening Westerbuitenbrug tnbF@
-OL,15,BNieuwe Vaart@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,16,C-FStremming Keersluis Nieuwe Vaart@@@@@
-OL,17,F  24 nov 06:00-10:00@@@@@@@@@@@@@@@@@@@
-OL,18,BNoordzeekanaal@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,19,C-FStremming Noordersluis IJmuiden@@@@@@
-OL,20,F  23,24 nov 06:00-17:00@@@@@@@@@@@@@@@@
-OL,21,BDa Costagracht@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,22,C-FStremming thv brug 108 t/m 7 sep 2027
-OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,72123
-SC,0023
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F23/34
-OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
-OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
-OL,5,                                    @@@@
-OL,6,BOverlekerkanaal@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FStremming Westerhavensluis Medemblik@
-OL,8,F  2 dec 08:00-13:00@@@@@@@@@@@@@@@@@@@@
-OL,9,BSchippersgracht@@@@@@@@@@@@@@@@@@@@@@@@
-OL,10,C-FStremming Rapenburgersluis @@@@@@@@@@
-OL,11,F  26 nov 06:00-10:00@@@@@@@@@@@@@@@@@@@
-OL,12,BSingelgracht@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,13,C-FStremming Oosterbeerbrug @@@@@@@@@@@@
-OL,14,F  23 nov 06:00-10:00@@@@@@@@@@@@@@@@@@@
-OL,15,BSlootvaart@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,16,C-FGeen bediening Slootsluisbrug tnbFF@@
-OL,17,C-FStremming Haukessluis tnb@@@@@@@@@@@@
-OL,18,BSmalweesp@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,19,C-FGeen bediening Brug Driemond@@@@@@@@@
-OL,20,F  30 nov 06:00-08:00, 18:00-22:00@@@@@@
-OL,21,BLIjnbaansgracht@@@@@@@@@@@@@@@@@@@@@@@@
-OL,22,C-FGeen bediening Oude Fransenbrug tnbC@
-OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,72124
-SC,0024
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F24/34
-OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
-OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
 OL,6,BWestfriesche Vaart@@@@@@@@@@@@@@@@@@@@@
 OL,7,C-FStremming Westfrieschesluis@@@@@@@@@@
@@ -709,35 +649,35 @@ OL,12,BLauriergracht@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,13,C-FStremming 7 dec 07:00-12 dec 12:00@@@
 OL,14,BOostel.Ringvaart Haarlemmermeerpolder@@
 OL,15,C-FGeen bediening Schipholbrug tnbFF@@@@
-OL,16,BPrins-Willem-Alexander (PWA)@@@@@@@@@@@
-OL,17,C-FCStremming PWA sluis t/m 23 nov 08:00
-OL,18,BPrinseneilandsgracht@@@@@@@@@@@@@@@@@@@
-OL,19,C-FGeen bediening Sloterdijkerbrug tnb@@
-OL,20,BRealengracht@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,21,C-FStremming Zandhoeksbrug t/m 2 apr@@@@
+OL,16,BPrinseneilandsgracht@@@@@@@@@@@@@@@@@@@
+OL,17,C-FGeen bediening Sloterdijkerbrug tnb@@
+OL,18,BRealengracht@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,19,C-FStremming Zandhoeksbrug t/m 2 apr@@@@
+OL,20,BTolhuiskanaal@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,21,C-FStremming t/m 18 dec@@@@@@@@@@@@@@@@@
 OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
-PN,72125
-SC,0025
+PN,72123
+SC,0023
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F25/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F23/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BSteigereilandbrug@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FGeen bedien Steigereilandbrug tnbF@@@
-OL,8,BTolhuiskanaal@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,9,C-FStremming t/m 18 dec@@@@@@@@@@@@@@@@@
-OL,10,BZoutkeetsgracht@@@@@@@@@@@@@@@@@@@@@@@@
-OL,11,C-FStremm Petemayenbrug t/m 2 apr@@@@@@@
-OL,12,BBuitenhaven te Vlaardingen@@@@@@@@@@@@@
-OL,13,C-FStremming Nelson Mandelabrug, @@@@@@@
-OL,14,F  Delflandse Buitensluis  28,29 nov@@@@
+OL,6,BZoutkeetsgracht@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FStremm Petemayenbrug t/m 2 apr@@@@@@@
+OL,8,BHollandsche IJssel@@@@@@@@@@@@@@@@@@@@@
+OL,9,C-FGeen bediening Algerabrug@@@@@@@@@@@@
+OL,10,F  27,30 nov 06:00-06:45@@@@@@@@@@@@@@@@
+OL,11,C-FGeen bediening Gouderakse brug@@@@@@@
+OL,12,F  t/m 14 mei  07:00-09:00,15:00-18:00@@
+OL,13,C-FStremming Stormvloedkering @@@@@@@@@@
+OL,14,F  24 nov 07:30-16:00@@@@@@@@@@@@@@@@@@@
 OL,15,BGouwekanaal@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,16,C-FStremming Nieuwe kolk Julianasluis@@@
 OL,17,F  t/m 25 jan 06:00@@@@@@@@@@@@@@@@@@@@@
@@ -749,58 +689,58 @@ OL,22,F  27 nov t/m 22 jan ma-vr 16:00-18:00@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
-PN,72126
-SC,0026
+PN,72124
+SC,0024
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F26/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F24/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BHollandsche IJssel@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FGeen bediening Algerabrug@@@@@@@@@@@@
-OL,8,F  27,30 nov 06:00-06:45@@@@@@@@@@@@@@@@
-OL,9,C-FGeen bediening Gouderakse brug@@@@@@@
-OL,10,F  t/m 14 mei  07:00-09:00,15:00-18:00@@
-OL,11,C-FStremming Stormvloedkering @@@@@@@@@@
-OL,12,F  24 nov 07:30-16:00@@@@@@@@@@@@@@@@@@@
-OL,13,BOude Maas@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,14,C-FBedieningCwestFBotlekbrug@@@@@@@@@@@@
-OL,15,F  t/m 28 nov C24u vooraf meldenF@@@@@@@
-OL,16,C-FGeen bediening Spijkenisserbrug@@@@@@
-OL,17,F  30 nov t/m 4 dec,7 t/m 11 dec @@@@@@@
-OL,18,F  14 t/m 18 dec 07:00-16:00@@@@@@@@@@@@
+OL,6,BOude Maas@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FBedieningCoostFBotlekbrugCnormaalF@@@
+OL,8,C-FBedieningCwestFBotlekbrug@@@@@@@@@@@@
+OL,9,F  t/m 28 nov C24u vooraf meldenF@@@@@@@
+OL,10,C-FGeen bediening Spijkenisserbrug@@@@@@
+OL,11,F  30 nov t/m 4 dec,7 t/m 11 dec @@@@@@@
+OL,12,F  14 t/m 18 dec 07:00-16:00@@@@@@@@@@@@
+OL,13,C-FStremmingCwestFBotlekbrug@@@@@@@@@@@@
+OL,14,F  -30 nov t/m 5 dec 07:00-19:00@@@@@@@@
+OL,15,F  - 7 t/m 11 dec,14 t/m 18 dec         
+OL,16,F   07:00-19:00@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,17,F  Geen bedieningCoostFBotlekbrug@@@@@@@
+OL,18,F  9 dec 07:00-12:00@@@@@@@@@@@@@@@@@@@@
 OL,19,C-FStremmingCwestFBotlekbrugC@@@@@@@@@@@
-OL,20,F  - 27,28 nov 07:00-19:00@@@@@@@@@@@@@@
-OL,21,F  - 23 nov 07:00-24 nov 19:00@@@@@@@@@@
-OL,22,F  - 25 nov 07:00-26 nov 19:00@@@@@@@@@@
+OL,20,F  - t/m 24 nov 19:00@@@@@@@@@@@@@@@@@@@
+OL,21,F  - 25 nov 07:00-26 nov 19:00@@@@@@@@@@
+OL,22,F  - 27,28 nov 07:00-19:00@@@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
-PN,72127
-SC,0027
+PN,72125
+SC,0025
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F27/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F25/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
 OL,6,BBinnen Giessen@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FStremming Damsluis t/m 27 nov 17:00@@
-OL,8,BBeneden-Merwede@@@@@@@@@@@@@@@@@@@@@@@@
-OL,9,C-FGeen bedien Merwedebrug Papendrecht @
-OL,10,F  t/m 31 aug 2027 06:00@@@@@@@@@@@@@@@@
-OL,11,C-FGewijz bedien Merwedebrug Papendrecht
-OL,12,F  5,19 dec 10:00-15:00 voormeld 5 dagen
-OL,13,BGouwe@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,14,C-FStremming Gouwespoorbrug Alphen @@@@@
-OL,15,F  27 nov 06:00-18 dec 06:00@@@@@@@@@@@@
-OL,16,C-FStremming Gouwespoorbrug Alphen Oost 
-OL,17,F  t/m 27 nov 06:00@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FStremming DamsluisCt/m 11 decF@@@@@@@
+OL,8,BGouwe@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,9,C-FStremming Gouwespoorbrug Alphen @@@@@
+OL,10,F  27 nov 06:00-18 dec 06:00@@@@@@@@@@@@
+OL,11,C-FStremming Gouwespoorbrug Alphen Oost 
+OL,12,F  t/m 27 nov 06:00@@@@@@@@@@@@@@@@@@@@@
+OL,13,BBeneden-Merwede@@@@@@@@@@@@@@@@@@@@@@@@
+OL,14,C-FGeen bedien Merwedebrug Papendrecht @
+OL,15,F  t/m 31 aug 2027 06:00@@@@@@@@@@@@@@@@
+OL,16,C-FGewijz bedien Merwedebrug Papendrecht
+OL,17,F  5,18 dec 10:00-15:00 voormeld 5 dagen
 OL,18,BNieuwe Maas@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,19,C-FGeen bediening Erasmusbrug Zuid @@@@@
 OL,20,F  24 nov 18:00-21:00,23:00-00:45@@@@@@@
@@ -809,19 +749,19 @@ OL,22,F  24 nov 18:00-21:00,23:00-00:45@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
-PN,72128
-SC,0028
+PN,72126
+SC,0026
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F28/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F26/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BKoningshaven@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FGeen bedien Koninginnebrug Rotterdam@
-OL,8,F  7 t/m 10,16 dec 07:00-17:00@@@@@@@@@@
+OL,6,BHaringvliet@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FGedeelte stremming Haringvlietbrug @@
+OL,8,F  t/m 31 dec 2027@@@@@@@@@@@@@@@@@@@@@@
 OL,9,BCalandkanaal@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,10,C-FStremming Rozenburgsesluis@@@@@@@@@@@
 OL,11,F  - 1 dec 07:00- 3 dec 17:00@@@@@@@@@@@
@@ -830,97 +770,37 @@ OL,13,BHaagse Trekvliet@@@@@@@@@@@@@@@@@@@@@@@
 OL,14,C-FGeen bedien Geestbrug t/m 27nov 16:00
 OL,15,C-FGeen bediening Geestbrug@@@@@@@@@@@@@
 OL,16,F  27 nov t/m 12 dec 22:00-06:00@@@@@@@@
-OL,17,BGalgewater@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,18,C-FStremming Churchillbrug tot @@@@@@@@@
-OL,19,F  Rembrandtbrug 7 dec t/m 31 mrt@@@@@@@
-OL,20,BHaringvliet@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,21,C-FGedeelte stremming Haringvlietbrug @@
-OL,22,F  t/m 31 dec 2027@@@@@@@@@@@@@@@@@@@@@@
+OL,17,BBuitenhaven te Vlaardingen@@@@@@@@@@@@@
+OL,18,C-FStremming Nelson Mandelabrug, @@@@@@@
+OL,19,F  Delflandse Buitensluis  28,29 nov@@@@
+OL,20,BGalgewater@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,21,C-FStremming Churchillbrug tot @@@@@@@@@
+OL,22,F  Rembrandtbrug 7 dec t/m 31 mrt@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
-PN,72129
-SC,0029
+PN,72127
+SC,0027
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F29/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F27/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
-OL,6,BRotte@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FGeen bediening Prinses Irenebrug tnbC
-OL,8,BBoven-Merwede@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,9,C-FGeen bedien Merwedebrug Gorinchem tnb
-OL,10,BKorte-Vlietkanaal@@@@@@@@@@@@@@@@@@@@@@
-OL,11,C-FGeen bediening Hooghkamerbrug@@@@@@@@
-OL,12,F  23 nov 21:00-24 nov 05:00@@@@@@@@@@@@
-OL,13,BLeidse Trekvliet, Leidsche Vliet@@@@@@@
-OL,14,C-FStremming Trekvlietbrug Leiden N206@@
-OL,15,F  t/m 15 apr 2027 16:00@@@@@@@@@@@@@@@@
-OL,16,BKadewetering@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,17,C-FStremming Slikkendammersluis tnb@@@@@
-OL,18,BDeltageul, Haringvliet@@@@@@@@@@@@@@@@@
-OL,19,C-FStremming Goereesesluis tnb F@@@@@@@@
-OL,20,BRijn-Schiekanaal@@@@@@@@@@@@@@@@@@@@@@@
-OL,21,C-FStremming Koepoortbrug@@@@@@@@@@@@@@@
-OL,22,F  23 nov 09:00-12:00@@@@@@@@@@@@@@@@@@@
-OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,72130
-SC,0030
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:49:59
-OL,1,D]                                F30/34
-OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
-OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
-OL,5,                                    @@@@
-OL,6,BSas@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FStremming Goesche Sas sluis@@@@@@@@@@
-OL,8,F  tnb bij 1.10+ NAP@@@@@@@@@@@@@@@@@@@@
-OL,9,BKanaal door de Oude Arne@@@@@@@@@@@@@@@
-OL,10,C-FGeen bedien Spoorbrug Arnemuiden tnb@
-OL,11,C-FGeen bediening Arne bruggen tnb@@@@@@
-OL,12,BKrammer@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,13,C-FStremming Noordkolk Krammersluizen@@@
-OL,14,F  Ct/m 26 nov 06:00@@@@@@@@@@@@@@@@@@@@
-OL,15,BKanaal Gent-Terneuzen@@@@@@@@@@@@@@@@@@
-OL,16,C-FCGeen bediening Brug Sas van Gent tnb
-OL,17,C-FCGeen bediening Sluiskilbrug tnb@@@@@
-OL,18,C-FCStremming Westsluis Terneuzen@@@@@@@
-OL,19,F  C23 nov 06:00-08:00F@@@@@@@@@@@@@@@@@
-OL,20,C-FMax D 480 cm Oostsluis Terneuzen tnb@
-OL,21,C-FStremming Westsluis Terneuzen@@@@@@@@
-OL,22,F  7 dec 20:00-8 dec 05:00@@@@@@@@@@@@@@
-OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,72131
-SC,0031
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F31/34
-OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
-OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
-OL,5,                                    @@@@
-OL,6,BRoompot@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,7,C-FStremm Roompotsluis t/m 26 nov 18:00@
-OL,8,BSchelde-Rijnverbinding@@@@@@@@@@@@@@@@@
-OL,9,C-FStremming Oostkolk Kreekraksluis@@@@@
-OL,10,F  30 nov t/m 4 dec 07:00-17:00@@@@@@@@@
-OL,11,C-FStremming Westkolk Kreekraksluis@@@@@
-OL,12,F  7 t/m 11 dec 07:00-17:00@@@@@@@@@@@@@
-OL,13,BKanaal door Zuid-Beveland@@@@@@@@@@@@@@
-OL,14,C-FGeen bediening Vlakebrug@@@@@@@@@@@@@
-OL,15,F  7 dec 09:00-11:00@@@@@@@@@@@@@@@@@@@@
-OL,16,F  Geen bediening Postbrug Kapelle@@@@@@
-OL,17,F  7 dec 13:00-15:00@@@@@@@@@@@@@@@@@@@@
+OL,6,BKoningshaven@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FGeen bedien Koninginnebrug Rotterdam@
+OL,8,F  7 t/m 10,16 dec 07:00-17:00@@@@@@@@@@
+OL,9,BLeidse Trekvliet, Leidsche Vliet@@@@@@@
+OL,10,C-FStremming Trekvlietbrug Leiden N206@@
+OL,11,F  t/m 15 apr 2027 16:00@@@@@@@@@@@@@@@@
+OL,12,BBoven-Merwede@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,13,C-FGeen bedien Merwedebrug Gorinchem tnb
+OL,14,BKadewetering@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,15,C-FStremming Slikkendammersluis tnb@@@@@
+OL,16,BRotte@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,17,C-FGeen bediening Prinses Irenebrug tnbC
 OL,18,BJachtsluizen Krammer@@@@@@@@@@@@@@@@@@@
 OL,19,C-FStremm Zuidkolk Krammerjachtensluis@@
 OL,20,F  30 nov 07:00-11 dec 17:00@@@@@@@@@@@@
@@ -929,86 +809,146 @@ OL,22,F  Noordkolk t/m 9 mei 17:00@@@@@@@@@@@@
 OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
+PN,72128
+SC,0028
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F28/32
+OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
+OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
+OL,5,                                    @@@@
+OL,6,BSas@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FStremming Goesche Sas sluis@@@@@@@@@@
+OL,8,F  tnb bij 1.10+ NAP@@@@@@@@@@@@@@@@@@@@
+OL,9,BKanaal door de Oude Arne@@@@@@@@@@@@@@@
+OL,10,C-FGeen bedien Spoorbrug Arnemuiden tnb@
+OL,11,C-FGeen bediening Arne bruggen tnb@@@@@@
+OL,12,BRoompot@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,13,C-FStremm Roompotsluis 8 dec 07:00-17:00
+OL,14,C-FStremm Roompotsluis t/m 26 nov 18:00@
+OL,15,BKrammer@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,16,C-FStremming Noordkolk Krammersluizen@@@
+OL,17,F  Ct/m 26 nov 06:00@@@@@@@@@@@@@@@@@@@@
+OL,18,BKanaal Gent-Terneuzen@@@@@@@@@@@@@@@@@@
+OL,19,C-FBediening SluiskilbrugCnormaalF@@@@@@
+OL,20,C-FMax D 480 cm Oostsluis Terneuzen tnb@
+OL,21,C-FStremming Westsluis Terneuzen@@@@@@@@
+OL,22,F  7 dec 20:00-8 dec 05:00@@@@@@@@@@@@@@
+OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,72129
+SC,0029
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F29/32
+OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
+OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
+OL,5,                                    @@@@
+OL,6,BZeelandbrug@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FGeen bediening Zeelandbrug@@@@@@@@@@@
+OL,8,F  8 dec 00:00-05:00@@@@@@@@@@@@@@@@@@@@
+OL,9,BTholensche Gat - Zoommeerzijde@@@@@@@@@
+OL,10,C-FBediening Bergsediepsluis tnb@@@@@@@@
+OL,11,F  1 uCvoorFtot 1 uCna laagwaterF@@@@@@@
+OL,12,BVolkerak@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,13,C-FStremm Jachtensluis Volkeraksluizen @
+OL,14,F  tnb 22:00-06:00@@@@@@@@@@@@@@@@@@@@@@
+OL,15,BVeerse Meer@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,16,C-FStremming Zandkreeksluis@@@@@@@@@@@@@
+OL,17,F  30 nov t/m 2 dec 07:00-17:00@@@@@@@@@
+OL,18,BKanaal door Zuid-Beveland@@@@@@@@@@@@@@
+OL,19,C-FGeen bediening Vlakebrug@@@@@@@@@@@@@
+OL,20,F  7 dec 09:00-11:00@@@@@@@@@@@@@@@@@@@@
+OL,21,F  Geen bediening Postbrug Kapelle@@@@@@
+OL,22,F  7 dec 13:00-15:00@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,72130
+SC,0030
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F30/32
+OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
+OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
+OL,5,                                    @@@@
+OL,6,BSchelde-Rijnverbinding@@@@@@@@@@@@@@@@@
+OL,7,C-FStremming Oostkolk Kreekraksluis@@@@@
+OL,8,F  30 nov t/m 4 dec 07:00-17:00@@@@@@@@@
+OL,9,C-FStremming Westkolk Kreekraksluis@@@@@
+OL,10,F  7 t/m 11 dec 07:00-17:00@@@@@@@@@@@@@
+OL,11,BGekanaliseerde Dieze@@@@@@@@@@@@@@@@@@@
+OL,12,C-FStremming Henriettesluis @@@@@@@@@@@@
+OL,13,F  t/m 28 nov 15:00@@@@@@@@@@@@@@@@@@@@@
+OL,14,C-FStremming Henriettesluis Engelen@@@@@
+OL,15,F  - 7 dec 07:00-16:00@@@@@@@@@@@@@@@@@@
+OL,16,F  - 8 dec 07:00-11 dec 15:00@@@@@@@@@@@
+OL,17,BWilhelminakanaal@@@@@@@@@@@@@@@@@@@@@@@
+OL,18,C-FStremming Brug Bosscheweg 25,26 nov @
+OL,19,F  09:00-11:00,12:00-14:00,15:00-16:00@@
+OL,20,C-FStremming Brug Waalstraat@@@@@@@@@@@@
+OL,21,F  26 nov 09:00-11:00@@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,72131
+SC,0031
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F31/32
+OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
+OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
+OL,5,                                    @@@@
+OL,6,BAfgedamde Maas@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,C-FStremming Wilhelminasluis AndelC@@@@@
+OL,8,F  Copgeheven F@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,9,BZuid-Willemsvaart@@@@@@@@@@@@@@@@@@@@@@
+OL,10,C-FStremming Sluis 11    t/m 2 dec 18:00
+OL,11,BJulianakanaal@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,12,C-FStremming sluis Born@@@@@@@@@@@@@@@@@
+OL,13,F  - Middenkolk 26 nov 08:00-17:00@@@@@@
+OL,14,F  - Oostkolk   27 nov 08:00-17:00@@@@@@
+OL,15,C-FStremming sluis Maasbracht@@@@@@@@@@@
+OL,16,F  - Middenkolk 24 nov 08:00-17:00@@@@@@
+OL,17,F  - Westkolk   25 nov 08:00-17:00@@@@@@
+OL,18,C-FStremming westkolk Born tnbF@@@@@@@@@
+OL,19,BMaas@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,20,C-FStremming Sluis LinneCopgeheven F@@@@
+OL,21,C-FStremming Westkolk sluis Belfeld tnbC
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
 PN,72132
 SC,0032
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F32/34
+OL,0,       BNOS-TT  721Cdin 24 nov  13:33:51
+OL,1,D]                                F32/32
 OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
-OL,5,                                    @@@@
-OL,6,BTholensche Gat - Zoommeerzijde@@@@@@@@@
-OL,7,C-FBediening Bergsediepsluis tnb@@@@@@@@
-OL,8,F  1 uCvoorFtot 1 uCna laagwaterF@@@@@@@
-OL,9,BVeerse Meer@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,10,C-FStremming Zandkreeksluis@@@@@@@@@@@@@
-OL,11,F  30 nov t/m 2 dec 07:00-17:00@@@@@@@@@
-OL,12,BVolkerak@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,13,C-FStremm Jachtensluis Volkeraksluizen @
-OL,14,F  tnb 22:00-06:00@@@@@@@@@@@@@@@@@@@@@@
-OL,15,BZuid-Willemsvaart@@@@@@@@@@@@@@@@@@@@@@
-OL,16,C-FStremming Sluis 11    t/m 2 dec 18:00
-OL,17,C-FStremming Sluis 6CopgehevenFF@@@@@@@@
-OL,18,BWilhelminakanaal@@@@@@@@@@@@@@@@@@@@@@@
-OL,19,C-FStremming Brug Bosscheweg 25,26 nov @
-OL,20,F  09:00-11:00,12:00-14:00,15:00-16:00@@
-OL,21,C-FStremming Brug Waalstraat@@@@@@@@@@@@
-OL,22,F  26 nov 09:00-11:00@@@@@@@@@@@@@@@@@@@
-OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,72133
-SC,0033
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F33/34
-OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
-OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
-OL,5,                                    @@@@
-OL,6,BGekanaliseerde Dieze@@@@@@@@@@@@@@@@@@@
-OL,7,C-FStremming Henriettesluis @@@@@@@@@@@@
-OL,8,F  23 nov-28 nov 15:00@@@@@@@@@@@@@@@@@@
-OL,9,C-FStremming Henriettesluis Engelen@@@@@
-OL,10,F  - 7 dec 07:00-16:00@@@@@@@@@@@@@@@@@@
-OL,11,F  - 8 dec 07:00-11 dec 15:00@@@@@@@@@@@
-OL,12,BJulianakanaal@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,13,C-FStremming sluis Born@@@@@@@@@@@@@@@@@
-OL,14,F  - Middenkolk 26 nov 08:00-17:00@@@@@@
-OL,15,F  - Oostkolk   27 nov 08:00-17:00@@@@@@
-OL,16,C-FStremming sluis Maasbracht@@@@@@@@@@@
-OL,17,F  - Oostkolk   23 nov 08:00-17:00@@@@@@
-OL,18,F  - Middenkolk 24 nov 08:00-17:00@@@@@@
-OL,19,F  - Westkolk   25 nov 08:00-17:00@@@@@@
-OL,20,C-FStremming westkolk Born tnbF@@@@@@@@@
-OL,21,BMaas@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,22,C-FStremming Westkolk sluis Belfeld tnbC
-OL,23,T,,,,,,,BTypefouten voorbehoudenT,,,,,,,
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,72134
-SC,0034
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  721Cmaa 23 nov  13:50:09
-OL,1,D]                                F34/34
-OL,2,R]MD  NEDERLANDSE BINNENVAART @@@@@@@@@@
-OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fmaandag 23 november 13:42@@@@@@@@@@
+OL,4,D]F Fdinsdag 24 november 12:50@@@@@@@@@@
 OL,5,                                    @@@@
 OL,6,BVerbindingskanaal in het Bosscherveld@@
 OL,7,C-FStremming Sluis Bosscheveld t/m 4 dec
 OL,8,BZuid-Willemsvaart@@@@@@@@@@@@@@@@@@@@@@
-OL,9,C-FCStremming Sluis 15 Nederweert tnbF@@
-OL,10,C-FGewijzigde bediening Sluis 15 @@@@@@@
-OL,11,F  23 t/m 27 nov 08:00-16:00 F@@@@@@@@@@
-OL,12,C-FStremming Sluis 15 Nederweert@@@@@@@@
-OL,13,F  t/m 23 nov 08:00@@@@@@@@@@@@@@@@@@@@@
-OL,14,C-FStremming Sluis 16 Weert@@@@@@@@@@@@@
-OL,15,F  t/m 22 jan 18:00@@@@@@@@@@@@@@@@@@@@@
+OL,9,C-FGewijzigde bediening Sluis 15 @@@@@@@
+OL,10,F  t/m 27 nov 08:00-16:00 F@@@@@@@@@@@@@
+OL,11,C-FStremming Sluis 16 Weert@@@@@@@@@@@@@
+OL,12,F  t/m 22 jan 18:00@@@@@@@@@@@@@@@@@@@@@
+OL,13,C-FStremming sluis 15 NederweertCopgeh F
+OL,14,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,15,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,16,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,17,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,18,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

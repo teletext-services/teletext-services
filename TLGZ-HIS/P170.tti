@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 170Cpon 23 lis  18:04:59
+OL,0,      BHISTORIA 170Cpon 23 lis  22:53:04
 OL,1,D]GPROGNOZA POGODY        ]D23/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FLUBLIN                          ZV,,,, 
 OL,4, pon.    B0  C2 Gca}k. F14W  G984ZVppxt 
 OL,5, wt.     B0  C2 Gca}k. F18NW G991ZW0`pp 
-OL,6, |ro.    B0  C2 Gca}k. F10NW G996ZVp    
-OL,7, czw.                                   
+OL,6, |ro.    B1  C2 Gca}k. F10NW G997ZVppp0 
+OL,7, czw.    B0  C0 Gdu{e  F14E  G996       
 OL,8, pi@.                                   
 OL,9,FZAMO\C                          ZV,,,, 
 OL,10, pon.    B0  C2 Gca}k. F18W  G983 ZVppp 
 OL,11, wt.     B0  C1 Gca}k. F21W  G989ZW0`pp 
-OL,12, |ro.   B-1  C1 Gdu{e  F10W  G994ZVp0   
-OL,13, czw.                                   
+OL,12, |ro.    B0  C2 Gdu{e  F14W  G996ZVxp0  
+OL,13, czw.    B0  C0 Gdu{e  F14E  G994       
 OL,14, pi@.                                   
 FL,169,171,300,300,0,100
 PN,17002
@@ -25,20 +25,20 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 170Cpon 23 lis  18:04:59
+OL,0,      BHISTORIA 170Cpon 23 lis  22:53:04
 OL,1,D]GPROGNOZA POGODY        ]D23/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FDEBLIN                          ZV,,,, 
 OL,4, pon.    B1  C2 Gca}k. F21W  G994ZV`pxt 
-OL,5, wt.     B0  C3 Gca}k. F18NWG1001ZW0xpp 
-OL,6, |ro.    B0  C2 Gdu{e  F14W G1006ZVp0   
-OL,7, czw.                                   
+OL,5, wt.     B0  C2 Gdu{e  F21NWG1001ZWptpp 
+OL,6, |ro.    B0  C2 Gdu{e  F10NWG1007ZVpp0  
+OL,7, czw.    B0  C1 Gca}k. F14E G1006       
 OL,8, pi@.                                   
 OL,9,FCHE]M                           ZV,,,, 
 OL,10, pon.    B1  C2 Gca}k. F14W  G984ZVpppt 
-OL,11, wt.     B0  C1 Gca}k. F18NW G990ZWp`pp 
-OL,12, |ro.    B0  C1 Gca}k. F10NW G995ZVp0p  
-OL,13, czw.                                   
+OL,11, wt.     B0  C1 Gca}k. F21NW G990ZWp`pp 
+OL,12, |ro.    B0  C2 Gca}k. F10NW G997ZVppp0 
+OL,13, czw.   B-1  C0 Gdu{e  F14E  G996       
 OL,14, pi@.                                   
 FL,169,171,300,300,0,100
 PN,17003
@@ -46,19 +46,19 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 170Cpon 23 lis  18:04:59
+OL,0,      BHISTORIA 170Cpon 23 lis  22:53:05
 OL,1,D]GPROGNOZA POGODY        ]D23/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FTERESPOL                        ZV,,,, 
 OL,4, pon.    B1  C2 Gca}k. F14W  G989ZV`pxp 
-OL,5, wt.     B0  C1 Gca}k. F18NW G995ZWpppp 
-OL,6, |ro.   B-2  C1 Gdu{e  F10NWG1002       
-OL,7, czw.                                   
+OL,5, wt.     B0  C2 Gca}k. F18NW G995ZWxppp 
+OL,6, |ro.    B0  C2 Gdu{e  F10NWG1003ZV0p`0 
+OL,7, czw.   B-2  C0 Gumiar F10E G1004       
 OL,8, pi@.                                   
 OL,9,FW]ODAWA                         ZV,,,, 
 OL,10, pon.    B1  C2 Gca}k. F14W  G986ZVpppp 
-OL,11, wt.     B0  C1 Gca}k. F18NW G992ZWp`pp 
-OL,12, |ro.   B-1  C1 Gdu{e  F10NW G999ZVp0`  
-OL,13, czw.                                   
+OL,11, wt.     B0  C1 Gca}k. F18NW G993ZWpppp 
+OL,12, |ro.    B0  C2 Gca}k. F10NWG1000ZVpxx0 
+OL,13, czw.   B-1  C0 Gdu{e  F10E G1000       
 OL,14, pi@.                                   
 FL,169,171,300,300,0,100

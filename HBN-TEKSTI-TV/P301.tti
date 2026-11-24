@@ -3,48 +3,76 @@ PN,30101
 SC,0001
 PS,C100
 CT,20,T
-OL,0,       G301 HBN TEKSTI-TVG23.11.12:26:00
+OL,0,       G301 HBN TEKSTI-TVG24.11.02:22:34
 OL,1,  Spp00 0 |,,,|                         
-OL,2,Q]S 5 ih! C1S G       MAANANTAI       
+OL,2,Q]S 5 ih! C1S G       TIISTAI         
 OL,3,  S !  !  /,,,/                         
-OL,4,G12.00GEgenland                         
-OL,5,G12.30GMurha kaikilla mausteilla        
-OL,6,G13.25GKahden ladun poikki              
-OL,7,G14.36GEl{v{ arkisto: Koulutiet{        
-OL,8,Gkotitoimiin                            
-OL,9,G14.50GKadonneet perij{t                
-OL,10,G15.50GYle Uutiset Sunnuntai            
-OL,11,G16.35GYle Uutiset selkosuomeksi        
+OL,4,G06.25GYlen aamu                        
+OL,5,G09.30GPuoli seitsem{n                  
+OL,6,G10.00GLa Promesa - Salaisuuksien       
+OL,7,Gkartano                                
+OL,8,G11.00GYle Uutiset Uusimaa              
+OL,9,G11.05GYle Uutiset Kaakkois-Suomi       
+OL,10,G11.10GYle Uutiset Lounais-Suomi        
+OL,11,G11.15GYle Uutiset H{me                 
+OL,12,G11.20GYle Uutiset Pirkanmaa            
+OL,13,G11.25GYle Uutiset Keski-Suomi ja       
+OL,14,GEtel{-Savo                             
+OL,15,G11.30GYle Uutiset It{-Suomi            
+OL,16,G11.35GYle Uutiset Pohjanmaa            
+OL,17,G11.40GYle Uutiset Pohjois-Suomi        
+OL,18,G11.45GYle Uutiset Lappi                
+OL,19,G11.50GYle Oddasat                      
+OL,20,G11.55GOddasat                          
+FL,0,0,0,0,0,100
+PN,30102
+SC,0002
+PS,C100
+CT,20,T
+OL,0,       G301 HBN TEKSTI-TVG24.11.02:22:34
+OL,1,  Spp00 0 |,,,|                         
+OL,2,Q]S 5 ih! C1S G       TIISTAI         
+OL,3,  S !  !  /,,,/                         
+OL,4,G12.05GTanskalainen maajussi            
+OL,5,G12.35GMurha kaikilla mausteilla        
+OL,6,G13.25GH{rm{st{ poikia kymmenen         
+OL,7,G14.45GEl{v{ arkisto: P E Svinhufvud    
+OL,8,G15.00GVeljesten keitti|ss{             
+OL,9,G15.30GHyvin{ ja huonoina p{ivin{       
+OL,10,G15.59GA-studio                         
+OL,11,G16.36GYle Uutiset selkosuomeksi        
 OL,12,G16.40GYle Oddasat                      
 OL,13,G16.45GNovosti Yle                      
 OL,14,G16.50GYle Uutiset viittomakielell{     
 OL,15,G16.55GYle Uutiset alueeltasi           
 OL,16,G17.00GYle Uutiset 17.00                
 OL,17,G17.10GMurha kaikilla mausteilla        
-OL,18,G18.00GYle Uutiset 18.00                
-OL,19,G18.21GPuoli7 t{n{{n                    
-OL,20,G18.23GYle Uutiset alueeltasi           
+OL,18,G17.58GKovan viikon ilta: Kaikki muut   
+OL,19,Guutiset                                
+OL,20,G18.00GYle Uutiset 18.00                
 FL,0,0,0,0,0,100
-PN,30102
-SC,0002
+PN,30103
+SC,0003
 PS,C100
 CT,20,T
-OL,0,       G301 HBN TEKSTI-TVG23.11.12:26:00
+OL,0,       G301 HBN TEKSTI-TVG24.11.02:22:34
 OL,1,  Spp00 0 |,,,|                         
-OL,2,Q]S 5 ih! C1S G       MAANANTAI       
+OL,2,Q]S 5 ih! C1S G       TIISTAI         
 OL,3,  S !  !  /,,,/                         
-OL,4,G18.30GPuoli seitsem{n                  
-OL,5,G19.00GVictorian syd{n                  
-OL,6,G19.51GKansallismaisemat: Lappia        
-OL,7,G19.55GOuto historia - lyhyet           
-OL,8,G20.00GMot                              
-OL,9,G20.30GYle Uutiset 20.30                
-OL,10,G20.55GUrheiluruutu                     
-OL,11,G21.01GA-studio                         
-OL,12,G21.37GYle Uutiset Uutis-Suomi          
-OL,13,G21.45GYle Uutiset                      
-OL,14,G21.49GUrheiluruutu                     
-OL,15,G21.55GLe bureau, vakoojaverkosto       
-OL,16,G22.50GOddasat                          
-OL,17,G23.00GMyrskyluodon Maija               
+OL,4,G18.21GPuoli7 t{n{{n                    
+OL,5,G18.23GYle Uutiset alueeltasi           
+OL,6,G18.30GPuoli seitsem{n                  
+OL,7,G19.00GPrisma: Nis{kk{iden alkutarina   
+OL,8,G19.50GRuotsi tutkii                    
+OL,9,G19.55GRuotsi tutkii                    
+OL,10,G20.00GAkuutti: Sitten k{vi pahasti     
+OL,11,G20.30GYle Uutiset 20.30                
+OL,12,G20.55GUrheiluruutu                     
+OL,13,G21.01GA-studio                         
+OL,14,G21.37GYle Uutiset Uutis-Suomi          
+OL,15,G21.45GYle Uutiset                      
+OL,16,G21.49GUrheiluruutu                     
+OL,17,G21.55GVigil - j{inen kuolema           
+OL,18,G22.55GOddasat                          
+OL,19,G23.05GEfter Nio                        
 FL,0,0,0,0,0,100

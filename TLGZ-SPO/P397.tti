@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    397Cpon 23 lis  18:54:36
+OL,0,      BSPORT    397Cwto 24 lis  04:57:18
 OL,1,C]DPI]KA NO[NA  ]     GSZWAJCARIA       
 OL,3,                 C21.11                 
 OL,4, BSC Young Boys  - Thun        F3-2(0-0)
@@ -20,7 +20,7 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    397Cpon 23 lis  18:54:36
+OL,0,      BSPORT    397Cwto 24 lis  04:57:18
 OL,1,C]DPI]KA NO[NA  ]     GSZWAJCARIA       
 OL,3,                 C28.11                 
 OL,4, Grasshopper     - FC Basel 1893  B18:00
@@ -36,7 +36,7 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    397Cpon 23 lis  18:54:36
+OL,0,      BSPORT    397Cwto 24 lis  04:57:18
 OL,1,C]DPI]KA NO[NA  ]     GSZWAJCARIA       
 OL,5, B1.FC Lugano       14 12  1  1 38-16 37
 OL,6, B2.Y.Boys Berno    14  9  4  1 44-27 31
@@ -59,7 +59,7 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    397Cpon 23 lis  18:54:36
+OL,0,      BSPORT    397Cwto 24 lis  04:57:18
 OL,1,C]DPI]KA NO[NA  ] GTURCJA - Super Lig   
 OL,3,                 C21.11                 
 OL,4, Genclerbirligi  - Gaziantep   F1-0(1-0)
@@ -72,14 +72,35 @@ OL,11, Kasimpasa       - Alanyaspor  F2-1(1-1)
 OL,12, Konyaspor       - Besiktas    F2-4(1-2)
 OL,13, Trabzonspor     - Eyupspor    F1-0(1-0)
 OL,15,                 C23.11                 
-OL,16, Basaksehir      - Corum FK         E0-1
+OL,16, Basaksehir      - Corum FK    F4-2(0-1)
 FL,396,398,450,450,0,100
 PN,39705
 SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    397Cpon 23 lis  18:54:36
+OL,0,      BSPORT    397Cwto 24 lis  04:57:19
+OL,1,C]DPI]KA NO[NA  ] GTURCJA - Super Lig   
+OL,3,                 C27.11                 
+OL,4, Alanyaspor      - Konyaspor      B18:00
+OL,5, Caykur Rizespor - Kasimpasa      B18:00
+OL,7,                 C28.11                 
+OL,8, Samsunspor      - Genclerbirligi B14:00
+OL,9, Gaziantep       - Amedspor       B17:00
+OL,11,                 C29.11                 
+OL,12, Corum FK        - Kocaelispor    B11:30
+OL,13, Eyupspor        - Basaksehir     B14:00
+OL,14, Fenerbahce      - Erzurumspor FK B17:00
+OL,16,                 C30.11                 
+OL,17, Goztepe         - Trabzonspor    B17:00
+OL,18, Besiktas        - Galatasaray    B19:00
+FL,396,398,450,450,0,100
+PN,39706
+SC,0006
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    397Cwto 24 lis  04:57:19
 OL,1,C]DPI]KA NO[NA   ] GTURCJA - Super Lig  
 OL,2, B1.Galatasaray     12 10  1  1 29-16 31
 OL,3, B2.Trabzonspor     12  9  1  2 27-8  28
@@ -87,11 +108,11 @@ OL,4, C3.Besiktas        12  8  1  3 27-14 25
 OL,5, F4.Amedspor        12  7  2  3 28-17 23
 OL,6,  5.Kasimpasa       12  6  5  1 19-12 23
 OL,7,  6.Fenerbahce      12  6  2  4 31-12 20
-OL,8,  7.Kocaelispor     12  6  2  4 15-11 20
-OL,9,  8.Goztepe         12  5  3  4 23-19 18
-OL,10,  9.Basaksehir      11  5  2  4 19-17 17
+OL,8,  7.Basaksehir      12  6  2  4 23-19 20
+OL,9,  8.Kocaelispor     12  6  2  4 15-11 20
+OL,10,  9.Goztepe         12  5  3  4 23-19 18
 OL,11, 10.Caykur Rizespor 12  5  2  5 15-16 17
-OL,12, 11.Corum FK        11  5  1  5 21-21 16
+OL,12, 11.Corum FK        12  5  1  6 23-25 16
 OL,13, 12.Genclerbirligi  12  4  2  6 13-21 14
 OL,14, 13.Erzurumspor FK  12  4  2  6 10-18 14
 OL,15, 14.Alanyaspor      12  3  3  6 10-20 12

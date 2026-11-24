@@ -4,22 +4,22 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     268Cpon 23 lis  18:22:36
+OL,0,      BTVP3     268Cwto 24 lis  01:29:36
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo lubuskie     Q"##
-OL,4,E23.11.2026 18:00    GStany:            
+OL,4,E24.11.2026  1:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FB_br                            
-OL,8,FSzprotawa / B_brB118   F200    250    =
-OL,9, [aga$ / B_br    B229   G340    400    -
-OL,10,FNowogr_d Bobrza$B146   F250    300    =
+OL,8,FSzprotawa / B_brB118   F200    250    +
+OL,9, [aga$ / B_br    B227   G340    400    =
+OL,10,FNowogr_d Bobrza$B145   F250    300    -
 OL,12, Rzeka:FCzerna Ma}a                     
-OL,13,FI}owa           B158   F180    200    +
+OL,13,FI}owa           B170   F180    200    =
 OL,15, Rzeka:FDrawa                           
 OL,16,FDrawiny          B26   F120    170    =
 OL,18, Rzeka:FKwisa                           
-OL,19,F]ozy            B124   F280    330    +
+OL,19,F]ozy            B122   F280    330    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,267,269,100,100,0,100
 PN,26802
@@ -27,25 +27,25 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     268Cpon 23 lis  18:22:37
+OL,0,      BTVP3     268Cwto 24 lis  01:29:36
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo lubuskie     Q"##
-OL,4,E23.11.2026 18:00    GStany:            
+OL,4,E24.11.2026  1:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FNote^                           
 OL,8,FNowe Drezdenko  B121   F290    340    =
 OL,10, Rzeka:FNysa ]u{ycka                    
-OL,11,FPrzew_z          B96   F290    350    =
-OL,12, Gubin            B63   G300    400    =
+OL,11,FPrzew_z          B94   F290    350    =
+OL,12, Gubin            B60   G300    400    =
 OL,14, Rzeka:FObra                            
 OL,15,FBledzew         B100   F200    220     
 OL,17, Rzeka:FOdra                            
-OL,18,FNowa S_l        B132   F400    450    +
-OL,19, Cigacice        B117   G350    400    =
-OL,20,FNietk_w         B117   F370    400    =
-OL,21, Po}`cko          B48   G310    350    =
-OL,22,FS}ubice         B121   F360    410    =
+OL,18,FNowa S_l        B136   F400    450    =
+OL,19, Cigacice        B122   G350    400    =
+OL,20,FNietk_w         B119   F370    400    =
+OL,21, Po}`cko          B54   G310    350    =
+OL,22,FS}ubice         B122   F360    410    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,267,269,100,100,0,100
 PN,26803
@@ -53,19 +53,19 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     268Cpon 23 lis  18:22:37
+OL,0,      BTVP3     268Cwto 24 lis  01:29:36
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo lubuskie     Q"##
-OL,4,E23.11.2026 18:00    GStany:            
+OL,4,E24.11.2026  1:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FOdra                            
-OL,8,FKostrzyn Nad OdrB162   F420    470    =
+OL,8,FKostrzyn Nad OdrB163   F420    470    =
 OL,10, Rzeka:FSzprotawa                       
-OL,11,FSzprotawa / SzprB119   F230    270    =
+OL,11,FSzprotawa / SzprB118   F230    270    =
 OL,13, Rzeka:FWarta                           
 OL,14,FSkwierzyna      B149   F380    460    =
 OL,15, Gorz_w WielkopolB201   G390    470    =
-OL,16,FKostrzyn Nad OdrB170   F360    410    =
+OL,16,FKostrzyn Nad OdrB171   F360    410    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,267,269,100,100,0,100

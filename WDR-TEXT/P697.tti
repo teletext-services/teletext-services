@@ -3,48 +3,66 @@ PN,69701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G697 WDR Text GMo 23.11.26 19:44:44
+OL,0,     G697 WDR Text GDi 24.11.26 12:55:47
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, f}r A44,A45,A46                        
-OL,5, Stand: 23.11.2026 19:38 Uhr            
-OL,7, Auf der A44 Kassel Richtung Dortmund   
-OL,8, ist die Anschlussstelle B}ren wegen    
-OL,9, Bauarbeiten f}r mehrere Monate         
-OL,10, gesperrt. Dort wird die Fahrbahn       
-OL,11, saniert. Eine Umleitung ist            
-OL,12, ausgeschildert.                        
-OL,14, Auf der A44 Kassel Richtung Dortmund   
-OL,15, ist im Kreuz Dortmund/Unna die         
-OL,16, Verbindung zur A1 Richtung K|ln        
-OL,17, voraussichtlich bis zum 7. Dezember    
-OL,18, gesperrt.                              
-OL,20, Auf der A46 D}sseldorf Richtung        
-OL,21, Wuppertal ist die Anschlussstelle      
-OL,22, Wuppertal-Varresbeck wegen Bauarbeiten 
+OL,5, Stand: 24.11.2026 12:53 Uhr            
+OL,7, A44 Dortmund Richtung Kassel zwischen  
+OL,8, Lichtenau und Marsberg etwa 10 Minuten 
+OL,9, plus, 5 km stockender Verkehr          
+OL,11, Auf der A44 Kassel Richtung Dortmund   
+OL,12, ist die Anschlussstelle B}ren wegen    
+OL,13, Bauarbeiten f}r mehrere Monate         
+OL,14, gesperrt. Dort wird die Fahrbahn       
+OL,15, saniert. Eine Umleitung ist            
+OL,16, ausgeschildert.                        
+OL,18, Auf der A44 Kassel Richtung Dortmund   
+OL,19, ist im Kreuz Dortmund/Unna die         
+OL,20, Verbindung zur A1 in Richtung K|ln     
+OL,21, wegen Bauarbeiten bis Anfang Dezember  
+OL,22, gesperrt.                              
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 696B]G+ 698  \               G(1/2)
+OL,24,A]G- 696B]G+ 698  \               G(1/3)
 FL,696,698,0,0,0,100
 PN,69702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G697 WDR Text GMo 23.11.26 19:44:44
+OL,0,     G697 WDR Text GDi 24.11.26 12:55:47
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
-OL,4, bis Ende November gesperrt.            
-OL,6, Auf der A46 Wuppertal Richtung         
-OL,7, D}sseldorf ist die Anschlussstelle     
-OL,8, Wuppertal-Wichlinghausen               
-OL,9, voraussichtlich bis Herbst 2027        
-OL,10, gesperrt.                              
-OL,12, Die A46 Wuppertal Richtung D}sseldorf  
-OL,13, ist zwischen D}sseldorf-Holthausen und 
-OL,14, D}sseldorf-Bilk wegen Arbeiten in den  
-OL,15, Tunneln Wersten und Universit{t bis 5  
-OL,16, Uhr gesperrt.                          
+OL,5, Auf der A44 Kassel Richtung Dortmund   
+OL,6, ist im Kreuz Dortmund/Unna die         
+OL,7, Verbindung zur A1 Richtung K|ln        
+OL,8, voraussichtlich bis zum 7. Dezember    
+OL,9, gesperrt.                              
+OL,11, Die A45 Dortmund Richtung Hagen ist    
+OL,12, zwischen Dreieck Dortmund/Witten und   
+OL,13, Dortmund-S}d gesperrt. Dort ist die    
+OL,14, Polizei im Einsatz.                    
+OL,16, Auf der A46 D}sseldorf Richtung        
+OL,17, Wuppertal ist die Anschlussstelle      
+OL,18, Wuppertal-Varresbeck wegen Bauarbeiten 
+OL,19, bis Ende November gesperrt.            
+OL,21, Auf der A46 Wuppertal Richtung         
+OL,22, D}sseldorf ist die Anschlussstelle     
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 696B]G+ 698  \               G(2/2)
+OL,24,A]G- 696B]G+ 698  \               G(2/3)
+FL,696,698,0,0,0,100
+PN,69703
+SC,0003
+PS,C200
+CT,15,T
+OL,0,     G697 WDR Text GDi 24.11.26 12:55:47
+OL,1,]D]        G]               @]  CVERKEHR
+OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
+OL,3,]T5                                
+OL,4, Wuppertal-Wichlinghausen               
+OL,5, voraussichtlich bis Herbst 2027        
+OL,6, gesperrt.                              
+OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]G- 696B]G+ 698  \               G(3/3)
 FL,696,698,0,0,0,100

@@ -3,24 +3,24 @@ PN,50901
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G509  RSI LA 1  23.11.26 14:58:16
+OL,0,       G509  RSI LA 1  24.11.26 07:55:48
 OL,1,D]GTENDENZA                     A]GRSI  
 OL,2,G                                   1/2 
 OL,3,CM      Sud delle Alpi e Insubria       
 OL,4,G                                       
-OL,5,CVenerd~     CSabato      CDomenica     
+OL,5,CSabato      CDomenica    CLuned~       
 OL,6,C------------C------------C------------ 
-OL,7,S   (        S  0  h   0  S   (         
-OL,8,S )0r08!     S   d p0`$   S )0r08!      
-OL,9,S00~400    S   `u    S00~400     
-OL,10,S ^;?Vx|t,t0 S  !*? !  S ^;?Vx|t,t0  
-OL,11,S & V~v|;4S   8#/')0   S & V~v|;4 
-OL,12,S   V+o/# S  $  (   $  S   V+o/#  
-OL,13,G            G            G             
-OL,14,GAbbastanza  GSoleggiato  GAbbastanza   
-OL,15,Gsoleggiato  G            Gsoleggiato   
+OL,7,S  0  h   0  G ]S  (     \S   (         
+OL,8,S   d p0`$   G ]S)0r08!  \S )0r08!      
+OL,9,S   `u    S  00~400  S00~400     
+OL,10,S  !*? !  S    ;?1    S ^;?Vx|t,t0  
+OL,11,S   8#/')0   S   & ( "$   S & V~v|;4 
+OL,12,S  $  (   $  S     "      S   V+o/#  
+OL,13,G            GNuvolosit{  G             
+OL,14,GSoleggiato  Gin alta     GAbbastanza   
+OL,15,G            Gquota       Gsoleggiato   
 OL,16,C------------C------------C------------ 
-OL,17,CMax:     9[CCMax:     8[CCMax:     7[C 
+OL,17,CMax:     8[CCMax:     8[CCMax:     8[C 
 OL,21,FFonte: MeteoSvizzera                   
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -28,24 +28,24 @@ PN,50902
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G509  RSI LA 1  23.11.26 14:58:16
+OL,0,       G509  RSI LA 1  24.11.26 07:55:48
 OL,1,D]GTENDENZA                     A]GRSI  
 OL,2,G                                   2/2 
 OL,3,CM           Nord delle Alpi            
 OL,4,G                                       
-OL,5,CVenerd~     CSabato      CDomenica     
+OL,5,CSabato      CDomenica    CLuned~       
 OL,6,C------------C------------C------------ 
-OL,7,V x~|0x|0   S       (    S       (     
-OL,8,Vx;/.o?-  V   `p0Sr08! V   `p0Sr08!  
-OL,9,V7T~t.ot0V  ~S400V  ~S400 
-OL,10,V"+oT~v^_}voV ~v|||||4V ~v|||||4 
-OL,11,V   T+o?!V +o/# V +o/#  
-OL,12,V   T  "##!  V   "###!    V   "###!     
+OL,7,S       (    S       (    S       (     
+OL,8,V   `p0Sr08! V   `p0Sr08! V   `p0Sr08!  
+OL,9,V  ~S400V  ~S400V  ~S400 
+OL,10,V ~v|||||4V ~v|||||4V ~v|||||4 
+OL,11,V +o/# V +o/# V +o/#  
+OL,12,V   "###!    V   "###!    V   "###!     
 OL,13,G            G            G             
-OL,14,GCoperto     GParzialmenteGParzialmente 
-OL,15,G            Gsoleggiato  Gsoleggiato   
+OL,14,GParzialmenteGParzialmenteGParzialmente 
+OL,15,Gsoleggiato  Gsoleggiato  Gsoleggiato   
 OL,16,C------------C------------C------------ 
-OL,17,CMax:     1[CCMax:     2[CCMax:     5[C 
+OL,17,CMax:     0[CCMax:     2[CCMax:     3[C 
 OL,21,FFonte: MeteoSvizzera                   
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

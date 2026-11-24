@@ -3,51 +3,60 @@ PN,11501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMo 23 Nov F12:22:36
+OL,0,         GFORUM64   GMo 23 Nov F21:25:44
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EWir bauen das beste Interton VC 4000   
-OL,3,ESpiel. Ja, genau ;-) (8bit)(70s)(Ai)   
-OL,5,CAntwort:  Bmombasajoe                  
-OL,6,CComments: B9                           
-OL,7,F                                       
-OL,8,FEs l{uft nicht alles drauf, aber das   
-OL,9,Fallermeiste.                           
-OL,11,CErster Beitrag:                        
-OL,13,GBitte melde Dich an, um dieses         
-OL,14,GMedienelement zu sehen.                
-OL,16,GIm Moment haben wir eine Schwemme von  
-OL,17,GKI generierten oder zumindest in der   
-OL,18,GEntwicklung durch KI unterst}tzte      
-OL,19,GSpiele f}r alle Systeme. Es gibt ja    
-OL,20,Gauch hier schon diverse Themen dazu.   
-OL,21,GIch habe mir }berlegt, ich werde auf   
-OL,22,Gdiese Art selbst ein Spiel bauen , aber
-OL,23,Gauf einer Konsole, der es vielleicht   
-OL,24,D]FForum64.de RSS feed            (1/2) 
+OL,2,EC64 Studio - Entwicklungsumgebung      
+OL,4,CAntwort:  BEndurion                    
+OL,5,CComments: B5943                        
+OL,6,F                                       
+OL,7,FHab's gesehen, hoffentlich wird der mit
+OL,8,F}bernommen.                            
+OL,10,CErster Beitrag:                        
+OL,12,GMahlzeit:                              
+OL,14,GVor lauter Lust und Laune habe ich mal 
+OL,15,Geine Art Entwicklungsumgebung          
+OL,16,Ggebastelt. Mir gef{llt, da~ im Vice ein
+OL,17,Gnetter Monitor enthalten ist, aber     
+OL,18,Gleider ist der etwas unhandlich        
+OL,19,Ggeraten. Da der Monitor auch per Remote
+OL,20,Gansteuerbar ist, dachte ich mir, das   
+OL,21,Gversuchst du mal.                      
+OL,23,GDeshalb habe ich das C64 Studio        
+OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMo 23 Nov F12:22:36
+OL,0,         GFORUM64   GMo 23 Nov F21:25:44
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gsogar noch einen echten Schub bringen  
-OL,4,Gk|nnte, n{mlich dem Interton VC 4000,  
-OL,5,Geiner der ersten                       
-OL,6,GMikroprozessor-gesteuerten Konsolen in 
-OL,7,GDeutschland. Und daf}r gibt es gar     
-OL,8,Gnicht so viele Spiele (und die sind    
-OL,9,Gqualitativ ziemlich "durchwachsen").   
-OL,11,GHerausforderung f}r eine KI w{re: Es   
-OL,12,Ggibt insgesamt vergleichsweise wenig   
-OL,13,GInfos, insb. keine gro~e               
-OL,14,GCode-Datenbank. Ja, und wir haben einen
-OL,15,Gwirklich kruden Grafik-Chip und ganze  
-OL,16,G37 Bytes RAM. Ich werde ein            
-OL,17,Grealistisches Ziel setzen und dabei die
-OL,18,GF{higkeiten der Konsole hinreichend    
-OL,19,Gber}cksichtigen (bringe aus einem      
-OL,20,G}berwiegend selbstgeschrieben Spiel    
-OL,21,GErfahrung mit). Bei der Programmierung 
-OL,24,D]FForum64.de RSS feed            (2/2) 
+OL,3,Ggeschrieben. Das Ganze ist jetzt wohl  
+OL,4,Ggro~teils benutzbar, allerdings wie so 
+OL,5,Goft sch|n auf mich zugeschnitten. Das  
+OL,6,GGanze arbeitet mit Vice (mit WinVICE   
+OL,7,G2.3 getestet) zusammen, basiert auf    
+OL,8,G.NET 2.0. Getestet habe ich das Studio 
+OL,9,Gauf Windows 7, sollte aber auf {lteren 
+OL,10,GWindowsen auch arbeiten. Mono wird     
+OL,11,Gwahrscheinlich aufgrund zweier Hacks   
+OL,12,Gnicht funktionieren, da fehlt mir      
+OL,13,Gallerdings auch die Testm|glichkeit.   
+OL,15,GWas genau ist jetzt das Tolle an dem   
+OL,16,GTool?                                  
+OL,18,GMan kann durch den eigenen Code        
+OL,19,Gdebuggen, {hnlich wie man es von       
+OL,20,G"richtigen" Programmierumgebungen      
+OL,21,Gkennt. Das setzt allerdings einen      
+OL,22,Ginstallierten Vice voraus. Man kann    
+OL,23,GVariablen ausgeben lassen (rudiment{r) 
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,11503
+SC,0003
+PS,C200
+CT,15,T
+OL,0,         GFORUM64   GMo 23 Nov F21:25:44
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,Gund Symbole auffinden                  
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

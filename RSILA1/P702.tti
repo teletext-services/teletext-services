@@ -3,27 +3,28 @@ PN,70200
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G702  RSI LA 1  23.11.26 14:59:29
-OL,1,A]GRSI   ]@LA1       LUNEDI 23 novembre 
+OL,0,       G702  RSI LA 1  24.11.26 13:04:17
+OL,1,A]GRSI   ]@LA1      MARTEDI 24 novembre 
 OL,2,G                                       
-OL,3, G04:55  GIl QuotidianoCR               
+OL,3, G04:55  GMeteoCST                      
 OL,4, F05:00  FTG Notte                      
-OL,5, G05:05  GMeteoCST                      
-OL,6, F05:10  FLa domenica sportivaCST       
-OL,7, G07:10  GMezz'ora per voiCST           
-OL,8, F07:40  FMezz'ora per voiCST           
-OL,9, G08:05  GEverywhere I go -         CST 
-OL,10,         GCoincidenze d'amore           
-OL,11,         GEpisodio 40                   
-OL,12, F08:50  FLa signora in gialloCSTCI/II  
-OL,13,         FMorte a Milano                
-OL,14, G09:40  GUn anno di vita sulla     CST 
-OL,15,         GTerra                         
-OL,16,         GNovembre - Dicembre           
-OL,17, F10:30  FShakespeare &        CSTCI/II 
-OL,18,         FHathaway                      
-OL,19,         Finvestigatori privati         
-OL,20,         FIl fantasma del pub           
+OL,5, G05:20  GMeteoCST                      
+OL,6, F05:25  FIl QuotidianoCST              
+OL,7, G05:50  GTG NotteCR                    
+OL,8, F06:15  FSiamo fuoriCST                
+OL,9, G07:10  GMezz'ora per voiCST           
+OL,10, F07:40  FMezz'ora per voiCST           
+OL,11, G08:05  GEverywhere I go -         CST 
+OL,12,         GCoincidenze d'amore           
+OL,13,         GEpisodio 41                   
+OL,14, F08:50  FLa signora in gialloCSTCI/II  
+OL,15,         FMaga imprevidente             
+OL,16, G09:40  GIl KalahariCST                
+OL,17,         GPrima parte                   
+OL,18, F10:30  FShakespeare &        CSTCI/II 
+OL,19,         FHathaway                      
+OL,20,         Finvestigatori privati         
+OL,21,         FSepararsi } un s~ dolce dolore
 OL,23,@HTechnical problems, no data available 
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

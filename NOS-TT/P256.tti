@@ -1,10 +1,10 @@
 DE,NOS-TT 256
-PN,25600
-SC,0000
-PS,8208
+PN,25601
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BNOS-TT  256Cmaa 23 nov  13:47:06
-OL,1,GW(|$|l4|,h4 |h<$| |(|$|h<|h<, NPOG     
+OL,0,       BNOS-TT  256Cdin 24 nov  01:10:12
+OL,1,GW(|$|l4|,h4 |h<$| |(|$|h<|h<, NPOG 1/2 
 OL,2,D]W j5,j5 j5 ,  j5j5l RADIOG1  
 OL,3,G W/ /.%/,*-$/*-$/ / / /*%/*-.          
 OL,4,B                                       
@@ -27,5 +27,35 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,D]Gindex tv 200 radio 250        NOS-EO 
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,25602
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  256Cdin 24 nov  01:10:12
+OL,1,GW(|$|l4|,h4 |h<$| |(|$|h<|h<, NPOG 2/2 
+OL,2,D]W j5,j5 j5 ,  j5j5l RADIOG1  
+OL,3,G W/ /.%/,*-$/*-$/ / / /*%/*-.          
+OL,4,F                                       
+OL,5,B23.05-00.00 uur,N O S:      MET HET OOG
+OL,6,G                           BOP MORGEN  
+OL,7,BMet onder meer:                        
+OL,8,G                                       
+OL,9,B*FBrussel Bij Nacht:Het is stil bij    
+OL,10,F  onze collega's op het NOS-kantoor in 
+OL,11,G FBrussel.Collega Tijn Sadee is        
+OL,12,GF zaterdag overleden - hij was de      
+OL,13,F  bedenker van deze wekelijkse rubriek 
+OL,14,B*FWelke bijnaam past bij Harry         
+OL,15,G FLeijdekkers,de broer van Bolle Jos   
+OL,16,B*FLeerstoel Iva Bicanic,hoogleraar     
+OL,17,G FSeksueel misbruik van kinderen:      
+OL,18,G Fgevolgen en behandeling aan het UMC  
+OL,19,G FUtrecht                              
+OL,20,G                                       
+OL,21,BPresentatie:Chris Kijne                
+OL,22,B(onderwerpen onder voorbehoud)         
+OL,23,D]Gindex tv 200 radio 250           NOS 
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100

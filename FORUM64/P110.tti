@@ -3,62 +3,50 @@ PN,11001
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMo 23 Nov F12:22:26
+OL,0,         GFORUM64   GMo 23 Nov F21:17:04
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,E"Schreiberl 64" - ein kleiner          
-OL,3,ENotiz-Editor auf Bairisch f}r den C64  
-OL,4,E(Beta)                                 
-OL,6,CAntwort:  BKungPhoo                    
-OL,7,CComments: B7                           
-OL,8,F                                       
-OL,9,FNette Idee. Leider werden viele        
-OL,10,Fhochdeutsche W|rter heute in bayerische
-OL,11,FTexte eingebaut. Dabei kann man das    
-OL,12,Falles auch nativ ausdr}cken. Wir sgaen 
-OL,13,Fes halt nur ganz anders. Datei |ffnen  
-OL,14,Fz.B. w}rde man vielleicht mit "Zellt   
-OL,15,Fhoin" oder "lod a moi was ma           
-OL,17,CErster Beitrag:                        
-OL,19,GAuf vielfachen Wunsch Grund einer      
-OL,20,GNachfrage will ich hier eine           
-OL,21,GBetaversion vom "Schreiberl 64"        
-OL,22,Gvorstellen.                            
-OL,24,D]FForum64.de RSS feed            (1/3) 
+OL,2,EThe whole internet is a floppy drive   
+OL,3,Efor you Commodore with Meatloaf!       
+OL,5,CAntwort:  Bskern                       
+OL,6,CComments: B343                         
+OL,7,F                                       
+OL,8,Fich hatte gerne eins                   
+OL,10,CErster Beitrag:                        
+OL,12,GI hope it is ok to post in English.    
+OL,13,GI've been a user for a while now but   
+OL,14,Ghave not posted anything.              
+OL,16,GI apologize in advance if not. I could 
+OL,17,Guse a translator but I'm afraid it     
+OL,18,Gwould not do as good a job as I'd like.
+OL,20,GI was hoping people might be interested
+OL,21,Gin my little gadget. It's a 1541 multi 
+OL,22,Gdrive emulator and wifi modem. No need 
+OL,23,Gfor a PC. It has 16MB of flash memory  
+OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,11002
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMo 23 Nov F12:22:26
+OL,0,         GFORUM64   GMo 23 Nov F21:17:04
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GDas Programm ist damals im Vorfeld von 
-OL,4,GUTEXT als "Finger}bung" und aus einer  
-OL,5,GLaune heraus entstanden, um ein paar   
-OL,6,GSachen auszuprobieren, die dann in     
-OL,7,GUTEXT verwendet und dort ausgebaut     
-OL,8,Gworden sind.                           
-OL,10,G"Schreiberl 64" ist in der Beta-Version
-OL,11,G0.2.1 stehengeblieben und hat dann     
-OL,12,GStaub angesetzt.                       
-OL,14,GDas Programm hat zwar noch viele offene
-OL,15,GStellen, funktioniert aber als kleiner 
-OL,16,GUTF-8-Editor und ist durchaus nutzbar. 
-OL,18,GDeshalb will ich es einfach hier mal   
-OL,19,Geinstellen, vielleicht sucht ja noch   
-OL,20,Gjemand ein "nicht ganz humorloses"     
-OL,21,GProgramm zum Texte tippen.             
-OL,23,GMit F2 kann man "beispiel" vom         
-OL,24,D]FForum64.de RSS feed            (2/3) 
-FL,0,0,0,0,0,100
-PN,11003
-SC,0003
-PS,C200
-CT,15,T
-OL,0,         GFORUM64   GMo 23 Nov F12:22:26
-OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GDiskettenimage laden. Mit STOP (ESC am 
-OL,4,GPC-Emulator) kommt man ins Men}, in den
-OL,5,Geinige Punkte auch funktionieren.      
-OL,7,GBitte melde Dich an,                   
-OL,24,D]FForum64.de RSS feed            (3/3) 
+OL,3,Gonboard. Can hold a lot of             
+OL,4,GD64/D71/D81/T64/TCRT/PRG/P00 file      
+OL,5,Gimages. It can also access disk images 
+OL,6,Gvia HTTP and load them like they were  
+OL,7,Gdirectly mounted from flash. You use   
+OL,8,Gsimple LOAD commands to connect via    
+OL,9,Ghttp, change directories and mount disk
+OL,10,Gimages. It doesn't support any fast    
+OL,11,Gloaders yet but I'm working on that.   
+OL,12,GAll operations at the moment are read  
+OL,13,Gonly as well.                          
+OL,15,GI also integrated a WebDAV server so   
+OL,16,Gyou can connect to it from your        
+OL,17,Gcomputer over Wifi and mount it like   
+OL,18,Gany network drive to add/edit/delete   
+OL,19,Gfiles in the flash memory.             
+OL,21,GIt can be configured to emulate any/all
+OL,22,GDevice IDs from 4-30 with a different  
+OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

@@ -1,22 +1,50 @@
 DE,WDR-TEXT 698
-PN,69800
-SC,0000
-PS,8208
+PN,69801
+SC,0001
+PS,C200
 CT,15,T
-OL,0,     G698 WDR Text GMo 23.11.26 19:45:41
+OL,0,     G698 WDR Text GDi 24.11.26 12:57:21
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, f}r A52,A57,A59,A61                    
-OL,5, Stand: 23.11.2026 19:43 Uhr            
-OL,7, Die A59 K|ln Richtung D}sseldorf ist   
-OL,8, zwischen Monheim und D}sseldorf-S}d    
-OL,9, voraussichtlich bis Mitte n{chsten     
-OL,10, Jahres wegen Bauarbeiten gesperrt.     
-OL,12, Die A59 K|ln Richtung D}sseldorf ist   
-OL,13, zwischen Monheim und D}sseldorf-S}d    
-OL,14, voraussichtlich bis Mitte n{chsten     
-OL,15, Jahres wegen Bauarbeiten gesperrt.     
+OL,5, Stand: 24.11.2026 12:53 Uhr            
+OL,7, A59 Bonn Richtung K|ln zwischen        
+OL,8, Bonn-P}tzchen und Bonn-Vilich Gefahr   
+OL,9, durch Gegenst{nde auf der Fahrbahn     
+OL,11, A52 D}sseldorf Richtung Essen zwischen 
+OL,12, Breitscheid und Essen-Kettwig etwa 10  
+OL,13, Minuten plus, 4 km Stau                
+OL,15, Auf der A57 Krefeld Richtung K|ln ist  
+OL,16, im Kreuz K|ln-Nord die Verbindung zur  
+OL,17, A1 Richtung Koblenz bis 14 Uhr         
+OL,18, gesperrt.                              
+OL,20, Die A59 K|ln Richtung D}sseldorf ist   
+OL,21, zwischen Monheim und D}sseldorf-S}d    
+OL,22, voraussichtlich bis Mitte n{chsten     
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 697B]G+ 699  \                     
+OL,24,A]G- 697B]G+ 699  \               G(1/2)
+FL,697,699,0,0,0,100
+PN,69802
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G698 WDR Text GDi 24.11.26 12:57:21
+OL,1,]D]        G]               @]  CVERKEHR
+OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
+OL,3,]T5                                
+OL,4, Jahres wegen Bauarbeiten gesperrt.     
+OL,6, Die A59 K|ln Richtung D}sseldorf ist   
+OL,7, zwischen Monheim und D}sseldorf-S}d    
+OL,8, voraussichtlich bis Mitte n{chsten     
+OL,9, Jahres wegen Bauarbeiten gesperrt.     
+OL,11, Auf der A59 D}sseldorf Richtung K|ln   
+OL,12, ist die Anschlussstelle Richrath bis 15
+OL,13, Uhr wegen Bauarbeiten gesperrt.        
+OL,15, A61 M|nchengladbach Richtung Koblenz   
+OL,16, zwischen Dreieck Bad Neuenahr und      
+OL,17, Niederzissen etwa 10 Minuten plus, 4 km
+OL,18, Stau                                   
+OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]G- 697B]G+ 699  \               G(2/2)
 FL,697,699,0,0,0,100

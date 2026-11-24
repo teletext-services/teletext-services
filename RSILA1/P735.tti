@@ -3,71 +3,67 @@ PN,73501
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G735  RSI LA 1  23.11.26 15:00:04
-OL,1,A]GRSI   ]@LA2      MARTEDI 24 novembre 
+OL,0,       G735  RSI LA 1  24.11.26 13:57:12
+OL,1,A]GRSI   ]@LA2    MERCOLEDI 25 novembre 
 OL,2,G                                   1/3 
-OL,3, G05:00  GRepliche informazione         
-OL,4, F05:30  FAlbachiara in TVCST           
-OL,5, G07:00  GRadiogiornale e lanci     CST 
-OL,6,         Gsport                         
-OL,7, F07:20  FSetteventi in TVCST           
-OL,8, G08:30  GModemCST                      
-OL,9, F09:00  FRadiogiornaleCST              
-OL,10, G09:10  GCasa SvizzeraCST              
-OL,11, F10:00  FMillevoci in TVCST            
-OL,12, G11:00  GMillestorieCST                
-OL,13, F11:45  FControcorrente in TVCST       
-OL,14, G12:35  GSiamo fuoriCSTCR              
-OL,15, F13:40  FZeroveroCST                   
-OL,16, G13:55  GEverywhere I go -         CST 
-OL,17,         GCoincidenze d'amore           
-OL,18,         GEpisodio 41                   
-OL,19, F14:40  F60 minutiCSTCR                
+OL,3, G05:00  GA tutta Champions             
+OL,4, F05:10  FA tutto hockey                
+OL,5, G05:30  GAlbachiara in TVCST           
+OL,6, F07:00  FRadiogiornale e lanci     CST 
+OL,7,         Fsport                         
+OL,8, G07:20  GSetteventi in TVCST           
+OL,9, F08:30  FModemCST                      
+OL,10, G09:00  GRadiogiornaleCST              
+OL,11, F09:10  FCasa SvizzeraCST              
+OL,12, G10:00  GMillevoci in TVCST            
+OL,13, F11:00  FMillestorieCST                
+OL,14, G11:45  GControcorrente in TVCST       
+OL,15, F12:35  FSiamo fuoriCSTCR              
+OL,16, G13:35  GZeroveroCST                   
+OL,17, F13:55  FEverywhere I go -         CST 
+OL,18,         FCoincidenze d'amore           
+OL,19,         FEpisodio 42                   
+OL,20, G14:35  GFal|CSTCR                     
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73502
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G735  RSI LA 1  23.11.26 15:00:04
-OL,1,A]GRSI   ]@LA2      MARTEDI 24 novembre 
+OL,0,       G735  RSI LA 1  24.11.26 13:57:12
+OL,1,A]GRSI   ]@LA2    MERCOLEDI 25 novembre 
 OL,2,G                                   2/3 
-OL,3, G15:45  GTesori del mondoCST           
-OL,4,         GLe miniere di salnitro di     
-OL,5,         GSanta Laura - Cile            
-OL,6, F16:05  FLa signora in gialloCSTCI/II  
-OL,7,         FMaga imprevidente             
-OL,8, G16:55  GIl KalahariCST                
-OL,9,         GPrima parte                   
-OL,10, F17:50  FShakespeare &        CSTCI/II 
-OL,11,         FHathaway                      
-OL,12,         Finvestigatori privati         
-OL,13,         FSepararsi } un s~ dolce dolore
-OL,14, G18:40  GWalker, Texas RangerCSTCI/II  
-OL,15,         GLa sfida finale               
-OL,16, F19:25  FLe sorelle McLeodCSTCI/II     
-OL,17,         FFollie d'amore                
-OL,18, G20:15  GTelesguardCST                 
-OL,19, F20:35  FNon cos~ vicinoCSTCI/II...C711
-OL,20, G22:40  GNavigare verso il futuroCST   
+OL,3, F15:40  FLa signora in gialloCSTCI/II  
+OL,4,         FChiave di volta               
+OL,5, G16:30  GIl KalahariCST                
+OL,6,         GSeconda parte                 
+OL,7, F17:20  FPrivate EyesCSTCI/II          
+OL,8,         FIl codice                     
+OL,9, G18:05  GWalker, Texas RangerCSTCI/II  
+OL,10,         GMiss Ranger                   
+OL,11, F18:55  FLe sorelle McLeodCSTCI/II     
+OL,12,         FIndecisione                   
+OL,13, G19:45  GModern FamilyCSTCI/II.....C711
+OL,14,         GI vicini di casa              
+OL,15, F20:15  FTelesguardCST                 
+OL,16, G20:30  GCalcio: Champions    CSTCI/II 
+OL,17,         GLeague 2026/2027              
+OL,18,         GInter - Stoccarda             
+OL,19, F00:05  FUn principe sotto    CSTCI/II 
+OL,20,         Fcopertura                     
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73503
 SC,0003
 PS,C300
 CT,8,T
-OL,0,       G735  RSI LA 1  23.11.26 15:00:04
-OL,1,A]GRSI   ]@LA2      MARTEDI 24 novembre 
+OL,0,       G735  RSI LA 1  24.11.26 13:57:12
+OL,1,A]GRSI   ]@LA2    MERCOLEDI 25 novembre 
 OL,2,G                                   3/3 
-OL,3, F23:05  FA tutto hockey                
-OL,4, G23:35  GA tutta Champions             
-OL,5, F23:55  F9-1-1 Lone StarCSTCI/II       
-OL,6,         FSbigottito                    
-OL,7, G00:40  G9-1-1 Lone StarCSTCI/II       
-OL,8,         GLa nuda verit{                
-OL,9, F01:20  FTelesguardCST                 
-OL,10, G01:35  GA tutto hockey                
-OL,11, F01:55  FA tutta Champions             
-OL,12, G02:15  GRepliche informazione         
+OL,3, G01:30  GTelesguardCST                 
+OL,4, F01:45  FCalcio: Champions LeagueCSTCR 
+OL,5,         F2026/2027                     
+OL,6,         FInter - Stoccarda             
+OL,7, G03:25  GRepliche informazione         
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

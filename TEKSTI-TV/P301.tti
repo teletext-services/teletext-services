@@ -3,28 +3,28 @@ PN,30101
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G301 YLE TEKSTI-TV 23.03.17:44:18
-OL,1,A]         C]                   A   1/2 
-OL,2,A]CTV1     C]A    Maanantai 23.11.      
+OL,0,       G301 YLE TEKSTI-TV 24.03.02:22:33
+OL,1,A]         C]                   A   1/3 
+OL,2,A]CTV1     C]A    Tiistai 24.11.        
 OL,3,Q#########^S############################
-OL,4, 17.10GMurha kaikilla mausteillaG(7)BA  
-OL,5,      C>351                             
-OL,6, 18.00GYle Uutiset 18.00ETBA            
-OL,7, 18.21GPuoli7 t{n{{nET                  
-OL,8, 18.23GYle Uutiset alueeltasi           
-OL,9, 18.30GPuoli seitsem{nFAC>352           
-OL,10, 19.00GVictorian syd{nG(7)BAC>352       
-OL,11, 19.50GKansallismaisemat: LappiaETBA    
-OL,12,      C>352                             
-OL,13, 19.55GOuto historia - lyhyetETC>352    
-OL,14, 20.00GMOTETBAC>356                     
-OL,15, 20.29GYle Uutiset 20.30FA              
-OL,16, 20.55GUrheiluruutuFA                   
-OL,17, 21.00GA-studioFAC>356                  
-OL,18, 21.36GYle Uutiset Uutis-SuomiFA        
-OL,19, 21.45GYle UutisetFA                    
-OL,20, 21.49GUrheiluruutuFA                   
-OL,21, 22.50GOddasatFA                        
+OL,4, 06.25GYlen aamuFAC>399                 
+OL,5, 09.30GPuoli seitsem{nBA                
+OL,6, 10.00GLa Promesa - Salaisuuksien       
+OL,7,      GkartanoG(S)BA                    
+OL,8, 11.00GYle Uutiset UusimaaBA            
+OL,9, 11.04GYle Uutiset Kaakkois-SuomiETBA   
+OL,10, 11.09GYle Uutiset Lounais-SuomiBA      
+OL,11, 11.14GYle Uutiset H{meETBA             
+OL,12, 11.19GYle Uutiset PirkanmaaBA          
+OL,13, 11.24GYle Uutiset Keski-Suomi ja Etel{-
+OL,14,      GSavoETBA                         
+OL,15, 11.29GYle Uutiset It{-SuomiBA          
+OL,16, 11.35GYle Uutiset PohjanmaaBA          
+OL,17, 11.40GYle Uutiset Pohjois-SuomiETBA    
+OL,18, 11.45GYle Uutiset LappiETBA            
+OL,19, 11.50GYle OddasatBA                    
+OL,20, 11.54GOddasatBA                        
+OL,21, 12.05GTanskalainen maajussiBA          
 OL,22,ET = Tekstitys                          
 OL,23,BA = Jo Areenassa   FA = Tulee Areenaan 
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
@@ -33,29 +33,59 @@ PN,30102
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G301 YLE TEKSTI-TV 23.03.17:44:18
-OL,1,A]         C]                   A   2/2 
-OL,2,A]CTV1     C]A    Maanantai 23.11.      
+OL,0,       G301 YLE TEKSTI-TV 24.03.02:22:33
+OL,1,A]         C]                   A   2/3 
+OL,2,A]CTV1     C]A    Tiistai 24.11.        
 OL,3,Q#########^S############################
-OL,4, 21.00GA-studioFAC>356                  
-OL,5, 21.36GYle Uutiset Uutis-SuomiFA        
-OL,6, 21.45GYle UutisetFA                    
-OL,7, 21.49GUrheiluruutuFA                   
-OL,8, 21.55GLe bureau, vakoojaverkostoG(12)BA
-OL,9,      C>352                             
-OL,10, 22.50GOddasatFA                        
-OL,11, 23.00GMyrskyluodon MaijaG(S)BAC>352    
-OL,12,K                                       
-OL,13,K                                       
-OL,14,K                                       
-OL,15,K                                       
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
+OL,4, 12.35GMurha kaikilla mausteillaG(7)BA  
+OL,5, 13.25GH{rm{st{ poikia kymmenenG(7)ET   
+OL,6,      C>357                             
+OL,7, 14.45GEl{v{ arkisto: P E SvinhufvudG(S)
+OL,8,      ETC>357                           
+OL,9, 15.00GVeljesten keitti|ss{BA           
+OL,10, 15.30GHyvin{ ja huonoina p{ivin{BA     
+OL,11, 15.59GA-studioBA                       
+OL,12, 16.35GYle Uutiset selkosuomeksiFA      
+OL,13, 16.40GYle OddasatFA                    
+OL,14, 16.45GNovosti YleFA                    
+OL,15, 16.50GYle Uutiset viittomakielell{FA   
+OL,16, 16.55GYle Uutiset alueeltasi           
+OL,17, 17.00GYle Uutiset 17.00FA              
+OL,18, 17.10GMurha kaikilla mausteillaG(12)BA 
+OL,19, 17.57GKovan viikon ilta: Kaikki muut   
+OL,20,      GuutisetET                        
+OL,21, 18.00GYle Uutiset 18.00FA              
+OL,22, 18.21GPuoli7 t{n{{nET                  
+OL,23,C]ATV1 huomennaA310  ylihuomennaA315    
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,30103
+SC,0003
+PS,C100
+CT,15,T
+OL,0,       G301 YLE TEKSTI-TV 24.03.02:22:33
+OL,1,A]         C]                   A   3/3 
+OL,2,A]CTV1     C]A    Tiistai 24.11.        
+OL,3,Q#########^S############################
+OL,4, 18.23GYle Uutiset alueeltasi           
+OL,5, 18.30GPuoli seitsem{nFA                
+OL,6, 19.00GPrisma: Nis{kk{iden alkutarinaET 
+OL,7,      BA                                
+OL,8, 19.50GRuotsi tutkiiBA                  
+OL,9, 19.55GRuotsi tutkiiBA                  
+OL,10, 20.00GAkuutti: Sitten k{vi pahastiG(S) 
+OL,11,      ETBA                              
+OL,12, 20.29GYle Uutiset 20.30FA              
+OL,13, 20.55GUrheiluruutuFA                   
+OL,14, 21.00GA-studioFA                       
+OL,15, 21.36GYle Uutiset Uutis-SuomiFA        
+OL,16, 21.45GYle UutisetFA                    
+OL,17, 21.49GUrheiluruutuFA                   
+OL,18, 21.55GVigil - j{inen kuolemaG(16)BA    
+OL,19, 22.55GOddasatFA                        
+OL,20, 23.05GEfter NioBA                      
 OL,21,K                                       
 OL,22,K                                       
-OL,23,C]ATV1 huomennaA310  ylihuomennaA315    
+OL,23,A]C    TV-ohjelmien hakemisto s.C300    
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

@@ -1,23 +1,83 @@
 DE,TEKSTI-TV 323
-PN,32300
-SC,0000
-PS,8108
+PN,32301
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       G323 YLE TEKSTI-TV 23.03.17:44:38
-OL,1,G]D          D]                 G   1/1 
-OL,2,G]DTV FINLANDD]G   Maanantai 23.11.     
+OL,0,       G323 YLE TEKSTI-TV 24.03.02:57:26
+OL,1,G]D          D]                 G   1/3 
+OL,2,G]DTV FINLANDD]G   Tiistai 24.11.       
 OL,3,W###########^T##########################
 OL,4, (CET)                                  
-OL,5, 16.25GSeitsem{s taivasETBA             
-OL,6, 17.15GRuma SuomiETBA                   
-OL,7, 17.45GYle Uutiset SunnuntaiETBA        
-OL,8, 18.30GYle Nyheter TV-nytt 19.30FA      
-OL,9, 19.00GMOTETBA                          
-OL,10, 19.29GYle Uutiset 20.30FA              
-OL,11, 19.55GUrheiluruutuFA                   
-OL,12, 20.00GDanny - viihdemaratonin          
-OL,13,      GloppusuoraETBA                   
-OL,14, 21.15GOuto historiaG(7)ETBA            
+OL,5, 08.00GPuoli seitsem{n irtiETBA         
+OL,6, 08.30GKirkkovierasETBA                 
+OL,7, 09.30GNuoret kilvoittelijatG(S)ETBA    
+OL,8, 10.00GYle Uutiset UusimaaBA            
+OL,9, 10.04GYle Uutiset Kaakkois-SuomiETBA   
+OL,10, 10.09GYle Uutiset Lounais-SuomiBA      
+OL,11, 10.14GYle Uutiset H{meETBA             
+OL,12, 10.19GYle Uutiset PirkanmaaBA          
+OL,13, 10.24GYle Uutiset Keski-Suomi ja Etel{-
+OL,14,      GSavoETBA                         
+OL,15, 10.29GYle Uutiset It{-SuomiBA          
+OL,16, 10.35GYle Uutiset PohjanmaaBA          
+OL,17, 10.40GYle Uutiset Pohjois-SuomiETBA    
+OL,18, 10.45GYle Uutiset LappiETBA            
+OL,19, 10.50GYle OddasatBA                    
+OL,20, 10.54GOddasatBA                        
+OL,21, 11.20GMeid{n maamme - V}rt landBA      
+OL,22, 11.50GMyrskyluodon MaijaG(S)BA         
+OL,23,D]G    Lis{tietoja sivullaG326          
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,32302
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       G323 YLE TEKSTI-TV 24.03.02:57:26
+OL,1,G]D          D]                 G   2/3 
+OL,2,G]DTV FINLANDD]G   Tiistai 24.11.       
+OL,3,W###########^T##########################
+OL,4, (CET)                                  
+OL,5, 12.50GJumppahetkiETBA                  
+OL,6, 13.00GH{rm{st{ poikia kymmenenG(7)ET   
+OL,7, 14.20GUnelma LapistaETBA               
+OL,8, 14.50GVintage-valtakuntaETBA           
+OL,9, 15.20GTanssikokeetETBA                 
+OL,10, 16.00GNimip{iv{onnittelu: 24.11FA      
+OL,11, 16.01GAskarrellaanET                   
+OL,12, 16.20GSeitsem{s taivasETBA             
+OL,13, 17.09G[idilt{ tytt{relleBA             
+OL,14, 17.30GPuoli seitsem{nBA                
+OL,15, 18.00GRuma SuomiETBA                   
+OL,16, 18.30GYle Nyheter TV-nytt 19.30FA      
+OL,17, 19.00GAkuutti: Sitten k{vi pahastiG(S) 
+OL,18,      ETBA                              
+OL,19, 19.29GYle Uutiset 20.30FA              
+OL,20, 19.55GUrheiluruutuFA                   
+OL,21, 20.00GA-studioBA                       
+OL,22, 20.35GEfter NioBA                      
+OL,23,G]D    Lis{tietoja sivullaD326          
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,32303
+SC,0003
+PS,C100
+CT,15,T
+OL,0,       G323 YLE TEKSTI-TV 24.03.02:57:26
+OL,1,G]D          D]                 G   3/3 
+OL,2,G]DTV FINLANDD]G   Tiistai 24.11.       
+OL,3,W###########^T##########################
+OL,4, (CET)                                  
+OL,5, 19.00GAkuutti: Sitten k{vi pahastiG(S) 
+OL,6,      ETBA                              
+OL,7, 19.29GYle Uutiset 20.30FA              
+OL,8, 19.55GUrheiluruutuFA                   
+OL,9, 20.00GA-studioBA                       
+OL,10, 20.35GEfter NioBA                      
+OL,11, 21.35GRaidG(12)ETBA                    
+OL,12, 22.21GSuomiLOVEETBA                    
+OL,13,K                                       
+OL,14,K                                       
 OL,15,K                                       
 OL,16,K                                       
 OL,17,K                                       

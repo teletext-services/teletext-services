@@ -3,20 +3,24 @@ PN,61301
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G613FORF1   GMo 23.11.26 14:17:33
+OL,0,       G613FORF1   GDi 24.11.26 10:41:05
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    1/4  
-OL,4, Vorhersage f}r den 23.11.2026,         
-OL,5, vom 23.11.2026, 0500 Uhr lct           
+OL,4, Vorhersage f}r den 24.11.2026,         
+OL,5, vom 24.11.2026, 0500 Uhr lct           
 OL,7,FWetterlage:                            
-OL,8, Kalte Nordweststr|mung.                
-OL,10,FWind freie Atmosph{re 1300 Uhr lct:    
-OL,11,  5000ft amsl 270-310/20-35kt           
-OL,12, 10000ft amsl 300-330/35-50kt           
-OL,13, 15000ft amsl 310-340/50-65kt           
-OL,15,FNullgradgrenze:                        
-OL,16, Boden bis 2000ft amsl.                 
+OL,8, Nach Passage eines weitgehend unwirk-  
+OL,9, samen H|hentroges herrscht zunehmender 
+OL,10, Hochdruckeinfluss in \sterreich.       
+OL,12,FWind freie Atmosph{re 1300 Uhr lct:    
+OL,13,  5000ft amsl 320/10-20kt; W: 160/5kt   
+OL,14, 10000ft amsl 270-320/15-25kt           
+OL,15, 15000ft amsl 300-340/20-50kt           
+OL,17,FNullgradgrenze:                        
+OL,18, Anfangs durchwegs am Boden, tags}ber im
+OL,19, Osten um 2000ft amsl, ganz im Westen   
+OL,20, gegen 6000ft amsl ansteigend.          
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -24,27 +28,27 @@ PN,61302
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G613FORF1   GMo 23.11.26 14:17:34
+OL,0,       G613FORF1   GDi 24.11.26 10:41:05
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    2/4  
-OL,4, Vorhersage f}r den 23.11.2026,         
-OL,5, vom 23.11.2026, 0500 Uhr lct           
+OL,4, Vorhersage f}r den 24.11.2026,         
+OL,5, vom 24.11.2026, 0500 Uhr lct           
 OL,7,FInformationen Instrumentenflug:        
-OL,8, Im {u~ersten Westen Vereisungsgefahr.  
-OL,10,FInformationen Sichtflug:               
-OL,11, Von Vorarlberg bis zum Wienerwald      
-OL,12, }berwiegend starke SC-Bew|lkung mit    
-OL,13, lokalen Niederschl{gen, die im         
-OL,14, {u~ersten Westen intensiver ausfallen, 
-OL,15, Schneefallgrenze in Vbg. nahe 2000ft   
-OL,16, amsl, sonst in Bodenn{he. Beg}nstigt   
-OL,17, mit meist nur hohen Wolkenfeldern von  
-OL,18, Osttirol bis ins S}dburgenland. ]ber   
-OL,19, dem Lungau, der Mur-/M}rzfurche sowie  
-OL,20, n|rdlich der Donau und im Wiener Becken
-OL,21, anfangs flache SC-Felder, die meist    
-OL,22, vormittags bis mittags auflockern.     
+OL,8, In der Fr}h an der Alpennordseite lokal
+OL,9, m{~ige Vereisung unterhalb von FL100.  
+OL,11,FInformationen Sichtflug:               
+OL,12, In den Nordstaulagen zu Beginn noch    
+OL,13, tiefbasigere Bew|lkung, die Alpen}ber- 
+OL,14, g{nge anfangs noch erschwert. Danach   
+OL,15, rasche Aufl|sung der Bew|lkung. Im     
+OL,16, n|rdlichen und |stlichen Flachland von 
+OL,17, der Fr}h weg verbreitet gute Sichten   
+OL,18, und lediglich einzelne tiefbasige      
+OL,19, Wolkenfelder in der ersten Tagesh{lfte 
+OL,20, etwa im M}hlviertel. Die Nebel- und    
+OL,21, Hochnebelfelder im S}den \sterreichs   
+OL,22, lichten sich bis sp{testens Mittag.    
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -52,25 +56,26 @@ PN,61303
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G613FORF1   GMo 23.11.26 14:17:34
+OL,0,       G613FORF1   GDi 24.11.26 10:41:05
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    3/4  
-OL,4, Vorhersage f}r den 23.11.2026,         
-OL,5, vom 23.11.2026, 0500 Uhr lct           
+OL,4, Vorhersage f}r den 24.11.2026,         
+OL,5, vom 24.11.2026, 0500 Uhr lct           
 OL,7,FInformationen Thermik/Wellen:          
-OL,8, Keine Zusatzinformationen.             
-OL,10,FInformationen Ballonfahrten:           
-OL,11, Im N und E durchgreifender nordwest-   
-OL,12, licher H|henwind, der ab Mittag auch im
-OL,13, SE durchgreift.                        
-OL,15,FVorschau f}r Dienstag, den 24.11.:     
-OL,16, Nord|stlich einer Linie Salzburg-      
-OL,17, Klagenfurt verbreitet gering bew|lkt   
-OL,18, oder wolkenlos. Weiter westlich        
-OL,19, hingegen h{ufig tiefliegender          
-OL,20, Stratus, hier erst oberhalb von        
-OL,21, 3500-5000ft amsl sonnig.               
+OL,8, Mit der nordwestlichen Anstr|mung      
+OL,9, hochreichende Wellenbildung entlang und
+OL,10, s}dlich des Alpenhauptkamms.           
+OL,12,FInformationen Ballonfahrten:           
+OL,13, In N\ und Wien, im Nordburgenland und  
+OL,14, teils auch in der Obersteiermark bis in
+OL,15, den Nachmittag hinein lebhafter W-Wind.
+OL,16, Sonst meist nur schwacher Bodenwind.   
+OL,18,FVorschau f}r Mittwoch, den 25.11.:     
+OL,19, Mit einem Tief }ber dem L|wengolf vor- 
+OL,20, }bergehend f|hnig. An der Alpens}dseite
+OL,21, aber schon Wolkenstau mit etwas Schnee 
+OL,22, und Regen. Auch im Osten Eintr}bung.   
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -78,22 +83,26 @@ PN,61304
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G613FORF1   GMo 23.11.26 14:17:34
+OL,0,       G613FORF1   GDi 24.11.26 10:41:05
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    4/4  
 OL,4, Flugwetterausblick:                    
-OL,6,FVorschau f}r Mittwoch, den 25.11.:     
-OL,7, An der Vorderseite eines hochreichenden
-OL,8, Tiefdruckgebietes }ber Westeuropa setzt
-OL,9, sich vor}bergehend S}df|hn durch.      
-OL,11,FVorschau f}r Donnerstag, den 26.11.:   
-OL,12, Geschlossene Wolkendecke }ber          
-OL,13, \sterreich mit sehr tiefen Untergrenzen
-OL,14, und Schneefall. Es besteht verbreitet  
-OL,15, erhebliche Vereisungsgefahr.           
-OL,17,FHinweis zur Prognosesicherheit:        
-OL,18, Ziemlich abgesichert.                  
+OL,6,FVorschau f}r Donnerstag, den 26.11.:   
+OL,7, Der Alpenraum im Einflussbereich       
+OL,8, eines Italientiefs. Das dazugeh|rige   
+OL,9, Frontensystem }berquert \sterreich und 
+OL,10, bringt verbreitet Schneefall bis       
+OL,11, in tiefe Lagen, teils auch ergiebigen. 
+OL,13,FVorschau f}r Freitag, den 27.11.:      
+OL,14, Nachlassender Tiefdruckeinfluss. Damit 
+OL,15, schneit es nur noch regional ein wenig.
+OL,16, Mitunter lockern die Wolken auf.       
+OL,18,FHinweis zur Prognosesicherheit:        
+OL,19, Die Niederschlagsverteilung und        
+OL,20, -intensit{t am Donnerstag ist noch     
+OL,21, unsicher. Gebietsweise, etwa im Osten, 
+OL,22, sind aber beachtliche Mengen m|glich.  
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

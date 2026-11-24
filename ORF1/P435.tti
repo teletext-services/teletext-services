@@ -3,27 +3,27 @@ PN,43501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G435FORF1   GMo 23.11.26 14:15:58
+OL,0,       G435FORF1   GDi 24.11.26 05:56:28
 OL,1,A]WG                 Billig tanken Wien 
-OL,2,A]GMOTOR  ]A             23.11.,13:06h \
-OL,3,Q#########G                        1/9  
+OL,2,A]GMOTOR  ]A             24.11.,04:02h \
+OL,3,Q#########G                        1/7  
 OL,4,C                               Super95 
-OL,5,G1050 TMC Werkstatt & Tankstelle        
-OL,6,G     Rechte Wienzeile 43         1,519 
-OL,7,F1210 boesch energy, turm|l             
-OL,8,F     Br}nnerstr. 64              1,544 
-OL,9,G1230 JET TANKSTELLE                    
-OL,10,G     KETZERGASSE 208             1,569 
-OL,11,F1210 Lohberger                         
-OL,12,F     Richard Neutra Gasse 9B     1,569 
-OL,13,G1230 JET TANKSTELLE                    
-OL,14,G     TRIESTERSTRASSE 292         1,582 
-OL,15,F1230 SOCAR Wien-Endresstra~e           
-OL,16,F     Endresstra~e 69             1,583 
-OL,17,G1230 SOCAR Wien-Altmannsdorferstra~e   
-OL,18,G     Altmannsdorfer Stra~e 200a  1,583 
-OL,19,F1120 boesch energy, turm|l             
-OL,20,F     Schoenbrunner Stra~e 213    1,584 
+OL,5,G1230 Diskont Tankstelle                
+OL,6,G     Breitenfurter Stra~e 261    1,517 
+OL,7,F1100 Turm|l                            
+OL,8,F     Grenzackerstra~e 2-4        1,534 
+OL,9,G1100 eni                               
+OL,10,G     Grenzackerstra~e 6-8        1,539 
+OL,11,F1210 boesch energy, turm|l             
+OL,12,F     Br}nnerstr. 64              1,544 
+OL,13,G1100 eni                               
+OL,14,G     Raxstra~e 44 /              1,549 
+OL,15,F1210 Diskont Tankstelle                
+OL,16,F     Shuttleworthstra~e 11 (am   1,554 
+OL,17,G1210 Diskont Tankstelle                
+OL,18,G     Donaufelderstra~e 137 (am   1,554 
+OL,19,F1230 OMV - Wien Brunner Stra~e 77-79   
+OL,20,F     Brunner Stra~e 77-79        1,559 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -33,27 +33,27 @@ PN,43502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G435FORF1   GMo 23.11.26 14:15:58
+OL,0,       G435FORF1   GDi 24.11.26 05:56:28
 OL,1,A]WG                 Billig tanken Wien 
-OL,2,A]GMOTOR  ]A             23.11.,13:06h \
-OL,3,Q#########G                        2/9  
+OL,2,A]GMOTOR  ]A             24.11.,04:02h \
+OL,3,Q#########G                        2/7  
 OL,4,C                               Super95 
-OL,5,G1140 Turm|l Quick                      
-OL,6,G     Schlossallee 2              1,584 
-OL,7,F1110 Turm|l Quick                      
-OL,8,F     Gadnergasse 1               1,584 
-OL,9,G1190 Turm|l                            
-OL,10,G     Krottenbachstra~e 233       1,589 
-OL,11,F1050 Turm|l                            
-OL,12,F     Am Hundsturm 2-4            1,589 
-OL,13,G1150 eni24                             
-OL,14,G     Felberstra~e vis a vis 102  1,589 
-OL,15,F1210 eni                               
-OL,16,F     Leopoldauerstra~e 180       1,589 
-OL,17,G1160 boesch energy, turm|l             
-OL,18,G     Baldiagasse 14a             1,594 
-OL,19,F1210 AVANTI - Wien Prager Stra~e       
-OL,20,F     Prager Stra~e 270-272       1,594 
+OL,5,G1110 AVANTI - Wien Jedletzbergerstra~e 
+OL,6,G     Jedletzbergerstra~e 7       1,559 
+OL,7,F1140 Turm|l Quick                      
+OL,8,F     Schlossallee 2              1,563 
+OL,9,G1210 AVANTI - Wien Julius Ficker       
+OL,10,G     Julius Ficker Stra~e 77     1,564 
+OL,11,F1110 AVANTI - Wien Simmeringer         
+OL,12,F     Simmeringer Hauptstra~e 489 1,564 
+OL,13,G1210 AVANTI - Wien Prager Stra~e       
+OL,14,G     Prager Stra~e 270-272       1,569 
+OL,15,F1140 AVANTI - Wien Guldengasse 13      
+OL,16,F     Guldengasse 13              1,569 
+OL,17,G1150 Shell Austria                     
+OL,18,G     LINZER STR 2A               1,579 
+OL,19,F1220 Shell Austria                     
+OL,20,F     WAGRAMERSTRASSE 14          1,579 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -63,27 +63,21 @@ PN,43503
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G435FORF1   GMo 23.11.26 14:15:58
+OL,0,       G435FORF1   GDi 24.11.26 05:56:28
 OL,1,A]WG                 Billig tanken Wien 
-OL,2,A]GMOTOR  ]A             23.11.,13:06h \
-OL,3,Q#########G                        3/9  
+OL,2,A]GMOTOR  ]A             24.11.,04:02h \
+OL,3,Q#########G                        3/7  
 OL,4,C                               Super95 
-OL,5,G1050 JVG JOHANNA - GARAGE GmbH         
-OL,6,G     Johannagasse 28             1,599 
-OL,7,F1140 DISK                              
-OL,8,F     Ameisgasse 49-51            1,599 
-OL,9,G1140 JET TANKSTELLE                    
-OL,10,G     LINZER STRASSE 453          1,599 
-OL,11,F1110 AVANTI - Wien Simmeringer         
-OL,12,F     Simmeringer Hauptstra~e 5   1,614 
-OL,13,G1220 AVANTI - Wien Esslinger           
-OL,14,G     Esslinger Hauptstra~e 32    1,614 
-OL,15,F1110 AVANTI - Wien Simmeringer         
-OL,16,F     Simmeringer Hauptstra~e 489 1,614 
-OL,17,G1220 Diskonttankstelle Jandl           
-OL,18,G     Dassanowskyweg 12           1,619 
-OL,19,F1050 BP                                
-OL,20,F     Margaretenguertel 43-45     1,669 
+OL,5,G1140 Shell Austria                     
+OL,6,G     HADIKGASSE 128-134          1,579 
+OL,7,F1140 BP                                
+OL,8,F     Hadikgasse/Kefergasse       1,579 
+OL,9,G1220 eni                               
+OL,10,G     Donaustadtstra~e 43         1,589 
+OL,11,F1020 AVANTI - Wien Gaussplatz 1        
+OL,12,F     Gaussplatz 1                1,594 
+OL,13,G1050 BP                                
+OL,14,G     Margaretenguertel 43-45     1,599 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -93,13 +87,27 @@ PN,43504
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G435FORF1   GMo 23.11.26 14:15:59
+OL,0,       G435FORF1   GDi 24.11.26 05:56:28
 OL,1,A]WG                 Billig tanken Wien 
-OL,2,A]GMOTOR  ]A             23.11.,13:06h \
-OL,3,Q#########G                        4/9  
-OL,4,C                               Super95 
-OL,5,G1010 BP                                
-OL,6,G     Franz Josefskai/Morzinpl    1,669 
+OL,2,A]GMOTOR  ]A             24.11.,04:02h \
+OL,3,Q#########G                        4/7  
+OL,4,C                                Diesel 
+OL,5,F1230 Diskont Tankstelle                
+OL,6,F     Breitenfurter Stra~e 261    1,932 
+OL,7,G1100 Turm|l                            
+OL,8,G     Grenzackerstra~e 2-4        1,944 
+OL,9,F1100 eni                               
+OL,10,F     Grenzackerstra~e 6-8        1,949 
+OL,11,G1110 AVANTI - Wien Jedletzbergerstra~e 
+OL,12,G     Jedletzbergerstra~e 7       1,959 
+OL,13,F1100 eni                               
+OL,14,F     Raxstra~e 44 /              1,959 
+OL,15,G1210 boesch energy, turm|l             
+OL,16,G     Br}nnerstr. 64              1,964 
+OL,17,F1230 OMV - Wien Brunner Stra~e 77-79   
+OL,18,F     Brunner Stra~e 77-79        1,969 
+OL,19,G1140 Turm|l Quick                      
+OL,20,G     Schlossallee 2              1,973 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -109,27 +117,27 @@ PN,43505
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       G435FORF1   GMo 23.11.26 14:15:59
+OL,0,       G435FORF1   GDi 24.11.26 05:56:29
 OL,1,A]WG                 Billig tanken Wien 
-OL,2,A]GMOTOR  ]A             23.11.,13:06h \
-OL,3,Q#########G                        5/9  
+OL,2,A]GMOTOR  ]A             24.11.,04:02h \
+OL,3,Q#########G                        5/7  
 OL,4,C                                Diesel 
-OL,5,F1050 TMC Werkstatt & Tankstelle        
-OL,6,F     Rechte Wienzeile 43         1,949 
-OL,7,G1220 Diskonttankstelle Jandl           
-OL,8,G     Dassanowskyweg 12           1,964 
-OL,9,F1210 boesch energy, turm|l             
-OL,10,F     Br}nnerstr. 64              1,964 
-OL,11,G1210 Lohberger                         
-OL,12,G     Richard Neutra Gasse 9B     1,979 
-OL,13,F1220 DISKONT TANKSTELLE WIEN 22        
-OL,14,F     Erzherzog-Karl-Stra~e 12    1,980 
-OL,15,G1230 JET TANKSTELLE                    
-OL,16,G     TRIESTERSTRASSE 292         1,981 
-OL,17,F1230 SOCAR Wien-Altmannsdorferstra~e   
-OL,18,F     Altmannsdorfer Stra~e 200a  1,982 
-OL,19,G1120 boesch energy, turm|l             
-OL,20,G     Schoenbrunner Stra~e 213    1,984 
+OL,5,F1110 AVANTI - Wien Simmeringer         
+OL,6,F     Simmeringer Hauptstra~e 489 1,974 
+OL,7,G1210 Diskont Tankstelle                
+OL,8,G     Shuttleworthstra~e 11 (am   1,974 
+OL,9,F1210 Diskont Tankstelle                
+OL,10,F     Donaufelderstra~e 137 (am   1,974 
+OL,11,G1210 AVANTI - Wien Julius Ficker       
+OL,12,G     Julius Ficker Stra~e 77     1,979 
+OL,13,F1140 AVANTI - Wien Guldengasse 13      
+OL,14,F     Guldengasse 13              1,984 
+OL,15,G1160 NNB BRUNNENTANKSTELLE             
+OL,16,G     Brunnengasse 4              1,988 
+OL,17,F1210 AVANTI - Wien Prager Stra~e       
+OL,18,F     Prager Stra~e 270-272       1,988 
+OL,19,G1150 Shell Austria                     
+OL,20,G     LINZER STR 2A               1,989 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -139,27 +147,21 @@ PN,43506
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       G435FORF1   GMo 23.11.26 14:15:59
+OL,0,       G435FORF1   GDi 24.11.26 05:56:29
 OL,1,A]WG                 Billig tanken Wien 
-OL,2,A]GMOTOR  ]A             23.11.,13:06h \
-OL,3,Q#########G                        6/9  
+OL,2,A]GMOTOR  ]A             24.11.,04:02h \
+OL,3,Q#########G                        6/7  
 OL,4,C                                Diesel 
-OL,5,F1140 Turm|l Quick                      
-OL,6,F     Schlossallee 2              1,984 
-OL,7,G1230 Turm|l Quick                      
-OL,8,G     Breitenfurterstra~e 473     1,984 
-OL,9,F1100 Turm|l Quick                      
-OL,10,F     Hardtmuthgasse 51           1,984 
-OL,11,G1110 Turm|l Quick                      
-OL,12,G     Gadnergasse 1               1,984 
-OL,13,F1160 NNB BRUNNENTANKSTELLE             
-OL,14,F     Brunnengasse 4              1,988 
-OL,15,G1190 Turm|l                            
-OL,16,G     Krottenbachstra~e 233       1,989 
-OL,17,F1050 Turm|l                            
-OL,18,F     Am Hundsturm 2-4            1,989 
-OL,19,G1160 boesch energy, turm|l             
-OL,20,G     Baldiagasse 14a             1,994 
+OL,5,F1020 AVANTI - Wien Gaussplatz 1        
+OL,6,F     Gaussplatz 1                1,994 
+OL,7,G1140 Shell Austria                     
+OL,8,G     HADIKGASSE 128-134          1,996 
+OL,9,F1020 BP                                
+OL,10,F     Handelskai 276-280          1,999 
+OL,11,G1220 Shell Austria                     
+OL,12,G     WAGRAMERSTRASSE 14          1,999 
+OL,13,F1050 BP                                
+OL,14,F     Margaretenguertel 43-45     2,029 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -169,56 +171,10 @@ PN,43507
 SC,0007
 PS,C200
 CT,15,T
-OL,0,       G435FORF1   GMo 23.11.26 14:15:59
+OL,0,       G435FORF1   GDi 24.11.26 05:56:29
 OL,1,A]WG                 Billig tanken Wien 
-OL,2,A]GMOTOR  ]A             23.11.,13:06h \
-OL,3,Q#########G                        7/9  
-OL,4,C                                Diesel 
-OL,5,F1160 Maroltinger Tankstelle            
-OL,6,F      Maroltingergasse 66        1,998 
-OL,7,G1050 JVG JOHANNA - GARAGE GmbH         
-OL,8,G     Johannagasse 28             1,999 
-OL,9,F1210 AVANTI - Wien Prager Stra~e       
-OL,10,F     Prager Stra~e 270-272       1,999 
-OL,11,G1210 Turm|l                            
-OL,12,G     Pragerstra~e 155            1,999 
-OL,13,F1150 eni24                             
-OL,14,F     Felberstra~e vis a vis 102  2,019 
-OL,15,G1110 AVANTI - Wien Simmeringer         
-OL,16,G     Simmeringer Hauptstra~e 5   2,024 
-OL,17,F1220 AVANTI - Wien Esslinger           
-OL,18,F     Esslinger Hauptstra~e 32    2,024 
-OL,19,G1050 BP                                
-OL,20,G     Margaretenguertel 43-45     2,099 
-OL,21,             >>www.spritpreisrechner.at 
-OL,22,        >>www.wirtschaftsministerium.at 
-OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,43508
-SC,0008
-PS,C200
-CT,15,T
-OL,0,       G435FORF1   GMo 23.11.26 14:15:59
-OL,1,A]WG                 Billig tanken Wien 
-OL,2,A]GMOTOR  ]A             23.11.,13:06h \
-OL,3,Q#########G                        8/9  
-OL,4,C                                Diesel 
-OL,5,F1010 BP                                
-OL,6,F     Franz Josefskai/Morzinpl    2,099 
-OL,21,             >>www.spritpreisrechner.at 
-OL,22,        >>www.wirtschaftsministerium.at 
-OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,43509
-SC,0009
-PS,C200
-CT,15,T
-OL,0,       G435FORF1   GMo 23.11.26 14:15:59
-OL,1,A]WG                 Billig tanken Wien 
-OL,2,A]GMOTOR  ]A             23.11.,13:06h \
-OL,3,Q#########G                        9/9  
+OL,2,A]GMOTOR  ]A             24.11.,04:02h \
+OL,3,Q#########G                        7/7  
 OL,4,GDie Dateneingaben der angegebenen      
 OL,5,GPreise und sonstigen Konditionen       
 OL,6,Gwerden in der Regel durch die Tank-    

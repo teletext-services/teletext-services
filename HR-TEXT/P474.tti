@@ -3,10 +3,14 @@ PN,47401
 SC,0001
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:06
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]A        Oberliga M{nner 
 OL,3,Q#######################################
+OL,4,BSonntag, 29. November         12.00 Uhr
+OL,5, Ein.Frankfurt  - HC Kassel........  -:-
+OL,6,B                              18.00 Uhr
+OL,7, Hanauer THC II - THC Wiesbd.II....  -:-
 OL,23,G]A                          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -14,7 +18,7 @@ PN,47402
 SC,0002
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:06
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]A        Oberliga M{nner 
 OL,3,Q#######################################
@@ -31,7 +35,7 @@ PN,47403
 SC,0003
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:06
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]A        Oberliga Frauen 
 OL,3,Q#######################################
@@ -46,7 +50,7 @@ PN,47404
 SC,0004
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:06
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]A        Oberliga Frauen 
 OL,3,Q#######################################
@@ -62,10 +66,16 @@ PN,47405
 SC,0005
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:06
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]A    Verbandsliga M{nner 
 OL,3,Q#######################################
+OL,4,BSonntag, 29. November         10.00 Uhr
+OL,5, R}sselsheim III - SSG Bensheim....  -:-
+OL,6,B                              12.00 Uhr
+OL,7, Darmstadt II    - Bad Homburg.....  -:-
+OL,8,B                              16.00 Uhr
+OL,9, SC Frankf.III   - Marburg.........  -:-
 OL,23,G]A                          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -73,7 +83,7 @@ PN,47406
 SC,0006
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:06
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]A    Verbandsliga M{nner 
 OL,3,Q#######################################
@@ -90,12 +100,14 @@ PN,47407
 SC,0007
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:06
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]A    Verbandsliga Frauen 
 OL,3,Q#######################################
-OL,4,BMontag, 23. November          20.30 Uhr
-OL,5, R}sselsh.III - RV Offenbach.......  -:-
+OL,4,BSamstag, 28. November         12.00 Uhr
+OL,5, Sachsenhausen - RV Offenbach......  -:-
+OL,7,BSonntag, 29. November         12.00 Uhr
+OL,8, R}sselsh.III  - SSG Bensheim......  -:-
 OL,23,G]A                          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -103,16 +115,16 @@ PN,47408
 SC,0008
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:06
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]A    Verbandsliga Frauen 
 OL,3,Q#######################################
-OL,4,B1.R}sselsheim III..     1     6:2    3 
-OL,5, 2.SSG Bensheim.....     1     4:3    3 
-OL,6, 3.SC 80 Ffm III....     2     7:8    3 
-OL,7, 4.Bad Homburg......     0     0:0    0 
-OL,8, 5.Offenbacher RV...     1     3:4    0 
-OL,9, 6.Sachsenhausen....     1     2:5    0 
+OL,4,B1.R}sselsheim III..    2    14:2     6 
+OL,5, 2.SSG Bensheim.....    1     4:3     3 
+OL,6, 3.SC 80 Ffm III....    2     7:8     3 
+OL,7, 4.Bad Homburg......    0     0:0     0 
+OL,8, 5.Sachsenhausen....    1     2:5     0 
+OL,9, 6.Offenbacher RV...    2     3:12    0 
 OL,23,G]A                      2.VL M{nner -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -120,12 +132,16 @@ PN,47409
 SC,0009
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:06
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]A  2.Verbandsliga M{nner 
 OL,3,Q#######################################
-OL,4,BSamstag, 21. November                  
-OL,5, Vorw.Frankfurt - Limburg II.......  5:9
+OL,4,BSamstag, 28. November         14.00 Uhr
+OL,5, Sachsenhausen II - Vorw.Frankfurt.. -:-
+OL,6,B                              18.30 Uhr
+OL,7, Limburg II       - H|chster THC II. -:-
+OL,9,BSonntag, 29. November         17.00 Uhr
+OL,10, HC Kassel II     - SaFo FfM II..... -:-
 OL,23,G]A                          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -133,7 +149,7 @@ PN,47410
 SC,0010
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:06
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]A  2.Verbandsliga M{nner 
 OL,3,Q#######################################
@@ -150,10 +166,14 @@ PN,47411
 SC,0011
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:06
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]Aerbandsliga Gr.A Frauen 
 OL,3,Q#######################################
+OL,4,BSamstag, 28. November         19.00 Uhr
+OL,5, R}sselsheim.RK I - TEC Darmstadt II -:-
+OL,7,BSonntag, 29. November         14.00 Uhr
+OL,8, MTV Kronberg     - Limburger HC.... -:-
 OL,23,G]A                          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -161,7 +181,7 @@ PN,47412
 SC,0012
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:07
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]Aerbandsliga Gr.A Frauen 
 OL,3,Q#######################################
@@ -177,10 +197,16 @@ PN,47413
 SC,0013
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:07
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]Aerbandsliga Gr.B Frauen 
 OL,3,Q#######################################
+OL,4,BSamstag, 28. November         17.00 Uhr
+OL,5, THC Wiesbd.II - H|chster THC II...  -:-
+OL,7,BSonntag, 29. November         10.00 Uhr
+OL,8, E. Frankfurt  - SaFo Frankfurt III  -:-
+OL,9,B                              15.00 Uhr
+OL,10, HC Kassel     - VfL Marburg II....  -:-
 OL,23,G]A                          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -188,7 +214,7 @@ PN,47414
 SC,0014
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F12:40:14
+OL,0,           Fhr-textGDi 24.11.26F06:59:07
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFELDHOCKEYG]Aerbandsliga Gr.B Frauen 
 OL,3,Q#######################################

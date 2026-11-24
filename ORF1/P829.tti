@@ -3,37 +3,35 @@ PN,82901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G829FORF1   GMo 23.11.26 14:20:23
+OL,0,       G829FORF1   GDi 24.11.26 16:27:18
 OL,1,A]G                  Flughafen Salzburg 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug     von        Plan aktuell       
-OL,5,FLH 1262  Frankfurt  1355Aversp{tet 1420
-OL,6,GEW 4343  Berlin     1405Bgelandet  1355
-OL,7,FEW 4339  D}sseldorf 1940               
-OL,8,GJU 324   Belgrad    1945               
-OL,9,FLH 1266  Frankfurt  2235               
-OL,23,Q,,F14:15hGFlughafen SalzburgF0662/8580 
+OL,5,FMV 5211  Yerevan    1720Bplanm{ssig    
+OL,6,GEW 4339  D}sseldorf 2055               
+OL,7,FEW 4305  Marrakesch 2205               
+OL,8,GLH 1266  Frankfurt  2235               
+OL,23,Q,,F16:25hGFlughafen SalzburgF0662/8580 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G829FORF1   GMo 23.11.26 14:20:23
+OL,0,       G829FORF1   GDi 24.11.26 16:27:18
 OL,1,A]G                  Flughafen Salzburg 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug     nach       Plan aktuell       
-OL,5,FLH 1263  Frankfurt  1445           1455
-OL,6,GEW 4338  D}sseldorf 1625               
-OL,7,FJU 325   Belgrad    2015               
-OL,8,CN{chster Tag: 2026-11-24               
-OL,9,GLH 1267  Frankfurt  0630               
-OL,10,FEW 4334  D}sseldorf 0655               
-OL,11,GTK 1382  Istanbul   0935               
-OL,12,FLH 1261  Frankfurt  1055               
-OL,13,GEW 4304  Marrakesch 1345               
-OL,23,Q,,F14:15hGFlughafen SalzburgF0662/8580 
+OL,5,FEW 4338  D}sseldorf 1750               
+OL,6,CN{chster Tag: 2026-11-25               
+OL,7,GLH 1267  Frankfurt  0630               
+OL,8,FEW 4334  D}sseldorf 0800               
+OL,9,GEW 6100  Maribor    1010               
+OL,10,FLH 1261  Frankfurt  1055               
+OL,11,GBA 2625  London LGW 1320               
+OL,12,FLH 1263  Frankfurt  1445               
+OL,23,Q,,F16:25hGFlughafen SalzburgF0662/8580 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

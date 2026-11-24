@@ -3,28 +3,28 @@ PN,20501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  205Cmaa 23 nov  13:45:16
+OL,0,       BNOS-TT  205Cmaa 23 nov  23:47:22
 OL,1,V  |<,,| |<,,| |<,,| (,,,| F      F 1/3 
 OL,2,D]V5   7### upp jwsss B dinsdag    
 OL,3,Tupuzupuppppzppppz]B           
 OL,4,G                                       
 OL,5,B07.00 Fjournaal met gebarentaal    FNOS
-OL,6,B07.13 Ftijd voor max                MAX
-OL,7,B08.00 FbinnenstebuitenC   F    KRO-NCRV
+OL,6,B07.13 Ftijd voor max C235F          MAX
+OL,7,B08.00 FbinnenstebuitenCC238F   KRO-NCRV
 OL,8,B08.38 Fgeheugentrainer              MAX
 OL,9,B09.00 Fjournaal met gebarentaal    F   
-OL,10,B09.14F nederland in beweging       FMAX
-OL,11,B09.30 FzentijdC   F           FKRO-NCRV
-OL,12,G                                       
+OL,10,G                                       
+OL,11,B09.14F nederland in beweging       FMAX
+OL,12,B09.30 FzentijdCC239           FKRO-NCRV
 OL,13,B09.55 Fnieuwsuur hh            FNTR-NOS
-OL,14,B10.40 Fexpeditie nederland          MAX
-OL,15,B11.20FFbinnenstebuiten         KRO-NCRV
-OL,16,B12.00F journaal                    FNOS
-OL,17,B12.15 Fkook mee met max            FMAX
-OL,18,B12.30F max maakt mogeijk               
-OL,19,B12.45F nu te zien!             AVROTROS
-OL,20,B13.00                                  
-OL,21,B                                       
+OL,14,B10.40 Fexpeditie nederland C240F    MAX
+OL,15,B11.20FFbinnenstebuitenC238F    KRO-NCRV
+OL,16,B                                       
+OL,17,B12.00F journaal                    FNOS
+OL,18,B12.15 Fkook mee met max C235       FMAX
+OL,19,B12.30F max maakt mogeijkC241           
+OL,20,B12.45F nu te zien!C242F        AVROTROS
+OL,21,B13.00                                  
 OL,22,G                                       
 OL,23,D]                                      
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
@@ -33,27 +33,27 @@ PN,20502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  205Cmaa 23 nov  13:45:16
+OL,0,       BNOS-TT  205Cmaa 23 nov  23:47:22
 OL,1,V  |<,,| |<,,| |<,,| (,,,| F      F 2/3 
 OL,2,D]V5   7### upp jwsss B dinsdag    
 OL,3,Tupuzupuppppzppppz]B           
 OL,4,G                                       
 OL,5,B13.00F journaal+sportjournaal      FNOS
-OL,6,B13.20 Fradar                   AVROTROS
-OL,7,B14.10 Fopsporing verzochtC         F   
-OL,8,B14.50F art dept.                   FNTR
+OL,6,B13.20 Fradar C243C         F   AVROTROS
+OL,7,B14.10 Fopsporing verzochtC285      F   
+OL,8,B14.50F art dept.C244               FNTR
 OL,9,G                                       
-OL,10,B15.00FFhet uur van de wolf             
+OL,10,B15.00FFhet uur van de wolf C228        
 OL,11,B16.00 Fjournaal                    FNOS
-OL,12,B16.10F kook mee met maxC   F        MAX
+OL,12,B16.10F kook mee met maxCC235F       MAX
 OL,13,B16.30 Fmet het mes op tafel            
 OL,14,G                                       
 OL,15,B16.56F uitzending                    PP
-OL,16,B17.05 Fnatural born rebels           EO
+OL,16,B17.05 Fnatural born rebels C228    F EO
 OL,17,B18.00F journaal                    FNOS
 OL,18,B18.15 Fjournaal regio                  
 OL,19,G                                       
-OL,20,B18.30FFnoord-zuid-oost-west         MAX
+OL,20,B18.30FFnoord-zuid-oost-westC245F    MAX
 OL,21,B19.10                                  
 OL,22,G                                       
 OL,23,D]                                      
@@ -63,21 +63,21 @@ PN,20503
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  205Cmaa 23 nov  13:45:16
+OL,0,       BNOS-TT  205Cmaa 23 nov  23:47:22
 OL,1,V  |<,,| |<,,| |<,,| (,,,| F      F 3/3 
 OL,2,D]V5   7### upp jwsss B dinsdag    
 OL,3,Tupuzupuppppzppppz]B           
 OL,4,G                                       
-OL,5,B19.10F binnenstebuitenC   F   FKRO-NCRV
+OL,5,B19.10F binnenstebuitenC238F   FKRO-NCRV
 OL,6,B19.50 Fmet het mes op tafel         MAX
-OL,7,B20.25 Ficonen van italie       AVROTROS
-OL,8,B21.05 Fnu te zien!    F       F        
+OL,7,B20.25 Ficonen van italie C228F AVROTROS
+OL,8,B21.05 Fnu te zien! C242       F        
 OL,9,G                                       
-OL,10,B21.25 Fwat houdt ons tegen?       HUMAN
+OL,10,B21.25 Fwat houdt ons tegen?C246F  HUMAN
 OL,11,B22.00 Fnieuwsuur              F NTR-NOS
 OL,12,G       met journaal                    
 OL,13,B22.35 Frutgers lobby            FPOWNED
-OL,14,B23.05FFnpo doc:affiba -             NTR
+OL,14,B23.05FFnpo doc:affiba - C228F       NTR
 OL,15,B      Gde oudste vrouw van paramaribo  
 OL,16,G                                       
 OL,17,B00.05 Fevergreen top 1000           MAX

@@ -3,9 +3,9 @@ PN,50101
 SC,0001
 PS,C200
 CT,20,T
-OL,0,          G501BBMN1Gma 23.11.26 11:50:00
+OL,0,          G501BBMN1Gdi 24.11.26 07:42:54
 OL,1,Qh<lh<lh<l x4Q|,,,l|W|,,,l|             
-OL,2,Wj5jj=.j5j j5Q   j~W   j~ G MAANDAG   
+OL,2,Wj5jj=.j5j j5Q   j~W   j~ G DINSDAG   
 OL,3,T*%**% *-. *%Qpppz~Wpppz~             
 OL,4,T#######################################
 OL,5,F05:50GNederland in beweging            
@@ -31,9 +31,9 @@ PN,50102
 SC,0002
 PS,C200
 CT,20,T
-OL,0,          G501BBMN1Gma 23.11.26 11:50:00
+OL,0,          G501BBMN1Gdi 24.11.26 07:42:54
 OL,1,Qh<lh<lh<l x4Q|,,,l|W|,,,l|             
-OL,2,Wj5jj=.j5j j5Q   j~W   j~ G MAANDAG   
+OL,2,Wj5jj=.j5j j5Q   j~W   j~ G DINSDAG   
 OL,3,T*%**% *-. *%Qpppz~Wpppz~             
 OL,4,T#######################################
 OL,5,F09:10GGoedemorgen Nederland            
@@ -46,12 +46,12 @@ OL,11,F10:45GNOS Journaal
 OL,12,F11:00GNOS Journaal                     
 OL,13,F11:15GTijd voor MAX                    
 OL,14,F12:00GNOS Journaal                     
-OL,15,F12:20GNOS Journaal                     
-OL,16,F12:30GNOS Journaal                     
-OL,17,F12:40GNOS Journaal                     
-OL,18,F13:00GNOS Journaal                     
-OL,19,F13:20GKook mee met MAX                 
-OL,20,F13:35GNOS Journaal                     
+OL,15,F12:15GOngehoord nieuws                 
+OL,16,F13:00GNOS Journaal                     
+OL,17,F13:20GKook mee met MAX                 
+OL,18,F13:35GNOS Journaal                     
+OL,19,F14:00GNOS Het vragenuurtje             
+OL,20,F15:00GNOS Journaal                     
 OL,22,T `pppppppppppppppppppppppppppppppppppp 
 OL,23,T,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,
 FL,0,0,0,0,0,100
@@ -59,27 +59,27 @@ PN,50103
 SC,0003
 PS,C200
 CT,20,T
-OL,0,          G501BBMN1Gma 23.11.26 11:50:00
+OL,0,          G501BBMN1Gdi 24.11.26 07:42:54
 OL,1,Qh<lh<lh<l x4Q|,,,l|W|,,,l|             
-OL,2,Wj5jj=.j5j j5Q   j~W   j~ G MAANDAG   
+OL,2,Wj5jj=.j5j j5Q   j~W   j~ G DINSDAG   
 OL,3,T*%**% *-. *%Qpppz~Wpppz~             
 OL,4,T#######################################
-OL,5,F14:00GNOS Journaal                     
-OL,6,F14:20GNOS Journaal                     
-OL,7,F14:30GNOS Journaal                     
-OL,8,F14:40GNOS Journaal                     
-OL,9,F15:00GNOS Journaal                     
-OL,10,F15:20GSoep, sores en soelaas           
-OL,11,F15:55GNPO Radio 5 Evergreen Top 1000   
-OL,12,F17:00GNOS Journaal in Makkelijke Taal  
-OL,13,F17:10GTijd voor MAX                    
-OL,14,F17:57GPolitieke partijen               
-OL,15,F17:58GPolitieke partijen               
-OL,16,F18:00GNOS Journaal                     
-OL,17,F18:15GNOS Sportjournaal                
-OL,18,F18:30GEenVandaag                       
-OL,19,F19:05GEva                              
-OL,20,F20:00GNOS Journaal                     
+OL,5,F15:20GNOS Journaal                     
+OL,6,F15:50GNPO Radio 5 Evergreen Top 1000   
+OL,7,F16:58GSocutera                         
+OL,8,F17:00GNOS Journaal in Makkelijke Taal  
+OL,9,F17:10GTijd voor MAX                    
+OL,10,F17:56GPolitieke partijen               
+OL,11,F17:57GPolitieke partijen               
+OL,12,F18:00GNOS Journaal                     
+OL,13,F18:15GNOS Sportjournaal                
+OL,14,F18:30GEenVandaag                       
+OL,15,F19:05GEva                              
+OL,16,F20:00GNOS Journaal                     
+OL,17,F20:27GNOS Weer                         
+OL,18,F20:40GFloortje over de oceaan          
+OL,19,F21:40GBoer zoekt vrouw                 
+OL,20,F22:35GPauw & De Wit                    
 OL,22,T `pppppppppppppppppppppppppppppppppppp 
 OL,23,T,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,
 FL,0,0,0,0,0,100
@@ -87,23 +87,18 @@ PN,50104
 SC,0004
 PS,C200
 CT,20,T
-OL,0,          G501BBMN1Gma 23.11.26 11:50:00
+OL,0,          G501BBMN1Gdi 24.11.26 07:42:54
 OL,1,Qh<lh<lh<l x4Q|,,,l|W|,,,l|             
-OL,2,Wj5jj=.j5j j5Q   j~W   j~ G MAANDAG   
+OL,2,Wj5jj=.j5j j5Q   j~W   j~ G DINSDAG   
 OL,3,T*%**% *-. *%Qpppz~Wpppz~             
 OL,4,T#######################################
-OL,5,F20:27GNOS Weer                         
-OL,6,F20:40GHunted                           
-OL,7,F21:40GBoer zoekt vrouw                 
-OL,8,F22:40GPauw & De Wit                    
-OL,9,F23:30GNOS Journaal                     
-OL,10,F23:51GOpsporing verzocht               
-OL,11,F00:00GEva                              
-OL,12,F00:55GNOS Journaal                     
-OL,13,F01:20GPauw & De Wit                    
-OL,14,F02:10GEenVandaag                       
-OL,15,F02:35GNOS Journaal                     
-OL,16,F02:55GNOS Journaal                     
+OL,5,F23:30GNOS Journaal                     
+OL,6,F23:55GEva                              
+OL,7,F00:50GNOS Journaal                     
+OL,8,F01:20GPauw & De Wit                    
+OL,9,F02:05GEenVandaag                       
+OL,10,F02:35GNOS Journaal                     
+OL,11,F02:55GNOS Journaal                     
 OL,22,T `pppppppppppppppppppppppppppppppppppp 
 OL,23,T,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,
 FL,0,0,0,0,0,100

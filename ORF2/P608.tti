@@ -3,24 +3,19 @@ PN,60801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G608FORF2   GMo 23.11.26 14:32:38
+OL,0,       G608FORF2   GDi 24.11.26 10:34:23
 OL,1,A]G                          Vorarlberg 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       1/4  
-OL,4,FHeute NachmittagGnach S}den hin noch   
-OL,5,Getwas Regen, schon oberhalb von 700,   
-OL,6,G800m Schneeflocken. Sonst ist es       
-OL,7,Gzumindest streckenweise aufgelockert   
-OL,8,Gmit ein paar Sonnenstrahlen. Wenig Wind
-OL,9,Gund die Temperaturen kommen }ber 0 bis 
-OL,10,G+5 Grad nicht hinaus.                  
-OL,12,FMorgenGein paar sonnige Stunden. Nebel 
-OL,13,Goder flacher Hochnebel l|st sich meist 
-OL,14,Gum die Mittagszeit auf. Im Lauf des    
-OL,15,GTages ziehen von der Schweiz her Wolken
-OL,16,Gauf. Am Bodensee Ostwind und die Tempe-
-OL,17,Graturen erreichen 1 bis +6 Grad. In    
-OL,18,G2000m H|he zu Mittag um -1 Grad.       
+OL,4,FHeute NachmittagGzeitweise sonnig,     
+OL,5,Gbevor im Lauf es Tages von der Schweiz 
+OL,6,Gher hohe Wolken aufziehen. Nur wenig   
+OL,7,GWind bei maximal 1 bis 6 Grad.         
+OL,9,FMorgenGviele Wolken, anfangs auch etwas
+OL,10,GNebel. Kurze Sonnenfenster am ehesten  
+OL,11,Gum die Mittagszeit oder am fr}hen Nach-
+OL,12,Gmittag. H|chstwerte: 1 bis knapp 7     
+OL,13,GGrad, in 2000m H|he um 1 Grad.         
 OL,21,F                           ORF 10:00h  
 OL,22,@                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -30,23 +25,23 @@ PN,60802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G608FORF2   GMo 23.11.26 14:32:38
+OL,0,       G608FORF2   GDi 24.11.26 10:34:23
 OL,1,A]G                          Vorarlberg 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       2/4  
-OL,4,FAlberschwende C14hGl.SchneeregenF  1,5`
-OL,5, GO    1-4 km/h 1024hPa  0,2mm/2h  97%LF
-OL,7,FBludenz       C14hG      l.RegenF  2,7`
-OL,8, GS    1-4 km/h 1023hPa  0,6mm/2h  93%LF
-OL,10,FBrand         C14hGl.SchneeregenF  0,6`
-OL,11, GNO   1-4 km/h 1022hPa  1,2mm/2h  93%LF
-OL,13,FBregenz       C14hG  l.Regensch.F  4,3`
-OL,14, GSW   3-6 km/h 1021hPa  0,0mm/2h  89%LF
-OL,16,FDornbirn      C14hGstark bew|lktF  4,3`
-OL,17, GSW   1-4 km/h 1022hPa  0,0mm/2h  94%LF
-OL,19,FFeldkirch     C14hG      l.RegenF  3,4`
-OL,20, GNW   2-4 km/h 1023hPa  0,6mm/2h  92%LF
-OL,21,F              Geosphere Austria  14:00h
+OL,4,FAlberschwende C10hGstark bew|lktF  0,7`
+OL,5, GSO   3-8 km/h 1027hPa  0,0mm/2h  94%LF
+OL,7,FBludenz       C10hGstark bew|lktF  1,5`
+OL,8, GS    2-5 km/h 1027hPa  0,0mm/2h  94%LF
+OL,10,FBrand         C10hGstark bew|lktF -3,2`
+OL,11, GSW   4-7 km/h 1027hPa  0,0mm/2h  92%LF
+OL,13,FBregenz       C10hG       wolkigF  3,8`
+OL,14, GSW   2-4 km/h 1024hPa  0,0mm/2h  89%LF
+OL,16,FDornbirn      C10hGstark bew|lktF  3,3`
+OL,17, GSO   2-5 km/h 1026hPa  0,0mm/2h  90%LF
+OL,19,FFeldkirch     C10hGstark bew|lktF  1,6`
+OL,20, GNW   1-4 km/h 1027hPa  0,0mm/2h  97%LF
+OL,21,F              Geosphere Austria  10:00h
 OL,22,@                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
@@ -55,23 +50,23 @@ PN,60803
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G608FORF2   GMo 23.11.26 14:32:38
+OL,0,       G608FORF2   GDi 24.11.26 10:34:23
 OL,1,A]G                          Vorarlberg 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       3/4  
-OL,4,FFraxern       C14hG  SchneeregenF  1,4`
-OL,5, GN   7-15 km/h 1023hPa  0,0mm/2h  95%LF
-OL,7,FGaschurn      C14hG  SchneeregenF  1,0`
-OL,8, GSO   1-3 km/h 1022hPa  1,0mm/2h  93%LF
-OL,10,FLangen/ArlbergC14hG l.SchneefallF -0,6`
-OL,11, GSW   4-8 km/h 1023hPa  0,1mm/2h  96%LF
-OL,13,FLaterns       C14hG l.SchneefallF -2,4`
-OL,14, GW    2-4 km/h          0,1mm/2h  97%LF
-OL,16,FLech/Arlberg  C14hGstark bew|lktF -1,9`
-OL,17, GW    3-8 km/h          0,0mm/2h  86%LF
-OL,19,FMittelberg    C14hGstark bew|lktF  0,1`
-OL,20, GNO   4-9 km/h          0,0mm/2h  93%LF
-OL,21,F              Geosphere Austria  14:00h
+OL,4,FFraxern       C10hGstark bew|lktF  0,6`
+OL,5, GSW   2-5 km/h 1026hPa  0,0mm/2h  90%LF
+OL,7,FGaschurn      C10hG    wolkenlosF -1,4`
+OL,8, GSO  8-12 km/h 1027hPa  0,0mm/2h  91%LF
+OL,10,FLangen/ArlbergC10hGstark bew|lktF -2,4`
+OL,11, GNO   6-9 km/h 1027hPa  0,0mm/2h  85%LF
+OL,13,FLaterns       C10hGstark bew|lktF -0,6`
+OL,14, GO   6-14 km/h          0,0mm/2h  77%LF
+OL,16,FLech/Arlberg  C10hGstark bew|lktF -5,6`
+OL,17, GNW   2-9 km/h          0,1mm/2h  93%LF
+OL,19,FMittelberg    C10hGstark bew|lktF -2,1`
+OL,20, GSW   3-5 km/h          0,0mm/2h  96%LF
+OL,21,F              Geosphere Austria  10:00h
 OL,22,@                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
@@ -80,21 +75,21 @@ PN,60804
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G608FORF2   GMo 23.11.26 14:32:38
+OL,0,       G608FORF2   GDi 24.11.26 10:34:23
 OL,1,A]G                          Vorarlberg 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       4/4  
-OL,4,FRohrspitz     C14hG       wolkigF  4,1`
-OL,5, GN   8-14 km/h 1022hPa  0,1mm/2h  88%LF
-OL,7,FSchoppernau   C14hGstark bew|lktF  1,5`
-OL,8, GNW   1-3 km/h 1023hPa  0,0mm/2h  97%LF
-OL,10,FSchr|cken     C14hGstark bew|lktF -0,6`
-OL,11, GW    3-5 km/h 1023hPa  0,1mm/2h  96%LF
-OL,13,FSulzberg      C14hG l.SchneefallF  0,0`
-OL,14, GNW   3-6 km/h 1023hPa  0,0mm/2h 100%LF
-OL,16,FWarth         C14hG       heiterF  0,0`
-OL,17, GO   6-13 km/h 1021hPa  0,0mm/2h  71%LF
-OL,21,F              Geosphere Austria  14:00h
+OL,4,FRohrspitz     C10hGstark bew|lktF  3,8`
+OL,5, GO    5-9 km/h 1025hPa  0,0mm/2h  91%LF
+OL,7,FSchoppernau   C10hG       wolkigF -0,7`
+OL,8, GW    1-2 km/h 1027hPa  0,0mm/2h 100%LF
+OL,10,FSchr|cken     C10hGstark bew|lktF -1,2`
+OL,11, GSO 11-21 km/h 1026hPa  0,0mm/2h  82%LF
+OL,13,FSulzberg      C10hGstark bew|lktF -0,9`
+OL,14, GSO   1-4 km/h 1027hPa  0,0mm/2h 100%LF
+OL,16,FWarth         C10hG       wolkigF -4,2`
+OL,17, GN   4-12 km/h 1028hPa  0,0mm/2h  91%LF
+OL,21,F              Geosphere Austria  10:00h
 OL,22,@                                       
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter

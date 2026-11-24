@@ -3,26 +3,25 @@ PN,70400
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       G704  SRF info  23.11.26 16:22:05
-OL,1,A]GSRF info G]@Montag, 23. November     
+OL,0,       G704  SRF info  24.11.26 13:07:34
+OL,1,A]GSRF info G]@Dienstag, 24. November   
 OL,2,G                                       
-OL,3,G21:00 GReporter (W)................C729
-OL,4,       GNach 7 Jahren Haft - Wie weiter?
-OL,5,       G(Teil 1)CHFCUT                  
-OL,6,F21:35 FMeteo (W)...................C   
-OL,7,       FAbendausgabeCDDCUT              
-OL,8,G21:40 GTelesguard (W)CDDCUT........C730
-OL,9,F21:50 FSRF B|rse (W)CDDCUT.........C   
-OL,10,G21:55 GSportflash (W)..............C731
-OL,11,       GDie Sportnews des TagesCDD      
-OL,12,F22:00 FSchweiz aktuell (W)CDDCUT...C765
-OL,13,G22:20 GMeteo (W)...................C   
-OL,14,       GAbendausgabeCDDCUT              
-OL,15,F22:25 FSRF B|rse (W)CDDCUT.........C   
-OL,16,G22:30 GSportflash (W)..............C736
-OL,17,       GDie Sportnews des TagesCDD      
-OL,18,F22:35 F10 vor 10 (W)CDDCUT.........C767
-OL,19,G23:00 GMeteo (W)...................C   
-OL,20,       GSp{tausgabeCDDCUT               
+OL,3,F18:35 FMeteo (W)...................C   
+OL,4,       FVorabendausgabeCDDCUT           
+OL,5,G18:40 GTelesguard (W)CDDCUT........C736
+OL,6,F18:50 FMeteo (W)...................C   
+OL,7,       FVorabendausgabeCDDCUT           
+OL,8,G19:00 GSchweiz aktuell in..........C   
+OL,9,       GGeb{rdenspracheCGSCUT           
+OL,10,F19:25 FSRF B|rse in................C   
+OL,11,       FGeb{rdenspracheCGSCUT           
+OL,12,G19:30 GTagesschau in...............C   
+OL,13,       GGeb{rdensprache                 
+OL,14,       GHauptausgabeCGSCUT              
+OL,15,F19:55 FMeteo in Geb{rdensprache....C   
+OL,16,       FAbendausgabeCGSCUT              
+OL,17,G20:05 GEco Talk (W)................C737
+OL,18,       GLohn: Wer hat das Sagen am      
+OL,19,       GVerhandlungstisch?CDDCUT        
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

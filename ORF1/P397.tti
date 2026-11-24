@@ -3,10 +3,10 @@ PN,39701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G397FORF1   GMo 23.11.26 14:14:31
+OL,0,       G397FORF1   GDi 24.11.26 04:56:07
 OL,1,A]G                       Radio K{rnten 
 OL,2,A]GRADIO  ]A                  Programm \
-OL,3,Q#########G                        1/4  
+OL,3,Q#########G                        1/3  
 OL,4,F 5:00 Guten Morgen K{rnten             
 OL,5,F      mit viel Musik, halbst}ndlich    
 OL,6,F      Nachrichten, Sport, Wetter,      
@@ -16,12 +16,12 @@ OL,9,G 9:00 Radio K{rnten am Vormittag
 OL,10,G      (9:00, 10:00 Nachrichten; 9:30,  
 OL,11,G      10:30 K{rnten aktuell)           
 OL,12,F11:00 Radio K{rnten zur Mittagszeit    
-OL,13,F      (11:00 Nachrichten; 11:30        
+OL,13,F      (11:00 Nachrichten, 11:30        
 OL,14,F      K{rnten aktuell; 12:00           
 OL,15,F      Mittagsglocken aus der           
-OL,16,F      Annakirche in Mittersill,        
-OL,17,F      Salzburg; 12:02 Mittagsjournal;  
-OL,18,F      12:30 Radio K{rnten Journal)     
+OL,16,F      Pfarrkirche Bad Gleichenberg;    
+OL,17,F      12:02 Mittagsjournal; 12:30      
+OL,18,F      Radio K{rnten Journal)           
 OL,19,G13:00 Tausend Fragen                   
 OL,20,G      (13:00 Nachrichten; 13:30        
 OL,21,G      K{rnten aktuell)                 
@@ -32,10 +32,10 @@ PN,39702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G397FORF1   GMo 23.11.26 14:14:31
+OL,0,       G397FORF1   GDi 24.11.26 04:56:07
 OL,1,A]G                       Radio K{rnten 
 OL,2,A]GRADIO  ]A                  Programm \
-OL,3,Q#########G                        2/4  
+OL,3,Q#########G                        2/3  
 OL,4,F14:00 Radio K{rnten am Nachmittag      
 OL,5,F      (14:00, 15:00 Nachrichten; 14:   
 OL,6,F      30, 15:30 K{rnten aktuell)       
@@ -56,10 +56,10 @@ PN,39703
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G397FORF1   GMo 23.11.26 14:14:31
+OL,0,       G397FORF1   GDi 24.11.26 04:56:07
 OL,1,A]G                       Radio K{rnten 
 OL,2,A]GRADIO  ]A                  Programm \
-OL,3,Q#########G                        3/4  
+OL,3,Q#########G                        3/3  
 OL,4,F19:00 Kuddelmuddel und 19:32 K{rnten   
 OL,5,F      singt und spielt                 
 OL,6,F      Eine halbe Stunde Radio f}r      
@@ -68,28 +68,10 @@ OL,8,F      Volksmusik und Chorgesang (19:
 OL,9,F      00 Nachrichten; 19:30            
 OL,10,F      Nachrichten in einfacher         
 OL,11,F      Sprache)                         
-OL,12,G20:00 Ein Ort am Wort - Der Radio      
-OL,13,G      K{rnten Stammtisch               
-OL,14,G      "Jugend am Wort: Bildung,        
-OL,15,G      Zukunft, Mitbestimmung - heute   
-OL,16,G      reden wir". Moderation: Horst    
-OL,17,G      Sattlegger und Stefanie          
-OL,18,G      Sch|ffmann (20:00 Nachrichten;   
-OL,19,G      anschlie~end Schlagersterne)     
-OL,23,Q,,,,,,,,,GNachrichten aus K{rnten >708 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,39704
-SC,0004
-PS,C200
-CT,15,T
-OL,0,       G397FORF1   GMo 23.11.26 14:14:31
-OL,1,A]G                       Radio K{rnten 
-OL,2,A]GRADIO  ]A                  Programm \
-OL,3,Q#########G                        4/4  
-OL,4,F22:00 Schlagersterne                   
-OL,5,F      zur vollen Stunde Nachrichten    
-OL,6,F      (22:00 Radio K{rnten Journal)    
+OL,12,G20:00 Schlagersterne                   
+OL,13,G      zu jeder vollen Stunde           
+OL,14,G      Nachrichten (22:00 Radio         
+OL,15,G      K{rnten Journal)                 
 OL,23,Q,,,,,,,,,GNachrichten aus K{rnten >708 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

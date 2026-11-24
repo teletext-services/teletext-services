@@ -3,7 +3,7 @@ PN,10001
 SC,0001
 PS,C200
 CT,10,T
-OL,0,          G100BBMN1Gma 23.11.26 11:43:27
+OL,0,          G100BBMN1Gma 23.11.26 21:01:03
 OL,1,V Q]     \WZj7`ppj5`pp`ssk7ss0p`0pp3#
 OL,2,VjQ]     \WZj=wj5j5juzj5j5p5z%p0 
 OL,3,VjQ]GBMN \WZjujuj5jupj5j5p0j5pz5 
@@ -19,20 +19,20 @@ OL,12,V5GCarrousel   152V  5EWeerkaart    401
 OL,13,V5GPolitiek    160V  5EWeerbericht  402 
 OL,14,V5GOpmerkelijk 174V  5ETemperatuur  403 
 OL,15,V-,,,,,,,,,,,,,,,,$  5EVerkeer      450 
-OL,16,V A               V  5ETrein        460 
-OL,17,V<ASport       300V  5ELuchtverkeer 470 
-OL,18,V5AVoetbal     302  V-,,,,,,,,,,,,,,,,,$
-OL,19,V5ABasketbal   330  V<C1 Jaar BMN   700 
-OL,20,V5AHockey      350  V-,,,,,,,,,,,,,,,,,$
-OL,21,V5AMotorsport  370  V<BAndere Talen 600 
-OL,22,V5AFormule 1   390  V5BService info 800 
-OL,23,V-,,,,,,,,,,,,,,,,$ V-,,,,,,,,,,,,,,,,,$
+OL,16,V<ASport       300V  5ETrein        460 
+OL,17,V5AVoetbal     302  V5ELuchtverkeer 470 
+OL,18,V5ABasketbal   330  V-,,,,,,,,,,,,,,,,,$
+OL,19,V5AHockey      350  V<C1 Jaar BMN   700 
+OL,20,V5AMotorsport  370  V-,,,,,,,,,,,,,,,,,$
+OL,21,V5AFormule 1   390  V<BAndere Talen 600 
+OL,22,V-,,,,,,,,,,,,,,,,$ V5BService info 800 
+OL,23,                    V-,,,,,,,,,,,,,,,,,$
 FL,0,0,0,0,0,100
 PN,10002
 SC,0002
 PS,C200
 CT,10,T
-OL,0,          G100BBMN1Gma 23.11.26 11:43:27
+OL,0,          G100BBMN1Gma 23.11.26 21:01:03
 OL,1,V Q]     \WZj7`ppj5`pp`ssk7ss0p`0pp3#
 OL,2,VjQ]     \WZj=wj5j5juzj5j5p5z%p0 
 OL,3,VjQ]GBMN \WZjujuj5jupj5j5p0j5pz5 
@@ -46,14 +46,14 @@ OL,10,V5GWereld Klok 144V  -,,,,,,,,,,,,,,,,,$
 OL,11,V5GNieuwsflits 150V  <EWeer         400 
 OL,12,V5GCarrousel   152V  5EWeerkaart    401 
 OL,13,V5GPolitiek    160V  5EWeerbericht  402 
-OL,14,V5GOpmerkelijk 174V  5EVerkeer      450 
-OL,15,Vupppppppppppppppp0  5ETrein        460 
-OL,16,V A               V  5ELuchtverkeer 470 
-OL,17,V<ASport       300V  -,,,,,,,,,,,,,,,,,$
-OL,18,V5AVoetbal     302V  <DTV & Radio   500 
-OL,19,V5ABasketbal   330V  5DNPO 1 TVGids 501 
-OL,20,V5AHockey      350  V5DNPO 2 TVGids 502 
-OL,21,V5AMotorsport  370  V5DNPO 3 TVGids 503 
-OL,22,V5AFormule 1   390  V-,,,,,,,,,,,,,,,,,$
-OL,23,V-,,,,,,,,,,,,,,,,$                     
+OL,14,V5GOpmerkelijk 174V  5ETemperatuur  403 
+OL,15,V-,,,,,,,,,,,,,,,,$  5EVerkeer      450 
+OL,16,V<ASport       300V  5ETrein        460 
+OL,17,V5AVoetbal     302 VV5ELuchtverkeer 470 
+OL,18,V5ABasketbal   330 VV-,,,,,,,,,,,,,,,,,$
+OL,19,V5AHockey      350  V<DTV & Radio   500 
+OL,20,V5AMotorsport  370  V5DNPO 1 TVGids 501 
+OL,21,V5AFormule 1   390  V5DNPO 2 TVGids 502 
+OL,22,V-,,,,,,,,,,,,,,,,$ V5DNPO 3 TVGids 503 
+OL,23,                    V-,,,,,,,,,,,,,,,,,$
 FL,0,0,0,0,0,100

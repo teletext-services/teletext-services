@@ -3,26 +3,23 @@ PN,70400
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G704  RSI LA 1  23.11.26 14:59:35
-OL,1,A]GRSI   ]@LA1       LUNEDI 23 novembre 
+OL,0,       G704  RSI LA 1  24.11.26 13:08:03
+OL,1,A]GRSI   ]@LA1      MARTEDI 24 novembre 
 OL,2,G                                       
 OL,3, G19:55  GMeteo regionaleCST            
 OL,4, F20:00  FTelegiornaleCST               
 OL,5, G20:35  GMeteoCST                      
-OL,6, F20:40  FL'elefanteCST.............C710
-OL,7,         FViaggiare                     
-OL,8, G21:45  GCome ammazzare il CSTCI/IIC712
-OL,9,         Gcapo e vivere                 
-OL,10,         Gfelici                        
-OL,11, F23:25  FTG Notte                      
-OL,12, G23:50  GMeteoCST                      
-OL,13, F23:55  FDetective Maria      CSTCI/II 
-OL,14,         FKallio                        
-OL,15,         FLa fine dell'innocenza        
-OL,16, G00:40  GDetective Maria      CSTCI/II 
-OL,17,         GKallio                        
-OL,18,         GPista sbagliata               
-OL,19, F01:20  FSiamo fuoriCST                
-OL,20, G02:20  GTG Notte                      
+OL,6, F20:40  FFal|CST                       
+OL,7, G21:50  GICE: caccia        CSTC1TVC710
+OL,8,         Gall'uomo                      
+OL,9, F23:15  FTG Notte                      
+OL,10, G23:40  GMeteoCST                      
+OL,11, F23:50  FBussano alla portaCSTCI/IIC713
+OL,12, G01:20  GSiamo fuoriCST                
+OL,13, F02:20  FTG Notte                      
+OL,14, G02:45  GMeteoCST                      
+OL,15, F02:50  FPrima OraCST                  
+OL,16, G03:40  GIl QuotidianoCST              
+OL,17, F04:10  FTelegiornaleCST               
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

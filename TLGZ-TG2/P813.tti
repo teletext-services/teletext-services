@@ -1,29 +1,109 @@
 DE,TLGZ-TG2 813
-PN,81300
-SC,0000
-PS,8008
+PN,81301
+SC,0001
+PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     813Cpon 23 lis  19:29:10
-OL,1,F]            @H o k e j           18:11
+OL,0,      BTVP2     813Cwto 24 lis  16:02:29
+OL,1,F]            @H o k e j           14:01
 OL,2,F] @Mecze wed}ug kategorii rozgrywek    
-OL,3,F--------- Czechy - Maxa liga ----------
-OL,4, Litomerice - Kolin                Aprz.
-OL,5,F-------------- PWHL (K) ---------------
-OL,6, Ottawa Charge(W)-Detroit Clutch(WB19:30
-OL,7, Minnesota Frost(W) - Vancouver(W)B22:00
-OL,8, Hamilton Havoc(W-Toronto SceptresB23:30
-OL,9, Boston Fleet(W)-New York Sirens(WB00:00
-OL,10,F------------- USA - ECHL --------------
-OL,11, Orlando Solar Bear-South CarolinaB01:00
-OL,12,F-------------- USA - NHL --------------
-OL,13, New Jersey Devil-Columbus Blue JaB01:00
-OL,14, Montreal Canadie-Los Angeles KingB01:30
-OL,15, New York Islande-Toronto Maple LeB01:30
-OL,16, Ottawa Senators - Calgary Flames B01:30
-OL,17, Winnipeg Jets - Utah Mammoth     B01:30
-OL,18, Seattle Kraken - Anaheim Ducks   B03:40
-OL,19, San Jose Sharks - Minnesota Wild B04:00
+OL,3,F--------- Czechy - Extraliga ----------
+OL,4, Ceske Budejovice - Plzen         B17:30
+OL,5, Mlada Boleslav - Rytiri Kladno   B17:30
+OL,6, Karlovy Vary-HC Bili Tygri LibereB18:00
+OL,7, Kometa Brno - Sparta Praha       B18:00
+OL,8, Mountfield HK - Trinec           B18:00
+OL,9, Olomouc - Litvinov               B18:00
+OL,10, Pardubice - Vitkovice            B18:00
+OL,11,F--------- Czechy - Maxa liga ----------
+OL,12, Slavia Praga - HC Frydek Mistek  B18:00
+OL,13,F---------- Finlandia - Liiga ----------
+OL,14, Ilves - Assat                    B17:30
+OL,15, SaiPa - Lukko                    B17:30
+OL,16, Vaasan Sport - Kiekko-Espoo      B17:30
+OL,17,F------------ Kanada - WHL -------------
+OL,18, Medicine Hat Tig-Brandon Wheat KiB02:00
+OL,19,F------------ Niemcy - DEL -------------
+OL,20, Augsburger Panth-Krefeld PinguineB19:30
+OL,21, Eisbaren Berlin - Lowen FrankfurtB19:30
+OL,22,V
+OL,23,V
+OL,24,   A800      B801      C802      F803   
+FL,800,801,802,803,0,100
+PN,81302
+SC,0002
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP2     813Cwto 24 lis  16:02:29
+OL,1,F]            @H o k e j           14:01
+OL,2,F] @Mecze wed}ug kategorii rozgrywek    
+OL,3,F------------ Niemcy - DEL -------------
+OL,4, ERC Ingolstadt-Fischtown PinguinsB19:30
+OL,5, Kolner Haie - Nurnberg Ice TigersB19:30
+OL,6, Straubing Tigers - Adler MannheimB19:30
+OL,7,F-------------- PWHL (K) ---------------
+OL,8, Detroit Clutch(W-Hamilton Havoc(WB19:30
+OL,9, Vancouver(W) - Vegas Vanguards(W)B21:00
+OL,10, New York Sirens(W) - Montreal(W) B22:00
+OL,11, Toronto Sceptres-Ottawa Charge(W)B01:00
+OL,12,F------------ Polska - PHL -------------
+OL,13, KH GKS Katowice - KH Energa Toru$B18:30
+OL,14,F------------- Superpuchar -------------
+OL,15, GKS Tychy - JKH GKS Jastrz`bie   B18:00
+OL,16,F---- Szwajcaria - National League -----
+OL,17, Bern - Ambri Piotta              B19:45
+OL,18, Davos - Servette Geneve          B19:45
+OL,19, Fribourg - ZSC Lions Zurich      B19:45
+OL,20, SCL Tigers - Ajoie               B19:45
+OL,21, Lausanne - Rapperswil Jona       B19:45
+OL,22,V
+OL,23,V
+OL,24,   A800      B801      C802      F803   
+FL,800,801,802,803,0,100
+PN,81303
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP2     813Cwto 24 lis  16:02:29
+OL,1,F]            @H o k e j           14:01
+OL,2,F] @Mecze wed}ug kategorii rozgrywek    
+OL,3,F---- Szwajcaria - National League -----
+OL,4, Lugano - Biel-Bienne             B19:45
+OL,5, Zug - EHC Kloten                 B19:45
+OL,6,F--------- Szwecja - SDHL (K) ----------
+OL,7, Linkopings - Lulea/MSSK          B18:00
+OL,8,F------------ Szwecja - SHL ------------
+OL,9, Lulea - Malmo                    B19:00
+OL,10, Orebro - Frolunda HC             B19:00
+OL,11,F---------- S}owacja - 1.Liga ----------
+OL,12, HK Nove Zamky - MHA Martin       B18:00
+OL,13,F------ S}owacja - Tipsport liga -------
+OL,14, Banska Bystrica-Dukla Michalovce B17:30
+OL,15, Kosice - HK Spisska Nova Ves     B17:30
+OL,16, HK Poprad - HK Dukla Trencin     B17:30
+OL,17, Nitra - HC Presov                B18:00
+OL,18, Slovan Bratislav-Liptovsky MikulaB18:00
+OL,19, VLCI Zilina - HKM Zvolen         B18:30
+OL,20,F-------------- USA - AHL --------------
+OL,21, Manitoba Moose - Grand Rapids    B16:30
+OL,22,V
+OL,23,V
+OL,24,   A800      B801      C802      F803   
+FL,800,801,802,803,0,100
+PN,81304
+SC,0004
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP2     813Cwto 24 lis  16:02:29
+OL,1,F]            @H o k e j           14:01
+OL,2,F] @Mecze wed}ug kategorii rozgrywek    
+OL,3,F-------------- USA - AHL --------------
+OL,4, Texas Stars - Tucson Roadrunners B02:00
+OL,5,F-------------- USA - NHL --------------
+OL,6, Edmonton Oilers-Vegas Golden KnigB02:00
 OL,22,V
 OL,23,V
 OL,24,   A800      B801      C802      F803   

@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     393Cpon 23 lis  19:24:48
+OL,0,      BTVP2     393Cwto 24 lis  04:50:14
 OL,1,C]DPI]KA NO[NA  ]  GDANIA Superligaen   
 OL,3,                 C22.11                 
 OL,4, AC Horsens      - Silkeborg IFF3-1(1-0)
@@ -12,20 +12,30 @@ OL,5, Viborg FF       - Randers FC       F0-0
 OL,6, SonderjyskE     - Odense BK   F1-2(0-0)
 OL,7, Nordsjaelland   - FC KopenhagaF5-0(1-0)
 OL,9,                 C23.11                 
-OL,10, Brondby IF      - Midtjylland      E0-0
+OL,10, Brondby IF      - Midtjylland F0-2(0-1)
 FL,392,394,450,450,0,100
 PN,39302
 SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     393Cpon 23 lis  19:24:48
+OL,0,      BTVP2     393Cwto 24 lis  04:50:14
+OL,1,C]DPI]KA NO[NA  ]  GDANIA Superligaen   
+OL,3,                 C27.11                 
+OL,4, SonderjyskE     - Brondby IF     B19:00
+FL,392,394,450,450,0,100
+PN,39303
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP2     393Cwto 24 lis  04:50:14
 OL,1,C]DPI]KA NO[NA   ] GDANIA Superligaen   
-OL,5, B1.Midtjylland     14  9  5  0 29-17 32
+OL,5, B1.Midtjylland     15 10  5  0 31-17 35
 OL,6, B2.FC Kopenhaga    15 10  2  3 29-17 32
 OL,7, B3.Viborg FF       15  8  3  4 22-13 27
 OL,8, B4.Nordsjaelland   15  7  5  3 31-18 26
-OL,9, B5.Brondby IF      14  7  1  6 23-21 22
+OL,9, B5.Brondby IF      15  7  1  7 23-23 22
 OL,10, B6.Odense BK       15  5  5  5 18-20 20
 OL,11, A7.AC Horsens      15  5  4  6 26-24 19
 OL,12, A8.Aarhus GF       15  4  6  5 21-22 18
@@ -37,12 +47,12 @@ OL,21,B- runda fina}owa
 OL,22,A- runda bara{owa                       
 OL,23,SpppppppppppppppTppppppppppppppppppppppp
 FL,392,394,450,450,0,100
-PN,39303
-SC,0003
+PN,39304
+SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     393Cpon 23 lis  19:24:49
+OL,0,      BTVP2     393Cwto 24 lis  04:50:14
 OL,1,C]DPI]KA NO[NA  ] GGRECJA Superleague   
 OL,3,                 C21.11                 
 OL,4, Kalamata        - AEK Ateny   F0-1(0-0)
@@ -55,12 +65,29 @@ OL,11, PAOK Saloniki   - Kifisia     F4-0(1-0)
 OL,13,                 C23.11                 
 OL,14, Asteras AKTOR  - Aris SalonikiF0-1(0-0)
 FL,392,394,450,450,0,100
-PN,39304
-SC,0004
+PN,39305
+SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     393Cpon 23 lis  19:24:49
+OL,0,      BTVP2     393Cwto 24 lis  04:50:15
+OL,1,C]DPI]KA NO[NA  ] GGRECJA Superleague   
+OL,3,                 C28.11                 
+OL,4, Iraklis 1908    - Panetolikos FC B16:00
+OL,5, Volos FC        - Asteras AKTOR  B16:00
+OL,6, Kifisia         - Kalamata       B19:00
+OL,8,                 C29.11                 
+OL,9, Atromitos FC    - Panathinaikos  B16:00
+OL,10, OFI Crete FC    - Levadiakos     B16:30
+OL,11, Aris Saloniki   - Olympiakos     B18:00
+OL,12, AEK Ateny       - PAOK Saloniki  B20:00
+FL,392,394,450,450,0,100
+PN,39306
+SC,0006
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP2     393Cwto 24 lis  04:50:15
 OL,1,C]DPI]KA NO[NA   ] GGRECJA Superleague  
 OL,5, B1.Panathinaikos   11 10  0  1 24-5  30
 OL,6, B2.Olympiakos      11  8  2  1 22-7  26

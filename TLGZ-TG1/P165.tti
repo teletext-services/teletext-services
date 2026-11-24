@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     165Cpon 23 lis  19:00:58
+OL,0,      BTVP1     165Cpon 23 lis  22:44:48
 OL,1,D]GPROGNOZA POGODY        ]D23/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FPOZNAN                          ZV,,,, 
 OL,4, pon.    B1  C2 Gca}k. F14NWG1006ZVpppp 
-OL,5, wt.     B1  C3 Gca}k. F14NWG1013ZWpppp 
-OL,6, |ro.    B0  C2 Gumiar  F7N G1014ZV0    
-OL,7, czw.                                   
+OL,5, wt.     B2  C3 Gca}k. F14NWG1014ZWxppp 
+OL,6, |ro.    B0  C1 Gumiar  F3E G1015       
+OL,7, czw.   B-1  C1 Gumiar F14E G1012       
 OL,8, pi@.                                   
 OL,9,FLESZNO                          ZV,,,, 
 OL,10, pon.    B0  C2 Gdu{e  F18NWG1003ZVppp0 
-OL,11, wt.     B0  C1 Gca}k. F18W G1010ZWppp` 
-OL,12, |ro.   B-1  C2 Gumiar  F7NEG1009ZVppp  
-OL,13, czw.                                   
+OL,11, wt.     B0  C2 Gca}k. F18W G1011ZWpx0  
+OL,12, |ro.    B0  C2 Gca}k.  F7SEG1011 ZVp   
+OL,13, czw.   B-1  C1 Gumiar F18E G1006       
 OL,14, pi@.                                   
 FL,164,166,180,180,0,100
 PN,16502
@@ -25,20 +25,20 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     165Cpon 23 lis  19:00:58
+OL,0,      BTVP1     165Cpon 23 lis  22:44:48
 OL,1,D]GPROGNOZA POGODY        ]D23/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FPI]A                            ZV,,,, 
 OL,4, pon.    B1  C2 Gdu{e  F14NWG1004ZVpppx 
-OL,5, wt.     B2  C3 Gdu{e  F10NWG1012ZWppp  
-OL,6, |ro.    B0  C2 Gdu{e   F7NWG1013ZVp  0 
-OL,7, czw.                                   
+OL,5, wt.     B1  C4 Gdu{e  F10NWG1012ZWtpp0 
+OL,6, |ro.    B0  C1 Gumiar  F3SWG1014ZV`0   
+OL,7, czw.    B0  C1 Gumiar F10E G1012       
 OL,8, pi@.                                   
 OL,9,FKALISZ                          ZV,,,, 
 OL,10, pon.    B0  C2 Gca}k. F18W  G996ZV`pp0 
-OL,11, wt.     B0  C2 Gca}k. F21W G1003ZW`ppp 
-OL,12, |ro.    B0  C2 Gumiar  F7N G1004ZV0p0  
-OL,13, czw.                                   
+OL,11, wt.     B1  C2 Gca}k. F21NWG1004ZWp|pt 
+OL,12, |ro.    B0  C2 Gdu{e   F7N G1006ZVp0   
+OL,13, czw.   B-1  C1 Gdu{e  F18E G1002       
 OL,14, pi@.                                   
 FL,164,166,180,180,0,100
 PN,16503
@@ -46,19 +46,19 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     165Cpon 23 lis  19:00:58
+OL,0,      BTVP1     165Cpon 23 lis  22:44:48
 OL,1,D]GPROGNOZA POGODY        ]D23/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FKO]O                            ZV,,,, 
 OL,4, pon.    B1  C2 Gca}k. F18W  G999ZVpppp 
-OL,5, wt.     B1  C3 Gdu{e  F21NWG1007ZWp|4  
-OL,6, |ro.    B0  C2 Gumiar  F7NWG1009       
-OL,7, czw.                                   
+OL,5, wt.     B1  C3 Gca}k. F21NWG1007ZWxp00 
+OL,6, |ro.   B-1  C2 Gumiar  F7N G1011ZV`p   
+OL,7, czw.   B-1  C1 Gdu{e  F14E G1008       
 OL,8, pi@.                                   
 OL,9,FKRZESINY                        ZV,,,, 
 OL,10, pon.    B0  C2 Gca}k. F18NWG1005ZVpppp 
-OL,11, wt.     B1  C3 Gca}k. F18NWG1013ZWpppx 
-OL,12, |ro.   B-1  C2 Gumiar  F7N G1014ZVp    
-OL,13, czw.                                   
+OL,11, wt.     B2  C3 Gca}k. F18NWG1014ZWxppp 
+OL,12, |ro.   B-1  C1 Gumiar  F7E G1015       
+OL,13, czw.   B-1  C1 Gumiar F18E G1012       
 OL,14, pi@.                                   
 FL,164,166,180,180,0,100

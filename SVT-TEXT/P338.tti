@@ -3,28 +3,28 @@ PN,33801
 SC,0001
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 338  M}n 23 novC00:07:13
+OL,0,      GSVT Text 338  Tis 24 novC00:07:13
 OL,1,D]GFOTBOLL Italien, Serie A             
-OL,3,C8/11 FFiorentina  - Juventus      2-2  
-OL,4,C21/11FLazio       - Lecce         3-0  
-OL,5,      FComo        - Cagliari      2-0  
-OL,6,      FParma       - Roma          1-5  
-OL,7,      FNapoli      - Torino        1-0  
-OL,8,C22/11FJuventus    - Venezia       4-0  
-OL,9,      FBologna     - Udinese       1-1  
-OL,10,      FSassuolo    - Genoa         0-2  
-OL,11,      FMilan       - Frosinone     5-1  
-OL,12,      FAtalanta    - Inter         4-4  
-OL,13,C23/11GMonza       - Fiorentina         
-OL,14,C27/11GVenezia     - Bologna            
-OL,15,C28/11GFrosinone   - Parma              
-OL,16,      GTorino      - Lazio              
-OL,17,      GInter       - Genoa              
-OL,18,C29/11GUdinese     - Fiorentina         
-OL,19,      GSassuolo    - Napoli             
-OL,20,      GRoma        - Monza              
-OL,21,      GComo        - Juventus           
-OL,22,C30/11GLecce       - Atalanta           
+OL,3,C21/11FComo        - Cagliari      2-0  
+OL,4,      FLazio       - Lecce         3-0  
+OL,5,      FParma       - Roma          1-5  
+OL,6,      FNapoli      - Torino        1-0  
+OL,7,C22/11FJuventus    - Venezia       4-0  
+OL,8,      FBologna     - Udinese       1-1  
+OL,9,      FSassuolo    - Genoa         0-2  
+OL,10,      FMilan       - Frosinone     5-1  
+OL,11,      FAtalanta    - Inter         4-4  
+OL,12,C23/11FMonza       - Fiorentina    3-0  
+OL,13,C27/11GVenezia     - Bologna            
+OL,14,C28/11GFrosinone   - Parma              
+OL,15,      GTorino      - Lazio              
+OL,16,      GInter       - Genoa              
+OL,17,C29/11GUdinese     - Fiorentina         
+OL,18,      GSassuolo    - Napoli             
+OL,19,      GRoma        - Monza              
+OL,20,      GComo        - Juventus           
+OL,21,C30/11GLecce       - Atalanta           
+OL,22,      GCagliari    - Milan              
 OL,23,D]G          Tabell f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
 FL,100,300,400,700,0,100
@@ -32,7 +32,7 @@ PN,33802
 SC,0002
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 338  M}n 23 novC00:07:13
+OL,0,      GSVT Text 338  Tis 24 novC00:07:13
 OL,1,D]GFOTBOLL Italien, Serie A             
 OL,3, B1 Lazio         12 10  2  0  28-9   32
 OL,4, G2 Roma          12  9  3  0  36-11  30
@@ -47,11 +47,11 @@ OL,12,G10 Genoa         12  5  1  6  13-16  16
 OL,13,G11 Cagliari      12  5  1  6  10-17  16
 OL,14,G12 Atalanta      12  4  3  5  21-24  15
 OL,15,G13 Torino        12  4  2  6  15-18  14
-OL,16,G14 Lecce         12  3  1  8  12-25  10
-OL,17,G15 Fiorentina    11  2  3  6  17-25   9
-OL,18,G16 Parma         12  2  2  8  10-22   8
-OL,19,G17 Sassuolo      12  2  2  8  16-31   8
-OL,20,F18 Monza         11  2  1  8  17-25   7
+OL,16,G14 Monza         12  3  1  8  20-25  10
+OL,17,G15 Lecce         12  3  1  8  12-25  10
+OL,18,G16 Fiorentina    12  2  3  7  17-28   9
+OL,19,G17 Parma         12  2  2  8  10-22   8
+OL,20,F18 Sassuolo      12  2  2  8  16-31   8
 OL,21,F19 Udinese       12  1  3  8  13-26   6
 OL,22,F20 Venezia       12  2  0 10   8-25   6
 OL,23,D]G         Matcher f|ljer >>>          

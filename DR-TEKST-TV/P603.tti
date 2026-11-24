@@ -1,19 +1,49 @@
 DE,DR-TEKST-TV 603
-PN,60300
-SC,0000
-PS,8108
+PN,60301
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       GDR   S603  man 23 nov   12:10:23
+OL,0,       GDR   S603  tir 24 nov   06:48:56
 OL,1,T################]G               
-OL,2,D]GP3  \MANDAG 23.NOV D]G > NETRADIOC639
+OL,2,D]GP3  \TIRSDAG 24.NOVD]G > NETRADIOC639
+OL,3,T#######################################
+OL,4,    F05:03GP3 Musik                     
+OL,5,    F06:00GP3 Nyheder                   
+OL,6,    F     G                             
+OL,7,    F06:03GGo' Morgen P3A>              
+OL,8,    F09:03GDrommeholdetA>               
+OL,9,    F     G                             
+OL,10,    F     G                             
+OL,11,    F     G                             
+OL,12,    F     G                             
+OL,13,    F     G                             
+OL,14,    F     G                             
+OL,15,    F     G                             
+OL,16,    F     G                             
+OL,17,    F     G                             
+OL,18,    F     G                             
+OL,19,    F     G                             
+OL,20,    F     G                             
+OL,21,    F     G                             
+OL,22,    F     G                             
+OL,23, ]A600@RADIO  P5A630@MERE OM RADIO  1/2 
+OL,24,  ANyheder    BSport    CTV    FVejret  
+FL,110,200,300,400,0,100
+PN,60302
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       GDR   S603  tir 24 nov   06:48:27
+OL,1,T################]G               
+OL,2,D]GP3  \TIRSDAG 24.NOVD]G > NETRADIOC639
 OL,3,T#######################################
 OL,4,    F12:03GPopdateringA>                
-OL,5,C621F14:03GCarte BlancheA>              
+OL,5,    F14:03GCarte BlancheA>              
 OL,6,    F     G                             
-OL,7,    F16:03GBalalajkaA>                  
+OL,7,C621F16:03GBalalajkaA>                  
 OL,8,C622F18:03GNynne FMA>                   
 OL,9,    F     G                             
-OL,10,    F20:00GP3 med Oliver Gohr           
+OL,10,    F20:00GP3 med Alida Blakaj          
 OL,11,    F22:00GP3 Musik                     
 OL,12,    F     G                             
 OL,13,    F00:03GP3 Musik                     
@@ -26,6 +56,6 @@ OL,19,    F     G
 OL,20,    F     G                             
 OL,21,    F     G                             
 OL,22,    F     G                             
-OL,23, ]A600@RADIO  P5A630@MERE OM RADIO      
+OL,23, ]A600@RADIO  P5A630@MERE OM RADIO  2/2 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100

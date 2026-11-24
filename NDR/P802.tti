@@ -1,9 +1,9 @@
 DE,NDR 802
-PN,80201
-SC,0001
-PS,C200
+PN,80200
+SC,0000
+PS,8208
 CT,15,T
-OL,0,       G802FNDR TEXT GMo 23.11.B13:41:34
+OL,0,       G802FNDR TEXT GDi 24.11.B15:44:54
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7i                              
@@ -11,41 +11,18 @@ OL,4,F]T  %
 OL,5,FLigaphase: 5.Spieltag am Dienstag      
 OL,7,F                              18.45 Uhr
 OL,8, Bod|/Glimt - Linzer ASK ..... -:- (-:-)
-OL,9, Galatasaray - Aston Villa ... -:- (-:-)
-OL,11,F                              21.00 Uhr
-OL,12, Arsenal - Bor.Dortmund ...... -:- (-:-)
-OL,13, Como 1907 - AEK Athen ....... -:- (-:-)
-OL,14, F.Rotterdam - FC Porto ...... -:- (-:-)
-OL,15, ManCity - SSC Neapel ........ -:- (-:-)
-OL,16, RB Leipzig - SSC Neapel ..... -:- (-:-)
-OL,17, Real Madrid - Eindhoven ..... -:- (-:-)
-OL,18, Sl.Bratislava - Betis Sevilla -:- (-:-)
-OL,20,CTabellen >> 554                        
+OL,9,FTore:                                  
+OL,11, Galatasaray - Aston Villa ... -:- (-:-)
+OL,12,FTore:                                  
+OL,13,F                              21.00 Uhr
+OL,14, Arsenal - Bor.Dortmund ...... -:- (-:-)
+OL,15, Como 1907 - AEK Athen ....... -:- (-:-)
+OL,16, F.Rotterdam - FC Porto ...... -:- (-:-)
+OL,17, ManCity - SSC Neapel ........ -:- (-:-)
+OL,18, RB Leipzig - RC Lens ........ -:- (-:-)
+OL,19, Real Madrid - Eindhoven ..... -:- (-:-)
+OL,20, Sl.Bratislava - Betis Sevilla -:- (-:-)
+OL,22,CTabellen >> 554                        
 OL,23,D]G800<<  Quelle: ARD Text        mehr >
-OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
-FL,101,200,300,650,0,100
-PN,80202
-SC,0002
-PS,C200
-CT,15,T
-OL,0,       G802FNDR TEXT GMo 23.11.B13:41:34
-OL,1, ]T  5                                  
-OL,2, ]Tthi,0<d                              
-OL,3, ]T5kjp%7i                              
-OL,4,F]T  %                                  
-OL,5,FLigaphase: 5.Spieltag am Mittwoch      
-OL,7,F                              18.45 Uhr
-OL,8, Slavia Prag - Villarreal .... -:- (-:-)
-OL,9, Sabah FK - FC Barcelona ..... -:- (-:-)
-OL,11,F                              21.00 Uhr
-OL,12, Atlet.Madrid - V.Stavanger .. -:- (-:-)
-OL,13, Club Br}gge - FC Liverpool .. -:- (-:-)
-OL,14, I.Mailand - VfB Stuttgart ... -:- (-:-)
-OL,15, Sch.Donezk - Fenerbahce ..... -:- (-:-)
-OL,16, Lille OSC - FC Bayern ....... -:- (-:-)
-OL,17, Paris SG - AS Rom ........... -:- (-:-)
-OL,18, Sp.Lissabon - ManUnited ..... -:- (-:-)
-OL,20,CTabellen >> 554                        
-OL,23,D]G800<<  Quelle: ARD Text        mehr >
-OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
+OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

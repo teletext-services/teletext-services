@@ -3,44 +3,133 @@ PN,50201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G16:52:32
+OL,0,       BSWR BW C   Di, 24.11.26G07:43:58
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
 OL,4,            Gefahrenmeldungen           
-OL,6,CA6FMannheim Richtung Heilbronn         
-OL,7, zwischen Sinsheim-Steinsfurt und Bad   
-OL,8, Rappenau Gefahr durch Reifenteile auf  
-OL,9, der Fahrbahn, Gefahr durch defekten LKW
-OL,10, auf dem Standstreifen                  
-OL,12,CA60FR}sselsheim Richtung Mainz         
-OL,13, Ausfahrt Mainz-Hechtsheim-Ost Gefahr   
-OL,14, durch Gegenst{nde auf der Fahrbahn     
-OL,16,CA7FUlm Richtung W}rzburg               
-OL,17, zwischen W|rnitz und Rothenburg ob der 
-OL,18, Tauber Gefahr durch Gegenst{nde        
-OL,19, (Reifenteile) auf der Fahrbahn         
-OL,23,D]GStand:23.11. 16:51   ]bersicht 501 >>
+OL,6,CA3FK|ln Richtung Frankfurt             
+OL,7, zwischen Raunheim und Kelsterbach      
+OL,8, Gefahr durch \lspur auf dem rechten    
+OL,9, und dem mittleren Fahrstreifen         
+OL,11,CA3FFrankfurt Richtung W}rzburg         
+OL,12, zwischen Bessenbach/Waldaschaff und    
+OL,13, Weibersbrunn Gefahr durch ungesicherte 
+OL,14, Unfallstelle                           
+OL,16,CA45FGie~en Richtung Aschaffenburg      
+OL,17, Seligenst{dter Dreieck ]berleitung     
+OL,18, zur A3 Richtung Frankfurt Gefahr durch 
+OL,19, 1 ungesicherte Unfallstelle            
+OL,23,D]GStand:24.11. 07:42   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,50202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G16:52:32
+OL,0,       BSWR BW C   Di, 24.11.26G07:43:58
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
 OL,4,            Gefahrenmeldungen           
-OL,6,CA8FM}nchen Richtung Stuttgart          
-OL,7, zwischen Kreuz Ulm/Elchingen und       
-OL,8, Oberelchingen Unfall, Gefahr durch     
-OL,9, Gegenst{nde auf der Fahrbahn           
-OL,11,CL1152GVorsicht im Kreis G|ppingen auf  
-OL,12, der Landesstra~e zwischen Ro~w{lden    
-OL,13, und Sulpach gibt es in beiden          
-OL,14, Richtungen eine ungesicherte           
-OL,15, Unfallstelle!                          
-OL,23,D]GStand:23.11. 16:51   ]bersicht 501 >>
+OL,6,CA5FKarlsruhe Richtung Heidelberg       
+OL,7, zwischen Dreieck Karlsruhe und         
+OL,8, Karlsruhe-Mitte Gefahr durch           
+OL,9, ungesicherte Unfallstelle auf dem      
+OL,10, Standstreifen                          
+OL,12,CA6FMannheim Richtung Heilbronn         
+OL,13, zwischen Bad Rappenau und              
+OL,14, Heilbronn/Untereisesheim Gefahr durch  
+OL,15, ungesicherte Unfallstelle auf dem      
+OL,16, linken und dem mittleren Fahrstreifen  
+OL,23,D]GStand:24.11. 07:42   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50203
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BSWR BW C   Di, 24.11.26G07:43:58
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,            Gefahrenmeldungen           
+OL,6,CA7FW}rzburg Richtung Ulm               
+OL,7, zwischen Kreuz Feuchtwangen/Crailsheim 
+OL,8, und Feuchtwangen-West Gefahr durch     
+OL,9, ungesicherte Unfallstelle,             
+OL,10, Standstreifen blockiert                
+OL,12,CB10FStuttgart Richtung M}hlacker       
+OL,13, zwischen Korntal und A81,              
+OL,14, Stuttgart-Zuffenhausen Gefahr durch    
+OL,15, ungesicherte Unfallstelle auf dem      
+OL,16, rechten Fahrstreifen                   
+OL,23,D]GStand:24.11. 07:42   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50204
+SC,0004
+PS,C200
+CT,15,T
+OL,0,       BSWR BW C   Di, 24.11.26G07:43:58
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,            Gefahrenmeldungen           
+OL,6,CB19FW}rzburg Richtung Bad Mergentheim  
+OL,7, zwischen Abzweig nach Klingholz und    
+OL,8, Giebelstadt Unfall, Gefahr durch       
+OL,9, Personen auf der Fahrbahn, Gefahr durch
+OL,10, ungesicherte Unfallstelle              
+OL,12,CB27FBalingen                           
+OL,13, zwischen Robert-Wahl-Stra~e und B463,  
+OL,14, Balingen-S}d/Messegel{nde Gefahr       
+OL,15, durch ungesicherte Unfallstelle        
+OL,17,CB311FMe~kirch Richtung Geisingen       
+OL,18, zwischen B313, Me~kirch und Abzweig    
+OL,19, nach H|lzle Gefahr durch 2             
+OL,20, Gegenst{nde (Metallstangen) auf der    
+OL,21, Fahrbahn                               
+OL,23,D]GStand:24.11. 07:42   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50205
+SC,0005
+PS,C200
+CT,15,T
+OL,0,       BSWR BW C   Di, 24.11.26G07:43:58
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,            Gefahrenmeldungen           
+OL,6,CB33FOffenburg Richtung Donaueschingen  
+OL,7, zwischen Gengenbach und Biberach Gefahr
+OL,8, durch 1 liegengebliebenes Fahrzeug auf 
+OL,9, dem rechten Fahrstreifen               
+OL,11,CB36FMannheim Richtung Karlsruhe        
+OL,12, zwischen Leopoldshafen und             
+OL,13, Karlsruhe-Neureut-S}d/Kl{rwerk Gefahr  
+OL,14, durch defekten PKW                     
+OL,16,CL288GVorsicht im Kreis Ravensburg      
+OL,17, zwischen Hasenweiler und Beckenweiler  
+OL,18, in beiden Richtungen Unfallaufnahme!   
+OL,23,D]GStand:24.11. 07:42   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50206
+SC,0006
+PS,C200
+CT,15,T
+OL,0,       BSWR BW C   Di, 24.11.26G07:43:58
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,            Gefahrenmeldungen           
+OL,6,CL83FMeckenheim Richtung Mayen          
+OL,7, zwischen Abzweig nach Kirchwald und    
+OL,8, Abzweig nach Ettringen Gefahr durch    
+OL,9, ungesicherte Unfallstelle hinter einer 
+OL,10, Kurve                                  
+OL,23,D]GStand:24.11. 07:42   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
