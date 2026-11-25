@@ -4,26 +4,26 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    853C|ro 25 lis  13:01:30
+OL,0,      BSPORT    853C|ro 25 lis  23:27:50
 OL,1,C]      MDM U L T I   M U L T I         
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
-OL,4,C]DData losowania:@24.11.2026 r.        
+OL,4,C]DData losowania:@25.11.2026 r.        
 OL,5,S
 OL,6,C]DGodzina:@14:00                       
 OL,7,S
 OL,8,C]DWylosowane liczby:                   
-OL,9,C] A3D-@trzy         A31D-@trzy-jeden   
-OL,10,C] A6D-@sze|^        A35D-@trzy-pi`^    
-OL,11,C] A9D-@dziewi`^     A37D-@trzy-siedem  
-OL,12,C]A12D-@jeden-dwa    A41D-@cztery-jeden 
-OL,13,C]A17D-@jeden-siedem A47D-@cztery-siedem
-OL,14,C]A19D-@jeden-dziewi`A52D-@pi`^-dwa     
-OL,15,C]A25D-@dwa-pi`^     A54D-@pi`^-cztery  
-OL,16,C]A27D-@dwa-siedem   A57D-@pi`^-siedem  
-OL,17,C]A29D-@dwa-dziewi`^ A69D-@sze|^-dziewi`
-OL,18,C]A30D-@trzy-zero    A74D-@siedem-cztery
+OL,9,C] A1D-@jeden        A62D-@sze|^-dwa    
+OL,10,C] A8D-@osiem        A67D-@sze|^-siedem 
+OL,11,C]A14D-@jeden-cztery A68D-@sze|^-osiem  
+OL,12,C]A15D-@jeden-pi`^   A69D-@sze|^-dziewi`
+OL,13,C]A18D-@jeden-osiem  A71D-@siedem-jeden 
+OL,14,C]A22D-@dwa-dwa      A72D-@siedem-dwa   
+OL,15,C]A23D-@dwa-trzy     A73D-@siedem-trzy  
+OL,16,C]A29D-@dwa-dziewi`^ A76D-@siedem-sze|^ 
+OL,17,C]A35D-@trzy-pi`^    A78D-@siedem-osiem 
+OL,18,C]A58D-@pi`^-osiem   A80D-@osiem-zero   
 OL,19,S
-OL,20,C]             DPlus A41D-@cztery-jeden 
+OL,20,C]             DPlus A73D-@siedem-trzy  
 OL,21,S///////////////////////////////////////
 OL,22,Q
 OL,23,Q
@@ -33,26 +33,26 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    853C|ro 25 lis  13:01:30
+OL,0,      BSPORT    853C|ro 25 lis  23:27:58
 OL,1,C]      MDM U L T I   M U L T I         
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
-OL,4,C]DData losowania:@24.11.2026 r.        
+OL,4,C]DData losowania:@25.11.2026 r.        
 OL,5,S
 OL,6,C]DGodzina:@22:00                       
 OL,7,S
 OL,8,C]DWylosowane liczby:                   
-OL,9,C] A1D-@jeden        A44D-@cztery-cztery
-OL,10,C] A2D-@dwa          A48D-@cztery-osiem 
-OL,11,C] A5D-@pi`^         A49D-@cztery-dziewi
-OL,12,C] A7D-@siedem       A50D-@pi`^-zero    
-OL,13,C]A10D-@jeden-zero   A52D-@pi`^-dwa     
-OL,14,C]A15D-@jeden-pi`^   A53D-@pi`^-trzy    
-OL,15,C]A25D-@dwa-pi`^     A66D-@sze|^-sze|^  
-OL,16,C]A28D-@dwa-osiem    A68D-@sze|^-osiem  
-OL,17,C]A36D-@trzy-sze|^   A70D-@siedem-zero  
-OL,18,C]A43D-@cztery-trzy  A73D-@siedem-trzy  
+OL,9,C] A5D-@pi`^         A48D-@cztery-osiem 
+OL,10,C] A6D-@sze|^        A52D-@pi`^-dwa     
+OL,11,C]A13D-@jeden-trzy   A54D-@pi`^-cztery  
+OL,12,C]A15D-@jeden-pi`^   A55D-@pi`^-pi`^    
+OL,13,C]A23D-@dwa-trzy     A63D-@sze|^-trzy   
+OL,14,C]A24D-@dwa-cztery   A74D-@siedem-cztery
+OL,15,C]A25D-@dwa-pi`^     A75D-@siedem-pi`^  
+OL,16,C]A37D-@trzy-siedem  A76D-@siedem-sze|^ 
+OL,17,C]A43D-@cztery-trzy  A78D-@siedem-osiem 
+OL,18,C]A45D-@cztery-pi`^  A79D-@siedem-dziewi
 OL,19,S
-OL,20,C]             DPlus  A1D-@jeden        
+OL,20,C]             DPlus  A5D-@pi`^         
 OL,21,S///////////////////////////////////////
 OL,22,Q
 OL,23,Q

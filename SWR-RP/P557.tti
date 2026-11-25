@@ -3,18 +3,19 @@ PN,55701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G11:23:57
+OL,0,       BSWR RLPC   Mi, 25.11.26G21:22:21
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GAIRPORT SAARBR]CKEN P5      
 OL,3,T#########"######################"######
 OL,4,FFlug     aus         Plan Cerwartet    
 OL,5, ---------------------------------------
-OL,6,F----------------Mittwoch---------------
-OL,7, XQ  126  ANTALYA     14:55             
+OL,6,F---------------Donnerstag--------------
+OL,7, DX  122  BERLIN      10:30             
 OL,8,FDX  126  BERLIN      20:30             
-OL,9, ---------------Donnerstag--------------
-OL,10,FDX  122  BERLIN      10:30             
-OL,11, DX  126  BERLIN      20:30             
+OL,9, ----------------Freitag----------------
+OL,10,FDX  124  BERLIN      12:30             
+OL,11, XQ  126  ANTALYA     16:55             
+OL,12,FDX  126  BERLIN      20:30             
 OL,23,D]G           ohne Gew{hr             > 
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -22,22 +23,19 @@ PN,55702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G11:23:57
+OL,0,       BSWR RLPC   Mi, 25.11.26G21:22:21
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GAIRPORT SAARBR]CKEN P5      
 OL,3,T#########"######################"######
 OL,4,FFlug     nach        Plan Cerwartet    
 OL,5, ---------------------------------------
-OL,6,F----------------Mittwoch---------------
-OL,7, FR9839   ALICANTE    11:00CGestartet   
-OL,8,10:59                                   
-OL,9,FXQ  127  ANTALYA     15:55             
-OL,10, DX  125  BERLIN      16:40             
-OL,11,F---------------Donnerstag--------------
-OL,12, DX  121  BERLIN      06:30             
-OL,13,FDX  125  BERLIN      16:40             
-OL,14, ----------------Freitag----------------
-OL,15,FDX  123  BERLIN      08:30             
+OL,6,F---------------Donnerstag--------------
+OL,7, DX  121  BERLIN      06:30             
+OL,8,FDX  125  BERLIN      16:40             
+OL,9, ----------------Freitag----------------
+OL,10,FDX  123  BERLIN      08:30             
+OL,11, DX  125  BERLIN      16:40             
+OL,12,FXQ  127  ANTALYA     17:55             
 OL,23,D]G           ohne Gew{hr             > 
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

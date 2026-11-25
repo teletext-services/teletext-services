@@ -4,24 +4,24 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:12
+OL,0,      BPOLONIA  703C|ro 25 lis  23:03:49
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    11:57 25.11.2026
+OL,3,AInformacje z godz.:    16:45 25.11.2026
 OL,4,D]                            GObligacje
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFPC0229                                
-OL,7,CFPC0231     100,100  A-1,17         C1 
-OL,8,FFPC0235     98,3300   B0,09        F36 
-OL,9,CFPC0328     96,7400   D0,00        C28 
-OL,10,FFPC0332                                
-OL,11,CFPC0342     105,400   B0,38         C0 
+OL,7,CFPC0231     100,100  A-1,17        C50 
+OL,8,FFPC0235     98,2300  A-0,01       F137 
+OL,9,CFPC0328     96,7400   D0,00        C57 
+OL,10,FFPC0332     94,7000  A-0,72         F5 
+OL,11,CFPC0342     104,990  A-0,01         C1 
 OL,12,FFPC0427     99,2500   B0,03        F15 
-OL,13,CFPC0630     89,7000  A-0,31         C9 
-OL,14,FFPC0631     98,1000   B0,02        F15 
-OL,15,CFPC0733     79,9000   D0,00         C0 
-OL,16,FFPC0931                                
-OL,17,CFPC1140     65,0000   D0,00         C1 
+OL,13,CFPC0630     89,9000  A-0,09       C228 
+OL,14,FFPC0631     98,1000   B0,02        F50 
+OL,15,CFPC0733     79,9000   D0,00         C1 
+OL,16,FFPC0931     92,9500  A-0,01         F1 
+OL,17,CFPC1140     65,2300   B0,35         C6 
 OL,18,FKO11136                                
 OL,19,CKOL1130                                
 OL,20,FSIC1133                                
@@ -33,10 +33,10 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:12
+OL,0,      BPOLONIA  703C|ro 25 lis  23:03:49
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    11:57 25.11.2026
+OL,3,AInformacje z godz.:    16:45 25.11.2026
 OL,4,D]                            GObligacje
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FWAL1027                                
@@ -49,28 +49,28 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:12
+OL,0,      BPOLONIA  703C|ro 25 lis  23:03:57
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    11:57 25.11.2026
+OL,3,AInformacje z godz.:    16:47 25.11.2026
 OL,4,D]                   GObligacje skarbowe
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FDS0432      82,5900   B0,19         F5 
-OL,7,CDS0436      93,3000  A-0,53         C4 
-OL,8,FDS0727      99,3000  A-0,07         F0 
-OL,9,CDS1029      94,4000  A-0,11         C6 
-OL,10,FDS1030      85,9900   B0,01         F0 
-OL,11,CDS1033      101,100  A-0,20        C23 
-OL,12,FDS1034      94,3000   B0,18         F8 
-OL,13,CDS1035      92,4400  A-0,16       C110 
-OL,14,FIZ0831      95,9900   D0,00         F6 
-OL,15,CIZ0836      87,5200  A-0,03        C19 
+OL,6,FDS0432      82,3900  A-0,05        F63 
+OL,7,CDS0436      93,8900   B0,10       C225 
+OL,8,FDS0727      99,5000   B0,13         F1 
+OL,9,CDS1029      94,4000  A-0,11        C14 
+OL,10,FDS1030      86,0000   B0,02        F94 
+OL,11,CDS1033      101,000  A-0,30       C317 
+OL,12,FDS1034      94,1200  A-0,01        F10 
+OL,13,CDS1035      92,7600   B0,18     C2.191 
+OL,14,FIZ0831      95,5500  A-0,46       F189 
+OL,15,CIZ0836      87,2600  A-0,33        C60 
 OL,16,FNZ0331                                 
 OL,17,CNZ0332      92,5000  A-1,91         C4 
 OL,18,FNZ0928      99,1000  A-0,09         F3 
 OL,19,CNZ0936      88,9400   B1,65         C0 
-OL,20,FOK0127      99,2500  A-0,32        F13 
-OL,21,COK0128      95,7200   B0,17        C91 
+OL,20,FOK0127      99,5400  A-0,03        F23 
+OL,21,COK0128      95,6300   B0,07       C168 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70304
@@ -78,27 +78,27 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:12
+OL,0,      BPOLONIA  703C|ro 25 lis  23:03:58
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    11:57 25.11.2026
+OL,3,AInformacje z godz.:    16:47 25.11.2026
 OL,4,D]                   GObligacje skarbowe
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FOK0129      90,8200  A-0,08        F70 
+OL,6,FOK0129      90,7000  A-0,21       F362 
 OL,7,CPS0130                                 
 OL,8,FPS0131                                 
 OL,9,CPS0527                                 
-OL,10,FPS0728                                 
-OL,11,CPS0729      99,6900   B0,09         C3 
-OL,12,FPS0730      98,0000   B0,47         F5 
-OL,13,CPS0731                                 
-OL,14,FPS1031                                 
+OL,10,FPS0728      105,150  A-0,05       F147 
+OL,11,CPS0729      99,9000   B0,30       C153 
+OL,12,FPS0730      97,5000  A-0,04         F8 
+OL,13,CPS0731      94,2000   B0,21       C316 
+OL,14,FPS1031      97,2000   B0,32        F10 
 OL,15,CWS0428                                 
-OL,16,FWS0429                                 
-OL,17,CWS0437      90,9500  A-0,02        C21 
-OL,18,FWS0447                                 
-OL,19,CWZ0330      97,7500  A-0,01         C2 
-OL,20,FWZ0528      99,7000  A-0,10       F120 
+OL,16,FWS0429      102,100  A-0,29        F50 
+OL,17,CWS0437      90,5500  A-0,46       C114 
+OL,18,FWS0447      74,5800  A-0,08         F0 
+OL,19,CWZ0330      97,7000  A-0,06         C2 
+OL,20,FWZ0528      100,000   B0,20       F120 
 OL,21,CWZ0533                                 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
@@ -107,17 +107,17 @@ SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:12
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:06
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    11:57 25.11.2026
+OL,3,AInformacje z godz.:    16:47 25.11.2026
 OL,4,D]                   GObligacje skarbowe
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FWZ0930      97,0500   B0,05         F5 
-OL,7,CWZ1127      100,200   D0,00         C6 
-OL,8,FWZ1128      99,1900  A-0,05        F60 
-OL,9,CWZ1129      98,2900  A-0,21         C3 
-OL,10,FWZ1131      97,2000   B0,22         F1 
+OL,6,FWZ0930      96,9900  A-0,01        F24 
+OL,7,CWZ1127      100,200   D0,00        C87 
+OL,8,FWZ1128      98,9500  A-0,29       F244 
+OL,9,CWZ1129      98,2900  A-0,21        C15 
+OL,10,FWZ1131      96,9800  A-0,01        F11 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70306
@@ -125,28 +125,28 @@ SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:12
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:06
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:00 25.11.2026
+OL,3,AInformacje z godz.:    16:59 25.11.2026
 OL,4,D]               GObligacje korporacyjne
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FBS10327                                
 OL,7,CBS10829                                
-OL,8,FBST0232                                
+OL,8,FBST0232     99,3000   D0,00       F330 
 OL,9,CBST0327                                
 OL,10,FBST0331     99,9000  A-0,19        F30 
-OL,11,CBST0630     101,190   D0,00         C1 
+OL,11,CBST0630     100,720  A-0,46         C5 
 OL,12,FBST0829     102,570   B0,36         F3 
-OL,13,CBST0831                                
-OL,14,FBST0930     100,910  A-0,09         F5 
-OL,15,CBST1029     100,840   B0,03         C1 
-OL,16,FBST1131     99,1000  A-0,25       F177 
-OL,17,CBST1226                                
+OL,13,CBST0831     99,3000  A-0,64         C2 
+OL,14,FBST0930     100,760  A-0,24         F7 
+OL,15,CBST1029     100,840   B0,03         C5 
+OL,16,FBST1131     99,3000  A-0,05       F200 
+OL,17,CBST1226     100,000  A-0,26        C20 
 OL,18,FCAV0127                                
-OL,19,CCAV0327                                
-OL,20,FCAV0329     100,800  A-0,58         F1 
-OL,21,CCAV0530                                
+OL,19,CCAV0327     100,300   B0,05         C0 
+OL,20,FCAV0329     100,610  A-0,77         F2 
+OL,21,CCAV0530     100,150   B0,15         C0 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70307
@@ -154,28 +154,28 @@ SC,0007
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:13
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:06
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:00 25.11.2026
+OL,3,AInformacje z godz.:    16:59 25.11.2026
 OL,4,D]               GObligacje korporacyjne
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FCAV0627     100,550  A-0,04         F0 
-OL,7,CCAV0729                                
+OL,7,CCAV0729     101,050   D0,00         C0 
 OL,8,FCAV0730                                
-OL,9,CCAV0928     100,710  A-0,43        C25 
-OL,10,FCAV0929                                
-OL,11,CCAV1128     100,850   B0,23        C30 
-OL,12,FCAV1227     100,700  A-0,01        F14 
+OL,9,CCAV0928     100,800  A-0,34        C56 
+OL,10,FCAV0929     103,590   B0,38         F5 
+OL,11,CCAV1128     100,850   B0,23        C40 
+OL,12,FCAV1227     100,000  A-0,70        F34 
 OL,13,CCAV1229                                
-OL,14,FECH0128     101,000   B1,00        F28 
-OL,15,CECH0428     101,190  A-0,01        C63 
-OL,16,FECH0627     100,100  A-0,40        F10 
+OL,14,FECH0128     100,450   B0,45        F29 
+OL,15,CECH0428     101,200   D0,00       C165 
+OL,16,FECH0627     100,790   B0,29        F15 
 OL,17,CECH1127                                
 OL,18,FGHE0128                                
 OL,19,CGHE1027     71,5000   B0,01         C9 
-OL,20,FKR10228                                
-OL,21,CKR10627                                
+OL,20,FKR10228     101,810  A-0,61         F5 
+OL,21,CKR10627     100,840   B0,27         C1 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70308
@@ -183,28 +183,28 @@ SC,0008
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:13
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:07
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:00 25.11.2026
+OL,3,AInformacje z godz.:    16:59 25.11.2026
 OL,4,D]               GObligacje korporacyjne
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FKR11029     101,600  A-0,20        F49 
-OL,7,CKR20229     102,980  A-0,10       C766 
-OL,8,FKRU0227     100,260   B0,15         F0 
-OL,9,CKRU0229                                
+OL,7,CKR20229     102,390  A-0,67       C768 
+OL,8,FKRU0227     100,260   B0,15        F33 
+OL,9,CKRU0229     102,510   D0,00         C6 
 OL,10,FKRU0231     101,000  A-0,36        F11 
 OL,11,CKRU0628     103,000   B0,05        C15 
 OL,12,FKRU0731                                
-OL,13,CKRU0827     100,490   D0,00        C22 
+OL,13,CKRU0827     100,280  A-0,21        C36 
 OL,14,FKRU0828     102,450   B0,15         F3 
-OL,15,CKRU1028     102,370   B0,03        C65 
+OL,15,CKRU1028     102,310  A-0,03        C84 
 OL,16,FKRU1127                                
-OL,17,CKRU1130                                
+OL,17,CKRU1130     101,980   B0,08         C1 
 OL,18,FKRU1226     100,020   D0,00         F5 
-OL,19,CKRU1228                                
+OL,19,CKRU1228     101,610   B0,01        C18 
 OL,20,FMBH0627                                
-OL,21,CMBH0629                                
+OL,21,CMBH0629     96,7000  A-0,98         C4 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70309
@@ -212,26 +212,26 @@ SC,0009
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:13
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:07
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:00 25.11.2026
+OL,3,AInformacje z godz.:    16:59 25.11.2026
 OL,4,D]               GObligacje korporacyjne
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FMVP0130     99,4000  A-0,07         F0 
+OL,6,FMVP0130     99,4900   B0,02         F1 
 OL,7,CMVP0528     100,980   D0,00         C3 
 OL,8,FMVP1029     100,120   D0,00         F1 
 OL,9,CMVP1228                                
-OL,10,FPCR0527                                
+OL,10,FPCR0527     100,000   D0,00         F0 
 OL,11,CPHP0430                                
-OL,12,FPHP0930                                
-OL,13,CPHP1128     97,4300  A-0,27         C3 
+OL,12,FPHP0930     100,000   B1,01         F0 
+OL,13,CPHP1128     97,5400  A-0,15         C4 
 OL,14,FPRF0228                                
 OL,15,CPRF0429     100,380   D0,00         C3 
 OL,16,FPRF0627                                
-OL,17,CPRF0628     100,320   D0,00        C29 
-OL,18,FPRF0727                                
-OL,19,CPRF0729     99,9700   B0,37         C7 
+OL,17,CPRF0628     100,320   D0,00        C40 
+OL,18,FPRF0727     100,220  A-0,20        F10 
+OL,19,CPRF0729     99,9800   B0,38        C38 
 OL,20,FPRF0927     100,010  A-0,19         F5 
 OL,21,CPRF1028                                
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
@@ -241,13 +241,13 @@ SC,0010
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:13
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:14
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:00 25.11.2026
+OL,3,AInformacje z godz.:    16:59 25.11.2026
 OL,4,D]               GObligacje korporacyjne
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FPRF1228     100,190   D0,00         F0 
+OL,6,FPRF1228     100,370   B0,18        F10 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70311
@@ -255,10 +255,10 @@ SC,0011
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:13
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:14
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    11:58 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]       GKontrakty terminowe na indeksy
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFBASH25                                
@@ -284,10 +284,10 @@ SC,0012
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:13
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:14
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    11:58 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]       GKontrakty terminowe na indeksy
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFGMSM25                                
@@ -296,16 +296,16 @@ OL,8,FFGMSU26
 OL,9,CFGMSZ26                                
 OL,10,FFW20H2520                              
 OL,11,CFW20H2620                              
-OL,12,FFW20H2720   4078,00  A-1,09    F47.105 
-OL,13,CFW20KONT    4035,00  A-1,08 C1.862.368 
+OL,12,FFW20H2720   4043,00  A-1,94    F90.381 
+OL,13,CFW20KONT    4000,00  A-1,94 C3.368.099 
 OL,14,FFW20M2520                              
 OL,15,CFW20M2620                              
-OL,16,FFW20M2720   4049,00  A-1,03     F3.911 
+OL,16,FFW20M2720   4004,00  A-2,13     F9.547 
 OL,17,CFW20U2520                              
 OL,18,FFW20U2620                              
-OL,19,CFW20U2720   4036,00  A-1,08     C3.734 
+OL,19,CFW20U2720   4001,00  A-1,94    C11.744 
 OL,20,FFW20Z2520                              
-OL,21,CFW20Z2620   4035,00  A-1,08 C1.862.368 
+OL,21,CFW20Z2620   4000,00  A-1,94 C3.368.099 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70313
@@ -313,22 +313,22 @@ SC,0013
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:13
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:22
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    11:58 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]       GKontrakty terminowe na indeksy
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFW40H25                                
 OL,7,CFW40H26                                
-OL,8,FFW40H27     10409,0   B0,45       F832 
+OL,8,FFW40H27     10310,0  A-0,50     F4.128 
 OL,9,CFW40M25                                
 OL,10,FFW40M26                                
 OL,11,CFW40M27                                
 OL,12,FFW40U25                                
 OL,13,CFW40U26                                
 OL,14,FFW40Z25                                
-OL,15,CFW40Z26     10278,0  A-0,12     C8.228 
+OL,15,CFW40Z26     10217,0  A-0,71    C18.330 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70314
@@ -336,10 +336,10 @@ SC,0014
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:13
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:22
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    11:58 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FF11BH25                                
@@ -365,26 +365,26 @@ SC,0015
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:13
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:30
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    11:58 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFACPU25                                
 OL,7,CFACPU26                                
 OL,8,FFACPZ25                                
-OL,9,CFACPZ26     212,000  A-0,24        C21 
+OL,9,CFACPZ26     211,170  A-0,63       C190 
 OL,10,FFALEH25                                
 OL,11,CFALEH26                                
-OL,12,FFALEH27     65,5500  A-2,56        F20 
+OL,12,FFALEH27     66,4700  A-1,19       F157 
 OL,13,CFALEM25                                
 OL,14,FFALEM26                                
 OL,15,CFALEM27                                
 OL,16,FFALEU25                                
 OL,17,CFALEU26                                
 OL,18,FFALEZ25                                
-OL,19,CFALEZ26     65,1000  A-2,49     C1.003 
+OL,19,CFALEZ26     65,2300  A-2,29     C2.470 
 OL,20,FFALRH25                                
 OL,21,CFALRH26                                
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
@@ -394,10 +394,10 @@ SC,0016
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:14
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:30
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    11:58 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFALRH27                                
@@ -407,7 +407,7 @@ OL,9,CFALRM27
 OL,10,FFALRU25                                
 OL,11,CFALRU26                                
 OL,12,FFALRZ25                                
-OL,13,CFALRZ26     138,680   B0,51       C234 
+OL,13,CFALRZ26     136,000  A-1,43       C275 
 OL,14,FFAPRH25                                
 OL,15,CFAPRH26                                
 OL,16,FFAPRH27                                
@@ -423,13 +423,13 @@ SC,0017
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:14
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:31
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    11:58 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FFAPRZ26     27,0900   B0,41        F30 
+OL,6,FFAPRZ26     26,9500  A-0,11       F290 
 OL,7,CFASBH25                                
 OL,8,FFASBH26                                
 OL,9,CFASBH27                                
@@ -439,10 +439,10 @@ OL,12,FFASBM27
 OL,13,CFASBU25                                
 OL,14,FFASBU26                                
 OL,15,CFASBZ25                                
-OL,16,FFASBZ26     148,000  A-1,99       F570 
+OL,16,FFASBZ26     137,900  A-8,68     F3.414 
 OL,17,CFATTH25                                
 OL,18,FFATTH26                                
-OL,19,CFATTH27                                
+OL,19,CFATTH27     13,3900   B0,37         C7 
 OL,20,FFATTM25                                
 OL,21,CFATTM26                                
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
@@ -452,27 +452,27 @@ SC,0018
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:14
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:37
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFATTM27                                
 OL,7,CFATTU25                                
 OL,8,FFATTU26                                
 OL,9,CFATTZ25                                
-OL,10,FFATTZ26     13,2190  A-0,53        F61 
+OL,10,FFATTZ26     13,2000  A-0,68       F227 
 OL,11,CFBDXH25                                
 OL,12,FFBDXH26                                
-OL,13,CFBDXH27     752,000   B1,83        C60 
+OL,13,CFBDXH27     745,000   B0,88        C68 
 OL,14,FFBDXM25                                
 OL,15,CFBDXM26                                
 OL,16,FFBDXM27                                
 OL,17,CFBDXU25                                
 OL,18,FFBDXU26                                
 OL,19,CFBDXZ25                                
-OL,20,FFBDXZ26     745,680   B0,19        F45 
+OL,20,FFBDXZ26     744,000  A-0,04       F141 
 OL,21,CFCARH25                                
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
@@ -481,10 +481,10 @@ SC,0019
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:14
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:37
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFCARH26                                
@@ -494,14 +494,14 @@ OL,9,CFCARM26
 OL,10,FFCARU25                                
 OL,11,CFCARU26                                
 OL,12,FFCARZ25                                
-OL,13,CFCARZ26     1048,00   B2,62       C263 
+OL,13,CFCARZ26     1040,00   B1,83       C283 
 OL,14,FFCCCH25                                
 OL,15,CFCCCM25                                
 OL,16,FFCCCU25                                
 OL,17,CFCCCZ25                                
 OL,18,FFCDRH25                                
 OL,19,CFCDRH26                                
-OL,20,FFCDRH27     275,000  A-0,49        F55 
+OL,20,FFCDRH27     275,490  A-0,31       F110 
 OL,21,CFCDRM25                                
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
@@ -510,10 +510,10 @@ SC,0020
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:14
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:37
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFCDRM26                                
@@ -521,7 +521,7 @@ OL,7,CFCDRM27     277,560   B1,09       C139
 OL,8,FFCDRU25                                
 OL,9,CFCDRU26                                
 OL,10,FFCDRZ25                                
-OL,11,CFCDRZ26     272,000  A-0,37     C3.385 
+OL,11,CFCDRZ26     272,300  A-0,26     C7.900 
 OL,12,FFCPSH25                                
 OL,13,CFCPSH26                                
 OL,14,FFCPSH27     13,2200   B1,30        F13 
@@ -531,7 +531,7 @@ OL,17,CFCPSM27
 OL,18,FFCPSU25                                
 OL,19,CFCPSU26                                
 OL,20,FFCPSZ25                                
-OL,21,CFCPSZ26     12,8960   B0,74       C205 
+OL,21,CFCPSZ26     12,8810   B0,62       C498 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70321
@@ -539,10 +539,10 @@ SC,0021
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:14
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:39
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFDIAH26                                
@@ -552,7 +552,7 @@ OL,9,CFDIAM27
 OL,10,FFDIAU25                                
 OL,11,CFDIAU26                                
 OL,12,FFDIAZ25                                
-OL,13,CFDIAZ26     152,000   B0,33        C15 
+OL,13,CFDIAZ26     152,200   B0,46        C46 
 OL,14,FFDNPH25                                
 OL,15,CFDNPH26                                
 OL,16,FFDNPH27                                
@@ -568,14 +568,14 @@ SC,0022
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:14
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:46
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFDNPZ25                                
-OL,7,CFDNPZ26     37,4400   B1,52       C852 
+OL,7,CFDNPZ26     37,0000   B0,33     C1.429 
 OL,8,FFDOMH25                                
 OL,9,CFDOMH26                                
 OL,10,FFDOMH27                                
@@ -597,10 +597,10 @@ SC,0023
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:14
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:46
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFEATU25                                
@@ -611,7 +611,7 @@ OL,10,FFEBPH27
 OL,11,CFEBPM26                                
 OL,12,FFEBPM27                                
 OL,13,CFEBPU26                                
-OL,14,FFEBPZ26     790,800   B0,74        F40 
+OL,14,FFEBPZ26     770,000  A-1,91       F156 
 OL,15,CFENAH25                                
 OL,16,FFENAH26                                
 OL,17,CFENAH27                                
@@ -626,24 +626,24 @@ SC,0024
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:14
+OL,0,      BPOLONIA  703C|ro 25 lis  23:03:49
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFENAZ25                                
-OL,7,CFENAZ26     20,5490   B1,13       C142 
+OL,7,CFENAZ26     19,9440  A-1,85       C262 
 OL,8,FFEUHH25                                
 OL,9,CFEUHH26                                
-OL,10,FFEUHH27                                
+OL,10,FFEUHH27      4,6591  A-1,29        F14 
 OL,11,CFEUHM25                                
 OL,12,FFEUHM26                                
 OL,13,CFEUHM27                                
 OL,14,FFEUHU25                                
 OL,15,CFEUHU26                                
 OL,16,FFEUHZ25                                
-OL,17,CFEUHZ26      4,6800  A-0,43        C14 
+OL,17,CFEUHZ26      4,6724  A-0,59        C23 
 OL,18,FFGPWH25                                
 OL,19,CFGPWH26                                
 OL,20,FFGPWH27                                
@@ -655,10 +655,10 @@ SC,0025
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:14
+OL,0,      BPOLONIA  703C|ro 25 lis  23:03:53
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFGPWM26                                
@@ -666,7 +666,7 @@ OL,7,CFGPWM27
 OL,8,FFGPWU25                                
 OL,9,CFGPWU26                                
 OL,10,FFGPWZ25                                
-OL,11,CFGPWZ26     97,0400  A-0,78        C10 
+OL,11,CFGPWZ26     95,6000  A-2,25        C77 
 OL,12,FFINGH25                                
 OL,13,CFINGH26                                
 OL,14,FFINGH27                                
@@ -676,7 +676,7 @@ OL,17,CFINGM27
 OL,18,FFINGU25                                
 OL,19,CFINGU26                                
 OL,20,FFINGZ25                                
-OL,21,CFINGZ26                                
+OL,21,CFINGZ26     448,400  A-1,65        C45 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70326
@@ -684,25 +684,25 @@ SC,0026
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:14
+OL,0,      BPOLONIA  703C|ro 25 lis  23:03:57
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFJSWH25                                
 OL,7,CFJSWH26                                
-OL,8,FFJSWH27     24,7280   B5,09        F41 
+OL,8,FFJSWH27     24,7700   B5,27        F56 
 OL,9,CFJSWM25                                
 OL,10,FFJSWM26                                
 OL,11,CFJSWM27                                
 OL,12,FFJSWU25                                
 OL,13,CFJSWU26                                
 OL,14,FFJSWZ25                                
-OL,15,CFJSWZ26     24,0000   B4,78       C952 
+OL,15,CFJSWZ26     24,1000   B5,22     C1.398 
 OL,16,FFKGHH25                                
 OL,17,CFKGHH26                                
-OL,18,FFKGHH27     235,000  A-1,96       F492 
+OL,18,FFKGHH27     229,000  A-4,46     F1.752 
 OL,19,CFKGHM25                                
 OL,20,FFKGHM26                                
 OL,21,CFKGHM27                                
@@ -713,16 +713,16 @@ SC,0027
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:15
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:06
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFKGHU25                                
 OL,7,CFKGHU26                                
 OL,8,FFKGHZ25                                
-OL,9,CFKGHZ26     232,400  A-1,18    C16.878 
+OL,9,CFKGHZ26     226,850  A-3,54    C40.551 
 OL,10,FFKRUH25                                
 OL,11,CFKRUH26                                
 OL,12,FFKRUH27                                
@@ -732,7 +732,7 @@ OL,15,CFKRUM27
 OL,16,FFKRUU25                                
 OL,17,CFKRUU26                                
 OL,18,FFKRUZ25                                
-OL,19,CFKRUZ26     314,500   B0,04        C41 
+OL,19,CFKRUZ26     311,210  A-1,01        C57 
 OL,20,FFKTYH25                                
 OL,21,CFKTYH26                                
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
@@ -742,10 +742,10 @@ SC,0028
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:15
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:10
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFKTYH27     1235,00  A-2,29        F25 
@@ -755,7 +755,7 @@ OL,9,CFKTYM27
 OL,10,FFKTYU25                                
 OL,11,CFKTYU26                                
 OL,12,FFKTYZ25                                
-OL,13,CFKTYZ26     1220,00   B0,49        C85 
+OL,13,CFKTYZ26     1221,99   B0,66       C316 
 OL,14,FFLPPH25                                
 OL,15,CFLPPH26                                
 OL,16,FFLPPH27                                
@@ -771,24 +771,24 @@ SC,0029
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:15
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:06
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFLPPZ25                                
-OL,7,CFLPPZ26     27640,0   B0,97       C310 
+OL,7,CFLPPZ26     27560,0   B0,68       C395 
 OL,8,FFLWBH25                                
 OL,9,CFLWBH26                                
-OL,10,FFLWBH27                                
+OL,10,FFLWBH27     24,0000  A-2,04         F2 
 OL,11,CFLWBM25                                
 OL,12,FFLWBM26                                
 OL,13,CFLWBM27                                
 OL,14,FFLWBU25                                
 OL,15,CFLWBU26                                
 OL,16,FFLWBZ25                                
-OL,17,CFLWBZ26     23,5510  A-3,87        C23 
+OL,17,CFLWBZ26     23,6100  A-3,63        C33 
 OL,18,FFMABH25                                
 OL,19,CFMABH26                                
 OL,20,FFMABH27                                
@@ -800,10 +800,10 @@ SC,0030
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:15
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:07
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFMABM26                                
@@ -820,7 +820,7 @@ OL,16,FFMBKM27
 OL,17,CFMBKU25                                
 OL,18,FFMBKU26                                
 OL,19,CFMBKZ25                                
-OL,20,FFMBKZ26     1632,89   B0,73       F146 
+OL,20,FFMBKZ26     1586,50  A-2,13       F624 
 OL,21,CFMDVH26                                
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
@@ -829,17 +829,17 @@ SC,0031
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:15
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:07
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FFMDVH27     121,000   B1,68       F184 
+OL,6,FFMDVH27     120,000   B0,84       F220 
 OL,7,CFMDVM26                                
 OL,8,FFMDVM27                                
 OL,9,CFMDVU26                                
-OL,10,FFMDVZ26     119,410   B2,59     F1.918 
+OL,10,FFMDVZ26     119,450   B2,63     F3.045 
 OL,11,CFMILH25                                
 OL,12,FFMILH26                                
 OL,13,CFMILH27                                
@@ -849,7 +849,7 @@ OL,16,FFMILM27
 OL,17,CFMILU25                                
 OL,18,FFMILU26                                
 OL,19,CFMILZ25                                
-OL,20,FFMILZ26     22,1200   B1,94       F488 
+OL,20,FFMILZ26     21,7900   B0,41       F532 
 OL,21,CFOPLH25                                
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
@@ -858,10 +858,10 @@ SC,0032
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:15
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:07
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFOPLH26                                
@@ -872,7 +872,7 @@ OL,10,FFOPLM27
 OL,11,CFOPLU25                                
 OL,12,FFOPLU26                                
 OL,13,CFOPLZ25                                
-OL,14,FFOPLZ26     16,8000   B0,30       F150 
+OL,14,FFOPLZ26     16,7200  A-0,18       F736 
 OL,15,CFPCOH25                                
 OL,16,FFPCOH26                                
 OL,17,CFPCOH27                                
@@ -887,25 +887,25 @@ SC,0033
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:15
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:16
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFPCOU26                                
 OL,7,CFPCOZ25                                
-OL,8,FFPCOZ26     51,3000   B1,60       F310 
+OL,8,FFPCOZ26     49,8000  A-1,37       F607 
 OL,9,CFPEOH25                                
 OL,10,FFPEOH26                                
-OL,11,CFPEOH27                                
+OL,11,CFPEOH27     251,380  A-0,64        C25 
 OL,12,FFPEOM25                                
 OL,13,CFPEOM26                                
 OL,14,FFPEOM27                                
 OL,15,CFPEOU25                                
 OL,16,FFPEOU26                                
 OL,17,CFPEOZ25                                
-OL,18,FFPEOZ26     250,400  A-1,22       F606 
+OL,18,FFPEOZ26     246,070  A-2,93     F1.349 
 OL,19,CFPGEH25                                
 OL,20,FFPGEH26                                
 OL,21,CFPGEH27                                
@@ -916,10 +916,10 @@ SC,0034
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:15
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:15
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFPGEM25                                
@@ -928,13 +928,13 @@ OL,8,FFPGEM27
 OL,9,CFPGEU25                                
 OL,10,FFPGEU26                                
 OL,11,CFPGEZ25                                
-OL,12,FFPGEZ26     15,4500   B2,59     F1.545 
+OL,12,FFPGEZ26     15,1100   B0,33     F2.216 
 OL,13,CFPKNH25                                
 OL,14,FFPKNH26                                
-OL,15,CFPKNH27     118,760  A-3,18        C72 
+OL,15,CFPKNH27     118,900  A-3,07       C248 
 OL,16,FFPKNM25                                
 OL,17,CFPKNM26                                
-OL,18,FFPKNM27                                
+OL,18,FFPKNM27     115,000  A-4,88        F46 
 OL,19,CFPKNU25                                
 OL,20,FFPKNU26                                
 OL,21,CFPKNZ25                                
@@ -945,26 +945,26 @@ SC,0035
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:15
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:15
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FFPKNZ26     118,210  A-2,62     F2.869 
+OL,6,FFPKNZ26     117,480  A-3,22     F7.313 
 OL,7,CFPKOH25                                
 OL,8,FFPKOH26                                
-OL,9,CFPKOH27     112,800  A-0,92        C23 
+OL,9,CFPKOH27     110,110  A-3,29       C166 
 OL,10,FFPKOM25                                
 OL,11,CFPKOM26                                
 OL,12,FFPKOM27                                
 OL,13,CFPKOU25                                
 OL,14,FFPKOU26                                
 OL,15,CFPKOZ25                                
-OL,16,FFPKOZ26     110,290  A-2,18     F2.777 
+OL,16,FFPKOZ26     109,450  A-2,93     F5.356 
 OL,17,CFPKPH25                                
 OL,18,FFPKPH26                                
-OL,19,CFPKPH27      8,9750  A-0,54         C1 
+OL,19,CFPKPH27      8,8220  A-2,24         C2 
 OL,20,FFPKPM25                                
 OL,21,CFPKPM26                                
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
@@ -974,10 +974,10 @@ SC,0036
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:15
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:16
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFPKPU25                                
@@ -995,7 +995,7 @@ OL,17,CFPXMZ25
 OL,18,FFPXMZ26      6,1550   B0,08        F25 
 OL,19,CFPZUH25                                
 OL,20,FFPZUH26                                
-OL,21,CFPZUH27     68,8000  A-2,25       C118 
+OL,21,CFPZUH27     68,6000  A-2,53       C193 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
 PN,70337
@@ -1003,19 +1003,19 @@ SC,0037
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:16
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:26
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFPZUM25                                
 OL,7,CFPZUM26                                
-OL,8,FFPZUM27     68,7100  A-2,79        F14 
+OL,8,FFPZUM27     68,5000  A-3,08        F28 
 OL,9,CFPZUU25                                
 OL,10,FFPZUU26                                
 OL,11,CFPZUZ25                                
-OL,12,FFPZUZ26     68,0800  A-2,13       F845 
+OL,12,FFPZUZ26     67,7600  A-2,59     F2.036 
 OL,13,CFSPLH25                                
 OL,14,FFSPLH26                                
 OL,15,CFSPLM25                                
@@ -1032,10 +1032,10 @@ SC,0038
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:16
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:25
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFSVEZ26                                
@@ -1048,10 +1048,10 @@ OL,12,FFTENM27
 OL,13,CFTENU25                                
 OL,14,FFTENU26                                
 OL,15,CFTENZ25                                
-OL,16,FFTENZ26                                
+OL,16,FFTENZ26     84,9500  A-1,67        F27 
 OL,17,CFTPEH25                                
 OL,18,FFTPEH26                                
-OL,19,CFTPEH27                                
+OL,19,CFTPEH27      8,9000  A-4,30         C9 
 OL,20,FFTPEM25                                
 OL,21,CFTPEM26                                
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
@@ -1061,27 +1061,27 @@ SC,0039
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:16
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:25
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFTPEM27                                
 OL,7,CFTPEU25                                
 OL,8,FFTPEU26                                
 OL,9,CFTPEZ25                                
-OL,10,FFTPEZ26      8,8700   B1,37       F275 
+OL,10,FFTPEZ26      8,7770   B0,31       F634 
 OL,11,CFXTBH25                                
 OL,12,FFXTBH26                                
-OL,13,CFXTBH27     108,000  A-1,82        C33 
+OL,13,CFXTBH27     109,200  A-0,73        C43 
 OL,14,FFXTBM25                                
 OL,15,CFXTBM26                                
 OL,16,FFXTBM27                                
 OL,17,CFXTBU25                                
 OL,18,FFXTBU26                                
 OL,19,CFXTBZ25                                
-OL,20,FFXTBZ26     107,300   B0,30       F588 
+OL,20,FFXTBZ26     107,010   B0,03     F1.008 
 OL,21,CFZABH25                                
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100
@@ -1090,10 +1090,10 @@ SC,0040
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:16
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:32
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:14 25.11.2026
+OL,3,AInformacje z godz.:    17:04 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFZABH26                                
@@ -1112,10 +1112,10 @@ SC,0041
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:16
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:26
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:11 25.11.2026
+OL,3,AInformacje z godz.:    17:02 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFCHFF25                                
@@ -1124,14 +1124,14 @@ OL,8,FFCHFG25
 OL,9,CFCHFG26                                
 OL,10,FFCHFH25                                
 OL,11,CFCHFH26                                
-OL,12,FFCHFH27      4,9862   B1,21     F1.915 
+OL,12,FFCHFH27      4,9975   B1,44     F3.065 
 OL,13,CFCHFJ25                                
 OL,14,FFCHFJ26                                
 OL,15,CFCHFK25                                
 OL,16,FFCHFK26                                
 OL,17,CFCHFM25                                
 OL,18,FFCHFM26                                
-OL,19,CFCHFM27      5,0377   B1,23     C1.747 
+OL,19,CFCHFM27      5,0339   B1,15     C4.374 
 OL,20,FFCHFN25                                
 OL,21,CFCHFN26                                
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
@@ -1141,21 +1141,21 @@ SC,0042
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:16
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:26
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:11 25.11.2026
+OL,3,AInformacje z godz.:    17:02 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFCHFQ25                                
 OL,7,CFCHFU25                                
 OL,8,FFCHFU26                                
-OL,9,CFCHFU27      5,0885   B1,23     C1.114 
+OL,9,CFCHFU27      5,0888   B1,24     C2.565 
 OL,10,FFCHFV25                                
 OL,11,CFCHFV26                                
 OL,12,FFCHFX25                                
 OL,13,CFCHFZ25                                
-OL,14,FFCHFZ26      4,9365   B1,25       F669 
+OL,14,FFCHFZ26      4,9333   B1,18     F1.074 
 OL,15,CFEURF25                                
 OL,16,FFEURF26                                
 OL,17,CFEURF27                                
@@ -1170,20 +1170,20 @@ SC,0043
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:16
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:32
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:11 25.11.2026
+OL,3,AInformacje z godz.:    17:02 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FFEURH27      4,4960   B0,45       F305 
+OL,6,FFEURH27      4,4951   B0,43       F355 
 OL,7,CFEURJ25                                
 OL,8,FFEURJ26                                
 OL,9,CFEURK25                                
 OL,10,FFEURK26                                
 OL,11,CFEURM25                                
 OL,12,FFEURM26                                
-OL,13,CFEURM27      4,5070   B0,40         C5 
+OL,13,CFEURM27      4,5081   B0,42        C14 
 OL,14,FFEURN25                                
 OL,15,CFEURN26                                
 OL,16,FFEURQ25                                
@@ -1199,16 +1199,16 @@ SC,0044
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:16
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:41
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:11 25.11.2026
+OL,3,AInformacje z godz.:    17:02 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFEURV26                                
 OL,7,CFEURX25                                
 OL,8,FFEURZ25                                
-OL,9,CFEURZ26      4,4846   B0,47     C1.214 
+OL,9,CFEURZ26      4,4796   B0,36     C1.398 
 OL,10,FFGBPF25                                
 OL,11,CFGBPG25                                
 OL,12,FFGBPG26                                
@@ -1228,10 +1228,10 @@ SC,0045
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:16
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:11 25.11.2026
+OL,3,AInformacje z godz.:    17:02 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFGBPM27                                
@@ -1241,12 +1241,12 @@ OL,9,CFGBPQ25
 OL,10,FFGBPQ26                                
 OL,11,CFGBPU25                                
 OL,12,FFGBPU26                                
-OL,13,CFGBPU27                                
+OL,13,CFGBPU27      5,3276   B0,32         C5 
 OL,14,FFGBPV25                                
 OL,15,CFGBPV26                                
 OL,16,FFGBPX25                                
 OL,17,CFGBPZ25                                
-OL,18,FFGBPZ26      5,3381   B0,16         F5 
+OL,18,FFGBPZ26      5,3464   B0,31        F59 
 OL,19,CFUSDF25                                
 OL,20,FFUSDF26                                
 OL,21,CFUSDF27                                
@@ -1257,17 +1257,17 @@ SC,0046
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:16
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:42
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:11 25.11.2026
+OL,3,AInformacje z godz.:    17:02 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFUSDG25                                
 OL,7,CFUSDG26                                
 OL,8,FFUSDH25                                
 OL,9,CFUSDH26                                
-OL,10,FFUSDH27      4,0932   B0,84     F1.274 
+OL,10,FFUSDH27      4,0869   B0,68     F1.519 
 OL,11,CFUSDJ25                                
 OL,12,FFUSDJ26                                
 OL,13,CFUSDK25                                
@@ -1286,10 +1286,10 @@ SC,0047
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  703C|ro 25 lis  12:49:16
+OL,0,      BPOLONIA  703C|ro 25 lis  23:04:46
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    12:11 25.11.2026
+OL,3,AInformacje z godz.:    17:02 25.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFUSDU25                                
@@ -1300,6 +1300,6 @@ OL,10,FFUSDV26
 OL,11,CFUSDX25                                
 OL,12,FFUSDX26                                
 OL,13,CFUSDZ25                                
-OL,14,FFUSDZ26      4,0943   B0,73    F14.189 
+OL,14,FFUSDZ26      4,0903   B0,63    F36.522 
 OL,22,A]   MGMiejsce na Twoj@ reklam`!!!      
 FL,702,704,100,100,0,100

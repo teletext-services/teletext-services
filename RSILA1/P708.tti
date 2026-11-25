@@ -3,17 +3,25 @@ PN,70800
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G708  RSI LA 1  24.11.26 13:14:30
-OL,1,A]GRSI   ]@LA1    MERCOLEDI 25 novembre 
+OL,0,       G708  RSI LA 1  25.11.26 19:00:46
+OL,1,A]GRSI   ]@LA1      GIOVEDI 26 novembre 
 OL,2,G                                       
-OL,3, G21:30  G9-1-1CSTCI/IIC1TV             
-OL,4,         GFai da te                     
-OL,5, F22:20  FTG Notte                      
-OL,6, G22:45  GMeteoCST                      
-OL,7, F22:50  FLotto Svizzero                
-OL,8, G23:00  GLa fidanzata di   CSTCI/IIC714
-OL,9,         Gpap{                          
-OL,10, F00:35  FSiamo fuoriCSTCR              
-OL,11, G01:35  GRepliche informazione         
+OL,3, G20:00  GTelegiornaleCST               
+OL,4, F20:35  FMeteoCST                      
+OL,5, G20:40  GConclaveCSTCI/IIC1TV......C715
+OL,6, F22:45  FTG Notte                      
+OL,7, G23:10  GMeteoCST                      
+OL,8, F23:20  FPoniesCSTCI/IIC1TV........C711
+OL,9,         FCambia il ritmo               
+OL,10, G00:10  GPoniesCSTCI/IIC1TV            
+OL,11,         GOperazioni notturne           
+OL,12, F01:00  FSiamo fuoriCST                
+OL,13, G02:00  GTG Notte                      
+OL,14, F02:20  FMeteoCST                      
+OL,15, G02:25  GPrima OraCST                  
+OL,16, F03:15  FIl QuotidianoCST              
+OL,17, G03:45  GTelegiornaleCST               
+OL,18, F04:15  FTG Notte                      
+OL,19, G04:35  GMeteoCST                      
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

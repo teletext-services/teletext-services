@@ -1,78 +1,18 @@
 DE,TEKSTI-TV 301
-PN,30101
-SC,0001
-PS,C100
+PN,30100
+SC,0000
+PS,8108
 CT,15,T
-OL,0,       G301 YLE TEKSTI-TV 25.03.11:47:47
-OL,1,A]         C]                   A   1/3 
+OL,0,       G301 YLE TEKSTI-TV 25.03.21:46:43
+OL,1,A]         C]                   A   1/1 
 OL,2,A]CTV1     C]A    Keskiviikko 25.11.    
 OL,3,Q#########^S############################
-OL,4, 11.45GYle Uutiset LappiETBA            
-OL,5, 11.50GYle OddasatBA                    
-OL,6, 11.54GOddasatBA                        
-OL,7, 12.05GIt{meren suojelijat Peltsi ja Tom
-OL,8,      ETBAC>351                         
-OL,9, 12.35GMurha kaikilla mausteillaG(12)BA 
-OL,10,      C>351                             
-OL,11, 13.25GMuisti: Stella PolarisETFAC>351  
-OL,12, 13.55GKeskustelu opposition            
-OL,13,      GvaihtoehtobudjeteistaFAC>356     
-OL,14, 16.00GA-studio viittomakielelle        
-OL,15,      GtulkattunaFA                     
-OL,16, 16.35GYle Uutiset selkosuomeksiFA      
-OL,17, 16.40GYle OddasatFA                    
-OL,18, 16.45GNovosti YleFA                    
-OL,19, 16.50GYle Uutiset viittomakielell{FA   
-OL,20, 16.55GYle Uutiset alueeltasi           
-OL,21, 17.00GYle Uutiset 17.00FA              
-OL,22,ET = Tekstitys                          
-OL,23,BA = Jo Areenassa   FA = Tulee Areenaan 
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,30102
-SC,0002
-PS,C100
-CT,15,T
-OL,0,       G301 YLE TEKSTI-TV 25.03.11:47:47
-OL,1,A]         C]                   A   2/3 
-OL,2,A]CTV1     C]A    Keskiviikko 25.11.    
-OL,3,Q#########^S############################
-OL,4, 17.10GRikoksen aakkosetG(12)BAC>351    
-OL,5, 18.00GYle Uutiset 18.00FA              
-OL,6, 18.21GPuoli7 t{n{{nET                  
-OL,7, 18.23GYle Uutiset alueeltasi           
-OL,8, 18.30GPuoli seitsem{nFAC>352           
-OL,9, 19.00GHistoria: Kylm{n sodan titaanit  
-OL,10,      G(12)ETBAC>352                    
-OL,11, 19.50GOuto historia - lyhyetC>352      
-OL,12, 19.54GPieni suuri maailmaBAC>352       
-OL,13, 20.00GKulttuuricocktailFAC>356         
-OL,14, 20.29GYle Uutiset 20.30FA              
-OL,15, 20.55GUrheiluruutuFA                   
-OL,16, 21.05GA-studioFAC>356                  
-OL,17, 21.36GYle Uutiset Uutis-SuomiFA        
-OL,18, 21.45GYle UutisetFA                    
-OL,19, 21.49GUrheiluruutuFA                   
-OL,20, 21.55GPainajainen naapurissaG(12)BA    
-OL,21,      C>352                             
-OL,22, 22.55GOddasatFA                        
-OL,23,C]ATV1 huomennaA310  ylihuomennaA315    
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,30103
-SC,0003
-PS,C100
-CT,15,T
-OL,0,       G301 YLE TEKSTI-TV 25.03.11:47:47
-OL,1,A]         C]                   A   3/3 
-OL,2,A]CTV1     C]A    Keskiviikko 25.11.    
-OL,3,Q#########^S############################
-OL,4, 21.36GYle Uutiset Uutis-SuomiFA        
-OL,5, 21.45GYle UutisetFA                    
-OL,6, 21.49GUrheiluruutuFA                   
+OL,4, 21.36GYle Uutiset Uutis-SuomiETBA      
+OL,5, 21.45GYle UutisetETBA                  
+OL,6, 21.49GUrheiluruutuBA                   
 OL,7, 21.55GPainajainen naapurissaG(12)BA    
 OL,8,      C>352                             
-OL,9, 22.55GOddasatFA                        
+OL,9, 22.55GOddasatBA                        
 OL,10, 23.05GFoxtrot-jengin myyr{G(12)BAC>352 
 OL,11, 00.05GModernit miehetG(7)ETBAC>352     
 OL,12,K                                       
@@ -85,7 +25,7 @@ OL,18,K
 OL,19,K                                       
 OL,20,K                                       
 OL,21,K                                       
-OL,22,K                                       
-OL,23,A]C    TV-ohjelmien hakemisto s.C300    
+OL,22,ET = Tekstitys                          
+OL,23,BA = Jo Areenassa   FA = Tulee Areenaan 
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

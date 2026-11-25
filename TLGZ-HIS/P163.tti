@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 163C|ro 25 lis  12:06:35
+OL,0,      BHISTORIA 163C|ro 25 lis  22:05:55
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FOLSZTYN                         ZV,,,, 
 OL,4, |ro.    B0  C2 Gdu{e  F10N G1004 ZV`pp 
-OL,5, czw.   B-2  C0 Gdu{e   F3NEG1007       
-OL,6, pi@.   B-2  C0 Gdu{e  F10NEG1012       
-OL,7, sob.                                   
+OL,5, czw.   B-3  C0 Gdu{e   F3E G1007 ZW0   
+OL,6, pi@.   B-3  C1 Gumiar F10E G1012       
+OL,7, sob.   B-3 C-1 Gumiar F10E G1022       
 OL,8, nie.                                   
 OL,9,FSZCZYTNO                        ZV,,,, 
 OL,10, |ro.    B0  C2 Gca}k. F10NWG1001ZV` p0 
-OL,11, czw.   B-2  C0 Gdu{e   F3NEG1004       
-OL,12, pi@.   B-2  C0 Gumiar F10NEG1008       
-OL,13, sob.                                   
+OL,11, czw.   B-3  C0 Gumiar  F3NEG1004       
+OL,12, pi@.   B-2  C1 Gdu{e   F7E G1008       
+OL,13, sob.   B-3 C-1 Gumiar F10E G1019       
 OL,14, nie.                                   
 FL,162,164,300,300,0,100
 PN,16302
@@ -25,20 +25,20 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 163C|ro 25 lis  12:06:35
+OL,0,      BHISTORIA 163C|ro 25 lis  22:05:55
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FKETRZYN                         ZV,,,, 
 OL,4, |ro.    B0  C2 Gdu{e   F7N G1008ZV|pp  
-OL,5, czw.   B-2  C0 Gdu{e   F3N G1011       
-OL,6, pi@.   B-2  C0 Gumiar F10NEG1017       
-OL,7, sob.                                   
+OL,5, czw.   B-3  C0 Gdu{e   F3W G1011       
+OL,6, pi@.   B-3  C1 Gumiar F10NEG1016       
+OL,7, sob.   B-3 C-1 Gumiar F10E G1027       
 OL,8, nie.                                   
 OL,9,FMIKO]AJKI                       ZV,,,, 
 OL,10, |ro.    B0  C1 Gdu{e   F7NWG1004ZV|tt0 
-OL,11, czw.   B-1  C0 Gdu{e   F7N G1007       
-OL,12, pi@.   B-2  C0 Gumiar F10NEG1012       
-OL,13, sob.                                   
+OL,11, czw.   B-1  C0 Gumiar  F3N G1007       
+OL,12, pi@.   B-2  C1 Gumiar F10NEG1012       
+OL,13, sob.   B-3 C-1 Gumiar F10E G1023       
 OL,14, nie.                                   
 FL,162,164,300,300,0,100
 PN,16303
@@ -46,20 +46,20 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 163C|ro 25 lis  12:06:35
+OL,0,      BHISTORIA 163C|ro 25 lis  22:05:55
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FRUCIANE-NIDA                    ZV,,,, 
 OL,4, |ro.    B0  C1 Gca}k.  F7NWG1002ZV|tx0 
-OL,5, czw.   B-1  C0 Gumiar  F3N G1006       
-OL,6, pi@.   B-2  C0 Gumiar  F7NEG1010       
-OL,7, sob.                                   
+OL,5, czw.   B-2  C0 Gumiar  F3NEG1006       
+OL,6, pi@.   B-2  C1 Gdu{e   F7NEG1010       
+OL,7, sob.   B-2 C-1 Gumiar  F7E G1021       
 OL,8, nie.                                   
 OL,9,FWEGORZEWO                       ZV,,,, 
 OL,10, |ro.    B0  C2 Gdu{e  F10N G1004ZV`pp  
-OL,11, czw.   B-3  C0 Gdu{e   F3N G1008       
-OL,12, pi@.   B-2  C0 Gumiar F10NEG1013       
-OL,13, sob.                                   
+OL,11, czw.   B-1  C0 Gdu{e   F3N G1008       
+OL,12, pi@.   B-2  C0 Gdu{e  F10NEG1013       
+OL,13, sob.   B-3 C-1 Gumiar F10SEG1023       
 OL,14, nie.                                   
 FL,162,164,300,300,0,100
 PN,16304
@@ -67,20 +67,20 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 163C|ro 25 lis  12:06:35
+OL,0,      BHISTORIA 163C|ro 25 lis  22:05:55
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FELBLAG                          ZV,,,, 
 OL,4, |ro.   B-1  C1 Gumiar  F7NWG1018ZV`x0  
-OL,5, czw.   B-2  C0 Gdu{e   F7SEG1021 ZW0   
-OL,6, pi@.   B-2  C0 Gumiar  F7NEG1026       
-OL,7, sob.                                   
+OL,5, czw.   B-2  C0 Gdu{e   F3S G1021       
+OL,6, pi@.   B-2  C2 Gdu{e   F7E G1026  ZV0  
+OL,7, sob.   B-3  C0 Gma}e  F10SEG1036       
 OL,8, nie.                                   
 OL,9,FKRYNICA MORSKA                  ZV,,,, 
 OL,10, |ro.    B3  C5 Gumiar F21E G1021ZVp|0  
-OL,11, czw.    B0  C3 Gumiar F10S G1025ZW`0   
+OL,11, czw.    B0  C3 Gdu{e  F10S G1025ZW`0   
 OL,12, pi@.    B0  C2 Gumiar F18E G1030       
-OL,13, sob.                                   
+OL,13, sob.   B-1  C0 Gma}e  F18SEG1040       
 OL,14, nie.                                   
 FL,162,164,300,300,0,100
 PN,16305
@@ -88,20 +88,20 @@ SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 163C|ro 25 lis  12:06:35
+OL,0,      BHISTORIA 163C|ro 25 lis  22:05:55
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FI]AWA                           ZV,,,, 
 OL,4, |ro.    B0  C1 Gdu{e  F10NWG1008  ZVp0 
-OL,5, czw.   B-2  C0 Gdu{e   F7NEG1010       
-OL,6, pi@.   B-2  C0 Gumiar F10NEG1015       
-OL,7, sob.                                   
+OL,5, czw.   B-2  C0 Gdu{e   F3NEG1010ZW`    
+OL,6, pi@.   B-2  C1 Gdu{e  F10NEG1015       
+OL,7, sob.   B-4 C-1 Gma}e   F7E G1025       
 OL,8, nie.                                   
 OL,9,FORZYSZ                          ZV,,,, 
 OL,10, |ro.    B0  C2 Gdu{e   F7N G1002ZVxpt0 
-OL,11, czw.   B-2  C0 Gumiar  F7NEG1006       
-OL,12, pi@.   B-2  C0 Gumiar F10NEG1011       
-OL,13, sob.                                   
+OL,11, czw.   B-2  C0 Gdu{e   F3N G1006       
+OL,12, pi@.   B-2  C1 Gumiar F10NEG1011       
+OL,13, sob.   B-3 C-1 Gumiar F10E G1022       
 OL,14, nie.                                   
 FL,162,164,300,300,0,100
 PN,16306
@@ -109,13 +109,13 @@ SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 163C|ro 25 lis  12:06:36
+OL,0,      BHISTORIA 163C|ro 25 lis  22:05:55
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FGI[YCKO                         ZV,,,, 
 OL,4, |ro.    B0  C2 Gdu{e   F7N G1003ZVpxp0 
-OL,5, czw.   B-1  C0 Gumiar  F7NEG1007       
-OL,6, pi@.   B-2  C0 Gumiar F10NEG1012       
-OL,7, sob.                                   
+OL,5, czw.    B0  C0 Gdu{e   F3N G1007       
+OL,6, pi@.   B-2  C1 Gumiar F10E G1012       
+OL,7, sob.   B-2 C-1 Gumiar F10SEG1023       
 OL,8, nie.                                   
 FL,162,164,300,300,0,100

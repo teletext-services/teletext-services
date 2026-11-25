@@ -3,8 +3,8 @@ PN,41701
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet             1/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet             1/43
 OL,2,K                                       
 OL,3,CTie 40, eli Turun keh{tie, Raisio.     
 OL,4,CTarkempi paikka: Paikasta Raisionkaari 
@@ -33,8 +33,8 @@ PN,41702
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet             2/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet             2/43
 OL,2,K                                       
 OL,3,CTie 40, eli Turun keh{tie, Raisio.     
 OL,4,CTarkempi paikka: Paikasta Haunisten    
@@ -63,8 +63,8 @@ PN,41703
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet             3/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet             3/43
 OL,2,K                                       
 OL,3,CTie 40, eli Turun keh{tie, Turku.      
 OL,4,CTarkempi paikka: Topinoja. Haittaa     
@@ -93,8 +93,8 @@ PN,41704
 SC,0004
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet             4/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet             4/43
 OL,2,K                                       
 OL,3,CTie 45 v{lill{ Helsinki - Tuusula,     
 OL,4,CHelsinki.                              
@@ -123,8 +123,8 @@ PN,41705
 SC,0005
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet             5/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet             5/43
 OL,2,K                                       
 OL,3,CTie 46 v{lill{ Kouvola - Heinola.      
 OL,4,CTarkempi paikka: Paikasta Rautkoski 7,2
@@ -153,8 +153,8 @@ PN,41706
 SC,0006
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet             6/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet             6/43
 OL,2,K                                       
 OL,3,CTie 46 v{lill{ Kouvola - Heinola,      
 OL,4,CHeinola.                               
@@ -183,8 +183,68 @@ PN,41707
 SC,0007
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet             7/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet             7/43
+OL,2,K                                       
+OL,3,CTie 50, eli Keh{ III, Espoo.           
+OL,4,CTarkempi paikka: V{lill{ Turunv{yl{n   
+OL,5,Cliittym{ - Juvanmalmin liittym{.       
+OL,6,CMerkitt{v{{ haittaa molempiin          
+OL,7,Cajosuuntiin.G                          
+OL,8,K                                       
+OL,9,GValaistusty|                           
+OL,10,K                                       
+OL,11,GYksi ajokaista suljettu                
+OL,12,GNopeusrajoitus: 80 km/h                
+OL,13,K                                       
+OL,14,GLis{tieto: Liikkuva ty|maa             
+OL,15,GKaistasulku ja alennettu nopeusrajoitus
+OL,16,Gvoimassa ty|kohteen kohdalla           
+OL,17,K                                       
+OL,18,GAjankohta: 25.11.2026 20:30 -          
+OL,19,G26.11.2026 01:00.                      
+OL,20,GFintraffic Tieliikennekeskus           
+OL,21,GPuh: 02002100                          
+OL,22,GS{hk|posti:                            
+OL,23,Ghelsinki.liikennekeskus@fintraffic.fi  
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,41708
+SC,0008
+PS,C100
+CT,15,T
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet             8/43
+OL,2,K                                       
+OL,3,CTie 50, eli Keh{ III.                  
+OL,4,CTarkempi paikka: V{lill{ Turunv{yl{n   
+OL,5,Cliittym{, Espoo - Jorvaksentien        
+OL,6,Cliittym{, Kirkkonummi. Haittaa         
+OL,7,Cmolempiin ajosuuntiin.G                
+OL,8,K                                       
+OL,9,GTutkimus/mittaus                       
+OL,10,K                                       
+OL,11,GAjokaista kavennettu ty|maan kohdalla  
+OL,12,K                                       
+OL,13,GLis{tieto: Liikkuva ty|maa             
+OL,14,K                                       
+OL,15,GAjankohta: 25.11.2026 23:45 -          
+OL,16,G26.11.2026 01:30.                      
+OL,17,GFintraffic Tieliikennekeskus           
+OL,18,GPuh: 02002100                          
+OL,19,GS{hk|posti:                            
+OL,20,Ghelsinki.liikennekeskus@fintraffic.fi  
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,41709
+SC,0009
+PS,C100
+CT,15,T
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet             9/43
 OL,2,K                                       
 OL,3,CTie 50, eli Keh{ III, Vantaa.          
 OL,4,CTarkempi paikka: Paikasta Kuninkaalan  
@@ -209,12 +269,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41708
-SC,0008
+PN,41710
+SC,0010
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet             8/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            10/43
 OL,2,K                                       
 OL,3,CTie 50, eli Keh{ III, Vantaa.          
 OL,4,CTarkempi paikka: Paikasta Kuusikon     
@@ -239,12 +299,12 @@ OL,22,Ghelsinki.liikennekeskus@fintraffic.fi
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41709
-SC,0009
+PN,41711
+SC,0011
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet             9/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            11/43
 OL,2,K                                       
 OL,3,CTie 50, eli Keh{ III, Vantaa.          
 OL,4,CTarkempi paikka: Paikasta Lahdentien   
@@ -269,12 +329,12 @@ OL,22,GTie 50, eli Keh{ III, Vantaa.
 OL,23,GTiety|vaihe.                           
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41710
-SC,0010
+PN,41712
+SC,0012
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            10/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            12/43
 OL,2,K                                       
 OL,3,CTie 50, eli Keh{ III, Kirkkonummi.     
 OL,4,CTarkempi paikka: Paikasta Hammars 500  
@@ -299,12 +359,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41711
-SC,0011
+PN,41713
+SC,0013
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            11/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            13/43
 OL,2,K                                       
 OL,3,CTie 50, eli Keh{ III, Vantaa.          
 OL,4,CTarkempi paikka: Paikasta Vihdintien   
@@ -329,12 +389,12 @@ OL,22,GAjankohta: 26.08.2026 - 30.04.2027.
 OL,23,GTy|aika: ma-la 09:00-15:00, 20:00-06:00
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41712
-SC,0012
+PN,41714
+SC,0014
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            12/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            14/43
 OL,2,K                                       
 OL,3,CTie 51, eli L{nsiv{yl{, Espoo.         
 OL,4,CTarkempi paikka: Paikasta Hanasaaren   
@@ -359,12 +419,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41713
-SC,0013
+PN,41715
+SC,0015
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            13/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            15/43
 OL,2,K                                       
 OL,3,CTie 51, eli L{nsiv{yl{, Espoo.         
 OL,4,CTarkempi paikka: Paikasta Hanasaaren   
@@ -389,12 +449,12 @@ OL,22,Gsuljettu Karhusaarensolmun kohdalla
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41714
-SC,0014
+PN,41716
+SC,0016
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            14/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            16/43
 OL,2,K                                       
 OL,3,CTie 51, eli L{nsiv{yl{, Espoo.         
 OL,4,CTarkempi paikka: Paikasta Hanasaaren   
@@ -419,12 +479,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41715
-SC,0015
+PN,41717
+SC,0017
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            15/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            17/43
 OL,2,K                                       
 OL,3,CTie 51 v{lill{ Kirkkonummi - Karjaa,   
 OL,4,CSiuntio.                               
@@ -449,12 +509,12 @@ OL,22,K
 OL,23,GTie 51 v{lill{ Kirkkonummi - Karjaa,   
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41716
-SC,0016
+PN,41718
+SC,0018
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            16/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            18/43
 OL,2,K                                       
 OL,3,CTie 54 v{lill{ Riihim{ki - Hollola,    
 OL,4,CHausj{rvi.                             
@@ -479,12 +539,12 @@ OL,22,GMatka, jolla nopeusrajoitus voimassa:
 OL,23,G900 m                                  
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41717
-SC,0017
+PN,41719
+SC,0019
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            17/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            19/43
 OL,2,K                                       
 OL,3,CTie 56 v{lill{ J{ms{ - M{ntt{, J{ms{.  
 OL,4,CTarkempi paikka: V{lill{ Haarala -     
@@ -509,12 +569,12 @@ OL,22,GS{hk|posti:
 OL,23,Gtampere.liikennekeskus@fintraffic.fi   
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41718
-SC,0018
+PN,41720
+SC,0020
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            18/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            20/43
 OL,2,K                                       
 OL,3,CTie 57 v{lill{ H{meenlinna - P{lk{ne,  
 OL,4,CHattula.                               
@@ -539,12 +599,12 @@ OL,22,GFintraffic Tieliikennekeskus
 OL,23,GPuh: 02002100                          
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41719
-SC,0019
+PN,41721
+SC,0021
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            19/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            21/43
 OL,2,K                                       
 OL,3,CTie 58 v{lill{ Keuruu - Lestij{rvi,    
 OL,4,CKeuruu.                                
@@ -569,12 +629,12 @@ OL,22,GFintraffic Tieliikennekeskus
 OL,23,GPuh: 02002100                          
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41720
-SC,0020
+PN,41722
+SC,0022
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            20/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            22/43
 OL,2,K                                       
 OL,3,CTie 58 v{lill{ Lestij{rvi - K{rs{m{ki, 
 OL,4,CHaapaj{rvi.                            
@@ -599,12 +659,12 @@ OL,22,K
 OL,23,GAjankohta: 15.09.2026 - 31.03.2027.    
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41721
-SC,0021
+PN,41723
+SC,0023
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            21/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            23/43
 OL,2,K                                       
 OL,3,CTie 58 v{lill{ Lestij{rvi - K{rs{m{ki, 
 OL,4,CHaapaj{rvi.                            
@@ -629,12 +689,12 @@ OL,22,K
 OL,23,GAjankohta: 15.09.2026 - 31.03.2027.    
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41722
-SC,0022
+PN,41724
+SC,0024
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            22/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            24/43
 OL,2,K                                       
 OL,3,CTie 66 v{lill{ Virrat - Lapua,         
 OL,4,CKuortane.                              
@@ -659,12 +719,12 @@ OL,22,GS{hk|posti:
 OL,23,Gtampere.liikennekeskus@fintraffic.fi   
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41723
-SC,0023
+PN,41725
+SC,0025
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            23/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            25/43
 OL,2,K                                       
 OL,3,CTie 67 v{lill{ Kaskinen - Sein{joki,   
 OL,4,CN{rpi|.                                
@@ -689,12 +749,12 @@ OL,22,GS{hk|posti:
 OL,23,Gtampere.liikennekeskus@fintraffic.fi   
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41724
-SC,0024
+PN,41726
+SC,0026
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            24/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            26/43
 OL,2,K                                       
 OL,3,CTie 68 v{lill{ Virrat - Alaj{rvi,      
 OL,4,CVirrat.                                
@@ -719,12 +779,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41725
-SC,0025
+PN,41727
+SC,0027
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            25/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            27/43
 OL,2,K                                       
 OL,3,CTie 69 v{lill{ [{nekoski - Suonenjoki, 
 OL,4,C[{nekoski.                             
@@ -749,12 +809,12 @@ OL,22,GPuh: 02002100
 OL,23,GS{hk|posti:                            
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41726
-SC,0026
+PN,41728
+SC,0028
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            26/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            28/43
 OL,2,K                                       
 OL,3,CTie 73 v{lill{ Joensuu - Lieksa,       
 OL,4,CJoensuu.                               
@@ -779,12 +839,12 @@ OL,22,Gtampere.liikennekeskus@fintraffic.fi
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41727
-SC,0027
+PN,41729
+SC,0029
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            27/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            29/43
 OL,2,K                                       
 OL,3,CTie 75 v{lill{ Siilinj{rvi - Nurmes.   
 OL,4,CTarkempi paikka: Paikasta Siilinj{rvi, 
@@ -809,12 +869,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41728
-SC,0028
+PN,41730
+SC,0030
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            28/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            30/43
 OL,2,K                                       
 OL,3,CTie 75 v{lill{ Nurmes - Nurmes, Nurmes.
 OL,4,CTarkempi paikka: Paikasta Porokyl{n    
@@ -839,12 +899,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41729
-SC,0029
+PN,41731
+SC,0031
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            29/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            31/43
 OL,2,K                                       
 OL,3,CTie 76 v{lill{ Sotkamo - Kuhmo, Kuhmo. 
 OL,4,CTarkempi paikka: Paikasta Alakosken    
@@ -869,12 +929,12 @@ OL,22,Gtampere.liikennekeskus@fintraffic.fi
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41730
-SC,0030
+PN,41732
+SC,0032
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            30/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            32/43
 OL,2,K                                       
 OL,3,CTie 76 v{lill{ Sotkamo - Kuhmo,        
 OL,4,CSotkamo.                               
@@ -899,12 +959,12 @@ OL,22,GTy|aika: ma-la 07:00-20:00
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41731
-SC,0031
+PN,41733
+SC,0033
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            31/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            33/43
 OL,2,K                                       
 OL,3,CTie 77 v{lill{ Viitasaari -            
 OL,4,CSiilinj{rvi, Siilinj{rvi.              
@@ -929,12 +989,12 @@ OL,22,Gtampere.liikennekeskus@fintraffic.fi
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41732
-SC,0032
+PN,41734
+SC,0034
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            32/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            34/43
 OL,2,K                                       
 OL,3,CTie 77 v{lill{ Viitasaari -            
 OL,4,CSiilinj{rvi.                           
@@ -959,12 +1019,12 @@ OL,22,GTy|aika: ma-to 07:00-19:00
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41733
-SC,0033
+PN,41735
+SC,0035
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            33/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            35/43
 OL,2,K                                       
 OL,3,CTie 78 v{lill{ Pudasj{rvi - Rovaniemi, 
 OL,4,CRovaniemi.                             
@@ -989,12 +1049,12 @@ OL,22,GAjankohta: 07.09.2026 - 31.12.2026.
 OL,23,GTy|aika: ma-pe 07:00-19:00             
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41734
-SC,0034
+PN,41736
+SC,0036
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            34/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            36/43
 OL,2,K                                       
 OL,3,CTie 78 v{lill{ Pudasj{rvi - Rovaniemi, 
 OL,4,CRovaniemi.                             
@@ -1019,12 +1079,12 @@ OL,22,G300 m
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41735
-SC,0035
+PN,41737
+SC,0037
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            35/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            37/43
 OL,2,K                                       
 OL,3,CTie 78 v{lill{ Pudasj{rvi - Rovaniemi, 
 OL,4,CPudasj{rvi.                            
@@ -1049,12 +1109,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41736
-SC,0036
+PN,41738
+SC,0038
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            36/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            38/43
 OL,2,K                                       
 OL,3,CTie 79 v{lill{ Kittil{ - Muonio,       
 OL,4,CKittil{.                               
@@ -1079,12 +1139,12 @@ OL,22,GAjankohta: 11.11.2026 - 30.11.2026.
 OL,23,GTy|aika: ma-pe 07:00-15:30             
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41737
-SC,0037
+PN,41739
+SC,0039
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            37/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            39/43
 OL,2,K                                       
 OL,3,CTie 80 v{lill{ Kittil{ - Sodankyl{,    
 OL,4,CSodankyl{.                             
@@ -1109,12 +1169,12 @@ OL,22,GS{hk|posti:
 OL,23,Gtampere.liikennekeskus@fintraffic.fi   
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41738
-SC,0038
+PN,41740
+SC,0040
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            38/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            40/43
 OL,2,K                                       
 OL,3,CTie 83 v{lill{ Pello - Rovaniemi,      
 OL,4,CRovaniemi.                             
@@ -1139,12 +1199,12 @@ OL,22,GPuh: 02002100
 OL,23,GS{hk|posti:                            
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41739
-SC,0039
+PN,41741
+SC,0041
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            39/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:42
+OL,1,D]G TIETY\T - Muut tiet            41/43
 OL,2,K                                       
 OL,3,CTie 87 v{lill{ Iisalmi - Nurmes,       
 OL,4,CIisalmi.                               
@@ -1169,12 +1229,12 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41740
-SC,0040
+PN,41742
+SC,0042
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            40/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:43
+OL,1,D]G TIETY\T - Muut tiet            42/43
 OL,2,K                                       
 OL,3,CTie 89 v{lill{ Paltamo - Vartius.      
 OL,4,CTarkempi paikka: Paikasta Kytkinlehto  
@@ -1199,12 +1259,12 @@ OL,22,GS{hk|posti:
 OL,23,Gtampere.liikennekeskus@fintraffic.fi   
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,41741
-SC,0041
+PN,41743
+SC,0043
 PS,C100
 CT,15,T
-OL,0,       G417 YLE TEKSTI-TV 25.03.11:50:41
-OL,1,D]G TIETY\T - Muut tiet            41/41
+OL,0,       G417 YLE TEKSTI-TV 25.03.21:49:43
+OL,1,D]G TIETY\T - Muut tiet            43/43
 OL,2,K                                       
 OL,3,CTie 98 v{lill{ Aavasaksa - Ruotsin     
 OL,4,Craja, Ylitornio.                       

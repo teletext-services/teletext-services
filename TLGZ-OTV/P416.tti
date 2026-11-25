@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     416C|ro 25 lis  12:27:55
+OL,0,      BTVP3     416C|ro 25 lis  22:33:21
 OL,1,D]                         W<,,<,,<,,4  
 OL,2,D]                         W5T 5V 5P 5  
 OL,3,D]GLISTOPAD                W-,,-,,-,,%  
@@ -26,7 +26,7 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     416C|ro 25 lis  12:27:55
+OL,0,      BTVP3     416C|ro 25 lis  22:33:25
 OL,1,D]                         W<,,<,,<,,4  
 OL,2,D]                         W5T 5V 5P 5  
 OL,3,D]GGRUDZIEN                W-,,-,,-,,%  
@@ -52,7 +52,7 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     416C|ro 25 lis  12:27:55
+OL,0,      BTVP3     416C|ro 25 lis  22:33:29
 OL,1,D]                         W<,,<,,<,,4  
 OL,2,D]                         W5T 5V 5P 5  
 OL,3,D]GGRUDZIEN                W-,,-,,-,,%  
@@ -77,7 +77,7 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     416C|ro 25 lis  12:27:55
+OL,0,      BTVP3     416C|ro 25 lis  22:33:33
 OL,1,D]                         W<,,<,,<,,4  
 OL,2,D]                         W5T 5V 5P 5  
 OL,3,D]GGRUDZIEN                W-,,-,,-,,%  
@@ -89,6 +89,77 @@ OL,9, 29.12    godz.11:00
 OL,10, 30.12    godz.11:00                    
 OL,12,FKSIE[YC NAD BUFFALO                    
 OL,13, 29.12    godz.19:00                    
-OL,14, 30.12    godz.19:00                    
+OL,14, 30-31.12 godz.19:00                    
+OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FL,415,417,100,100,0,100
+PN,41605
+SC,0005
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP3     416C|ro 25 lis  22:33:37
+OL,1,D]                         W<,,<,,<,,4  
+OL,2,D]                         W5T 5V 5P 5  
+OL,3,D]GSTYCZEN                 W-,,-,,-,,%  
+OL,4,D]                        GK I E L C E  
+OL,5,T///////////////////////////////////////
+OL,6, ]      DTEATR im.S.[EROMSKIEGO         
+OL,8,FKSIE[YC NAD BUFFALO                    
+OL,9, 02.01    godz.19:00                    
+OL,10, 03.01    godz.17:00                    
+OL,11, 05.01    godz.11:00                    
+OL,13,FCZYTAJ  [EROMSKI : DZWONY Z CORNEVILLE 
+OL,14, 06.01    godz.11:00                    
+OL,16,FPROFESOR                               
+OL,17, 08-09.01 godz.18:00                    
+OL,18, 10.01    godz.17:00                    
+OL,19, 22-23.01 godz.18:00                    
+OL,20, 24.01    godz.18:00                    
+OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FL,415,417,100,100,0,100
+PN,41606
+SC,0006
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP3     416C|ro 25 lis  22:33:37
+OL,1,D]                         W<,,<,,<,,4  
+OL,2,D]                         W5T 5V 5P 5  
+OL,3,D]GSTYCZEN                 W-,,-,,-,,%  
+OL,4,D]                        GK I E L C E  
+OL,5,T///////////////////////////////////////
+OL,6, ]      DTEATR im.S.[EROMSKIEGO         
+OL,7,FZWIEDZANIE SIEDZIBY TEATRU             
+OL,8, 11.01    godz.16:00                    
+OL,9, 18.01    godz.16:00                    
+OL,10, 25.01    godz.16:00                    
+OL,12,FNIKO CZYLI PROSTA ZWYCZAJNA HISTORIA   
+OL,13, 12-14.01 godz.09:30                    
+OL,15,FPOWROT ODYSA                           
+OL,16, 15-16.01 godz.19:00                    
+OL,17, 17.01    godz.17:00                    
+OL,19,FOPOWIE\CI Z NARNII. LEW, CZAROWNICA I  
+OL,20,FSTARA SZAFA                            
+OL,21, 20-21.01 godz.09:00 i 11:30            
+OL,22, 27-28.01 godz.09:00 i 11:30            
+OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FL,415,417,100,100,0,100
+PN,41607
+SC,0007
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP3     416C|ro 25 lis  22:33:41
+OL,1,D]                         W<,,<,,<,,4  
+OL,2,D]                         W5T 5V 5P 5  
+OL,3,D]GSTYCZEN                 W-,,-,,-,,%  
+OL,4,D]                        GK I E L C E  
+OL,5,T///////////////////////////////////////
+OL,6, ]      DTEATR im.S.[EROMSKIEGO         
+OL,8,F]ATWY SPOSOB NA RZUCENIE PALENIA       
+OL,9, 23-24.01  godz.16:00                   
+OL,11,FSZALONE NO[YCZKI                       
+OL,12, 29.01     godz.19:00                   
+OL,13, 30-31.01  godz.16:00 i 19:00           
 OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 FL,415,417,100,100,0,100

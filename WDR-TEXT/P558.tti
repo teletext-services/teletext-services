@@ -3,72 +3,16 @@ PN,55801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G558 WDR Text GMi 25.11.26 13:43:45
+OL,0,     G558 WDR Text GDo 26.11.26 00:12:31
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DK\LN/BONN      ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 13:41            
+OL,4,                 STAND 00:11            
 OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B12.45 XQ  114 Antalya      12.41 Geland
-OL,8, 12.55 FR 2307 Malaga       12.40 Geland
-OL,9,B13.10 FR 2352 Stansted     13.07 Geland
-OL,10, 13.20 EW  005 Berlin       13.37 Geland
-OL,11,B14.05 PC 1017 Sabiha Gokce       T2 - D
-OL,12, 14.55 VF  089 Sabiha Gokce       T2 - D
-OL,13,B15.45 EW  521 Barcelona          T1 - C
-OL,14, 16.00 FR 1034 Teneriffa          T1 - C
-OL,15,B16.55 LH 1984 Muenchen           T1 - C
-OL,16, 17.05 EW  755 Wien               T1 - C
-OL,17,B17.10 TK 1675 Istanbul           T2 - D
-OL,18, 17.20 EW 8054 Berlin             T1 - C
-OL,19,B17.45 FR 1593 Manchester         T2 - D
-OL,20, 18.05 EW  083 Muenchen           T2 - D
-OL,21,B18.15 EW  007 Berlin             T1 - C
-OL,23,]D555 < ]bersicht       CGN Abflug > 559
-OL,24,A]G- 557B]G+ 559C]DK|ln / Bonn \  G(1/4)
-FL,557,559,0,0,0,100
-PN,55802
-SC,0002
-PS,C200
-CT,15,T
-OL,0,     G558 WDR Text GMi 25.11.26 13:43:45
-OL,1,]D]        G]               @]  CSERVICE
-OL,2,]D]GWDR     ]DK\LN/BONN      ]          
-OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 13:41            
-OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B18.35 FR 1356 Alicante           T2 - D
-OL,8, 18.40 XR  522 Fuerte.            T1 - C
-OL,9,B19.30 EW  583 Palma              T1 - B
-OL,10, 19.35 LH 1986 Muenchen           T1 - C
-OL,11,B19.35 OS  249 Wien               T1 - C
-OL,12, 19.50 EW 8056 Berlin             T1 - C
-OL,13,B20.00 FR 9841 Lissabon           T1 - B
-OL,14, 20.25 FR 9325 Porto              T1 - B
-OL,15,B21.15 EW  767 Zuerich            T1 - C
-OL,16, 21.40 EW  269 Las Palmas         T1 - C
-OL,17,B21.45 EW  757 Wien               T1 - C
-OL,18, 21.50 EW  085 Muenchen           T1 - B
-OL,19,B22.00 FR 2814 Stansted           T2 - D
-OL,20, 22.10 EW  475 London-Gatw.       T2 - D
-OL,21,B22.15 W6 4781 Skopje             T2 - D
-OL,23,]D555 < ]bersicht       CGN Abflug > 559
-OL,24,A]G- 557B]G+ 559C]DK|ln / Bonn \  G(2/4)
-FL,557,559,0,0,0,100
-PN,55803
-SC,0003
-PS,C200
-CT,15,T
-OL,0,     G558 WDR Text GMi 25.11.26 13:43:45
-OL,1,]D]        G]               @]  CSERVICE
-OL,2,]D]GWDR     ]DK\LN/BONN      ]          
-OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 13:41            
-OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B22.45 EW  253 Teneriffa          T1 - C
+OL,7,B22.45 EW  253 Teneriffa    23.13 Geland
 OL,8, 23.15 VF  091 Sabiha Gokce       Gestr 
-OL,9,B23.35 FR  303 Las Palmas         T1 - B
-OL,10, 23.45 PC 1013 Sabiha Gokce       T2 - D
+OL,9,B23.35 FR  303 Las Palmas   23.29 Geland
+OL,10, 23.45 PC 1013 Sabiha Gokce 00.10 Geland
 OL,11,B23.55 PC 5013 Antalya            T2 - D
 OL,12, 01.35 SM 2916 Marsa Alam         T2 - D
 OL,13,B02.05 SM 2912 Hurghada           T2 - D
@@ -81,17 +25,17 @@ OL,19,B09.20 FR 5531 Mailand            T2 - D
 OL,20, 09.35 FR 5519 Palma              T1 - B
 OL,21,B09.35 FR 9480 Wien               T2 - D
 OL,23,]D555 < ]bersicht       CGN Abflug > 559
-OL,24,A]G- 557B]G+ 559C]DK|ln / Bonn \  G(3/4)
+OL,24,A]G- 557B]G+ 559C]DK|ln / Bonn \  G(1/4)
 FL,557,559,0,0,0,100
-PN,55804
-SC,0004
+PN,55802
+SC,0002
 PS,C200
 CT,15,T
-OL,0,     G558 WDR Text GMi 25.11.26 13:43:45
+OL,0,     G558 WDR Text GDo 26.11.26 00:12:31
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DK\LN/BONN      ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 13:41            
+OL,4,                 STAND 00:11            
 OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
 OL,7,B09.40 EW  763 Zuerich            T1 - C
 OL,8, 09.45 IZ  481 Tel Aviv           T2 - D
@@ -108,6 +52,62 @@ OL,18, 11.40 EW 8052 Berlin             T1 - C
 OL,19,B12.10 SM  601 Kairo              T2 - D
 OL,20, 12.40 EW  973 Zagreb             T1 - C
 OL,21,B12.45 FR 2816 Stansted           T2 - D
+OL,23,]D555 < ]bersicht       CGN Abflug > 559
+OL,24,A]G- 557B]G+ 559C]DK|ln / Bonn \  G(2/4)
+FL,557,559,0,0,0,100
+PN,55803
+SC,0003
+PS,C200
+CT,15,T
+OL,0,     G558 WDR Text GDo 26.11.26 00:12:31
+OL,1,]D]        G]               @]  CSERVICE
+OL,2,]D]GWDR     ]DK\LN/BONN      ]          
+OL,3,]T5D     Ankunft                   
+OL,4,                 STAND 00:11            
+OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
+OL,7,B12.45 XQ  114 Antalya            T2 - D
+OL,8, 12.50 LH 1978 Muenchen           T1 - C
+OL,9,B14.05 PC 1017 Sabiha Gokce       T2 - D
+OL,10, 14.15 FR 4501 Dublin             T2 - D
+OL,11,B14.30 FR 5527 Palma              T1 - B
+OL,12, 15.10 EW  611 Funchal            T1 - B
+OL,13,B15.35 FR 9325 Porto              T1 - C
+OL,14, 16.00 FR  303 Las Palmas         T1 - C
+OL,15,B16.10 EW  269 Las Palmas         T1 - C
+OL,16, 16.15 FR  933 Rom-Fiumicin       T1 - B
+OL,17,B16.20 FR 2814 Stansted           T2 - D
+OL,18, 16.55 LH 1984 Muenchen           T1 - C
+OL,19,B17.05 EW  755 Wien               T1 - C
+OL,20, 17.10 FR 1593 Manchester         T2 - D
+OL,21,B17.10 TK 1675 Istanbul           T2 - D
+OL,23,]D555 < ]bersicht       CGN Abflug > 559
+OL,24,A]G- 557B]G+ 559C]DK|ln / Bonn \  G(3/4)
+FL,557,559,0,0,0,100
+PN,55804
+SC,0004
+PS,C200
+CT,15,T
+OL,0,     G558 WDR Text GDo 26.11.26 00:12:31
+OL,1,]D]        G]               @]  CSERVICE
+OL,2,]D]GWDR     ]DK\LN/BONN      ]          
+OL,3,]T5D     Ankunft                   
+OL,4,                 STAND 00:11            
+OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
+OL,7,B17.15 EW  585 Palma              T1 - C
+OL,8, 17.30 XQ  982 Izmir              T2 - D
+OL,9,B18.05 EW  083 Muenchen           T2 - D
+OL,10, 18.10 EW  825 Mailand            T1 - C
+OL,11,B18.50 EW  007 Berlin             T1 - C
+OL,12, 19.15 PC 1015 Sabiha Gokce       T2 - D
+OL,13,B19.30 BA  998 London             T2 - D
+OL,14, 19.35 LH 1986 Muenchen           T1 - C
+OL,15,B19.35 OS  249 Wien               T1 - C
+OL,16, 19.50 EW 8056 Berlin             T1 - C
+OL,17,B20.10 FR 2507 Barcelona          T2 - D
+OL,18, 20.10 FR 5206 Malta              T1 - C
+OL,19,B20.20 IV 4226 Pristina           T2 - D
+OL,20, 21.15 EW  767 Zuerich            T1 - C
+OL,21,B21.45 EW  757 Wien               T1 - B
 OL,23,]D555 < ]bersicht       CGN Abflug > 559
 OL,24,A]G- 557B]G+ 559C]DK|ln / Bonn \  G(4/4)
 FL,557,559,0,0,0,100

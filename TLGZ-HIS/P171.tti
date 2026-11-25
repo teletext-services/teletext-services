@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 171C|ro 25 lis  12:06:45
+OL,0,      BHISTORIA 171C|ro 25 lis  22:05:40
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FWROC]AW                         ZV,,,, 
 OL,4, |ro.    B0  C2 Gca}k.  F7E G1009       
-OL,5, czw.    B0  C2 Gdu{e  F10NEG1006       
-OL,6, pi@.    B0  C0 Gdu{e  F10NEG1011       
-OL,7, sob.                                   
+OL,5, czw.    B0  C1 Gumiar F10NEG1007       
+OL,6, pi@.    B0  C0 Gca}k. F10NEG1010       
+OL,7, sob.    B0  C1 Gdu{e  F14E G1020       
 OL,8, nie.                                   
 OL,9,FJELENIA GORA                    ZV,,,, 
 OL,10, |ro.   B-1  C1 Gumiar  F7SE G975       
-OL,11, czw.   B-1  C0 Gca}k. F10E  G973       
-OL,12, pi@.   B-2 C-1 Gca}k.  F7E  G978       
-OL,13, sob.                                   
+OL,11, czw.   B-1  C0 Gca}k. F14E  G974       
+OL,12, pi@.   B-2 C-1 Gca}k.  F7E  G977       
+OL,13, sob.   B-2 C-1 Gca}k. F14E  G986       
 OL,14, nie.                                   
 FL,170,172,300,300,0,100
 PN,17102
@@ -25,20 +25,20 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 171C|ro 25 lis  12:06:45
+OL,0,      BHISTORIA 171C|ro 25 lis  22:05:40
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FK]ODZKO                         ZV,,,, 
 OL,4, |ro.   B-2  C1 Gumiar  F3NW G981       
-OL,5, czw.   B-2  C0 Gdu{e  F10NE G978       
-OL,6, pi@.   B-2 C-2 Gca}k. F14NE G982       
-OL,7, sob.                                   
+OL,5, czw.   B-2  C0 Gca}k. F10NE G978       
+OL,6, pi@.   B-2 C-1 Gca}k. F14NE G981       
+OL,7, sob.   B-3 C-1 Gdu{e  F10NE G992       
 OL,8, nie.                                   
 OL,9,FLEGNICA                         ZV,,,, 
 OL,10, |ro.    B0  C2 Gca}k.  F7E G1008       
-OL,11, czw.    B0  C1 Gdu{e  F10NEG1007       
-OL,12, pi@.   B-1  C0 Gdu{e  F10NEG1011       
-OL,13, sob.                                   
+OL,11, czw.   B-1  C1 Gdu{e  F10NEG1007       
+OL,12, pi@.    B0  C0 Gca}k. F10NEG1010       
+OL,13, sob.   B-1  C0 Gca}k. F14E G1020       
 OL,14, nie.                                   
 FL,170,172,300,300,0,100
 PN,17103
@@ -46,13 +46,13 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 171C|ro 25 lis  12:06:45
+OL,0,      BHISTORIA 171C|ro 25 lis  22:05:40
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,F\NIE[KA                         ZV,,,, 
 OL,4, |ro.   B-7 C-4 Gumiar  F7SE G880       
-OL,5, czw.   B-8 C-6 Gca}k. F18NE G877       
-OL,6, pi@.   B-8 C-7 Gca}k. F14NE G882       
-OL,7, sob.                                   
+OL,5, czw.   B-8 C-6 Gca}k. F21NE G878       
+OL,6, pi@.   B-8 C-7 Gca}k. F18NE G881       
+OL,7, sob.   B-8 C-6 Gumiar F14NE G890       
 OL,8, nie.                                   
 FL,170,172,300,300,0,100

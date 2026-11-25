@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 173C|ro 25 lis  12:06:46
+OL,0,      BHISTORIA 173C|ro 25 lis  22:06:15
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FKATOWICE                        ZV,,,, 
 OL,4, |ro.    B0  C2 Gdu{e   F7SE G989       
 OL,5, czw.   B-1  C1 Gdu{e  F14E  G985       
 OL,6, pi@.   B-1  C0 Gca}k. F14NE G988       
-OL,7, sob.                                   
+OL,7, sob.   B-2  C0 Gca}k. F14E  G999       
 OL,8, nie.                                   
 OL,9,FCZESTOCHOWA                     ZV,,,, 
 OL,10, |ro.    B0  C1 Gdu{e   F7N  G990       
-OL,11, czw.    B0  C0 Gca}k. F14E  G987       
-OL,12, pi@.   B-1  C0 Gca}k. F14NE G990       
-OL,13, sob.                                   
+OL,11, czw.   B-1  C1 Gdu{e  F14E  G987       
+OL,12, pi@.   B-1  C0 Gca}k. F18NE G990       
+OL,13, sob.   B-2 C-1 Gdu{e  F18E G1001       
 OL,14, nie.                                   
 FL,172,174,300,300,0,100
 PN,17302
@@ -25,14 +25,14 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 173C|ro 25 lis  12:06:47
+OL,0,      BHISTORIA 173C|ro 25 lis  22:06:15
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FRACIBORZ                        ZV,,,, 
 OL,4, |ro.    B0  C2 Gdu{e   F7E  G997       
-OL,5, czw.   B-1  C1 Gdu{e  F14NE G993       
-OL,6, pi@.   B-1  C0 Gca}k. F14NE G997       
-OL,7, sob.                                   
+OL,5, czw.    B0  C2 Gca}k. F14NE G993       
+OL,6, pi@.    B0  C0 Gca}k. F14NE G996       
+OL,7, sob.   B-1  C0 Gca}k. F14NEG1007       
 OL,8, nie.                                   
 FL,172,174,300,300,0,100
 PN,17303
@@ -40,19 +40,19 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 173C|ro 25 lis  12:06:47
+OL,0,      BHISTORIA 173C|ro 25 lis  22:06:15
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FJASTRZEBIE ZDROJ                ZV,,,, 
 OL,4, |ro.    B0  C2 Gumiar  F7E  G992       
-OL,5, czw.   B-1  C0 Gdu{e  F18NE G987       
-OL,6, pi@.   B-1  C0 Gca}k. F14NE G991       
-OL,7, sob.                                   
+OL,5, czw.   B-1  C1 Gca}k. F18NE G987       
+OL,6, pi@.   B-1  C0 Gca}k. F14NE G990       
+OL,7, sob.   B-2  C0 Gdu{e  F18NEG1001       
 OL,8, nie.                                   
 OL,9,FBIELSKO-BIA]A                   ZV,,,, 
 OL,10, |ro.   B-2  C0 Gumiar  F3SE G970       
-OL,11, czw.   B-2  C0 Gdu{e  F10E  G964       
-OL,12, pi@.   B-2 C-2 Gca}k. F10NE G968       
-OL,13, sob.                                   
+OL,11, czw.   B-2  C0 Gdu{e  F10E  G965       
+OL,12, pi@.   B-2 C-1 Gca}k. F10E  G967       
+OL,13, sob.   B-3 C-1 Gdu{e  F14E  G978       
 OL,14, nie.                                   
 FL,172,174,300,300,0,100

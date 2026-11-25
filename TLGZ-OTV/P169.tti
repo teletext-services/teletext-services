@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     169C|ro 25 lis  12:22:44
+OL,0,      BTVP3     169C|ro 25 lis  22:27:18
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FBIA]YSTOK                       ZV,,,, 
 OL,4, |ro.    B0  C1 Gdu{e   F7N  G999ZV`|p  
-OL,5, czw.   B-2  C0 Gumiar  F3NEG1003       
-OL,6, pi@.   B-2  C0 Gdu{e  F10NEG1008       
-OL,7, sob.                                   
+OL,5, czw.   B-2  C0 Gdu{e   F3NEG1003       
+OL,6, pi@.   B-2  C0 Gdu{e  F10E G1007       
+OL,7, sob.   B-2 C-1 Gdu{e   F7E G1018       
 OL,8, nie.                                   
 OL,9,FAUGUSTOW                        ZV,,,, 
 OL,10, |ro.    B0  C1 Gdu{e   F7N G1004ZV`t   
-OL,11, czw.   B-2  C0 Gumiar  F3N G1008       
+OL,11, czw.   B-2  C1 Gdu{e   F3NWG1008       
 OL,12, pi@.   B-2  C0 Gumiar F10NEG1013       
-OL,13, sob.                                   
+OL,13, sob.   B-2 C-1 Gdu{e   F7E G1024       
 OL,14, nie.                                   
 FL,168,170,100,100,0,100
 PN,16902
@@ -25,13 +25,13 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     169C|ro 25 lis  12:22:44
+OL,0,      BTVP3     169C|ro 25 lis  22:27:22
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FSUWA]KI                         ZV,,,, 
 OL,4, |ro.   B-1  C1 Gdu{e   F7N  G999ZV`t   
-OL,5, czw.   B-2  C0 Gumiar  F3N G1003       
-OL,6, pi@.   B-2  C0 Gumiar F10NEG1008       
-OL,7, sob.                                   
+OL,5, czw.   B-1  C0 Gdu{e   F3NWG1003       
+OL,6, pi@.   B-2  C0 Gdu{e  F10NEG1008       
+OL,7, sob.   B-2 C-1 Gumiar  F7E G1019       
 OL,8, nie.                                   
 FL,168,170,100,100,0,100

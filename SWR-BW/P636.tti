@@ -1,18 +1,34 @@
 DE,SWR-BW 636
-PN,63600
-SC,0000
-PS,8208
+PN,63601
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:59:51
+OL,0,       BSWR BW C   Mi, 25.11.26G20:58:22
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,10,FWARNUNG vor FROST                      
-OL,11, G}ltig: Di 17:00 bis Mi 12:00          
+OL,11, G}ltig: Mi 16:00 bis Do 12:00          
 OL,13,FBaden-Baden, Rastatt                   
 OL,14,FKreis und Stadt Karlsruhe              
 OL,16, Es tritt leichter Frost zwischen -1 `C 
 OL,17, und -5 `C auf.                         
-OL,23,D]GQuelle:DWD  Stand:12:32  Hinweise 654
+OL,23,D]GQuelle:DWD  Stand:12:35  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,63602
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR BW C   Mi, 25.11.26G20:58:22
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor GL[TTE                     
+OL,11, G}ltig: Do 00:00 bis Do 10:00          
+OL,13,FRastatt                                
+OL,15, Es besteht oberhalb 400 m              
+OL,16, Gl{ttegefahr.                          
+OL,23,D]GQuelle:DWD  Stand:20:16  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

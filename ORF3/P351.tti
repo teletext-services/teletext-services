@@ -3,7 +3,7 @@ PN,35101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G351FORF IIIGMi 25.11.26 08:39:57
+OL,0,       G351FORF IIIGMi 25.11.26 18:39:59
 OL,1,A]G                             ORF III 
 OL,2,A]GFERNSEHEN  ]AAAAA   Freitag, 27.11. \
 OL,3,Q#############                  G  1/3  
@@ -33,28 +33,29 @@ PN,35102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G351FORF IIIGMi 25.11.26 08:39:57
+OL,0,       G351FORF IIIGMi 25.11.26 18:39:59
 OL,1,A]G                             ORF III 
-OL,2,A]GFERNSEHEN  ]AFr, 27.11.& Sa, 28.11. \
+OL,2,A]GFERNSEHEN  ]AAAAA   Freitag, 27.11. \
 OL,3,Q#############                  G  2/3  
 OL,4,F16.00 FORF III AKTUELL am Nachmittag   
 OL,5,G16.10 GLandleben: St. Martin am        
 OL,6,       GGrimmingEUT                     
-OL,7,F17.35 Fzeit.geschichte: Baumeister der 
-OL,8,       FRepublik - Karl SeitzEUT        
-OL,9,G18.25 Gzeit.geschichte: Baumeister der 
-OL,10,       GRepublik - Adolf Sch{rfEUT      
-OL,11,F19.18 FORF III AKTUELL am AbendEUT     
-OL,12,G19.25 GNachrichten in Einfacher        
-OL,13,       GSpracheEUT                      
-OL,14,F19.40 FKultur Heute                    
-OL,15,G20.15 GDer \sterreichische Film: Der   
-OL,16,       Gbeste Papa der WeltEHFEUT       
-OL,17,F21.50 FCharlotte Link: Der Beobachter  
-OL,18,       EUT                              
-OL,19,G23.30 GDer \sterreichische Film:       
-OL,20,       GGef{hrliche Gef}hleEUT          
-OL,21,F01.05 FDie Tafelrunde: KLEINKUNST]EUT  
+OL,7,F16.45 FHeimat \sterreich: Vom Toten    
+OL,8,       FGebirge zu den Haller MauernEUT 
+OL,9,G17.35 Gzeit.geschichte: Baumeister der 
+OL,10,       GRepublik - Karl SeitzEUT        
+OL,11,F18.25 Fzeit.geschichte: Baumeister der 
+OL,12,       FRepublik - Adolf Sch{rfEUT      
+OL,13,G19.18 GORF III AKTUELL am AbendEUT     
+OL,14,F19.25 FNachrichten in Einfacher        
+OL,15,       FSpracheEUT                      
+OL,16,G19.40 GKultur Heute                    
+OL,17,F20.15 FDer \sterreichische Film: Der   
+OL,18,       Fbeste Papa der WeltEHFEUT       
+OL,19,G21.50 GCharlotte Link: Der Beobachter  
+OL,20,       EUT                              
+OL,21,F23.30 FDer \sterreichische Film:       
+OL,22,       FGef{hrliche Gef}hleEUT          
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -62,27 +63,28 @@ PN,35103
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G351FORF IIIGMi 25.11.26 08:39:57
+OL,0,       G351FORF IIIGMi 25.11.26 18:39:59
 OL,1,A]G                             ORF III 
 OL,2,A]GFERNSEHEN  ]AAAAA   Samstag, 28.11. \
 OL,3,Q#############                  G  3/3  
-OL,4,F02.10 FFernsehen wie damals: 16mm -    
-OL,5,       FSch{tze aus dem Fernseharchiv   
-OL,6,       EUT                              
-OL,7,G03.00 GErbe \sterreich: Kaiserliches   
-OL,8,       GWien - eine Gro~stadt k{mpft    
-OL,9,       Ggegen die K{lteEUT              
-OL,10,F03.45 FErbe \sterreich: \sterreichs    
-OL,11,       Fsch|nste Sagen - die Story      
-OL,12,       FdahinterEUT                     
-OL,13,G04.35 GErbe \sterreich: Der Sagenj{ger 
-OL,14,       G- Max M}llerEUT                 
-OL,15,F05.20 FUnser \sterreich: Winter-       
-OL,16,       FWildnis - ]berleben in K{lte    
-OL,17,       Fund SchneeEUT                   
-OL,18,G05.45 GFernsehen wie damals: 16mm -    
-OL,19,       GSch{tze aus dem Fernseharchiv   
-OL,20,       EUT                              
+OL,4,F01.05 FDie Tafelrunde: KLEINKUNST]EUT  
+OL,5,G02.10 GFernsehen wie damals: 16mm -    
+OL,6,       GSch{tze aus dem Fernseharchiv   
+OL,7,       EUT                              
+OL,8,F03.00 FErbe \sterreich: Kaiserliches   
+OL,9,       FWien - eine Gro~stadt k{mpft    
+OL,10,       Fgegen die K{lteEUT              
+OL,11,G03.45 GErbe \sterreich: \sterreichs    
+OL,12,       Gsch|nste Sagen - die Story      
+OL,13,       GdahinterEUT                     
+OL,14,F04.35 FErbe \sterreich: Der Sagenj{ger 
+OL,15,       F- Max M}llerEUT                 
+OL,16,G05.20 GUnser \sterreich: Winter-       
+OL,17,       GWildnis - ]berleben in K{lte    
+OL,18,       Gund SchneeEUT                   
+OL,19,F05.45 FFernsehen wie damals: 16mm -    
+OL,20,       FSch{tze aus dem Fernseharchiv   
+OL,21,       EUT                              
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100

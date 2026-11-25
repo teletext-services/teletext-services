@@ -3,53 +3,71 @@ PN,40401
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G404 WDR Text GMi 25.11.26 13:41:43
+OL,0,     G404 WDR Text GDo 26.11.26 00:09:28
 OL,1,]D]        G]               @]    CRADIO
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     WDR 4                     
-OL,4,          CMittwoch, 25.11.26           
+OL,4,         CDonnerstag, 26.11.26          
 OL,5,B06.00 Guten Morgen mit WDR 4           
 OL,6,       Mit Bastian Bender               
-OL,7,       Darin: zur vollen Stunde Wetter, 
-OL,8,       WDR aktuell, zur halben Stunde   
-OL,9,       Regio-Wetter, WDR 4 Regional,    
-OL,10,       06:30, 07:30 WDR aktuell, 08:55  
-OL,11,       Kirche in WDR 4                  
-OL,12,B10.00 WDR 4 mit Stefan Verhasselt      
-OL,13,       Darin: zur vollen Stunde Wetter, 
-OL,14,       WDR aktuell, zur halben Stunde   
-OL,15,       Wetter, WDR 4 Regional, 12:00 Der
-OL,16,       Tag um zw|lf                     
-OL,17,B14.00 WDR 4 Lokalzeit                  
-OL,18,       Mit Cathrin Brackmann            
-OL,19,       Darin: zur vollen Stunde Wetter, 
-OL,20,       WDR aktuell, zur halben Stunde   
-OL,21,       Wetter, WDR aktuell, WDR 4 Regio-
-OL,22,       nal                              
+OL,7,       Darin:                           
+OL,8,       zur vollen Stunde Wetter, WDR ak-
+OL,9,       tuell                            
+OL,10,       zur halben Stunde Regio-Wetter,  
+OL,11,       WDR 4 Regional                   
+OL,12,       06:30, 07:30 WDR aktuell         
+OL,13,       08:55 Kirche in WDR 4            
+OL,14,B10.00 WDR 4 mit Stefan Verhasselt      
+OL,15,       Darin:                           
+OL,16,       zur vollen Stunde Wetter, WDR ak-
+OL,17,       tuell                            
+OL,18,       zur halben Stunde Wetter, WDR 4  
+OL,19,       Regional                         
+OL,20,       12:00 Der Tag um zw|lf           
 OL,23,]D400 < ]bersicht            WDR 5 > 405
-OL,24,A]G- 403B]G+ 405C]DWDR 4 \        G(1/2)
+OL,24,A]G- 403B]G+ 405C]DWDR 4 \        G(1/3)
 FL,403,405,0,0,0,100
 PN,40402
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G404 WDR Text GMi 25.11.26 13:41:43
+OL,0,     G404 WDR Text GDo 26.11.26 00:09:28
 OL,1,]D]        G]               @]    CRADIO
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     WDR 4                     
-OL,4,          CMittwoch, 25.11.26           
-OL,5,B18.00 WDR 4 mit J}rgen Mayer           
-OL,6,       Darin: 18:00 Der Tag um sechs    
-OL,7,       19:00, 20:00 Wetter, WDR aktuell 
-OL,8,       zur halben Stunde Wetter         
-OL,9,B21.00 ARD Abend                        
-OL,10,       Radio f}r Alle                   
-OL,11,       Darin: zur vollen Stunde WDR ak- 
-OL,12,       tuell                            
-OL,13,B23.00 ARD Hitnacht                     
-OL,14,       Radio f}r Alle                   
-OL,15,       Darin: zur vollen Stunde WDR ak- 
-OL,16,       tuell                            
+OL,4,         CDonnerstag, 26.11.26          
+OL,5,B14.00 WDR 4 Lokalzeit                  
+OL,6,       Mit Stefan Vogt                  
+OL,7,       Darin:                           
+OL,8,       zur vollen Stunde Wetter, WDR ak-
+OL,9,       tuell                            
+OL,10,       zur halben Stunde Wetter, WDR ak-
+OL,11,       tuell, WDR 4 Regional            
+OL,12,B18.00 WDR 4 mit J}rgen Mayer           
+OL,13,       Darin:                           
+OL,14,       18:00 Der Tag um sechs           
+OL,15,       19:00, 20:00 Wetter, WDR aktuell 
+OL,16,       zur halben Stunde Wetter         
+OL,17,B21.00 ARD Abend                        
+OL,18,       Radio f}r Alle                   
+OL,19,       Darin:                           
+OL,20,       zur vollen Stunde WDR aktuell    
 OL,23,]D400 < ]bersicht            WDR 5 > 405
-OL,24,A]G- 403B]G+ 405C]DWDR 4 \        G(2/2)
+OL,24,A]G- 403B]G+ 405C]DWDR 4 \        G(2/3)
+FL,403,405,0,0,0,100
+PN,40403
+SC,0003
+PS,C200
+CT,15,T
+OL,0,     G404 WDR Text GDo 26.11.26 00:09:28
+OL,1,]D]        G]               @]    CRADIO
+OL,2,]D]GWDR     ]DPROGRAMM       ]          
+OL,3,]T5D     WDR 4                     
+OL,4,         CDonnerstag, 26.11.26          
+OL,5,B23.00 ARD Hitnacht                     
+OL,6,       Radio f}r Alle                   
+OL,7,       Darin:                           
+OL,8,       zur vollen Stunde WDR aktuell    
+OL,23,]D400 < ]bersicht            WDR 5 > 405
+OL,24,A]G- 403B]G+ 405C]DWDR 4 \        G(3/3)
 FL,403,405,0,0,0,100

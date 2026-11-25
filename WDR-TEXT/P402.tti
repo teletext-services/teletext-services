@@ -3,76 +3,93 @@ PN,40201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G402 WDR Text GMi 25.11.26 13:41:08
+OL,0,     G402 WDR Text GDo 26.11.26 00:09:26
 OL,1,]D]        G]               @]    CRADIO
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     WDR 2                     
-OL,4,          CMittwoch, 25.11.26           
+OL,4,         CDonnerstag, 26.11.26          
 OL,5,B00.00 WDR 2 Popnacht                   
-OL,6,       Darin:  zur vollen Stunde WDR ak-
-OL,7,       tuell                            
+OL,6,       Darin:                           
+OL,7,       zur vollen Stunde WDR aktuell    
 OL,8,B05.00 WDR 2 Das Morgenmagazin          
-OL,9,       Mit Jan Malte Andresen, Conny    
-OL,10,       Raupold                          
-OL,11,       Darin: Wetter, 05:00, 05:30,     
-OL,12,       06:00, 06:30, 07:00, 07:30, 08:00
-OL,13,       WDR aktuell, 05:56 Kirche in WDR 
-OL,14,       2, 06:30, 07:30, 08:30 WDR 2 Re- 
-OL,15,       gional                           
-OL,16,B09.00 WDR 2 Der Vormittag              
-OL,17,       Mit Johannes Simon               
-OL,18,       Darin: zur vollen Stunde WDR ak- 
-OL,19,       tuell, zur halben Stunde WDR 2   
-OL,20,       Regional, 10:40 WDR 2 Kabarett - 
-OL,21,       Martin Zingsheim, 11:45 Der      
-OL,22,       Stichtag                         
+OL,9,       Mit Sabine Heinrich, Fabian Ra-  
+OL,10,       phael                            
+OL,11,       Darin:                           
+OL,12,       Wetter                           
+OL,13,       05:00, 05:30, 06:00, 06:30,      
+OL,14,       07:00, 07:30, 08:00 WDR aktuell  
+OL,15,       05:56 Kirche in WDR 2            
+OL,16,       06:30, 07:30, 08:30 WDR 2 Regio- 
+OL,17,       nal                              
 OL,23,]D400 < ]bersicht            WDR 3 > 403
-OL,24,A]G- 401B]G+ 403C]DWDR 2 \        G(1/3)
+OL,24,A]G- 401B]G+ 403C]DWDR 2 \        G(1/4)
 FL,401,403,0,0,0,100
 PN,40202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G402 WDR Text GMi 25.11.26 13:41:08
+OL,0,     G402 WDR Text GDo 26.11.26 00:09:26
 OL,1,]D]        G]               @]    CRADIO
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     WDR 2                     
-OL,4,          CMittwoch, 25.11.26           
-OL,5,B12.00 WDR 2 Die gute Stunde            
+OL,4,         CDonnerstag, 26.11.26          
+OL,5,B09.00 WDR 2 Der Vormittag              
 OL,6,       Mit Johannes Simon               
-OL,7,       Darin: zur vollen Stunde WDR ak- 
-OL,8,       tuell; zur halben Stunde WDR ak- 
-OL,9,       tuell und Lokalzeit auf WDR 2    
-OL,10,B13.00 WDR 2 Das Mittagsmagazin         
-OL,11,       Mit Tobi Strau~                  
-OL,12,       Darin: zur vollen Stunde WDR ak- 
-OL,13,       tuell, zur halben Stunde WDR 2   
-OL,14,       Regional                         
-OL,15,B15.00 WDR 2 Der Nachmittag             
-OL,16,       Mit Thomas Bug                   
-OL,17,       Darin: 15:00, 16:00, 17:00 WDR   
-OL,18,       aktuell, zur halben Stunde bis   
-OL,19,       17:30 WDR 2 Regional, 18:00 Der  
-OL,20,       Tag um sechs                     
+OL,7,       Darin:                           
+OL,8,       zur vollen Stunde WDR aktuell    
+OL,9,       zur halben Stunde WDR 2 Regional 
+OL,10,       10:40 WDR 2 Kabarett - Dieter    
+OL,11,       Nuhr                             
+OL,12,       11:45 Der Stichtag               
+OL,13,B12.00 WDR 2 Die gute Stunde            
+OL,14,       Mit Johannes Simon               
+OL,15,       Darin:                           
+OL,16,       zur vollen Stunde WDR aktuell    
+OL,17,       zur halben Stunde WDR aktuell und
+OL,18,       Lokalzeit auf WDR 2              
 OL,23,]D400 < ]bersicht            WDR 3 > 403
-OL,24,A]G- 401B]G+ 403C]DWDR 2 \        G(2/3)
+OL,24,A]G- 401B]G+ 403C]DWDR 2 \        G(2/4)
 FL,401,403,0,0,0,100
 PN,40203
 SC,0003
 PS,C200
 CT,15,T
-OL,0,     G402 WDR Text GMi 25.11.26 13:41:08
+OL,0,     G402 WDR Text GDo 26.11.26 00:09:26
 OL,1,]D]        G]               @]    CRADIO
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     WDR 2                     
-OL,4,          CMittwoch, 25.11.26           
-OL,5,B19.00 WDR 2 Das Abendmagazin           
-OL,6,       Mit Johanna Horn                 
-OL,7,       Darin: zur vollen Stunde WDR ak- 
-OL,8,       tuell                            
-OL,9,B21.00 WDR 2 POP. Die Abendshow         
-OL,10,       Darin: zur vollen Stunde WDR ak- 
-OL,11,       tuell                            
+OL,4,         CDonnerstag, 26.11.26          
+OL,5,B13.00 WDR 2 Das Mittagsmagazin         
+OL,6,       Mit Thilo Jahn                   
+OL,7,       Darin:                           
+OL,8,       zur vollen Stunde WDR aktuell    
+OL,9,       zur halben Stunde WDR 2 Regional 
+OL,10,B15.00 WDR 2 Der Nachmittag             
+OL,11,       Mit Johanna Horn                 
+OL,12,       Darin:                           
+OL,13,       15:00, 16:00, 17:00 WDR aktuell  
+OL,14,       zur halben Stunde bis 17:30 WDR 2
+OL,15,       Regional                         
+OL,16,       18:00 Der Tag um sechs           
+OL,17,B19.00 WDR 2 Das Abendmagazin           
+OL,18,       Mit Tobi Strauss                 
+OL,19,       Darin:                           
+OL,20,       zur vollen Stunde WDR aktuell    
 OL,23,]D400 < ]bersicht            WDR 3 > 403
-OL,24,A]G- 401B]G+ 403C]DWDR 2 \        G(3/3)
+OL,24,A]G- 401B]G+ 403C]DWDR 2 \        G(3/4)
+FL,401,403,0,0,0,100
+PN,40204
+SC,0004
+PS,C200
+CT,15,T
+OL,0,     G402 WDR Text GDo 26.11.26 00:09:26
+OL,1,]D]        G]               @]    CRADIO
+OL,2,]D]GWDR     ]DPROGRAMM       ]          
+OL,3,]T5D     WDR 2                     
+OL,4,         CDonnerstag, 26.11.26          
+OL,5,B21.00 WDR 2 POP. Die Abendshow         
+OL,6,       Darin:                           
+OL,7,       zur vollen Stunde WDR aktuell    
+OL,23,]D400 < ]bersicht            WDR 3 > 403
+OL,24,A]G- 401B]G+ 403C]DWDR 2 \        G(4/4)
 FL,401,403,0,0,0,100

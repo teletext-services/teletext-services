@@ -1,13 +1,58 @@
 DE,WDR-TEXT 672
-PN,67200
-SC,0000
-PS,8208
+PN,67201
+SC,0001
+PS,C200
 CT,15,T
-OL,0,     G672 WDR Text GMi 25.11.26 13:47:25
+OL,0,     G672 WDR Text GDo 26.11.26 00:15:19
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DSpezial-Ticker ]          
 OL,3,]T5D     Fu~ball Live-Ticker       
-OL,5,CAtletico : Viking                  -:- 
+OL,5,CAtletico : Viking             2:0 (2:0)
+OL,7,CTore:                                  
+OL,8, 1:0 S rloth (19.) 2:0 Alvarez (24.)    
+OL,10,CStrafen:                               
+OL,11,S|GStensness (46.) Q|GFalchener (90.)   
+OL,13,CSR: GErik Lambrechts                   
+OL,22,CAtletico : Viking             2:0 (2:0)
 OL,23,]D600 < ]bersicht              weiter >>
-OL,24,A]G- 671B]G+ 673  \                     
+OL,24,A]G- 671B]G+ 673  \               G(1/3)
+FL,671,673,0,0,0,100
+PN,67202
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G672 WDR Text GDo 26.11.26 00:15:19
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DSpezial-Ticker ]          
+OL,3,]T5D     Fu~ball Live-Ticker       
+OL,6,CAustellungen:                          
+OL,8,CAtletico                               
+OL,9, Oblak  lex Grimaldo Hancko Le Normand  
+OL,10, Marcos Llorente                        
+OL,11,  lex Baena (46. Pablo Barrios)         
+OL,12, Cardoso Koke (68. Hjulmand)            
+OL,13, Lee (57. Simeone)                      
+OL,14, S rloth (71. Rodrigo Mendoza)          
+OL,15, Alvarez (57. David)                    
+OL,16,CViking                                 
+OL,17, Belko Heggheim (57. Auklend)           
+OL,18, Falchener Stensness                    
+OL,19, Haugen (76. Cosic)                     
+OL,20, Kvia-Egeskog (57. Christiansen)        
+OL,21, Moi (76. Fuglestad)                    
+OL,22, Askildsen (82. Bell) Tripi  Botheim    
+OL,23,]D600 < ]bersicht              weiter >>
+OL,24,A]G- 671B]G+ 673  \               G(2/3)
+FL,671,673,0,0,0,100
+PN,67203
+SC,0003
+PS,C200
+CT,15,T
+OL,0,     G672 WDR Text GDo 26.11.26 00:15:19
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DSpezial-Ticker ]          
+OL,3,]T5D     Fu~ball Live-Ticker       
+OL,5, Bj rdal                                
+OL,23,]D600 < ]bersicht              weiter >>
+OL,24,A]G- 671B]G+ 673  \               G(3/3)
 FL,671,673,0,0,0,100

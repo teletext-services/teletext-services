@@ -3,29 +3,29 @@ PN,48001
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G480 YLE TEKSTI-TV 25.03.11:51:55
+OL,0,       G480 YLE TEKSTI-TV 25.03.21:51:13
 OL,1,D]G     TULOSVETO 1  J{{kiekko     1/10 
-OL,2,FKertoimet 12.45,   vaihto        2453 E
-OL,3,BHIFK        - TPS                      
+OL,2,FKertoimet 22.46,   vaihto          13 E
+OL,3,BLukko       - Jukurit                  
 OL,4,FKotivoitto   Tasapeli     Vierasvoitto 
-OL,5,G 3- 2  12,26  2- 2  10,23  2- 3  17,48 
-OL,6,G 4- 2  12,30  3- 3  10,70  2- 4  23,31 
-OL,7,G 3- 1  14,36  4- 4  34,03  1- 3  24,37 
-OL,8,F 4- 1  16,71  1- 1  38,54  1- 4  28,61 
-OL,9,G 5- 2  18,33  0- 0  60,92  2- 5  34,34 
-OL,10,G 4- 3  25,35  5- 5 104,93  3- 4  34,65 
-OL,11,G 5- 3  25,52  6- 6 944,40  1- 2  39,35 
-OL,12,F 2- 1  28,19               3- 5  51,04 
-OL,13,G 5- 1  48,43               0- 3  78,70 
-OL,14,G 4- 0  49,70               2- 6  99,41 
-OL,15,G 3- 0  60,92               0- 2 125,92 
-OL,16,F 6- 1  60,92               0- 4 125,92 
-OL,17,G 6- 2  78,70               3- 6 125,92 
-OL,18,G 2- 0  82,12               1- 5 134,91 
-OL,19,G 7- 3  85,85               0- 1 171,71 
-OL,20,FMuut   94,44              Muut  209,86 
+OL,5,G 3- 1   5,00  2- 2   5,00              
+OL,6,G 2- 0  10,01                           
+OL,7,G 2- 1  10,01                           
+OL,8,F 3- 0  10,01                           
+OL,9,G 3- 2  10,01                           
+OL,10,G 4- 0  10,01                           
+OL,11,G 4- 1  10,01                           
+OL,12,F 4- 2  10,01                           
+OL,13,G 5- 2  10,01                           
+OL,14,G 6- 3  10,01                           
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
 OL,21,FMuut=muut kertoimet v{hint{{n          
-OL,22,BPeliaika p{{ttyy ke 25.11. klo 18.28   
+OL,22,BPeliaika p{{ttyy pe 27.11. klo 17.28   
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -33,59 +33,59 @@ PN,48002
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G480 YLE TEKSTI-TV 25.03.11:51:55
+OL,0,       G480 YLE TEKSTI-TV 25.03.21:51:13
 OL,1,D]G     TULOSVETO 2  J{{kiekko     2/10 
-OL,2,FKertoimet 12.45,   vaihto        9540 E
-OL,3,BJokerit     - KooKoo                   
+OL,2,FKertoimet 22.45,   vaihto        9,00 E
+OL,3,BTappara     - K-Espoo                  
 OL,4,FKotivoitto   Tasapeli     Vierasvoitto 
-OL,5,G 4- 2  48,27  2- 2  59,83  2- 3 100,72 
-OL,6,G 5- 2  50,94  3- 3  66,18  2- 4 102,80 
-OL,7,G 4- 1  59,75  4- 4 115,77  3- 4 147,02 
-OL,8,F 3- 2  60,63  1- 1 174,17  1- 3 165,83 
-OL,9,G 3- 1  69,40  0- 0 279,04  1- 4 178,03 
-OL,10,G 5- 3  74,51  5- 5 352,85  3- 5 181,09 
-OL,11,G 5- 1  80,31  6- 6 1367,3  2- 5 190,69 
-OL,12,F 6- 2  97,90  7- 7 3038,4  1- 2 219,64 
-OL,13,G 4- 3 100,72  8- 8 9115,3  3- 6 370,03 
-OL,14,G 6- 3 106,32  9- 9 13673,0  0- 2 390,65
-OL,15,G 2- 1 179,31 10-10 13673,0  4- 5 393,46
-OL,16,F 3- 0 184,14               2- 6 395,17 
-OL,17,G 6- 1 191,23               1- 5 396,31 
-OL,18,G 4- 0 193,94               0- 1 463,49 
-OL,19,G 5- 4 208,74               0- 3 497,19 
-OL,20,FMuut  243,07              Muut  594,47 
+OL,5,G 3- 1   6,93  2- 2   3,46  0- 6   6,93 
+OL,6,G 3- 2   6,93               2- 4   6,93 
+OL,7,G 4- 2   6,93               3- 4   6,93 
+OL,8,F 5- 0   6,93                           
+OL,9,K                                       
+OL,10,K                                       
+OL,11,K                                       
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
 OL,21,FMuut=muut kertoimet v{hint{{n          
-OL,22,BPeliaika p{{ttyy ke 25.11. klo 18.28   
-OL,23,CBonusrahaa - 20 000 e lis{t{{n jakosumm
+OL,22,BPeliaika p{{ttyy pe 27.11. klo 18.28   
+OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,48003
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G480 YLE TEKSTI-TV 25.03.11:51:55
+OL,0,       G480 YLE TEKSTI-TV 25.03.21:51:13
 OL,1,D]G     TULOSVETO 3  J{{kiekko     3/10 
-OL,2,FKertoimet 12.45,   vaihto        2505 E
-OL,3,BTappara     - Jukurit                  
+OL,2,FKertoimet 22.45,   vaihto        8,00 E
+OL,3,BKalPa       - JYP                      
 OL,4,FKotivoitto   Tasapeli     Vierasvoitto 
-OL,5,G 3- 2  12,77  2- 2  12,04  2- 3  13,67 
-OL,6,G 3- 1  13,07  3- 3  12,77  1- 3  25,21 
-OL,7,G 4- 2  13,67  4- 4  37,09  2- 4  27,95 
-OL,8,F 4- 1  15,80  1- 1  42,38  3- 4  30,61 
-OL,9,G 5- 2  19,98  0- 0  87,66  1- 4  35,06 
-OL,10,G 5- 1  26,06  5- 5 160,72  2- 5  35,38 
-OL,11,G 4- 3  26,78  6- 6 321,44  3- 5  37,09 
-OL,12,F 5- 3  26,78  7- 7 964,34  1- 2  37,81 
-OL,13,G 3- 0  32,96               0- 3  80,36 
-OL,14,G 2- 1  33,13               2- 6  83,85 
-OL,15,G 4- 0  47,04               3- 6  91,84 
-OL,16,F 6- 2  50,75               1- 5 107,14 
-OL,17,G 6- 1  62,21               0- 1 128,57 
-OL,18,G 2- 0  75,63               0- 2 148,36 
-OL,19,G 5- 0  77,14               0- 4 148,36 
-OL,20,FMuut   91,84              Muut  160,72 
+OL,5,G 3- 1   6,16  2- 2   6,16  2- 3   6,16 
+OL,6,G 3- 2   6,16               2- 4   6,16 
+OL,7,G 4- 2   6,16               2- 5   6,16 
+OL,8,F 7- 0   6,16                           
+OL,9,K                                       
+OL,10,K                                       
+OL,11,K                                       
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
 OL,21,FMuut=muut kertoimet v{hint{{n          
-OL,22,BPeliaika p{{ttyy ke 25.11. klo 18.28   
+OL,22,BPeliaika p{{ttyy pe 27.11. klo 18.28   
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -93,29 +93,29 @@ PN,48004
 SC,0004
 PS,C100
 CT,15,T
-OL,0,       G480 YLE TEKSTI-TV 25.03.11:51:55
+OL,0,       G480 YLE TEKSTI-TV 25.03.21:51:13
 OL,1,D]G     TULOSVETO 4  J{{kiekko     4/10 
-OL,2,FKertoimet 12.45,   vaihto        2100 E
-OL,3,BK{rp{t      - Pelicans                 
+OL,2,FKertoimet 22.45,   vaihto          12 E
+OL,3,BKooKoo      - HPK                      
 OL,4,FKotivoitto   Tasapeli     Vierasvoitto 
-OL,5,G 4- 2  12,63  2- 2  11,00  2- 4  23,43 
-OL,6,G 5- 2  14,12  3- 3  14,69  2- 3  23,88 
-OL,7,G 4- 1  15,32  4- 4  35,14  1- 3  28,11 
-OL,8,F 3- 2  16,10  1- 1  40,41  3- 4  30,27 
-OL,9,G 3- 1  18,16  0- 0  52,15  1- 2  32,66 
-OL,10,G 2- 1  21,84  5- 5 134,73  2- 5  33,26 
-OL,11,G 5- 3  23,77  6- 6 269,46  1- 4  42,10 
-OL,12,F 5- 1  30,85  7- 7 1616,8  3- 5  46,19 
-OL,13,G 6- 2  31,09               0- 2  80,83 
-OL,14,G 4- 3  33,68               2- 6 107,78 
-OL,15,G 3- 0  48,99               0- 1 115,48 
-OL,16,F 4- 0  48,99               1- 5 124,36 
-OL,17,G 6- 1  48,99               0- 3 134,73 
-OL,18,G 6- 3  57,74               3- 6 146,97 
-OL,19,G 5- 0  59,88               0- 4 179,64 
-OL,20,FMuut   76,98              Muut  179,64 
+OL,5,G 3- 1   4,62  2- 2   4,62  2- 3   9,24 
+OL,6,G 2- 1   9,24  3- 3   9,24              
+OL,7,G 3- 2   9,24                           
+OL,8,F 4- 1   9,24                           
+OL,9,G 4- 2   9,24                           
+OL,10,G 4- 3   9,24                           
+OL,11,G 6- 0   9,24                           
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
 OL,21,FMuut=muut kertoimet v{hint{{n          
-OL,22,BPeliaika p{{ttyy ke 25.11. klo 18.28   
+OL,22,BPeliaika p{{ttyy pe 27.11. klo 18.28   
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -123,29 +123,29 @@ PN,48005
 SC,0005
 PS,C100
 CT,15,T
-OL,0,       G480 YLE TEKSTI-TV 25.03.11:51:55
+OL,0,       G480 YLE TEKSTI-TV 25.03.21:51:13
 OL,1,D]G     TULOSVETO 5  J{{kiekko     5/10 
-OL,2,FKertoimet 12.45,   vaihto         546 E
-OL,3,BTUTO Hockey - KeuPa HT                 
+OL,2,FKertoimet 22.46,   vaihto         139 E
+OL,3,BSport       - Ilves                    
 OL,4,FKotivoitto   Tasapeli     Vierasvoitto 
-OL,5,G 5- 2   9,34  2- 2   9,55  2- 3  26,27 
-OL,6,G 4- 1  12,01  3- 3  14,49  2- 5  30,03 
-OL,7,G 4- 2  12,93  4- 4  38,22  3- 5  38,22 
-OL,8,F 3- 2  17,51  1- 1  52,55  1- 3  42,04 
-OL,9,G 3- 1  20,50  5- 5 105,10  1- 4  46,71 
-OL,10,G 5- 3  22,72  0- 0 140,14  2- 4  46,71 
-OL,11,G 6- 2  24,73  6- 6 210,21  1- 5  60,06 
-OL,12,F 5- 1  26,27               3- 4  70,07 
-OL,13,G 4- 3  27,12               3- 6  70,07 
-OL,14,G 6- 3  35,03               2- 6  84,08 
-OL,15,G 4- 0  46,71               0- 2 140,14 
-OL,16,F 6- 1  46,71               1- 2 140,14 
-OL,17,G 2- 0  60,06               4- 5 140,14 
-OL,18,G 5- 0  70,07               0- 7 210,21 
-OL,19,G 7- 0  84,08               1- 6 210,21 
-OL,20,FMuut   84,08              Muut  420,42 
+OL,5,G 4- 2   8,23  2- 2   6,68  1- 4   9,73 
+OL,6,G 3- 1  26,75  3- 3   9,73  1- 5   9,73 
+OL,7,G 2- 1  35,67  5- 5 107,03  1- 3  11,89 
+OL,8,F 5- 3  35,67               2- 3  13,37 
+OL,9,G 5- 2  53,51               2- 4  13,37 
+OL,10,G 6- 2  53,51               1- 2  17,83 
+OL,11,G 4- 3 107,03               2- 5  17,83 
+OL,12,F 5- 4 107,03               3- 5  26,75 
+OL,13,G 6- 1 107,03               1- 6  35,67 
+OL,14,G 6- 3 107,03               2- 6  35,67 
+OL,15,G                           1- 7  53,51 
+OL,16,F                           0- 4 107,03 
+OL,17,G                           1- 8 107,03 
+OL,18,G                           1- 9 107,03 
+OL,19,G                           1-10 107,03 
+OL,20,F                          Muut  107,03 
 OL,21,FMuut=muut kertoimet v{hint{{n          
-OL,22,BPeliaika p{{ttyy ke 25.11. klo 18.28   
+OL,22,BPeliaika p{{ttyy to 26.11. klo 18.28   
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -153,29 +153,29 @@ PN,48006
 SC,0006
 PS,C100
 CT,15,T
-OL,0,       G480 YLE TEKSTI-TV 25.03.11:51:55
-OL,1,D]G     TULOSVETO 6  Salibandy     6/10 
-OL,2,FKertoimet 12.45,   vaihto         518 E
-OL,3,BClassic N   - TPS N                    
+OL,0,       G480 YLE TEKSTI-TV 25.03.21:51:13
+OL,1,D]G     TULOSVETO 6  J{{kiekko     6/10 
+OL,2,FKertoimet 22.46,   vaihto       10,00 E
+OL,3,BPyry        - Ketter{                  
 OL,4,FKotivoitto   Tasapeli     Vierasvoitto 
-OL,5,G 6- 4  14,24  4- 4  15,34  3- 5  24,92 
-OL,6,G 6- 3  20,99  5- 5  20,99  4- 6  33,23 
-OL,7,G 7- 4  23,46  3- 3  26,59  4- 7  36,26 
-OL,8,F 5- 3  26,59  2- 2  36,26  2- 3  39,88 
-OL,9,G 6- 5  28,49  6- 6  39,88  3- 4  39,88 
-OL,10,G 5- 4  30,68  7- 7  56,98  2- 4  44,31 
-OL,11,G 4- 3  33,23  0- 0  79,77  2- 5  44,31 
-OL,12,F 7- 3  33,23  1- 1 132,95  4- 5  49,85 
-OL,13,G 7- 5  33,23  8- 8 398,86  5- 7  49,85 
-OL,14,G 3- 2  39,88  9- 9 398,86  6- 7  49,85 
-OL,15,G 4- 2  39,88 10-10 398,86  3- 7  56,98 
-OL,16,F 6- 2  44,31               5- 6  56,98 
-OL,17,G 8- 6  44,31               3- 6  66,47 
-OL,18,G 5- 2  49,85               2- 6  79,77 
-OL,19,G 8- 3  66,47               2- 8  99,71 
-OL,20,FMuut   66,47              Muut   99,71 
+OL,5,G 5- 4   7,70  2- 2   7,70  1- 5   7,70 
+OL,6,G 6- 0   7,70  3- 3   7,70  1- 6   7,70 
+OL,7,G              5- 5   7,70  2- 5   7,70 
+OL,8,F                           2- 6   7,70 
+OL,9,G                           4- 5   7,70 
+OL,10,K                                       
+OL,11,K                                       
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
 OL,21,FMuut=muut kertoimet v{hint{{n          
-OL,22,BPeliaika p{{ttyy ke 25.11. klo 18.28   
+OL,22,BPeliaika p{{ttyy to 26.11. klo 18.28   
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -183,29 +183,29 @@ PN,48007
 SC,0007
 PS,C100
 CT,15,T
-OL,0,       G480 YLE TEKSTI-TV 25.03.11:51:55
-OL,1,D]G    TULOSVETO 7  Jalkapallo     7/10 
-OL,2,FKertoimet 12.45,   vaihto         255 E
-OL,3,BSabah FC Masaz - Barcelona             
+OL,0,       G480 YLE TEKSTI-TV 25.03.21:51:13
+OL,1,D]G     TULOSVETO 7  J{{kiekko     7/10 
+OL,2,FKertoimet 22.46,   vaihto          32 E
+OL,3,BHIFK        - SaiPa                    
 OL,4,FKotivoitto   Tasapeli     Vierasvoitto 
-OL,5,G 1- 0  98,32  1- 1  32,77  0- 4   8,19 
-OL,6,G 3- 2  98,32  0- 0  49,16  1- 4   9,36 
-OL,7,G 2- 1 196,65  2- 2  49,16  0- 3  10,92 
-OL,8,F 3- 1 196,65  3- 3  65,55  1- 3  10,92 
-OL,9,G                           1- 5  11,43 
-OL,10,G                           0- 7  14,04 
-OL,11,G                           1- 6  14,04 
-OL,12,F                           0- 2  15,12 
-OL,13,G                           1- 7  15,12 
-OL,14,G                           0- 5  16,38 
-OL,15,G                           0- 6  17,87 
-OL,16,F                           1- 2  19,66 
-OL,17,G                           0- 8  24,58 
-OL,18,G                           1- 8  24,58 
-OL,19,G                           0- 1  28,09 
-OL,20,F                          Muut   39,33 
+OL,5,G 4- 3   6,16  2- 2  24,64  1- 3   4,92 
+OL,6,G 3- 1  24,64               1- 6   8,21 
+OL,7,G 4- 2  24,64               4- 6   8,21 
+OL,8,F 5- 2  24,64               1- 4  12,32 
+OL,9,G 5- 3  24,64               1- 5  12,32 
+OL,10,G 6- 2  24,64               2- 3  12,32 
+OL,11,G 6- 3  24,64               2- 4  12,32 
+OL,12,F                           2- 5  12,32 
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
 OL,21,FMuut=muut kertoimet v{hint{{n          
-OL,22,BPeliaika p{{ttyy ke 25.11. klo 19.43   
+OL,22,BPeliaika p{{ttyy pe 27.11. klo 19.28   
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -213,29 +213,29 @@ PN,48008
 SC,0008
 PS,C100
 CT,15,T
-OL,0,       G480 YLE TEKSTI-TV 25.03.11:51:55
+OL,0,       G480 YLE TEKSTI-TV 25.03.21:51:13
 OL,1,D]G    TULOSVETO 8  Jalkapallo     8/10 
-OL,2,FKertoimet 12.45,   vaihto         365 E
+OL,2,FKertoimet 22.46,   vaihto        1944 E
 OL,3,BSporting CP - Manchester U             
 OL,4,FKotivoitto   Tasapeli     Vierasvoitto 
-OL,5,G 2- 1   8,91  1- 1   8,25  0- 3  12,20 
-OL,6,G 3- 0   9,35  0- 0  10,79  1- 2  14,77 
-OL,7,G 2- 0  14,03  2- 2  11,69  2- 3  20,04 
-OL,8,F 3- 1  16,50  3- 3  18,71  0- 2  24,40 
-OL,9,G 3- 2  23,38  4- 4  70,16  0- 1  25,51 
-OL,10,G 1- 0  35,08               1- 3  26,73 
-OL,11,G 4- 1  40,09               0- 4  56,13 
-OL,12,F 4- 2  40,09               1- 4  56,13 
-OL,13,G 4- 3  56,13               2- 4  56,13 
-OL,14,G 4- 0  70,16               3- 4  56,13 
-OL,15,G 5- 1  93,55               2- 8 140,33 
-OL,16,F 5- 4 140,33               0- 5 280,66 
-OL,17,G                           1- 5 280,66 
-OL,18,G                           2- 5 280,66 
-OL,19,G                           3- 5 280,66 
-OL,20,K                                       
+OL,5,G 2- 1  10,50  1- 1   9,17  1- 2  12,06 
+OL,6,G 3- 1  14,12  2- 2  12,66  0- 1  15,72 
+OL,7,G 1- 0  15,90  0- 0  15,54  0- 2  17,28 
+OL,8,F 2- 0  17,08  3- 3  29,35  1- 3  17,46 
+OL,9,G 3- 2  20,50  4- 4 166,32  2- 3  17,99 
+OL,10,G 3- 0  22,01               2- 4  27,21 
+OL,11,G 4- 1  29,35               1- 4  29,06 
+OL,12,F 4- 2  37,42               0- 3  29,93 
+OL,13,G 4- 0  53,65               0- 4  62,37 
+OL,14,G 4- 3  71,28               3- 4  78,78 
+OL,15,G 5- 1  99,79               2- 5  93,55 
+OL,16,F 5- 2 149,68               1- 5 124,74 
+OL,17,G 5- 0 166,32               0- 5 187,11 
+OL,18,G 5- 3 299,37               3- 5 213,84 
+OL,19,G 5- 4 374,22               0- 6 748,44 
+OL,20,FMuut  374,22              Muut  748,44 
 OL,21,FMuut=muut kertoimet v{hint{{n          
-OL,22,BPeliaika p{{ttyy ke 25.11. klo 21.58   
+OL,22,C            KOHDE SULJETTU             
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -243,29 +243,29 @@ PN,48009
 SC,0009
 PS,C100
 CT,15,T
-OL,0,       G480 YLE TEKSTI-TV 25.03.11:51:55
+OL,0,       G480 YLE TEKSTI-TV 25.03.21:51:13
 OL,1,D]G    TULOSVETO 9  Jalkapallo     9/10 
-OL,2,FKertoimet 12.45,   vaihto         439 E
+OL,2,FKertoimet 22.45,   vaihto        2380 E
 OL,3,BPSG         - Roma                     
 OL,4,FKotivoitto   Tasapeli     Vierasvoitto 
-OL,5,G 3- 1   7,41  2- 2   9,49  1- 2  22,54 
-OL,6,G 2- 1   8,12  1- 1  15,37  2- 3  48,31 
-OL,7,G 2- 0   9,14  3- 3  30,74  0- 1  67,63 
-OL,8,F 3- 0  10,56  0- 0  33,81  1- 3 112,72 
-OL,9,G 4- 0  11,99  4- 4 112,72  2- 4 112,72 
-OL,10,G 3- 2  12,25               0- 2 169,09 
-OL,11,G 4- 1  15,65               3- 4 169,09 
-OL,12,F 4- 2  15,65               0- 4 338,18 
-OL,13,G 5- 1  26,42               1- 4 338,18 
-OL,14,G 5- 2  26,84                           
-OL,15,G 1- 0  37,57                           
-OL,16,F 4- 3  42,27                           
-OL,17,G 5- 0  67,63                           
-OL,18,G 6- 1  84,54                           
-OL,19,G 5- 3 112,72                           
-OL,20,FMuut  169,09                           
+OL,5,G 3- 1   7,58  1- 1  12,76  1- 2  21,74 
+OL,6,G 2- 1  10,23  2- 2  17,69  0- 1  34,51 
+OL,7,G 3- 0  10,94  0- 0  29,60  2- 3  46,87 
+OL,8,F 2- 0  11,40  3- 3  48,23  0- 2  60,48 
+OL,9,G 4- 1  13,27  4- 4 229,10  1- 3  67,38 
+OL,10,G 1- 0  15,96               2- 4 129,98 
+OL,11,G 3- 2  16,73               1- 4 151,47 
+OL,12,F 4- 0  20,09               0- 3 152,73 
+OL,13,G 4- 2  22,05               3- 4 261,83 
+OL,14,G 5- 1  22,54               0- 4 610,94 
+OL,15,G 5- 2  28,15               2- 5 916,41 
+OL,16,F 5- 0  29,09               0- 5 1832,8 
+OL,17,G 4- 3  50,91               1- 5 1832,8 
+OL,18,G 6- 0  57,27               3- 5 1832,8 
+OL,19,G 6- 1  65,45               4- 5 1832,8 
+OL,20,FMuut   67,88                           
 OL,21,FMuut=muut kertoimet v{hint{{n          
-OL,22,BPeliaika p{{ttyy ke 25.11. klo 21.58   
+OL,22,C            KOHDE SULJETTU             
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -273,29 +273,29 @@ PN,48010
 SC,0010
 PS,C100
 CT,15,T
-OL,0,       G480 YLE TEKSTI-TV 25.03.11:51:55
+OL,0,       G480 YLE TEKSTI-TV 25.03.21:51:13
 OL,1,D]G    TULOSVETO 10  Jalkapallo    10/10
-OL,2,FKertoimet 12.45,   vaihto         239 E
+OL,2,FKertoimet 22.46,   vaihto        1526 E
 OL,3,BLille       - Bayern M nchen           
 OL,4,FKotivoitto   Tasapeli     Vierasvoitto 
-OL,5,G 2- 1  20,48  1- 1   9,21  1- 2   6,58 
-OL,6,G 1- 0  36,86  2- 2  20,48  0- 2   6,95 
-OL,7,G 3- 2  61,44  0- 0  26,33  1- 3   8,57 
-OL,8,F 2- 0  92,16  3- 3  36,86  0- 3  10,12 
-OL,9,G 3- 1 184,33               0- 1  15,36 
-OL,10,G                           1- 4  18,07 
-OL,11,G                           2- 3  20,48 
-OL,12,F                           0- 4  23,04 
-OL,13,G                           1- 5  30,72 
-OL,14,G                           2- 4  30,72 
-OL,15,G                           2- 5  30,72 
-OL,16,F                           1- 6  36,86 
-OL,17,G                           0- 5  46,08 
-OL,18,G                           0- 6  61,44 
-OL,19,G                           0- 8  61,44 
-OL,20,F                          Muut   92,16 
+OL,5,G 2- 1  19,38  1- 1   9,62  0- 2   8,59 
+OL,6,G 1- 0  20,97  2- 2  16,00  1- 2   9,42 
+OL,7,G 2- 0  29,36  0- 0  16,78  0- 1   9,85 
+OL,8,F 3- 2  38,64  3- 3  50,20  1- 3  12,11 
+OL,9,G 3- 1  40,50  4- 4 293,69  0- 3  12,60 
+OL,10,G 3- 0  51,07               1- 4  19,67 
+OL,11,G 4- 1 146,84               2- 3  25,31 
+OL,12,F 4- 2 195,79               0- 4  25,53 
+OL,13,G 5- 2 293,69               1- 5  32,63 
+OL,14,G 4- 0 391,59               2- 4  34,55 
+OL,15,G 4- 3 391,59               0- 5  41,95 
+OL,16,F 5- 0 391,59               2- 5  45,18 
+OL,17,G 5- 1 391,59               1- 6  55,94 
+OL,18,G 5- 3 1174,8               0- 6  65,26 
+OL,19,G 5- 4 1174,8               0- 7 106,79 
+OL,20,F                          Muut  106,79 
 OL,21,FMuut=muut kertoimet v{hint{{n          
-OL,22,BPeliaika p{{ttyy ke 25.11. klo 21.58   
+OL,22,C            KOHDE SULJETTU             
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

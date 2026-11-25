@@ -3,28 +3,28 @@ PN,58101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:57:30
+OL,0,       BSWR BW C   Mi, 25.11.26G20:56:12
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN D]SSELDORFP5      
 OL,3,T#########"######################"######
-OL,4,                 STANDC10:55            
+OL,4,                 STANDC20:52            
 OL,5, Plan  Flug    Nach         Erw.  Bemerk
 OL,6, ---------------------------------------
-OL,7, 10:55 TK 1524 Istanbul-IST        C37  
-OL,8,F11:10 EW 9462 London - LHR        A79  
-OL,9, 11:30 KL 1800 Amsterdam           B76  
-OL,10,F11:30 EW 6895 Palma               B79  
-OL,11, 11:30 AF 1607 Paris - CDG         B27  
-OL,12,F11:30 X3 6752 S.El Sheik          C32  
-OL,13, 11:40 EW 9538 Valencia            B33  
-OL,14,F11:45 AT  697 Nador               C36  
-OL,15, 11:50 SK  819 Oslo - OSL          A42  
-OL,16,F12:00 LH 2013 M}nchen             A49  
-OL,17, 12:05 MI 4751 Aswan               C45  
-OL,18,F12:05 A3  841 Athen        12:25  B75  
-OL,19, 12:05 IB 1320 Madrid - MAD        B30  
-OL,20,F12:25 EW 9752 Wien                A54  
-OL,21, 12:35 X3 2116 Fuerte              B76  
+OL,7, 20:25 EW 8047 Berlin - BER 21:45  A54  
+OL,8,F20:45 EK  058 Dubai - DXB         C37  
+OL,9, 20:45 QF 8058 Dubai - DXB         C37  
+OL,10,F20:55 XQ 1321 Kayseri             C46  
+OL,11, 05:50 X3 2252 Jerez-XRY           B42A 
+OL,12,F05:50 X3 2112 Palma               B44A 
+OL,13, 06:00 XR  503 Gran Canaria        B76  
+OL,14,F06:10 EW 9270 Rovaniemi           A40  
+OL,15, 06:15 KL 1796 Amsterdam           B78  
+OL,16,F06:15 LH 2037 M}nchen             A49  
+OL,17, 06:20 LH  079 Frankfurt           A50  
+OL,18,F06:20 BA  941 London - LHR        C42  
+OL,19, 06:25 EW 9982 Hurghada            C32  
+OL,20,F06:25 IB 1326 Madrid - MAD        B72  
+OL,21, 06:25 EW 9840 Mailand-LIN         B74  
 OL,22,V///////////////////////////////////////
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -32,28 +32,28 @@ PN,58102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:57:30
+OL,0,       BSWR BW C   Mi, 25.11.26G20:56:12
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN D]SSELDORFP5      
 OL,3,T#########"######################"######
-OL,4,                 STANDC10:55            
+OL,4,                 STANDC20:52            
 OL,5, Plan  Flug    Nach         Erw.  Bemerk
 OL,6, ---------------------------------------
-OL,7, 12:40 EW 9464 London - LHR        A72  
-OL,8,F12:40 A3  541 Thessaloniki        B37  
-OL,9, 12:55 EW 9242 Kopenhagen          B31  
-OL,10,F13:10 PC 1002 Istanbul-SAW        C46  
-OL,11, 13:10 TP  541 Lissabon            A50  
-OL,12,F13:30 EW 9342 Manchester          A81  
-OL,13, 13:30 IV 8221 Pristina            C45  
-OL,14,F13:35 XQ  185 Antalya             C53  
-OL,15, 13:45 XQ 1391 Gaziantep           C32  
-OL,16,F13:45 EW 9822 Mailand-MXP         A39  
-OL,17, 13:50 GQ  891 Athen               B75  
-OL,18,F13:50 EW 9762 Zuerich             A54  
-OL,19, 13:55 VL 2017 M}nchen             A63  
-OL,20,F14:10 TK 1526 Istanbul-IST        C36  
-OL,21, 14:15 SM 2929 Hurghada            C57  
+OL,7, 06:30 EW 9536 Malaga              B80  
+OL,8,F06:30 EW 9080 M}nchen             A54  
+OL,9, 06:30 EW 9974 Tel Aviv            C56  
+OL,10,F06:35 TK 1530 Istanbul-IST        C37  
+OL,11, 06:40 EW 9340 Manchester          A81  
+OL,12,F06:40 AF 1107 Paris - CDG         B31  
+OL,13, 06:45 EW 9760 Zuerich             A42  
+OL,14,F07:00 EW 9330 Birmingham          A83  
+OL,15, 07:00 EW 9242 Kopenhagen          A63  
+OL,16,F07:00 EW 9460 London - LHR        A72  
+OL,17, 07:00 EW 9770 Prag                B33  
+OL,18,F07:10 LO  406 Warschau            A46  
+OL,19, 07:15 EW 9750 Wien                A45  
+OL,20,F07:20 EW 9546 Fuerte              B37  
+OL,21, 07:25 EW 9542 Gran Canaria        A65  
 OL,22,V                                       
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -61,28 +61,28 @@ PN,58103
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:57:30
+OL,0,       BSWR BW C   Mi, 25.11.26G20:56:12
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN D]SSELDORFP5      
 OL,3,T#########"######################"######
-OL,4,                 STANDC10:55            
+OL,4,                 STANDC20:54            
 OL,5, Plan  Flug    Nach         Erw.  Bemerk
 OL,6, ---------------------------------------
-OL,7, 14:15 XQ  959 Izmir               C42  
-OL,8,F14:25 LH  075 Frankfurt           A49  
-OL,9, 14:30 KL 1802 Amsterdam           B27  
-OL,10,F14:30 EK  056 Dubai - DXB         C37  
-OL,11, 14:30 QF 8056 Dubai - DXB         C37  
-OL,12,F14:35 EW 9466 London - LHR        A72  
-OL,13, 14:45 X3 2292 Arrecife            B37  
-OL,14,F14:45 QR  086 Doha         15:30  C31  
-OL,15, 14:45 LX 1019 Zuerich             A50  
-OL,16,F14:45 LH 5796 Zuerich             A50  
-OL,17, 14:50 AF 1507 Paris - CDG         B33  
-OL,18,F15:00 RJ  130 Amman               C46  
-OL,19, 15:00 EZY8650 London - LGW        A79  
-OL,20,F15:00 EW 9510 Madrid - MAD        B80  
-OL,21, 15:00 EW 9082 M}nchen             A40  
+OL,7, 07:30 EW 9040 Berlin - BER        A39  
+OL,8,F07:30 X3 2114 Gran Canaria        B76  
+OL,9, 07:30 PC 1006 Istanbul-SAW        C45  
+OL,10,F07:40 XQ  181 Antalya             C46  
+OL,11, 08:00 DE 1434 Gran Canaria        B35  
+OL,12,F08:00 EW 9882 Rom - FCO           B29  
+OL,13, 08:00 DE 1428 Teneriffa           B80  
+OL,14,F08:15 KL 1798 Amsterdam           B37  
+OL,15, 08:35 EW 7061 Hamburg             A25  
+OL,16,F08:35 EW 4335 Salzburg            A50  
+OL,17, 08:40 QR  088 Doha                C31  
+OL,18,F08:45 X3 6532 Luxor               C32  
+OL,19, 09:10 EJU3948 Mailand-MXP         B29  
+OL,20,F09:15 DE 1414 Funchal             B27  
+OL,21, 09:25 LH 2005 M}nchen             A65  
 OL,22,V                                       
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -90,28 +90,28 @@ PN,58104
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:57:30
+OL,0,       BSWR BW C   Mi, 25.11.26G20:56:12
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN D]SSELDORFP5      
 OL,3,T#########"######################"######
-OL,4,                 STANDC10:54            
+OL,4,                 STANDC20:54            
 OL,5, Plan  Flug    Nach         Erw.  Bemerk
 OL,6, ---------------------------------------
-OL,7, 15:00 OS  164 Wien                A42  
-OL,8,F15:05 EW 9602 Lissabon            A54  
-OL,9, 15:15 EW 9536 Malaga              B76  
-OL,10,F15:20 EW 9216 Stockholm           A46  
-OL,11, 15:25 SK 1622 Kopenhagen          A45  
-OL,12,F15:30 EW 9044 Berlin - BER        A25  
-OL,13, 15:45 PC 1004 Istanbul-SAW        C45  
-OL,14,F16:00 BA  935 London - LHR        C36  
-OL,15, 16:00 LH 2021 M}nchen             A50  
-OL,16,F16:30 EW 9034 Hamburg             A39  
-OL,17, 16:30 EW 9756 Wien                A63  
-OL,18,F16:35 EW 9442 Barcelona           B80  
-OL,19, 16:35 VF  028 Istanbul-SAW        C42  
-OL,20,F16:45 EW 8045 Berlin - BER        A25  
-OL,21, 16:55 EW 9834 Bologna             A65  
+OL,7, 09:30 VY 1095 Barcelona           B33  
+OL,8,F09:30 JU  361 Belgrad             C46  
+OL,9, 09:35 EY  134 Abu Dhabi           C42  
+OL,10,F09:40 AF 1307 Paris - CDG         B35  
+OL,11, 09:45 EW 4673 Stockholm           A40  
+OL,12,F09:45 LX 1017 Zuerich             A63  
+OL,13, 09:45 LH 5794 Zuerich             A63  
+OL,14,F09:50 OS  162 Wien                A39  
+OL,15, 10:10 PC 1008 Istanbul-SAW        C37  
+OL,16,F10:10 SK 1630 Kopenhagen          A66  
+OL,17, 10:15 LH  073 Frankfurt           A25  
+OL,18,F10:15 DE 3828 La Romana           C36  
+OL,19, 10:15 BA  931 London - LHR        C31  
+OL,20,F10:25 VL 2007 M}nchen             A42  
+OL,21, 10:25 EW 9596 Palma               B76  
 OL,22,V                                       
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -119,28 +119,28 @@ PN,58105
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:57:30
+OL,0,       BSWR BW C   Mi, 25.11.26G20:56:13
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN D]SSELDORFP5      
 OL,3,T#########"######################"######
-OL,4,                 STANDC10:54            
+OL,4,                 STANDC20:54            
 OL,5, Plan  Flug    Nach         Erw.  Bemerk
 OL,6, ---------------------------------------
-OL,7, 17:00 EW 9724 Graz                A66  
-OL,8,F17:00 TU  527 Tunis               C31  
-OL,9, 17:00 EW 9766 Zuerich             B37  
-OL,10,F17:15 AF 1407 Paris - CDG         B33  
-OL,11, 17:20 VL 2023 M}nchen             A42  
-OL,12,F17:20 EW 9754 Wien                A40  
-OL,13, 17:40 EW 9036 Hamburg             A49  
-OL,14,F17:45 GQ  591 Thessaloniki        B75  
-OL,15, 17:55 EW 9784 Budapest            B29  
-OL,16,F17:55 EW 9022 Dresden             A54  
-OL,17, 17:55 BJ  207 Tunis               C45  
-OL,18,F18:00 EW 9084 M}nchen             A25  
-OL,19, 18:05 OS  166 Wien                A39  
-OL,20,F18:15 TK 1528 Istanbul-IST        C46  
-OL,21, 18:20 EW 9468 London - LHR        A81  
+OL,7, 10:25 LO  404 Warschau            A50  
+OL,8,F10:30 EI  693 Dublin              C42  
+OL,9, 10:40 DE  068 Hurghada            C32  
+OL,10,F10:45 TK 1524 Istanbul-IST        C45  
+OL,11, 10:50 EW 5494 Palma               B80  
+OL,12,F10:55 AY 1392 Helsinki            B37  
+OL,13, 10:55 VF  030 Istanbul-SAW        C46  
+OL,14,F11:30 KL 1800 Amsterdam           B74  
+OL,15, 11:30 EW 6895 Palma               B33  
+OL,16,F11:35 EW 9462 London - LHR        A77  
+OL,17, 11:50 SK  819 Oslo - OSL          A42  
+OL,18,F11:50 EW 5498 Palma               B76  
+OL,19, 11:55 DE 1420 Arrecife            B78  
+OL,20,F12:00 EW 9732 Krakau              B31  
+OL,21, 12:00 LH 2013 M}nchen             A25  
 OL,22,V                                       
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -148,28 +148,28 @@ PN,58106
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:57:30
+OL,0,       BSWR BW C   Mi, 25.11.26G20:56:13
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN D]SSELDORFP5      
 OL,3,T#########"######################"######
-OL,4,                 STANDC10:54            
+OL,4,                 STANDC20:55            
 OL,5, Plan  Flug    Nach         Erw.  Bemerk
 OL,6, ---------------------------------------
-OL,7, 18:20 EW 9344 Manchester          A79  
-OL,8,F18:25 EW 9412 Lyon - LYS          B27  
-OL,9, 18:25 EW 9846 Mailand-LIN         B80  
-OL,10,F18:35 LX 1025 Zuerich             A42  
-OL,11, 18:40 KL 1804 Amsterdam           B37  
-OL,12,F18:40 AY 1396 Helsinki            B31  
-OL,13, 18:45 EW 9336 Birmingham          A72  
-OL,14,F18:45 LH  077 Frankfurt           A49  
-OL,15, 18:45 EW 9748 Genf                A50  
-OL,16,F18:50 EW 9046 Berlin - BER        A63  
-OL,17, 18:50 EW 9246 Kopenhagen          A46  
-OL,18,F18:50 KM  353 Malta               B35  
-OL,19, 18:55 BA  937 London - LHR        C31  
-OL,20,F19:00 EW 9764 Zuerich             A25  
-OL,21, 19:10 XQ  795 Ankara              C36  
+OL,7, 12:05 IB 1320 Madrid - MAD        B72  
+OL,8,F12:20 EW 9554 Arrecife            A66  
+OL,9, 12:20 MI 7160 Skopje              C31  
+OL,10,F12:25 EW 9640 Porto               A40  
+OL,11, 12:25 EW 9752 Wien                A50  
+OL,12,F12:30 BQ 1953 Bozen               B80  
+OL,13, 12:30 X3 2118 Teneriffa           B29  
+OL,14,F12:35 X3 2116 Fuerte              B33  
+OL,15, 12:35 X3 4552 Larnaca             C32  
+OL,16,F12:40 PC 1002 Istanbul-SAW        C42  
+OL,17, 12:40 EW 9464 London - LHR        A79  
+OL,18,F12:40 A3  541 Thessaloniki        B37  
+OL,19, 13:10 TP  541 Lissabon            A42  
+OL,20,F13:15 EW 9734 Warschau            A54  
+OL,21, 13:30 EW 9342 Manchester          A81  
 OL,22,V                                       
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -177,7 +177,7 @@ PN,58107
 SC,0007
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:57:30
+OL,0,       BSWR BW C   Mi, 25.11.26G20:56:13
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN D]SSELDORFP5      
 OL,3,T#########"######################"######
@@ -206,7 +206,7 @@ PN,58108
 SC,0008
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:57:30
+OL,0,       BSWR BW C   Mi, 25.11.26G20:56:13
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN D]SSELDORFP5      
 OL,3,T#########"######################"######
@@ -235,7 +235,7 @@ PN,58109
 SC,0009
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:57:30
+OL,0,       BSWR BW C   Mi, 25.11.26G20:56:13
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN D]SSELDORFP5      
 OL,3,T#########"######################"######
@@ -264,7 +264,7 @@ PN,58110
 SC,0010
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:57:30
+OL,0,       BSWR BW C   Mi, 25.11.26G20:56:13
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN D]SSELDORFP5      
 OL,3,T#########"######################"######
@@ -293,7 +293,7 @@ PN,58111
 SC,0011
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:57:30
+OL,0,       BSWR BW C   Mi, 25.11.26G20:56:13
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN D]SSELDORFP5      
 OL,3,T#########"######################"######

@@ -1,13 +1,46 @@
 DE,WDR-TEXT 674
-PN,67400
-SC,0000
-PS,8208
+PN,67401
+SC,0001
+PS,C200
 CT,15,T
-OL,0,     G674 WDR Text GMi 25.11.26 13:47:06
+OL,0,     G674 WDR Text GDo 26.11.26 00:15:23
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DSpezial-Ticker ]          
 OL,3,]T5D     Fu~ball Live-Ticker       
-OL,5,CFC Br}gge : Liverpool              -:- 
+OL,5,CFC Br}gge : Liverpool         0:3 (0:1)
+OL,7,CTore:                                  
+OL,8, 0:1 Isak (13.) 0:2 Wirtz (79.)         
+OL,9, 0:3 Isak (82.)                         
+OL,11,CStrafen:                               
+OL,12,S|GIraola (63.)                         
+OL,14,CSR: GAlejandro Jose Hern ndez Hern ndez
+OL,22,CFC Br}gge : Liverpool         0:3 (0:1)
 OL,23,]D600 < ]bersicht              weiter >>
-OL,24,A]G- 673B]G+ 675  \                     
+OL,24,A]G- 673B]G+ 675  \               G(1/2)
+FL,673,675,0,0,0,100
+PN,67402
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G674 WDR Text GDo 26.11.26 00:15:23
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DSpezial-Ticker ]          
+OL,3,]T5D     Fu~ball Live-Ticker       
+OL,6,CAustellungen:                          
+OL,8,CFC Br}gge                              
+OL,9, Sommer Seys (89. Dams) Mechele         
+OL,10, Spileers Sabbe (83. Siquet) Vanaken    
+OL,11, Potts (83. Tsawa)                      
+OL,12, Lemarechal (75. Diakhon)               
+OL,13, Vetlesen (75. Vermant) Carlos Forbs    
+OL,14, Tresoldi                               
+OL,15,CLiverpool                              
+OL,16, Alisson Becker Kerkez Jacquet Araujo   
+OL,17, Frimpong (73. van Dijk)                
+OL,18, Nyoni (73. Mac Allister) Szoboszlai    
+OL,19, Barcola (86. Koumas) Wirtz             
+OL,20, V ctor Mu oz (42. Ngumoha)             
+OL,21, Isak (86. Chambers)                    
+OL,23,]D600 < ]bersicht              weiter >>
+OL,24,A]G- 673B]G+ 675  \               G(2/2)
 FL,673,675,0,0,0,100

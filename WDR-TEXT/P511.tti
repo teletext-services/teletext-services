@@ -1,26 +1,149 @@
 DE,WDR-TEXT 511
-PN,51100
-SC,0000
-PS,8208
+PN,51101
+SC,0001
+PS,C200
 CT,15,T
-OL,0,     G511 WDR Text GMi 25.11.26 13:42:53
+OL,0,     G511 WDR Text GDo 26.11.26 00:10:58
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DREZEPTE        ]          
 OL,3,]T5                                
 OL,5,CHier und Heute                         
-OL,6, Sendung vom 23. November 2026          
-OL,8,BGr}nkohleintopf nach Mamas Art         
-OL,9, Rezept f}r 4 Personen                  
-OL,11,CZutaten:                               
-OL,12, - 800 g Gr}nkohl (frisch)              
-OL,13, - 8 Mettenden, am besten frisch vom    
-OL,14,   Metzger                              
-OL,15, - 600 g festkochende Kartoffeln        
-OL,16, - 2 Zwiebeln                           
-OL,17, - 100 g Butter- oder G{nseschmalz      
-OL,18, - 750 ml Gem}sebr}he                   
-OL,19, - 2 EL Senf                            
-OL,20, - Salz, Pfeffer und Muskat             
+OL,6, Sendung vom 25. November 2026          
+OL,8,BWalnuss-Cheesecake mit Karamellso~e    
+OL,9, f}r eine 26-cm-Springform              
+OL,11,CZutaten f}r den Boden                  
+OL,12, - 100 g gemahlene Mandeln              
+OL,13, - 100 g Waln}sse                       
+OL,14, - 50 g Puderzucker                     
+OL,15, - 1 TL gemahlener Zimt                 
+OL,16, - 2 Eiwei~e                            
+OL,17, - 30 g Butter                          
+OL,18, - 2 Prisen Salz                        
 OL,23,]D500 < Service        weitere Rezepte >
-OL,24,A]G- 510B]G+ 512  \                     
+OL,24,A]G- 510B]G+ 512  \               G(1/6)
+FL,510,512,0,0,0,100
+PN,51102
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G511 WDR Text GDo 26.11.26 00:10:58
+OL,1,]D]        G]               @]  CSERVICE
+OL,2,]D]GWDR     ]DREZEPTE        ]          
+OL,3,]T5                                
+OL,5,CZutaten f}r die Cheesecakemasse        
+OL,6, - 600 g Frischk{se                     
+OL,7, - 250 g Mascarpone                     
+OL,8, - 200 g Creme fraiche                  
+OL,9, - 180 g Zucker                         
+OL,10, - 40 g Speisest{rke                    
+OL,11, - 3 Eier                               
+OL,12, - 2 Eigelbe                            
+OL,13, - 2 TL Zimt                            
+OL,15,CZutaten f}r das Topping                
+OL,16, - 100 g Walnusskerne                   
+OL,17, - 100 ml Sahne                         
+OL,18, - 20 g Zucker                          
+OL,23,]D500 < Service        weitere Rezepte >
+OL,24,A]G- 510B]G+ 512  \               G(2/6)
+FL,510,512,0,0,0,100
+PN,51103
+SC,0003
+PS,C200
+CT,15,T
+OL,0,     G511 WDR Text GDo 26.11.26 00:10:58
+OL,1,]D]        G]               @]  CSERVICE
+OL,2,]D]GWDR     ]DREZEPTE        ]          
+OL,3,]T5                                
+OL,5,CZutaten f}r die Karamellso~e           
+OL,6, - 50 g Butter                          
+OL,7, - 100 g Zucker                         
+OL,8, - 50 ml Sahne                          
+OL,9, - 2 EL Wasser                          
+OL,10, - 1-2 Prisen Salz                      
+OL,11, - optional: 10 g Misopaste             
+OL,13,CZubereitung (1)                        
+OL,14, Backofen auf 180`C Ober-/Unterhitze    
+OL,15, vorheizen. Boden einer Springform mit  
+OL,16, Backpapier beklemmen. Butter f}r den   
+OL,17, Boden bei mittlerer Hitze in einem Topf
+OL,18, zerlassen. Waln}sse mit einem Messer   
+OL,19, fein hacken. Die }brigen Zutaten f}r   
+OL,20, den Boden in einer Sch}ssel verr}hren. 
+OL,23,]D500 < Service        weitere Rezepte >
+OL,24,A]G- 510B]G+ 512  \               G(3/6)
+FL,510,512,0,0,0,100
+PN,51104
+SC,0004
+PS,C200
+CT,15,T
+OL,0,     G511 WDR Text GDo 26.11.26 00:10:58
+OL,1,]D]        G]               @]  CSERVICE
+OL,2,]D]GWDR     ]DREZEPTE        ]          
+OL,3,]T5                                
+OL,5,CZubereitung (2)                        
+OL,6, Bodenkr}mel in Backform geben und mit  
+OL,7, einem L|ffel glattdr}cken. Boden auf   
+OL,8, mittlerer Schiene ca. 15 Minuten       
+OL,9, vorbacken. Backofentemperatur auf 150`C
+OL,10, reduzieren. Zutaten f}r die Cheesecake-
+OL,11, masse zu einer cremigen Masse verr}h-  
+OL,12, ren. Auf den vorbereiteten Boden geben 
+OL,13, und glattstreichen.                    
+OL,15, F}r 20 Minuten backen, danach den Ku-  
+OL,16, chen aus dem Ofen nehmen und f}r zehn  
+OL,17, Minuten ruhen lassen. So vermeidet man 
+OL,18, Risse. Danach weitere 30 Minuten ba-   
+OL,19, cken. Sollte die Oberfl{che zu dunkel  
+OL,20, werden, den Kuchen im Ofen mit Alufolie
+OL,21, abdecken.                              
+OL,23,]D500 < Service        weitere Rezepte >
+OL,24,A]G- 510B]G+ 512  \               G(4/6)
+FL,510,512,0,0,0,100
+PN,51105
+SC,0005
+PS,C200
+CT,15,T
+OL,0,     G511 WDR Text GDo 26.11.26 00:10:58
+OL,1,]D]        G]               @]  CSERVICE
+OL,2,]D]GWDR     ]DREZEPTE        ]          
+OL,3,]T5                                
+OL,5,CZubereitung (3)                        
+OL,6, Ofen abschalten und den Kuchen im Ofen 
+OL,7, abk}hlen lassen. Dabei ein Trockentuch 
+OL,8, in die Ofent}r klemmen, damit Feuchtig-
+OL,9, keit entweichen kann. Danach den       
+OL,10, Cheesecake mindestens vier Stunden, am 
+OL,11, besten }ber Nacht, im K}hlschrank      
+OL,12, ausk}hlen lassen. F}r die Karamellso~e 
+OL,13, Sahne mit Misopaste verr}hren.         
+OL,15, Zucker und Wasser in einem kleinen Topf
+OL,16, bei mittlerer Hitze goldbraun karamel- 
+OL,17, lisieren. Dabei nicht r}hren, Topf eher
+OL,18, schwenken. Butter unter R}hren mit dem 
+OL,19, Zucker schmelzen. Sahne zugeben und    
+OL,20, vorsichtig r}hren. Eine Minute k|cheln 
+OL,21, lassen. Zum Schluss Salz zugeben.      
+OL,23,]D500 < Service        weitere Rezepte >
+OL,24,A]G- 510B]G+ 512  \               G(5/6)
+FL,510,512,0,0,0,100
+PN,51106
+SC,0006
+PS,C200
+CT,15,T
+OL,0,     G511 WDR Text GDo 26.11.26 00:10:58
+OL,1,]D]        G]               @]  CSERVICE
+OL,2,]D]GWDR     ]DREZEPTE        ]          
+OL,3,]T5                                
+OL,5,CZubereitung (4)                        
+OL,6, Walnusskerne in einer Pfanne ohne Fett 
+OL,7, anr|sten. Mit einem Messer grob hacken.
+OL,8, Sahne mit Zucker aufschlagen.          
+OL,9, Cheesecake aus dem Ring l|sen. Mit der 
+OL,10, Sahne bestreichen. H}bsch sehen auch   
+OL,11, kleine Sahnetupfen aus. Gehackte N}sse 
+OL,12, auf der Sahne verteilen. Wer mag, mit  
+OL,13, Karamellso~e betr{ufeln. Ansonsten     
+OL,14, Karamellso~e dazu servieren.           
+OL,23,]D500 < Service        weitere Rezepte >
+OL,24,A]G- 510B]G+ 512  \               G(6/6)
 FL,510,512,0,0,0,100

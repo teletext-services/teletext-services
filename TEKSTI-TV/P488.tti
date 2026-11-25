@@ -3,8 +3,8 @@ PN,48801
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G488 YLE TEKSTI-TV 25.03.11:52:32
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      1/6  
+OL,0,       G488 YLE TEKSTI-TV 25.03.21:51:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      1/7  
 OL,2,K                                       
 OL,3,CTULOSVETO                              
 OL,4,G 3 Brentford - Everton       4-0  77,42
@@ -33,27 +33,27 @@ PN,48802
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G488 YLE TEKSTI-TV 25.03.11:52:32
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      2/6  
+OL,0,       G488 YLE TEKSTI-TV 25.03.21:51:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      2/7  
 OL,2,K                                       
 OL,3,CTULOSVETO                              
 OL,4,G17 ORL Magic - DET Pisto  86-104 499,68
 OL,5,G18 Edmonton - Vegas          3-5  37,67
-OL,6,K                                       
-OL,7,CMONIVETO                               
-OL,8,G11 Brentford - Everton       4-0       
-OL,9,G   Monza - Fiorentina        3-0       
-OL,10,G   Levante - Elche           1-1       
-OL,11,G   1. voittoluokka             6 561,54
-OL,12,K                                       
-OL,13,G 1 Winnipeg - Utah           4-2       
-OL,14,G   Montreal - Los Angele     1-2       
-OL,15,G   Seattle - Anaheim         3-2       
-OL,16,G   San Jose - Minnesota      2-5       
-OL,17,G   1. voittoluokka           814 108,70
-OL,18,G   2. voittoluokka               669,71
-OL,19,K                                       
-OL,20,K                                       
+OL,6,G13 SaiPa U20 - HIFK U20      5-4 106,04
+OL,7,G14 HJK U19 - Stabaek U19     5-1 351,58
+OL,8,G 1 HIFK - TPS                3-1  18,55
+OL,9,G 2 Jokerit - KooKoo          3-4  53,12
+OL,10,G 3 Tappara - Jukurit         1-1  17,70
+OL,11,G 4 K{rp{t - Pelicans         2-6 115,17
+OL,12,G 5 TUTO Hocke - KeuPa HT     3-3  18,63
+OL,13,G 6 Classic N - TPS N         4-4  18,43
+OL,14,G 7 Sab.FC Ma - Barcelona     1-4  12,23
+OL,15,K                                       
+OL,16,CMONIVETO                               
+OL,17,G11 Brentford - Everton       4-0       
+OL,18,G   Monza - Fiorentina        3-0       
+OL,19,G   Levante - Elche           1-1       
+OL,20,G   1. voittoluokka             6 561,54
 OL,21,K                                       
 OL,22,K                                       
 OL,23,K                                       
@@ -63,28 +63,28 @@ PN,48803
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G488 YLE TEKSTI-TV 25.03.11:52:32
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      3/6  
+OL,0,       G488 YLE TEKSTI-TV 25.03.21:51:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      3/7  
 OL,2,K                                       
 OL,3,CMONIVETO                               
-OL,4,G 2 Ilves - [ss{t             4-2       
-OL,5,G   SaiPa - Lukko             6-1       
-OL,6,G   Sport - K-Espoo           2-2       
-OL,7,G   1. voittoluokka            33 810,44
-OL,8,K                                       
-OL,9,G 3 Arsenal - Bor. Dortmu     1-1       
-OL,10,G   Manchester C - Napoli     2-2       
-OL,11,G   Real Madrid - PSV         5-1       
-OL,12,G   Como - A.E.K.             1-0       
-OL,13,G   1. voittoluokka            40 974,08
-OL,14,G   2. voittoluokka               239,82
+OL,4,G 1 Winnipeg - Utah           4-2       
+OL,5,G   Montreal - Los Angele     1-2       
+OL,6,G   Seattle - Anaheim         3-2       
+OL,7,G   San Jose - Minnesota      2-5       
+OL,8,G   1. voittoluokka           814 108,70
+OL,9,G   2. voittoluokka               669,71
+OL,10,K                                       
+OL,11,G 2 Ilves - [ss{t             4-2       
+OL,12,G   SaiPa - Lukko             6-1       
+OL,13,G   Sport - K-Espoo           2-2       
+OL,14,G   1. voittoluokka            33 810,44
 OL,15,K                                       
-OL,16,G 4 WSH Wizar - BOS Celti 116-131       
-OL,17,G   DEN Nugge - DAL Maver 101-120       
-OL,18,B Ei osumia, jakosumma jaetaan my|hemmin
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
+OL,16,G 3 Arsenal - Bor. Dortmu     1-1       
+OL,17,G   Manchester C - Napoli     2-2       
+OL,18,G   Real Madrid - PSV         5-1       
+OL,19,G   Como - A.E.K.             1-0       
+OL,20,G   1. voittoluokka            40 974,08
+OL,21,G   2. voittoluokka               239,82
 OL,22,K                                       
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
@@ -93,8 +93,38 @@ PN,48804
 SC,0004
 PS,C100
 CT,15,T
-OL,0,       G488 YLE TEKSTI-TV 25.03.11:52:32
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      4/6  
+OL,0,       G488 YLE TEKSTI-TV 25.03.21:51:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      4/7  
+OL,2,K                                       
+OL,3,CMONIVETO                               
+OL,4,G 4 WSH Wizar - BOS Celti 116-131       
+OL,5,G   DEN Nugge - DAL Maver 101-120       
+OL,6,B Ei osumia, jakosumma jaetaan my|hemmin
+OL,7,K                                       
+OL,8,G 5 HIFK - TPS                3-1       
+OL,9,G   Jokerit - KooKoo          3-4       
+OL,10,G   Tappara - Jukurit         1-1       
+OL,11,G   K{rp{t - Pelicans         2-6       
+OL,12,G   2. voittoluokka            12 406,23
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48805
+SC,0005
+PS,C100
+CT,15,T
+OL,0,       G488 YLE TEKSTI-TV 25.03.21:51:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      5/7  
 OL,2,K                                       
 OL,3,CVeikkaus.fi:st{ voit hakea pelien      
 OL,4,Ctulokset helposti ja nopeasti.         
@@ -119,61 +149,61 @@ OL,22,K
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,48805
-SC,0005
+PN,48806
+SC,0006
 PS,C100
 CT,15,T
-OL,0,       G488 YLE TEKSTI-TV 25.03.11:52:32
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      5/6  
+OL,0,       G488 YLE TEKSTI-TV 25.03.21:51:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      6/7  
 OL,2,K                                       
 OL,3,CP[IV[N TRIO                            
-OL,4,G 1 Puoliaika/lopputulos                
-OL,5,G   A: Monza - Fiorentina               
-OL,6,G   B: Brentford - Everton              
-OL,7,G   C: Levante - Elche                  
-OL,8,G   A: 1 1/1                      219.34
-OL,9,G   B: 1 1/1                            
-OL,10,G   C: 5 X/X                            
+OL,4,G 4 Otteluiden maalim{{r{t              
+OL,5,G   A: HIFK - TPS                       
+OL,6,G   B: Jokerit - KooKoo                 
+OL,7,G   C: Tappara - Jukurit                
+OL,8,G   A: 4 4 maalia                 507.46
+OL,9,G   B: 7 7 maalia                       
+OL,10,G   C: 2 2 maalia                       
 OL,11,G   Poissa: -                           
 OL,12,K                                       
-OL,13,G 2 Otteluiden maalim{{r{t              
-OL,14,G   A: NY Islanders - Toronto           
-OL,15,G   B: Seattle - Anaheim                
-OL,16,G   C: San Jose - Minnesota             
-OL,17,G   A: 6 6 maalia                 177.04
-OL,18,G   B: 5 5 maalia                       
-OL,19,G   C: 7 7 maalia                       
+OL,13,G 1 Puoliaika/lopputulos                
+OL,14,G   A: Monza - Fiorentina               
+OL,15,G   B: Brentford - Everton              
+OL,16,G   C: Levante - Elche                  
+OL,17,G   A: 1 1/1                      219.34
+OL,18,G   B: 1 1/1                            
+OL,19,G   C: 5 X/X                            
 OL,20,G   Poissa: -                           
 OL,21,K                                       
 OL,22,K                                       
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,48806
-SC,0006
+PN,48807
+SC,0007
 PS,C100
 CT,15,T
-OL,0,       G488 YLE TEKSTI-TV 25.03.11:52:32
-OL,1,D]G     VEDONLY\NNIN TULOKSIA      6/6  
+OL,0,       G488 YLE TEKSTI-TV 25.03.21:51:02
+OL,1,D]G     VEDONLY\NNIN TULOKSIA      7/7  
 OL,2,K                                       
 OL,3,CP[IV[N TRIO                            
-OL,4,G 3 Otteluiden maalim{{r{t              
-OL,5,G   A: Sport - K-Espoo                  
-OL,6,G   B: SaiPa - Lukko                    
-OL,7,G   C: Ilves - [ss{t                    
-OL,8,G   A: 4 4 maalia                 206.26
-OL,9,G   B: 7 7 maalia                       
-OL,10,G   C: 6 6 maalia                       
+OL,4,G 2 Otteluiden maalim{{r{t              
+OL,5,G   A: NY Islanders - Toronto           
+OL,6,G   B: Seattle - Anaheim                
+OL,7,G   C: San Jose - Minnesota             
+OL,8,G   A: 6 6 maalia                 177.04
+OL,9,G   B: 5 5 maalia                       
+OL,10,G   C: 7 7 maalia                       
 OL,11,G   Poissa: -                           
 OL,12,K                                       
-OL,13,K                                       
-OL,14,K                                       
-OL,15,K                                       
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
+OL,13,G 3 Otteluiden maalim{{r{t              
+OL,14,G   A: Sport - K-Espoo                  
+OL,15,G   B: SaiPa - Lukko                    
+OL,16,G   C: Ilves - [ss{t                    
+OL,17,G   A: 4 4 maalia                 206.26
+OL,18,G   B: 7 7 maalia                       
+OL,19,G   C: 6 6 maalia                       
+OL,20,G   Poissa: -                           
 OL,21,K                                       
 OL,22,K                                       
 OL,23,K                                       

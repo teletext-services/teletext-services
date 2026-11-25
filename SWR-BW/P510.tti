@@ -1,26 +1,40 @@
 DE,SWR-BW 510
-PN,51000
-SC,0000
-PS,8208
+PN,51001
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G10:55:10
+OL,0,       BSWR BW C   Mi, 25.11.26G20:53:53
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
 OL,4,          Autobahn A8,A81,A861          
-OL,6,CA8FM}nchen Richtung Stuttgart          
-OL,7, zwischen Kreuz Ulm/Elchingen und       
-OL,8, Oberelchingen defekter LKW,            
-OL,9, Standstreifen blockiert                
-OL,11,CA81FSingen Richtung Stuttgart          
-OL,12, zwischen Kreuz B|blingen-Hulb und      
-OL,13, Sindelfingen-Ost Baustelle, 5 km       
-OL,14, stockender Verkehr                     
-OL,16,CA861FDreieck Hochrhein Richtung        
-OL,17,FGrenz}bergang Rheinfelden              
-OL,18, zwischen Rheinfelden-Mitte und         
-OL,19, Grenz}bergang Rheinfelden 2 km Stau    
-OL,20, f}r LKW auf dem rechten Fahrstreifen   
-OL,23,D]GStand:25.11. 10:54   ]bersicht 501 >>
+OL,6,CA8FStuttgart Richtung M}nchen          
+OL,7, zwischen Wendlingen und Rastplatz Im   
+OL,8, R}bholz Gefahr durch Gegenst{nde auf   
+OL,9, dem mittleren Fahrstreifen             
+OL,11,CA81FHeilbronn - Stuttgart              
+OL,12, zwischen Pleidelsheim und              
+OL,13, Ludwigsburg-Nord in beiden Richtungen  
+OL,14, Baustelle, gesperrt, von heute ca.     
+OL,15, 22:00 Uhr bis morgen ca. 04:00 Uhr,    
+OL,16, empfohlene Umleitungen: U9, U10        
+OL,23,D]GStand:25.11. 20:51   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,51002
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR BW C   Mi, 25.11.26G20:53:53
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,          Autobahn A8,A81,A861          
+OL,6,CA861FDreieck Hochrhein Richtung        
+OL,7,FGrenz}bergang Rheinfelden              
+OL,8, zwischen Rheinfelden-Mitte und         
+OL,9, Grenz}bergang Rheinfelden 2 km Stau    
+OL,10, f}r LKW auf dem rechten Fahrstreifen   
+OL,23,D]GStand:25.11. 20:51   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

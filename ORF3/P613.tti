@@ -3,26 +3,23 @@ PN,61301
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G613FORF IIIGMi 25.11.26 08:42:25
+OL,0,       G613FORF IIIGMi 25.11.26 18:42:29
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    1/4  
-OL,4, Vorhersage f}r den 25.11.2026,         
-OL,5, vom 25.11.2026, 0500 Uhr lct           
+OL,4, Vorhersage f}r den 26.11.2026,         
+OL,5, vom 25.11.2026, 1700 Uhr lct           
 OL,7,FWetterlage:                            
-OL,8, Mit s}dwestlicher Str|mung aufkommender
-OL,9, S}dstau, die Alpennordseite ist f|hn-  
-OL,10, beg}nstigt. Am Alpenostrand ist die    
-OL,11, Grundschicht feucht. Abends zieht von  
-OL,12, S}den ein markantes Italientief heran. 
-OL,14,FWind freie Atmosph{re 1300 Uhr lct:    
-OL,15,  5000ft amsl 180-230/15-25kt           
-OL,16, 10000ft amsl 220-250/20-40kt           
-OL,17, 15000ft amsl 240-270/20-40kt           
-OL,19,FNullgradgrenze:                        
-OL,20, Im Westen um 7000ft amsl, sonst in     
-OL,21, Bodennahe. Im S}den Warmluftbauch in   
-OL,22, 4000-6000ft amsl.                      
+OL,8, Das Frontensystem eines Italientiefs   
+OL,9, zieht }ber \sterreich und sorgt f}r    
+OL,10, einen markanten Wintereinbruch.        
+OL,12,FWind freie Atmosph{re 1300 Uhr lct:    
+OL,13,  5000ft amsl 110/20kt                  
+OL,14, 10000ft amsl 200/20kt                  
+OL,15, 15000ft amsl 190/20kt                  
+OL,17,FNullgradgrenze:                        
+OL,18, Von anfangs 3000ft amsl bis zum Boden  
+OL,19, sinkend.                               
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -30,27 +27,27 @@ PN,61302
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G613FORF IIIGMi 25.11.26 08:42:25
+OL,0,       G613FORF IIIGMi 25.11.26 18:42:29
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    2/4  
-OL,4, Vorhersage f}r den 25.11.2026,         
-OL,5, vom 25.11.2026, 0500 Uhr lct           
+OL,4, Vorhersage f}r den 26.11.2026,         
+OL,5, vom 25.11.2026, 1700 Uhr lct           
 OL,7,FInformationen Instrumentenflug:        
-OL,8, Alpens}dseitig m{~ige Vereisung bis    
-OL,9, FL120. Alpennordseitig lokale Vereisung
-OL,10, oberhalb von 10.000ft amsl. M{~ige     
-OL,11, S}df|hnturbulenz unter FL140.          
-OL,13,FInformationen Sichtflug:               
-OL,14, Alpens}dseitig Staubew|lkung mit Basen 
-OL,15, von 4 bis 6000ft amsl und lokal erste  
-OL,16, Niederschl{ge an der S}dgrenze. Schnee-
-OL,17, fallgrenze zwischen 4000ft amsl und    
-OL,18, tiefen Lagen. Inneralpin und alpennord-
-OL,19, seitig f|hnig bei Durchzug von hoher   
-OL,20, Bew|lkung. Im Osten und S}dosten z{her 
-OL,21, Hochnebel. Im Bergland mit S}df|hn     
-OL,22, turbulent.                             
+OL,8, Landesweit liegt kompakte, tiefbasige  
+OL,9, Bew|lkung mit markanter Vereisung bis  
+OL,10, FL180.                                 
+OL,12,FInformationen Sichtflug:               
+OL,13, Verbreitet Schneefall. Der             
+OL,14, Niederschlagsschwerpunkt verlagert sich
+OL,15, im Tagesverlauf vom S}den und S}dosten 
+OL,16, }ber den Nordosten nach Norden. Im     
+OL,17, S}den liegt die Schneefallgrenze am    
+OL,18, Morgen noch bei 3000ft amsl,           
+OL,19, gefrierender Regen ist hier m|glich. Im
+OL,20, Westen sind geringere Schneemengen zu  
+OL,21, erwarten. Gegen Abend l{sst der        
+OL,22, Schneefall nach oder h|rt auf.         
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -58,24 +55,24 @@ PN,61303
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G613FORF IIIGMi 25.11.26 08:42:25
+OL,0,       G613FORF IIIGMi 25.11.26 18:42:29
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    3/4  
-OL,4, Vorhersage f}r den 25.11.2026,         
-OL,5, vom 25.11.2026, 0500 Uhr lct           
+OL,4, Vorhersage f}r den 26.11.2026,         
+OL,5, vom 25.11.2026, 1700 Uhr lct           
 OL,7,FInformationen Thermik/Wellen:          
-OL,8, Am s}dlichen Alpenostrand lokale       
-OL,9, Wellen.                                
-OL,11,FInformationen Ballonfahrten:           
-OL,12, Kaum planbare Bedingungen, entweder zu 
-OL,13, starker Wind oder z{her Hochnebel.     
-OL,15,FVorschau f}r Donnerstag, den 26.11.:   
-OL,16, Tiefdruckeinfluss mit nachhaltigem     
-OL,17, Wintereinbruch. Verbreitet tiefbasige  
-OL,18, Bew|lkung und Schneefall, nur im S}den 
-OL,19, zu Beginn Gefahr von gefrierendem      
-OL,20, Regen. Markante Vereisung bis FL180.   
+OL,8, Keine Thermik, keine Wellen.           
+OL,10,FInformationen Ballonfahrten:           
+OL,11, Keine Fahrbedingungen.                 
+OL,13,FVorschau f}r Freitag, den 27.11.:      
+OL,14, Um den Alpenbogen herum verbreitet     
+OL,15, dichte Bew|lkung mit Untergrenzen in   
+OL,16, 2000-4000ft amsl. In der Bew|lkung ist 
+OL,17, mit m{~iger bis markanter Vereisung    
+OL,18, zu rechnen. Schneien wird es nur noch  
+OL,19, vereinzelt. Berge und P{sse bleiben    
+OL,20, ganztags in Wolken.                    
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -83,24 +80,26 @@ PN,61304
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G613FORF IIIGMi 25.11.26 08:42:25
+OL,0,       G613FORF IIIGMi 25.11.26 18:42:29
 OL,1,A]G                          Flugwetter 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########   G                    4/4  
 OL,4, Flugwetterausblick:                    
-OL,6,FVorschau f}r Freitag, den 27.11.:      
-OL,7, Anhaltender Tiefdruckeinfluss mit      
-OL,8, tiefbasiger Bew|lkung. Schneefall nur  
-OL,9, noch entlang der S}dgrenze. Vereisung  
-OL,10, bis FL120. Berge ganztags in Wolken.   
-OL,12,FVorschau f}r Samstag, den 28.11.:      
-OL,13, Zunehmender Hochdruckeinfluss. Im      
-OL,14, Norden, Osten und S}dosten tiefbasige  
-OL,15, Restbew|lkung/Hochnebel. Inneralpin und
-OL,16, im Westen ]bergang zu VMC.             
-OL,18,FHinweis zur Prognosesicherheit:        
-OL,19, Kleinere Unsicherheiten noch bei der   
-OL,20, genauen Zugbahn des Italientiefs.      
+OL,6,FVorschau f}r Samstag, den 28.11.:      
+OL,7, Im Norden und Osten h{lt sich ganztags 
+OL,8, tiefbasige SC-Bew|lkung mit Tops in    
+OL,9, 5000-7000ft amsl und m{~iger bis       
+OL,10, markanter Vereisung. Inneralpin und im 
+OL,11, S}dwesten anfangs noch Nebel oder      
+OL,12, Hochnebel, der sich vormittags lichtet.
+OL,13, Im Westen und S}dwesten l|sen sich die 
+OL,14, Wolken meist auf, hier gibt es gutes   
+OL,15, Sichtflugwetter.                       
+OL,17,FVorschau f}r Sonntag, den 29.11.:      
+OL,18, Verbreitet z{her Hochnebel, im S}den   
+OL,19, tiefbasige Bew|lkung. Im Westen anfangs
+OL,20, Nebel, tags}ber gute VMC.              
+OL,22,FHinweis zur Prognosesicherheit:        
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,GAustro Control 
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100

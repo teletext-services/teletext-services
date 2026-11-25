@@ -3,42 +3,63 @@ PN,50801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G11:21:54
+OL,0,       BSWR RLPC   Mi, 25.11.26G21:21:04
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,       Autobahn A61,A620,A623,A65       
-OL,6,CA61FLudwigshafen Richtung Koblenz      
-OL,7, zwischen Stromberg und Rastst{tte      
-OL,8, Hunsr}ck Ost Gefahr durch ungesicherte 
-OL,9, Unfallstelle auf dem rechten           
-OL,10, Fahrstreifen                           
-OL,12,CA61FM|nchengladbach Richtung Koblenz   
-OL,13, zwischen Dreieck Sinzig und            
-OL,14, Niederzissen Unfall, 6 km Stau,        
-OL,15, Zeitverlust von bis zu 25 Minuten      
-OL,17,CA620FSaarlouis Richtung Saarbr}cken    
-OL,18, Ausfahrt Saarbr}cken-Sch|nbach         
-OL,19, gesperrt, Baustelle, M{harbeiten       
-OL,23,D]GStand:25.11. 11:18   ]bersicht 501 >>
+OL,4,             Autobahn A6,A60            
+OL,6,CA6FHeilbronn Richtung N}rnberg         
+OL,7, zwischen Feuchtwangen-Nord und Aurach  
+OL,8, Gefahr durch Gegenst{nde (ein          
+OL,9, Leitkegel) auf dem linken Fahrstreifen 
+OL,11,CA6FN}rnberg Richtung Heilbronn         
+OL,12, zwischen Neuenstein und \hringen       
+OL,13, Gefahr durch Reifenteile auf dem       
+OL,14, rechten Fahrstreifen                   
+OL,23,D]GStand:25.11. 21:18   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,50802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G11:21:54
+OL,0,       BSWR RLPC   Mi, 25.11.26G21:21:04
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,       Autobahn A61,A620,A623,A65       
-OL,6,CA623FGr}hlingsstra~e, Friedrichsthal   
-OL,7,FRichtung Saarbr}cken                   
-OL,8, Einfahrt Saarbr}cken-Herrensohr Gefahr 
-OL,9, durch ungesicherte Unfallstelle        
-OL,11,CA65FLandau Richtung Ludwigshafen       
-OL,12, zwischen Ha~loch und Kreuz Mutterstadt 
-OL,13, 2 km stockender Verkehr                
-OL,23,D]GStand:25.11. 11:18   ]bersicht 501 >>
+OL,4,             Autobahn A6,A60            
+OL,6,CA60FR}sselsheim - Mainz                
+OL,7, zwischen Mainspitz-Dreieck und         
+OL,8, Mainz-Hechtsheim-Ost in beiden         
+OL,9, Richtungen Achtung, Ihnen kommt 1      
+OL,10, Falschfahrer entgegen, nicht           
+OL,11, }berholen, Vorsicht auf beiden         
+OL,12, Richtungsfahrbahnen                    
+OL,14,CA60FMainz Richtung R}sselsheim         
+OL,15, Einfahrt Mainz-Hechtsheim-Ost          
+OL,16, Baustelle, Richtungsfahrbahn gesperrt, 
+OL,17, bis morgen 05:00 Uhr                   
+OL,23,D]GStand:25.11. 21:18   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50803
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Mi, 25.11.26G21:21:04
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,             Autobahn A6,A60            
+OL,6,CA60FMainz Richtung R}sselsheim         
+OL,7, Ausfahrt Mainz-Hechtsheim-Ost          
+OL,8, Baustelle, Richtungsfahrbahn gesperrt, 
+OL,9, bis morgen 05:00 Uhr                   
+OL,11,CA60FMainz Richtung R}sselsheim         
+OL,12, zwischen Hechtsheim-West und           
+OL,13, Mainz-Hechtsheim-Ost Baustelle, rechter
+OL,14, Fahrstreifen gesperrt, bis morgen 05:00
+OL,15, Uhr                                    
+OL,23,D]GStand:25.11. 21:18   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

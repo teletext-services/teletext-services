@@ -1,29 +1,52 @@
 DE,HR-TEXT 581
-PN,58100
-SC,0000
-PS,8208
+PN,58101
+SC,0001
+PS,C200
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F06:43:54
+OL,0,           Fhr-textGMi 25.11.26F16:44:17
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GVERKEHRG] @  Staus und Behinderungen 
 OL,3,Q#######################################
-OL,4,FA60 Mainz - R}sselsheim                
-OL,5, die Abfahrt R}sselsheim-K|nigst{dten   
-OL,6, ist wegen einer Baustelle bis 6. De-   
-OL,7, zember gesperrt. Eine Umleitung ist    
-OL,8, eingerichtet.                          
-OL,10,FA60 Mainz - R}sselsheim                
-OL,11, die Auffahrt R}sselsheim-K|nigst{dten  
-OL,12, ist wegen einer Baustelle bis 6. De-   
-OL,13, zember gesperrt. Eine Umleitung ist    
-OL,14, eingerichtet.                          
-OL,16,FA66 Wiesbaden - Frankfurt              
-OL,17, zwischen Hofheim und Krifteler Drei-   
-OL,18, eck 2 km Stau nach einem Unfall mit    
-OL,19, mehreren PKW auf den beiden rechten    
-OL,20, Fahrstreifen. (Ein PKW hat sich ge-    
-OL,21, dreht und steht entgegen der Fahrt-    
-OL,22, richtung.)                             
-OL,23,A]G Stand Mi 06:42G]                 -> 
+OL,4,FA60 R}sselsheim - Mainz                
+OL,5, zwischen Mainz-Weisenau und Kreuz      
+OL,6, Mainz-S}d 3 km stockender Verkehr.     
+OL,8,FA60 Mainz - R}sselsheim                
+OL,9, die Auffahrt R}sselsheim-K|nigst{dten  
+OL,10, ist wegen einer Baustelle bis 6. De-   
+OL,11, zember gesperrt. Eine Umleitung ist    
+OL,12, eingerichtet.                          
+OL,14,FA66 Wiesbaden - Frankfurt              
+OL,15, zwischen Frankfurt-H|chst und Nord-    
+OL,16, westkreuz Frankfurt 2 km stockender    
+OL,17, Verkehr.                               
+OL,19,FA66 Frankfurt - Wiesbaden              
+OL,20, zwischen Wiesbaden-Mainzer Stra~e und  
+OL,21, Schiersteiner Kreuz 3 km stockender    
+OL,22, Verkehr.                               
+OL,23,A]G Stand Mi 16:41G]                 -> 
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,58102
+SC,0002
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGMi 25.11.26F16:44:17
+OL,1,Qppppppppppppppppppppppppppppppppppppppp
+OL,2,A]GVERKEHRG] @  Staus und Behinderungen 
+OL,3,Q#######################################
+OL,4,FA643 Wiesbaden - Mainz                 
+OL,5, zwischen Schiersteiner Kreuz und       
+OL,6, Mainz-Mombach in beiden Richtungen 2   
+OL,7, km stockender Verkehr.                 
+OL,9,FA661 Egelsbach - Oberursel             
+OL,10, zwischen Offenbach-Kaiserlei und       
+OL,11, Frankfurt-Friedberger Landstra~e 3 km  
+OL,12, stockender Verkehr.                    
+OL,14,FA661 Oberursel - Egelsbach             
+OL,15, zwischen Bad Homburger Kreuz und       
+OL,16, Frankfurt-Eckenheim in beiden Rich-    
+OL,17, tungen streckenweise stockender Ver-   
+OL,18, kehr.                                  
+OL,23,A]G Stand Mi 16:41G]                 -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100

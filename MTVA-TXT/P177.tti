@@ -3,19 +3,19 @@ PN,17701
 SC,0001
 PS,C100
 CT,15,T
-OL,0,        C177BMTVA    G2026.11.25. C07:17
+OL,0,        C177BMTVA    G2026.11.25. C17:17
 OL,1,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,                   CSZERDAI             
+OL,2,                   CCS^T\RT\KI          
 OL,3,   T`|t          CLEGMAGASABB        
 OL,4,  ToWTW    %*    %     %             
 OL,5, W`|vy4 u56ijkkjsj;jsjsj:j js"7jsj: 
 OL,6,  W+/////' S55e:jjjjpjj`zjpjjjpjp 5jpjj 
 OL,8,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,10, Baja         F3    GKecskem`t    F2    
-OL,12, B`k`scsaba   F3    GMiskolc      F2    
-OL,14, Budapest     F1    GP`cs         F3    
-OL,16, Debrecen     F3    GSiofok       F3    
-OL,18, Gy|r         F2    GSzeged       F2    
+OL,10, Baja         F6    GKecskem`t    F3    
+OL,12, B`k`scsaba   F5    GMiskolc      F1    
+OL,14, Budapest     F2    GP`cs         F6    
+OL,16, Debrecen     F4    GSiofok       F2    
+OL,18, Gy|r         F1    GSzeged       F6    
 OL,20, ]      DHUNGAROMET NONPROFIT ZRT.      
 OL,21,B]@Altalanos taj`koztatas: +36 90 603421
 OL,22,B] @Hivas dija: 381Ft/perc (27%AFA-val) 
@@ -25,28 +25,28 @@ PN,17702
 SC,0002
 PS,C100
 CT,15,T
-OL,0,        C177BMTVA    G2026.11.25. C07:17
-OL,1,B]   DVILAGVAROSOK SZERDAI ID\JARASA    
+OL,0,        C177BMTVA    G2026.11.25. C17:17
+OL,1,B]  DVILAGVAROSOK CS^T\RT\KI ID\JARASA  
 OL,2,D]  GVAROS     CELSIUS      ID\K@P      
-OL,3,BAMSZTERDAM       2    fatyolfelh|s     
-OL,4, ATH@N            16   k|zepesen felh|s 
-OL,5,BBANGKOK          32   er|sen fatyolfelh
-OL,6, BARCELONA        14   fatyolfelh|s     
-OL,7,BB@CS             3    er|sen fatyolfelh
-OL,8, BELGRAD          7    er|sen fatyolfelh
+OL,3,BAMSZTERDAM       1    fatyolfelh|s     
+OL,4, ATH@N            18   es|              
+OL,5,BBANGKOK          32   zapor            
+OL,6, BARCELONA        15   kiss` felh|s     
+OL,7,BB@CS             1    er|s havazas     
+OL,8, BELGRAD          6    kiados es|       
 OL,9,BBERLIN           1    k|zepesen felh|s 
-OL,10, BERN             5    es|              
-OL,11,BBR^SSZEL         3    fatyolfelh|s     
-OL,12, BUDAPEST         1    havases|         
-OL,13,BBUKAREST         6    fatyolfelh|s     
-OL,14, FRANKFURT        3    er|sen fatyolfelh
-OL,15,BGENF             9    kiados es|       
-OL,16, GLASGOW          3    kiados es|       
-OL,17,BHAMBURG          1    er|sen felh|s    
-OL,18, HELSINKI         -1   k|zepesen felh|s 
-OL,19,BISZTAMBUL        8    kiss` felh|s     
-OL,20, JERUZSALEM       17   k|zepesen felh|s,
-OL,21,BKIJEV            0    borult           
+OL,10, BERN             2    er|sen fatyolfelh
+OL,11,BBR^SSZEL         1    fatyolfelh|s     
+OL,12, BUDAPEST         2    kiados es|       
+OL,13,BBUKAREST         5    es|              
+OL,14, FRANKFURT        2    fatyolfelh|s     
+OL,15,BGENF             5    es|              
+OL,16, GLASGOW          4    es|              
+OL,17,BHAMBURG          3    kiss` felh|s     
+OL,18, HELSINKI         -2   kiss` felh|s     
+OL,19,BISZTAMBUL        12   fatyolfelh|s     
+OL,20, JERUZSALEM       21   fatyolfelh|s     
+OL,21,BKIJEV            1    er|sen fatyolfelh
 OL,22,B]        @Tovabbi informaciok:         
 OL,23,B]   @www.met.hu/idojaras/elorejelzes   
 FL,101,175,200,300,0,100
@@ -54,27 +54,27 @@ PN,17703
 SC,0003
 PS,C100
 CT,15,T
-OL,0,        C177BMTVA    G2026.11.25. C07:17
-OL,1,B]   DVILAGVAROSOK SZERDAI ID\JARASA    
+OL,0,        C177BMTVA    G2026.11.25. C17:17
+OL,1,B]  DVILAGVAROSOK CS^T\RT\KI ID\JARASA  
 OL,2,D]  GVAROS     CELSIUS      ID\K@P      
-OL,3, KOPPENHAGA       1    k|zepesen felh|s 
-OL,4,BKR@TA            20   kiss` felh|s     
-OL,5, LARNACA          24   kiss` felh|s     
-OL,6,BLISSZABON        15   zapor            
-OL,7, LONDON           6    fatyolfelh|s     
-OL,8,BLOS ANGELES      23   fatyolfelh|s     
-OL,9, MADRID           11   zapor            
-OL,10,BMARSEILLE        12   kiados es|       
-OL,11, MIAMI            22   kiados es|       
-OL,12,BMOSZKVA          -1   er|s havazas     
-OL,13, M^NCHEN          4    k|zepesen felh|s,
-OL,14,BNAPOLY           18   zivatar es|vel   
-OL,15, NEW YORK         7    fatyolfelh|s     
-OL,16,BOSLO             -2   kiss` felh|s     
+OL,3, KOPPENHAGA       2    kiss` felh|s     
+OL,4,BKR@TA            19   es|              
+OL,5, LARNACA          22   fatyolfelh|s     
+OL,6,BLISSZABON        16   zapor            
+OL,7, LONDON           6    er|sen fatyolfelh
+OL,8,BLOS ANGELES      27   fatyolfelh|s     
+OL,9, MADRID           10   kiss` felh|s     
+OL,10,BMARSEILLE        13   fatyolfelh|s     
+OL,11, MIAMI            26   kiss` felh|s     
+OL,12,BMOSZKVA          -1   havazas          
+OL,13, M^NCHEN          0    havazas          
+OL,14,BNAPOLY           18   kiados es|       
+OL,15, NEW YORK         6    kiados es|       
+OL,16,BOSLO             -3   kiss` felh|s     
 OL,17, PALMA DE M.      17   zapor            
-OL,18,BPARIZS           9    es|              
-OL,19, PRAGA            1    fatyolfelh|s     
-OL,20,BRIO DE JANEIRO   35   zivatar es|vel   
+OL,18,BPARIZS           4    kiss` felh|s     
+OL,19, PRAGA            0    havazas          
+OL,20,BRIO DE JANEIRO   32   zivatar es|vel   
 OL,21,D]      GHUNGAROMET NONPROFIT ZRT.      
 OL,22,D]        GTovabbi informaciok:         
 OL,23,D]   Gwww.met.hu/idojaras/elorejelzes   
@@ -83,20 +83,20 @@ PN,17704
 SC,0004
 PS,C100
 CT,15,T
-OL,0,        C177BMTVA    G2026.11.25. C07:17
-OL,1,B]   DVILAGVAROSOK SZERDAI ID\JARASA    
+OL,0,        C177BMTVA    G2026.11.25. C17:17
+OL,1,B]  DVILAGVAROSOK CS^T\RT\KI ID\JARASA  
 OL,2,D]  GVAROS     CELSIUS      ID\K@P      
-OL,3, ROMA             15   kiados es|       
-OL,4,BSTOCKHOLM        2    borult, paras    
-OL,5, STUTTGART        3    er|sen fatyolfelh
-OL,6,BSYDNEY           22   er|sen felh|s    
-OL,7, SZENTP@TERVAR    1    havazas          
-OL,8,BSZOFIA           11   fatyolfelh|s     
-OL,9, THESSALONIKI     13   fatyolfelh|s     
-OL,10,BTOKIO            12   kiss` felh|s     
-OL,11, VARSO            2    k|zepesen felh|s 
+OL,3, ROMA             15   er|s zapor       
+OL,4,BSTOCKHOLM        0    der~lt paras     
+OL,5, STUTTGART        2    er|sen fatyolfelh
+OL,6,BSYDNEY           25   fatyolfelh|s     
+OL,7, SZENTP@TERVAR    0    hozapor          
+OL,8,BSZOFIA           10   es|              
+OL,9, THESSALONIKI     16   er|sen fatyolfelh
+OL,10,BTOKIO            14   fatyolfelh|s     
+OL,11, VARSO            1    er|sen fatyolfelh
 OL,12,BVELENCE          9    kiados es|       
-OL,13, Z^RICH           3    onos es|         
+OL,13, Z^RICH           1    er|sen fatyolfelh
 OL,21,D]      GHUNGAROMET NONPROFIT ZRT.      
 OL,22,D]        GTovabbi informaciok:         
 OL,23,D]   Gwww.met.hu/idojaras/elorejelzes   
@@ -105,28 +105,28 @@ PN,17705
 SC,0005
 PS,C100
 CT,15,T
-OL,0,        C177BMTVA    G2026.11.25. C07:17
+OL,0,        C177BMTVA    G2026.11.25. C17:17
 OL,1,D]     GK\RNYEZ\ ORSZAGOK ID\JARASA     
-OL,2,              W8          dp  F-1,1     
-OL,3,     W`,d    `&F-6,-3      We A0,6      
-OL,4,   W8&!  #dd`% A0,2         WeCborult   
-OL,5,           W7  Cer|sen felh| W9!        
-OL,6,F-3,-2     W)0         `8)p0`.0         
-OL,7,A2,3       W8#4      `p%   "! i `&#)p   
-OL,8,Ck|zepeseW6&  "d  p,#!         i!    #d8
+OL,2,              W8          dp  F-3,-2    
+OL,3,     W`,d    `&F-4,0       We A1,8      
+OL,4,   W8&!  #dd`% A-2,2        WeCer|sen fa
+OL,5,           W7  Chavases|     W9!        
+OL,6,F-2,0      W)0         `8)p0`.0         
+OL,7,A0,2       W8#4      `p%   "! i `&#)p   
+OL,8,Cer|s havW6&  "d  p,#!         i!    #d8
 OL,9,         W:     ##            8!        
 OL,10,        W(1                 `&          
-OL,11,W#)p8dp8pl!  FACSZERDAN    Wj F-4,3     
-OL,12,F-3,6    We   FVARHATO    W`% A3,7      
-OL,13,A3,10    W:d  FID\JARAS  W`%  Cer|sen fa
-OL,14,Ces|    Wj "4            `:             
+OL,11,W#)p8dp8pl!  FACCS^T\RT\K\NWj F-2,2     
+OL,12,F0,7     We   FVARHATO    W`% A2,11     
+OL,13,A1,7     W:d  FID\JARAS  W`%  Ces|      
+OL,14,ChavasesWj "4            `:             
 OL,15,        W5  "d        p h!              
 OL,16,       Wp%    exll8&## #i      FORSZAGOS
 OL,17,Wd0    j        *4       iFMETEOROLOGIAI
 OL,18, W"d8#d5         m       "d   FSZOLGALAT
-OL,19,  F-2,4         W7F-3,-1  W#d0          
-OL,20,  A5,13        W: A4,7     W")d         
-OL,21,  Ces|             er|sen fatyWi        
+OL,19,  F2,11         W7F0,4    W#d0          
+OL,20,  A5,16        W: A2,9     W")d         
+OL,21,  Czapor           es|        Wi        
 OL,22,B]@Altalanos taj`koztatas: +36 90 603421
 OL,23,B] @Hivas dija: 381Ft/perc (27%AFA-val) 
 FL,101,175,200,300,0,100

@@ -4,27 +4,27 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  809C|ro 25 lis  12:20:41
-OL,1,C]      @S i a t k _ w k a         11:00
+OL,0,      BKULTURA  809C|ro 25 lis  22:25:07
+OL,1,C]      @S i a t k _ w k a         22:12
 OL,2,C] @Mecze wed}ug kategorii rozgrywek    
 OL,3,C-------- Brazylia - Superliga ---------
 OL,4, Montes Claros Volei-Volei Renata B23:00
 OL,5,C------ Brazylia - Superliga (K) -------
 OL,6, Barueri - MacKenzie              B22:30
 OL,7,C---- Europa - Puchar Challenge (K) ----
-OL,8, Panathinaikos-Corona Brasov (W)  B17:00
-OL,9, Polkky Kuusamo - Pfeffingen      B17:30
-OL,10, AEK Athens - Vallefoglia         B18:00
-OL,11, Zaon Kifisias (W)-Aras Spor (W)  B18:00
-OL,12, GEN-I Volley - Sliedrecht Sport  B19:00
-OL,13, Avarca Menorca - Thiras          B20:00
-OL,14, SC Braga - Zeleznicar            B21:30
-OL,15,C------------ Liga Mistrzy$ ------------
-OL,16, VakifBank - Asterix Avo          B17:00
-OL,17, PGE Budowlani ]_d~ - Galatasaray B18:00
-OL,18, Scandicci - Tovuz (W)            B18:30
-OL,19, Thuringen - CSO Voluntari        B19:00
-OL,20, Vero Volley Milano-Paris St-CloudB20:00
+OL,8,CPanathinaikosF3:0GCorona Brasov (W)    
+OL,9,                            C:12 :15 :13
+OL,10, Polkky KuusamoF2:3CPfeffingen          
+OL,11,                    C24: :23 :21 14: 13:
+OL,12, Zaon Kifisias (W) - Aras Spor (W) Aprz.
+OL,13, AEK AthensF0:3CVallefoglia  16: 20: 21:
+OL,14, GEN-I VolleyF0:3CSliedrecht Sport      
+OL,15,                            C21: 27: 21:
+OL,16,CAvarca MenorcaF3:1GThiras              
+OL,17,                        C:25 20: :23 :19
+OL,18,CSC BragaE1:0GZeleznicar        C:24E6:7
+OL,19,C------------ Liga Mistrzy$ ------------
+OL,20,CVakifBankF3:0GAsterix Avo  C:22 :16 :14
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C802      F803   
@@ -34,25 +34,56 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  809C|ro 25 lis  12:20:41
-OL,1,C]      @S i a t k _ w k a         11:00
+OL,0,      BKULTURA  809C|ro 25 lis  22:25:07
+OL,1,C]      @S i a t k _ w k a         22:12
 OL,2,C] @Mecze wed}ug kategorii rozgrywek    
-OL,3,C--- Polska - TAURON 1. Liga Kobiet ----
-OL,4, Hospel P}omie$-LOS Nowy Dw_r Maz.B19:00
-OL,5,C-------- Polska - TAURON Liga ---------
-OL,6, Energa Indykpol AZ-Asseco ResoviaB17:30
-OL,7, ZAKSA K`dzierzyn-InPost CHKS Che}B18:00
-OL,8, GKS Katowice-PGE Projekt WarszawaB20:30
-OL,9,C----------- Puchar CEV (K) ------------
-OL,10, Puijo Wolley - BKS Bielsko-Bia}a B17:00
-OL,11, Frydek - Mistek - Bekescsabai    B18:00
-OL,12, KNRC (W) - MTV Stuttgart         B18:00
-OL,13, SSC Schwerin - Heidelberg (W)    B18:00
-OL,14, Nova KBM Branik-Vandoeuvre Nancy B18:00
-OL,15, JAV Olimpico LP - Oudegem        B19:00
-OL,16, Mladost Zagreb-Dinamo Bucuresti  B19:00
-OL,17, Cajasol Juvasa - Viteos NUC      B19:30
-OL,18, FC Porto - ZOK Ub                B20:00
+OL,3,C------------ Liga Mistrzy$ ------------
+OL,4, PGE Budowlani ]_d~F1:3CGalatasaray     
+OL,5,                        C:23 19: 22: 21:
+OL,6,CScandicciF3:1GTovuz (W)C:21 :10 20: :16
+OL,7,CThuringenF3:2GCSO Voluntari            
+OL,8,                    C19: :16 22: :19 :12
+OL,9,CVero Volley MilanoF3:0GParis St-Cloud  
+OL,10,                            C:20 :19 :11
+OL,11,C--- Polska - TAURON 1. Liga Kobiet ----
+OL,12, Hospel P}omie$F2:3CLOS Nowy Dw_r Maz.  
+OL,13,                     C:25 20: 19: :23 9:
+OL,14,C-------- Polska - TAURON Liga ---------
+OL,15, Energa Indykpol AZSF1:3CAsseco Resovia 
+OL,16,                        C10: 19: :22 16:
+OL,17, ZAKSA K`dzierzyn-InPost CHKS Che}B18:00
+OL,18,CGKS KatowiceE2:1GPGE Projekt Warszawa  
+OL,19,                        C:22 16: :23E1:3
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C802      F803   
+FL,800,801,802,803,0,100
+PN,80903
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BKULTURA  809C|ro 25 lis  22:25:11
+OL,1,C]      @S i a t k _ w k a         22:12
+OL,2,C] @Mecze wed}ug kategorii rozgrywek    
+OL,3,C----------- Puchar CEV (K) ------------
+OL,4, Puijo WolleyF0:3CBKS Bielsko-Bia}a     
+OL,5,                            C11: 20: 11:
+OL,6, KNRC (W)F1:3CMTV Stuttgart             
+OL,7,                        C15: 23: :27 19:
+OL,8, Nova KBM BranikF1:3CVandoeuvre Nancy   
+OL,9,                        C22: 19: :23 19:
+OL,10,CSSC SchwerinF3:0GHeidelberg (W)        
+OL,11,                            C:21 :18 :21
+OL,12, Frydek - MistekF1:3CBekescsabai        
+OL,13,                        C20: :24 20: 16:
+OL,14, Mladost ZagrebF0:3CDinamo Bucuresti    
+OL,15,                            C18: 20: 11:
+OL,16, Cajasol JuvasaF1:3CViteos NUC          
+OL,17,                        C17: 19: :22 24:
+OL,18,CJAV Olimpico LPF3:1GOudegem            
+OL,19,                        C:22 :15 21: :15
+OL,20,CFC PortoE2:0GZOK Ub        C:22 :18E9:3
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C802      F803   

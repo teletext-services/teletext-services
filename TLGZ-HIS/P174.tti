@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 174C|ro 25 lis  12:07:13
+OL,0,      BHISTORIA 174C|ro 25 lis  22:05:42
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FKRAKOW                          ZV,,,, 
 OL,4, |ro.    B0  C2 Gdu{e   F7SE G996       
-OL,5, czw.   B-1  C0 Gca}k. F14E  G992       
+OL,5, czw.   B-1  C0 Gdu{e  F18E  G993       
 OL,6, pi@.   B-1  C0 Gca}k. F14NE G995       
-OL,7, sob.                                   
+OL,7, sob.   B-2  C0 Gca}k. F18E G1007       
 OL,8, nie.                                   
 OL,9,FZAKOPANE                        ZV,,,, 
 OL,10, |ro.   B-9 C-2 Gumiar  F3NE G908       
-OL,11, czw.   B-4 C-2 Gca}k.  F7NE G902  ZWp0 
-OL,12, pi@.   B-5 C-4 Gca}k.  F7NE G905       
-OL,13, sob.                                   
+OL,11, czw.   B-6 C-2 Gdu{e   F7NE G902   ZWp 
+OL,12, pi@.   B-5 C-4 Gca}k.  F7NE G904ZV0    
+OL,13, sob.   B-6 C-4 Gca}k.  F7NE G915       
 OL,14, nie.                                   
 FL,173,175,300,300,0,100
 PN,17402
@@ -25,20 +25,20 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 174C|ro 25 lis  12:07:13
+OL,0,      BHISTORIA 174C|ro 25 lis  22:05:42
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FKASPROWY WIERCH                 ZV,,,, 
 OL,4, |ro.  B-10 C-5 Gma}e   F7S  G834       
-OL,5, czw.   B-4  C0 Gca}k.  F3S  G829  ZWp0 
-OL,6, pi@.   B-8 C-2 Gca}k.  F7N  G831       
-OL,7, sob.                                   
+OL,5, czw.   B-9  C0 Gdu{e   F7S  G829   ZWp 
+OL,6, pi@.   B-5  C0 Gca}k.  F3NW G831ZV0    
+OL,7, sob.   B-8 C-2 Gumiar  F3NE G840       
 OL,8, nie.                                   
 OL,9,FTARNOW                          ZV,,,, 
 OL,10, |ro.    B0  C1 Gdu{e   F7S  G996       
-OL,11, czw.   B-1  C0 Gdu{e  F14E  G991       
-OL,12, pi@.   B-1 C-1 Gca}k. F14NE G994       
-OL,13, sob.                                   
+OL,11, czw.   B-1  C0 Gca}k. F14E  G991       
+OL,12, pi@.   B-1  C0 Gca}k. F14NE G993       
+OL,13, sob.   B-3  C0 Gca}k. F18E G1006       
 OL,14, nie.                                   
 FL,173,175,300,300,0,100
 PN,17403
@@ -46,20 +46,20 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 174C|ro 25 lis  12:07:13
+OL,0,      BHISTORIA 174C|ro 25 lis  22:05:42
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FNOWY SACZ                       ZV,,,, 
 OL,4, |ro.    B0  C2 Gumiar  F3NW G984       
 OL,5, czw.    B0  C0 Gca}k.  F7NE G979       
-OL,6, pi@.   B-2  C0 Gca}k. F10NE G981       
-OL,7, sob.                                   
+OL,6, pi@.   B-1  C0 Gca}k. F10NE G981       
+OL,7, sob.   B-3  C0 Gca}k. F10NE G993       
 OL,8, nie.                                   
 OL,9,FKRYNICA-ZDROJ                   ZV,,,, 
 OL,10, |ro.   B-4 C-1 Gdu{e   F7S  G928       
-OL,11, czw.   B-3 C-2 Gca}k. F10E  G922       
-OL,12, pi@.   B-5 C-3 Gca}k. F14N  G924       
-OL,13, sob.                                   
+OL,11, czw.   B-3 C-2 Gca}k. F10E  G923       
+OL,12, pi@.   B-4 C-3 Gca}k. F14NE G924       
+OL,13, sob.   B-7 C-4 Gca}k. F14NE G935       
 OL,14, nie.                                   
 FL,173,175,300,300,0,100
 PN,17404
@@ -67,13 +67,13 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BHISTORIA 174C|ro 25 lis  12:07:13
+OL,0,      BHISTORIA 174C|ro 25 lis  22:05:42
 OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FSZCZAWNICA                      ZV,,,, 
 OL,4, |ro.   B-3  C0 Gumiar  F3SE G939       
 OL,5, czw.   B-2  C0 Gca}k.  F7NE G934       
-OL,6, pi@.   B-4 C-2 Gca}k. F10N  G936       
-OL,7, sob.                                   
+OL,6, pi@.   B-3 C-2 Gca}k.  F7N  G936       
+OL,7, sob.   B-7 C-3 Gdu{e   F7N  G947       
 OL,8, nie.                                   
 FL,173,175,300,300,0,100

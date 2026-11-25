@@ -3,7 +3,7 @@ PN,35501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G355CORF SPORT+G25.11.26 08:48:02
+OL,0,       G355CORF SPORT+G25.11.26 18:47:59
 OL,1,A]G                          ORF SPORT+ 
 OL,2,A]GFERNSEHEN  ]A      Dienstag, 01.12. \
 OL,3,Q#############                  G  1/5  
@@ -31,28 +31,28 @@ PN,35502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G355CORF SPORT+G25.11.26 08:48:02
+OL,0,       G355CORF SPORT+G25.11.26 18:47:59
 OL,1,A]G                          ORF SPORT+ 
 OL,2,A]GFERNSEHEN  ]A      Dienstag, 01.12. \
 OL,3,Q#############                  G  2/5  
 OL,4,F07.46 FSilent Sports + Volleyball      
 OL,5,       FSupercup Herren Hartberg -      
 OL,6,       FAich/Dob                        
-OL,7,G08.00 GYoga Magazin: Folge 279         
-OL,8,F08.30 FYoga Magazin: Folge 278         
-OL,9,G09.00 GFunsport                        
+OL,7,G08.00 GYoga Magazin: Folge 279EUT      
+OL,8,F08.30 FYoga Magazin: Folge 278EUT      
+OL,9,G09.00 GFunsportEUT                     
 OL,10,F09.15 FLIVE Podiumsdiskussion mit      
 OL,11,       FFragerunde "Vom Bildschirm auf  
-OL,12,       Fdie Piste" aus Wien             
+OL,12,       Fdie Piste" aus WienEUT          
 OL,13,G10.00 GLIVE Pressekonferenz: Bob &     
 OL,14,       GSkeleton Weltcup Saison         
-OL,15,       G2026/2027                       
-OL,16,F10.30 FYoga Magazin: Folge 279         
+OL,15,       G2026/2027EUT                    
+OL,16,F10.30 FYoga Magazin: Folge 279EUT      
 OL,17,G11.00 GLIVE Pressekonferenz: Handball: 
 OL,18,       G\HB Nationalteam vor Euro 2026  
-OL,19,       Gaus Wien                        
-OL,20,F11.30 FSport 20                        
-OL,21,G11.45 GFunsport                        
+OL,19,       Gaus WienEUT                     
+OL,20,F11.30 FSport 20EUT                     
+OL,21,G11.45 GFunsportEUT                     
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -60,28 +60,29 @@ PN,35503
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G355CORF SPORT+G25.11.26 08:48:02
+OL,0,       G355CORF SPORT+G25.11.26 18:47:59
 OL,1,A]G                          ORF SPORT+ 
 OL,2,A]GFERNSEHEN  ]A      Dienstag, 01.12. \
 OL,3,Q#############                  G  3/5  
 OL,4,F11.55 FLIVE Schwimmen Kurzbahn-WM      
-OL,5,       FPeking 2026: Tag 1              
+OL,5,       FPeking 2026: Tag 1EUT           
 OL,6,G14.10 GBasketball Pre-Qualifiers Euro  
 OL,7,       G2029 - 2. Runde: \sterreich -   
-OL,8,       GZypern, Highlights              
+OL,8,       GZypern, HighlightsEUT           
 OL,9,F15.40 FIBU Biathlon Weltcup 2026/2027: 
 OL,10,       FSprint Herren, Highlights aus   
-OL,11,       FKontiolahti                     
+OL,11,       FKontiolahtiEUT                  
 OL,12,G16.40 GFIS Snowboard Weltcup           
 OL,13,       G2026/2027: Big Air, Highlights  
-OL,14,       Gaus Innsbruck                   
+OL,14,       Gaus InnsbruckEUT                
 OL,15,F17.40 FRodel Weltcup 2026/2027:        
 OL,16,       FDoppelsitzer Damen & Herren,    
-OL,17,       FHighlights aus Winterberg       
-OL,18,G18.40 GFunsport                        
+OL,17,       FHighlights aus WinterbergEUT    
+OL,18,G18.40 GFunsportEUT                     
 OL,19,F19.00 FPodiumsdiskussion mit           
 OL,20,       FFragerunde "Vom Bildschirm auf  
 OL,21,       Fdie Piste", Highlights aus Wien 
+OL,22,       EUT                              
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -89,27 +90,28 @@ PN,35504
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G355CORF SPORT+G25.11.26 08:48:02
+OL,0,       G355CORF SPORT+G25.11.26 18:47:59
 OL,1,A]G                          ORF SPORT+ 
 OL,2,A]GFERNSEHEN  ]ADi, 01.12.& Mi, 02.12. \
 OL,3,Q#############                  G  4/5  
 OL,4,F20.00 FLIVE Fu~ball Frauen WM-         
 OL,5,       FQualifikation: Schweiz -        
-OL,6,       F\sterreich aus BernEHF          
-OL,7,G21.00 GDokumentation: TALK "Sparen am  
-OL,8,       Gfalschen Ort beim Sport - Ist   
-OL,9,       Gder Nachwuchs in Gefahr?"       
+OL,6,       F\sterreich aus BernEHFEUT       
+OL,7,G21.00 GTALK "Sparen am falschen Ort    
+OL,8,       Gbeim Sport - Ist der Nachwuchs  
+OL,9,       Gin Gefahr?"EUT                  
 OL,10,F22.20 FSchwimmen Kurzbahn-WM Peking    
-OL,11,       F2026, Highlights von Tag 1      
+OL,11,       F2026, Highlights von Tag 1EUT   
 OL,12,G23.20 GFIA WEC 2026: Saisonr}ckblick   
-OL,13,       G2026                            
+OL,13,       G2026EUT                         
 OL,14,F00.20 FFIS Skisprung Weltcup           
 OL,15,       F2026/2027: Gro~schanze Herren,  
 OL,16,       FHighlights vom Samstag aus Ruka 
-OL,17,G01.20 GFIS Skisprung Weltcup           
-OL,18,       G2026/2027: Gro~schanze Damen,   
-OL,19,       GHighlights vom Samstag aus      
-OL,20,       GHinzenbach                      
+OL,17,       EUT                              
+OL,18,G01.20 GFIS Skisprung Weltcup           
+OL,19,       G2026/2027: Gro~schanze Damen,   
+OL,20,       GHighlights vom Samstag aus      
+OL,21,       GHinzenbachEUT                   
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -117,20 +119,20 @@ PN,35505
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       G355CORF SPORT+G25.11.26 08:48:02
+OL,0,       G355CORF SPORT+G25.11.26 18:47:59
 OL,1,A]G                          ORF SPORT+ 
 OL,2,A]GFERNSEHEN  ]A      Mittwoch, 02.12. \
 OL,3,Q#############                  G  5/5  
 OL,4,F02.20 FFIS Skisprung Weltcup           
 OL,5,       F2026/2027: Normalschanze Damen, 
 OL,6,       FHighlights vom Sonntag aus      
-OL,7,       FHinzenbach                      
+OL,7,       FHinzenbachEUT                   
 OL,8,G03.20 GFIS Snowboard Weltcup           
 OL,9,       G2026/2027: PGS Team, Highlights 
-OL,10,       Gaus Snow Ruyi                   
+OL,10,       Gaus Snow RuyiEUT                
 OL,11,F05.05 FRodel Weltcup 2026/2027: Damen  
 OL,12,       F& Team Staffel, Highlights aus  
-OL,13,       FWinterberg                      
+OL,13,       FWinterbergEUT                   
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

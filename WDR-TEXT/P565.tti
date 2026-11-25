@@ -3,27 +3,27 @@ PN,56501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G565 WDR Text GMi 25.11.26 13:44:17
+OL,0,     G565 WDR Text GDo 26.11.26 00:12:12
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DDORTMUND       ]          
 OL,3,]T5D     Abflug                    
-OL,4,                 STAND 13:41            
+OL,4,                 STAND 23:53            
 OL,6,CZEIT  FLUGNR.                   BEMERK.
-OL,7,B12:55 EJU 9041 Amsterdam        gestart
-OL,8, 13:00 PC 1052  Istanbul-Sabiha  gestart
-OL,9,B14:10 KK 901P  K|ln/Bonn               
-OL,10, 14:45 W6 4092  Belgrad                 
-OL,11,B14:50 W4 3912  Chisinau         15:10  
-OL,12, 15:20 W4 3460  Targu Mures             
-OL,13,B15:25 W9 5464  London-Luton            
-OL,14, 15:55 W6 1094  Kattowitz               
-OL,15,B16:15 W4 6174  Rom-Fiumicino           
-OL,16, 16:30 W6 1662  Danzig                  
-OL,17,B20:25 W6 1096  Kattowitz               
-OL,18, ------Abfl}ge n{chster Tag-------------
-OL,19,B07:40 W4 3656  Iasi                    
-OL,20, 08:05 W6 1934  Vilnius                 
-OL,21,B08:35 W4 3092  Bukarest-Otopeni        
+OL,7,B------Abfl}ge n{chster Tag-------------
+OL,8, 07:40 W4 3656  Iasi                    
+OL,9,B08:05 W6 1934  Vilnius                 
+OL,10, 08:35 W6 1092  Kattowitz        09:00  
+OL,11,B08:35 W4 3092  Bukarest-Otopeni        
+OL,12, 08:50 W6 4332  Sofia                   
+OL,13,B08:55 W6 4722  Skopje                  
+OL,14, 09:00 W6 4298  Tuzla                   
+OL,15,B09:00 W4 5102  Tirana                  
+OL,16, 09:15 W4 3362  Cluj-Napoca             
+OL,17,B09:15 W4 3818  Sibiu                   
+OL,18, 10:00 W6 4786  Pristina                
+OL,19,B13:25 PC 1052  Istanbul-Sabiha         
+OL,20, 14:10 W4 5126  Tirana                  
+OL,21,B14:30 W4 6398  Mailand-Malpensa 14:45  
 OL,23,]D555 < ]bersicht      WEZ Ankunft > 566
 OL,24,A]G- 564B]G+ 566C]DDortmund \     G(1/2)
 FL,564,566,0,0,0,100
@@ -31,27 +31,27 @@ PN,56502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G565 WDR Text GMi 25.11.26 13:44:17
+OL,0,     G565 WDR Text GDo 26.11.26 00:12:12
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DDORTMUND       ]          
 OL,3,]T5D     Abflug                    
-OL,4,                 STAND 13:41            
+OL,4,                 STAND 23:53            
 OL,6,CZEIT  FLUGNR.                   BEMERK.
-OL,7,B08:35 W6 1092  Kattowitz               
-OL,8, 08:50 W6 4332  Sofia                   
-OL,9,B08:55 W6 4722  Skopje                  
-OL,10, 09:00 W4 5102  Tirana                  
-OL,11,B09:00 W6 4298  Tuzla                   
-OL,12, 09:15 W4 3362  Cluj-Napoca             
-OL,13,B09:15 W4 3818  Sibiu                   
-OL,14, 10:00 W6 4786  Pristina                
-OL,15,B13:25 PC 1052  Istanbul-Sabiha         
-OL,16, 14:10 W4 5126  Tirana                  
-OL,17,B14:30 W4 6398  Mailand-Malpensa        
-OL,18, 14:45 W6 4092  Belgrad                 
-OL,19,B14:50 W4 3912  Chisinau                
-OL,20, 15:25 W9 5464  London-Luton            
-OL,21,B15:55 W6 1094  Kattowitz               
+OL,7,B14:45 W6 4092  Belgrad                 
+OL,8, 14:50 W4 3912  Chisinau                
+OL,9,B15:25 W9 5464  London-Luton            
+OL,10, 15:55 W6 1094  Kattowitz        16:15  
+OL,11,B16:30 W6 1662  Danzig                  
+OL,12, 17:30 W6 7802  Jerewan                 
+OL,13,B18:00 W6 7908  Kutaissi                
+OL,14, 19:15 W4 6174  Rom-Fiumicino           
+OL,15,B20:25 W6 1096  Kattowitz               
+OL,16, 20:30 W6 2292  Budapest                
+OL,17,B07:35 W6 4510  Varna                   
+OL,18, 08:05 W4 3622  Suceava                 
+OL,19,B08:35 W4 3092  Bukarest-Otopeni        
+OL,20, 08:50 W4 4354  Banja Luka              
+OL,21,B08:55 W6 4722  Skopje                  
 OL,23,]D555 < ]bersicht      WEZ Ankunft > 566
 OL,24,A]G- 564B]G+ 566C]DDortmund \     G(2/2)
 FL,564,566,0,0,0,100
