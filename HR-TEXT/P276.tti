@@ -3,14 +3,17 @@ PN,27601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A       U19-DFB-Liga Gr.C 
 OL,3,Q#######################################
-OL,4, 12. Spieltag                           
-OL,5,BSamstag, 21. November                  
-OL,6, N}rnberg       - Greuther F}rth...  1:3
-OL,7, E.Frankfurt    - Erzgebirge Aue...  6:1
+OL,4, 13. Spieltag                           
+OL,5,BSamstag, 28. November         13.00 Uhr
+OL,6, Erzgebirge Aue  - N}rnberg........  -:-
+OL,7,B                              14.00 Uhr
+OL,8, Greuther F}rth  - Rot-Wei~ Erfurt.  -:-
+OL,10,BSonntag, 29. November         11.00 Uhr
+OL,11, RB Leipzig      - E.Frankfurt.....  -:-
 OL,23,G]AFu~ballligen 220          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -18,7 +21,7 @@ PN,27602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A       U19-DFB-Liga Gr.C 
 OL,3,Q#######################################
@@ -36,15 +39,17 @@ PN,27603
 SC,0003
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A       U19-DFB-Liga Gr.F 
 OL,3,Q#######################################
-OL,4, 12. Spieltag                           
-OL,5,BSamstag, 21. November                  
-OL,6, K'lautern     - FSV Frankfurt.....  3:1
-OL,7, Mainz 05      - Fortuna K|ln......  2:0
-OL,8, 1.FC K|ln     - Darmstadt 98......  7:1
+OL,4, 13. Spieltag                           
+OL,5,BSamstag, 28. November         14.00 Uhr
+OL,6, Fortuna K|ln  - Wehen Wiesb.......  -:-
+OL,8,BSonntag, 29. November         11.00 Uhr
+OL,9, FSV Frankfurt - Mainz 05..........  -:-
+OL,10,B                              13.00 Uhr
+OL,11, Darmstadt 98  - K'lautern.........  -:-
 OL,23,G]AFu~ballligen 220          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -52,7 +57,7 @@ PN,27604
 SC,0004
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A       U19-DFB-Liga Gr.F 
 OL,3,Q#######################################
@@ -70,22 +75,24 @@ PN,27605
 SC,0005
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A     Hessenliga A-Jugend 
 OL,3,Q#######################################
-OL,4, 12. Spieltag                           
-OL,5,BSamstag, 21. November                  
-OL,6, RW Darmstadt    - Fulda-Lehnerz...  0:4
-OL,7, FC K|nigstein   - RW Walldorf.....  2:2
-OL,8, Steph.Griesheim - FC Erlensee.....  3:3
-OL,10,BSonntag, 22. November                  
-OL,11, Hessen Kassel   - FV Biebrich.....  4:1
-OL,12, TSG Wieseck     - OSC Rosenh|he...  0:2
-OL,13, TS Ober-Roden   - RW Frankfurt....  6:5
-OL,14,B                              15.00 Uhr
-OL,15, FC Erlensee     - Steph.Griesheim.  -:-
-OL,16, Karbener SV     - K.Offenbach.....  2:3
+OL,4, 13. Spieltag                           
+OL,5,BSamstag, 28. November         11.00 Uhr
+OL,6, Fulda-Lehnerz   - TSG Wieseck.....  -:-
+OL,7,B                              11.50 Uhr
+OL,8, Steph.Griesheim - Hessen Kassel...  -:-
+OL,9,B                              14.30 Uhr
+OL,10, K.Offenbach     - FC Erlensee.....  -:-
+OL,12,BSonntag, 29. November         11.00 Uhr
+OL,13, RW Frankfurt    - RW Darmstadt....  -:-
+OL,14, OSC Rosenh|he   - Karbener SV.....  -:-
+OL,15,B                              12.45 Uhr
+OL,16, FV Biebrich     - FC K|nigstein...  -:-
+OL,17,B                              13.30 Uhr
+OL,18, RW Walldorf     - TS Ober-Roden...  -:-
 OL,23,G]AFu~ballligen 220          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -93,7 +100,7 @@ PN,27606
 SC,0006
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A     Hessenliga A-Jugend 
 OL,3,Q#######################################
@@ -118,17 +125,19 @@ PN,27607
 SC,0007
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A       U17-DFB-Liga Gr.E 
 OL,3,Q#######################################
-OL,4, 12. Spieltag                           
-OL,5,BFreitag, 20. November                  
-OL,6, Hoffenheim     - E.Frankfurt......  0:3
-OL,8,BSamstag, 21. November                  
-OL,9, FSV Frankfurt  - Greuther F}rth...  4:0
-OL,10, Darmstadt 98   - Sandhausen.......  3:2
-OL,11, 1.FC K|ln      - TSG Wieseck......  5:0
+OL,4, 13. Spieltag                           
+OL,5,BSamstag, 28. November         11.00 Uhr
+OL,6, Hoffenheim     - 1.FC K|ln........  -:-
+OL,7,B                              12.00 Uhr
+OL,8, E.Frankfurt    - Darmstadt 98.....  -:-
+OL,9,B                              13.00 Uhr
+OL,10, Sandhausen     - Greuther F}rth...  -:-
+OL,12,BSonntag, 29. November         11.00 Uhr
+OL,13, TSG Wieseck    - FSV Frankfurt....  -:-
 OL,23,G]AFu~ballligen 220          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -136,7 +145,7 @@ PN,27608
 SC,0008
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A       U17-DFB-Liga Gr.E 
 OL,3,Q#######################################
@@ -155,18 +164,17 @@ PN,27609
 SC,0009
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A       U17 DFB-Liga Gr.F 
 OL,3,Q#######################################
-OL,4, 12. Spieltag                           
-OL,5,BFreitag, 20. November                  
-OL,6, Bor.M'gladbach - For.D}sseldorf...  3:2
-OL,8,BSamstag, 21. November                  
-OL,9, RW Oberhausen  - Wehen Wiesb......  2:2
-OL,10, Bay.Leverkusen - SV Elversberg....  4:0
-OL,12,BSonntag, 22. November                  
-OL,13, Mainz 05       - Viktoria K|ln....  6:0
+OL,4, 13. Spieltag                           
+OL,5,BSamstag, 28. November         12.00 Uhr
+OL,6, Viktoria K|ln  - Bor.M'gladbach...  -:-
+OL,8,BSonntag, 29. November         11.00 Uhr
+OL,9, Wehen Wiesb.   - Bay.Leverkusen...  -:-
+OL,10, RW Oberhausen  - Mainz 05.........  -:-
+OL,11, SV Elversberg  - For.D}sseldorf...  -:-
 OL,23,G]AFu~ballligen 220          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -174,7 +182,7 @@ PN,27610
 SC,0010
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A       U17 DFB-Liga Gr.F 
 OL,3,Q#######################################
@@ -193,21 +201,23 @@ PN,27611
 SC,0011
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A     Hessenliga B-Jugend 
 OL,3,Q#######################################
-OL,4, 12. Spieltag                           
-OL,5,BMittwoch, 18. November                 
-OL,6, RW Walldorf      - Ein.Frankfurt II 1:3
-OL,8,BSamstag, 21. November                  
-OL,9, OSC Rosenh|he    - RW Frankfurt.... 2:2
-OL,10, SKV RW Darmstadt - SF/BG Marburg... 3:0
-OL,11, Viktoria Preu~en - KSV Hessen KS... 2:4
-OL,13,BSonntag, 22. November                  
-OL,14, Kick.Offenbach   - Wehen Wiesb.II.. 6:1
-OL,15, FC Gie~en        - FC K|nigstein... 3:0
-OL,16, Fulda-Lehnerz    - FSV Frankfurt... 0:2
+OL,4, 13. Spieltag                           
+OL,5,BSamstag, 28. November         13.00 Uhr
+OL,6, Ein.Frankfurt II - Fulda-Lehnerz... -:-
+OL,7, FC K|nigstein    - RW Walldorf..... -:-
+OL,8, FSV Frankfurt    - SKV RW Darmstadt -:-
+OL,9, KSV Hessen KS    - OSC Rosenh|he... -:-
+OL,10,B                              13.30 Uhr
+OL,11, Wehen Wiesb.II   - FC Gie~en....... -:-
+OL,12,B                              14.00 Uhr
+OL,13, SF/BG Marburg    - Viktoria Preu~en -:-
+OL,15,BSonntag, 29. November         13.30 Uhr
+OL,16, RW Frankfurt     - Kick.Offenbach.. -:-
+OL,17, SKV RW Darmstadt - FSV Frankfurt... -:-
 OL,23,G]AFu~ballligen 220          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -215,7 +225,7 @@ PN,27612
 SC,0012
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A     Hessenliga B-Jugend 
 OL,3,Q#######################################
@@ -240,18 +250,12 @@ PN,27613
 SC,0013
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A    U15-Regionalliga S}d 
 OL,3,Q#######################################
-OL,4, 10. Spieltag                           
-OL,5,BSamstag, 21. November                  
-OL,6, E.Frankfurt     - Fulda-Lehnerz...  8:1
-OL,7, Stuttg.Kickers  - Kickers Offenb..  6:1
-OL,9,BSonntag, 22. November                  
-OL,10, 1899 Hoffenheim - Darmstadt 98....  4:1
-OL,11, VfB Stuttgart   - SC Freiburg.....  4:2
-OL,12, SSV Ulm 1846    - FC K|nigstein...  2:6
+OL,5,BSamstag, 28. November         16.15 Uhr
+OL,6, FC K|nigstein - VfB Stuttgart.....  -:-
 OL,23,G]AFu~ballligen 220          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -259,7 +263,7 @@ PN,27614
 SC,0014
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A    U15-Regionalliga S}d 
 OL,3,Q#######################################
@@ -280,20 +284,21 @@ PN,27615
 SC,0015
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A     Hessenliga C-Jugend 
 OL,3,Q#######################################
-OL,4, 13. Spieltag                           
-OL,5,BSamstag, 21. November                  
-OL,6, KSV Baunatal    - FC Erlensee....   2:1
-OL,7, Germ.Weilbach   - RW Darmstadt...   1:3
-OL,8, TSG Wieseck     - FC Gie~en......   5:3
-OL,9, Spvgg.Oberrad   - SKG Rodgau.....   7:1
-OL,10, OSC Rosenh|he   - FSV Frankfurt..   0:6
-OL,11, Wehen Wiesb.    - Bensheim/Auerb.  10:0
-OL,13,BSonntag, 22. November                  
-OL,14, RW Frankfurt    - Hessen Kassel..   2:0
+OL,4, 14. Spieltag                           
+OL,5,BSamstag, 28. November         11.00 Uhr
+OL,6, RW Frankfurt    - RW Darmstadt....  -:-
+OL,7,B                              13.00 Uhr
+OL,8, KSV Baunatal    - OSC Rosenh|he...  -:-
+OL,9, Hessen Kassel   - SKG Rodgau......  -:-
+OL,10, Germ.Weilbach   - Bensheim/Auerb..  -:-
+OL,11,B                              15.00 Uhr
+OL,12, FSV Frankfurt   - Spvgg.Oberrad...  -:-
+OL,13,B                              16.00 Uhr
+OL,14, Wehen Wiesb.    - FC Gie~en.......  -:-
 OL,23,G]AFu~ballligen 220          Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -301,7 +306,7 @@ PN,27616
 SC,0016
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F01:42:00
+OL,0,           Fhr-textGDi 24.11.26F20:33:52
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A     Hessenliga C-Jugend 
 OL,3,Q#######################################

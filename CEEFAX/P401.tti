@@ -3,7 +3,7 @@ PN,40101
 SC,0001
 PS,C000
 CT,5,T
-OL,0,       GCEEFAX 1 401 Tue 24 NovC04:15/25
+OL,0,       GCEEFAX 1 401 Tue 24 NovC19:21/31
 OL,1,T]G       Weather for Tuesday           
 OL,2,            ZV`4`~|}             G1/3 
 OL,3,           ZRV?0~G7V%                  
@@ -11,20 +11,20 @@ OL,4,           ZVj*^V}||t
 OL,5,FShowers   ZV^({V?                
 OL,6,            ZV!'~G6V!                
 OL,7,            ^ZV~oVw1                 
-OL,8,           ^ZRVy?Vsp                 
-OL,9,            ZVj)"G5V}                
-OL,10,        ZVp|t Vx^gV0               
-OL,11,       ZVnG10VtV+"VG4V   ECloudy     
-OL,12,       ZV+V`4 +^U|0             
-OL,13,        ZV+%*o!V"   *^Uu             
-OL,14,              ZV`  V*G8U}            
-OL,15,             ^ZVk||U            
-OL,16,              ZV'oG6U^S}zt         
-OL,17,              ZRVj^U_G6S         
-OL,18,             ZVx|G10U^US_'CSunny   
-OL,19,             ^ZV! +U'i_G8Uqp0        
+OL,8,           ^ZRVy?Vsp  ECloudy        
+OL,9,            ZVj)"G4U}                
+OL,10,        ZVp|t Vx^gU0               
+OL,11,       ZVnG10VtV+"UG4U               
+OL,12,       ZV+U`4 +^U|0             
+OL,13,        ZV+%*o!U"   *^Uu             
+OL,14,              ZU`  U*G7U}            
+OL,15,             ^ZUk||U            
+OL,16,              ZU'oG4U^U}zt         
+OL,17,              ZRUj^U_G5U         
+OL,18,             ZUx|G10U^UU_'         
+OL,19,             ^ZU! +U'i_G6Uqp0        
 OL,20,             ^ZU  tUU/!        
-OL,21,             ZUhG8U/s/U/?           
+OL,21,             ZUhG6U/s/U/?           
 OL,22,            ZU8?' "'    "               
 OL,23,D]G      Data from the Met Office       
 OL,24,ARegionWeath BSport  CTravel FMain Menu 
@@ -33,26 +33,26 @@ PN,40102
 SC,0002
 PS,C000
 CT,5,T
-OL,0,       GCEEFAX 1 401 Tue 24 NovC04:15/25
+OL,0,       GCEEFAX 1 401 Tue 24 NovC19:21/31
 OL,1,T]G      Weather for Wednesday          
 OL,2,            ZV`4`~|}             G2/3 
 OL,3,           ZRV?0~G6V%                  
 OL,4,           ZVj*^V}||t                
 OL,5,FShowers   ZV^({V?                
-OL,6,            ZV!'~G7V!                
+OL,6,            ZV!'~G6V!                
 OL,7,            ^ZV~oVw1                 
 OL,8,ECloudy    ^ZRVy?Vsp                 
 OL,9,            ZUj)"G6U}                
 OL,10,        ZVp|t Ux^gU0               
-OL,11,       ZVnG8VtU+"UG6U   CSunny      
-OL,12,       ZV+U`4 +^S|0             
-OL,13,        ZV+%*o!U"   *^Su             
-OL,14,              ZS`  U*G7S}            
-OL,15,             ^ZSk||S            
-OL,16,              ZS'oG7S^S}zt         
-OL,17,              ZRSj^S_G7S         
-OL,18,             ZSx|G7S^SS_'         
-OL,19,             ^ZS! +S'i_G7Uqp0        
+OL,11,       ZVnG8VtU+"SG7U   CSunny      
+OL,12,       ZV+S`4 +^S|0             
+OL,13,        ZV+%*o!S"   *^Su             
+OL,14,              ZU`  S*G7S}            
+OL,15,             ^ZUk||S            
+OL,16,              ZU'oG7S^S}zt         
+OL,17,              ZRUj^S_G7S         
+OL,18,             ZUx|G7S^SS_'         
+OL,19,             ^ZU! +S'i_G7Uqp0        
 OL,20,             ^ZU  tSU/!        
 OL,21,             ZUhG7U/s/U/?           
 OL,22,            ZU8?' "'    "               
@@ -63,7 +63,7 @@ PN,40103
 SC,0003
 PS,C000
 CT,5,T
-OL,0,       GCEEFAX 1 401 Tue 24 NovC04:15/25
+OL,0,       GCEEFAX 1 401 Tue 24 NovC19:21/31
 OL,1,T]G       Weather for Thursday          
 OL,2,            ZU`4`~|}             G3/3 
 OL,3,           ZRU?0~G6U%                  
@@ -75,16 +75,16 @@ OL,8,CSunny     ^ZRUy?Usp
 OL,9,            ZSj)"G5U}                
 OL,10,        ZUp|t Sx^gU0               
 OL,11,       ZUnG9UtS+"SG4U               
-OL,12,       ZU+S`4 +^S|0             
-OL,13,        ZU+%*o!S"   *^Su             
-OL,14,              ZS`  S*G5S}            
-OL,15,             ^ZSk||S            
-OL,16,              ZS'oG4S^S}zt         
-OL,17,              ZRSj^S_G5S         
-OL,18,             ZSx|G5S^SS_'         
-OL,19,             ^ZS! +S'i_G5Sqp0        
-OL,20,             ^ZS  tSS/!        
-OL,21,             ZShG5S/s/S/?           
+OL,12,       ZU+S`4 +^U|0             
+OL,13,        ZU+%*o!S"   *^Uu             
+OL,14,              ZU`  S*G5U}            
+OL,15,             ^ZUk||S            
+OL,16,              ZU'oG4S^S}zt         
+OL,17,              ZRUj^S_G5S         
+OL,18,             ZUx|G5U^SS_'         
+OL,19,             ^ZU! +U'i_G6Sqp0        
+OL,20,             ^ZS  tUS/!        
+OL,21,             ZShG6S/s/S/?           
 OL,22,            ZS8?' "'    "               
 OL,23,D]G      Data from the Met Office       
 OL,24,ARegionWeath BSport  CTravel FMain Menu 

@@ -4,22 +4,19 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     265Cwto 24 lis  01:24:39
+OL,0,      BTVP1     265C|ro 25 lis  03:06:41
 OL,1,C]DKOSZYKOWKA  ]       GN B A           
-OL,5,                  C22.11                
-OL,6,FNY Knicks       - Portland      97:96  
-OL,7,FDallas          - LA Clippers  110:100 
-OL,8,FMinnesota       - Memphis      104:95  
-OL,9,FSan Antonio     - New Orlean   114:91  
-OL,10,FSacramento      - Boston        97:96  
-OL,11,FAtlanta         - Detroit      107:97  
-OL,13,                  C23.11                
-OL,14,FMiami Heat      - Oklahoma     123:113 
-OL,15,FChicago         - Denver       145:151D
-OL,16,FUtah            - Dallas       114:116 
-OL,17,FWashington      - Orlando      116:96  
-OL,18,FNY Knicks       - Indiana      113:106 
-OL,19,FGolden State    - Boston        88:87  
+OL,6,                  C24.11                
+OL,7,FCharlotte       - Memphis      111:117 
+OL,8,FPhiladelphia    - Portland     111:128 
+OL,9,FIndiana         - Oklahoma     125:120 
+OL,10,FMinnesota       - Brooklyn     142:116 
+OL,11,FToronto         - Milwaukee    111:116 
+OL,12,FChicago         - Cleveland    122:108 
+OL,13,FNew Orlean      - Phoenix      119:123D
+OL,14,FHouston         - LA Clippers  116:104 
+OL,15,FLA Lakers       - Utah         109:94  
+OL,16,FSacramento      - San Antonio  107:123 
 OL,23,SppppppppppppppT]WABELEG>266 OPIS-> 267 
 OL,24,   A264      B266      C267      F268   
 FL,264,266,267,268,0,100
@@ -28,24 +25,22 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     265Cwto 24 lis  01:24:39
+OL,0,      BTVP1     265C|ro 25 lis  03:06:41
 OL,1,C]DKOSZYKOWKA  ]       GN B A           
-OL,4,                  C24.11                
-OL,5,FCharlotte       - Memphis       01:00  
-OL,6,FPhiladelphia    - Portland      01:00  
-OL,7,FIndiana         - Oklahoma      01:30  
-OL,8,FMinnesota       - Brooklyn      01:30  
-OL,9,FToronto         - Milwaukee     01:30  
-OL,10,FChicago         - Cleveland     02:00  
-OL,11,FNew Orlean      - Phoenix       02:00  
-OL,12,FHouston         - LA Clippers   02:30  
-OL,13,FLA Lakers       - Utah          04:00  
-OL,14,FSacramento      - San Antonio   04:00  
-OL,16,                  C25.11                
-OL,17,FOrlando         - Detroit       01:00  
-OL,18,FWashington      - Boston        02:00  
-OL,19,FDenver          - Dallas        04:00  
-OL,20,FPhiladelphia    - Miami Heat    23:00  
+OL,5,                  C25.11                
+OL,6,FOrlando         - Detroit       01:00  
+OL,7,FWashington      - Boston        02:00  
+OL,8,FDenver          - Dallas        04:00  
+OL,9,FPhiladelphia    - Miami Heat    23:00  
+OL,11,                  C26.11                
+OL,12,FCharlotte       - Chicago       01:00  
+OL,13,FNY Knicks       - Cleveland     01:30  
+OL,14,FOklahoma        - Minnesota     01:30  
+OL,15,FMemphis         - LA Clippers   02:00  
+OL,16,FMilwaukee       - Brooklyn      02:00  
+OL,17,FHouston         - Phoenix       02:30  
+OL,18,FGolden State    - Sacramento    04:00  
+OL,19,FPortland        - San Antonio   04:00  
 OL,23,SppppppppppppppT]WABELEG>266 OPIS-> 267 
 OL,24,   A264      B266      C267      F268   
 FL,264,266,267,268,0,100
@@ -54,17 +49,55 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     265Cwto 24 lis  01:24:39
+OL,0,      BTVP1     265C|ro 25 lis  03:06:41
 OL,1,C]DKOSZYKOWKA  ]       GN B A           
-OL,7,                  C26.11                
-OL,8,FCharlotte       - Chicago       01:00  
-OL,9,FNY Knicks       - Cleveland     01:30  
-OL,10,FOklahoma        - Minnesota     01:30  
-OL,11,FMemphis         - LA Clippers   02:00  
-OL,12,FMilwaukee       - Brooklyn      02:00  
-OL,13,FHouston         - Phoenix       02:30  
-OL,14,FGolden State    - Sacramento    04:00  
-OL,15,FPortland        - San Antonio   04:00  
+OL,2,                  C28.11                
+OL,3,FNY Knicks       - Miami Heat      01:00
+OL,4,FDetroit         - Milwaukee       01:30
+OL,5,FIndiana         - Philadelphia    01:30
+OL,6,FToronto         - Brooklyn        01:30
+OL,7,FBoston          - Atlanta         02:00
+OL,8,FMinnesota       - Memphis         02:30
+OL,9,FPhoenix         - Dallas          03:00
+OL,10,FLA Clippers     - New Orlean      03:30
+OL,11,FPortland        - Golden State    03:30
+OL,12,FSan Antonio     - LA Lakers       03:30
+OL,13,FUtah            - Denver          03:30
+OL,14,FWashington      - Orlando         23:00
+OL,15,                  C29.11                
+OL,16,FCharlotte       - Brooklyn        00:00
+OL,17,FChicago         - Indiana         02:00
+OL,18,FMilwaukee       - Oklahoma        02:00
+OL,19,FHouston         - Philadelphia    02:30
+OL,20,FMemphis         - LA Lakers       22:00
+OL,21,FSan Antonio     - Boston          22:00
+OL,22,FUtah            - Phoenix         23:00
+OL,23,SppppppppppppppT]WABELEG>266 OPIS-> 267 
+OL,24,   A264      B266      C267      F268   
+FL,264,266,267,268,0,100
+PN,26504
+SC,0004
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP1     265C|ro 25 lis  03:06:41
+OL,1,C]DKOSZYKOWKA  ]       GN B A           
+OL,4,                  C30.11                
+OL,5,FCleveland       - Miami Heat      00:00
+OL,6,FDetroit         - Orlando         00:00
+OL,7,FNY Knicks       - Atlanta         00:00
+OL,8,FPortland        - New Orlean      00:00
+OL,9,FToronto         - Denver          00:00
+OL,10,FGolden State    - LA Clippers     02:30
+OL,11,FSacramento      - Minnesota       03:00
+OL,13,                  C01.12                
+OL,14,FCharlotte       - Washington      01:00
+OL,15,FDetroit         - Denver          01:00
+OL,16,FBrooklyn        - Oklahoma        01:30
+OL,17,FHouston         - LA Lakers       01:30
+OL,18,FDallas          - Boston          02:00
+OL,19,FMilwaukee       - San Antonio     02:00
+OL,20,FSacramento      - New Orlean      04:00
 OL,23,SppppppppppppppT]WABELEG>266 OPIS-> 267 
 OL,24,   A264      B266      C267      F268   
 FL,264,266,267,268,0,100

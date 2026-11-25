@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     143Cpon 23 lis  22:09:31
+OL,0,      BTVP3     143C|ro 25 lis  02:22:51
 OL,1, ]@\RODA        Tcsscsscs3
 OL,2, ] @25.11.2026  TjWTjWTj 5]G
 OL,3,T|||||||||||||||WTWTWTWTWT
@@ -19,15 +19,15 @@ OL,11,  7:3o Agrobiznes Info
 OL,12,  7:4o Agropogoda Info                  
 OL,13,  7:45 Go|^ Poranka                     
 OL,14,  8:o5 Reporterzy                       
-OL,15,  8:15 Cyberbezpiecznie                 
-OL,16,  8:25 Kryminalna Si_demka; magazyn     
-OL,17,  8:4o Wykrywacz k}amstw                
-OL,18,  9:o5 Witaj w klubie                   
-OL,19,  9:2o Warszawa. Wczoraj i dzi|         
-OL,20,  9:3o Jedzenie ma znaczenie            
-OL,21, 10:oo Z}oty ch}opak                    
-OL,22, 10:5o Mazowsze dla Korony; felieton    
-OL,23, 11:oo Zielnik regionalny;              
+OL,15,  8:25 Kryminalna Si_demka; magazyn     
+OL,16,  8:4o Wykrywacz k}amstw                
+OL,17,  9:o5 Witaj w klubie                   
+OL,18,  9:15 Mazowsze dla Korony              
+OL,19,  9:3o Jedzenie ma znaczenie            
+OL,20, 10:oo Z}oty ch}opak                    
+OL,21, 10:5o Kawa}ek fajnego |wiata           
+OL,22, 11:oo Zielnik regionalny;              
+OL,23, 11:15 Szlakiem miejsc niezwyk}ych      
 OL,24,A140 BPopo}udnie---> CReporta{eFTeleKino
 FL,140,144,100,100,0,100
 PN,14302
@@ -35,17 +35,17 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     143Cpon 23 lis  22:09:31
+OL,0,      BTVP3     143C|ro 25 lis  02:22:51
 OL,1, ]@\RODA        Tcsscsscs3
 OL,2, ] @25.11.2026  TjWTjWTj 5]G
 OL,3,T|||||||||||||||WTWTWTWTWT
 OL,4,D]                          GBIA]YSTOK  
 OL,5,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,6, 11:3o Wyta$czy^ marzenia;              
+OL,6, 11:3o Mi}o|^ na komisariacie;          
 OL,7, 12:oo Telekurier                       
 OL,8, 12:3o G_rna p_}ka smaku                
-OL,9, 13:oo Reporta{                         
-OL,10, 13:2o Poznaj region                    
+OL,9, 13:oo Agrobiznes                       
+OL,10, 13:2o Agropogoda; magazyn              
 OL,11, 13:3o Daj` s}owo - Maciej Or}o|        
 OL,12, 14:2o Poznaj region                    
 OL,13, 14:3o Reporta{                         
@@ -54,10 +54,10 @@ OL,15, 15:2o Niezwyk}e miejsca
 OL,16,B15:3o Obiektyw                         
 OL,17,C15:4o Przegl@d Suwalski; magazyn       
 OL,18,C15:55 Panorama litewska;               
-OL,19,C16:o5 Tydzie$ bia}oruski;              
+OL,19,C16:1o Tydzie$ bia}oruski;              
 OL,20,B16:3o Obiektyw                         
-OL,21, 16:4o Grajmy swoje                     
-OL,22,C16:55 Panorama ]om{y$ska;              
+OL,21, 16:4o Kwartet-magazyn                  
+OL,22, 17:o5 Telenowyny;                      
 OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A140  BWiecz_r---> CReporta{e  FTeleKino
 FL,140,144,100,100,0,100
@@ -66,16 +66,21 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     143Cpon 23 lis  22:09:31
+OL,0,      BTVP3     143C|ro 25 lis  02:22:51
 OL,1, ]@\RODA        Tcsscsscs3
 OL,2, ] @25.11.2026  TjWTjWTj 5]G
 OL,3,T|||||||||||||||WTWTWTWTWT
 OL,4,D]                          GBIA]YSTOK  
 OL,5,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,6, 17:15                                  
-OL,7, 17:5o                                  
+OL,6, 17:3o Moda na j`zyk polski             
+OL,7, 17:55 Grajmy swoje                     
+OL,8,C18:05 Panorama ]om{y$ska;              
 OL,9,B18:3o Obiektyw G}_wny                  
-OL,13, 19:oo                                  
+OL,11,C18:5o Go|^ Obiektywu                   
+OL,13,C19:oo Sport, prognoza pogody           
+OL,14, 19:o5 Polacy na medal                  
+OL,15, 19:23 Bezb}`dnie                       
+OL,16, 19:3o Klub; reporta{                   
 OL,17, 20:oo Dziennik Region_w                
 OL,18, 20:13 Go|^ Region_w                    
 OL,19, 20:3o Telekurier                       
@@ -88,26 +93,27 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     143Cpon 23 lis  22:09:31
+OL,0,      BTVP3     143C|ro 25 lis  02:22:51
 OL,1, ]@\RODA        Tcsscsscs3
 OL,2, ] @25.11.2026  TjWTjWTj 5]G
 OL,3,T|||||||||||||||WTWTWTWTWT
 OL,4,D]                          GBIA]YSTOK  
 OL,5,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,6, 21:15 RoberTeka                        
+OL,6,C21:19 Go|^ Obiektywu                   
 OL,7,B21:3o Obiektyw Wieczorny, pogoda, sport
 OL,8, 22:oo Dziennik Region_w                
 OL,9, 22:3o Z}oty ch}opak; serial            
 OL,11, 23:3o Kryminalna Si_demka; magazyn     
-OL,13, 23:55 Panorama                         
+OL,12, 23:55 Panorama                         
+OL,13,  0:2o Program informacyjny             
 OL,14,  0:35 Program informacyjny             
 OL,15,  1:15 Dziennik Region_w                
 OL,16,  1:4o Dziedzictwo; serial              
-OL,17,  2:25 Samuraj; reporta{                
+OL,17,  2:2o AI w s}u{bie sportowcom          
 OL,18,  2:35 Tr_jk@t Polityczny               
 OL,19,  3:1o Program informacyjny             
 OL,20,  3:5o Lec` za mi}o|ci@                 
-OL,22,  4:15 Reporta{                         
+OL,22,  4:15 A wszystko przez ten p}ot; rep.  
 OL,23,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A140  BCzwartek   CReporta{e   FTeleKino
 FL,140,144,100,100,0,100

@@ -3,46 +3,67 @@ PN,10901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMo 23 Nov F21:15:10
+OL,0,         GFORUM64   GDi 24 Nov F20:22:27
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EAmiga 2000 defektes Netzteil reparieren
-OL,4,CAntwort:  BSmallSmurf                  
-OL,5,CComments: B6                           
+OL,2,EProjektvorstellung: C128-Turbokarte    
+OL,4,CAntwort:  BQuantfr                     
+OL,5,CComments: B173                         
 OL,6,F                                       
-OL,7,FJa das w{re gut. Die 11,4V liegen      
-OL,8,Fgerade so im Toleranzbereich, zeigen   
-OL,9,Faber, dass wohl noch eine gewisse      
-OL,10,FGrundlast fehlt.                       
-OL,12,CErster Beitrag:                        
-OL,14,GMoin,                                  
-OL,16,GIn letzter Zeit versuche ich ein A2000 
-OL,17,GNetzteil (von Elec & Eltec) wieder     
-OL,18,Geinsatzbereit zu machen. Es hat sich   
-OL,19,Gnach einem Sturz geweigert, richtig zu 
-OL,20,Garbeiten...                            
-OL,22,GNach dem |ffnen des Geh{uses hab ich   
-OL,23,Gbemerkt, dass ein Beinchen eines       
-OL,24,D]FForum64.de RSS feed            (1/2) 
+OL,7,FUpdate: Nach einigem hin und her ist   
+OL,8,Fjetzt die Bestellung 2 da. Die         
+OL,9,FBestellung 1 kommt noch diese Woche. Am
+OL,10,FWochenende werde ich die Platinen dann 
+OL,11,Fgenauer pr}fen und mal eine Karte      
+OL,12,Fkomplett zusammen bauen und testen.    
+OL,13,FSieht auf die Schnelle ganz gut aus.   
+OL,16,CErster Beitrag:                        
+OL,18,GDie Karte wurde urspr}nglich als Ersatz
+OL,19,Gf}r die REU1750 entwickelt, mit der    
+OL,20,Gzus{tzlichen M|glichkeit, weitere      
+OL,21,GProjekte flexibel darauf umzusetzen.   
+OL,22,GNachdem REU1750 , GEORAM ,             
+OL,23,GExternal-Kernal (ROMs) , SwiftLink ,   
+OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,10902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMo 23 Nov F21:15:10
+OL,0,         GFORUM64   GDi 24 Nov F20:22:27
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GVaristors gebrochen war und die Platine
-OL,4,Gin der n{he etwas schwarz wurde.       
-OL,6,GDen vdr habe ich getauscht, allerdings 
-OL,7,Gscheinen noch andere Bauteile defekt zu
-OL,8,Gsein, da die Spannungen nicht in       
-OL,9,GOrdnung sind. Die 5V sind 6,2V und die 
-OL,10,G12V sind 8V; -12 und -5 sind da. Als   
-OL,11,Gerstes hatte ich die Kondensatoren in  
-OL,12,Gverdacht; tats{chlich sind alle in     
-OL,13,GOrdnung, wie auch alle                 
-OL,14,GHalbleiter-Bauteile.                   
-OL,16,GDer Schaltplan ist hier zu finden:     
-OL,17,Ghttps://www.amigawiki.org/lib/exe/fetch
-OL,18,G. 88_issue_20.pdf                      
-OL,24,D]FForum64.de RSS feed            (2/2) 
+OL,3,GThe Final Chesscard und die C64        
+OL,4,GTurbokarte abgeschlossen waren, brachte
+OL,5,Gmich @Ich_bins3 dem ich die Karte in   
+OL,6,Gder REU und C64 Turbo Konfiguration zum
+OL,7,GTesten auf seinen C128 Systemen        
+OL,8,G}berlassen hatte auf das n{chste       
+OL,9,GProjekt: die C128 Turbokarte .         
+OL,11,G@Ich_bins3 Hat die C128 Turbokarte     
+OL,12,Gunter GEOS128 getestet (GEOWrite/GEOS  
+OL,13,GSpiele), soweit keine Auff{lligkeiten. 
+OL,15,GHier die C128 Specs:                   
+OL,17,GSpeichererweiterung auf 256KiB         
+OL,18,G(Bank2+3) Einschr{nkung VICII kann nur 
+OL,19,Gauf Bank0+1 zugreifen.                 
+OL,21,GCPU 50MHz bei MMU Adress}bersetzungen  
+OL,22,G25MHz                                  
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,10903
+SC,0003
+PS,C200
+CT,15,T
+OL,0,         GFORUM64   GDi 24 Nov F20:22:27
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GRAM BANK0 lesen 50MHz, schreiben erste 
+OL,4,G1KiB 50MHz der Rest 1MHz               
+OL,6,GRAM BANK1 lesen 10MHz, schreiben 1MHz  
+OL,8,GRAM BANK2+3 lesen und schreiben 10MHz  
+OL,10,GBASIC ROM erste 16KiB 50MHz die        
+OL,11,Grestlichen ROMs 10MHz                  
+OL,13,GIO und FarbRAM 1MHz                    
+OL,15,GDie CPU 8502 IO-Ports werden eingelesen
+OL,16,Gund angesteuert.                       
+OL,18,GDie                                    
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

@@ -3,8 +3,8 @@ PN,47701
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 24.03.07:04:26
-OL,1,D]G         VOITTAJAVETO 1         1/4  
+OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
+OL,1,D]G         VOITTAJAVETO 1         1/7  
 OL,2,K                                       
 OL,3,BM       Salibandyn MM-kisat 2026       
 OL,5,K                                       
@@ -32,8 +32,8 @@ PN,47702
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 24.03.07:04:26
-OL,1,D]G         SUPERTRIPLA 5          2/4  
+OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
+OL,1,D]G         SUPERTRIPLA 5          2/7  
 OL,2,K                                       
 OL,3,BMAmpumahiihto, kokonaiskilpailu, mieste
 OL,5,K                                       
@@ -61,8 +61,8 @@ PN,47703
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 24.03.07:04:26
-OL,1,D]G         SUPERTRIPLA 6          3/4  
+OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
+OL,1,D]G         SUPERTRIPLA 6          3/7  
 OL,2,K                                       
 OL,3,BMAmpumahiihto, kokonaiskilpailu, naiste
 OL,5,K                                       
@@ -90,14 +90,72 @@ PN,47704
 SC,0004
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 24.03.07:04:26
-OL,1,D]G         P[IV[N TRIO 3          4/4  
+OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
+OL,1,D]G         SUPERTRIPLA 9          4/7  
+OL,2,K                                       
+OL,3,BMAmpumahiihto, miehet 20km normaalimatk
+OL,5,K                                       
+OL,6,BVoittaja                               
+OL,7,K                                       
+OL,8,G 1 Laegreid Sturla  15 Hiidensalo Olli 
+OL,9,G 2 Perrot Eric      16 Muu voittaja    
+OL,10,G 3 Botn Johan-Olav                     
+OL,11,G 4 Christiansen Vet                    
+OL,12,G 5 Samuelsson Sebas                    
+OL,13,G 6 Giacomel Tommaso                    
+OL,14,G 7 Uldal Martin                        
+OL,15,G 8 Fillon Maillet Q                    
+OL,16,G 9 Nawrath Philipp                     
+OL,17,G10 Dale Johannes                       
+OL,18,G11 Frey Isak                           
+OL,19,G12 Wright Campbell                     
+OL,20,G13 Hofer Lukas                         
+OL,21,G14 Claude Fabien                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy to 26.11. klo 17.15.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47705
+SC,0005
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
+OL,1,D]G         P[IV[N TRIO 2          5/7  
+OL,2,K                                       
+OL,3,BM         Puoliaika/lopputulos         
+OL,5,K                                       
+OL,6,Bkilpailu 1: Sporting CP - Manchester U 
+OL,7,Bkilpailu 2: Shahtar D - Fenerbahce     
+OL,8,Bkilpailu 3: Club Brugge - Liverpool    
+OL,9,K                                       
+OL,10,G 1 1/1                                 
+OL,11,G 2 1/X                                 
+OL,12,G 3 1/2                                 
+OL,13,G 4 X/1                                 
+OL,14,G 5 X/X                                 
+OL,15,G 6 X/2                                 
+OL,16,G 7 2/1                                 
+OL,17,G 8 2/X                                 
+OL,18,G 9 2/2                                 
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy ke 25.11. klo 22.00.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47706
+SC,0006
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
+OL,1,D]G         P[IV[N TRIO 3          6/7  
 OL,2,K                                       
 OL,3,BM        Otteluiden maalim{{r{t        
 OL,5,K                                       
-OL,6,Bkilpailu 1: Sport - K-Espoo            
-OL,7,Bkilpailu 2: SaiPa - Lukko              
-OL,8,Bkilpailu 3: Ilves - [ss{t              
+OL,6,Bkilpailu 1: Tampa Bay - Carolina       
+OL,7,Bkilpailu 2: Dallas - Nashville         
+OL,8,Bkilpailu 3: Colorado - Montreal        
 OL,9,K                                       
 OL,10,G 1 0-1 maalia                          
 OL,11,G 2 2 maalia                            
@@ -112,6 +170,35 @@ OL,19,G10 10 maalia
 OL,20,G11 11 maalia                           
 OL,21,G12 12 maalia tai yli                   
 OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy ti 24.11. klo 18.30.
+OL,23,BPelaaminen p{{ttyy to 26.11. klo 02.00.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47707
+SC,0007
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
+OL,1,D]G         P[IV[N TRIO 4          7/7  
+OL,2,K                                       
+OL,3,BM        Otteluiden maalim{{r{t        
+OL,5,K                                       
+OL,6,Bkilpailu 1: HIFK - TPS                 
+OL,7,Bkilpailu 2: Jokerit - KooKoo           
+OL,8,Bkilpailu 3: Tappara - Jukurit          
+OL,9,K                                       
+OL,10,G 1 0-1 maalia                          
+OL,11,G 2 2 maalia                            
+OL,12,G 3 3 maalia                            
+OL,13,G 4 4 maalia                            
+OL,14,G 5 5 maalia                            
+OL,15,G 6 6 maalia                            
+OL,16,G 7 7 maalia                            
+OL,17,G 8 8 maalia                            
+OL,18,G 9 9 maalia                            
+OL,19,G10 10 maalia                           
+OL,20,G11 11 maalia                           
+OL,21,G12 12 maalia tai yli                   
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy ke 25.11. klo 18.30.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:16
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:18
 OL,1, ]DPREMIER LEAGUE  ]G11. kolejka     LA 
 OL,2, Manchester City- Fulham            1:1 
 OL,3, Aston Villa    - Sunderland        0:0 
@@ -15,18 +15,18 @@ OL,7, Tottenham      - Ipswich           2:0
 OL,8, Newcastle      - Arsenal           2:2 
 OL,9,FHull           - Brighton          2:0 
 OL,10,FLiverpool      - Manchester Utd.   4:0 
-OL,11, Brentford      - Everton    23.11 21.00
+OL,11, Brentford      - Everton           4:0 
 OL,12,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
-OL,13,              FX X 1 2 1 1 X 1 1D? Fpkt.
+OL,13,              FX X 1 2 1 1 X 1 1 1  pkt.
 OL,14,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
-OL,15, FRAK         D1 1 X 1 XF1 XD2F1G2  F55 
-OL,16, EkrudyDref   D1 1F1D1F1 1D2 2F1GX  F51 
-OL,17, Agencik      D1 1F1D1 XF1 XD2F1G1  F50 
-OL,18, Lapi63       D1 1F1D1 XF1D2 XF1GX  F50 
-OL,19, RESOVIAK     D1 1F1D1 2F1D2 2F1G1  F50 
-OL,20, Hegemon01    D1 1F1D1F1 1D2 2F1G2  F48 
-OL,21, Strzelba     D1 1F1D1F1 1D1F1 1G1  F47 
-OL,22, Evertonian   D1 1F1D1 XF1D2 2F1GX  F46 
+OL,15, FRAK         D1 1 X 1 XF1 XD2F1D2  F58 
+OL,16, EkrudyDref   D1 1F1D1F1 1D2 2F1DX  F55 
+OL,17, Agencik      D1 1F1D1 XF1 XD2F1 1   55 
+OL,18, Lapi63       D1 1F1D1 XF1D2 XF1DX  F53 
+OL,19, RESOVIAK     D1 1F1D1 2F1D2 2F1 1   54 
+OL,20, Hegemon01    D1 1F1D1F1 1D2 2F1D2  F52 
+OL,21, Strzelba     D1 1F1D1F1 1D1F1 1 1   53 
+OL,22, Evertonian   D1 1F1D1 XF1D2 2F1DX  F49 
 OL,23,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
 OL,24,   A294      B296      C297      F298   
 FL,294,296,297,298,0,100
@@ -35,16 +35,16 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:16
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:18
 OL,1, ]DPREMIER LEAGUE  ]G11. kolejka     LA 
 OL,2,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
-OL,3,              FX X 1 2 1 1 X 1 1D? Fpkt.
+OL,3,              FX X 1 2 1 1 X 1 1 1  pkt.
 OL,4,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
-OL,5, FrancoLoco   D1 1F1D1F1 1D2 2F1G1  F46 
-OL,6, Go|^1z92     D1 1F1D1 XF1D2 2F1GX  F46 
-OL,7, EFIALTES     D1 1F1D1 XF1D2 2F1G2  F44 
-OL,8, Robson       D1 1 X 1 XF1D2 X XGX  F40 
-OL,9, Spawacz      D1 1F1D1F1 1D2 2F1GX  F39 
+OL,5, FrancoLoco   D1 1F1D1F1 1D2 2F1 1   51 
+OL,6, Go|^1z92     D1 1F1D1 XF1D2 2F1DX  F49 
+OL,7, EFIALTES     D1 1F1D1 XF1D2 2F1D2  F47 
+OL,8, Robson       D1 1 X 1 XF1D2 X X X  F41 
+OL,9, Spawacz      D1 1F1D1F1 1D2 2F1DX  F43 
 OL,10, Filippo828                         F22 
 OL,11, Pjablo                             F20 
 OL,12, JAGArysKLIM                         F5 
@@ -57,7 +57,7 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:16
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:18
 OL,1, ]DPREMIER LEAGUE  ]G12. kolejka     LA 
 OL,2,FNottingham     - Chelsea    27.11 21.00
 OL,3, Leeds          - Coventry   28.11 16.00
@@ -72,13 +72,14 @@ OL,11,FArsenal        - Manchester City  17.30
 OL,12,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
 OL,13,              D? ? ? ? ? ? ? ? ? ? Fpkt.
 OL,14,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
-OL,15, EkrudyDref    2 1 2 X 2 1 X 2 2 1      
-OL,16, Go|^1z92      2 1 1 2 2 1 1 2 2 1      
-OL,17, Hegemon01     2 1 2 2 1 1 2 2 2 1      
-OL,18, RESOVIAK      2 1 1 2 2 1 1 2 2 1      
-OL,19, Strzelba      2 1 1 2 2 2 1 1 2 2      
-OL,20, Spawacz       X 1 1 X 2 1 1 2 X X      
-OL,21, Lapi63        2 1 1 X X 1 1 X X 1      
+OL,15, FRAK                               F58 
+OL,16, Agencik       2 1 1 X 2 X 1 X 2 X  F55 
+OL,17, EkrudyDref    2 1 2 X 2 1 X 2 2 1  F55 
+OL,18, RESOVIAK      2 1 1 2 2 1 1 2 2 1  F54 
+OL,19, Lapi63        2 1 1 X X 1 1 X X 1  F53 
+OL,20, Strzelba      2 1 1 2 2 2 1 1 2 2  F53 
+OL,21, Hegemon01     2 1 2 2 1 1 2 2 2 1  F52 
+OL,22, FrancoLoco                         F51 
 OL,23,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
 OL,24,   A294      B296      C297      F298   
 FL,294,296,297,298,0,100
@@ -87,7 +88,29 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:16
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:18
+OL,1, ]DPREMIER LEAGUE  ]G12. kolejka     LA 
+OL,2,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
+OL,3,              D? ? ? ? ? ? ? ? ? ? Fpkt.
+OL,4,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
+OL,5, Evertonian                         F49 
+OL,6, Go|^1z92      2 1 1 2 2 1 1 2 2 1  F49 
+OL,7, EFIALTES                           F47 
+OL,8, Spawacz       X 1 1 X 2 1 1 2 X X  F43 
+OL,9, Robson        X 1 2 2 1 1 2 X X 2  F41 
+OL,10, Filippo828                         F22 
+OL,11, Pjablo                             F20 
+OL,12, JAGArysKLIM                         F5 
+OL,13, ZubkiHARADOK                        F4 
+OL,23,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
+OL,24,   A294      B296      C297      F298   
+FL,294,296,297,298,0,100
+PN,29505
+SC,0005
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:18
 OL,1, ]DPREMIER LEAGUE  ]G13. kolejka     LA 
 OL,2,FCoventry       - Ipswich    01.12 21.00
 OL,3, Chelsea        - Crystal Palace   20.30
@@ -109,12 +132,12 @@ OL,18, Strzelba      1 1 1 1 1 1 1 2 2 1
 OL,23,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
 OL,24,   A294      B296      C297      F298   
 FL,294,296,297,298,0,100
-PN,29505
-SC,0005
+PN,29506
+SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:16
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:18
 OL,1, ]DPREMIER LEAGUE  ]G14. kolejka     LA 
 OL,2, Chelsea        - Liverpool  05.12 13.30
 OL,3, Aston Villa    - Crystal Palace   16.00
@@ -134,12 +157,12 @@ OL,16, Strzelba      2 1 1 1 1 1 2 1 1 2
 OL,23,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
 OL,24,   A294      B296      C297      F298   
 FL,294,296,297,298,0,100
-PN,29506
-SC,0006
+PN,29507
+SC,0007
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:16
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:18
 OL,1, ]DPREMIER LEAGUE  ]G15. kolejka     LA 
 OL,2, Fulham         - Brentford  12.12 16.00
 OL,3, Ipswich        - Newcastle        16.00
@@ -159,12 +182,12 @@ OL,16, Strzelba      1 2 1 1 1 2 2 2 2 2
 OL,23,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
 OL,24,   A294      B296      C297      F298   
 FL,294,296,297,298,0,100
-PN,29507
-SC,0007
+PN,29508
+SC,0008
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:17
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:19
 OL,1, ]DPREMIER LEAGUE  ]G16. kolejka     LA 
 OL,2, Brentford      - Newcastle  19.12 13.30
 OL,3, Bournemouth    - Coventry         16.00
@@ -183,12 +206,12 @@ OL,15, Strzelba      2 2 2 1 1 1 1 1 1 1
 OL,23,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
 OL,24,   A294      B296      C297      F298   
 FL,294,296,297,298,0,100
-PN,29508
-SC,0008
+PN,29509
+SC,0009
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:17
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:19
 OL,1, ]DPREMIER LEAGUE  ]G17. kolejka     LA 
 OL,2, Aston Villa    - Leeds      26.12 13.30
 OL,3, Everton        - Sunderland       16.00
@@ -207,12 +230,12 @@ OL,15, Strzelba      1 1 1 1 1 2 2 2 1 2
 OL,23,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
 OL,24,   A294      B296      C297      F298   
 FL,294,296,297,298,0,100
-PN,29509
-SC,0009
+PN,29510
+SC,0010
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:17
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:19
 OL,1, ]DPREMIER LEAGUE  ]G18. kolejka     LA 
 OL,2,FHull           - Leeds      29.12 20.30
 OL,3,FTottenham      - Brighton         20.30
@@ -231,12 +254,12 @@ OL,15, Strzelba      2 1 2 2 1 2 1 1 2 2
 OL,23,W,,,,,,,,,,,,,,,,,,T,,,,,,,,,,,,,,,,,,,,
 OL,24,   A294      B296      C297      F298   
 FL,294,296,297,298,0,100
-PN,29510
-SC,0010
+PN,29511
+SC,0011
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:17
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:19
 OL,1, ]DCHAMPIONSHIP  ]  G16. kolejka    LA2 
 OL,2, Millwall       - QPR               0:1 
 OL,3, Norwich        - Cardiff           2:1 
@@ -262,43 +285,43 @@ OL,22, Robson    F2 1 1D2 XF1 1D2 2 1 XFX  72
 OL,23, Hegemon01 F2D2F1D2F2 1 1 1D2 1F1D1 F72 
 OL,24,   A295      B297      C298      F299   
 FL,295,297,298,299,0,100
-PN,29511
-SC,0011
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:17
-OL,1, ]DCHAMPIONSHIP  ]  G17. kolejka    LA2 
-OL,2,FBristol City   - Wrexham    24.11 20.45
-OL,3,FCardiff        - Preston          20.45
-OL,4,FCharlton       - Lincoln          20.45
-OL,5,FMiddlesbrough  - Swansea          20.45
-OL,6,FNorwich        - QPR              20.45
-OL,7,FPortsmouth     - West Ham         20.45
-OL,8,FSheffield Utd  - Southampton      20.45
-OL,9,FWolves         - Derby            21.00
-OL,10, Bolton         - West Brom  25.11 20.45
-OL,11, Burnley        - Birmingham       20.45
-OL,12, Watford        - Blackburn        20.45
-OL,13, Stoke          - Millwall         21.00
-OL,14,           D? ? ? ? ? ? ? ? ? ? ? ?Fpkt.
-OL,15, RESOVIAK   1 1 1 1 1 1 1 1 2 2 2 1 F88 
-OL,16, FRAK                               F82 
-OL,17, Strzelba   1 1 1 1 1 1 1 1 1 1 1 1 F80 
-OL,18, Agencik                            F79 
-OL,19, EkrudyDref 1 1 1 1 1 X 2 1 2 2 X 1 F78 
-OL,20, Evertonian                         F76 
-OL,21, EFIALTES   1 1 1 1 X 2 2 1 2 1 2 X F75 
-OL,22, Hegemon01  2 1 1 1 2 1 1 1 2 2 2 1 F72 
-OL,23, Robson                             F72 
-OL,24,   A295      B297      C298      F299   
-FL,295,297,298,299,0,100
 PN,29512
 SC,0012
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:17
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:19
+OL,1, ]DCHAMPIONSHIP  ]  G17. kolejka    LA2 
+OL,2,FBristol City   - Wrexham           1:1 
+OL,3,FCardiff        - Preston           0:4 
+OL,4,FCharlton       - Lincoln           4:0 
+OL,5,FMiddlesbrough  - Swansea           2:1 
+OL,6,FNorwich        - QPR               1:1 
+OL,7,FPortsmouth     - West Ham          1:0 
+OL,8,FSheffield Utd  - Southampton       1:1 
+OL,9,FWolves         - Derby             3:0 
+OL,10, Bolton         - West Brom  25.11 20.45
+OL,11, Burnley        - Birmingham       20.45
+OL,12, Watford        - Blackburn        20.45
+OL,13, Stoke          - Millwall         21.00
+OL,14,           FX 2 1 1 X 1 X 1D? ? ? ?Fpkt.
+OL,15, RESOVIAK  D1 1F1 1D1F1D1F1G2 2 2 1 F88 
+OL,16, FRAK      D1 1F1 1D1 2FX 1G2 2 X 1 F82 
+OL,17, Strzelba  D1 1F1 1D1F1D1F1G1 1 1 1 F80 
+OL,18, Agencik   D1 1F1 1 XD2 1F1G1 1 X 1 F79 
+OL,19, EkrudyDrefD1 1F1 1D1 X 2F1G2 2 X 1 F78 
+OL,20, EvertonianFXD1 2F1 XD2 2F1G2 1 X X F76 
+OL,21, EFIALTES  D1 1F1 1 XD2 2F1G2 1 2 X F75 
+OL,22, Hegemon01 D2 1F1 1D2F1D1F1G2 2 2 1 F72 
+OL,23, Robson    FXDX XF1D1 X 2F1G2 X 2 1 F72 
+OL,24,   A295      B297      C298      F299   
+FL,295,297,298,299,0,100
+PN,29513
+SC,0013
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:19
 OL,1, ]DCHAMPIONSHIP  ]  G18. kolejka    LA2 
 OL,2,FSouthampton    - Middlesbrough 27 21.00
 OL,3, Blackburn      - Charlton   28.11 13.30
@@ -321,15 +344,15 @@ OL,19, EkrudyDref
 OL,20, Evertonian                             
 OL,21, EFIALTES                               
 OL,22, Robson                                 
-OL,23, Hegemon01                              
+OL,23, Hegemon01  2 2 2 2 1 2 2 2 1 2 2 1     
 OL,24,   A295      B297      C298      F299   
 FL,295,297,298,299,0,100
-PN,29513
-SC,0013
+PN,29514
+SC,0014
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:17
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:19
 OL,1, ]DCHAMPIONSHIP  ]  G19. kolejka    LA2 
 OL,2,FSheffield Utd  - West Ham   04.12 21.00
 OL,3, Bolton         - Blackburn  05.12 13.30
@@ -352,15 +375,15 @@ OL,19, EkrudyDref
 OL,20, Evertonian                             
 OL,21, EFIALTES                               
 OL,22, Robson                                 
-OL,23, Hegemon01                              
+OL,23, Hegemon01  1 2 2 1 1 1 2 1 2 1 2 2     
 OL,24,   A295      B297      C298      F299   
 FL,295,297,298,299,0,100
-PN,29514
-SC,0014
+PN,29515
+SC,0015
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:17
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:19
 OL,1, ]DCHAMPIONSHIP  ]  G20. kolejka    LA2 
 OL,2, Blackburn      - Norwich    08.12 20.45
 OL,3, Millwall       - Sheffield Utd    20.45
@@ -386,12 +409,12 @@ OL,22, Robson
 OL,23, Hegemon01                              
 OL,24,   A295      B297      C298      F299   
 FL,295,297,298,299,0,100
-PN,29515
-SC,0015
+PN,29516
+SC,0016
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:17
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:19
 OL,1, ]DCHAMPIONSHIP  ]  G21. kolejka    LA2 
 OL,2,FBolton         - Wrexham    11.12 21.00
 OL,3, Preston        - Middlesbrough    13.30
@@ -417,12 +440,12 @@ OL,22, Robson
 OL,23, Hegemon01                              
 OL,24,   A295      B297      C298      F299   
 FL,295,297,298,299,0,100
-PN,29516
-SC,0016
+PN,29517
+SC,0017
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:17
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:19
 OL,1, ]DCHAMPIONSHIP  ]  G22. kolejka    LA2 
 OL,2,FWest Brom      - Sheffield Utd 18 21.00
 OL,3, Birmingham     - West Ham   19.12 13.30
@@ -448,12 +471,12 @@ OL,22, Robson
 OL,23, Hegemon01                              
 OL,24,   A295      B297      C298      F299   
 FL,295,297,298,299,0,100
-PN,29517
-SC,0017
+PN,29518
+SC,0018
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:18
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:20
 OL,1, ]DCHAMPIONSHIP  ]  G23. kolejka    LA2 
 OL,2, Bolton         - Burnley    26.12 13.30
 OL,3, Sheffield Utd  - Middlesbrough    13.30
@@ -479,12 +502,12 @@ OL,22, Robson
 OL,23, Hegemon01                              
 OL,24,   A295      B297      C298      F299   
 FL,295,297,298,299,0,100
-PN,29518
-SC,0018
+PN,29519
+SC,0019
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  295Cwto 24 lis  02:13:18
+OL,0,      BPOLONIA  295C|ro 25 lis  02:41:20
 OL,1, ]DCHAMPIONSHIP  ]  G24. kolejka    LA2 
 OL,2, Wrexham        - Blackburn  29.12 19.00
 OL,3, Bristol City   - Stoke            20.45

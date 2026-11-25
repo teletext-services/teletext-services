@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:56
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:41
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##! Cwojew_dztwo kujawsko-pomorskieQ"##
@@ -19,7 +19,7 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:57
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:41
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##! Cwojew_dztwo kujawsko-pomorskieQ"##
@@ -33,7 +33,7 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:57
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:41
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##! Cwojew_dztwo kujawsko-pomorskieQ"##
@@ -45,7 +45,21 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:57
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:41
+OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
+OL,2,A]G]       @Informacje alarmowe      Q
+OL,3,Q##!      Cwojew_dztwo opolskie     Q"##
+OL,5,             FOblodzenie/1              
+OL,7,CWoj. opolskie, IMGW-PIB wyda}          
+OL,8,Costrze{enie pierwszego stopnia o       
+OL,9,Coblodzeniu                             
+FL,190,192,200,200,0,100
+PN,19105
+SC,0005
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:41
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
@@ -55,12 +69,12 @@ OL,8,C|redniorocznego poziomu dopuszczalnego
 OL,9,C(20  g/m3) dla py}u zawieszonego PM2,5 
 OL,10,Cw powietrzu.                           
 FL,190,192,200,200,0,100
-PN,19105
-SC,0005
+PN,19106
+SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:57
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:41
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
@@ -71,12 +85,12 @@ OL,9,Cna okres 01-30.11.2026r., o
 OL,10,Cutrzymywaniu si` w dalszym ci@gu stanu 
 OL,11,Czagro{enia hydrogeologicznego.         
 FL,190,192,200,200,0,100
-PN,19106
-SC,0006
+PN,19107
+SC,0007
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:57
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:41
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
@@ -85,117 +99,41 @@ OL,7,CPodlaskie, Bug, susza hydrologiczna,
 OL,8,Cwa{ne od 9:50 dnia 29.05.2026 r., do   
 OL,9,Codwo}ania.                             
 FL,190,192,200,200,0,100
-PN,19107
-SC,0007
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:57
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]       @Informacje alarmowe      Q
-OL,3,Q##!     Cwojew_dztwo pomorskie     Q"##
-OL,5,               FAlert RCB               
-OL,7,AKOMUNIKAT: Trwa akcja gaszenia z}omu na
-OL,8,Aterenie portu Gda$sk. Zamknij okna i   
-OL,9,Adrzwi. Je{eli mo{esz zosta$ w domu. Nie
-OL,10,Azbli{aj si` do miejsca akcji.".        
-FL,190,192,200,200,0,100
 PN,19108
 SC,0008
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:57
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:41
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!     Cwojew_dztwo pomorskie     Q"##
-OL,5,     FGwa}towne wzrosty stan_w wody     
-OL,7,CRzeki wojew_dztwa pomorskiego,         
-OL,8,Cgwa}towne wzrosty stan_w wody.         
+OL,5,             FOblodzenie/1              
+OL,7,CWoj. pomorskie, IMGW-PIB wyda}         
+OL,8,Costrze{enie pierwszego stopnia o       
+OL,9,Coblodzeniu                             
 FL,190,192,200,200,0,100
 PN,19109
 SC,0009
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:57
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:41
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
-OL,3,Q##!     Cwojew_dztwo pomorskie     Q"##
-OL,5,     FWEZBRANIE Wybrze{e Wschodnie      
-OL,7,AWEZBRANIE Z PRZEKROCZENIEM STANOW      
-OL,8,AOSTRZEGAWCZYCH Wybrze{e Wschodnie i    
-OL,9,Amorskie wody wewn`trzne RP - Ba}tyk,   
-OL,10,A]ebsko pn, 2026-11-23 05:17 - wt,      
-OL,11,A2026-11-24 12:00                       
+OL,3,Q##!   Cwojew_dztwo |wi`tokrzyskie  Q"##
+OL,5,              FOblodzenie               
+OL,7,CWoj. |wi`tokrzyskie (5 powiat_w),      
+OL,8,CIMGW-PIB wyda} ostrze{enie pierwszego  
+OL,9,Cstopnia o oblodzeniu, od 21:00/24.11 do
+OL,10,C09:00/25.11.2026                       
 FL,190,192,200,200,0,100
 PN,19110
 SC,0010
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:57
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]       @Informacje alarmowe      Q
-OL,3,Q##!     Cwojew_dztwo pomorskie     Q"##
-OL,5,FWezbranie z przekro. st. ostrzegawczych
-OL,7,AWEZBRANIE Z PRZEKROCZENIEM STANOW      
-OL,8,AOSTRZEGAWCZYCH/2 Zalew Wi|lany, Elbl@g,
-OL,9,AZlewnia Zalewu Wi|lanego do Nogatu nd, 
-OL,10,A2026-11-22 21:17 - wt, 2026-11         
-FL,190,192,200,200,0,100
-PN,19111
-SC,0011
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:57
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]       @Informacje alarmowe      Q
-OL,3,Q##!     Cwojew_dztwo pomorskie     Q"##
-OL,5,   FSilny wiatr w strefie brzegowej/1   
-OL,7,CIMGW OSTRZEGA                          
-OL,8,Czachodniopomorskie,pomorskie, |rodkowa 
-OL,9,Cstrefa brzegowa, w nocy 23/24.11 i w   
-OL,10,Cdzie$ 24.11 silny wiatr w porywach do 7
-OL,11,CB.                                     
-FL,190,192,200,200,0,100
-PN,19112
-SC,0012
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:57
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]       @Informacje alarmowe      Q
-OL,3,Q##!     Cwojew_dztwo pomorskie     Q"##
-OL,5,         FSztorm/2 cz. \rodkowa         
-OL,7,AIMGW-PIB OSTRZEGA                      
-OL,8,Azachodniopomorskie,pomorskie, |rodkowa 
-OL,9,Astrefa brzegowa, w nocy 22/23.11 i w   
-OL,10,Adzie$ 23.11 sztorm do 8 B.             
-FL,190,192,200,200,0,100
-PN,19113
-SC,0013
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:58
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]       @Informacje alarmowe      Q
-OL,3,Q##!   Cwojew_dztwo |wi`tokrzyskie  Q"##
-OL,5,              FOblodzenie               
-OL,7,CWoj. |wi`tokrzyskie (13 powiat_w),     
-OL,8,CIMGW-PIB wyda} ostrze{enie pierwszego  
-OL,9,Cstopnia o oblodzeniu, od 21:00/23.11 do
-OL,10,C08:00/24.11.2026                       
-FL,190,192,200,200,0,100
-PN,19114
-SC,0014
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:58
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:41
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
@@ -205,26 +143,12 @@ OL,8,Awarmi$sko-mazurskie: Bauda, Wa}sza,
 OL,9,AW@ska, Zalew Wi|lany - Ban_wka i       
 OL,10,A\wie{a, Pas}`ka od Wa}szy do uj|cia    
 FL,190,192,200,200,0,100
-PN,19115
-SC,0015
+PN,19111
+SC,0011
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:58
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]       @Informacje alarmowe      Q
-OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
-OL,5,FWezbranie z przekroczeniem stan_w ostrz
-OL,7,CBauda, Wa}sza, W@ska, Ban_wka i \wie{a,
-OL,8,CPas}`ka od Wa}szy do uj|cia, wezbranie 
-OL,9,Cz przekroczeniem stan_w ostrzegawczych 
-FL,190,192,200,200,0,100
-PN,19116
-SC,0016
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:58
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
@@ -233,12 +157,12 @@ OL,7,Awarmi$sko-mazurskie, Zalew Wi|lany,
 OL,8,AElbl@g, Zlewnia Zalewu Wi|lanego do    
 OL,9,ANogatu, gwa}towne wzrosty stan_w wody  
 FL,190,192,200,200,0,100
-PN,19117
-SC,0017
+PN,19112
+SC,0012
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:58
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
@@ -246,24 +170,24 @@ OL,5,      FSusza hydrologiczna nr 111
 OL,7,Cwielkopolskie, Kana} Mosi$ski, susza   
 OL,8,Chydrologiczna                          
 FL,190,192,200,200,0,100
-PN,19118
-SC,0018
+PN,19113
+SC,0013
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:58
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
 OL,5,  FSusza hydrologiczna (nr 62-zmiana)   
 OL,7,CZjawisko: susza hydrologiczna          
 FL,190,192,200,200,0,100
-PN,19119
-SC,0019
+PN,19114
+SC,0014
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:58
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
@@ -271,12 +195,12 @@ OL,5,       FSusza hydrologiczna nr 98
 OL,7,Cwielkopolskie, zlewnia Orli, susza     
 OL,8,Chydrologiczna                          
 FL,190,192,200,200,0,100
-PN,19120
-SC,0020
+PN,19115
+SC,0015
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:58
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
@@ -286,12 +210,12 @@ OL,8,Cuj|cia Bobru, Barycz bez Orli i
 OL,9,CPolskiego Rowu, Polski R_w, susza      
 OL,10,Chydrologiczna                          
 FL,190,192,200,200,0,100
-PN,19121
-SC,0021
+PN,19116
+SC,0016
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:58
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
@@ -300,12 +224,12 @@ OL,7,Cwielkopolskie, Zlewnia Widawy,
 OL,8,CStobrawy, Odra od uj|cia Nysy K}odzkiej
 OL,9,Cdo uj|cia Widawy, susza hydrologiczna  
 FL,190,192,200,200,0,100
-PN,19122
-SC,0022
+PN,19117
+SC,0017
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:58
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
@@ -313,12 +237,12 @@ OL,5,       FSusza hydrologiczna nr 34
 OL,7,Cwielkopolskie, Drawa, susza            
 OL,8,Chydrologiczna, susza hydrologiczna     
 FL,190,192,200,200,0,100
-PN,19123
-SC,0023
+PN,19118
+SC,0018
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:58
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
@@ -326,12 +250,12 @@ OL,5,       FSusza hydrologiczna nr 31
 OL,7,Cwielkopolskie, Kana} Mosi$ski, susza   
 OL,8,Chydrologiczna                          
 FL,190,192,200,200,0,100
-PN,19124
-SC,0024
+PN,19119
+SC,0019
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:58
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
@@ -339,12 +263,12 @@ OL,5,        FSusza hydrologiczna 30
 OL,7,Cwielkopolskie, Warta |rodkowa od We}ny 
 OL,8,Cdo Noteci, susza hydrologiczna         
 FL,190,192,200,200,0,100
-PN,19125
-SC,0025
+PN,19120
+SC,0020
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:59
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
@@ -352,12 +276,12 @@ OL,5,        FSusza hydrologiczna 29
 OL,7,Cwielkopolskie, Warta |rodkowa od Zb.   
 OL,8,CJeziorsko do We}ny, susza hydrologiczna
 FL,190,192,200,200,0,100
-PN,19126
-SC,0026
+PN,19121
+SC,0021
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:59
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
@@ -365,12 +289,12 @@ OL,5,        FSusza hydrologiczna 28
 OL,7,Cwielkopolskie, Warta g_rna od Liswarty 
 OL,8,Cdo Zb. Jeziorsko, susza hydrologiczna  
 FL,190,192,200,200,0,100
-PN,19127
-SC,0027
+PN,19122
+SC,0022
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:59
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
@@ -380,12 +304,12 @@ OL,8,Cprzed wyst@pieniem ni{_wki
 OL,9,Chydrogeologicznej, w okresie od        
 OL,10,C1.11.2026 r. do 30.11.2026 r.          
 FL,190,192,200,200,0,100
-PN,19128
-SC,0028
+PN,19123
+SC,0023
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:59
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
@@ -396,28 +320,12 @@ OL,9,AGryfina do uj|cia, Zalew Szczeci$ski od
 OL,10,Agodz. 19:40 dn. 22.11.2026 do          
 OL,11,Agodz.10:00 dn. 25.11.2026              
 FL,190,192,200,200,0,100
-PN,19129
-SC,0029
+PN,19124
+SC,0024
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:59
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]       @Informacje alarmowe      Q
-OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
-OL,5, FWezbranie z przekroczeniem st. ost/2  
-OL,7,AIMGW-PIB OSTRZEGA: WEZBRANIE Z         
-OL,8,APRZEKROCZENIEM ST. OSTRZ. Wybrze{e     
-OL,9,AZachodnie i morskie wody wewn`trzne RP 
-OL,10,A- od godz. 03:00 22.11.2026 do godz.   
-OL,11,A18:00 24.11.2026                       
-FL,190,192,200,200,0,100
-PN,19130
-SC,0030
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:59
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
@@ -426,12 +334,12 @@ OL,7,CIMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA
 OL,8,COdra dolna od Warty do Gryfina od godz.
 OL,9,C08:52 dnia 27.05.2026 do odwo}ania.    
 FL,190,192,200,200,0,100
-PN,19131
-SC,0031
+PN,19125
+SC,0025
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:59
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
@@ -440,12 +348,12 @@ OL,7,CIMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA
 OL,8,CDrawa cz, 2026-05-28 09:26 do          
 OL,9,Codwo}ania.                             
 FL,190,192,200,200,0,100
-PN,19132
-SC,0032
+PN,19126
+SC,0026
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:59
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
@@ -454,18 +362,18 @@ OL,7,CIMGW-PIB OSTRZEGA: SUSZA HYDROLOGICZNA
 OL,8,CIna i P}onia od godz. 08:58 dnia       
 OL,9,C30.04.2026 do odwo}ania                
 FL,190,192,200,200,0,100
-PN,19133
-SC,0033
+PN,19127
+SC,0027
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  191Cpon 23 lis  23:26:59
+OL,0,      BKULTURA  191C|ro 25 lis  02:13:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]       @Informacje alarmowe      Q
 OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
-OL,5,      FSusza hydrologiczna - Nr 97      
-OL,7,CBiuro Prognoz Hydrologicznych we       
-OL,8,CWroc}awiu wyda}o ostrze{enie           
-OL,9,Chydrologiczne o suszy dla: przyrzecze  
-OL,10,COdry dolnej od Warty do Gryfina.       
+OL,5,       FOblodzenie/1 (6 powiat_w)       
+OL,7,CWoj. zachodniopomorskie (6 powiat_w),  
+OL,8,CIMGW-PIB wyda} ostrze{enie pierwszego  
+OL,9,Cstopnia o oblodzeniu od 20:00/24.11 do 
+OL,10,C09:00/25.11.2026                       
 FL,190,192,200,200,0,100

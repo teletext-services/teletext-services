@@ -4,27 +4,16 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    270Cwto 24 lis  01:32:57
+OL,0,      BSPORT    270C|ro 25 lis  02:55:08
 OL,1,C]DHOKEJ  ]         GN H L              
-OL,3,                  C22.11                
-OL,4,FFlorida         - Buffalo        4:3   
-OL,5,FNashville       - Pittsburgh     4:3   
-OL,6,FBoston          - Washington     7:5   
-OL,7,FDetroit         - NY Islanders   2:3   
-OL,8,FMontreal        - Philadelphia   3:4   
-OL,9,FOttawa          - LA Kings       4:2   
-OL,10,FSt. Louis       - New Jersey     9:6   
-OL,11,FToronto         - Columbus       3:4   
-OL,12,FWinnipeg        - Vegas          4:5 K 
-OL,13,FUtah            - Anaheim        3:2   
-OL,14,FSan Jose        - Seattle        4:3   
-OL,15,FVancouver       - Minnesota      4:3 K 
-OL,16,FNY Rangers      - Carolina       2:5   
-OL,17,FTampa Bay       - Buffalo        2:6   
-OL,18,                  C23.11                
-OL,19,FDallas          - Pittsburgh     1:0   
-OL,20,FSt. Louis       - Edmonton       5:4 K 
-OL,21,FVancouver       - Chicago        3:6   
+OL,8,                  C24.11                
+OL,9,FNew Jersey      - Columbus       3:2   
+OL,10,FMontreal        - LA Kings       1:2   
+OL,11,FNY Islanders    - Toronto        2:4   
+OL,12,FOttawa          - Calgary        2:1   
+OL,13,FWinnipeg        - Utah           4:2   
+OL,14,FSeattle         - Anaheim        3:2   
+OL,15,FSan Jose        - Minnesota      2:5   
 OL,23,SpppppppppT]WABELEG-> 271  COPIS -> 272 
 OL,24,   A269      B271      C272      F273   
 FL,269,271,272,273,0,100
@@ -33,18 +22,25 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    270Cwto 24 lis  01:32:57
+OL,0,      BSPORT    270C|ro 25 lis  02:55:08
 OL,1,C]DHOKEJ  ]         GN H L              
-OL,6,                  C24.11                
-OL,7,FNew Jersey      - Columbus      01:00  
-OL,8,FMontreal        - LA Kings      01:30  
-OL,9,FNY Islanders    - Toronto       01:30  
-OL,10,FOttawa          - Calgary       01:30  
-OL,11,FWinnipeg        - Utah          01:30  
-OL,12,FSeattle         - Anaheim       03:40  
-OL,13,FSan Jose        - Minnesota     04:00  
-OL,15,                  C25.11                
-OL,16,FEdmonton        - Vegas         02:00  
+OL,4,                  C25.11                
+OL,5,FEdmonton        - Vegas         02:00  
+OL,6,                  C26.11                
+OL,7,FBoston          - Winnipeg      01:00  
+OL,8,FBuffalo         - NY Rangers    01:00  
+OL,9,FColumbus        - New Jersey    01:00  
+OL,10,FFlorida         - Ottawa        01:00  
+OL,11,FNY Islanders    - St. Louis     01:00  
+OL,12,FPittsburgh      - Calgary       01:00  
+OL,13,FTampa Bay       - Carolina      01:00  
+OL,14,FWashington      - Philadelphia  01:00  
+OL,15,FDetroit         - Vancouver     01:30  
+OL,16,FDallas          - Nashville     02:00  
+OL,17,FMinnesota       - Utah          02:00  
+OL,18,FColorado        - Montreal      03:30  
+OL,19,FSeattle         - Chicago       03:40  
+OL,20,FAnaheim         - San Jose      04:00  
 OL,23,SpppppppppT]WABELEG-> 271  COPIS -> 272 
 OL,24,   A269      B271      C272      F273   
 FL,269,271,272,273,0,100
@@ -53,23 +49,83 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    270Cwto 24 lis  01:32:57
+OL,0,      BSPORT    270C|ro 25 lis  02:55:08
 OL,1,C]DHOKEJ  ]         GN H L              
-OL,5,                  C26.11                
-OL,6,FBoston          - Winnipeg        01:00
-OL,7,FBuffalo         - NY Rangers      01:00
-OL,8,FColumbus        - New Jersey      01:00
-OL,9,FFlorida         - Ottawa          01:00
-OL,10,FNY Islanders    - St. Louis       01:00
-OL,11,FPittsburgh      - Calgary         01:00
-OL,12,FTampa Bay       - Carolina        01:00
-OL,13,FWashington      - Philadelphia    01:00
-OL,14,FDetroit         - Vancouver       01:30
-OL,15,FDallas          - Nashville       02:00
-OL,16,FMinnesota       - Utah            02:00
-OL,17,FColorado        - Montreal        03:30
-OL,18,FSeattle         - Chicago         03:40
-OL,19,FAnaheim         - San Jose        04:00
+OL,3,                  C27.11                
+OL,4,FBoston          - Toronto       19:00  
+OL,5,FNashville       - Utah          19:00  
+OL,6,FNew Jersey      - Calgary       19:00  
+OL,7,FSt. Louis       - Dallas        20:00  
+OL,8,FColumbus        - Detroit       21:00  
+OL,9,FPhiladelphia    - Vancouver     21:00  
+OL,10,FTampa Bay       - Ottawa        21:00  
+OL,11,FWashington      - Florida       21:00  
+OL,12,FAnaheim         - LA Kings      22:00  
+OL,13,FMinnesota       - Colorado      22:00  
+OL,14,FSan Jose        - Vegas         22:00  
+OL,15,FChicago         - NY Rangers    23:30  
+OL,17,                  C28.11                
+OL,18,FNY Islanders    - Winnipeg      01:30  
+OL,19,FBuffalo         - Pittsburgh    02:00  
+OL,20,FEdmonton        - Seattle       02:00  
+OL,21,FVegas           - Montreal      22:00  
+OL,23,SpppppppppT]WABELEG-> 271  COPIS -> 272 
+OL,24,   A269      B271      C272      F273   
+FL,269,271,272,273,0,100
+PN,27004
+SC,0004
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    270C|ro 25 lis  02:55:08
+OL,1,C]DHOKEJ  ]         GN H L              
+OL,4,                  C29.11                
+OL,5,FFlorida         - Tampa Bay     00:00  
+OL,6,FCarolina        - Ottawa        01:00  
+OL,7,FDetroit         - Nashville     01:00  
+OL,8,FNew Jersey      - Winnipeg      01:00  
+OL,9,FNY Rangers      - Calgary       01:00  
+OL,10,FPittsburgh      - Toronto       01:00  
+OL,11,FSt. Louis       - Washington    01:00  
+OL,12,FPhiladelphia    - NY Islanders  01:30  
+OL,13,FDallas          - Utah          02:00  
+OL,14,FColorado        - San Jose      03:00  
+OL,15,FLA Kings        - Anaheim       03:00  
+OL,16,FSeattle         - Edmonton      04:00  
+OL,17,FChicago         - Minnesota     20:00  
+OL,18,FBoston          - Vancouver     23:00  
+OL,19,                  C30.11                
+OL,20,FNashville       - Ottawa        19:00  
+OL,23,SpppppppppT]WABELEG-> 271  COPIS -> 272 
+OL,24,   A269      B271      C272      F273   
+FL,269,271,272,273,0,100
+PN,27005
+SC,0005
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    270C|ro 25 lis  02:55:08
+OL,1,C]DHOKEJ  ]         GN H L              
+OL,2,                  C01.12                
+OL,3,FNY Rangers      - Carolina        01:00
+OL,4,FPittsburgh      - Columbus        01:00
+OL,5,FToronto         - Philadelphia    01:30
+OL,6,FWinnipeg        - Chicago         01:30
+OL,7,FUtah            - Montreal        03:30
+OL,8,                  C02.12                
+OL,9,FDetroit         - Calgary         01:00
+OL,10,FNY Islanders    - Florida         01:00
+OL,11,FWashington      - Vancouver       01:00
+OL,12,FNew Jersey      - San Jose        01:30
+OL,13,FBoston          - Colorado        02:00
+OL,14,FEdmonton        - Buffalo         02:00
+OL,15,FSeattle         - Dallas          03:40
+OL,16,FAnaheim         - Minnesota       04:00
+OL,17,FLA Kings        - Vegas           04:00
+OL,18,                  C03.12                
+OL,19,FMontreal        - Tampa Bay       01:30
+OL,20,FSt. Louis       - Pittsburgh      02:00
+OL,21,FUtah            - Winnipeg        03:30
 OL,23,SpppppppppT]WABELEG-> 271  COPIS -> 272 
 OL,24,   A269      B271      C272      F273   
 FL,269,271,272,273,0,100

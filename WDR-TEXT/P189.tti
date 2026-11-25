@@ -3,22 +3,22 @@ PN,18901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G189 WDR Text GMo 23.11.26 23:21:57
+OL,0,     G189 WDR Text GMi 25.11.26 03:42:58
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DEXTREMWERTE    ]          
 OL,3,]T5                                
 OL,5,            WDR-Wetterstudio            
 OL,7,          CExtremwerte aus NRW          
-OL,9,          Daten vom 23.11.2026          
+OL,9,          Daten vom 24.11.2026          
 OL,11,CMinimum Temperaturen letzte Nacht      
-OL,13,        Bad Berleburg-Hemsc. -7,3  `C   
-OL,14,        Netphen              -6,4  `C   
-OL,15,        Bochum-Stiepel (Lot. -5,6  `C   
-OL,16,        Wipperfuerth         -5,3  `C   
-OL,17,        Medebach Schlossberg -4,8  `C   
-OL,18,        Legden               -4,8  `C   
-OL,19,        Kahler Asten         -4,8  `C   
-OL,20,        Bad Berleburg-St}nz. -4,5  `C   
+OL,13,        Kalterherberg       -11,5  `C   
+OL,14,        Bad Berleburg-Hemsc.-10,0  `C   
+OL,15,        Nettersheim          -9,6  `C   
+OL,16,        Dahlemer Binz        -8,6  `C   
+OL,17,        Netphen              -8,6  `C   
+OL,18,        Lennestadt           -7,9  `C   
+OL,19,        Olpe (Biggesee)      -7,9  `C   
+OL,20,        Wipperfuerth         -7,8  `C   
 OL,23,]D180 < ]bersicht      Pegelst{nde > 190
 OL,24,A]G- 188B]G+ 190  \               G(1/6)
 FL,188,190,0,0,0,100
@@ -26,22 +26,22 @@ PN,18902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G189 WDR Text GMo 23.11.26 23:21:57
+OL,0,     G189 WDR Text GMi 25.11.26 03:42:58
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DEXTREMWERTE    ]          
 OL,3,]T5                                
 OL,5,            WDR-Wetterstudio            
 OL,7,          CExtremwerte aus NRW          
-OL,9,          Daten vom 23.11.2026          
+OL,9,          Daten vom 24.11.2026          
 OL,11,CMinimum Temperaturen am Erdboden       
-OL,13,        Medebach            -10,3  `C   
-OL,14,        Bad Berleburg-Hemsc.-10,0  `C   
-OL,15,        Borken               -9,8  `C   
-OL,16,        Emsdetten            -9,4  `C   
-OL,17,        Bochum-Stiepel (Lot. -9,4  `C   
-OL,18,        Mettingen-Schlickel. -8,9  `C   
-OL,19,        Bocholt              -8,9  `C   
-OL,20,        Netphen              -8,6  `C   
+OL,13,        Dahlemer Binz       -15,1  `C   
+OL,14,        Kalterherberg       -14,9  `C   
+OL,15,        Bad Berleburg-Hemsc.-12,8  `C   
+OL,16,        Medebach            -12,5  `C   
+OL,17,        Nettersheim         -12,4  `C   
+OL,18,        Z}lpich             -11,5  `C   
+OL,19,        Bochum-Stiepel (Lot.-10,6  `C   
+OL,20,        Netphen             -10,5  `C   
 OL,23,]D180 < ]bersicht      Pegelst{nde > 190
 OL,24,A]G- 188B]G+ 190  \               G(2/6)
 FL,188,190,0,0,0,100
@@ -49,22 +49,22 @@ PN,18903
 SC,0003
 PS,C200
 CT,15,T
-OL,0,     G189 WDR Text GMo 23.11.26 23:21:57
+OL,0,     G189 WDR Text GMi 25.11.26 03:42:58
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DEXTREMWERTE    ]          
 OL,3,]T5                                
 OL,5,            WDR-Wetterstudio            
 OL,7,          CExtremwerte aus NRW          
-OL,9,          Daten vom 23.11.2026          
+OL,9,          Daten vom 24.11.2026          
 OL,11,CMaximum Temperaturen gestern           
-OL,13,        Duisburg Hochfeld     9,2  `C   
-OL,14,        D}sseldorf-Uni        9,2  `C   
-OL,15,        Bocholt               9,0  `C   
-OL,16,        Borken in Westfalen   8,4  `C   
-OL,17,        Marl                  8,3  `C   
-OL,18,        T|nisvorst            8,2  `C   
-OL,19,        Beverungen/Weser      8,0  `C   
-OL,20,        Borken                8,0  `C   
+OL,13,        Kleve                 6,4  `C   
+OL,14,        Gronau (Westfalen)    6,1  `C   
+OL,15,        Bocholt               5,9  `C   
+OL,16,        Havixbeck-Tilbeck     5,8  `C   
+OL,17,        Kemnader See          5,7  `C   
+OL,18,        Borken in Westfalen   5,6  `C   
+OL,19,        Steinfurt             5,5  `C   
+OL,20,        Borken                5,5  `C   
 OL,23,]D180 < ]bersicht      Pegelst{nde > 190
 OL,24,A]G- 188B]G+ 190  \               G(3/6)
 FL,188,190,0,0,0,100
@@ -72,22 +72,22 @@ PN,18904
 SC,0004
 PS,C200
 CT,15,T
-OL,0,     G189 WDR Text GMo 23.11.26 23:21:57
+OL,0,     G189 WDR Text GMi 25.11.26 03:42:58
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DEXTREMWERTE    ]          
 OL,3,]T5                                
 OL,5,            WDR-Wetterstudio            
 OL,7,          CExtremwerte aus NRW          
-OL,9,          Daten vom 23.11.2026          
+OL,9,          Daten vom 24.11.2026          
 OL,11,CMaximum Sonnenschein gestern           
-OL,13,        Gelsenkirchen         7,3  Std  
-OL,14,        Borken                7,0  Std  
-OL,15,        Emmerich Elten        6,9  Std  
-OL,16,        Issum                 6,9  Std  
-OL,17,        D}sseldorf-Stockum    6,5  Std  
-OL,18,        Straelen              6,5  Std  
-OL,19,        Wegberg               6,4  Std  
-OL,20,        Selfkant              6,4  Std  
+OL,13,        Dahlemer Binz         8,4  Std  
+OL,14,        Issum                 8,2  Std  
+OL,15,        Steinfurt             8,1  Std  
+OL,16,        Schleiden-Sch|nesei.  8,1  Std  
+OL,17,        Winterberg            8,1  Std  
+OL,18,        Kalterherberg         8,0  Std  
+OL,19,        Medebach              8,0  Std  
+OL,20,        Gelsenkirchen         7,9  Std  
 OL,23,]D180 < ]bersicht      Pegelst{nde > 190
 OL,24,A]G- 188B]G+ 190  \               G(4/6)
 FL,188,190,0,0,0,100
@@ -95,22 +95,22 @@ PN,18905
 SC,0005
 PS,C200
 CT,15,T
-OL,0,     G189 WDR Text GMo 23.11.26 23:21:57
+OL,0,     G189 WDR Text GMi 25.11.26 03:42:58
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DEXTREMWERTE    ]          
 OL,3,]T5                                
 OL,5,            WDR-Wetterstudio            
 OL,7,          CExtremwerte aus NRW          
-OL,9,          Daten vom 23.11.2026          
+OL,9,          Daten vom 24.11.2026          
 OL,11,CMaximum Niederschlag letzte 24h        
-OL,13,        Steinfurt             0,3  mm   
-OL,14,        W}nnenberg-Eilern     0,3  mm   
-OL,15,        Ostbevern-Schirlhei.  0,3  mm   
-OL,16,        Bad Berleburg-Hemsc.  0,2  mm   
-OL,17,        Bochum-Stiepel (Lot.  0,2  mm   
-OL,18,        Mettingen-Schlickel.  0,1  mm   
-OL,19,        Nottuln               0,1  mm   
-OL,20,        Bad W}nnenberg        0,1  mm   
+OL,13,        Emsdetten             0,4  mm   
+OL,14,        Porta Westfalica      0,4  mm   
+OL,15,        Medebach-Berge        0,4  mm   
+OL,16,        Hoexter               0,3  mm   
+OL,17,        Bad Berleburg-Hemsc.  0,2  mm   
+OL,18,        Lage, Kreis Lippe-H.  0,2  mm   
+OL,19,        Mettingen (Davis)     0,2  mm   
+OL,20,        Bocholt               0,2  mm   
 OL,23,]D180 < ]bersicht      Pegelst{nde > 190
 OL,24,A]G- 188B]G+ 190  \               G(5/6)
 FL,188,190,0,0,0,100
@@ -118,22 +118,22 @@ PN,18906
 SC,0006
 PS,C200
 CT,15,T
-OL,0,     G189 WDR Text GMo 23.11.26 23:21:57
+OL,0,     G189 WDR Text GMi 25.11.26 03:42:58
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DEXTREMWERTE    ]          
 OL,3,]T5                                
 OL,5,            WDR-Wetterstudio            
 OL,7,          CExtremwerte aus NRW          
-OL,9,          Daten vom 23.11.2026          
+OL,9,          Daten vom 24.11.2026          
 OL,11,CMaximum Wind letzte 24h                
-OL,13,        Kahler Asten           41  km/h 
-OL,14,        Dahlemer Binz          28  km/h 
-OL,15,        Issum                  26  km/h 
-OL,16,        Birkelbach             26  km/h 
-OL,17,        Kall-Sistig            26  km/h 
-OL,18,        Winterberg             26  km/h 
+OL,13,        Kahler Asten           30  km/h 
+OL,14,        B}ren-Ahden            28  km/h 
+OL,15,        Warburg                26  km/h 
+OL,16,        Beverungen-Drenke      26  km/h 
+OL,17,        Winterberg             26  km/h 
+OL,18,        Medebach               26  km/h 
 OL,19,        Arnsberg-M}schede      26  km/h 
-OL,20,        D}sseldorf-Stockum     24  km/h 
+OL,20,        Dahlemer Binz          24  km/h 
 OL,23,]D180 < ]bersicht      Pegelst{nde > 190
 OL,24,A]G- 188B]G+ 190  \               G(6/6)
 FL,188,190,0,0,0,100

@@ -3,17 +3,17 @@ PN,17801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F23:05:08
+OL,0,           Fhr-textGDi 24.11.26F20:30:53
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]DNIEDERSCHL[GE mmD]       FMo 23. Nov 
+OL,2,G]DNIEDERSCHL[GE mmD]       FDi 24. Nov 
 OL,3,W#######################################
-OL,4,CUhrzeit        15   14   13   12 B24Std
+OL,4,CUhrzeit        20   19   18   17 B24Std
 OL,6, S]DHESSEN                              
-OL,7,FGro~-Umstadt. G0,0  0,0  0,0  0,0  B0,0
-OL,8,FModautal..... G0,0  0,0  0,0  0,0  B0,0
+OL,7,FGro~-Umstadt. G0,0  0,0  0,0  0,0  B0,1
+OL,8,FModautal..... G0,0  0,0  0,0  0,0  B0,2
 OL,12, RHEIN-MAIN                             
 OL,13,FBiebergem}nd. G0,0  -,-  -,-  -,-  B0,2
-OL,14,FBirstein..... G0,0  0,0  0,0  0,2  B0,2
+OL,14,FBirstein..... G0,0  0,0  0,0  0,0  B0,1
 OL,15,FBrachttal.... G0,0  0,0  0,0  0,0  B0,1
 OL,16,FSterbfritz... G-,-  -,-  -,-  -,-  B-,-
 OL,17,FUsingen...... G0,0  0,0  0,0  0,0  B0,0
@@ -24,21 +24,21 @@ PN,17802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F23:05:08
+OL,0,           Fhr-textGDi 24.11.26F20:30:53
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]DNIEDERSCHL[GE mmD]       FMo 23. Nov 
+OL,2,G]DNIEDERSCHL[GE mmD]       FDi 24. Nov 
 OL,3,W#######################################
-OL,4,CUhrzeit        15   14   13   12 B24Std
+OL,4,CUhrzeit        20   19   18   17 B24Std
 OL,6, MITTELHESSEN                           
 OL,7,FBreidenbach.. G0,0  0,0  0,0  0,0  B0,0
-OL,8,FEspa......... G0,0  0,0  0,1  0,0  B0,1
+OL,8,FEspa......... G0,0  0,0  0,0  0,0  B0,1
 OL,9,FKefenrod..... G0,0  0,0  0,0  0,0  B0,0
-OL,10,FKirchhain.... G0,0  0,0  0,0  0,1  B0,1
-OL,11,FLollar....... G0,0  0,0  0,0  0,0  B0,0
-OL,12,FMadem}hlen... G0,0  0,0  0,1  0,0  B0,1
+OL,10,FKirchhain.... G0,0  0,0  0,0  0,0  B0,0
+OL,11,FLollar....... G0,0  0,0  0,0  0,0  B0,1
+OL,12,FMadem}hlen... G0,0  0,0  0,0  0,0  B0,0
 OL,13,FNidda........ G0,0  0,0  0,0  0,0  B0,6
-OL,14,FN.-Florstadt. G0,0  0,0  0,0  0,1  B0,1
-OL,15,FSackpfeife... G0,0  0,0  0,0  0,1  B0,1
+OL,14,FN.-Florstadt. G0,0  0,0  0,0  0,0  B0,0
+OL,15,FSackpfeife... G-,-  -,-  -,-  -,-  B-,-
 OL,16,FWeilburg..... G0,0  0,0  0,0  0,0  B0,0
 OL,23,G]DQuelle: HLNUG Aohne Gew{hr D2/4   >> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
@@ -47,21 +47,21 @@ PN,17803
 SC,0003
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F23:05:08
+OL,0,           Fhr-textGDi 24.11.26F20:30:53
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]DNIEDERSCHL[GE mmD]       FMo 23. Nov 
+OL,2,G]DNIEDERSCHL[GE mmD]       FDi 24. Nov 
 OL,3,W#######################################
-OL,4,CUhrzeit        15   14   13   12 B24Std
+OL,4,CUhrzeit        20   19   18   17 B24Std
 OL,6, OSTHESSEN                              
 OL,7,FBebra........ G-,-  -,-  -,-  -,-  B-,-
-OL,8,FDipperz...... G0,0  0,0  0,0  0,0  B0,0
-OL,9,FEichelsachsen G0,0  0,0  0,2  0,0  B0,2
+OL,8,FDipperz...... G0,0  0,0  0,0  0,0  B0,2
+OL,9,FEichelsachsen G0,0  0,0  0,0  0,0  B0,0
 OL,10,FFulda-Gl{serz G0,0  0,0  0,0  0,0  B0,0
-OL,11,FHochwaldhsn.. G0,0  0,0  0,0  0,0  B0,0
-OL,12,FHoherodskopf. G0,0  0,0  0,1  0,0  B0,1
+OL,11,FHochwaldhsn.. G0,0  0,0  0,0  0,0  B0,1
+OL,12,FHoherodskopf. G0,0  0,0  0,0  0,0  B0,1
 OL,13,FMeiches...... G0,0  0,0  0,0  0,0  B0,0
-OL,14,FR}lfenrod.... G0,0  0,1  0,1  0,0  B0,1
-OL,15,FSelgenhof.... G-,-  -,-  -,-  -,-  B-,-
+OL,14,FR}lfenrod.... G0,0  0,0  0,0  0,0  B0,1
+OL,15,FSelgenhof.... G0,0  0,0  0,0  0,0  B0,0
 OL,23,G]DQuelle: HLNUG Aohne Gew{hr D3/4   >> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -69,11 +69,11 @@ PN,17804
 SC,0004
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMo 23.11.26F23:05:08
+OL,0,           Fhr-textGDi 24.11.26F20:30:53
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]DNIEDERSCHL[GE mmD]       FMo 23. Nov 
+OL,2,G]DNIEDERSCHL[GE mmD]       FDi 24. Nov 
 OL,3,W#######################################
-OL,4,CUhrzeit        15   14   13   12 B24Std
+OL,4,CUhrzeit        20   19   18   17 B24Std
 OL,6, NORDHESSEN                             
 OL,7,FEdertal-Hemf. G0,0  0,0  0,0  0,0  B0,0
 OL,8,FGudensberg... G0,0  0,0  0,0  0,0  B0,0

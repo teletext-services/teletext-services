@@ -1,21 +1,68 @@
 DE,FORUM64 108
-PN,10800
-SC,0000
-PS,8208
+PN,10801
+SC,0001
+PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMo 23 Nov F21:13:19
+OL,0,         GFORUM64   GDi 24 Nov F20:22:04
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EDer Callback-Megathread - mit Talk!    
-OL,4,CAntwort:  BMW-Elite                    
-OL,5,CComments: B3459                        
-OL,6,F                                       
-OL,7,F( )                                    
-OL,9,FHor aug mit dem Credo sonst kauf ich   
-OL,10,Fmir noch ein drittes dazu              
-OL,12,CErster Beitrag:                        
-OL,14,GHab ein e-mail bekommen..... f}r 16.   
-OL,15,GJuni ist wieder eine Neuerscheinung    
-OL,16,Gangek}ndigt, wenn ichs richtig         
-OL,17,Gverstanden habe.                       
-OL,24,D]FForum64.de RSS feed                  
+OL,2,ERetrofans gut lesbare Bitmap-Fonts f}r 
+OL,3,Eallerlei Zwecke                        
+OL,5,CAntwort:  Bstefan-2                    
+OL,6,CComments: B40                          
+OL,7,F                                       
+OL,8,FI think the SIL Open Font License would
+OL,9,Fwork very well.                        
+OL,11,FJust to be clear of my intentions:     
+OL,13,FMy plan is to store the font bitmap in 
+OL,14,Fa separate assembly source file as 256 
+OL,15,F.byte instructions.                    
+OL,17,FYour copyright notice included at the  
+OL,18,Ftop of the source file.                
+OL,20,FThe                                    
+OL,22,CErster Beitrag:                        
+OL,24,D]FForum64.de RSS feed            (1/3) 
+FL,0,0,0,0,0,100
+PN,10802
+SC,0002
+PS,C200
+CT,15,T
+OL,0,         GFORUM64   GDi 24 Nov F20:22:04
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GIch hatte 2018 einen Thread gestartet, 
+OL,4,Gum einen alternativen                  
+OL,5,GSystem-Zeichensatz f}r den C64 zu      
+OL,6,Gpr{sentieren (aktuelle Version: 2.3).  
+OL,7,GDer wurde positiv aufgenommen und wird 
+OL,8,Gin diversen Projekten verwendet und    
+OL,9,Gwahrscheinlich auch in vielen 64ern als
+OL,10,GChar-ROM eingesetzt. (ROMs und         
+OL,11,GUmschaltplatinen sind bei Bobbel       
+OL,12,Gerh{ltlich). Sp{ter habe ich diesen    
+OL,13,GSystemfont f}r andere Systeme und      
+OL,14,GProgramme angepasst.                   
+OL,16,GDer Font hat einige typische Merkmale: 
+OL,17,GIm Gegensatz zum C64-Zeichensatz haben 
+OL,18,Gdie Versalien (Gro~buchstaben) nur 6   
+OL,19,Gstatt 7 Pixel H|he. Das erh|ht bei     
+OL,20,Gfesten 8 Pixeln Zeilenabstand den      
+OL,21,GDurchschuss, also den Abstand zwischen 
+OL,22,Gden Zeilen. Allerdings hat man eben    
+OL,23,Gauch 1 Pixelzeile weniger f}r die      
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,10803
+SC,0003
+PS,C200
+CT,15,T
+OL,0,         GFORUM64   GDi 24 Nov F20:22:04
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,Gjeweiligen Zeichenformen zur Verf}gung,
+OL,4,Gwas manchmal eine Herausforderung ist. 
+OL,5,GDas zweite wichtige Merkmal des Fonts  
+OL,6,Gist, dass die sog. x-H|he der          
+OL,7,GKleinbuchstaben einheitlich ist. Beim  
+OL,8,GC64-Font (der vom Atari geklaut wurde  
+OL,9,Gund deshalb nicht zu den Versalien     
+OL,10,Gpasst) ist das nicht der Fall. Zusammen
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

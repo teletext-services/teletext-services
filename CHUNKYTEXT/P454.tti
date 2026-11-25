@@ -27,7 +27,7 @@ OL,20,-CodeStart+Patch) DIV 256G350Jsr OsCliG3
 OL,21,60Ldx #(c2-CodeStart+Patch) MOD 256:Ldy 
 OL,22,#(c2-CodeStart+Patch) DIV 256G370Jsr OsC
 OL,23,liG380BIT &FF: BMI escG|c               
-FL,454,250,301,140,0,100
+FL,451,452,121,101,0,100
 PN,45402
 SC,0002
 PS,C000
@@ -56,7 +56,7 @@ OL,20,e literal text.G710\ ***** The remedy is
 OL,21, to copy the string elsewhere, and tweak
 OL,22, the pointerG720Ldy #0:Lda (CB),Y:Sta Fr
 OL,23,om:Iny:Lda (CB),Y: Sta From+1G|c        
-FL,454,250,301,140,0,100
+FL,451,452,121,101,0,100
 PN,45403
 SC,0003
 PS,C000
@@ -85,7 +85,7 @@ OL,20,(TEMP),YG960   Inc TEMP:Bne zz3:Inc TEMP
 OL,21,+1:.zz3G970   Inc Count:Bne zz4:Inc Coun
 OL,22,t+1:.zz4G980Clc:Bcc loadupG990.endoffile
 OL,23,G|c                                     
-FL,454,250,301,140,0,100
+FL,451,452,121,101,0,100
 PN,45404
 SC,0004
 PS,C000
@@ -114,7 +114,7 @@ OL,20,OD 256:Sta FileVG1170  Lda #(OurOsfile-C
 OL,21,odeStart+Patch) DIV 256:Sta FileV+1G1180
 OL,22,  Lda FSCV:Sta HisFSCG1190  Lda FSCV+1:S
 OL,23,ta HisFSC+1G|c                          
-FL,454,250,301,140,0,100
+FL,451,452,121,101,0,100
 PN,45405
 SC,0005
 PS,C000
@@ -131,4 +131,4 @@ OL,8,rch:Lda #7:Jmp OsWrch \ Last inst. must
 OL,9,be jumpG1260.EndRelocG1270]G1280N.G1290E
 OL,10,.G1300DEFFNequs(S$)G1310$P%=S$:P%=P%+LEN
 OL,11,(S$)+1G1320=PassG|c                     
-FL,454,250,301,140,0,100
+FL,451,452,121,101,0,100

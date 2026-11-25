@@ -3,29 +3,27 @@ PN,25601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G256CORF SPORT+G24.11.26 01:09:28
+OL,0,       G256CORF SPORT+G24.11.26 22:46:34
 OL,1,A]G                          Basketball 
 OL,2,A]GSPORT  ]                    A   NBA \
 OL,3,Q#########G                        1/3  
-OL,4,CSonntag                                
-OL,5,FAtlanta      - Detroit       107:97    
-OL,6, Miami        - Oklahoma City 123:113   
-OL,7,FChicago      - Denver        145:151 nV
-OL,8, Utah         - Dallas        114;116   
-OL,9,FWashington   - Orlando       116:96    
-OL,10, New York     - Indiana       113:106   
-OL,11,FGolden State - Boston         88:87    
-OL,12,CMontag                                 
-OL,13, Charlotte    - Memphis                 
-OL,14, Philadelphia - Portland                
-OL,15, Indiana      - Oklahoma City           
-OL,16, Toronto      - Milwaukee               
-OL,17, Minnesota    - Brooklyn                
-OL,18, Chicago      - Cleveland               
-OL,19, New Orleans  - Phoenix                 
-OL,20, Houston      - L.A.Clippers            
-OL,21, L.A.Lakers   - Utah                    
-OL,22, Sacramento   - San Antonio             
+OL,4,CMontag                                 
+OL,5,FToronto      - Milwaukee     111:116   
+OL,6, P|ltl (T) mit 15 Punkten, 10 Rebounds, 
+OL,7, 3 Assists in 27:44 Minuten am Parkett  
+OL,8,FCharlotte    - Memphis       111:117   
+OL,9, Philadelphia - Portland      111:128   
+OL,10,FIndiana      - Oklahoma City 125:120   
+OL,11, Minnesota    - Brooklyn      142:116   
+OL,12,FChicago      - Cleveland     122:108   
+OL,13, New Orleans  - Phoenix       119:123 nV
+OL,14,FHouston      - L.A.Clippers  116:104   
+OL,15, L.A.Lakers   - Utah          109:94    
+OL,16,FSacramento   - San Antonio   107:123   
+OL,18,CDienstag                               
+OL,19, Orlando      - Detroit                 
+OL,20, Washington   - Boston                  
+OL,21, Denver       - Dallas                  
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -33,28 +31,28 @@ PN,25602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G256CORF SPORT+G24.11.26 01:09:28
+OL,0,       G256CORF SPORT+G24.11.26 22:46:34
 OL,1,A]G                          Basketball 
 OL,2,A]GSPORT  ]A   NBA, Eastern Conference \
 OL,3,Q#########G                        2/3  
 OL,4,FAtlantic Division           S  N  %Pkt.
-OL,5,  Philadelphia 76ers       G14  3  .824 
+OL,5,  Philadelphia 76ers       G14  4  .778 
 OL,6,  Boston CelticsF          G11  6  .647 
 OL,7,  New York KnicksF         G11  6  .647 
-OL,8,  Toronto Raptors          G 6 10  .375 
-OL,9,  Brooklyn Nets            G 3 12  .200 
+OL,8,  Toronto Raptors          G 6 11  .353 
+OL,9,  Brooklyn Nets            G 3 13  .188 
 OL,10,FCentral Division                       
 OL,11,  Detroit PistonsF         G10  6  .625 
-OL,12,  Cleveland Cavaliers      G 9  8  .529 
-OL,13,  Indiana PacersF          G 5 12  .294 
-OL,14,  Chicago Bulls            G 4 12  .250 
-OL,15,  Milwaukee BucksF         G 1 16  .059 
+OL,12,  Cleveland Cavaliers      G 9  9  .500 
+OL,13,  Indiana PacersF          G 6 12  .333 
+OL,14,  Chicago Bulls            G 5 12  .294 
+OL,15,  Milwaukee BucksF         G 2 16  .111 
 OL,16,FSoutheast Division                     
 OL,17,  Atlanta Hawks            G11  6  .647 
 OL,18,  Miami Heat               G10  6  .625 
 OL,19,  Orlando MagicF           G 7  9  .438 
 OL,20,  Washington Wizards       G 7 11  .389 
-OL,21,  Charlotte Hornets        G 4 11  .267 
+OL,21,  Charlotte Hornets        G 4 12  .250 
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -62,28 +60,28 @@ PN,25603
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G256CORF SPORT+G24.11.26 01:09:28
+OL,0,       G256CORF SPORT+G24.11.26 22:46:34
 OL,1,A]G                          Basketball 
 OL,2,A]GSPORT  ]A   NBA, Western Conference \
 OL,3,Q#########G                        3/3  
 OL,4,FNorthwest Division          S  N  %Pkt.
-OL,5,  Minnesota Timberwolves    12  5  .706 
+OL,5,  Minnesota Timberwolves    13  5  .722 
 OL,6,  Denver Nuggets            10  5  .667 
-OL,7,  Portland Trail Blazers    10  6  .625 
-OL,8,  Oklahoma City Thunder     10  7  .588 
-OL,9,  Utah Jazz                  3 15  .167 
+OL,7,  Portland Trail Blazers    11  6  .547 
+OL,8,  Oklahoma City Thunder     10  8  .556 
+OL,9,  Utah Jazz                  3 16  .158 
 OL,10,FPacific Division                       
-OL,11,  Los Angeles Lakers        14  3  .824 
-OL,12,  Phoenix Suns               8  7  .533 
+OL,11,  Los Angeles Lakers        15  3  .833 
+OL,12,  Phoenix Suns               9  7  .562 
 OL,13,  Golden State Warriors      9  8  .529 
 OL,14,  Los Angeles Clippers       4 11  .267 
-OL,15,  Sacramento Kings           2 14  .125 
+OL,15,  Sacramento Kings           2 15  .118 
 OL,16,FSouthwest Division                     
-OL,17,  San Antonio Spurs         14  3  .824 
-OL,18,  Houston Rockets           12  5  .706 
-OL,19,  Memphis Grizzlies         12  5  .706 
+OL,17,  San Antonio Spurs         15  3  .833 
+OL,18,  Houston Rockets           13  5  .722 
+OL,19,  Memphis Grizzlies         13  5  .722 
 OL,20,  Dallas Mavericks          10  7  .588 
-OL,21,  New Orleans Pelicans       5 13  .278 
+OL,21,  New Orleans Pelicans       5 14  .263 
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

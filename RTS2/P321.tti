@@ -1,18 +1,32 @@
 DE,RTS2 321
-PN,32100
-SC,0000
-PS,8088
-CT,15,T
-OL,0,       G321  RTS 2     24.11.26 02:55:13
-OL,1,C]@HOCKEY           G]@23.11.26 21:58GBO
+PN,32101
+SC,0001
+PS,C080
+CT,8,T
+OL,0,       G321  RTS 2     24.11.26 23:36:52
+OL,1,C]@HOCKEY           G]@24.11.26 20:37GBO
 OL,2,A                                       
+OL,3,                                    1/2 
 OL,4,CHOCKEY: NHL, les r#sultats             
-OL,5,GN.J. Devils    - Columbus B.J.   C24.11
-OL,6,GMontr#al Can.  - L.A. Kings      C24.11
-OL,7,GN.Y. Islanders - Toronto Leafs   C24.11
-OL,8,GOttawa Sens    - Calgary Flames  C24.11
-OL,9,GWinnipeg Jets  - Utah Mammoth    C24.11
-OL,10,GSeattle Kraken - Anaheim Ducks   C24.11
-OL,11,GSan Jose Sharks- Minnesota Wild  C24.11
+OL,5,GEdmonton Oil.  - Vegas Gold.     C25.11
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,32102
+SC,0002
+PS,C080
+CT,8,T
+OL,0,       G321  RTS 2     24.11.26 23:36:52
+OL,1,C]@HOCKEY           G]@24.11.26 07:29GBO
+OL,2,A                                       
+OL,3,CHOCKEY: NHL, les Suisses           2/2 
+OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
+OL,5,GN.J. Devils    - Columbus B.J.     G3-2
+OL,6,BHischier/N: 17'19 (-1).                
+OL,7,BMeier/N: 18'15 (+1), 1 but, 2e #toile. 
+OL,8,BSiegenthaler/N: 19'42 (+2), 1 assist.  
+OL,10,GMontr#al Can.  - L.A. Kings        G1-2
+OL,11,BFiala/: 13'12 (-1).                    
+OL,13,GWinnipeg Jets  - Utah Mammoth      G4-2
+OL,14,BNiederreiter/W: surnum#raire.          
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

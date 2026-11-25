@@ -3,13 +3,15 @@ PN,70800
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G708  RSI LA 2  24.11.26 13:14:03
+OL,0,       G708  RSI LA 2  24.11.26 23:12:30
 OL,1,A]GRSI   ]@LA2    MERCOLEDI 25 novembre 
 OL,2,G                                       
 OL,3, G01:30  GTelesguardCST                 
-OL,4, F01:45  FCalcio: Champions LeagueCSTCR 
+OL,4, F01:45  FCalcio: Champions League  CST 
 OL,5,         F2026/2027                     
 OL,6,         FInter - Stoccarda             
-OL,7, G03:25  GRepliche informazione         
+OL,7, G03:25  GTG Notte                      
+OL,8, F03:45  FMeteoCST                      
+OL,9, G03:50  GPrima OraCST                  
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

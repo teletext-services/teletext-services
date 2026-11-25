@@ -3,24 +3,7 @@ PN,54201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F08:47:50
-OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]ARMV    A]         GAktuelle St|rungen
-OL,3,W#######################################
-OL,4,FRB 95 Dillenburg <-> Siegen            
-OL,5,CBeginn:   24.11.26 04:30               
-OL,6,CEnde ca:  24.11.26 08:00               
-OL,8, Es kommt zu einzelne Ausf{llen. Grund  
-OL,9, daf}r ist eine Fahrzeugst|rung.        
-OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 08:01 ohne Gew{hr             
-OL,24,AInhalt A-Z BNachrichten  CWetter FSport
-FL,102,112,170,200,0,100
-PN,54202
-SC,0002
-PS,C200
-CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F08:47:50
+OL,0,           Fhr-textGDi 24.11.26F20:43:06
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]ARMV    A]         GAktuelle St|rungen
 OL,3,W#######################################
@@ -29,83 +12,137 @@ OL,5,FS9 Wiesbaden Hbf <-> Hanau Hbf
 OL,6,FS1 Wiesbaden Hbf <-> Ober<->Roden      
 OL,7,FS2 Niedernhausen <-> Dietzenbach Bhf   
 OL,8,CBeginn:   24.11.26 03:11               
-OL,9,CEnde ca:  24.11.26 12:00               
-OL,11, Es kommt zu Versp{tungen und Ausf{llen 
-OL,12, auf den Linie S1, S2, S8 und S9. DIe   
-OL,13, Linien S1 und S2 verkehren am          
-OL,14, Vormittag im 30-Minuten-Takt. Grund    
-OL,15, daf}r sind Reparaturarbeiten an einem  
-OL,16, Stellwerk in Offenbach.                
+OL,9,CEnde ca:  24.11.26 20:00               
+OL,11, Es kommt zu teilweise hohen            
+OL,12, Versp{tungen und Ausf{llen auf den     
+OL,13, Linie S1, S2, S8 und S9. Die Linien S1 
+OL,14, und S2 verkehren bis Betriebsschluss   
+OL,15, im 30-Minuten-Takt. Grund daf}r sind   
+OL,16, Reparaturarbeiten an einem Stellwerk   
+OL,17, in Offenbach.                          
 OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 08:01 ohne Gew{hr             
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
-PN,54203
-SC,0003
+PN,54202
+SC,0002
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F08:47:50
-OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]ARMV    A]         GAktuelle St|rungen
-OL,3,W#######################################
-OL,4,FS3 Bad Soden <-> Darmstadt Hbf         
-OL,5,FS4 Kronberg <-> Darmstadt              
-OL,6,CBeginn:   24.11.26 04:30               
-OL,7,CEnde ca:  24.11.26 09:00               
-OL,9, Es kommt zu Versp{tungen und           
-OL,10, gegebenenfalls Ausf{llen wegen einer   
-OL,11, Signalst|rung in Niederh|chstadt.      
-OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 08:01 ohne Gew{hr             
-OL,24,AInhalt A-Z BNachrichten  CWetter FSport
-FL,102,112,170,200,0,100
-PN,54204
-SC,0004
-PS,C200
-CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F08:47:50
-OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]ARMV    A]         GAktuelle St|rungen
-OL,3,W#######################################
-OL,4,FS3 Bad Soden <-> Darmstadt Hbf         
-OL,5,FS4 Kronberg <-> Darmstadt              
-OL,6,FS5 Friedrichsdorf <-> Frankfurt Sued   
-OL,7,FS6 Friedberg <-> Frankfurt Sued        
-OL,8,CBeginn:   24.11.26 05:00               
-OL,9,CEnde ca:  24.11.26 09:00               
-OL,11, Es kommt zu Versp{tungen und           
-OL,12, gegebenenfalls Ausf{llen wegen einer   
-OL,13, Signalst|rung am Frankfurter           
-OL,14, Westbahnhof.                           
-OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 08:01 ohne Gew{hr             
-OL,24,AInhalt A-Z BNachrichten  CWetter FSport
-FL,102,112,170,200,0,100
-PN,54205
-SC,0005
-PS,C200
-CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F08:47:50
+OL,0,           Fhr-textGDi 24.11.26F20:43:06
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]ARMV    A]         GAktuelle St|rungen
 OL,3,W#######################################
 OL,4,FRB 95 Dillenburg <-> Siegen            
 OL,5,FRE 99 Frankfurt Hbf <-> Siegen         
 OL,6,CBeginn:   24.11.26 05:00               
-OL,7,CEnde ca:  24.11.26 09:00               
+OL,7,CEnde ca:  24.11.26 20:00               
 OL,9, Es kommt zu Versp{tungen und           
 OL,10, gegebenenfalls Teilausf{llen im        
 OL,11, Bereich zwischen Dillenburg und Siegen 
 OL,12, wegen einer Signalst|rung.             
 OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 08:01 ohne Gew{hr             
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,54203
+SC,0003
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGDi 24.11.26F20:43:06
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]ARMV    A]         GAktuelle St|rungen
+OL,3,W#######################################
+OL,4,FRB46: Ausf{lle am 25.11.               
+OL,5,CBeginn:   25.11.26 04:00               
+OL,6,CEnde ca:  25.11.26 23:00               
+OL,8, Es kommt zu Ausf{llen zwischen Nidda   
+OL,9, und Gelnhausen aufgrund einer          
+OL,10, technischen St|rung am Fahrzeug. Es    
+OL,11, verkehrt ein Busnotverkehr             
+OL,22,BQuelle: RMV          Zusatzverkehr 542 
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,54204
+SC,0004
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGDi 24.11.26F20:43:06
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]ARMV    A]         GAktuelle St|rungen
+OL,3,W#######################################
+OL,4,FRB58, RE59: kurzfristige Ausf{lle am   
+OL,5,F24.11.                                 
+OL,6,CBeginn:   24.11.26 11:00               
+OL,7,CEnde ca:  24.11.26 20:00               
+OL,9, Es kommt zu Teilausf{llen. Grund daf}r 
+OL,10, ist die kurzfristige Erkrankung von    
+OL,11, Fahrpersonal.                          
+OL,22,BQuelle: RMV          Zusatzverkehr 542 
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,54205
+SC,0005
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGDi 24.11.26F20:43:06
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]ARMV    A]         GAktuelle St|rungen
+OL,3,W#######################################
+OL,4,FRE 2 Frankfurt Hbf <-> Koblenz Hbf     
+OL,5,CBeginn:   24.11.26 11:00               
+OL,6,CEnde ca:  24.11.26 23:30               
+OL,8, Es kommt zu vereinzelten Ausf{llen     
+OL,9, aufgrund einer Fahrzeugst|rung.        
+OL,22,BQuelle: RMV          Zusatzverkehr 542 
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
 PN,54206
 SC,0006
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F08:47:50
+OL,0,           Fhr-textGDi 24.11.26F20:43:06
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]ARMV    A]         GAktuelle St|rungen
+OL,3,W#######################################
+OL,4,FRB 75 Wiesbaden Hbf <-> Aschaffenbg.   
+OL,5,CBeginn:   24.11.26 12:30               
+OL,6,CEnde ca:  24.11.26 22:30               
+OL,8, Es kommt zu einzelnen Ausf{llen        
+OL,9, aufgrund von kurzfristig erkranktem    
+OL,10, Personal.                              
+OL,22,BQuelle: RMV          Zusatzverkehr 542 
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,54207
+SC,0007
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGDi 24.11.26F20:43:06
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]ARMV    A]         GAktuelle St|rungen
+OL,3,W#######################################
+OL,4,FAlsbach-H{hnlein: Bus BE2 - aktuelle   
+OL,5,FSt|rung (Stand 24.11., 19:24 Uhr)      
+OL,6,CBeginn:   24.11.26 18:30               
+OL,7,CEnde ca:  24.11.26 21:00               
+OL,9, Es kommt zu Versp{tungen und           
+OL,10, Teilausf{llen. Die Busse k|nnen nur    
+OL,11, bis "Alsbach Am Hinkelstein" fahren.   
+OL,12, Grund daf}r ist ein Verkehrsunfall auf 
+OL,13, der Strecke.                           
+OL,22,BQuelle: RMV          Zusatzverkehr 542 
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,54208
+SC,0008
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGDi 24.11.26F20:43:07
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]ARMV    A]         GAktuelle St|rungen
 OL,3,W#######################################
@@ -123,6 +160,25 @@ OL,15, Ersatzbusse haben eine l{ngere
 OL,16, Fahrzeit. Bitte planen Sie             
 OL,17, entsprechend mehr Zeit ein.            
 OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 08:01 ohne Gew{hr             
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,54209
+SC,0009
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGDi 24.11.26F20:43:07
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]ARMV    A]         GAktuelle St|rungen
+OL,3,W#######################################
+OL,4,FR}sselsheim: Bus 2 - Haltestelle       
+OL,5,F"Schreberstra~e" entf{llt kurzfristig  
+OL,6,CBeginn:   24.11.26 16:00               
+OL,7,CEnde ca:  25.11.26 23:30               
+OL,9, Die Haltestelle "Schreberstra~e"       
+OL,10, entf{llt kurzfristig aufgrund eines    
+OL,11, Gaslecks.                              
+OL,22,BQuelle: RMV          Zusatzverkehr 542 
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100

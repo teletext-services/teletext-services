@@ -3,22 +3,22 @@ PN,70601
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G706  RTS 2     24.11.26 13:10:58
+OL,0,       G706  RTS 2     24.11.26 23:40:17
 OL,1,A]GRTS 2     ]@mardi 24 novembre        
 OL,2,                                    1/2 
 OL,4,G01:40 GMeurtres @ l'Avent..........C711
 OL,5,E 0135 GEpisode 4  "Nom de bleu !"      
 OL,6,       CS-T                             
-OL,7,F02:10 FA bon entendeur                 
+OL,7,F02:05 FA bon entendeur                 
 OL,8,E 0125 FLocataires @ bout: r#cits       
 OL,9,       Fde conflits ordinairesCS-T      
 OL,10,       C(R)                             
 OL,11,G02:45 GCouleurs locales                
 OL,12,E 0130 CS-TC(R)                         
-OL,13,F03:05 F19h30 - Sign#                   
+OL,13,F03:00 F19h30 - Sign#                   
 OL,14,E 0150 CS-TCLSC(R)                      
-OL,15,G03:35 GA bon entendeur                 
-OL,16,       GLocataires @ bout: r#cits       
+OL,15,G03:30 GA bon entendeur                 
+OL,16,E 0335 GLocataires @ bout: r#cits       
 OL,17,       Gde conflits ordinairesCS-T      
 OL,18,       C(R)                             
 OL,19,F04:10 FCouleurs locales                
@@ -29,22 +29,22 @@ PN,70602
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G706  RTS 2     24.11.26 13:10:58
+OL,0,       G706  RTS 2     24.11.26 23:40:17
 OL,1,A]GRTS 2     ]@mardi 24 novembre        
 OL,2,                                    2/2 
-OL,4,G04:30 G19h30 - Sign#                   
-OL,5,       CS-TCLSC(R)                      
-OL,6,F05:00 FA bon entendeur                 
+OL,4,G04:25 G19h30 - Sign#                   
+OL,5,E 0430 CS-TCLSC(R)                      
+OL,6,F04:55 FA bon entendeur                 
 OL,7,E 0450 FLocataires @ bout: r#cits       
 OL,8,       Fde conflits ordinairesCS-T      
 OL,9,       C(R)                             
-OL,10,G05:40 GCouleurs locales                
+OL,10,G05:35 GCouleurs locales                
 OL,11,E 0510 CS-TC(R)                         
-OL,12,F05:55 F19h30 - Sign#                   
+OL,12,F05:50 F19h30 - Sign#                   
 OL,13,E 0530 CS-TCLSC(R)                      
-OL,14,G06:25 GCouleurs locales                
+OL,14,G06:20 GCouleurs locales                
 OL,15,E 0540 CS-TC(R)                         
-OL,16,F06:45 FRTS Info                        
+OL,16,F06:40 FRTS Info                        
 OL,17,E 0555 FL'actualit# en continuCS-T      
 OL,18,G07:00 GLa Matinale                     
 OL,19,       GLa Matinale en vid#oCS-T        

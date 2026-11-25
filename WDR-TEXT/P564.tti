@@ -3,27 +3,27 @@ PN,56401
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G564 WDR Text GDi 24.11.26 09:23:00
+OL,0,     G564 WDR Text GMi 25.11.26 03:53:12
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DDORTMUND       ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 09:21            
+OL,4,                 STAND 02:33            
 OL,6,CZEIT  FLUGNR.  VON              BEMERK.
-OL,7,B07:45 W4 6397  Mailand-Malpensa geland 
-OL,8, 07:50 W6 4331  Sofia            geland 
-OL,9,B08:05 W6 4721  Skopje           geland 
-OL,10, 08:25 W4 5101  Tirana           11:08  
-OL,11,B08:30 W4 3361  Cluj-Napoca      geland 
-OL,12, 08:50 EJU 9041 Amsterdam        geland 
-OL,13,B09:15 W6 1661  Danzig           geland 
-OL,14, 12:25 PC 1051  Istanbul-Sabiha         
-OL,15,B12:40 W4 6651  Palermo                 
-OL,16, 13:05 W4 2185  Olsztyn-Mazury          
-OL,17,B14:15 W4 3911  Chisinau                
+OL,7,B07:35 W4 3767  Craiova                 
+OL,8, 08:10 W6 4721  Skopje                  
+OL,9,B08:25 W4 5101  Tirana                  
+OL,10, 09:15 W6 1661  Danzig                  
+OL,11,B11:55 PC 1051  Istanbul-Sabiha         
+OL,12, 12:25 EJU 2608 London-Luton            
+OL,13,B13:20 KK 7909  London-Stansted         
+OL,14, 14:10 W6 4091  Belgrad                 
+OL,15,B14:15 W4 3911  Chisinau                
+OL,16, 14:15 EW 1909  London-Stansted         
+OL,17,B14:45 W4 3459  Targu Mures             
 OL,18, 14:50 W9 5463  London-Luton            
 OL,19,B15:20 W6 1093  Kattowitz               
-OL,20, 15:45 W6 4785  Pristina                
-OL,21,B19:50 W6 1095  Kattowitz               
+OL,20, 15:40 W4 6173  Rom-Fiumicino           
+OL,21,B15:45 W6 4977  Ohrid                   
 OL,23,]D555 < ]bersicht       DTM ABFLUG > 565
 OL,24,A]G- 563B]G+ 565C]DDortmund \     G(1/2)
 FL,563,565,0,0,0,100
@@ -31,27 +31,27 @@ PN,56402
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G564 WDR Text GDi 24.11.26 09:23:00
+OL,0,     G564 WDR Text GMi 25.11.26 03:53:12
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DDORTMUND       ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 09:21            
+OL,4,                 STAND 02:33            
 OL,6,CZEIT  FLUGNR.  VON              BEMERK.
-OL,7,B------Ank}nfte n{chster Tag------------
-OL,8, 07:35 W4 3767  Craiova                 
-OL,9,B08:10 W6 4721  Skopje                  
-OL,10, 08:25 W4 5101  Tirana                  
-OL,11,B09:15 W6 1661  Danzig                  
-OL,12, 11:55 PC 1051  Istanbul-Sabiha         
-OL,13,B12:25 EJU 2608 London-Luton            
-OL,14, 13:20 KK 7909  London-Stansted         
-OL,15,B14:10 W6 4091  Belgrad                 
-OL,16, 14:15 W4 3911  Chisinau                
-OL,17,B14:15 EW 1909  London-Stansted         
-OL,18, 14:45 W4 3459  Targu Mures             
-OL,19,B14:50 W9 5463  London-Luton            
-OL,20, 15:20 W6 1093  Kattowitz               
-OL,21,B15:40 W4 6173  Rom-Fiumicino           
+OL,7,B19:50 W6 1095  Kattowitz               
+OL,8, ------Ank}nfte n{chster Tag------------
+OL,9,B07:10 W4 3655  Iasi                    
+OL,10, 07:30 W6 1933  Vilnius                 
+OL,11,B07:50 W6 4331  Sofia                   
+OL,12, 08:00 W4 3091  Bukarest-Otopeni        
+OL,13,B08:00 W6 1091  Kattowitz               
+OL,14, 08:10 W6 4721  Skopje                  
+OL,15,B08:25 W6 4297  Tuzla                   
+OL,16, 08:25 W4 3817  Sibiu                   
+OL,17,B08:25 W4 5101  Tirana                  
+OL,18, 08:30 W4 3361  Cluj-Napoca             
+OL,19,B09:15 W6 1661  Danzig                  
+OL,20, 12:10 PC 1051  Istanbul-Sabiha         
+OL,21,B13:25 W4 5125  Tirana                  
 OL,23,]D555 < ]bersicht       DTM ABFLUG > 565
 OL,24,A]G- 563B]G+ 565C]DDortmund \     G(2/2)
 FL,563,565,0,0,0,100

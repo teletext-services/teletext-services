@@ -1,26 +1,46 @@
 DE,TLGZ-TG1 811
-PN,81100
-SC,0000
-PS,8008
+PN,81101
+SC,0001
+PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     811Cwto 24 lis  15:59:03
-OL,1,C]      @K o s z y k _ w k a       14:00
+OL,0,      BTVP1     811C|ro 25 lis  03:16:06
+OL,1,C]      @K o s z y k _ w k a       03:02
 OL,2,C] @Mecze wed}ug kategorii rozgrywek    
 OL,3,C-------------- EuroLiga ---------------
-OL,4, Besiktas - Paris                 B18:00
-OL,5, Crvena zvezda - Virtus Bologna   B19:00
-OL,6, Bayern Monachium-Maccabi Tel AvivB20:00
-OL,7, Valencia - Panathinaikos         B20:30
-OL,8, ASVEL - Olimpia Milano           B20:45
-OL,9, Barcelona - Fenerbahce           B21:00
-OL,10,C-------------- USA - NBA --------------
-OL,11, Orlando Magic - Detroit Pistons  B01:00
-OL,12, Washington Wizards-Boston CelticsB02:00
-OL,13,C--------- USA - NBA G League ----------
-OL,14, Capital City Go--Long Island NetsB20:00
-OL,15, Laketown Squadron - Osceola MagicB01:30
-OL,16, Oklahoma City Blue - Austin SpursB02:00
+OL,4, Bayern MonachiumF79:87GMaccabi Tel Aviv
+OL,5,                C21:21 22:29 25:16 11:21
+OL,6, ValenciaF83:86GPanathinaikos           
+OL,7,                C19:19 15:20 25:25 24:22
+OL,8, ASVELF91:95GOlimpia Milano             
+OL,9,                C24:24 19:34 15:24 33:13
+OL,10, BarcelonaF77:83GFenerbahce             
+OL,11,                C28:21 17:18 16:14 16:30
+OL,12,C-------------- USA - NBA --------------
+OL,13, Orlando MagicE71:86GDetroit Pistons    
+OL,14,                C22:16 14:32 25:25E10:13
+OL,15, Washington WizardsE36:58GBoston Celtics
+OL,16,                             C28:34E8:24
+OL,17, Denver Nuggets - Dallas MavericksB04:00
+OL,18,C--------- USA - NBA G League ----------
+OL,19, Capital City GoF108:100GLong Island Net
+OL,20,                C33:28 31:27 19:22 25:23
+OL,21, Laketown Squadron - Osceola MagicB01:30
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C802      F803   
+FL,800,801,802,803,0,100
+PN,81102
+SC,0002
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP1     811C|ro 25 lis  03:16:06
+OL,1,C]      @K o s z y k _ w k a       03:02
+OL,2,C] @Mecze wed}ug kategorii rozgrywek    
+OL,3,C--------- USA - NBA G League ----------
+OL,4, Oklahoma City BlueE8:21GAustin Spurs   
+OL,5,                                   E8:21
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C802      F803   

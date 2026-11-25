@@ -1,30 +1,43 @@
 DE,WDR-TEXT 621
-PN,62100
-SC,0000
-PS,8208
+PN,62101
+SC,0001
+PS,C200
 CT,15,T
-OL,0,     G621 WDR Text GDi 24.11.26 10:54:09
+OL,0,     G621 WDR Text GMi 25.11.26 03:54:21
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: Bundesliga/M     
-OL,5,C10. Spieltag                           
+OL,5,C11. Spieltag                           
 OL,6,CBlitztabelle                        622
 OL,7,CLive-Ticker (alle Begegnungen)      623
-OL,8,CFreitag, 20. November 20:30 Uhr        
-OL,9, FC Bayern      - K|ln          1:1 C624
-OL,10,CSamstag, 21. November 15:30 Uhr        
-OL,11, Leverkusen     - Paderborn     4:0 C625
-OL,12, E. Frankfurt   - Hoffenheim    1:0 C626
-OL,13, Union Berlin   - Leipzig       1:5 C627
-OL,14, M'gladbach     - Dortmund      0:1 C628
-OL,15, Elversberg     - Freiburg      0:1 C629
-OL,16,CSamstag, 21. November 18:30 Uhr        
-OL,17, Schalke        - Stuttgart     0:0 C630
-OL,18,CSonntag, 22. November 15:30 Uhr        
-OL,19, Augsburg       - Mainz         3:1 C631
-OL,20,CSonntag, 22. November 17:30 Uhr        
-OL,21, Werder         - Hamburg       4:0 C632
+OL,8,CFreitag, 27. November 20:30 Uhr        
+OL,9, Werder         - M'gladbach    -:- C624
+OL,10,CSamstag, 28. November 15:30 Uhr        
+OL,11, Mainz          - Union Berlin  -:- C625
+OL,12, Hamburg        - FC Bayern     -:- C626
+OL,13, K|ln           - Elversberg    -:- C627
+OL,14, Paderborn      - Schalke       -:- C628
+OL,15,CSamstag, 28. November 18:30 Uhr        
+OL,16, Stuttgart      - E. Frankfurt  -:- C629
+OL,17,CSonntag, 29. November 15:30 Uhr        
+OL,18, Freiburg       - Leipzig       -:- C630
+OL,19,CSonntag, 29. November 17:30 Uhr        
+OL,20, Hoffenheim     - Augsburg      -:- C631
+OL,21,CSonntag, 29. November 19:30 Uhr        
 OL,22,            C]bersicht Alle Ticker > 620
 OL,23,]D600 < ]bersicht     Blitztabelle > 622
-OL,24,A]G- 620B]G+ 622C]D1. BL M{nner \       
+OL,24,A]G- 620B]G+ 622C]D1. BL M{nner \ G(1/2)
+FL,620,622,0,0,0,100
+PN,62102
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G621 WDR Text GMi 25.11.26 03:54:21
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: Bundesliga/M     
+OL,5, Dortmund       - Leverkusen    -:- C632
+OL,22,            C]bersicht Alle Ticker > 620
+OL,23,]D600 < ]bersicht     Blitztabelle > 622
+OL,24,A]G- 620B]G+ 622C]D1. BL M{nner \ G(2/2)
 FL,620,622,0,0,0,100

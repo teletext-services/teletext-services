@@ -3,12 +3,12 @@ PN,69901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G699 WDR Text GDi 24.11.26 12:59:24
+OL,0,     G699 WDR Text GMi 25.11.26 03:56:36
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, f}r A443 bis A573                      
-OL,5, Stand: 24.11.2026 12:53 Uhr            
+OL,5, Stand: 25.11.2026 03:48 Uhr            
 OL,7, Auf der A448 Bochum-West Richtung      
 OL,8, Dortmund/Witten ist die Anschlussstelle
 OL,9, Bochum-Wiemelhausen wegen Bauarbeiten  
@@ -29,26 +29,26 @@ PN,69902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G699 WDR Text GDi 24.11.26 12:59:24
+OL,0,     G699 WDR Text GMi 25.11.26 03:56:36
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
-OL,4, Die A555 Bonn Richtung K|ln ist        
-OL,5, zwischen Bornheim und Wesseling nach   
-OL,6, einem Unfall gesperrt - 3 km Stau      
-OL,8, A555 K|ln Richtung Bonn zwischen       
-OL,9, K|ln-Rodenkirchen und Wesseling etwa 20
-OL,10, Minuten plus, 3 km Stau                
-OL,12, Auf der A560 Hennef Richtung Sankt     
-OL,13, Augustin ist im Kreuz Bonn/Siegburg die
-OL,14, Verbindung zur A3 nach K|ln wegen      
-OL,15, Bauarbeiten voraussichtlich bis Mai    
-OL,16, 2027 gesperrt. Eine Umleitung ist      
-OL,17, ausgeschildert.                        
-OL,19, Die A565 Bonn - Meckenheim ist zwischen
-OL,20, Bonn-Beuel und Bonn-Auerberg in beiden 
-OL,21, Richtungen wegen Br}ckenarbeiten       
-OL,22, gesperrt.                              
+OL,4, Die A535 Wuppertal Richtung Velbert ist
+OL,5, zwischen T|nisheide und Velbert wegen  
+OL,6, Bauarbeiten bis 5 Uhr gesperrt         
+OL,8, Auf der A560 Hennef Richtung Sankt     
+OL,9, Augustin ist im Kreuz Bonn/Siegburg die
+OL,10, Verbindung zur A3 nach K|ln wegen      
+OL,11, Bauarbeiten voraussichtlich bis Mai    
+OL,12, 2027 gesperrt. Eine Umleitung ist      
+OL,13, ausgeschildert.                        
+OL,15, Die A565 Bonn - Meckenheim ist zwischen
+OL,16, Bonn-Beuel und Bonn-Auerberg in beiden 
+OL,17, Richtungen wegen Br}ckenarbeiten       
+OL,18, gesperrt.                              
+OL,20, Die A565 Bonn - Meckenheim ist zwischen
+OL,21, Bonn-Beuel und Bonn-Auerberg in beiden 
+OL,22, Richtungen wegen Br}ckenarbeiten       
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]G- 698B]G+ 700  \               G(2/3)
 FL,698,700,0,0,0,100
@@ -56,17 +56,18 @@ PN,69903
 SC,0003
 PS,C200
 CT,15,T
-OL,0,     G699 WDR Text GDi 24.11.26 12:59:24
+OL,0,     G699 WDR Text GMi 25.11.26 03:56:36
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
-OL,5, Die A565 Bonn - Meckenheim ist zwischen
-OL,6, Bonn-Beuel und Bonn-Auerberg in beiden 
-OL,7, Richtungen wegen Br}ckenarbeiten       
-OL,8, gesperrt.                              
-OL,10, Auf der A565 Meckenheim Richtung Bonn  
-OL,11, ist die Auffahrt Bonn-Endenich bis     
-OL,12, Anfang Februar gesperrt.               
+OL,4, gesperrt.                              
+OL,6, Auf der A565 Meckenheim Richtung Bonn  
+OL,7, ist die Auffahrt Bonn-Endenich bis     
+OL,8, Anfang Februar gesperrt.               
+OL,10, Die A571 Sinzig Richtung Ehlingen ist  
+OL,11, zwischen L|hndorf und Ehlingen nach    
+OL,12, einem Fahrzeugbrand bis circa 5 Uhr    
+OL,13, gesperrt. Der Verkehr wird abgeleitet. 
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]G- 698B]G+ 700  \               G(3/3)
 FL,698,700,0,0,0,100

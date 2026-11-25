@@ -3,24 +3,34 @@ PN,25001
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G250CORF SPORT+G24.11.26 00:59:48
+OL,0,       G250CORF SPORT+G24.11.26 22:46:22
 OL,1,A]G                          Basketball 
-OL,2,A]GSPORT  ]Awin2day Herren SL,12.Runde \
+OL,2,A]GSPORT  ] AHerren, EM-Vorquali, Gr.F \
 OL,3,Q#########G                        1/3  
-OL,4,CSamstag                                
-OL,5,FKapfenberg   - Gmunden     74:81G 31:39
-OL,6,FTraiskirchen - Kl'neuburg  94:75G 49:43
-OL,7,FGraz         - Wels        79:103G39:56
-OL,8,FOberwart     - Eisenstadt 114:92G 53:55
-OL,9,FSt.P|lten    - BC Vienna  100:75G 45:29
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,4,CDonnerstag                             
+OL,5, N-Mazedonien - Zypern       17.00h     
+OL,6,CSonntag                                
+OL,7,C\sterreich  G- Zypern       18.00h *   
+OL,8,  in Wien (Sport Arena)                 
+OL,10,FTabelle                                
+OL,11,  1. N-Mazedonien   1  1 0 + 32  2      
+OL,12,F----------------------------------     
+OL,13,  2. Zypern         1  1 0 +  5  2      
+OL,14,  3.C\sterreich     2  0 2 - 37  2      
+OL,16,Cweiterer Spielplan                     
+OL,17, N-Mazedonien -C\sterreichG  25.02.27   
+OL,18, Zypern       - M-Mazedonien 28.02.27   
+OL,20,Cbereits gespielt                       
+OL,21,C\sterreich  F- N-Mazedonien 59:91G30:49
+OL,22,FZypern       -C\sterreich  F77:72G36:41
+OL,23,Q,,,,,,,,,,,,,,,,,G* live in ORF Sport+ 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
 PN,25002
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G250CORF SPORT+G24.11.26 00:59:48
+OL,0,       G250CORF SPORT+G24.11.26 22:46:22
 OL,1,A]G                          Basketball 
 OL,2,A]GSPORT  ]  Awin2day Superliga Herren \
 OL,3,Q#########G                        2/3  
@@ -37,6 +47,7 @@ OL,13, 8.Dukes Klosterneuburg     11  4  7  8
 OL,14, 9.SKN St.P|lten            11  4  7  8 
 OL,15,10.Kufstein Towers          10  1  9  2 
 OL,16,11.Basketball Club Vienna   11  0 11  0 
+OL,18,FMeisterschaftspause bis 8.Dezember     
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -44,25 +55,21 @@ PN,25003
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G250CORF SPORT+G24.11.26 00:59:48
+OL,0,       G250CORF SPORT+G24.11.26 22:46:22
 OL,1,A]G                          Basketball 
-OL,2,A]GSPORT  ] Awin2day SL Damen, 9.Runde \
+OL,2,A]GSPORT  ]   Awin2day Superliga Damen \
 OL,3,Q#########G                        3/3  
-OL,4,CSonntag                                
-OL,5,FLinz         - UBI Graz     78:79G39:37
-OL,6,FTimberwolves - Wels         49:77G22:33
-OL,7,FKl'neuburg   - Flames       70:53G31:24
-OL,8, Vienna U.    - UBSC Graz    verschoben 
-OL,10,FTabelle                                
-OL,11,  1.DBB Wels                  9  9  0 18
-OL,12,  2.Duchess Klosterneuburg    9  7  2 14
-OL,13,  3.UBI Graz     G            9  6  3 12
-OL,14,  4.Basket Flames Wien        9  6  3 12
-OL,15,F---------------------------------------
-OL,16,  5.Vienna Timberwolves       9  3  6  6
-OL,17,  6.Danubz Linz               9  3  6  6
-OL,18,  7.UBSC-DBBC Graz G          8  1  7  2
-OL,19,  8.Vienna United             8  0  8  0
+OL,4,FTabelle                                
+OL,5,  1.DBB Wels                  9  9  0 18
+OL,6,  2.Duchess Klosterneuburg    9  7  2 14
+OL,7,  3.UBI Graz     G            9  6  3 12
+OL,8,  4.Basket Flames Wien        9  6  3 12
+OL,9,F---------------------------------------
+OL,10,  5.Vienna Timberwolves       9  3  6  6
+OL,11,  6.Danubz Linz               9  3  6  6
+OL,12,  7.UBSC-DBBC Graz G          8  1  7  2
+OL,13,  8.Vienna United             8  0  8  0
+OL,15,FMeisterschaftspause bis 8.Dezember     
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

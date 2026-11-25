@@ -3,21 +3,25 @@ PN,60201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G602FORF2   GDi 24.11.26 10:24:45
+OL,0,       G602FORF2   GDi 24.11.26 22:33:05
 OL,1,A]G                                Wien 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       1/3  
-OL,4,FHeuteGtreibt die Sonne die Temperaturen
-OL,5,Gnach der meist frostigen Nacht auf +2  
-OL,6,Gbis +5 Grad. Bei lebhaftem NW-Wind     
-OL,7,Gf}hlt es sich etwas k{lter an. Zur     
-OL,8,GSonne kommen h|chstens vor}bergehend   
-OL,9,GWolken.                                
-OL,11,FMorgenGmeist bew|lkt. Chancen auf      
-OL,12,GSonnenfenster am ehesten in der Fr}h   
-OL,13,Gund am Vormittag. Gegen Mittag lebhaf- 
-OL,14,Gter O-Wind und nur 0 bis 3 Grad.       
-OL,21,F                           ORF 09:00h  
+OL,4,FHeute Abend, heute NachtGmeist klar,   
+OL,5,Gsp{ter auch ein paar Wolken.           
+OL,6,GTiefstwert: -5 bis -1 Grad.            
+OL,8,FMorgenGbew|lkt und kalt. Hochnebel- und
+OL,9,GWolkenfelder }berwiegen. Chancen auf   
+OL,10,GSonne gibt es am ehesten in den ersten 
+OL,11,GStunden. M{~iger SO-Wind frischt auf.  
+OL,12,GDer H|chstwert liegt um +2 Grad.       
+OL,14,F]bermorgenGein Wintereinbruch wie er im
+OL,15,GNovember nur noch selten vorkommt.     
+OL,16,GAnhaltender Schneefall, in Summe       
+OL,17,Gzumindest ein paar cm Schnee.          
+OL,18,GH|chstwert: -1 bis +1 Grad. Leichter   
+OL,19,GNW-Wind.                               
+OL,21,F                           ORF 16:00h  
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -25,23 +29,23 @@ PN,60202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G602FORF2   GDi 24.11.26 10:24:45
+OL,0,       G602FORF2   GDi 24.11.26 22:33:05
 OL,1,A]G                                Wien 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       2/3  
-OL,4,FDonaufeld     C10hG       wolkigF  2,9`
-OL,5, GW   9-19 km/h 1028hPa  0,0mm/2h  49%LF
-OL,7,FFlughafen WienC10hG       wolkigF  2,3`
-OL,8, GNW 22-35 km/h 1028hPa  0,0mm/2h  54%LF
-OL,10,FHohe Warte    C10hG       wolkigF  2,0`
-OL,11, GW  22-40 km/h 1028hPa  0,0mm/2h  56%LF
-OL,13,FInnere Stadt  C10hG       wolkigF  2,3`
-OL,14, GW  19-35 km/h 1028hPa  0,0mm/2h  52%LF
-OL,16,FJubil{umswarteC10hG    wolkenlosF -1,4`
-OL,17, GW  40-54 km/h 1028hPa  0,0mm/2h  71%LF
-OL,19,FMariabrunn    C10hG    wolkenlosF  1,8`
-OL,20, GW  19-33 km/h 1028hPa  0,0mm/2h  57%LF
-OL,21,F              Geosphere Austria  10:00h
+OL,4,FDonaufeld     C22hG    wolkenlosF -3,2`
+OL,5, GSO   1-2 km/h 1027hPa  0,0mm/2h  78%LF
+OL,7,FFlughafen WienC22hG    wolkenlosF -4,1`
+OL,8, GS   5-11 km/h 1028hPa  0,0mm/2h  80%LF
+OL,10,FHohe Warte    C22hG    wolkenlosF -2,4`
+OL,11, GW    6-8 km/h 1027hPa  0,0mm/2h  78%LF
+OL,13,FInnere Stadt  C22hG    wolkenlosF  0,0`
+OL,14, GSW  7-10 km/h 1027hPa  0,0mm/2h  67%LF
+OL,16,FJubil{umswarteC22hG    wolkenlosF -2,5`
+OL,17, GSO 10-13 km/h 1027hPa  0,0mm/2h  75%LF
+OL,19,FMariabrunn    C22hG    wolkenlosF -5,9`
+OL,20, GS    1-2 km/h 1028hPa  0,0mm/2h  86%LF
+OL,21,F              Geosphere Austria  22:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -49,15 +53,15 @@ PN,60203
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G602FORF2   GDi 24.11.26 10:24:46
+OL,0,       G602FORF2   GDi 24.11.26 22:33:05
 OL,1,A]G                                Wien 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       3/3  
-OL,4,FStammersdorf  C10hG       wolkigF  1,7`
-OL,5, GW  15-31 km/h 1029hPa  0,0mm/2h  58%LF
-OL,7,FUnterlaa      C10hG       wolkigF  2,4`
-OL,8, GNW 18-27 km/h 1029hPa  0,0mm/2h  56%LF
-OL,21,F              Geosphere Austria  10:00h
+OL,4,FStammersdorf  C22hG    wolkenlosF -3,7`
+OL,5, GW    4-5 km/h 1028hPa  0,0mm/2h  79%LF
+OL,7,FUnterlaa      C22hG    wolkenlosF -2,6`
+OL,8, GW    3-5 km/h 1028hPa  0,0mm/2h  77%LF
+OL,21,F              Geosphere Austria  22:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

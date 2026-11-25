@@ -3,23 +3,22 @@ PN,25201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G252FORF1   GDi 24.11.26 01:03:07
+OL,0,       G252FORF1   GDi 24.11.26 22:10:22
 OL,1,A]G                          Volleyball 
-OL,2,A]GSPORT  ]      A Herren-AVL, 7.+8.R. \
+OL,2,A]GSPORT  ]A  Herren-AVL, 2. + 9.Runde \
 OL,3,Q#########G                        1/4  
-OL,4,CSonntag                                
-OL,5,FGraz        - Sokol/Post  3:1          
-OL,6,FAmstetten   - Hartberg    2:3          
-OL,7,FSt.P|lten   - Klagenfurt  2:3          
-OL,9,CSamstag                                
-OL,10,FAich/Dob    - Bisamberg   3:0          
-OL,11,FWaldviertel - Ried        2:3          
-OL,13,CDienstag, 24.November                  
-OL,14, Ried        - St.P|lten   19.00h       
-OL,15, Sokol/Post  - Amstetten   20.20h *     
-OL,17,CMittwoch, 25.November                  
-OL,18, Aich/Dob    - Graz        19.00h       
-OL,19, Waldviertel - Amstetten   19.00h       
+OL,4,CDienstag                               
+OL,5,FRied        - St.P|lten   3:1          
+OL,6, Sokol/Post  - Amstetten   20.20h *     
+OL,8,CMittwoch                               
+OL,9, Aich/Dob    - Graz        19.00h       
+OL,10, Waldviertel - Amstetten   19.00h       
+OL,12,CSamstag                                
+OL,13, Hartberg    - St.P|lten   19.00h       
+OL,14, Ried        - Graz        19.00h       
+OL,15, Waldviertel - Aich/Dob    19.00h       
+OL,17,CSonntag                                
+OL,18, Klagenfurt  - Bisamberg   15.00h       
 OL,23,Q,,,,,,,,,,,,,,,,,G* live in ORF Sport+ 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -27,18 +26,18 @@ PN,25202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G252FORF1   GDi 24.11.26 01:03:07
+OL,0,       G252FORF1   GDi 24.11.26 22:10:22
 OL,1,A]G                          Volleyball 
 OL,2,A]GSPORT  ]            Apowerfusion VL \
 OL,3,Q#########G                        2/4  
 OL,4,FTabelle                                
 OL,5, 1.Zadruga Aich/Dob     7  6  1 20:4  19
-OL,6, 2.McDonalds Ried       7  6  1 18:9  16
+OL,6, 2.McDonalds Ried       8  7  1 21:10 19
 OL,7, 3.UVC Holding Graz     6  5  1 16:7  14
 OL,8, 4.TSV Hartberg         6  5  1 15:6  14
 OL,9, 5.Raiffeisen Waldv.    7  3  4 14:13 11
 OL,10, 6.W|rthersee Klagenf.  7  3  4 11:17  7
-OL,11, 7.SU St.P|lten         6  2  4  9:12  7
+OL,11, 7.SU St.P|lten         7  2  5 10:15  7
 OL,12, 8.Amstetten N\         7  2  5 10:17  7
 OL,13,F---------------------------------------
 OL,14, 9.Sokol/Post Wien      6  1  5  8:16  4
@@ -50,36 +49,35 @@ PN,25203
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G252FORF1   GDi 24.11.26 01:03:07
+OL,0,       G252FORF1   GDi 24.11.26 22:10:22
 OL,1,A]G                          Volleyball 
-OL,2,A]GSPORT  ]        ADamen-AVL, 9.R.+V. \
+OL,2,A]GSPORT  ]A  Damen-AVL, 9. + 14.Runde \
 OL,3,Q#########G                        3/4  
-OL,4,CSonntag                                
-OL,5,FGraz       - Sokol/Post  3:1           
-OL,6,FSt.P|lten  - Linz        0:3           
-OL,8,CSamstag                                
-OL,9,FInzing     - Klagenfurt  2:3           
-OL,10,FPurgstall  - Bisamberg   2:3           
-OL,12,CFreitag                                
-OL,13,FTrofaiach  - Hartberg    3:2           
-OL,15,CDienstag                               
-OL,16, Sokol/Post - Trofaiach   17.35h *      
-OL,23,Q,,,,,,,,,,,,,,,,,G* live in ORF Sport+ 
+OL,4,CDienstag                               
+OL,5,FSokol/Post - Trofaiach   0:3           
+OL,7,CSamstag                                
+OL,8, Hartberg   - St.P|lten   16.30h        
+OL,9, Klagenfurt - Graz        17.00h        
+OL,10, Purgstall  - Inzing      20.00h        
+OL,12,CSonntag                                
+OL,13, Linz       - Bisamberg   12.00h        
+OL,14, Hartberg   - Inzing      15.30h        
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,25204
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G252FORF1   GDi 24.11.26 01:03:07
+OL,0,       G252FORF1   GDi 24.11.26 22:10:22
 OL,1,A]G                          Volleyball 
 OL,2,A]GSPORT  ]        A         Damen-AVL \
 OL,3,Q#########G                        4/4  
 OL,4,FTabelle                                
-OL,5, 1.Erzbergmadln Trofa.  9  8  1 25:8  22
+OL,5, 1.Erzbergmadln Trofa. 10  9  1 28:8  25
 OL,6, 2.UVC Holding Graz     8  7  1 23:8  21
 OL,7, 3.Kelag Klagenfurt  G  8  6  2 20:11 17
-OL,8, 4.N\ Sokol/Post        8  6  2 21:12 17
+OL,8, 4.N\ Sokol/Post        9  6  3 21:15 17
 OL,9, 5.LinzAG Steelvolleys  8  5  3 17:10 16
 OL,10, 6.TSV Hartberg         9  4  5 19:17 14
 OL,11, 7.Inzing/Mils          9  2  7 10:24  6

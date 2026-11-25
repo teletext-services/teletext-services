@@ -3,71 +3,93 @@ PN,73501
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G735  RSI LA 2  24.11.26 13:57:42
+OL,0,       G735  RSI LA 2  24.11.26 23:12:40
 OL,1,A]GRSI   ]@LA1    MERCOLEDI 25 novembre 
 OL,2,G                                       
-OL,3, G05:00  GRepliche informazione     1/3 
-OL,4, F06:15  FSiamo fuoriCSTCR              
-OL,5, G07:10  GMezz'ora per voiCST           
-OL,6, F07:40  FMezz'ora per voiCST           
-OL,7, G08:05  GEverywhere I go -         CST 
-OL,8,         GCoincidenze d'amore           
-OL,9,         GEpisodio 42                   
-OL,10, F08:50  FLa signora in gialloCSTCI/II  
-OL,11,         FChiave di volta               
-OL,12, G09:35  GIl KalahariCST                
-OL,13,         GSeconda parte                 
-OL,14, F10:30  FPrivate EyesCSTCI/II          
-OL,15,         FIl codice                     
-OL,16, G11:15  GWalker, Texas RangerCSTCI/II  
-OL,17,         GMiss Ranger                   
-OL,18, F12:05  FModern FamilyCSTCI/II         
-OL,19,         FI vicini di casa              
-OL,20, G12:30  GTelegiornaleCST               
+OL,3, G05:00  GTG Notte                  1/4 
+OL,4, F05:20  FMeteoCST                      
+OL,5, G05:25  GIl QuotidianoCST              
+OL,6, F05:50  FTG Notte                      
+OL,7, G06:15  GSiamo fuoriCST                
+OL,8, F07:10  FMezz'ora per voiCST           
+OL,9, G07:40  GMezz'ora per voiCST           
+OL,10, F08:05  FEverywhere I go -         CST 
+OL,11,         FCoincidenze d'amore           
+OL,12,         FEpisodio 42                   
+OL,13, G08:50  GLa signora in gialloCSTCI/II  
+OL,14,         GChiave di volta               
+OL,15, F09:35  FIl KalahariCST                
+OL,16,         FSeconda parte                 
+OL,17, G10:30  GPrivate EyesCSTCI/II          
+OL,18,         GIl codice                     
+OL,19, F11:15  FWalker, Texas RangerCSTCI/II  
+OL,20,         FMiss Ranger                   
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73502
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G735  RSI LA 2  24.11.26 13:57:42
+OL,0,       G735  RSI LA 2  24.11.26 23:12:40
 OL,1,A]GRSI   ]@LA1    MERCOLEDI 25 novembre 
 OL,2,G                                       
-OL,3, F12:45  FMeteo regionaleCST        2/3 
-OL,4, G12:55  GUn principe sotto    CSTCI/II 
-OL,5,         Gcopertura                     
-OL,6, F14:25  FDonne che hanno cambiato  CST 
-OL,7,         Fil mondo                      
-OL,8,         FAyn Rand                      
-OL,9, G14:35  GLe sorelle McLeodCSTCI/II     
-OL,10,         GIndecisione                   
-OL,11, F15:25  F_ChristmasCSTCI/II            
-OL,12, G16:55  GSiamo fuoriCST                
-OL,13, F18:00  FPrima OraCST                  
-OL,14, G19:00  GIl QuotidianoCST              
-OL,15, F19:35  FZeroveroCST                   
-OL,16, G19:55  GMeteo regionaleCST            
-OL,17, F20:00  FTelegiornaleCST               
-OL,18, G20:35  GMeteoCST                      
-OL,19, F20:40  F9-1-1CSTCI/IIC1TV.........C711
-OL,20,         FIl cocco di mamma             
+OL,3, G12:05  GModern FamilyCSTCI/II     2/4 
+OL,4,         GI vicini di casa              
+OL,5, F12:30  FTelegiornaleCST               
+OL,6, G12:45  GMeteo regionaleCST            
+OL,7, F12:55  FUn principe sotto    CSTCI/II 
+OL,8,         Fcopertura                     
+OL,9, G14:25  GDonne che hanno cambiato  CST 
+OL,10,         Gil mondo                      
+OL,11,         GAyn Rand                      
+OL,12, F14:30  FDonne che hanno cambiato  CST 
+OL,13,         Fil mondo                      
+OL,14,         FMarilyn Monroe                
+OL,15, G14:35  GLe sorelle McLeodCSTCI/II     
+OL,16,         GIndecisione                   
+OL,17, F15:25  F_ChristmasCSTCI/II            
+OL,18, G16:55  GSiamo fuoriCST                
+OL,19, F18:00  FPrima OraCST                  
+OL,20, G19:00  GIl QuotidianoCST              
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73503
 SC,0003
 PS,C300
 CT,8,T
-OL,0,       G735  RSI LA 2  24.11.26 13:57:42
+OL,0,       G735  RSI LA 2  24.11.26 23:12:40
 OL,1,A]GRSI   ]@LA1    MERCOLEDI 25 novembre 
 OL,2,G                                       
-OL,3, G21:30  G9-1-1CSTCI/IIC1TV         3/3 
-OL,4,         GFai da te                     
-OL,5, F22:20  FTG Notte                      
-OL,6, G22:45  GMeteoCST                      
-OL,7, F22:50  FLotto Svizzero                
-OL,8, G23:00  GLa fidanzata di   CSTCI/IIC714
-OL,9,         Gpap{                          
-OL,10, F00:35  FSiamo fuoriCSTCR              
-OL,11, G01:35  GRepliche informazione         
+OL,3, F19:35  FZeroveroCST               3/4 
+OL,4, G19:55  GMeteo regionaleCST            
+OL,5, F20:00  FTelegiornaleCST               
+OL,6, G20:35  GMeteoCST                      
+OL,7, F20:40  F9-1-1CSTCI/IIC1TV.........C711
+OL,8,         FIl cocco di mamma             
+OL,9, G21:30  G9-1-1CSTCI/IIC1TV             
+OL,10,         GFai da te                     
+OL,11, F22:20  FTG Notte                      
+OL,12, G22:45  GMeteoCST                      
+OL,13, F22:50  FLotto Svizzero                
+OL,14, G23:00  GLa fidanzata di   CSTCI/IIC714
+OL,15,         Gpap{                          
+OL,16, F00:35  FSiamo fuoriCST                
+OL,17, G01:35  GTG Notte                      
+OL,18, F01:50  FMeteoCST                      
+OL,19, G01:55  GPrima OraCST                  
+OL,20, F02:50  FIl QuotidianoCST              
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,73504
+SC,0004
+PS,C300
+CT,8,T
+OL,0,       G735  RSI LA 2  24.11.26 23:12:40
+OL,1,A]GRSI   ]@LA1    MERCOLEDI 25 novembre 
+OL,2,G                                       
+OL,3, G03:20  GTelegiornaleCST           4/4 
+OL,4, F03:50  FTG Notte                      
+OL,5, G04:10  GMeteoCST                      
+OL,6, F04:15  FIl QuotidianoCST              
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

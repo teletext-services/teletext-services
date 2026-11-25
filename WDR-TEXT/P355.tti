@@ -3,17 +3,17 @@ PN,35500
 SC,0000
 PS,8208
 CT,15,T
-OL,0,     G355 WDR Text GDi 24.11.26 03:48:49
+OL,0,     G355 WDR Text GMi 25.11.26 03:48:44
 OL,1,]D]        G]               @]CFERNSEHEN
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     7-Tage-Vorschau           
-OL,6,BMontag (heute)            G>       B301
-OL,8, Dienstag (morgen)          >       B325
-OL,10,BMittwoch                  G>       B356
-OL,12, Donnerstag                 >       B357
-OL,14,BFreitag                   G>       B358
-OL,16, Samstag                    >       B359
-OL,18,BSonntag                   G>       B360
+OL,6,BDienstag (heute)          G>       B301
+OL,8, Mittwoch (morgen)          >       B325
+OL,10,BDonnerstag                G>       B356
+OL,12, Freitag                    >       B357
+OL,14,BSamstag                   G>       B358
+OL,16, Sonntag                    >       B359
+OL,18,BMontag                    G>       B360
 OL,23,]D300 < ]bersicht       ]bermorgen > 341
 OL,24,A]G- 354B]G+ 356C]DVorschau 7T \        
 FL,354,356,0,0,0,100

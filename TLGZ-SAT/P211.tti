@@ -1,10 +1,10 @@
 DE,TLGZ-SAT 211
-PN,21100
-SC,0000
-PS,8008
+PN,21101
+SC,0001
+PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  211Cpon 23 lis  18:36:42
+OL,0,      BPOLONIA  211C|ro 25 lis  02:38:59
 OL,1,C]DPI]KA NO[NA  ] GPKO BP EKSTRAKLASA   
 OL,3,                 C20.11                 
 OL,4, Piast Gliwice  - Korona KielceF2-0(1-0)
@@ -18,7 +18,32 @@ OL,13, Rak_w Cz-wa     - Widzew ]_d~ F3-1(1-0)
 OL,14, GKS Katowice    - Lech Pozna$ F0-1(0-0)
 OL,15, Wis}a P}ock   - Legia WarszawaF0-1(0-1)
 OL,17,                 C23.11                 
-OL,18, Wieczysta Kr.   - Motor Lublin   B19:00
+OL,18, Wieczysta Kr.   - Motor LublinF2-1(1-1)
+OL,21, ]DTABELA ---> 212 ]GMecze w TVP -> 213 
+OL,22,C]     DOPISY MECZOW -> 214 - 216       
+OL,23,F]DSTRZELCY -> 217B]DI LIGA ------> 218 
+OL,24,   A210      B212      C213      F214   
+FL,210,212,213,214,0,100
+PN,21102
+SC,0002
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BPOLONIA  211C|ro 25 lis  02:38:59
+OL,1,C]DPI]KA NO[NA  ] GPKO BP EKSTRAKLASA   
+OL,3,                 C27.11                 
+OL,4, Rak_w Cz-wa     - Piast Gliwice  B18:00
+OL,5, G_rnik Zabrze   - Wis}a P}ock    B20:30
+OL,7,                 C28.11                 
+OL,8, Widzew ]_d~     - Zag}`bie Lubin B14:45
+OL,9, \l@sk Wroc}aw   - GKS Katowice   B17:30
+OL,10, Wis}a Krak_w    - Motor Lublin   B20:15
+OL,12,                 C29.11                 
+OL,13, Lech Pozna$     - Pogo$ Szczecin B14:45
+OL,14, Legia Warszawa  - Wieczysta Kr.  B17:30
+OL,15, Jagiellonia     - Radomiak       B20:15
+OL,17,                 C30.11                 
+OL,18, Korona Kielce   - Cracovia       B19:00
 OL,21, ]DTABELA ---> 212 ]GMecze w TVP -> 213 
 OL,22,C]     DOPISY MECZOW -> 214 - 216       
 OL,23,F]DSTRZELCY -> 217B]DI LIGA ------> 218 

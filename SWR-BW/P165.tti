@@ -3,25 +3,25 @@ PN,16501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G22:44:00
+OL,0,       BSWR BW C   Mi, 25.11.26G00:43:06
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte BW      P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 23.11.2026 22:25     
+OL,4, WETTERZUSTAND vom 25.11.2026 00:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CKurpfalz                               
-OL,8, Heidelberg        klar              -4 
-OL,9,FMannheim          klar              -3 
+OL,8, Heidelberg        wolkig            -2 
+OL,9,FMannheim          leicht bew|lkt    -3 
 OL,11,CKraichgau                              
-OL,12, M}hlacker         leicht bew|lkt    -3 
-OL,13,FPforzheim         leicht bew|lkt    -2 
+OL,12, M}hlacker         bedeckt           -1 
+OL,13,FPforzheim         bedeckt           -2 
 OL,15,COberrhein                              
-OL,16, Baden-Baden       leicht bew|lkt    -1 
-OL,17,FOffenburg         wolkig             1 
-OL,18, Freiburg im Brsg. bedeckt            3 
-OL,19,FKarlsruhe         klar              -2 
-OL,20, Lahr              wolkig             1 
+OL,16, Baden-Baden       bedeckt           -1 
+OL,17,FOffenburg         bedeckt           -1 
+OL,18, Freiburg im Brsg. bedeckt            1 
+OL,19,FKarlsruhe         bedeckt           -1 
+OL,20, Lahr              bedeckt           -1 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -29,25 +29,25 @@ PN,16502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G22:44:00
+OL,0,       BSWR BW C   Mi, 25.11.26G00:43:06
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte BW      P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 23.11.2026 22:25     
+OL,4, WETTERZUSTAND vom 25.11.2026 00:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CHochrhein                              
-OL,8, L|rrach           bedeckt            3 
-OL,9,FWaldshut-Tiengen  bedeckt            4 
+OL,8, L|rrach           bedeckt            2 
+OL,9,FWaldshut-Tiengen  bedeckt            3 
 OL,11,CSchwarzwald                            
-OL,12, Calw              wolkig            -2 
-OL,13,FFurtwangen        bedeckt           -1 
-OL,14, Schramberg        wolkig             1 
-OL,15,FFeldberg im Schw. bedeckt           -3 
-OL,16, Freudenstadt      wolkig            -2 
+OL,12, Calw              bedeckt           -3 
+OL,13,FFurtwangen        bedeckt           -2 
+OL,14, Schramberg        bedeckt           -2 
+OL,15,FFeldberg im Schw. bedeckt            1 
+OL,16, Freudenstadt      bedeckt           -4 
 OL,18,CBaar                                   
-OL,19, Rottweil          bedeckt            0 
-OL,20,FVillingen-Schw.   bedeckt            0 
+OL,19, Rottweil          bedeckt           -3 
+OL,20,FVillingen-Schw.   bedeckt           -3 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -55,28 +55,28 @@ PN,16503
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G22:44:00
+OL,0,       BSWR BW C   Mi, 25.11.26G00:43:06
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte BW      P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 23.11.2026 22:25     
+OL,4, WETTERZUSTAND vom 25.11.2026 00:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CRaum Stuttgart                         
-OL,8, Backnang          leicht bew|lkt    -2 
-OL,9,FBietigheim-Biss.  wolkig            -3 
-OL,10, Esslingen         wolkig            -1 
-OL,11,FHeilbronn         leicht bew|lkt    -3 
-OL,12, Kirchheim Teck    wolkig            -1 
-OL,13,FReutlingen        wolkig            -1 
-OL,14, Schw{bisch Gm}nd  leicht bew|lkt    -3 
-OL,15,FT}bingen          wolkig            -1 
-OL,16, Stuttgart         wolkig            -2 
+OL,8, Backnang          bedeckt           -2 
+OL,9,FBietigheim-Biss.  bedeckt           -1 
+OL,10, Esslingen         bedeckt           -2 
+OL,11,FHeilbronn         bedeckt           -1 
+OL,12, Kirchheim Teck    bedeckt           -2 
+OL,13,FReutlingen        bedeckt           -3 
+OL,14, Schw{bisch Gm}nd  bedeckt           -3 
+OL,15,FT}bingen          bedeckt           -2 
+OL,16, Stuttgart         bedeckt           -2 
 OL,17,FStuttgart-Flugh.  bedeckt           -2 
 OL,19,CDonau                                  
-OL,20, Sigmaringen       wolkig            -2 
-OL,21,FTuttlingen        bedeckt           -1 
-OL,22, Ulm-M{hringen     leicht bew|lkt    -3 
+OL,20, Sigmaringen       bedeckt           -3 
+OL,21,FTuttlingen        bedeckt           -3 
+OL,22, Ulm-M{hringen     bedeckt           -4 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -84,25 +84,25 @@ PN,16504
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G22:44:00
+OL,0,       BSWR BW C   Mi, 25.11.26G00:43:06
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte BW      P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 23.11.2026 22:25     
+OL,4, WETTERZUSTAND vom 25.11.2026 00:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CMain                                   
-OL,8, Wertheim          wolkig            -4 
+OL,8, Wertheim          leicht bew|lkt    -3 
 OL,10,COdenwald                               
-OL,11, Buchen            leicht bew|lkt    -4 
-OL,12,FMosbach           klar              -4 
-OL,13, Michelstadt       klar              -3 
+OL,11, Buchen            leicht bew|lkt    -2 
+OL,12,FMosbach           wolkig            -2 
+OL,13, Michelstadt       klar              -2 
 OL,15,CHohenloher Ebene                       
-OL,16, Bad Mergentheim   klar              -4 
-OL,17,FCrailsheim        klar              -5 
-OL,18, \hringen          klar              -4 
-OL,19,FSchw{bisch Hall   klar              -4 
-OL,20, Niederstetten     klar              -4 
+OL,16, Bad Mergentheim   leicht bew|lkt    -3 
+OL,17,FCrailsheim        wolkig            -4 
+OL,18, \hringen          bedeckt           -2 
+OL,19,FSchw{bisch Hall   wolkig            -2 
+OL,20, Niederstetten     leicht bew|lkt    -4 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -110,26 +110,26 @@ PN,16505
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G22:44:00
+OL,0,       BSWR BW C   Mi, 25.11.26G00:43:07
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte BW      P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 23.11.2026 22:25     
+OL,4, WETTERZUSTAND vom 25.11.2026 00:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CSchw{bische Alb                        
-OL,8, Aalen             wolkig            -3 
-OL,9,FAlbstadt          wolkig            -3 
-OL,10, Balingen          wolkig            -1 
-OL,11,FHeidenheim        wolkig            -3 
-OL,12, M}nsingen         wolkig            -3 
-OL,13,FSt|tten           bedeckt           -3 
-OL,14, Me~stetten        bedeckt           -1 
+OL,8, Aalen             bedeckt           -3 
+OL,9,FAlbstadt          bedeckt           -4 
+OL,10, Balingen          bedeckt           -3 
+OL,11,FHeidenheim        bedeckt           -3 
+OL,12, M}nsingen         bedeckt           -4 
+OL,13,FSt|tten           bedeckt           -4 
+OL,14, Me~stetten        bedeckt           -3 
 OL,16,COberschwaben                           
-OL,17, Biberach          leicht bew|lkt    -4 
-OL,18,FPfullendorf       wolkig            -2 
-OL,19, Ravensburg        leicht bew|lkt    -1 
-OL,20,FLaupheim          leicht bew|lkt    -3 
+OL,17, Biberach          bedeckt           -3 
+OL,18,FPfullendorf       bedeckt           -3 
+OL,19, Ravensburg        bedeckt           -1 
+OL,20,FLaupheim          bedeckt           -3 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -137,27 +137,27 @@ PN,16506
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mo, 23.11.26G22:44:00
+OL,0,       BSWR BW C   Mi, 25.11.26G00:43:07
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWetterwerte BW      P5      
 OL,3,T#########"######################"######
-OL,4, WETTERZUSTAND vom 23.11.2026 22:25     
+OL,4, WETTERZUSTAND vom 25.11.2026 00:25     
 OL,5,CRegion            Zustand         Temp 
 OL,6, C                                   `C 
 OL,7,CAllg{u                                 
-OL,8, Isny              leicht bew|lkt    -2 
-OL,9,FLeutkirch         klar              -3 
-OL,10, Memmingen         leicht bew|lkt    -4 
-OL,11,FWangen im Allg.   leicht bew|lkt    -1 
-OL,12, Kempten           wolkig            -1 
-OL,13,FOberstdorf        bedeckt            0 
+OL,8, Isny              bedeckt           -2 
+OL,9,FLeutkirch         bedeckt           -2 
+OL,10, Memmingen         bedeckt           -3 
+OL,11,FWangen im Allg.   bedeckt           -1 
+OL,12, Kempten           bedeckt           -2 
+OL,13,FOberstdorf        bedeckt           -3 
 OL,15,CBodensee                               
-OL,16, Friedrichshafen   wolkig             1 
-OL,17,FLindau            wolkig             1 
-OL,18, Radolfzell        bedeckt            2 
-OL,19,FSingen            bedeckt            2 
-OL,20, ]berlingen        bedeckt            1 
-OL,21,FKonstanz          bedeckt            2 
+OL,16, Friedrichshafen   bedeckt            0 
+OL,17,FLindau            bedeckt           -1 
+OL,18, Radolfzell        bedeckt            0 
+OL,19,FSingen            bedeckt            0 
+OL,20, ]berlingen        bedeckt            0 
+OL,21,FKonstanz          bedeckt            0 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

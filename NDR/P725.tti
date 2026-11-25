@@ -3,29 +3,29 @@ PN,72500
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       G725FNDR TEXT GDi 24.11.B13:40:39
+OL,0,       G725FNDR TEXT GDi 24.11.B21:41:35
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN HANNOVER          
-OL,4,F]T  %D     Ankunft      Stand 13:14    
+OL,4,F]T  %D     Ankunft      Stand 20:34    
 OL,5,BFLUG    VON           PLAN ERW. TER/BEM
-OL,6, VF  085 Istanbul-Sab. 1120 1112 C Gelan
-OL,7,FBA  922 London-Heathr 1140 1114 C Gelan
-OL,8, PC 1033 Istanbul-Sab. 1250 1300 C Gelan
-OL,9,FVL 2092 M}nchen       1250 1246 A Gelan
-OL,10, XQ  974 Izmir         1305 1336 C      
-OL,11,FLH  044 Frankfurt     1420 1426 A      
-OL,12, XQ 1796 Cukurova      1440 1501 C      
-OL,13,FVL 2094 M}nchen       1635      A      
-OL,14, TK 1555 Istanbul      1705      C      
-OL,15,FBA  928 London-Heathr 1725      C      
-OL,16, KL 1791 Amsterdam     1745      A      
-OL,17,FLH  046 Frankfurt     1810      A      
-OL,18, SK 1667 Kopenhagen    1850      A      
-OL,19,FX3 2263 Gran Canaria  1855      B      
-OL,20, LH 2096 M}nchen       1900      A      
-OL,21,FX3 2145 Teneriffa     1910      B      
-OL,22, LX  828 Z}rich        1915      A      
+OL,6, SK 1667 Kopenhagen    1850 1848 A Gelan
+OL,7,FX3 2263 Gran Canaria  1855 1909 B Gelan
+OL,8, LH 2096 M}nchen       1900 1854 A Gelan
+OL,9,FX3 2145 Teneriffa     1910 2109 B      
+OL,10, LX  828 Z}rich        1915 1906 A Gelan
+OL,11,FOS  277 Wien          1940 1936 A Gelan
+OL,12, X3 6793 Marsa Alam    1955 2016 C Gelan
+OL,13,FKL 1793 Amsterdam     2205 2235 A      
+OL,14, AF 1438 Paris - CDG   2210 2218 A      
+OL,15,FLH  048 Frankfurt     2250 2252 A      
+OL,16, VL 2100 M}nchen       2310 2320 A      
+OL,17,FX3 6955 Hurghada      2330 2358 C      
+OL,18,C        -- Am 25.11.2026 --            
+OL,19,FX3 2831 Funchal       0010 0025 B      
+OL,20, XQ  230 Antalya       0145      C      
+OL,21,FEW 3117 Antalya       0145             
+OL,22, SM 2938 Marsa Alam    0215      C      
 OL,23,A]G700<                      WEITER >726
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

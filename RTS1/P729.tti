@@ -3,7 +3,7 @@ PN,72901
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 1     24.11.26 13:47:30
+OL,0,       G729  RTS 1     24.11.26 23:29:55
 OL,1,A]GRTS 2     ]@mardi 24 novembre        
 OL,2,                                    1/4 
 OL,4,F14:35 FA bon entendeur                 
@@ -29,7 +29,7 @@ PN,72902
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 1     24.11.26 13:47:30
+OL,0,       G729  RTS 1     24.11.26 23:29:55
 OL,1,A]GRTS 2     ]@mardi 24 novembre        
 OL,2,                                    2/4 
 OL,4,F20:10 FDes trains pas comme les        
@@ -56,22 +56,22 @@ PN,72903
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 1     24.11.26 13:47:30
+OL,0,       G729  RTS 1     24.11.26 23:29:55
 OL,1,A]GRTS 2     ]@mardi 24 novembre        
 OL,2,                                    3/4 
 OL,4,G01:40 GMeurtres @ l'Avent..........C711
 OL,5,E 0135 GEpisode 4  "Nom de bleu !"      
 OL,6,       CS-T                             
-OL,7,F02:10 FA bon entendeur                 
+OL,7,F02:05 FA bon entendeur                 
 OL,8,E 0125 FLocataires @ bout: r#cits       
 OL,9,       Fde conflits ordinairesCS-T      
 OL,10,       C(R)                             
 OL,11,G02:45 GCouleurs locales                
 OL,12,E 0130 CS-TC(R)                         
-OL,13,F03:05 F19h30 - Sign#                   
+OL,13,F03:00 F19h30 - Sign#                   
 OL,14,E 0150 CS-TCLSC(R)                      
-OL,15,G03:35 GA bon entendeur                 
-OL,16,       GLocataires @ bout: r#cits       
+OL,15,G03:30 GA bon entendeur                 
+OL,16,E 0335 GLocataires @ bout: r#cits       
 OL,17,       Gde conflits ordinairesCS-T      
 OL,18,       C(R)                             
 OL,19,F04:10 FCouleurs locales                
@@ -82,16 +82,16 @@ PN,72904
 SC,0004
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 1     24.11.26 13:47:30
+OL,0,       G729  RTS 1     24.11.26 23:29:55
 OL,1,A]GRTS 2     ]@mardi 24 novembre        
 OL,2,                                    4/4 
-OL,4,G04:30 G19h30 - Sign#                   
-OL,5,       CS-TCLSC(R)                      
-OL,6,F05:00 FA bon entendeur                 
+OL,4,G04:25 G19h30 - Sign#                   
+OL,5,E 0430 CS-TCLSC(R)                      
+OL,6,F04:55 FA bon entendeur                 
 OL,7,E 0450 FLocataires @ bout: r#cits       
 OL,8,       Fde conflits ordinairesCS-T      
 OL,9,       C(R)                             
-OL,10,G05:40 GCouleurs locales                
+OL,10,G05:35 GCouleurs locales                
 OL,11,E 0510 CS-TC(R)                         
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

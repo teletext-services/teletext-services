@@ -3,24 +3,24 @@ PN,25101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G251FORF1   GDi 24.11.26 01:01:10
+OL,0,       G251FORF1   GDi 24.11.26 22:10:47
 OL,1,A]G                            Handball 
 OL,2,A]GSPORT  ]                    AHerren \
 OL,3,Q#########G                        1/4  
-OL,4, -FHLA-Meisterliga, 11.Runde            
-OL,6,CSamstag                                
-OL,7,FHard       - Schwaz       28:27G(16:14)
-OL,8,FMargareten - Linz         42:39G(21:19)
-OL,9,FB{rnbach   - Bregenz      26:29G(12:14)
-OL,10,FKrems      - Atzgersdorf  32:17G(17:7) 
-OL,12,CFreitag                                
-OL,13,FBruck      - Ferlach      27:27G(15:15)
-OL,15,CMittwoch                               
-OL,16,FV|slau     - Graz         31:27G(16:15)
-OL,18, -FEuropean Cup, 3.Runde (Hinspiel)     
+OL,4, -FHLA-Meisterliga, 12.Runde            
+OL,6,CMittwoch                               
+OL,7, Schwaz     - V|slau       18.30h       
+OL,9,CFreitag                                
+OL,10, Krems      - Graz         19.00h       
+OL,11, Hard       - Bruck        19.00h       
+OL,13,CSamstag                                
+OL,14, Linz       - Ferlach      19.00h       
+OL,15, B{rnbach   - Atzgersdorf  19.00h       
+OL,16, Margareten - Bregenz      19.30h       
+OL,18, -FEuropean Cup, 3.Runde, R}ckspiel     
 OL,20,CSamstag                                
-OL,21,FV|slau     - Gorica/CRO   26:27G(16:15)
-OL,22,FR}ckspiel:G28.November (18.00h)        
+OL,21, Gorica/CRO - V|slau       18.00h       
+OL,22,FHinspiel: 27:26                        
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -28,7 +28,7 @@ PN,25102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G251FORF1   GDi 24.11.26 01:01:10
+OL,0,       G251FORF1   GDi 24.11.26 22:10:47
 OL,1,A]G                            Handball 
 OL,2,A]GSPORT  ]           AHLA-Meisterliga \
 OL,3,Q#########G                        2/4  
@@ -53,27 +53,26 @@ PN,25103
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G251FORF1   GDi 24.11.26 01:01:11
+OL,0,       G251FORF1   GDi 24.11.26 22:10:47
 OL,1,A]G                            Handball 
-OL,2,A]GSPORT  ]A AWHA-Meisterliga, 9.Runde \
+OL,2,A]GSPORT  ]A                     Damen \
 OL,3,Q#########G                        3/4  
-OL,4,CSonntag                                
-OL,5,FHypo N\     - Tulln       36:22G(20:10)
-OL,6,FWr.Neustadt - Bruck       27:27G(16:17)
-OL,8,CSamstag                                
-OL,9,FAtzgersdorf - Krems       36:29G(36:29)
-OL,10,FEggenburg   - MGA Wien    21:35G(10:19)
-OL,11, Feldkirch   - Korneuburg  verschoben   
-OL,13,CFreitag                                
-OL,14,FStockerau   - St.P|lten   29:26G(13:12)
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,4, -F3-Nationen-Turnier in Tatabanya (HUN)
+OL,6,CFreitag                                
+OL,7, Ungarn      - \sterreich   18.00h *    
+OL,9,CSamstag                                
+OL,10, \sterreich  - Slowakei     16.00h      
+OL,13, -FWHA-Meisterliga, Nachtrag            
+OL,15,CDienstag, 1.Dezember                   
+OL,16, Bruck       - Atzgersdorf  19.45h      
+OL,23,Q,,,,,,,,,,,,,,,,,G* live in ORF Sport+ 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,25104
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G251FORF1   GDi 24.11.26 01:01:11
+OL,0,       G251FORF1   GDi 24.11.26 22:10:47
 OL,1,A]G                            Handball 
 OL,2,A]GSPORT  ] A          WHA-Meisterliga \
 OL,3,Q#########G                        4/4  

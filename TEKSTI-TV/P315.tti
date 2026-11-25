@@ -3,9 +3,9 @@ PN,31501
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G315 YLE TEKSTI-TV 24.03.02:44:57
+OL,0,       G315 YLE TEKSTI-TV 25.03.01:48:03
 OL,1,A]         C]                   A   1/3 
-OL,2,A]CTV1     C]A    Torstai 26.11.        
+OL,2,A]CTV1     C]A    Perjantai 27.11.      
 OL,3,Q#########^S############################
 OL,4, 06.25GYlen aamuFA                      
 OL,5, 09.30GPuoli seitsem{nFA                
@@ -24,7 +24,7 @@ OL,17, 11.40GYle Uutiset Pohjois-SuomiFA
 OL,18, 11.45GYle Uutiset LappiFA              
 OL,19, 11.50GYle OddasatFA                    
 OL,20, 11.54GOddasatFA                        
-OL,21, 12.05GKulttuuricocktailFA              
+OL,21, 12.05GKuin kaikki muutBA               
 OL,22,ET = Tekstitys                          
 OL,23,BA = Jo Areenassa   FA = Tulee Areenaan 
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
@@ -33,29 +33,29 @@ PN,31502
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G315 YLE TEKSTI-TV 24.03.02:44:57
+OL,0,       G315 YLE TEKSTI-TV 25.03.01:48:03
 OL,1,A]         C]                   A   2/3 
-OL,2,A]CTV1     C]A    Torstai 26.11.        
+OL,2,A]CTV1     C]A    Perjantai 27.11.      
 OL,3,Q#########^S############################
 OL,4, 12.35GRikoksen aakkosetG(12)FA         
-OL,5, 13.25GPikku-Matti maailmallaG(7)ETC>357
-OL,6, 14.50GEl{v{ arkisto: Asiantuntemuksella
-OL,7,      GturvallisuuteenG(S)ET            
-OL,8, 15.00GA-studioFA                       
-OL,9, 15.30GYle Uutiset selkosuomeksiFA      
-OL,10, 15.35GYle OddasatFA                    
-OL,11, 15.40GNovosti YleFA                    
-OL,12, 15.45GYle Uutiset viittomakielell{FA   
-OL,13, 15.50GYle Uutiset alueeltasi           
-OL,14, 15.55GEduskunnan kyselytuntiFA         
+OL,5, 13.25GKuriton sukupolviG(S)ETBAC>358   
+OL,6, 14.55GEl{v{ arkisto: VuosirenkaitaETBA 
+OL,7, 15.00GVictorian syd{nG(7)BA            
+OL,8, 15.50GHuippuvuoret yl{ilmoistaBA       
+OL,9, 15.55GA-TalkFA                         
+OL,10, 16.35GYle Uutiset selkosuomeksiFA      
+OL,11, 16.40GYle OddasatFA                    
+OL,12, 16.45GNovosti YleFA                    
+OL,13, 16.50GYle Uutiset viittomakielell{FA   
+OL,14, 16.55GYle Uutiset alueeltasi           
 OL,15, 17.00GYle Uutiset 17.00FA              
-OL,16, 17.10GRikoksen aakkosetG(12)FA         
+OL,16, 17.07GRikoksen aakkosetG(12)FA         
 OL,17, 18.00GYle Uutiset 18.00FA              
-OL,18, 18.21GPuoli7 t{n{{nET                  
-OL,19, 18.23GYle Uutiset alueeltasi           
-OL,20, 18.30GPuoli seitsem{nFA                
-OL,21, 19.00GLinnaG(S)ETBA                    
-OL,22,K                                       
+OL,18, 18.21GYle Uutiset alueeltasi           
+OL,19, 18.28GKovan viikon ilta: Kaikki muut   
+OL,20,      Guutiset                          
+OL,21, 18.30GPuoli seitsem{nFA                
+OL,22, 19.00GSohvaperunatFA                   
 OL,23,C]ATV1 t{n{{nA301  huomennaA310         
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -63,26 +63,26 @@ PN,31503
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G315 YLE TEKSTI-TV 24.03.02:44:57
+OL,0,       G315 YLE TEKSTI-TV 25.03.01:48:03
 OL,1,A]         C]                   A   3/3 
-OL,2,A]CTV1     C]A    Torstai 26.11.        
+OL,2,A]CTV1     C]A    Perjantai 27.11.      
 OL,3,Q#########^S############################
-OL,4, 19.30GKirjallisuuden Finlandia-        
-OL,5,      Gpalkinnot 2026FA                 
-OL,6, 20.29GYle Uutiset 20.30FA              
-OL,7, 20.55GUrheiluruutuFA                   
-OL,8, 21.05GA-TalkFA                         
-OL,9, 21.45GYle UutisetFA                    
-OL,10, 21.49GUrheiluruutuFA                   
-OL,11, 21.53GYle Uutiset Uutis-SuomiFA        
-OL,12, 22.00GUlkolinja: Peitenimi AnnaG(16)BA 
-OL,13, 23.20GOddasatFA                        
-OL,14, 23.30GVapautettu vankilastaG(16)BA     
-OL,15, 00.10GModernit miehetG(7)ETBA          
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
+OL,4, 19.48GVihreit{ hampurilaisiaBA         
+OL,5, 20.00GUnohtumattomat - Muistikuoron    
+OL,6,      GmatkaG(S)ETBA                    
+OL,7, 20.29GYle Uutiset 20.30FA              
+OL,8, 20.55GUrheiluruutuFA                   
+OL,9, 21.05GOuto historiaG(16)ETBA           
+OL,10, 21.50GTunturikukkia                    
+OL,11, 21.55GYle UutisetFA                    
+OL,12, 21.59GUrheiluruutuFA                   
+OL,13, 22.03GYle Uutiset Uutis-SuomiFA        
+OL,14, 22.10GPerjantai-dokkariETFA            
+OL,15, 22.25GTaru Sormusten herrasta:         
+OL,16,      GMahtisormuksetG(12)BA            
+OL,17, 23.27GOddasatFA                        
+OL,18, 23.37GSami Yaffa - Sound Tracker:      
+OL,19,      GTurkkiETBA                       
 OL,20,K                                       
 OL,21,K                                       
 OL,22,K                                       

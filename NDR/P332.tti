@@ -1,21 +1,48 @@
 DE,NDR 332
-PN,33200
-SC,0000
-PS,8208
+PN,33201
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G332FNDR TEXT GDi 24.11.B03:12:14
+OL,0,       G332FNDR TEXT GDi 24.11.B21:31:57
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD    NDR FERNSEHEN            
 OL,4,F]T  %                                  
-OL,5, Dienstag 24.11.26     02:45 - 03:15 Uhr
-OL,6, HALLO NIEDERSACHSEN                    
-OL,8,FLeitung der Sendung                    
-OL,9,  Claudia Bruns                         
-OL,10,FRedaktionsleiter/in                    
-OL,11,  Eckhardt Reimann                      
-OL,12,FProduktionsleiter/in                   
-OL,13,  Wolfgang Feist                        
-OL,23,F]D300<       TV-PROGRAMM HEUTE >301-305
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,5, Dienstag 24.11.26     20:15 - 21:15 Uhr
+OL,6, VISITE                                 
+OL,7, Mehr Informationen auf Seite 520       
+OL,9,FModeration                             
+OL,10,  Vera Cordes                           
+OL,11,FRedaktion                              
+OL,12,  Renate Sch}ssler                      
+OL,13,  Edith Heitk{mper                      
+OL,14,  Gabriela Mirkovic                     
+OL,15,  Anke Lauf                             
+OL,16,  Nadine Becker                         
+OL,17,  Anna Kohout                           
+OL,18,FProduktionsleiter/in                   
+OL,19,  Thomas Schmidtsdorff                  
+OL,20,FRedaktionsleiter/in                    
+OL,21,  Anke Christians                       
+OL,23,F]D300<    TV-PROGRAMM HEUTE >301-305 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,33202
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G332FNDR TEXT GDi 24.11.B21:31:57
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    NDR FERNSEHEN            
+OL,4,F]T  %                                  
+OL,5, Dienstag 24.11.26     20:15 - 21:15 Uhr
+OL,6, VISITE                                 
+OL,7, Mehr Informationen auf Seite 520       
+OL,9,FAssistenz                              
+OL,10,  Stefan Lundschien                     
+OL,11,FRedaktion                              
+OL,12,   Friederike Krumme-Nagel              
+OL,23,F]D300<    TV-PROGRAMM HEUTE >301-305 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

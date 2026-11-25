@@ -3,18 +3,18 @@ PN,28000
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       G280FORF2   GDi 24.11.26 01:47:39
+OL,0,       G280FORF2   GDi 24.11.26 22:27:01
 OL,1,A]G                              Rodeln 
 OL,2,A]GSPORT  ]A                 Kunstbahn \
 OL,3,Q#########G                             
 OL,4,FWeltcup in Winterberg, Programm        
-OL,6,CSamstag, 28.November                   
-OL,7, Herren-Doppel       9.02h   +  9.53h   
-OL,8, Damen-Doppel       10.49h   + 11.31h   
-OL,9, Herren-Einzel      12.17h   + 13.45h   
-OL,11,CSonntag, 1.M{rz                        
-OL,12, Damen-Einzel       10.48h   + 12.11h   
-OL,13, Team                          13.50h   
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,6,CSamstag                                
+OL,7, Herren-Doppel       9.02h * + 10.49h * 
+OL,8, Damen-Doppel        9.53h * + 11.31h * 
+OL,9, Herren-Einzel      12.17h * + 13.45h * 
+OL,11,CSonntag,                               
+OL,12, Damen-Einzel       10.48h * + 12.11h * 
+OL,13, Team                          14.10h * 
+OL,23,Q,,,,,,,,,,,,,,,,,G* live in ORF Sport+ 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

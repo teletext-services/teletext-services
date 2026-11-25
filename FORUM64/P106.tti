@@ -3,32 +3,62 @@ PN,10601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMo 23 Nov F21:10:20
+OL,0,         GFORUM64   GDi 24 Nov F20:22:02
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EMimic - Multiplatform                  
-OL,3,EEmulator/RemoteDebugger                
-OL,5,CAntwort:  Bdrazil                      
-OL,6,CComments: B78                          
-OL,7,F                                       
-OL,8,FNeue Version 1.12c_alpha ist raus      
-OL,10,FIn diesem Release:                     
-OL,12,FNeue Maschinen : Lobo Max80, GameBoy,  
-OL,13,FUltimate64 / Commodore 64 Ultimate mit 
-OL,14,FLED Stripe Support f}r beide Varianten 
-OL,15,FDiverse BugFixes Angepasste            
-OL,16,FDokumentation                          
-OL,18,CErster Beitrag:                        
-OL,20,GHier werde ich dann so nach und nach   
-OL,21,Gdie neuen Plattformen vorstellen die   
-OL,22,Gder Emulator unterst}tzt. ROM's        
-OL,23,Gvorausgesetzt                          
-OL,24,D]FForum64.de RSS feed            (1/2) 
+OL,2,ECommodore 64 Ultimate Firmware Updates 
+OL,4,CAntwort:  BHe-Man1982                  
+OL,5,CComments: B572                         
+OL,6,F                                       
+OL,7,Fhttps://github.com/spiffycrew/Spiffy_Ul
+OL,8,Ftimate                                 
+OL,10,Fhttps://github.com/jusii/prkl_ultimate 
+OL,12,CErster Beitrag:                        
+OL,14,GDie neue Firmware ist drau~en, tr{gt   
+OL,15,Gdie Nummer 1.1.0                       
+OL,17,Ghttps://www.commodore.net/downloads?cur
+OL,18,Grency=EUR                              
+OL,20,GDas ist das Changelog                  
+OL,22,G( )                                    
+OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,10602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMo 23 Nov F21:10:20
+OL,0,         GFORUM64   GDi 24 Nov F20:22:02
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,D]FForum64.de RSS feed            (2/2) 
+OL,3,GEin paar Sachen, die mir beim Flashen  
+OL,4,Gaufgefallen sind:                      
+OL,6,G- Das Update fragt als erstes, ob das  
+OL,7,GFlashdrive neu formatiert werden muss, 
+OL,8,Gich habe hier "Nein" angew{hlt und     
+OL,9,Gw}rde es - wenn es keine Probleme mit  
+OL,10,Gdem Flashdrive gibt auch nicht         
+OL,11,Gempfehlen zu machen, weil sonst alle   
+OL,12,GRoms, etc. die man dorthin kopiert hat 
+OL,13,Gweg sind                               
+OL,15,G- Das ESP Modul wird w{hrend der       
+OL,16,GFlashens mit aktualisiert              
+OL,18,G- Ich habe die Frage, ob ich die       
+OL,19,GKonifguration resetten m|chte mit "Ja" 
+OL,20,Gbeantwortet, hier muss man vorsichtig  
+OL,21,Gsein, der C64U bootet dann, wenn er    
+OL,22,Gvorher }ber RGB lief wieder }ber CVBS, 
+OL,23,Gmein Monitor macht beides, das Bild war
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,10603
+SC,0003
+PS,C200
+CT,15,T
+OL,0,         GFORUM64   GDi 24 Nov F20:22:02
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,Gdann nur monochrom, aber evtl. kann das
+OL,4,GProbleme bereiten. Ich vermute, dass es
+OL,5,Gbei HDMI egal ist, wei~ es aber nicht. 
+OL,7,G- Das Laden der alten Dolphin DOS      
+OL,8,GKonfiguration klappte nicht auf Anhieb,
+OL,9,Gich musste die Roms neu setzen und auch
+OL,10,Gdas Parallelkabel wieder aktivieren,   
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

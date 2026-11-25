@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  853Cwto 24 lis  17:06:57
+OL,0,      BPOLONIA  853C|ro 25 lis  02:51:37
 OL,1,C]      MDM U L T I   M U L T I         
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
 OL,4,C]DData losowania:@24.11.2026 r.        
@@ -33,26 +33,26 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  853Cwto 24 lis  17:06:57
+OL,0,      BPOLONIA  853C|ro 25 lis  02:51:37
 OL,1,C]      MDM U L T I   M U L T I         
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
-OL,4,C]DData losowania:@23.11.2026 r.        
+OL,4,C]DData losowania:@24.11.2026 r.        
 OL,5,S
 OL,6,C]DGodzina:@22:00                       
 OL,7,S
 OL,8,C]DWylosowane liczby:                   
-OL,9,C] A1D-@jeden        A51D-@pi`^-jeden   
-OL,10,C] A8D-@osiem        A53D-@pi`^-trzy    
-OL,11,C] A9D-@dziewi`^     A57D-@pi`^-siedem  
-OL,12,C]A10D-@jeden-zero   A61D-@sze|^-jeden  
-OL,13,C]A13D-@jeden-trzy   A62D-@sze|^-dwa    
-OL,14,C]A20D-@dwa-zero     A65D-@sze|^-pi`^   
-OL,15,C]A41D-@cztery-jeden A67D-@sze|^-siedem 
-OL,16,C]A42D-@cztery-dwa   A68D-@sze|^-osiem  
-OL,17,C]A46D-@cztery-sze|^ A72D-@siedem-dwa   
-OL,18,C]A47D-@cztery-siedemA75D-@siedem-pi`^  
+OL,9,C] A1D-@jeden        A44D-@cztery-cztery
+OL,10,C] A2D-@dwa          A48D-@cztery-osiem 
+OL,11,C] A5D-@pi`^         A49D-@cztery-dziewi
+OL,12,C] A7D-@siedem       A50D-@pi`^-zero    
+OL,13,C]A10D-@jeden-zero   A52D-@pi`^-dwa     
+OL,14,C]A15D-@jeden-pi`^   A53D-@pi`^-trzy    
+OL,15,C]A25D-@dwa-pi`^     A66D-@sze|^-sze|^  
+OL,16,C]A28D-@dwa-osiem    A68D-@sze|^-osiem  
+OL,17,C]A36D-@trzy-sze|^   A70D-@siedem-zero  
+OL,18,C]A43D-@cztery-trzy  A73D-@siedem-trzy  
 OL,19,S
-OL,20,C]             DPlus  A8D-@osiem        
+OL,20,C]             DPlus  A1D-@jeden        
 OL,21,S///////////////////////////////////////
 OL,22,Q
 OL,23,Q

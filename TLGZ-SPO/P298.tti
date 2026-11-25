@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:16
+OL,0,      BSPORT    298C|ro 25 lis  02:55:58
 OL,1,F]DEKSTRAKLASA        15. kolejkaG]DEX  
 OL,2, Piast        - Korona         2-0 (1-0)
 OL,3, Pogo$        - \l@sk          1-2 (0-0)
@@ -35,7 +35,7 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:16
+OL,0,      BSPORT    298C|ro 25 lis  02:55:58
 OL,1,F]DEKSTRAKLASA        15. kolejkaG]DEX  
 OL,2,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
 OL,3,               F1 2 1 1 X 1 2 2 1   pkt.
@@ -66,7 +66,7 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:16
+OL,0,      BSPORT    298C|ro 25 lis  02:55:58
 OL,1,F]DEKSTRAKLASA        15. kolejkaG]DEX  
 OL,2,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
 OL,3,               F1 2 1 1 X 1 2 2 1   pkt.
@@ -91,7 +91,7 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:16
+OL,0,      BSPORT    298C|ro 25 lis  02:55:58
 OL,1,F]DEKSTRAKLASA        16. kolejkaG]DEX  
 OL,2, Rak_w        - Piast        27.11 18:00
 OL,3, G_rnik       - Wis}a P}ock        20:30
@@ -108,7 +108,7 @@ OL,13,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
 OL,14,FCiekawski                           71 
 OL,15,FUndertaker    G1 1 1 1 1 1 1 1 1   F71 
 OL,16,F55adrian                            69 
-OL,17,FREKS                                69 
+OL,17,FREKS          G1 1 1 1 1 1 1 1 1   F69 
 OL,18,FRESOVIAK      G1 1 1 2 1 1 1 1 1   F69 
 OL,19,FJulia                               66 
 OL,20,FAgencik                             65 
@@ -122,7 +122,7 @@ SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:16
+OL,0,      BSPORT    298C|ro 25 lis  02:55:59
 OL,1,F]DEKSTRAKLASA        16. kolejkaG]DEX  
 OL,2,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
 OL,3,               D? ? ? ? ? ? ? ? ?  Fpkt.
@@ -131,10 +131,10 @@ OL,5,FRITA                                65
 OL,6,FSPEKTRO                             65 
 OL,7,FGo|^1z92      G1 1 1 2 1 1 1 1 2   F64 
 OL,8,FMIRO                                64 
-OL,9,FKiam                                62 
+OL,9,FKiam          G1 1 2 1 1 1 1 1 1   F62 
 OL,10,FKri69                               62 
 OL,11,FEjaj          GX 1 2 X 1 1 1 1 X   F61 
-OL,12,FTORSJAN                             61 
+OL,12,FTORSJAN       G1 1 1 X 1 1 1 1 X   F61 
 OL,13,FGo|^5z36      G1 1 2 2 1 1 1 1 2   F60 
 OL,14,FLapi63        G1 1 1 1 1 1 1 1 1   F60 
 OL,15,FPiotr82                             60 
@@ -144,7 +144,7 @@ OL,18,FBadboy        G2 1 1 2 1 1 1 1 2   F57
 OL,19,FKajrys74                            56 
 OL,20,FMarysia                             56 
 OL,21,FSocratis                            55 
-OL,22,FTygrys        G1 1 X X 1 1 1 1 1   F54 
+OL,22,FStrzelba      G1 1 1 1 1 1 1 1 2   F54 
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
 OL,24,   A295      B296      C297      F299   
 FL,295,296,297,299,0,100
@@ -153,14 +153,14 @@ SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:16
+OL,0,      BSPORT    298C|ro 25 lis  02:55:59
 OL,1,F]DEKSTRAKLASA        16. kolejkaG]DEX  
 OL,2,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
 OL,3,               D? ? ? ? ? ? ? ? ?  Fpkt.
 OL,4,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
-OL,5,FStrzelba      G1 1 1 1 1 1 1 1 2   F54 
-OL,6,FHegemon01                           51 
-OL,7,FFRAK                                51 
+OL,5,FTygrys        G1 1 X X 1 1 1 1 1   F54 
+OL,6,FHegemon01     G2 1 2 2 1 1 1 1 1   F51 
+OL,7,FFRAK          G1 1 1 X 1 1 X 1 1   F51 
 OL,8,FWaldek        G1 1 2 2 1 2 X X 2   F51 
 OL,9,FGo|^0c68                            50 
 OL,10,FSpawacz       G2 1 X X 2 1 1 1 X   F48 
@@ -178,7 +178,7 @@ SC,0007
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:16
+OL,0,      BSPORT    298C|ro 25 lis  02:55:59
 OL,1,F]DEKSTRAKLASA        17. kolejkaG]DEX  
 OL,2, Wieczysta    - Korona       04.12 18:00
 OL,3, Zag}`bie     - Wis}a Krak_w       20:30
@@ -192,9 +192,10 @@ OL,10,FWis}a P}ock  - \l@sk        07.12 19:00
 OL,11,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
 OL,12,               D? ? ? ? ? ? ? ? ?  Fpkt.
 OL,13,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
-OL,14, Strzelba       1 1 1 2 2 2 2 2 1       
-OL,15, Tygrys         X X X 2 1 2 2 X X       
-OL,16, Undertaker     1 2 1 2 1 X 2 1 1       
+OL,14, Hegemon01      2 2 1 2 2 2 2 2 1       
+OL,15, Strzelba       1 1 1 2 2 2 2 2 1       
+OL,16, Tygrys         X X X 2 1 2 2 X X       
+OL,17, Undertaker     1 2 1 2 1 X 2 1 1       
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
 OL,24,   A295      B296      C297      F299   
 FL,295,296,297,299,0,100
@@ -203,7 +204,7 @@ SC,0008
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:16
+OL,0,      BSPORT    298C|ro 25 lis  02:55:59
 OL,1,F]DEKSTRAKLASA    18.+ 4. kolejkaG]DEX  
 OL,2, Cracovia     - Lech         12.12 18:00
 OL,3, GKS Katowice - Wis}a Krak_w       18:00
@@ -230,7 +231,7 @@ SC,0009
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:16
+OL,0,      BSPORT    298C|ro 25 lis  02:55:59
 OL,1,C]DI LIGA           15. kolejka G]DLP1  
 OL,2, Chrobry      - Puszcza        0-2 (0-1)
 OL,3, Mied~ L.     - ]KS            1-1 (0-0)
@@ -261,7 +262,7 @@ SC,0010
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:17
+OL,0,      BSPORT    298C|ro 25 lis  02:55:59
 OL,1,C]DI LIGA           15. kolejka G]DLP1  
 OL,2,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
 OL,3,               C2 X 2 X 2 X 1 1 X   pkt.
@@ -288,7 +289,7 @@ SC,0011
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:17
+OL,0,      BSPORT    298C|ro 25 lis  02:55:59
 OL,1,C]DI LIGA           16. kolejka G]DLP1  
 OL,2, Warta        - Pogo$ S.     27.11 18:00
 OL,3, Chrobry      - Unia S.            20:30
@@ -308,7 +309,7 @@ OL,16,CEvertonian                          53
 OL,17,CGo|^5z36                            53 
 OL,18,CCiekawski                           52 
 OL,19,CFRAK                                52 
-OL,20,CTORSJAN                             52 
+OL,20,CTORSJAN       G1 1 1 2 X 2 1 X 1   C52 
 OL,21,CRESOVIAK      G1 1 1 2 2 2 2 1 2   C51 
 OL,22,CTygrys        G1 1 1 2 2 1 2 2 2   C51 
 OL,23,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
@@ -319,14 +320,14 @@ SC,0012
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:17
+OL,0,      BSPORT    298C|ro 25 lis  02:55:59
 OL,1,C]DI LIGA           15. kolejka G]DLP1  
 OL,2,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
 OL,3,               D? ? ? ? ? ? ? ? ?  Cpkt.
 OL,4,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
 OL,5,CGambler                             48 
 OL,6,CGo|^1z92      G1 1 2 2 X 1 X 1 2   C48 
-OL,7,CHegemon01                           48 
+OL,7,CHegemon01     G1 2 1 2 2 1 1 1 1   C48 
 OL,8,CSocratis                            47 
 OL,9,CStrzelba      G1 1 1 2 2 2 2 1 1   C47 
 OL,10,CBysee                               45 
@@ -346,7 +347,7 @@ SC,0013
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:17
+OL,0,      BSPORT    298C|ro 25 lis  02:55:59
 OL,1,C]DI LIGA           17. kolejka G]DLP1  
 OL,2, Pogo$ S.     - Mied~ L.     04.12 18:00
 OL,3, Stal M.      - Arka               20:30
@@ -371,7 +372,7 @@ SC,0014
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:17
+OL,0,      BSPORT    298C|ro 25 lis  02:55:59
 OL,1,C]DI LIGA           18. kolejka G]DLP1  
 OL,2, Arka         - Odra         12.12 17:00
 OL,3, Chrobry      - Stal Rz.           17:00
@@ -396,7 +397,7 @@ SC,0015
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:17
+OL,0,      BSPORT    298C|ro 25 lis  02:56:00
 OL,1,B]DII LIGA          17. kolejka G]DLP2  
 OL,2, Lechia        - Chojniczanka  1-1 (1-0)
 OL,3, \wit          - Stal          1-2 (1-1)
@@ -410,14 +411,14 @@ OL,10, Zawisza       - Podhale       3-2 (1-0)
 OL,11,FResovia       - \wit        25.11 17:30
 OL,12,               BX 2 2 1 X 1 1 X 1F?Bpkt.
 OL,13,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
-OL,14,BHegemon01     D2B2 2 1D2B1 1D1 2   B75 
+OL,14,BHegemon01     D2B2 2 1D2B1 1D1 2G1 B75 
 OL,15,BAgencik       D1 XB2 1D2B1DX 1B1GX B73 
 OL,16,BMarysia       D1 1B2 1D1B1D2 1B1G1 B71 
 OL,17,BGo|^1z92      D1 XB2DX 2B1D2 1B1G1 B68 
-OL,18,BRESOVIAK      D1B2 2 1D2B1D2 1B1    67 
+OL,18,BRESOVIAK      D1B2 2 1D2B1D2 1B1G1 B67 
 OL,19,BTygrys        D1 XB2DX 2B1D2 1B1GX B66 
 OL,20,BEkrudyDref     XD1B2 1 X 1DX 1B1    66 
-OL,21,BCiekawski     D1B2 2 1D2B1 1D1 2   B65 
+OL,21,BCiekawski     D1B2 2 1D2B1 1D1 2G1 B65 
 OL,22,BSPEKTRO        XDXB2DX 2B1D2 1 XGX B65 
 OL,23,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
 OL,24,   A295      B296      C297      F299   
@@ -427,7 +428,7 @@ SC,0016
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:17
+OL,0,      BSPORT    298C|ro 25 lis  02:56:00
 OL,1,B]DII LIGA          17. kolejka G]DLP2  
 OL,2,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
 OL,3,               BX 2 2 1 X 1 1 X 1F?Bpkt.
@@ -452,7 +453,7 @@ SC,0017
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:17
+OL,0,      BSPORT    298C|ro 25 lis  02:56:00
 OL,1,B]DII LIGA     18. kolejka + 16.G]DLP2  
 OL,2, Stal          - Legia II    27.11 17:30
 OL,3,B\l@sk II      - Podhale     28.11 12:30
@@ -464,16 +465,17 @@ OL,8,BRekord        - Lechia            17:00
 OL,9, Resovia       - Znicz       29.12 15:30
 OL,10, Sok_}         - Zawisza     29.12 17:00
 OL,11,FLegia II      - Sandecja    02.12 12:00
-OL,12,             D? ? ? ? ? ? ? ? ? ?  Bpkt.
+OL,12,               D? ? ? ? ? ? ? ? ? ?Bpkt.
 OL,13,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
-OL,14, Badboy       2 2 1 1 2 2 2 2 1         
-OL,15, EkrudyDref   1 2 1 1 1 1 X 2 X 2       
-OL,16, FRAK                           2       
-OL,17, Go|^1z92     2 X 1 1 1 1 X 2 2 1       
-OL,18, Go|^5z36     2 2 1 1 X 2 2 2 2 2       
-OL,19, RESOVIAK     1 2 1 1 2 1 1 2 2 2       
-OL,20, Strzelba     1 1 1 1 1 1 1 1 1 1       
-OL,21, Tygrys       2 X 1 1 1 1 X 2 2 1       
+OL,14,BHegemon01     G1 2 1 1 2 1 2 2 2 2 B75 
+OL,15,BAgencik                             73 
+OL,16,BMarysia                             71 
+OL,17,BGo|^1z92      G2 X 1 1 1 1 X 2 2 1 B68 
+OL,18,BRESOVIAK      G1 2 1 1 2 1 1 2 2 2 B67 
+OL,19,BTygrys        G2 X 1 1 1 1 X 2 2 1 B66 
+OL,20,BEkrudyDref    G1 2 1 1 1 1 X 2 X 2 B66 
+OL,21,BCiekawski                           65 
+OL,22,BSPEKTRO                             65 
 OL,23,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
 OL,24,   A295      B296      C297      F299   
 FL,295,296,297,299,0,100
@@ -482,7 +484,32 @@ SC,0018
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    298Cwto 24 lis  02:18:17
+OL,0,      BSPORT    298C|ro 25 lis  02:56:00
+OL,1,B]DII LIGA     18. kolejka + 16.G]DLP2  
+OL,2,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
+OL,3,               D? ? ? ? ? ? ? ? ? ?Bpkt.
+OL,4,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
+OL,5,BKajrys74                            64 
+OL,6,BTORSJAN       G1 2 1 1 X 1 X 2 2 2 B64 
+OL,7,BBadboy        G2 2 1 1 2 2 2 2 1   B62 
+OL,8,BGo|^5z36      G2 2 1 1 X 2 2 2 2 2 B61 
+OL,9,BRobson                              61 
+OL,10,BBysee                               57 
+OL,11,BFRAK                            G2 B57 
+OL,12,BStrzelba      G1 1 1 1 1 1 1 1 1 1 B57 
+OL,13,BEvertonian                          56 
+OL,14,BSocratis                            54 
+OL,15,BGambler                             52 
+OL,16,BPjablo                              23 
+OL,23,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
+OL,24,   A295      B296      C297      F299   
+FL,295,296,297,299,0,100
+PN,29819
+SC,0019
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    298C|ro 25 lis  02:56:00
 OL,1,B]DII LIGA          19. kolejka G]DLP2  
 OL,2,BLegia II      - Znicz       05.12 12:00
 OL,3,BOlimpia       - Lechia            17:00
@@ -499,9 +526,10 @@ OL,13,               D? ? ? ? ? ? ? ? ? ?Bpkt.
 OL,14,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
 OL,15, Go|^1z92       1 1 1 1 1 1 2 X 1 1     
 OL,16, Go|^5z36       1 2 1 1 2 X 1 2 1       
-OL,17, RESOVIAK       2 1 1 1 1 1 2 1 1       
-OL,18, Strzelba       1 1 1 1 1 1 1 1 1 1     
-OL,19, Tygrys         2 1 1 1 2 1 2 1 1 2     
+OL,17, Hegemon01      2 1 1 2 2 1 2 1 2 2     
+OL,18, RESOVIAK       2 1 1 1 1 1 2 1 1 1     
+OL,19, Strzelba       1 1 1 1 1 1 1 1 1 1     
+OL,20, Tygrys         2 1 1 1 2 1 2 1 1 2     
 OL,23,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
 OL,24,   A295      B296      C297      F299   
 FL,295,296,297,299,0,100
