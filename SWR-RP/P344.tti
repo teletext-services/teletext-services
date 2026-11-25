@@ -3,26 +3,27 @@ PN,34401
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:16:21
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:16:28
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
-OL,4,   DONNERSTAG 26. NOVEMBER              
+OL,4,   DONNERSTAG 03. DEZEMBER              
 OL,6,   05.30  SWR Aktuell Baden-            
 OL,7,          W}rttembergCUT                
 OL,8,F  06.00  SWR3 Morningshow              
-OL,9,   07.55  Panoramablick                 
-OL,10,F  09.00  Landesschau Rheinland-PfalzCUT
-OL,11,   10.20  Eisenbahn-Romantik/918CUT     
-OL,12,F  10.50  Sturm der LiebeCUT            
-OL,13,   11.40  aktiv und gesundCUT           
-OL,14,E   1139 GDemenzforschung/Gesundes      
-OL,15,          Eiwei~/Luzides                
-OL,16,          Tr{umen/Histamin-             
-OL,17,          Intoleranz/10-Minuten-Workout 
-OL,18,F  12.10  ARD-Buffet SpezialCUT         
-OL,19,   12.55  Erbin mit HerzCUT             
-OL,20,          Spielfilm Deutschland 2004    
+OL,9,F         Visual Radio                  
+OL,10,   07.55  Panoramablick                 
+OL,11,F  09.00  Landesschau Rheinland-PfalzCUT
+OL,12,   10.20  Eisenbahn-Romantik/929CUT     
+OL,13,          Die K}stentram von Belgien    
+OL,14,F  10.55  Sturm der LiebeCUT            
+OL,15,   11.45  aktiv und gesundCUT           
+OL,16,E   1144 GSchwindel-Ged{chtnis /        
+OL,17,          Waldbaden / Mozart-Effekt /   
+OL,18,          S}~kartoffelcurry             
+OL,19,F  12.10  ARD-Buffet SpezialCUT         
+OL,20,   12.55  Tulpen aus AmsterdamCUT       
+OL,21,          Spielfilm Deutschland 2010    
 OL,23,A]G                        ab 14.25 Uhr 
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -30,14 +31,14 @@ PN,34402
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:16:21
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:16:28
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
-OL,4,   DONNERSTAG 26. NOVEMBER              
+OL,4,   DONNERSTAG 03. DEZEMBER              
 OL,6,F  14.25  Gefragt - GejagtCUT           
 OL,7,   15.10  Hubert und StallerCAD/UT      
-OL,8,          Schwein gehabt                
+OL,8,          Waidgerecht                   
 OL,9,F  16.00  SWR Aktuell Rheinland-PfalzCUT
 OL,10,   16.04  Rheinland-Pfalz WetterCUT     
 OL,11,F  16.05  Kaffee oder Tee (1)CUT        
@@ -47,52 +48,56 @@ OL,14,F  17.05  Kaffee oder Tee (2)CUT
 OL,15,E   1605 FDer SWR Nachmittag            
 OL,16,   18.00  SWR Aktuell Rheinland-PfalzCUT
 OL,17,F  18.10  Landesschau Rheinland-PfalzCUT
-OL,23,A]G                        ab 19.30 Uhr 
+OL,18,   19.30  SWR Aktuell Rheinland-PfalzCUT
+OL,23,A]G                        ab 19.57 Uhr 
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,34403
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:16:21
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:16:29
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
-OL,4,   DONNERSTAG 26. NOVEMBER              
-OL,6,   19.30  SWR Aktuell Rheinland-PfalzCUT
-OL,7,F  19.57  Rheinland-Pfalz WetterCUT     
-OL,8,   20.00  TagesschauCUT                 
-OL,9,C!F20.15  Der gro~e Weinskandal -       
-OL,10,E   2014 FPanscher und ProfitCUT        
-OL,11,   21.00  Zur Sache Rheinland-Pfalz!CUT 
-OL,12,E   2015 GDas Politik-Magazin f}rs Land 
-OL,13,F  21.45  SWR Aktuell Rheinland-PfalzCUT
-OL,14,   22.00  WaPo BodenseeCAD/UT           
-OL,15,          Das Geisterschiff             
+OL,4,   DONNERSTAG 03. DEZEMBER              
+OL,6,F  19.57  Rheinland-Pfalz WetterCUT     
+OL,7,   20.00  TagesschauCUT                 
+OL,8,C!F20.15  Der Fall PascalCUT            
+OL,9,E   2014                                
+OL,10,   21.00  Zur Sache Rheinland-Pfalz!CUT 
+OL,11,E   2015 GDas Politik-Magazin f}rs Land 
+OL,12,F  21.45  SWR Aktuell Rheinland-PfalzCUT
+OL,13,   22.00  WaPo Bodensee (3)CAD/UT       
+OL,14,          Das schw{chste Glied          
+OL,15,F  22.45  WaPo Bodensee (4)CAD/UT       
+OL,16,F         Der Fremde                    
+OL,17,   23.35  Petra Kelly - Act Now!CAD/UT  
 OL,22,C!G= TV-Tipps                           
-OL,23,A]G                        ab 22.45 Uhr 
+OL,23,A]G                        ab 01.05 Uhr 
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,34404
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:16:21
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:16:29
 OL,1,Qppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,A]GSWR >>P5GFERNSEHEN           P5      
 OL,3,Q#########"######################"######
-OL,4,   DONNERSTAG 26. NOVEMBER              
-OL,6,F  22.45  WaPo BodenseeCAD/UT           
-OL,7,F         Die letzte Fahrt              
-OL,8,   23.35  Der unsichtbare ZooCUT        
-OL,9,E271126                                 
-OL,10,F  02.25  ARD Room TourCUT              
-OL,11,         F100 Jahre alter Laden zu      
-OL,12,F         Wohnhaus umgebaut             
-OL,13,   02.40  Kaffee oder Tee (WH)CUT       
-OL,14,          Der SWR Nachmittag            
-OL,15,F  04.30  aktueller berichtCUT          
-OL,16,   05.05  SWR Aktuell Rheinland-PfalzCUT
+OL,4,   DONNERSTAG 03. DEZEMBER              
+OL,6,E041226                                 
+OL,7,F  01.05  Demokratieforum Hambacher     
+OL,8,E   0104 FSchloss: Jugend macht Druck - 
+OL,9,F         ist die Politik               
+OL,10,F         }berfordert?CUT               
+OL,11,   02.20  1 Tag 1 JobCUT                
+OL,12,E   0219 GIm Bordbistro der Deutschen   
+OL,13,          Bahn                          
+OL,14,F  02.40  Kaffee oder Tee (WH)CUT       
+OL,15,F         Der SWR Nachmittag            
+OL,16,   04.30  aktueller berichtCUT          
+OL,17,F  05.05  SWR Aktuell Rheinland-PfalzCUT
 OL,23,A]G                     ab 05.30 Uhr 345
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

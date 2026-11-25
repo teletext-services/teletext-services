@@ -3,27 +3,24 @@ PN,21801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G218CORF SPORT+G24.11.26 22:45:14
+OL,0,       G218CORF SPORT+G25.11.26 08:45:14
 OL,1,A]G                             Fu~ball 
-OL,2,A]GSPORT  ]A         Spanien, 13.Runde \
-OL,3,Q#########G                        1/3  
-OL,4,CMontag                                 
-OL,5,FLevante       - Elche        F1:1 (0:0)
-OL,6, Requena 88.; Revivo 62.                
-OL,8,CSonntag                                
-OL,9,FBarcelona     - Villarreal   F3:2 (0:2)
-OL,10, Martin 57., Lopez 61., Navarro 67./ET; 
-OL,11, Buchanan 5., Oluwaseyi 7.              
-OL,12, Gelb-Rot: Navarro 93./V                
-OL,13, Rot: Lopez 75./B                       
-OL,14,FGetafe        - Atl.Madrid   F0:3 (0:2)
-OL,15, Baena 10., Cardoso 30., Grimaldo 92./E 
-OL,16, Rot: Dakonam 90./G                     
-OL,17,FSantander     - R.Sociedad   F3:2 (2:1)
-OL,18, Zabiri 6.,8., Canales 68./E;           
-OL,19, Oyarzabal 45.+1, Guedes 60.            
-OL,20,FOsasuna       - Malaga       F1:0 (1:0)
-OL,21, Budimir 20.; Gelb-Rot: Catena 92./O    
+OL,2,A]GSPORT  ]A         Spanien, 14.Runde \
+OL,3,Q#########G                        1/2  
+OL,4,CFreitag                                
+OL,5,GLevante       - Santander    G21.00h   
+OL,7,CSamstag                                
+OL,8,GBetis         - R.Vallecano  G14.00h   
+OL,9,GMalaga        - Bilbao       G16.15h   
+OL,10,GElche         - Atl.Madrid   G18.30h   
+OL,11,GReal Madrid   - Alaves       G21.00h   
+OL,13,CSonntag                                
+OL,14,GValencia      - Osasuna      G14.00h   
+OL,15,GLa Coruna     - Barcelona    G16.15h   
+OL,16,GCelta         - Villarreal   G18.30h   
+OL,17,GR.Sociedad    - Sevilla      G21.00h   
+OL,19,CMontag, 30.November                    
+OL,20,GEspanyol      - Getafe       G21.00h   
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -31,34 +28,10 @@ PN,21802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G218CORF SPORT+G24.11.26 22:45:14
-OL,1,A]G                             Fu~ball 
-OL,2,A]GSPORT  ]A         Spanien, 13.Runde \
-OL,3,Q#########G                        2/3  
-OL,4,CSamstag                                
-OL,5,FReal Madrid   - Celta        F2:1 (0:1)
-OL,6, Bellingham 66., Espi 85.; Duran 6.     
-OL,7,FSevilla       - Betis        F1:1 (0:0)
-OL,8, K.Salas 91.; Antony 50.                
-OL,9,FAlaves        - La Coruna    F3:1 (1:1)
-OL,10, Perez 2., Boye 62., Suarez 90.;        
-OL,11, Tenaglia 41./ET                        
-OL,12,FR.Vallecano   - Valencia     F0:1 (0:1)
-OL,13, Copete 41.                             
-OL,15,CFreitag                                
-OL,16,FBilbao        - Espanyol     F0:1 (0:0)
-OL,17, R.Fernandez 66.                        
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]bersicht  BSport   CFernsehen  FWetter
-FL,100,200,300,600,0,100
-PN,21803
-SC,0003
-PS,C200
-CT,15,T
-OL,0,       G218CORF SPORT+G24.11.26 22:45:14
+OL,0,       G218CORF SPORT+G25.11.26 08:45:14
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A       A  Spanien, Tabelle \
-OL,3,Q#########G                        3/3  
+OL,3,Q#########G                        2/2  
 OL,4,G 1 FC Barcelona    13 12  0  1 51:15 36
 OL,5,G 2 Real Madrid     13 11  0  2 33:11 33
 OL,6,G 3 Atletico Madrid 13 10  1  2 26:10 31

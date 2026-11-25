@@ -3,7 +3,7 @@ PN,16300
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:10:19
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:10:47
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWETTER - PROGNOSE   P5      
 OL,3,T#########"######################"######
@@ -13,14 +13,14 @@ OL,6,         Zustand      B  Min/Max CRisiko
 OL,7,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,8, Mittwoch   25.11.2026  B 0`/  2`       
 OL,10,FFr}h   Gbedeckt        B 0`/  1`  C80% 
-OL,11,FMittag GRegen          B 1`/  2`  C90% 
-OL,12,FAbend  Gbedeckt        B 0`/  1`   C0% 
-OL,13,FNacht  Gbedeckt        B-1`/  0`   C0% 
-OL,15, Donnerstag 26.11.2026  B-2`/  0`       
-OL,17,FFr}h   Gbedeckt        B-2`/ -1`   C0% 
-OL,18,FMittag Gbedeckt        B-1`/  0`   C0% 
-OL,19,FAbend  Gbedeckt        B-1`/ -1`   C0% 
-OL,20,FNacht  Gbedeckt        B-2`/ -1`   C0% 
+OL,11,FMittag Gbedeckt        B 1`/  2`  C10% 
+OL,12,FAbend  GRegen          B 1`/  1`  C90% 
+OL,13,FNacht  Gbedeckt        B-1`/  1`  C80% 
+OL,15, Donnerstag 26.11.2026  B-1`/ -1`       
+OL,17,FFr}h   Gbedeckt        B-1`/ -1`   C0% 
+OL,18,FMittag GSchnee         B-1`/ -1`  C90% 
+OL,19,FAbend  Gbedeckt        B-1`/ -1`  C70% 
+OL,20,FNacht  Gbedeckt        B-1`/ -1`   C0% 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

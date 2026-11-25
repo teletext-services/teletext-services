@@ -3,21 +3,18 @@ PN,24601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:12:29
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:13:34
 OL,1,Rppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,B]DSWR >>P5DFUSSBALL            P5      
 OL,3,R#########"######################"######
 OL,4,CRheinland Bezirksliga West             
-OL,9,FSamstag, 21. November                  
-OL,10, TuS Ahbach      - SG Schoden      C1:3 
-OL,11, SG Daleiden     - SV Trier-Irsch  C2:1 
-OL,12,FSonntag, 22. November                  
-OL,13, SV Sirzenich    - SG Kylltal-B.   C3:2 
-OL,14, SG MSN-Schleid  - SG Ellscheid    C2:0 
-OL,15, SV Tawern       - St. M. Trier    C4:4 
-OL,16, SV L}xem        - FSV Salmrohr    C0:5 
-OL,17, SG Ruwertal-G.  - SV Wittlich     C3:1 
-OL,18, SV Niederemmel  - SG Walsdorf     C0:1 
+OL,11,FSamstag, 28. November                  
+OL,12, FSV Salmrohr    - SG Daleiden    F15:30
+OL,13, SG Schoden      - SV Tawern      F17:30
+OL,14,FSonntag, 29. November                  
+OL,15, St. M. Trier    - SV Sirzenich   F14:30
+OL,16, SV Wittlich     - SV L}xem       F15:00
+OL,17, SV Trier-Irsch  - TuS Ahbach     F15:15
 OL,23,B]D                           Tabelle >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -25,7 +22,7 @@ PN,24602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:12:29
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:13:34
 OL,1,Rppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,B]DSWR >>P5DFUSSBALL            P5      
 OL,3,R#########"######################"######
@@ -53,21 +50,21 @@ PN,24603
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:12:29
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:13:34
 OL,1,Rppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,B]DSWR >>P5DFUSSBALL            P5      
 OL,3,R#########"######################"######
 OL,4,CRheinland Bezirksliga Mitte            
-OL,9,FFreitag, 20. November                  
-OL,10, Ahrweiler BC II - Anad. Koblenz   C4:3 
-OL,11,FSamstag, 21. November                  
-OL,12, Maifeld-Elztal  - M}lheim-K. II   C2:2 
-OL,13,FSonntag, 22. November                  
-OL,14, SG Eitelborn    - SV Binningen    C1:0 
-OL,15, FV R}benach     - SGE Mendig      C3:2 
-OL,16, FC Metternich   - BSC G}ls        C3:2 
-OL,17, SV Oberzissen   - FC Emmelshausen C1:0 
-OL,18, RW Koblenz II   - HSV Neuwied     C2:2 
+OL,9,FSamstag, 28. November                  
+OL,10, SGE Mendig      - Maifeld-Elztal F16:00
+OL,11,FSonntag, 29. November                  
+OL,12, BSC G}ls        - Ahrweiler BC IIF13:30
+OL,13, SV Binningen    - RW Koblenz II  F14:00
+OL,14, SG Liebshausen  - FV R}benach    F14:00
+OL,15, Anad. Koblenz   - SG Eitelborn   F15:00
+OL,16, HSV Neuwied     - SV Oberzissen  F15:00
+OL,17, FC Emmelshausen - SV Weitersburg F15:00
+OL,18, M}lheim-K. II   - FC Metternich  F15:00
 OL,23,B]D                           Tabelle >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -75,7 +72,7 @@ PN,24604
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:12:29
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:13:34
 OL,1,Rppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,B]DSWR >>P5DFUSSBALL            P5      
 OL,3,R#########"######################"######
@@ -103,21 +100,22 @@ PN,24605
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:12:29
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:13:34
 OL,1,Rppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,B]DSWR >>P5DFUSSBALL            P5      
 OL,3,R#########"######################"######
 OL,4,CRheinland Bezirksliga Ost              
-OL,9,FFreitag, 20. November                  
-OL,10, SG Westerburg   - Burgschwalbach  C3:0 
-OL,11, H|hr-Grenzh.    - SG Guckheim/K.  C3:0 
-OL,12,FSamstag, 21. November                  
-OL,13, TuS Montabaur   - SG Rennerod     C2:2 
-OL,14,FSonntag, 22. November                  
-OL,15, VfB Wissen      - SG Horressen    C1:1 
-OL,16, SG Hundsangen   - SV Windhagen    C3:2 
-OL,17, TuS Asbach      - Niederro~bach   C3:0 
-OL,18, SG Berod        - SG M}schenbach  C abg
+OL,9,FFreitag, 27. November                  
+OL,10, SG Rennerod     - H|hr-Grenzh.   F19:30
+OL,11, SG Horressen    - TuS Montabaur  F19:30
+OL,12, Niederro~bach   - SG Weitefeld   F20:00
+OL,13,FSamstag, 28. November                  
+OL,14, SG Guckheim/K.  - SG Hundsangen  F16:00
+OL,15,FSonntag, 29. November                  
+OL,16, SV Windhagen    - TuS Asbach     F14:30
+OL,17, T}rks.Ransbach  - SG Westerburg  F15:00
+OL,18, Burgschwalbach  - SG Berod       F15:00
+OL,19, SG M}schenbach  - VfB Wissen     F15:00
 OL,23,B]D                           Tabelle >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -125,7 +123,7 @@ PN,24606
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:12:29
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:13:34
 OL,1,Rppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,B]DSWR >>P5DFUSSBALL            P5      
 OL,3,R#########"######################"######

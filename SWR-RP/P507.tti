@@ -1,22 +1,45 @@
 DE,SWR-RP 507
-PN,50700
-SC,0000
-PS,8208
+PN,50701
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:21:14
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:21:50
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,            Autobahn A5,A571            
+OL,4,            Autobahn A5,A560            
 OL,6,CA5FKarlsruhe Richtung Basel            
-OL,7, zwischen Dreieck Weil am Rhein und     
-OL,8, Grenz}bergang Weil am Rhein/Basel 1 km 
-OL,9, Stau f}r LKW auf dem rechten           
-OL,10, Fahrstreifen                           
-OL,12,CA571FSinzig Richtung Ehlingen          
-OL,13, zwischen L|hndorf und ]bergang zur     
-OL,14, Ehlingen gesperrt, Verkehr wird        
-OL,15, abgeleitet, brennender PKW             
-OL,23,D]GStand:25.11. 01:21   ]bersicht 501 >>
+OL,7, zwischen Weil am Rhein/H}ningen und    
+OL,8, Grenz}bergang Weil am Rhein/Basel      
+OL,9, gesperrt, ortskundige Autofahrer werden
+OL,10, gebeten, das Gebiet weitr{umig zu      
+OL,11, umfahren, empfohlene Umleitung:        
+OL,12, Richtung Schaffhausen }ber A98         
+OL,14,CA5FKarlsruhe Richtung Basel            
+OL,15, zwischen Dreieck Weil am Rhein und     
+OL,16, Grenz}bergang Weil am Rhein/Basel 3 km 
+OL,17, Stau f}r LKW auf dem rechten           
+OL,18, Fahrstreifen                           
+OL,23,D]GStand:25.11. 11:18   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50702
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:21:50
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,            Autobahn A5,A560            
+OL,6,CA560FHennef Richtung Sankt Augustin    
+OL,7, zwischen Hennef (Sieg)-West und Kreuz  
+OL,8, Bonn/Siegburg gesperrt                 
+OL,10,CA560FHennef Richtung Sankt Augustin    
+OL,11, zwischen Kreuz Bonn/Siegburg und       
+OL,12, Dreieck Sankt Augustin-West 4 km Stau, 
+OL,13, stockender Verkehr, Zeitverlust von bis
+OL,14, zu 15 Minuten                          
+OL,23,D]GStand:25.11. 11:18   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

@@ -4,28 +4,28 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     802C|ro 25 lis  03:16:22
-OL,1,B]      @P i } k a   n o { n a     03:01
+OL,0,      BTVP1     802C|ro 25 lis  13:16:43
+OL,1,B]      @P i } k a   n o { n a     13:01
 OL,2,B]    @Mecze wg godz. rozpocz`cia       
-OL,3, San Jose E. - Houston Dynamo     B04:00
-OL,4,BGamba Osaka - Port FC             11:00
-OL,5, Kashima Antlers-Jeonbuk Hyundai MB11:00
-OL,6,BAvispa Fukuoka-Yokohama F.Marinos 11:00
-OL,7, JEF United Chiba - Nagoya GrampusB11:00
-OL,8,BFC Tokyo - Sanfrecce Hiroshima    11:00
-OL,9, Mito Hollyhock - Tokyo Verdy     B11:00
-OL,10,BFagiano Okayama - Shimizu S-Pulse 11:00
-OL,11, V-Varen Nagasaki-Kawasaki FrontalB11:00
-OL,12,BUrawa Reds - Cerezo Osaka         11:30
-OL,13, Sabah Baku U19 - FC Barcelona U19B12:00
-OL,14,BLegia Warszawa U19-Super Nova U19 12:00
-OL,15, Polonia \roda Wlkp. - Sok_}      B12:00
-OL,16,BShakhtar Donetsk U-Fenerbahce U19 13:00
-OL,17, Slavia Praga U19 - Villarreal U19B13:00
-OL,18,BDinamo Zagreb U19 - Benfica U19   13:00
-OL,19, Jagiellonia II - Widzew II ]_d~  B13:00
-OL,20,BLech II Pozna$ - Ba}tyk Koszalin  13:00
-OL,21, Radnicki Nis - Zeleznicar PancevoB13:00
+OL,3, V-Varen Nagasa-Kawasaki FrontaF1-2(1-1)
+OL,4,BFC Tokyo - Sanfrecce HiroshimaF2-2(0-1)
+OL,5, Mito Hollyhock - Tokyo Verdy  F1-0(0-0)
+OL,6,BUrawa Reds - Cerezo Osaka     E2-2(2-0)
+OL,7, Polonia \roda Wlkp. - Sok_}      E(1-0)
+OL,8,BSabah Baku U19 - FC Barcelona U19E(0-0)
+OL,9, Legia Warszawa U19-Super Nova U19E(1-0)
+OL,10,BShakhtar Donetsk U-Fenerbahce U19 13:00
+OL,11, Slavia Praga U19 - Villarreal U19B13:00
+OL,12,BDinamo Zagreb U19 - Benfica U19   13:00
+OL,13, Jagiellonia II - Widzew II ]_d~  B13:00
+OL,14,BLech II Pozna$ - Ba}tyk Koszalin  13:00
+OL,15, Radnicki Nis - Zeleznicar Pancevo  E0-0
+OL,16,BEkwador U17-Korea Po}udniowa U17  13:30
+OL,17, Uganda U17 - New Caledonia U17   B13:30
+OL,18,BSporting CP U19-Manchester Utd U1 14:00
+OL,19, Salzburg U19 - Crvena Zvezda U19 B14:00
+OL,20,BHaiti U17 - Arabia Saudyjska U17  14:30
+OL,21, Urugwaj U17 - Francja U17        B14:30
 OL,22,R
 OL,23,R
 OL,24,   A800      B801      C803      F804   
@@ -35,19 +35,73 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     802C|ro 25 lis  03:16:22
-OL,1,B]      @P i } k a   n o { n a     03:01
+OL,0,      BTVP1     802C|ro 25 lis  13:16:43
+OL,1,B]      @P i } k a   n o { n a     13:01
 OL,2,B]    @Mecze wg godz. rozpocz`cia       
-OL,3,BEkwador U17-Korea Po}udniowa U17  13:30
-OL,4, Uganda U17 - New Caledonia U17   B13:30
-OL,5,BSporting CP U19-Manchester Utd U1 14:00
-OL,6, Salzburg U19 - Crvena Zvezda U19 B14:00
-OL,7,BHaiti U17 - Arabia Saudyjska U17  14:30
-OL,8, Urugwaj U17 - Francja U17        B14:30
-OL,9,BKazma - Erbil                     15:00
-OL,10, Club Brugge U19 - Liverpool U19  B15:00
-OL,11,BInter U19 - VfB Stuttgart U19     15:00
-OL,12, OSC Lille U19-Bayern Munchen U19 B15:00
+OL,3,BClub Brugge U19 - Liverpool U19   15:00
+OL,4, Inter U19 - VfB Stuttgart U19    B15:00
+OL,5,BOSC Lille U19-Bayern Munchen U19  15:00
+OL,6, Grecja U17 - Katar U17           B15:30
+OL,7,BPanama U17 - Egypt U17            15:30
+OL,8, Kazma - Erbil                    B16:00
+OL,9,BAtletico Madryt U19 - Viking U19  16:00
+OL,10, PSG U19 - AS Roma U19            B16:00
+OL,11,BDinamo Tbilisi U19-Fiorentina U19 16:00
+OL,12, Australia U17 - Mozambik U17     B16:30
+OL,13,BDania U17 - Argentyna U17         16:30
+OL,14, HJK U19 - Stabaek U19            B17:00
+OL,15,BHradec Kralove U-Kairat Almaty U1 17:00
+OL,16, Sheriff Tiraspol-Maccabi Tel AvivB17:00
+OL,17,BSha'ab Hadramaut-Al Shabab (OMN)  17:30
+OL,18, Flora Tallinn III-St.Patricks U19B17:30
+OL,19,BResovia - \wit                    17:30
+OL,20, Hoffenheim U19 - PAOK U19        B18:00
+OL,21,BSabah - FC Barcelona              18:45
+OL,22,R
+OL,23,R
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80203
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP1     802C|ro 25 lis  13:16:43
+OL,1,B]      @P i } k a   n o { n a     13:01
+OL,2,B]    @Mecze wg godz. rozpocz`cia       
+OL,3, Slavia Praga - Villarreal        B18:45
+OL,4,BQatar SC - Al Nasr Dubai          19:00
+OL,5, Sporting Huelva (K) - Levante (K)B19:00
+OL,6,BCremonese - Avellino              19:00
+OL,7, Rangers U19 - AZ Alkmaar U19     B20:00
+OL,8,BMantova - Arezzo                  20:00
+OL,9, Padova - Sampdoria Genua         B20:00
+OL,10,BPisa - Modena                     20:00
+OL,11, Bolton Wanderers-West Bromwich AlB20:45
+OL,12,BBurnley - Birmingham City         20:45
+OL,13, Watford - Blackburn Rovers       B20:45
+OL,14,BStoke City - Millwall             21:00
+OL,15, Atletico Madryt - Viking         B21:00
+OL,16,BClub Brugge - Liverpool           21:00
+OL,17, Inter Mediolan - VfB Stuttgart   B21:00
+OL,18,BLille - Bayern M.                 21:00
+OL,19, PSG - AS Roma                    B21:00
+OL,20,BSzachtar Donieck - Fenerbahce     21:00
+OL,21, Sporting - Manchester Utd        B21:00
+OL,22,R
+OL,23,R
+OL,24,   A800      B801      C803      F804   
+FL,800,801,803,804,0,100
+PN,80204
+SC,0004
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP1     802C|ro 25 lis  13:16:43
+OL,1,B]      @P i } k a   n o { n a     13:01
+OL,2,B]    @Mecze wg godz. rozpocz`cia       
+OL,3,BAtletico Mineiro-MG - Corinthians 00:00
+OL,4, Boca Juniors - Indep. Rivadavia  B01:00
 OL,22,R
 OL,23,R
 OL,24,   A800      B801      C803      F804   

@@ -1,21 +1,51 @@
 DE,TEKSTI-TV 309
-PN,30900
-SC,0000
-PS,8108
+PN,30901
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       G309 YLE TEKSTI-TV 25.03.01:47:40
-OL,1,B]D        G]                   D   1/1 
-OL,2,B]DJIM     G]D    Tiistai 24.11.        
+OL,0,       G309 YLE TEKSTI-TV 25.03.11:48:03
+OL,1,B]D        G]                   D   1/2 
+OL,2,B]DJIM     G]D    Keskiviikko 25.11.    
 OL,3,R#########^W############################
-OL,4,G21.00GErikoisjoukot                    
-OL,5,G22.00GSami Kieksi - Digihuijaukset     
-OL,6,G23.00GSimpsonit (7)                    
-OL,7,G23.30GSimpsonit (7)                    
-OL,8,G00.00GStand Up Klubi                   
-OL,9,G01.00GPoliisit 2017 (S)                
-OL,10,G01.30GPoliisit 2017 (S)                
-OL,11,G02.00GAlaskan j{{lentokentt{           
-OL,12,G03.00GAustralian rajalla               
+OL,4,G11.00GMichelin-kokkien keitti|iss{     
+OL,5,G12.00GAmazing Race Suomi               
+OL,6,G14.20GSuomen huutokauppakeisari        
+OL,7,G15.20GIS esitt{{: Sain sen videolle    
+OL,8,G15.30GAlaskan j{{lentokentt{           
+OL,9,G16.30GMichelin-kokkien keitti|iss{     
+OL,10,G17.30GPoliisit 2017 (S)                
+OL,11,G18.00GPoliisit 2017 (S)                
+OL,12,G18.30GPoliisit 2017 (S)                
+OL,13,G19.00GSimpsonit (12)                   
+OL,14,G19.30GSimpsonit (12)                   
+OL,15,G20.00GAmerikan kovimmat ker{ilij{t     
+OL,16,G21.00GPoliisit 24/7                    
+OL,17,G21.35GPoliisit 24/7                    
+OL,18,G22.05GKuppilat kuntoon, Kape Aihinen!  
+OL,19,G23.05GSimpsonit (12)                   
+OL,20,G23.35GSimpsonit (12)                   
+OL,21,G00.05GKuppilat kuntoon, Gordon Ramsay! 
+OL,22,G01.00GPoliisit 2017 (S)                
+OL,23,B]D    TV-ohjelmien hakemisto s.D300    
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,30902
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       G309 YLE TEKSTI-TV 25.03.11:48:03
+OL,1,B]D        G]                   D   2/2 
+OL,2,B]DJIM     G]D    Keskiviikko 25.11.    
+OL,3,R#########^W############################
+OL,4,G22.05GKuppilat kuntoon, Kape Aihinen!  
+OL,5,G23.05GSimpsonit (12)                   
+OL,6,G23.35GSimpsonit (12)                   
+OL,7,G00.05GKuppilat kuntoon, Gordon Ramsay! 
+OL,8,G01.00GPoliisit 2017 (S)                
+OL,9,G01.30GPoliisit 2017 (S)                
+OL,10,G02.00GAlaskan j{{lentokentt{           
+OL,11,G03.00GAustralian rajalla               
+OL,12,G03.30GAustralian rajalla               
 OL,13,K                                       
 OL,14,K                                       
 OL,15,K                                       
@@ -26,6 +56,6 @@ OL,19,K
 OL,20,K                                       
 OL,21,K                                       
 OL,22,K                                       
-OL,23,B]D    TV-ohjelmien hakemisto s.D300    
+OL,23,G]D    TV-ohjelmien hakemisto s.D300    
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

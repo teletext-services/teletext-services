@@ -3,38 +3,42 @@ PN,50801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:21:18
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:21:54
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,             Autobahn A6,A61            
-OL,6,CA6FHeilbronn Richtung N}rnberg         
-OL,7, zwischen Schnelldorf und Kreuz         
-OL,8, Feuchtwangen/Crailsheim Gefahr durch   
-OL,9, brennendes Fahrzeug, Richtungsfahrbahn 
-OL,10, gesperrt, ortskundige Autofahrer werden
-OL,11, gebeten, das Gebiet weitr{umig zu      
-OL,12, umfahren, bis heute 04:00 Uhr          
-OL,14,CA6FHeilbronn Richtung N}rnberg         
-OL,15, zwischen Feuchtwangen-Nord und Aurach  
-OL,16, Nachtbaustelle, rechter Fahrstreifen   
-OL,17, gesperrt, bis heute 05:00 Uhr          
-OL,23,D]GStand:25.11. 01:21   ]bersicht 501 >>
+OL,4,       Autobahn A61,A620,A623,A65       
+OL,6,CA61FLudwigshafen Richtung Koblenz      
+OL,7, zwischen Stromberg und Rastst{tte      
+OL,8, Hunsr}ck Ost Gefahr durch ungesicherte 
+OL,9, Unfallstelle auf dem rechten           
+OL,10, Fahrstreifen                           
+OL,12,CA61FM|nchengladbach Richtung Koblenz   
+OL,13, zwischen Dreieck Sinzig und            
+OL,14, Niederzissen Unfall, 6 km Stau,        
+OL,15, Zeitverlust von bis zu 25 Minuten      
+OL,17,CA620FSaarlouis Richtung Saarbr}cken    
+OL,18, Ausfahrt Saarbr}cken-Sch|nbach         
+OL,19, gesperrt, Baustelle, M{harbeiten       
+OL,23,D]GStand:25.11. 11:18   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,50802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G01:21:18
+OL,0,       BSWR RLPC   Mi, 25.11.26G11:21:54
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,             Autobahn A6,A61            
-OL,6,CA61FM|nchengladbach Richtung Koblenz   
-OL,7, in H|he Rastst{tte Brohltal West       
-OL,8, Gefahr durch defektes Fahrzeug auf dem 
-OL,9, linken Fahrstreifen                    
-OL,23,D]GStand:25.11. 01:18   ]bersicht 501 >>
+OL,4,       Autobahn A61,A620,A623,A65       
+OL,6,CA623FGr}hlingsstra~e, Friedrichsthal   
+OL,7,FRichtung Saarbr}cken                   
+OL,8, Einfahrt Saarbr}cken-Herrensohr Gefahr 
+OL,9, durch ungesicherte Unfallstelle        
+OL,11,CA65FLandau Richtung Ludwigshafen       
+OL,12, zwischen Ha~loch und Kreuz Mutterstadt 
+OL,13, 2 km stockender Verkehr                
+OL,23,D]GStand:25.11. 11:18   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

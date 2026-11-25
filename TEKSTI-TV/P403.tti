@@ -3,10 +3,10 @@ PN,40301
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G403 YLE TEKSTI-TV 25.03.01:49:51
-OL,1,FSH ` IG                            1/5 
-OL,2,F] Q~4 D Ilmatieteen laitos 24.11.      
-OL,3,D] W5 G Meris{{ennuste klo 21.00       
+OL,0,       G403 YLE TEKSTI-TV 25.03.11:50:16
+OL,1,FSH ` IG                            1/3 
+OL,2,F] Q~4 D Ilmatieteen laitos 25.11.      
+OL,3,D] W5 G Meris{{ennuste klo 12.00       
 OL,4,Q  "##                                  
 OL,5,K                                       
 OL,6,GVaroitukset merialueilla               
@@ -15,17 +15,17 @@ OL,8,GEi varoituksia.
 OL,9,K                                       
 OL,10,GS{{ennuste seuraavalle 24 tunnille     
 OL,11,K                                       
-OL,12,GSkandinaviassa ja Norjanmerell{ on     
-OL,13,Gkorkeapaine, matalapaine Ven{j{ll{.    
-OL,14,GSuomessa tuuli k{y enimm{kseen         
-OL,15,Gpohjoisesta.                           
-OL,16,K                                       
-OL,17,FSuomenlahden it{osa:GV{hitellen        
-OL,18,Gheikkenev{{ pohjoistuulta, aluksiC9-14 
-OL,19,Cm/s,Gaamup{iv{st{ alkaen 7-11 m/s.     
-OL,20,GAluksi paikoin vesi- tai r{nt{kuuroja, 
-OL,21,Genimm{kseen hyv{ n{kyvyys.             
-OL,22,K                                       
+OL,12,GSkandinaviassa on korkeapaine,         
+OL,13,GVen{j{ll{ matalapaine. Suomessa tuuli  
+OL,14,Gk{y enimm{kseen pohjoisesta.           
+OL,15,K                                       
+OL,16,FSuomenlahden it{osa:GVoimistuvaa       
+OL,17,Gpohjoisen ja luoteen v{list{ tuulta,   
+OL,18,Galuksi 7-9 m/s, aamuy|st{ alkaen 8-13  
+OL,19,Gm/s. Hyv{ n{kyvyys.                    
+OL,20,K                                       
+OL,21,FSuomenlahden l{nsiosa:GPohjoistuulta 7-
+OL,22,G12 m/s. Hyv{ n{kyvyys.                 
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -33,119 +33,59 @@ PN,40302
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G403 YLE TEKSTI-TV 25.03.01:49:51
-OL,1,FSH ` IG                            2/5 
-OL,2,F] Q~4 D Ilmatieteen laitos 24.11.      
-OL,3,D] W5 G Meris{{ennuste klo 21.00       
+OL,0,       G403 YLE TEKSTI-TV 25.03.11:50:16
+OL,1,FSH ` IG                            2/3 
+OL,2,F] Q~4 D Ilmatieteen laitos 25.11.      
+OL,3,D] W5 G Meris{{ennuste klo 12.00       
 OL,4,Q  "##                                  
 OL,5,K                                       
-OL,6,FSuomenlahden l{nsiosa:GV{hitellen      
-OL,7,Gheikkenev{{ pohjoistuulta, aluksiC9-14 
-OL,8,Cm/s,Gaamup{iv{st{ alkaen 6-11 m/s. Hyv{
-OL,9,Gn{kyvyys.                              
+OL,6,FPohjois-It{meren it{osa:GVoimistuvaa   
+OL,7,Gpohjoisen ja koillisen v{list{ tuulta, 
+OL,8,Galuksi 5-7 m/s, iltay|st{ alkaen 8-13  
+OL,9,Gm/s. Hyv{ n{kyvyys.                    
 OL,10,K                                       
-OL,11,FPohjois-It{meren it{osa:GPohjoisen ja  
-OL,12,Gkoillisen v{list{ tuulta 6-10 m/s.     
-OL,13,GIltap{iv{st{ alkaen voimistuvaa tuulta,
-OL,14,Gillalla 8-13 m/s. Hyv{ n{kyvyys.       
-OL,15,K                                       
-OL,16,FPohjois-It{meren l{nsiosa:GPohjoisen ja
-OL,17,Gkoillisen v{list{ tuulta 6-9 m/s. Hyv{ 
-OL,18,Gn{kyvyys.                              
-OL,19,K                                       
-OL,20,FAhvenanmeri:GPohjoisen ja koillisen    
-OL,21,Gv{list{ tuulta 6-9 m/s. Aamup{iv{ll{   
-OL,22,Gvoimistuvaa tuulta, iltap{iv{st{ alkaen
-OL,23,G7-12 m/s. Hyv{ n{kyvyys.               
+OL,11,FPohjois-It{meren l{nsiosa:             
+OL,12,GPohjoistuulta 6-10 m/s. Hyv{ n{kyvyys. 
+OL,13,K                                       
+OL,14,FAhvenanmeri:GPohjoistuulta 7-12 m/s.   
+OL,15,GIltap{iv{ll{ ja illalla paikoin vesi-  
+OL,16,Gtai r{nt{kuuroja, enimm{kseen hyv{     
+OL,17,Gn{kyvyys.                              
+OL,18,K                                       
+OL,19,FSaaristomeri:GPohjoistuulta 5-9 m/s.   
+OL,20,GHyv{ n{kyvyys.                         
+OL,21,K                                       
+OL,22,FSelk{meren etel{osa:GPohjoistuulta 7-11
+OL,23,Gm/s. Hyv{ n{kyvyys.                    
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,40303
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G403 YLE TEKSTI-TV 25.03.01:49:51
-OL,1,FSH ` IG                            3/5 
-OL,2,F] Q~4 D Ilmatieteen laitos 24.11.      
-OL,3,D] W5 G Meris{{ennuste klo 21.00       
+OL,0,       G403 YLE TEKSTI-TV 25.03.11:50:16
+OL,1,FSH ` IG                            3/3 
+OL,2,F] Q~4 D Ilmatieteen laitos 25.11.      
+OL,3,D] W5 G Meris{{ennuste klo 12.00       
 OL,4,Q  "##                                  
 OL,5,K                                       
-OL,6,FSaaristomeri:GPohjoisen ja koillisen   
-OL,7,Gv{list{ tuulta 5-9 m/s. Hyv{ n{kyvyys. 
+OL,6,FSelk{meren pohjoisosa:GPohjoistuulta 6-
+OL,7,G11 m/s. Hyv{ n{kyvyys.                 
 OL,8,K                                       
-OL,9,FSelk{meren etel{osa:GPohjoisen ja      
-OL,10,Gkoillisen v{list{ tuulta 8-13 m/s.     
-OL,11,GIllalla pohjoisen ja luoteen v{lille   
-OL,12,Gk{{ntyv{{ tuulta. Hyv{ n{kyvyys.       
-OL,13,K                                       
-OL,14,FSelk{meren pohjoisosa:GPohjoistuulta 7-
-OL,15,G12 m/s. Aamuy|st{ alkaen heikkenev{{   
-OL,16,Gtuulta, aamup{iv{ll{ 6-9 m/s. Hyv{     
-OL,17,Gn{kyvyys.                              
-OL,18,K                                       
-OL,19,FMerenkurkku:GHeikkenev{{ pohjoistuulta 
-OL,20,G6-11 m/s, aamulla pohjoisen ja luoteen 
-OL,21,Gv{lille k{{ntyv{{ tuulta. Hyv{         
-OL,22,Gn{kyvyys.                              
-OL,23,K                                       
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,40304
-SC,0004
-PS,C100
-CT,15,T
-OL,0,       G403 YLE TEKSTI-TV 25.03.01:49:51
-OL,1,FSH ` IG                            4/5 
-OL,2,F] Q~4 D Ilmatieteen laitos 24.11.      
-OL,3,D] W5 G Meris{{ennuste klo 21.00       
-OL,4,Q  "##                                  
-OL,5,K                                       
-OL,6,FPer{meren etel{osa:GPohjoistuulta 5-9  
-OL,7,Gm/s. Aamuy|st{ alkaen v{hitellen       
-OL,8,Gvoimistuvaa tuulta, illalla 9-13 m/s.  
-OL,9,GHyv{ n{kyvyys.                         
-OL,10,K                                       
-OL,11,FPer{meren pohjoisosa:GV{hitellen       
-OL,12,Gvoimistuvaa pohjoisen ja luoteen       
-OL,13,Gv{list{ tuulta, aluksi 4-6 m/s,        
-OL,14,Gaamup{iv{st{ alkaen 9-13 m/s. Hyv{     
+OL,9,FMerenkurkku:GPohjoistuulta 6-11 m/s.   
+OL,10,GHyv{ n{kyvyys.                         
+OL,11,K                                       
+OL,12,FPer{meren etel{osa:GPohjoistuulta 8-13 
+OL,13,Gm/s. Iltay|st{ alkaen heikkenev{{      
+OL,14,Gtuulta, aamup{iv{ll{ 7-9 m/s. Hyv{     
 OL,15,Gn{kyvyys.                              
 OL,16,K                                       
-OL,17,FSaimaa:GPohjoistuulta 5-9 m/s. Illalla 
-OL,18,Gluoteeseen k{{ntyv{{ tuulta. Aluksi    
-OL,19,Gpaikoin heikkoa lumisadetta,           
-OL,20,Genimm{kseen hyv{ n{kyvyys.             
+OL,17,FPer{meren pohjoisosa:GPohjoistuulta 8- 
+OL,18,G13 m/s. Iltay|st{ alkaen heikkenev{{   
+OL,19,Gtuulta, aamup{iv{ll{ 7-10 m/s. Hyv{    
+OL,20,Gn{kyvyys.                              
 OL,21,K                                       
-OL,22,GS{{tiedotus 2 vrk merenkulkijoille     
-OL,23,G24.11.2026 klo 19                      
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,40305
-SC,0005
-PS,C100
-CT,15,T
-OL,0,       G403 YLE TEKSTI-TV 25.03.01:49:51
-OL,1,FSH ` IG                            5/5 
-OL,2,F] Q~4 D Ilmatieteen laitos 24.11.      
-OL,3,D] W5 G Meris{{ennuste klo 21.00       
-OL,4,Q  "##                                  
-OL,5,K                                       
-OL,6,GOdotettavissa keskiviikkoillasta       
-OL,7,Gtorstai-iltaan:  Kaikilla merialueilla:
-OL,8,GPohjoisenpuoleista tuulta alleC14 m/s. 
-OL,9,K                                       
-OL,10,K                                       
-OL,11,K                                       
-OL,12,K                                       
-OL,13,K                                       
-OL,14,K                                       
-OL,15,K                                       
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,K                                       
+OL,22,FSaimaa:GPohjoisen ja luoteen v{list{   
+OL,23,Gtuulta 5-9 m/s. Hyv{ n{kyvyys.         
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

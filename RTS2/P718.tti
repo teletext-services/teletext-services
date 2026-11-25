@@ -3,54 +3,78 @@ PN,71801
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 2     24.11.26 23:41:04
-OL,1,D]GRTS 1     ]D@Le sport @ la RTS   1/9 
+OL,0,       G718  RTS 2     25.11.26 09:41:57
+OL,1,D]GRTS 1     ]D@Le sport @ la RTS   1/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
-OL,5,Cmercredi 25 novembre                   
-OL,6,ARTS2C20:10GFootball                    
-OL,7,           GUEFA Champions League       
-OL,8,           GInter Milan - VfB Stuttgart 
-OL,9,           GEn direct de Milan (ITA)    
-OL,11,ARTS2C23:36GZap RTS Sport               
-OL,13,Cjeudi 26 novembre                      
-OL,14,ARTS2C16:10GBiathlon                    
-OL,15,           GCoupe du monde              
-OL,16,           G20km individuel Messieurs   
-OL,17,           GEn direct de Kontiolahti    
-OL,18,           G(FIN)                       
+OL,5,Cjeudi 26 novembre                      
+OL,6,ARTS2C16:10GBiathlon                    
+OL,7,           GCoupe du monde              
+OL,8,           G20km individuel Messieurs   
+OL,9,           GEn direct de Kontiolahti    
+OL,10,           G(FIN)                       
+OL,12,ARTS2C17:50GBasketball                  
+OL,13,           GFIBA Eurobasket 2029 Pre-   
+OL,14,           GQualifiers                  
+OL,15,           GSlovaquie - Suisse          
+OL,16,           GEn direct de Bratislava     
+OL,17,           G(SVK)                       
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,71802
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 2     24.11.26 23:41:04
-OL,1,D]GRTS 1     ]D@Le sport @ la RTS   2/9 
+OL,0,       G718  RTS 2     25.11.26 09:41:57
+OL,1,D]GRTS 1     ]D@Le sport @ la RTS   2/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
-OL,5,ARTS2C17:50GBasketball                  
-OL,6,           GFIBA Eurobasket 2029 Pre-   
-OL,7,           GQualifiers                  
-OL,8,           GSlovaquie - Suisse          
-OL,9,           GEn direct de Bratislava     
-OL,10,           G(SVK)                       
-OL,12,ARTS2C18:35GFootball                    
-OL,13,           GUEFA Conf#rence League      
-OL,14,           GAjax Amsterdam - FC Thoune  
-OL,15,           GEn direct d'Amsterdam (NED) 
-OL,17,ARTS2C22:30GZap RTS Sport               
-OL,19,Csamedi 28 novembre                     
-OL,20,ARTS2C10:50GAdr#naline                  
-OL,21,           GMagazine de sports extr\mes 
+OL,5,ARTS2C18:35GFootball                    
+OL,6,           GUEFA Conf#rence League      
+OL,7,           GAjax Amsterdam - FC Thoune  
+OL,8,           GEn direct d'Amsterdam (NED) 
+OL,10,ARTS2C22:30GZap RTS Sport               
+OL,12,Cvendredi 27 novembre                   
+OL,13,ARTS2C10:25GSki nordique                
+OL,14,           GCoupe du monde              
+OL,15,           G10 km Classique Dames       
+OL,16,           GEn direct de Ruka (FIN)     
+OL,18,ARTS2C12:55GSki nordique                
+OL,19,           GCoupe du monde              
+OL,20,           G10 km Classique Messieurs   
+OL,21,           GEn direct de Ruka (FIN)     
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,71803
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 2     24.11.26 23:41:04
-OL,1,D]GRTS 1     ]D@Le sport @ la RTS   3/9 
+OL,0,       G718  RTS 2     25.11.26 09:41:57
+OL,1,D]GRTS 1     ]D@Le sport @ la RTS   3/10
+OL,2,A]GRTS 2     ] @                        
+OL,3,G]           ]A                         
+OL,5,G                                       
+OL,6,ARTS2C16:10GBiathlon                    
+OL,7,           GCoupe du monde              
+OL,8,           G15km individuel Dames       
+OL,9,           GEn direct de Kontiolahti    
+OL,10,           G(FIN)                       
+OL,12,ARTS2C18:40GFreestyle                   
+OL,13,           GCoupe du monde              
+OL,14,           GBig Air                     
+OL,15,           GEn direct d'Innsbruck (AUT) 
+OL,17,ARTS2C22:40GZap RTS Sport               
+OL,19,Csamedi 28 novembre                     
+OL,20,ARTS2C10:50GAdr#naline                  
+OL,21,           GMagazine de sports extr\mes 
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,71804
+SC,0004
+PS,C080
+CT,8,T
+OL,0,       G718  RTS 2     25.11.26 09:41:57
+OL,1,D]GRTS 1     ]D@Le sport @ la RTS   4/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
 OL,5,G                                       
@@ -69,12 +93,12 @@ OL,19,           GSprint Moto GP
 OL,20,           GEn direct de Valence (ESP)  
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
-PN,71804
-SC,0004
+PN,71805
+SC,0005
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 2     24.11.26 23:41:04
-OL,1,D]GRTS 1     ]D@Le sport @ la RTS   4/9 
+OL,0,       G718  RTS 2     25.11.26 09:41:57
+OL,1,D]GRTS 1     ]D@Le sport @ la RTS   5/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
 OL,5,ARTS2C15:20GSki alpin                   
@@ -94,12 +118,12 @@ OL,20,           GEn direct de Copper Mountain
 OL,21,           G(USA)                       
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
-PN,71805
-SC,0005
+PN,71806
+SC,0006
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 2     24.11.26 23:41:04
-OL,1,D]GRTS 1     ]D@Le sport @ la RTS   5/9 
+OL,0,       G718  RTS 2     25.11.26 09:41:57
+OL,1,D]GRTS 1     ]D@Le sport @ la RTS   6/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
 OL,5,G                                       
@@ -116,12 +140,12 @@ OL,18,           G20km Mass Start Dames
 OL,19,           GEn direct de Ruka (FIN)     
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
-PN,71806
-SC,0006
+PN,71807
+SC,0007
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 2     24.11.26 23:41:04
-OL,1,D]GRTS 1     ]D@Le sport @ la RTS   6/9 
+OL,0,       G718  RTS 2     25.11.26 09:41:57
+OL,1,D]GRTS 1     ]D@Le sport @ la RTS   7/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
 OL,5,ARTS2C12:55GAdr#naline                  
@@ -137,12 +161,12 @@ OL,16,           GEn direct de Killington
 OL,17,           G(USA)                       
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
-PN,71807
-SC,0007
+PN,71808
+SC,0008
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 2     24.11.26 23:41:04
-OL,1,D]GRTS 1     ]D@Le sport @ la RTS   7/9 
+OL,0,       G718  RTS 2     25.11.26 09:41:57
+OL,1,D]GRTS 1     ]D@Le sport @ la RTS   8/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
 OL,5,ARTS2C17:50GSki alpin                   
@@ -158,12 +182,12 @@ OL,16,           GEn direct de Killington
 OL,17,           G(USA)                       
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
-PN,71808
-SC,0008
+PN,71809
+SC,0009
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 2     24.11.26 23:41:04
-OL,1,D]GRTS 1     ]D@Le sport @ la RTS   8/9 
+OL,0,       G718  RTS 2     25.11.26 09:41:57
+OL,1,D]GRTS 1     ]D@Le sport @ la RTS   9/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
 OL,5,ARTS2C20:50GSki alpin                   
@@ -180,17 +204,26 @@ OL,19,FRTS1C01:55GSport dimanche
 OL,21,ARTS2C03:35GSport dimanche              
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
-PN,71809
-SC,0009
+PN,71810
+SC,0010
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 2     24.11.26 23:41:04
-OL,1,D]GRTS 1     ]D@Le sport @ la RTS   9/9 
+OL,0,       G718  RTS 2     25.11.26 09:41:57
+OL,1,D]GRTS 1     ]D@Le sport @ la RTS  10/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
 OL,5,G                                       
 OL,6,Clundi 30 novembre                      
 OL,7,ARTS2C12:25GSport dimanche              
 OL,9,ARTS2C23:15GZap RTS Sport               
+OL,11,Cmardi 1 d#cembre                       
+OL,12,ARTS2C11:55GNatation                    
+OL,13,           GChampionnats du monde       
+OL,14,           GEn direct de P#kin (CHN)    
+OL,16,ARTS2C18:45GFootball                    
+OL,17,           GQualifications Coupe du     
+OL,18,           GMonde FIFA 2027             
+OL,19,           GSuisse - Autriche           
+OL,20,           GEn direct de Berne          
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

@@ -1,20 +1,67 @@
 DE,ORF2 431
-PN,43100
-SC,0000
-PS,8208
+PN,43101
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G431FORF2   GDi 24.11.26 22:31:10
+OL,0,       G431FORF2   GMi 25.11.26 08:31:47
 OL,1,A]G              ARB\-Verkehrsmeldungen 
-OL,2,A]GMOTOR  ]A            24.11., 22:30h \
-OL,3,Q#########G                             
+OL,2,A]GMOTOR  ]A            25.11., 08:31h \
+OL,3,Q#########G                        1/3  
 OL,4,FKettenpflicht f}r Fahrzeuge ab 3,5t:   
 OL,5,G* B23, Lahnsattel Str., zw. Frein an   
 OL,6,G  der M}rz u. Terz                     
-OL,8,GAuf den Hauptverbindungen herrscht     
-OL,9,Gderzeit st|rungsfreies                 
-OL,10,GVerkehrsaufkommen.                     
+OL,8,GA7, M}hlkreis-AB, FR West-AB, ab       
+OL,9,GTreffling, Stau u. bis zu 20 min       
+OL,10,GZeitverlust (]berlastung)              
+OL,12,GA9, Pyhrn-AB, FR Voralpenkreuz, ab     
+OL,13,GWundschuh, Stau u. bis zu 10 min       
+OL,14,GZeitverlust (]berlastung)              
+OL,16,GA23, S}dostt., FR Inzersdorf, zw. Kn.  
+OL,17,GHirschstetten u. Kn. Prater, Stau u.   
+OL,18,Gbis zu 15 min Zeitverlust (]berlastung)
 OL,21,A]GKeine Reise ohne ARB\-Sicherheits-   
 OL,22,A]GPass - dem Rundum-Schutz f}r Auto    
 OL,23,A]Gund Familie!C>>arboe.at              
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,43102
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G431FORF2   GMi 25.11.26 08:31:47
+OL,1,A]G              ARB\-Verkehrsmeldungen 
+OL,2,A]GMOTOR  ]A            25.11., 08:31h \
+OL,3,Q#########G                        2/3  
+OL,4,GA25, Welser-AB, FR Wels, zw. Kn. Haid  
+OL,5,Gu. Wei~kirchen / Marchtrenk-Ost, Stau  
+OL,6,Gu. bis zu 30 min Zeitverlust (ger{umte 
+OL,7,GUnfallstelle)                          
+OL,9,GB3, Donau Str., FR Linz, H|he Pulgarn, 
+OL,10,GStau u. bis zu 15 min Zeitverlust      
+OL,11,G(]berlastung)                          
+OL,13,GB1, Wiener Str., FR Linz, zw. Pichling 
+OL,14,Gu. Mona Lisa Tunnel, Stau u. bis zu 10 
+OL,15,Gmin Zeitverlust (]berlastung)          
+OL,17,GB15, Mannersdorfer Str., FR            
+OL,18,GLeopoldsdorf, bei Himberg, Stau u. bis 
+OL,19,Gzu 15 min Zeitverlust (]berlastung)    
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,43103
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       G431FORF2   GMi 25.11.26 08:31:47
+OL,1,A]G              ARB\-Verkehrsmeldungen 
+OL,2,A]GMOTOR  ]A            25.11., 08:31h \
+OL,3,Q#########G                        3/3  
+OL,4,GB137, Innviertler Str., beide FR, zw.  
+OL,5,GAndorf u. Zell an der Pram, Sperre     
+OL,6,G(Unfall)                               
+OL,8,GLinz: Unionstr., stadteinw{rts, bei A7 
+OL,9,GZubringer Unionstr., Stau u. bis zu 40 
+OL,10,Gmin Zeitverlust (]berlastung)          
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

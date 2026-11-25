@@ -3,24 +3,24 @@ PN,19801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F20:31:03
+OL,0,           Fhr-textGMi 25.11.26F06:31:17
 OL,1,      Q      }0      C  Sonnenaufgang  
 OL,2,Q          tS`~       FKasselG Ffm 
-OL,3,Q       o^T|S   _GDi F07:53G07:52
-OL,4,Q        +^T|S}0 _GMi F07:55G07:53
-OL,5,R|||p   ^Q"#ThOQ}0   _GDo F07:57G07:55
-OL,6,Rt     Tj^Q0  _GFr F07:58G07:56
-OL,7,R4    Tz^Q  _GSa F08:00G07:58
-OL,8,R    T^Q+/'  _GSo F08:01G07:59
-OL,9,R||so   Th}0    GMo F08:02G08:00
+OL,3,Q       o^T|S   _GMi F07:55G07:53
+OL,4,Q        +^T|S}0 _GDo F07:57G07:55
+OL,5,R|||p   ^Q"#ThOQ}0   _GFr F07:58G07:56
+OL,6,Rt     Tj^Q0  _GSa F08:00G07:58
+OL,7,R4    Tz^Q  _GSo F08:01G07:59
+OL,8,R    T^Q+/'  _GMo F08:02G08:00
+OL,9,R||so   Th}0    GDi F08:04G08:02
 OL,10,Ruo7  T`t C  Sonnenuntergang
-OL,11,R//j% Tx4  GDi F16:22G16:31
-OL,12,R|;5 ^Up|T*/// _GMi F16:21G16:3
-OL,13,R^U||||T  _GDo F16:21G16:29
-OL,14,Ry<U*7   GFr F16:20G16:28
-OL,15,R! U *'    GSa F16:19G16:27
-OL,16,U     *%     GSo F16:18G16:27
-OL,17,U      "o'      GMo F16:18G16:26
+OL,11,R//j% Tx4  GMi F16:21G16:30
+OL,12,R|;5 ^Up|T*/// _GDo F16:21G16:2
+OL,13,R^U||||T  _GFr F16:20G16:28
+OL,14,Ry<U*7   GSa F16:19G16:27
+OL,15,R! U *'    GSo F16:18G16:27
+OL,16,U     *%     GMo F16:18G16:26
+OL,17,U      "o'      GDi F16:17G16:25
 OL,18,U        +%           S ppp       
 OL,19,U T`pp   U"+o7    S      x~}t Z  
 OL,20,Tx~t0  S +}0    Tx|pSzuTp|
@@ -33,27 +33,27 @@ PN,19802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGDi 24.11.26F20:31:03
+OL,0,           Fhr-textGMi 25.11.26F06:31:17
 OL,1,             C * *M*     FMondaufgang   
 OL,3,  V p|?!  C*    *           KasselGFfm. 
-OL,4,V `~!C      *   *     GDi C15:40G15:51
-OL,5,V ~7 C         *  *   GMi C16:29G16:41
-OL,6,Vj%                  GDo C17:38G17:50
-OL,7,V T   ppp     ppp   GFr C19:02G19:12
-OL,8,Vo     T#+o?'#    GSa C20:31G20:41
-OL,9,V*4   Sx|tTo?Sx|t   GSo C22:00G22:07
-OL,10,V ku  Sjuz5   juz5  GMo C23:24G23:29
+OL,4,V `~!C      *   *     GMi C16:29G16:41
+OL,5,V ~7 C         *  *   GDo C17:38G17:50
+OL,6,Vj%                  GFr C19:02G19:12
+OL,7,V T   ppp     ppp   GSa C20:31G20:41
+OL,8,Vo     T#+o?'#    GSo C22:00G22:07
+OL,9,V*4   Sx|tTo?Sx|t   GMo C23:24G23:29
+OL,10,V ku  Sjuz5   juz5  GDi C-----G-----
 OL,11,  V#/t S"o?!MVL"o?!  FMMonduntergang 
 OL,12,S V     S                               
-OL,13,         Tx^ZjxxzYj}0  _GDi C08:02G07:
-OL,14,      T  h^ZjzzzYj}  _GMi C09:28G09:2
-OL,15,        Tj^ZjzzzYj  _GDo C10:38G10:3
-OL,16,Tppp     j^ZjzzzYj  _GFr C11:29G11:2
-OL,17,T    j^ZjzzzYj  _GSa C12:04G12:0
-OL,18,T5    "^ZjzzzYj7  _GSo C12:28G12:2
-OL,19,T     k^ZjzzzYj!  _GMo C12:45G12:
-OL,20,T     "^ZjzzzYj7  `_F24. November 
-OL,21,T0   Z  #+////#! Yx?FVollmond       
+OL,13,         Tx^ZjxxzYj}0  _GMi C09:28G09:
+OL,14,      T  h^ZjzzzYj}  _GDo C10:38G10:3
+OL,15,        Tj^ZjzzzYj  _GFr C11:29G11:2
+OL,16,Tppp     j^ZjzzzYj  _GSa C12:04G12:0
+OL,17,T    j^ZjzzzYj  _GSo C12:28G12:2
+OL,18,T5    "^ZjzzzYj7  _GMo C12:45G12:4
+OL,19,T     k^ZjzzzYj!  _GDi C13:00G13:
+OL,20,T     "^ZjzzzYj7  `_F01. Dezember 
+OL,21,T0   Z  #+////#! Yx?FLetztes Viertel
 OL,22,T///^Sjoo joT*////////////////
 OL,23,T~C UV-Index 183        T+}0CSonne >>
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport

@@ -4,28 +4,27 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  808C|ro 25 lis  02:50:17
-OL,1,C]          @T e n i s             02:23
+OL,0,      BPOLONIA  808C|ro 25 lis  12:51:16
+OL,1,C]          @T e n i s             10:25
 OL,2,C]    @Wyniki zako$czonych spotka$      
-OL,3, A.SantillanF0:1BC.Langmo               
-OL,4,CN.PodoroskaF2:0GL.R.Gormaz     C7:6 6:0
-OL,5,CCzechy GKanada                         
-OL,6, P.HercogF0:1BS.Costoulas       C2:6 2:4
-OL,7,BS.SierraF1:0GV.Jimenez     C1:6 7:6 2:0
-OL,8,CJ.LeheckaF2:0GF.Auger-AliassimeC7:6 6:2
-OL,9, L.AyalaF0:2CI.Burillo           2:6 2:6
-OL,10, A.G.MezaF0:2CG.Olivieri         3:6 3:6
-OL,11,CM.A.GurriF2:0GG.Villanueva     C6:4 6:3
-OL,12, A.ChepelevF0:2CE.Ribeiro        4:6 4:6
-OL,13,CT.MachacF2:1GL.Draxl       C6:2 3:6 6:2
-OL,14, L.BronzettiF0:2CA.H.Linana      1:6 2:6
-OL,15,CG.MaristanyF2:0GL.M.Cinalli    C6:1 6:1
-OL,16,CR.NijboerF2:0GB.Fernandez      C6:4 6:3
-OL,17, D.D.d.SilvaF0:2CF.Roncadelli    4:6 0:6
-OL,18, Z.KulambayevaF0:2CV.Erjavec     2:6 4:6
-OL,19, V.BosioF0:2CL.Samson            4:6 2:6
-OL,20, L.RattiF1:2CJ.A.Cardozo     2:6 6:2 3:6
-OL,21,CO.JasikaF2:0GE.Zhu             C6:1 6:1
+OL,3,F0GDev / Sinha                      C6 2
+OL,4,F2 CChun / Hsieh                     7 6
+OL,5,F2CChandraseka / Loof                6 6
+OL,6,F0 GHsu / Leong                     C1 4
+OL,7,F2CBittoun / Poljak                  6 6
+OL,8,F0 GImamura / Matsuda               C2 3
+OL,9,F0GLai / Sakellaridis               C5 1
+OL,10,F2 CBass / Duncan                    7 6
+OL,11,F1GCu / Ho                       C6 4  5
+OL,12,F2 CIsomura / Shiraishi           2 6 10
+OL,13,F2CJones / Sanada                    6 6
+OL,14,F0 GMasabayash / M.K                C0 3
+OL,15, K.SamrejF0:1BO.Milic       C7:6 5:7 6:6
+OL,16,F0GIchikawa / Shimizu               C6 4
+OL,17,F2 CJecan / Kielan                   7 6
+OL,18,CM.ImamuraF2:1GC.Yunseong   C6:3 3:6 7:5
+OL,19,F2CHazawa / Sueoka                2 7 10
+OL,20,F1 GEllis / Tu                   C6 5  6
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C802      F803   
@@ -35,27 +34,56 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BPOLONIA  808C|ro 25 lis  02:50:17
-OL,1,C]          @T e n i s             02:23
+OL,0,      BPOLONIA  808C|ro 25 lis  12:51:16
+OL,1,C]          @T e n i s             10:25
 OL,2,C]    @Wyniki zako$czonych spotka$      
-OL,3,F0GAyeni / Sousou                   C2 2
-OL,4,F2 CAguiard / Hoole                  6 6
-OL,5, H.SataraF1:2CJ.Kubler       4:6 6:3 3:6
-OL,6,CD.SweenyF2:0GJ.Delaney         C6:3 6:4
-OL,7, K.MatsudaF1:2CH.Matsuoka    6:4 3:6 6:7
-OL,8,CC.YunseongF2:1GF.Bass      C6:4 4:6 6:4
-OL,9,CY.ShimizuF2:0GT.Ichikawa       C6:4 6:3
-OL,10, I.BecroftF0:2CC.E.Overbeck      3:6 6:7
-OL,11, E.WinterF0:2CL.Tu               6:7 6:7
-OL,12, T.SachF1:2CC.Langmo         3:6 7:6 6:7
-OL,13, R.MatsudaF0:2CK.Uchida          6:7 3:6
-OL,14, Z.StevensF0:2CH.Jones           1:6 0:6
-OL,15, T.KumasakaF1:2CD.J.Sanchis  6:4 3:6 3:6
-OL,16,CK.IsomuraF2:1GH.Shiraishi  C6:4 0:6 6:2
-OL,17, S.VujicF1:2CT.Schoolkate    3:6 6:3 3:6
-OL,18,F2CFalck / Suarez                 2 6 10
-OL,19,F1 GSantillan / Zheng            C6 4  6
-OL,20,CN.HondaF2:0GS.D.P.Dev          C6:3 6:4
+OL,3,F1GCook / Sach                   C3 7  3
+OL,4,F2 CBecroft / Shepp               6 6 10
+OL,5,CK.UchidaF2:1GM.Leong       C6:3 4:6 7:6
+OL,6, L.R.JonesF0:2CD.J.Sanchis       4:6 2:6
+OL,7, N.McDonaldF0:2CL.Staeheli       3:6 4:6
+OL,8,F0GHoeyeraal / Padgham              C4 4
+OL,9,F2 CPuttergill / Sweeny              6 6
+OL,10,F0GJovanovski / Stevens             C2 0
+OL,11,F2 CJung / Rai                       6 6
+OL,12, H.MoriyaF1:2CM.Dellavedova  0:6 6:4 6:7
+OL,13,F1BBayldon / Fancutt                    
+OL,14,F0 GBolt / Kubler                       
+OL,15, C.JieF1:2CB.Hassan          3:6 6:3 4:6
+OL,16, A.SheppF0:2CM.Bouzige           4:6 6:7
+OL,17, B.EllisF0:2CT.Schoolkate        2:6 6:7
+OL,18,CR.NoguchiF2:0GM.Jones          C7:6 6:3
+OL,19, C.B.KouzmineF0:2CY.Takahashi    2:6 1:6
+OL,20, A.SantillanF0:1BC.Langmo               
+OL,21,CN.PodoroskaF2:0GL.R.Gormaz     C7:6 6:0
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C802      F803   
+FL,800,801,802,803,0,100
+PN,80803
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BPOLONIA  808C|ro 25 lis  12:51:17
+OL,1,C]          @T e n i s             10:25
+OL,2,C]    @Wyniki zako$czonych spotka$      
+OL,3,CCzechy GKanada                         
+OL,4, P.HercogF0:1BS.Costoulas       C2:6 2:4
+OL,5,BS.SierraF1:0GV.Jimenez     C1:6 7:6 2:0
+OL,6,CJ.LeheckaF2:0GF.Auger-AliassimeC7:6 6:2
+OL,7, L.AyalaF0:2CI.Burillo           2:6 2:6
+OL,8, A.G.MezaF0:2CG.Olivieri         3:6 3:6
+OL,9,CM.A.GurriF2:0GG.Villanueva     C6:4 6:3
+OL,10, A.ChepelevF0:2CE.Ribeiro        4:6 4:6
+OL,11,CT.MachacF2:1GL.Draxl       C6:2 3:6 6:2
+OL,12, L.BronzettiF0:2CA.H.Linana      1:6 2:6
+OL,13,CG.MaristanyF2:0GL.M.Cinalli    C6:1 6:1
+OL,14,CR.NijboerF2:0GB.Fernandez      C6:4 6:3
+OL,15, D.D.d.SilvaF0:2CF.Roncadelli    4:6 0:6
+OL,16, Z.KulambayevaF0:2CV.Erjavec     2:6 4:6
+OL,17, V.BosioF0:2CL.Samson            4:6 2:6
+OL,18, L.RattiF1:2CJ.A.Cardozo     2:6 6:2 3:6
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C802      F803   

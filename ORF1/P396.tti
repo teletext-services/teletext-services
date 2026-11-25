@@ -3,7 +3,7 @@ PN,39601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G396FORF1   GDi 24.11.26 22:14:54
+OL,0,       G396FORF1   GMi 25.11.26 08:14:46
 OL,1,A]G                    Radio Vorarlberg 
 OL,2,A]GRADIO  ]A                  Programm \
 OL,3,Q#########G                        1/9  
@@ -23,7 +23,7 @@ PN,39602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G396FORF1   GDi 24.11.26 22:14:54
+OL,0,       G396FORF1   GMi 25.11.26 08:14:47
 OL,1,A]G                    Radio Vorarlberg 
 OL,2,A]GRADIO  ]A                  Programm \
 OL,3,Q#########G                        2/9  
@@ -44,7 +44,7 @@ PN,39603
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G396FORF1   GDi 24.11.26 22:14:54
+OL,0,       G396FORF1   GMi 25.11.26 08:14:47
 OL,1,A]G                    Radio Vorarlberg 
 OL,2,A]GRADIO  ]A                  Programm \
 OL,3,Q#########G                        3/9  
@@ -65,7 +65,7 @@ PN,39604
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G396FORF1   GDi 24.11.26 22:14:54
+OL,0,       G396FORF1   GMi 25.11.26 08:14:47
 OL,1,A]G                    Radio Vorarlberg 
 OL,2,A]GRADIO  ]A                  Programm \
 OL,3,Q#########G                        4/9  
@@ -92,17 +92,17 @@ PN,39605
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       G396FORF1   GDi 24.11.26 22:14:54
+OL,0,       G396FORF1   GMi 25.11.26 08:14:47
 OL,1,A]G                    Radio Vorarlberg 
 OL,2,A]GRADIO  ]A                  Programm \
 OL,3,Q#########G                        5/9  
-OL,4,F10:04 Radio Vorarlberg - Der           
+OL,4,F10:03 Radio Vorarlberg - Der           
 OL,5,F      Vormittag                        
 OL,6,F      Mit Nachrichten zur vollen und   
 OL,7,F      halben Stunde.                   
 OL,8,F      ORF Radio Vorarlberg - Das ist   
 OL,9,F      Musik                            
-OL,10,G11:04 Radio Vorarlberg - Der           
+OL,10,G11:03 Radio Vorarlberg - Der           
 OL,11,G      Vormittag                        
 OL,12,G      Mit Nachrichten zur vollen und   
 OL,13,G      halben Stunde.                   
@@ -121,11 +121,11 @@ PN,39606
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       G396FORF1   GDi 24.11.26 22:14:54
+OL,0,       G396FORF1   GMi 25.11.26 08:14:47
 OL,1,A]G                    Radio Vorarlberg 
 OL,2,A]GRADIO  ]A                  Programm \
 OL,3,Q#########G                        6/9  
-OL,4,F14:04 Radio Vorarlberg - Der           
+OL,4,F14:03 Radio Vorarlberg - Der           
 OL,5,F      Nachmittag                       
 OL,6,F      Mit Nachrichten zur vollen und   
 OL,7,F      halben Stunde.                   
@@ -150,11 +150,11 @@ PN,39607
 SC,0007
 PS,C200
 CT,15,T
-OL,0,       G396FORF1   GDi 24.11.26 22:14:54
+OL,0,       G396FORF1   GMi 25.11.26 08:14:47
 OL,1,A]G                    Radio Vorarlberg 
 OL,2,A]GRADIO  ]A                  Programm \
 OL,3,Q#########G                        7/9  
-OL,4,F17:04 Radio Vorarlberg - Der           
+OL,4,F17:05 Radio Vorarlberg - Der           
 OL,5,F      Nachmittag                       
 OL,6,F      Mit Nachrichten zur vollen und   
 OL,7,F      halben Stunde.                   
@@ -177,7 +177,7 @@ PN,39608
 SC,0008
 PS,C200
 CT,15,T
-OL,0,       G396FORF1   GDi 24.11.26 22:14:54
+OL,0,       G396FORF1   GMi 25.11.26 08:14:47
 OL,1,A]G                    Radio Vorarlberg 
 OL,2,A]GRADIO  ]A                  Programm \
 OL,3,Q#########G                        8/9  
@@ -185,18 +185,19 @@ OL,4,F20:04 Radio Vorarlberg - Kultur
 OL,5,F      Aktuelle Beitr{ge zum            
 OL,6,F      Vorarlberger Kunst- und          
 OL,7,F      Kulturgeschehen.                 
-OL,8,G21:03 Radio Vorarlberg - Sound-Check   
-OL,9,G      Unterwegs in der Vorarlberger    
-OL,10,G      Musikszene                       
-OL,11,F22:08 Radio Vorarlberg - Musiknacht    
-OL,12,F      Das ist Musik mit Nachrichten    
-OL,13,F      zur vollen Stunde                
-OL,14,G23:04 Radio Vorarlberg - Musiknacht    
-OL,15,G      Das ist Musik mit Nachrichten    
-OL,16,G      zur vollen Stunde                
-OL,17,F 0:04 Radio Vorarlberg - Musiknacht    
-OL,18,F      Das ist Musik mit Nachrichten    
-OL,19,F      zur vollen Stunde                
+OL,8,G21:03 Radio Vorarlberg - Im L{ndle     
+OL,9,G      groovts                          
+OL,10,G      Die Musiker*innen Vorarlbergs,   
+OL,11,G      ihre Lieder und Geschichten      
+OL,12,F22:08 Radio Vorarlberg - Musiknacht    
+OL,13,F      Das ist Musik mit Nachrichten    
+OL,14,F      zur vollen Stunde                
+OL,15,G23:04 Radio Vorarlberg - Musiknacht    
+OL,16,G      Das ist Musik mit Nachrichten    
+OL,17,G      zur vollen Stunde                
+OL,18,F 0:04 Radio Vorarlberg - Musiknacht    
+OL,19,F      Das ist Musik mit Nachrichten    
+OL,20,F      zur vollen Stunde                
 OL,23,Q,,,,,,GNachrichten aus Vorarlberg >707 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -204,20 +205,20 @@ PN,39609
 SC,0009
 PS,C200
 CT,15,T
-OL,0,       G396FORF1   GDi 24.11.26 22:14:55
+OL,0,       G396FORF1   GMi 25.11.26 08:14:47
 OL,1,A]G                    Radio Vorarlberg 
 OL,2,A]GRADIO  ]A                  Programm \
 OL,3,Q#########G                        9/9  
 OL,4,F 1:04 Radio Vorarlberg - Musiknacht    
 OL,5,F      Das ist Musik mit Nachrichten    
 OL,6,F      zur vollen Stunde                
-OL,7,G 2:04 Radio Vorarlberg - Musiknacht    
+OL,7,G 2:03 Radio Vorarlberg - Musiknacht    
 OL,8,G      Das ist Musik mit Nachrichten    
 OL,9,G      zur vollen Stunde                
-OL,10,F 3:04 Radio Vorarlberg - Musiknacht    
+OL,10,F 3:03 Radio Vorarlberg - Musiknacht    
 OL,11,F      Das ist Musik mit Nachrichten    
 OL,12,F      zur vollen Stunde                
-OL,13,G 4:04 Radio Vorarlberg - Musiknacht    
+OL,13,G 4:03 Radio Vorarlberg - Musiknacht    
 OL,14,G      Das ist Musik mit Nachrichten    
 OL,15,G      zur vollen Stunde                
 OL,23,Q,,,,,,GNachrichten aus Vorarlberg >707 

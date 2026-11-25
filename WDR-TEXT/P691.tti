@@ -1,25 +1,43 @@
 DE,WDR-TEXT 691
-PN,69100
-SC,0000
-PS,8208
+PN,69101
+SC,0001
+PS,C200
 CT,15,T
-OL,0,     G691 WDR Text GMi 25.11.26 03:56:20
+OL,0,     G691 WDR Text GMi 25.11.26 13:47:12
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, f}r A1                                 
-OL,5, Stand: 25.11.2026 03:48 Uhr            
-OL,7, Auf der A1 Dortmund Richtung M}nster   
-OL,8, ist die Ausfahrt Hamm-Bockum/Werne bis 
-OL,9, Anfang Dezember gesperrt.              
-OL,11, An der A1 M}nster Richtung Dortmund ist
-OL,12, die Auffahrt Unna bis voraussichtlich  
-OL,13, Ende 2028 wegen einer Baustelle        
-OL,14, gesperrt.                              
-OL,16, Auf der A1 Dortmund Richtung K|ln ist  
-OL,17, im Kreuz Leverkusen-West die Verbindung
-OL,18, zur A59 wegen Br}ckenarbeiten          
-OL,19, voraussichtlich bis Ende 2027 gesperrt.
+OL,5, Stand: 25.11.2026 13:41 Uhr            
+OL,7, A1 Hansalinie, Dortmund Richtung       
+OL,8, M}nster zwischen M}nster-Hiltrup und   
+OL,9, Kreuz M}nster-S}d Gefahr durch         
+OL,10, Gegenst{nde auf dem linken Fahrstreifen
+OL,12, A1 K|ln Richtung M}nster zwischen      
+OL,13, Schwerte und Kamen-Zentrum etwa 10     
+OL,14, Minuten plus, 5 km stockender Verkehr  
+OL,16, Auf der A1 Dortmund Richtung M}nster   
+OL,17, ist die Ausfahrt Hamm-Bockum/Werne bis 
+OL,18, Anfang Dezember gesperrt.              
+OL,20, An der A1 M}nster Richtung Dortmund ist
+OL,21, die Auffahrt Unna bis voraussichtlich  
+OL,22, Ende 2028 wegen einer Baustelle        
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 690B]G+ 692  \                     
+OL,24,A]G- 690B]G+ 692  \               G(1/2)
+FL,690,692,0,0,0,100
+PN,69102
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G691 WDR Text GMi 25.11.26 13:47:12
+OL,1,]D]        G]               @]  CVERKEHR
+OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
+OL,3,]T5                                
+OL,4, gesperrt.                              
+OL,6, Auf der A1 Dortmund Richtung K|ln ist  
+OL,7, im Kreuz Leverkusen-West die Verbindung
+OL,8, zur A59 wegen Br}ckenarbeiten          
+OL,9, voraussichtlich bis Ende 2027 gesperrt.
+OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]G- 690B]G+ 692  \               G(2/2)
 FL,690,692,0,0,0,100

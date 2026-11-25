@@ -3,36 +3,45 @@ PN,82901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G829FORF2   GDi 24.11.26 22:36:02
+OL,0,       G829FORF2   GMi 25.11.26 08:36:02
 OL,1,A]G                  Flughafen Salzburg 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug     von        Plan aktuell       
-OL,5,FEW 4305  Marrakesch 2205Bgelandet  2215
-OL,6,GLH 1266  Frankfurt  2235Berwartet  2245
-OL,23,Q,,F22:35hGFlughafen SalzburgF0662/8580 
+OL,5,FLH 1260  Frankfurt  1005               
+OL,6,GEW 4335  D}sseldorf 1110               
+OL,7,FBA 2624  London LGW 1225               
+OL,8,GLH 1262  Frankfurt  1355               
+OL,9,FEW 6104  Dresden    1530               
+OL,10,GLH 1264  Frankfurt  1815               
+OL,11,FFR 7877  Alicante   1855               
+OL,12,GEW 4355  Hamburg    1945               
+OL,23,Q,,F08:35hGFlughafen SalzburgF0662/8580 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,82902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G829FORF2   GDi 24.11.26 22:36:02
+OL,0,       G829FORF2   GMi 25.11.26 08:36:02
 OL,1,A]G                  Flughafen Salzburg 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug     nach       Plan aktuell       
-OL,5,CN{chster Tag: 2026-11-25               
-OL,6,FLH 1267  Frankfurt  0630               
-OL,7,GEW 4334  D}sseldorf 0800               
-OL,8,FEW 6100  Maribor    1010               
-OL,9,GLH 1261  Frankfurt  1055               
-OL,10,FBA 2625  London LGW 1320               
-OL,11,GLH 1263  Frankfurt  1445               
-OL,12,FEW 4338  D}sseldorf 1630               
-OL,13,GEW 4354  Hamburg    1630               
-OL,14,FLH 1265  Frankfurt  1905               
-OL,15,GFR 7878  Alicante   1940               
-OL,23,Q,,F22:35hGFlughafen SalzburgF0662/8580 
+OL,5,FEW 4334  D}sseldorf 0800Bgestartet     
+OL,6,GEW 6100  Dresden    1010               
+OL,7,FLH 1261  Frankfurt  1055               
+OL,8,GEW 6902  D}sseldorf 1145               
+OL,9,FBA 2625  London LGW 1320               
+OL,10,GLH 1263  Frankfurt  1445               
+OL,11,FEW 4338  D}sseldorf 1630               
+OL,12,GEW 4354  Hamburg    1630               
+OL,13,FLH 1265  Frankfurt  1905               
+OL,14,GFR 7878  Alicante   1940               
+OL,15,CN{chster Tag: 2026-11-26               
+OL,16,FEW 4396  Marsa Alam 0605               
+OL,17,GLH 1267  Frankfurt  0630               
+OL,18,FEW 4334  D}sseldorf 0635               
+OL,23,Q,,F08:35hGFlughafen SalzburgF0662/8580 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

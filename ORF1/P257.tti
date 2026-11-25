@@ -3,20 +3,27 @@ PN,25701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G257FORF1   GDi 24.11.26 22:10:57
+OL,0,       G257FORF1   GMi 25.11.26 08:11:00
 OL,1,A]G                           Eishockey 
 OL,2,A]GSPORT  ]A                       NHL \
 OL,3,Q#########G                        1/3  
-OL,4,CMontag                                 
-OL,5,FNew Jersey    - Columbus     3:2       
-OL,6, Montreal      - Los Angeles  1:2       
-OL,7,FN.Y.Islanders - Toronto      2:4       
-OL,8, Ottawa        - Calgary      2:1       
-OL,9,FWinnipeg      - Utah         4:2       
-OL,10, Seattle       - Anaheim      3:2       
-OL,11,FSan Jose      - Minnesota    2:5       
-OL,13,CDienstag                               
-OL,14, Edmonton      - Vegas                  
+OL,4,CDienstag                               
+OL,5,FEdmonton      - Vegas         3:5      
+OL,7,CMittwoch                               
+OL,8, Boston        - Winnipeg               
+OL,9, Buffalo       - NY Rangers             
+OL,10, Columbus      - New Jersey             
+OL,11, Florida       - Ottawa                 
+OL,12, N.Y.Islanders - St.Louis               
+OL,13, Pittsburgh    - Calgary                
+OL,14, Tampa Bay     - Carolina               
+OL,15, Washington    - Philadelphia           
+OL,16, Detroit       - Vancouver              
+OL,17, Dallas        - Nashville              
+OL,18, Minnesota     - Utah                   
+OL,19, Colorado      - Montreal               
+OL,20, Seattle       - Chicago                
+OL,21, Anaheim       - San Jose               
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -24,7 +31,7 @@ PN,25702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G257FORF1   GDi 24.11.26 22:10:57
+OL,0,       G257FORF1   GMi 25.11.26 08:11:00
 OL,1,A]G                           Eishockey 
 OL,2,A]GSPORT  ]A   NHL, Eastern Conference \
 OL,3,Q#########G                        2/3  
@@ -53,7 +60,7 @@ PN,25703
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G257FORF1   GDi 24.11.26 22:10:57
+OL,0,       G257FORF1   GMi 25.11.26 08:11:00
 OL,1,A]G                           Eishockey 
 OL,2,A]GSPORT  ]A   NHL, Western Conference \
 OL,3,Q#########G                        3/3  
@@ -67,8 +74,8 @@ OL,10,  Winnipeg JetsF F      G25 12  9  4  28
 OL,11,  Utah Mammoth           25 12 10  3  27
 OL,12,G Chicago Blackhawks     24  8 14  2  18
 OL,14,FPacific Division                       
-OL,15,  Edmonton Oilers       G26 17  5  4  38
-OL,16,  Vegas Golden Knights  G25 14  6  5  33
+OL,15,  Edmonton Oilers       G27 17  6  4  38
+OL,16,  Vegas Golden Knights  G26 15  6  5  35
 OL,17,  San Jose Sharks        26 11 13  2  24
 OL,18,  Seattle Kraken         21 11  9  1  23
 OL,19,  Anaheim Ducks          25 11 13  1  23

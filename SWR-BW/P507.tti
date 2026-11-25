@@ -1,22 +1,71 @@
 DE,SWR-BW 507
-PN,50700
-SC,0000
-PS,8208
+PN,50701
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G00:54:53
+OL,0,       BSWR BW C   Mi, 25.11.26G10:55:00
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,            Autobahn A5,A571            
+OL,4,            Autobahn A5,A560            
+OL,6,CA5FBasel Richtung Karlsruhe            
+OL,7, zwischen Rastatt-S}d und Rastatt-Nord  
+OL,8, Gefahr durch Gegenst{nde auf allen     
+OL,9, Fahrstreifen                           
+OL,11,CA5FFrankfurt Richtung Kassel           
+OL,12, zwischen Butzbach und Gambacher Kreuz  
+OL,13, Gefahr durch Reifenteile auf der       
+OL,14, Fahrbahn                               
+OL,23,D]GStand:25.11. 10:51   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50702
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR BW C   Mi, 25.11.26G10:55:00
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,            Autobahn A5,A560            
 OL,6,CA5FKarlsruhe Richtung Basel            
-OL,7, zwischen Dreieck Weil am Rhein und     
-OL,8, Grenz}bergang Weil am Rhein/Basel 1 km 
-OL,9, Stau f}r LKW auf dem rechten           
-OL,10, Fahrstreifen                           
-OL,12,CA571FSinzig Richtung Ehlingen          
-OL,13, zwischen L|hndorf und ]bergang zur     
-OL,14, Ehlingen gesperrt, Verkehr wird        
-OL,15, abgeleitet, brennender PKW             
-OL,23,D]GStand:25.11. 00:51   ]bersicht 501 >>
+OL,7, zwischen Weil am Rhein/H}ningen und    
+OL,8, Grenz}bergang Weil am Rhein/Basel      
+OL,9, gesperrt, ortskundige Autofahrer werden
+OL,10, gebeten, das Gebiet weitr{umig zu      
+OL,11, umfahren, empfohlene Umleitung:        
+OL,12, Richtung Schaffhausen }ber A98         
+OL,14,CA5FKarlsruhe Richtung Basel            
+OL,15, zwischen Dreieck Weil am Rhein und     
+OL,16, Grenz}bergang Weil am Rhein/Basel 3 km 
+OL,17, Stau f}r LKW auf dem rechten           
+OL,18, Fahrstreifen                           
+OL,23,D]GStand:25.11. 10:51   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50703
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BSWR BW C   Mi, 25.11.26G10:55:00
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,            Autobahn A5,A560            
+OL,6,CA5FKassel Richtung Darmstadt           
+OL,7, zwischen Nordwestkreuz Frankfurt und   
+OL,8, Zeppelinheim Baustelle, 1 rechter      
+OL,9, Fahrstreifen gesperrt, Fahrbahn auf    
+OL,10, zwei Fahrstreifen verengt, bis heute   
+OL,11, 16:00 Uhr                              
+OL,13,CA560FHennef Richtung Sankt Augustin    
+OL,14, zwischen Hennef (Sieg)-West und Kreuz  
+OL,15, Bonn/Siegburg gesperrt                 
+OL,17,CA560FHennef Richtung Sankt Augustin    
+OL,18, zwischen Kreuz Bonn/Siegburg und       
+OL,19, Dreieck Sankt Augustin-West 4 km Stau, 
+OL,20, stockender Verkehr, Zeitverlust von bis
+OL,21, zu 15 Minuten                          
+OL,23,D]GStand:25.11. 10:51   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

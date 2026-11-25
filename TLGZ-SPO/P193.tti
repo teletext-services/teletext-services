@@ -4,24 +4,24 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    193C|ro 25 lis  02:52:56
+OL,0,      BSPORT    193C|ro 25 lis  12:53:08
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
-OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
-OL,5,              FOblodzenie               
-OL,7, CWoj. ma}opolskie, IMGW-PIB wyda}      
+OL,3,Q##! Cwojew_dztwo kujawsko-pomorskieQ"##
+OL,5,         FOblodzenie 1 stopnia          
+OL,7,CWoj. kujawsko-pomorskie, IMGW-PIB wyda}
 OL,8,Costrze{enie pierwszego stopnia o       
-OL,9,Coblodzeniu                             
-OL,11, Wojew_dztwo ma}opolskie powiaty:       
-OL,12, boche$ski, brzeski, chrzanowski,       
-OL,13, d@browski, krakowski, Krak_w,          
-OL,14, limanowski, miechowski, my|lenicki,    
-OL,15, olkuski, o|wi`cimski, proszowicki,     
-OL,16, suski, tarnowski, Tarn_w, wadowicki i  
-OL,17, wielicki.                              
-OL,18, Prognozuje si` zamarzanie mokrej       
-OL,19, nawierzchni dr_g i chodnik_w po opadach
-OL,20, deszczu i mokrego |niegu powoduj@ce ich
+OL,9,Coblodzeniu.                            
+OL,11, Wojew_dztwo kujawsko-pomorskie powiaty:
+OL,12, aleksandrowski, brodnicki, che}mi$ski, 
+OL,13, golubsko-dobrzy$ski, Grudzi@dz,        
+OL,14, grudzi@dzki, lipnowski, rypi$ski,      
+OL,15, |wiecki, Toru$, toru$ski, tucholski,   
+OL,16, w@brzeski, W}oc}awek i w}oc}awski.     
+OL,17, Miejscami prognozuje si` zamarzanie    
+OL,18, mokrej nawierzchni dr_g i chodnik_w po 
+OL,19, opadach deszczu, deszczu ze |niegiem   
+OL,20, oraz mokrego |niegu powoduj@ce ich     
 OL,21, oblodzenie. Temperatura minimalna oko}o
 OL,22, -4 C, temperatura minimalna przy       
 OL,23, gruncie oko}o -7 C.                    
@@ -31,7 +31,30 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    193C|ro 25 lis  02:52:57
+OL,0,      BSPORT    193C|ro 25 lis  12:53:08
+OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
+OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
+OL,3,Q##!     Cwojew_dztwo lubelskie     Q"##
+OL,5,              FOblodzenie               
+OL,7, CWoj. lubelskie, IMGW-PIB wyda}        
+OL,8,Costrze{enie pierwszego stopnia o       
+OL,9,Coblodzeniu                             
+OL,11, Wojew_dztwo lubelskie powiaty: bialski 
+OL,12, i Bia}a Podlaska.                      
+OL,13, Miejscami prognozuje si` zamarzanie    
+OL,14, mokrej nawierzchni dr_g i chodnik_w po 
+OL,15, opadach deszczu, deszczu ze |niegiem   
+OL,16, oraz mokrego |niegu powoduj@ce ich     
+OL,17, oblodzenie. Temperatura minimalna oko}o
+OL,18, -4 C, temperatura minimalna przy       
+OL,19, gruncie oko}o -7 C.                    
+FL,192,194,200,200,0,100
+PN,19303
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BSPORT    193C|ro 25 lis  12:53:08
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
@@ -47,157 +70,85 @@ OL,15, Wis}y spodziewane jest dalsze
 OL,16, utrzymywanie si` przep}yw_w wody       
 OL,17, poni{ej SNQ. Szczegoly na hydro.imgw.pl
 FL,192,194,200,200,0,100
-PN,19303
-SC,0003
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BSPORT    193C|ro 25 lis  02:52:57
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
-OL,3,Q##!      Cwojew_dztwo opolskie     Q"##
-OL,5,             FOblodzenie/1              
-OL,7, CWoj. opolskie, IMGW-PIB wyda}         
-OL,8,Costrze{enie pierwszego stopnia o       
-OL,9,Coblodzeniu                             
-OL,11, Wojew_dztwo opolskie powiaty:          
-OL,12, k`dzierzy$sko-kozielski, kluczborski,  
-OL,13, krapkowicki, oleski, Opole, opolski i  
-OL,14, strzelecki.                            
-OL,15, Prognozuje si` zamarzanie mokrej       
-OL,16, nawierzchni dr_g i chodnik_w po opadach
-OL,17, deszczu i mokrego |niegu powoduj@ce ich
-OL,18, oblodzenie. Temperatura minimalna oko}o
-OL,19, -4 C, temperatura minimalna przy       
-OL,20, gruncie oko}o -7 C.                    
-FL,192,194,200,200,0,100
 PN,19304
 SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    193C|ro 25 lis  02:52:57
+OL,0,      BSPORT    193C|ro 25 lis  12:53:08
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
-OL,3,Q##!     Cwojew_dztwo pomorskie     Q"##
-OL,5,             FOblodzenie/1              
-OL,7, CWoj. pomorskie, IMGW-PIB wyda}        
+OL,3,Q##!    Cwojew_dztwo mazowieckie    Q"##
+OL,5,              FOblodzenie               
+OL,7, CWoj. mazowieckie, IMGW-PIB wyda}      
 OL,8,Costrze{enie pierwszego stopnia o       
 OL,9,Coblodzeniu                             
-OL,11, Wojew_dztwo pomorskie powiaty: Gda$sk, 
-OL,12, gda$ski, Gdynia, kartuski, l`borski,   
-OL,13, pucki, S}upsk, s}upski i wejherowski.  
-OL,14, Prognozuje si` zamarzanie mokrej       
-OL,15, nawierzchni dr_g i chodnik_w po opadach
-OL,16, deszczu i deszczu ze |niegiem          
-OL,17, powoduj@ce ich oblodzenie. Temperatura 
-OL,18, minimalna oko}o -2 C, temperatura      
-OL,19, minimalna przy gruncie oko}o -4 C.     
+OL,11, Wojew_dztwo mazowieckie powiaty:       
+OL,12, ciechanowski, gostyni$ski, grodziski,  
+OL,13, legionowski, }osicki, makowski, mi$ski,
+OL,14, m}awski, nowodworski, ostro}`cki,      
+OL,15, Ostro}`ka, ostrowski, otwocki,         
+OL,16, piaseczy$ski, P}ock, p}ocki, p}o$ski,  
+OL,17, pruszkowski, przasnyski, pu}tuski,     
+OL,18, Siedlce, siedlecki, sierpecki,         
+OL,19, sochaczewski, soko}owski, Warszawa,    
+OL,20, warszawski zachodni, w`growski,        
+OL,21, wo}omi$ski, wyszkowski i {uromi$ski.   
+OL,22, Miejscami prognozuje si` zamarzanie    
+OL,23, mokrej nawierzchni dr_g i chodnik_w po 
 FL,192,194,200,200,0,100
 PN,19305
 SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    193C|ro 25 lis  02:52:57
+OL,0,      BSPORT    193C|ro 25 lis  12:53:08
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
-OL,3,Q##!      Cwojew_dztwo |l@skie      Q"##
+OL,3,Q##!    Cwojew_dztwo mazowieckie    Q"##
 OL,5,              FOblodzenie               
-OL,7, CWoj. |l@skie, IMGW-PIB wyda}          
-OL,8,Costrze{enie pierwszego stopnia o       
-OL,9,Coblodzeniu                             
-OL,11, Wojew_dztwo |l@skie powiaty: b`dzi$ski,
-OL,12, bielski, Bielsko-Bia}a,                
-OL,13, bieru$sko-l`dzi$ski, Bytom, Chorz_w,   
-OL,14, Cz`stochowa, cz`stochowski, D@browa    
-OL,15, G_rnicza, Gliwice, gliwicki,           
-OL,16, Jastrz`bie-Zdr_j, Jaworzno, Katowice,  
-OL,17, k}obucki, lubliniecki, miko}owski,     
-OL,18, Mys}owice, myszkowski, Piekary \l@skie,
-OL,19, pszczy$ski, raciborski, Ruda \l@ska,   
-OL,20, rybnicki, Rybnik, Siemianowice \l@skie,
-OL,21, Sosnowiec, \wi`toch}owice, tarnog_rski,
-OL,22, Tychy, wodzis}awski, Zabrze,           
-OL,23, zawiercia$ski i [ory.                  
+OL,7, opadach deszczu, deszczu ze |niegiem   
+OL,8, oraz mokrego |niegu powoduj@ce ich     
+OL,9, oblodzenie. Temperatura minimalna oko}o
+OL,10, -4 C, temperatura minimalna przy       
+OL,11, gruncie oko}o -7 C.                    
 FL,192,194,200,200,0,100
 PN,19306
 SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    193C|ro 25 lis  02:52:57
+OL,0,      BSPORT    193C|ro 25 lis  12:53:08
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
-OL,3,Q##!      Cwojew_dztwo |l@skie      Q"##
-OL,5,              FOblodzenie               
-OL,7, Prognozuje si` zamarzanie mokrej       
-OL,8, nawierzchni dr_g i chodnik_w po opadach
-OL,9, deszczu i mokrego |niegu powoduj@ce ich
-OL,10, oblodzenie. Temperatura minimalna oko}o
-OL,11, -4 C, temperatura minimalna przy       
-OL,12, gruncie oko}o -7 C.                    
+OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
+OL,5,             FOblodzenie/1              
+OL,7, CWoj. podlaskie, IMGW-PIB wyda}        
+OL,8,Costrze{enie pierwszego stopnia o       
+OL,9,Coblodzeniu. Wa{ne od godz. 20:00 dnia  
+OL,10,C25.11.2026 do godz. 08:00 dnia         
+OL,11,C26.11.2026 r.                          
+OL,13, Wojew_dztwo podlaskie powiaty:         
+OL,14, bia}ostocki, Bia}ystok, bielski,       
+OL,15, hajnowski, kolne$ski, ]om{a, }om{y$ski,
+OL,16, siemiatycki, wysokomazowiecki i        
+OL,17, zambrowski.                            
+OL,18, Miejscami prognozuje si` zamarzanie    
+OL,19, mokrej nawierzchni dr_g i chodnik_w po 
+OL,20, opadach deszczu, deszczu ze |niegiem   
+OL,21, oraz mokrego |niegu powoduj@ce ich     
+OL,22, oblodzenie. Temperatura minimalna oko}o
+OL,23, -4 C, temperatura minimalna przy       
 FL,192,194,200,200,0,100
 PN,19307
 SC,0007
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    193C|ro 25 lis  02:52:57
+OL,0,      BSPORT    193C|ro 25 lis  12:53:09
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
-OL,3,Q##!   Cwojew_dztwo |wi`tokrzyskie  Q"##
-OL,5,              FOblodzenie               
-OL,7, CWoj. |wi`tokrzyskie (5 powiat_w),     
-OL,8,CIMGW-PIB wyda} ostrze{enie pierwszego  
-OL,9,Cstopnia o oblodzeniu, od 21:00/24.11 do
-OL,10,C09:00/25.11.2026                       
-OL,12, Wojew_dztwo |wi`tokrzyskie powiaty:    
-OL,13, buski, j`drzejowski, kazimierski,      
-OL,14, pi$czowski i w}oszczowski.             
-OL,15, Prognozuje si` zamarzanie mokrej       
-OL,16, nawierzchni dr_g i chodnik_w po opadach
-OL,17, deszczu i mokrego |niegu powoduj@ce ich
-OL,18, oblodzenie. Temperatura minimalna oko}o
-OL,19, -4 C, temperatura minimalna przy       
-OL,20, gruncie oko}o -7 C.                    
-FL,192,194,200,200,0,100
-PN,19308
-SC,0008
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BSPORT    193C|ro 25 lis  02:52:57
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
-OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
-OL,5,       FOblodzenie/1 (6 powiat_w)       
-OL,7, CWoj. zachodniopomorskie (6 powiat_w), 
-OL,8,CIMGW-PIB wyda} ostrze{enie pierwszego  
-OL,9,Cstopnia o oblodzeniu od 20:00/24.11 do 
-OL,10,C09:00/25.11.2026                       
-OL,12, Woj. zachodniopomorskie (6 powiat_w),  
-OL,13, IMGW-PIB wyda} ostrze{enie pierwszego  
-OL,14, stopnia o oblodzeniu od godz. 20:00    
-OL,15, dnia 24.11.2026 do godz. 09:00 dnia    
-OL,16, 25.11.2026 na terenie powiat_w:        
-OL,17, bia}ogardzki, ko}obrzeski, Koszalin,   
-OL,18, koszali$ski, s}awie$ski i |widwi$ski.  
-OL,19, Prognozuje si` zamarzanie mokrej       
-OL,20, nawierzchni dr_g i chodnik_w po opadach
-OL,21, deszczu i deszczu ze |niegiem          
-OL,22, powoduj@ce ich oblodzenie. Temperatura 
-OL,23, minimalna oko}o -2 C, temperatura      
-FL,192,194,200,200,0,100
-PN,19309
-SC,0009
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BSPORT    193C|ro 25 lis  02:52:57
-OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
-OL,2,A]G]  @Ostrze{enia meteorologiczne   Q
-OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
-OL,5,       FOblodzenie/1 (6 powiat_w)       
-OL,7, minimalna przy gruncie oko}o -4 C.     
+OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
+OL,5,             FOblodzenie/1              
+OL,7, gruncie oko}o -7 C.                    
 FL,192,194,200,200,0,100

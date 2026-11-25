@@ -3,55 +3,55 @@ PN,83101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G831FORF2   GDi 24.11.26 22:36:04
+OL,0,       G831FORF2   GMi 25.11.26 08:36:05
 OL,1,A]G                      Flughafen Linz 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug     von        Plan aktuell       
-OL,5,FQY 7751 Thessaloniki2045A    Cancelled 
-OL,6,GDX 198  Frankfurt   2200B2133Landed    
-OL,7,G  LH 7344                              
-OL,8,FQY 4126 Leipzig/Hall0635B    25.11.26  
-OL,9,GDX 192  Frankfurt   1000B    25.11.26  
-OL,10,G  LH 7340                              
-OL,11,FKK 7111 Bodo        1515B    25.11.26  
-OL,12,GDX 194  Frankfurt   1520B    25.11.26  
-OL,13,G  LH 7342                              
-OL,14,FC3 382  Bodo        1650B    25.11.26  
-OL,15,GQY 7751 Thessaloniki2045B    25.11.26  
-OL,16,FDX 198  Frankfurt   2200B    25.11.26  
-OL,17,F  LH 7344                              
-OL,18,GQY 4126 Leipzig/Hall0635B    26.11.26  
-OL,19,FDX 192  Frankfurt   1025B    26.11.26  
-OL,20,F  LH 7340                              
-OL,23,Q,F22:34hGFlughafen LinzF07221/600-1100 
+OL,5,FDX 192  Frankfurt   1000B              
+OL,6,F  LH 7340                              
+OL,7,GKK 7111 Bodo        1515B              
+OL,8,FDX 194  Frankfurt   1520B              
+OL,9,F  LH 7342                              
+OL,10,GC3 382  Bodo        1650B              
+OL,11,FQY 7751 Thessaloniki2045B              
+OL,12,GDX 198  Frankfurt   2200B              
+OL,13,G  LH 7344                              
+OL,14,FQY 4126 Leipzig/Hall0635B    26.11.26  
+OL,15,GDX 192  Frankfurt   1025B    26.11.26  
+OL,16,G  LH 7340                              
+OL,17,FDX 194  Frankfurt   1520B    26.11.26  
+OL,18,F  LH 7342                              
+OL,19,GFR 3486 Alicante    2010B    26.11.26  
+OL,20,FQY 7751 Thessaloniki2045B    26.11.26  
+OL,23,Q,F08:34hGFlughafen LinzF07221/600-1100 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G831FORF2   GDi 24.11.26 22:36:04
+OL,0,       G831FORF2   GMi 25.11.26 08:36:05
 OL,1,A]G                      Flughafen Linz 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug     nach       Plan aktuell       
-OL,5,FQY 4301 Leipzig/Hall2230B              
-OL,6,GDX 191  Frankfurt   0615B    25.11.26  
-OL,7,G  LH 7341                              
-OL,8,FENT547  Cairo       0920B    25.11.26  
-OL,9,GDX 193  Frankfurt   1030B    25.11.26  
-OL,10,G  LH 7343                              
-OL,11,FKK 901P Bratislava  1600B    25.11.26  
-OL,12,GDX 197  Frankfurt   1730B    25.11.26  
-OL,13,G  LH 7345                              
-OL,14,FC3 9382 Bergamo     1735B    25.11.26  
-OL,15,GQY 4127 Leipzig/Hall2145B    25.11.26  
-OL,16,FQY 4301 K|ln/Bonn   2230B    25.11.26  
-OL,17,GDX 191  Frankfurt   0615B    26.11.26  
-OL,18,G  LH 7341                              
-OL,19,FDX 193  Frankfurt   1110B    26.11.26  
-OL,20,F  LH 7343                              
-OL,23,Q,F22:34hGFlughafen LinzF07221/600-1100 
+OL,5,FENT547  Cairo       0920B              
+OL,6,GDX 193  Frankfurt   1030B              
+OL,7,G  LH 7343                              
+OL,8,FKK 901P Bratislava  1600B              
+OL,9,GDX 197  Frankfurt   1730B              
+OL,10,G  LH 7345                              
+OL,11,FC3 9382 Bergamo     1735B              
+OL,12,GQY 4127 Leipzig/Hall2145B              
+OL,13,FQY 4301 K|ln/Bonn   2230B              
+OL,14,GDX 191  Frankfurt   0615B    26.11.26  
+OL,15,G  LH 7341                              
+OL,16,FDX 193  Frankfurt   1110B    26.11.26  
+OL,17,F  LH 7343                              
+OL,18,GDX 197  Frankfurt   1730B    26.11.26  
+OL,19,G  LH 7345                              
+OL,20,FFR 3487 Alicante    2035B    26.11.26  
+OL,23,Q,F08:34hGFlughafen LinzF07221/600-1100 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

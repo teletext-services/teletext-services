@@ -3,26 +3,26 @@ PN,70501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  705Cdin 24 nov  21:49:50
+OL,0,       BNOS-TT  705Cwoe 25 nov  07:49:58
 OL,1,D]                 Fweerrapport   F 1/5 
-OL,2,R]MDW E E R  L       NEDERLAND 21:30 uur
+OL,2,R]MDW E E R  L       NEDERLAND 07:30 uur
 OL,3,B]                                      
 OL,4,T#############BTemp FWind   BZicht FDruk
 OL,5,F                       m/s          hPa
 OL,6,BTerschelling                           
-OL,7,Fdroog         B  2 FOZO  7 B>10km F1023
+OL,7,Fdroog         B  1 F  O 12 B>10km F1020
 OL,8,F                                       
 OL,9,BLeeuwarden                             
-OL,10,Fnevel         B  0 F  O  3 B5800m F1023
+OL,10,Fonbewolkt     B -2 FONO  7 B>10km F1020
 OL,12,BEelde                                  
-OL,13,Fmist          B -1 F  O  3 B200m F1024@
+OL,13,Flicht bewolkt B -3 FONO  5 B>10km F1021
 OL,14,F                                       
 OL,15,BDen Helder                             
-OL,16,Fonbewolkt     B  2 F  O  5 B>10km F1022
+OL,16,Fsluierwolken  B  1 F  O  9 B>10km F1018
 OL,18,BLelystad                               
-OL,19,Fonbewolkt     B -0 F  O  4 B>10km F1022
+OL,19,Fsluierwolken  B -2 FONO  6 B>10km F1018
 OL,21,BSchiphol                               
-OL,22,Fonbewolkt     B  1 F  O  6 B>10km F1021
+OL,22,Fsluierwolken  B -1 FONO  6 B>10km F1016
 OL,23,T,,,,,,,,,,,Bwww.weerplaza.nlT,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -30,26 +30,26 @@ PN,70502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  705Cdin 24 nov  21:49:33
+OL,0,       BNOS-TT  705Cwoe 25 nov  07:49:41
 OL,1,D]                 Fweerrapport   F 2/5 
-OL,2,R]MDW E E R  L       NEDERLAND 21:30 uur
+OL,2,R]MDW E E R  L       NEDERLAND 07:30 uur
 OL,3,B]                                      
 OL,4,T#############BTemp FWind   BZicht FDruk
 OL,5,F                       m/s          hPa
 OL,6,BEnschede                               
-OL,7,Fonbewolkt     B -1 FONO  3 B>10km F1023
+OL,7,Fnevel         B -2 FONO  4 B9800m F1019
 OL,8,F                                       
 OL,9,BDe Bilt                                
-OL,10,Fonbewolkt     B -0 F  O  4 B>10km F1021
+OL,10,Fsluierwolken  B -1 FONO  7 B>10km F1016
 OL,12,BRotterdam                              
-OL,13,Flicht bewolkt B  0 F  O  5 B>10km F1020
+OL,13,Fsluierwolken  B -1 F  O  6 B>10km F1015
 OL,14,F                                       
 OL,15,BEindhoven                              
-OL,16,Fonbewolkt     B  1 F  O  4 B>10km F1020
+OL,16,Fsluierwolken  B -1 FONO  5 B>10km F1015
 OL,18,BVlissingen                             
-OL,19,Fonbewolkt     B  2 F  O  9 B>10km F1018
+OL,19,Fsluierwolken  B  1 F  O  9 B>10km F1013
 OL,21,BMaastricht                             
-OL,22,Fonbewolkt     B -1 F  O  4 B>10km F1019
+OL,22,Fsluierwolken  B -1 F  O  5 B>10km F1014
 OL,23,T,,,,,,,,,,,Bwww.weerplaza.nlT,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -57,25 +57,25 @@ PN,70503
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  705Cdin 24 nov  21:49:34
+OL,0,       BNOS-TT  705Cwoe 25 nov  07:49:52
 OL,1,D]                 Fweerrapport   F 3/5 
-OL,2,R]MDW E E R  L      NEDERLAND 19:00 uur 
+OL,2,R]MDW E E R  L      NEDERLAND 07:00 uur 
 OL,3,B]                                      
 OL,4,T#################CTemperatuur  Neerslag
 OL,5,F                F Max  B  Min          
-OL,6,F                C24/11  C24/11         
-OL,7,BTerschelling   F  3,9  B -0,7  F 0,1 mm
-OL,8,BLeeuwarden     F  4,5  B -0,6  F 0,0 mm
-OL,9,BEelde          F  4,2  B -5,0  F 0,1 mm
-OL,10,BDen Helder     F  3,5  B -0,5  F 3,6 mm
-OL,11,BLelystad       F  2,7  B -2,9  F 0,0 mm
-OL,12,BSchiphol       F  3,6  B -3,1  F 0,0 mm
-OL,13,BEnschede       F  3,1  B -3,9  F 0,0 mm
-OL,14,BDe Bilt        F  3,7  B -4,5  F 0,0 mm
-OL,15,BRotterdam      F  2,0  B -3,7  F 0,0 mm
-OL,16,BEindhoven      F  3,6  B -4,6  F 0,0 mm
-OL,17,BVlissingen     F  3,5  B -0,1  F 0,0 mm
-OL,18,BMaastricht     F  3,3  B -5,7  F 0,0 mm
+OL,6,F                C24/11  C25/11         
+OL,7,BTerschelling   F  3,9  B -0,7  F 0,0 mm
+OL,8,BLeeuwarden     F  4,5  B -2,2  F 0,0 mm
+OL,9,BEelde          F  4,2  B -3,3  F 0,0 mm
+OL,10,BDen Helder     F  3,5  B  0,0  F 0,0 mm
+OL,11,BLelystad       F  2,7  B -2,3  F 0,0 mm
+OL,12,BSchiphol       F  3,6  B -1,2  F 0,0 mm
+OL,13,BEnschede       F  3,1  B -2,8  F 0,0 mm
+OL,14,BDe Bilt        F  3,7  B -1,7  F 0,0 mm
+OL,15,BRotterdam      F  2,0  B -1,2  F 0,0 mm
+OL,16,BEindhoven      F  3,6  B -1,0  F 0,0 mm
+OL,17,BVlissingen     F  3,5  B  0,5  F 0,0 mm
+OL,18,BMaastricht     F  3,3  B -1,4  F 0,0 mm
 OL,19,B                                       
 OL,20,CMaximum temperatuur 07 - 19 uur        
 OL,21,CMinimum temperatuur 19 - 07 uur        
@@ -87,29 +87,29 @@ PN,70504
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  705Cdin 24 nov  kstC705 
+OL,0,       BNOS-TT  705Cwoe 25 nov  07:49:48
 OL,1,D]                 Fweerrapport   F 4/5 
-OL,2,R]MDW E E R  L     EUROPA 19:00 Ned.Tijd
+OL,2,R]MDW E E R  L     EUROPA 07:00 Ned.Tijd
 OL,3,B]                                      
 OL,4,T##################################BTemp
-OL,5,BAthene...........C Flicht bewolkt B 11 
-OL,6,BBarcelona........C Fregen         B 16 
-OL,7,BBerlijn..........C Fmotregen      B  2 
-OL,8,BIstanbul.........C Fonbewolkt     B  7 
-OL,9,BLas Palmas.......C Fhalf bewolkt  B 23 
-OL,10,BLissabon.........C Flicht bewolkt B 15 
+OL,5,BAthene...........C Fzwaar bewolkt B 11 
+OL,6,BBarcelona........C Fzwaar bewolkt B 12 
+OL,7,BBerlijn..........C Fgeheel bewolktB  1 
+OL,8,BIstanbul.........C Fonbewolkt     B  3 
+OL,9,BLas Palmas.......C Fmotregen      B 22 
+OL,10,BLissabon.........C Flicht bewolkt B 14 
 OL,11,BLonden...........C Fgeheel bewolktB  5 
-OL,12,BMadrid...........C Fgeheel bewolktB  9 
-OL,13,BMarseille........C Flicht bewolkt B 14 
-OL,14,BMilaan...........C Fdroog         B  9 
-OL,15,BMoskou...........C Fsneeuw        B -1 
-OL,16,BPalma de MallorcaC Fhalf bewolkt  B 14 
-OL,17,BParijs...........C Fgeheel bewolktB  5 
-OL,18,BPraag............C Fgeheel bewolktB -1 
-OL,19,BRome.............C Flicht bewolkt B 12 
-OL,20,BStockholm........C Fijzel         B  1 
-OL,21,BWarschau.........C Fsneeuwbui     B  3 
-OL,22,BWenen............C Fonbewolkt     B -2 
+OL,12,BMadrid...........C Flicht bewolkt B  6 
+OL,13,BMarseille........C Fregen         B 11 
+OL,14,BMilaan...........C Fregen         B  7 
+OL,15,BMoskou...........C Fsneeuw        B -0 
+OL,16,BPalma de MallorcaC Flicht bewolkt B 16 
+OL,17,BParijs...........C Fregen         B  2 
+OL,18,BPraag............C Flicht bewolkt B -5 
+OL,19,BRome.............C Fgeheel bewolktB 14 
+OL,20,BStockholm........C Fijzel         B  0 
+OL,21,BWarschau.........C Fhalf bewolkt  B -1 
+OL,22,BWenen............C Fzwaar bewolkt B -1 
 OL,23,T,,,,,,,,,,,Bwww.weerplaza.nlT,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -117,26 +117,26 @@ PN,70505
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  705Cdin 24 nov  21:49:50
+OL,0,       BNOS-TT  705Cwoe 25 nov  07:49:55
 OL,1,D]                 Fweerrapport   F 5/5 
-OL,2,R]MDW E E R  L     WERELD 19:00 Ned.Tijd
+OL,2,R]MDW E E R  L     WERELD 07:00 Ned.Tijd
 OL,3,B]                                      
 OL,4,T##################################BTemp
-OL,5,BBangkok..........C Fhalf bewolkt  B 28 
-OL,6,BBuenos Aires.....C Flicht bewolkt B 28 
-OL,7,BChicago..........C Fzwaar bewolkt B  5 
-OL,8,BCuracao..........C Fhalf bewolkt  B 32 
-OL,9,BJohannesburg.....C Fheiig         B 22 
-OL,10,BLos Angeles......C Fzwaar bewolkt B 19 
-OL,11,BNew York.........C Flicht bewolkt B  9 
-OL,12,BPeking...........C Fdroog         B -3 
-OL,13,BPerth............C Fdroog         B 15 
-OL,14,BSydney...........C Fdroog         B 19 
-OL,15,BTel Aviv.........C Flicht bewolkt B 20 
-OL,16,BTokyo............C Fzwaar bewolkt B 10 
-OL,17,BToronto..........C Fonbewolkt     B  3 
-OL,18,BVancouver........C Fregen         B 10 
-OL,19,B                 C F              B   @
+OL,5,BBangkok..........C Fzwaar bewolkt B 33 
+OL,6,BBuenos Aires.....C Fonbewolkt     B 14 
+OL,7,BChicago..........C Fzwaar bewolkt B  2 
+OL,8,BCuracao..........C Flicht bewolkt B 29 
+OL,9,BJohannesburg.....C Fheiig         B 19 
+OL,10,BLos Angeles......C Fhalf bewolkt  B 18 
+OL,11,BNew York.........C Fonbewolkt     B  3 
+OL,12,BParamaribo.......C*Fnevel         B 27 
+OL,13,BPeking...........C Fdroog         B  9 
+OL,14,BPerth............C Fdroog         B 25 
+OL,15,BSydney...........C Fdroog         B 20 
+OL,16,BTel Aviv.........C Fregen         B 18 
+OL,17,BTokyo............C Flicht bewolkt B 13 
+OL,18,BToronto..........C Flicht bewolkt B -3 
+OL,19,BVancouver........C Fregen         B 12 
 OL,20,B                 C F              B   @
 OL,21,B                                       
 OL,22,C* = eerder ontvangen melding           

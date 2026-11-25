@@ -3,12 +3,12 @@ PN,48801
 SC,0001
 PS,C000
 CT,8,T
-OL,0,       GCEEFAX 1 488 Wed 25 NovC02:25/01
+OL,0,       GCEEFAX 1 488 Wed 25 NovC07:20/05
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1        
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CWednesday                    
-OL,5,G0000 Scoth na Mairte                   
-OL,6,     FScoth na Mairte                   
+OL,3,V}yyy5CThursday                     
+OL,5,G0000 Scoth na Ceadaoine                
+OL,6,     FScoth na Ceadaoine                
 OL,7,G0700 Nead na Fuiseoige                 
 OL,8,     FClar ceoil a chur i lathair ag    
 OL,9,     FGrainne Ni Dhomhnaill.            
@@ -32,10 +32,10 @@ PN,48802
 SC,0002
 PS,C000
 CT,8,T
-OL,0,       GCEEFAX 1 488 Wed 25 NovC02:25/01
+OL,0,       GCEEFAX 1 488 Wed 25 NovC07:20/05
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1        
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CWednesday                    
+OL,3,V}yyy5CThursday                     
 OL,5,G1015 Cuideachta Ceoil                  
 OL,6,     FClar ceoil a chur i lathair ag    
 OL,7,     FEibhlin de Bhailis.               
@@ -58,25 +58,28 @@ PN,48803
 SC,0003
 PS,C000
 CT,8,T
-OL,0,       GCEEFAX 1 488 Wed 25 NovC02:25/01
+OL,0,       GCEEFAX 1 488 Wed 25 NovC07:20/05
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1        
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CWednesday                    
+OL,3,V}yyy5CThursday                     
 OL,5,G1300 Nuacht a hAon                     
 OL,6,     FAn barr is deireanai nuachta      
 OL,7,     Fnaisiunta, idirnaisiunta agus     
 OL,8,     Faitiuil.                          
 OL,9,G1400 Tuairisc Spoirt                   
 OL,10,     FTuairisc Spoirt.                  
-OL,11,G1405 Cartlann Bhothar na Leinsi        
-OL,12,     FGlortha o chartlann Bhothar na    
-OL,13,     FLeinsi idir chaint, cheol, spoirt,
-OL,14,     Ffiliocht, leachtai agus go leor   
-OL,15,     Feile.                             
-OL,16,G1430 Coisir Cheoil                     
-OL,17,     FClar ceoil a chur i lathair ag    
-OL,18,     FDonall Mac Ruairi o stiuideo na   
-OL,19,     FnDoiri Beaga, i nDun na nGall.    
+OL,11,G1405 An Cuinne Dana                    
+OL,12,     FSpleachadh ar na healaiona le     
+OL,13,     FTristan Rosenstock, idir          
+OL,14,     Fdhramaiocht, litriocht, scannain  
+OL,15,     Fis ceol. Agallaimh le             
+OL,16,     Fmorealaiontoiri na tire,          
+OL,17,     Fleirmheasanna, agus go leor eile. 
+OL,18,G1430 Coisir Cheoil                     
+OL,19,     FBeidh an Coisir Cheoil ag craoladh
+OL,20,     Fbeo o Theach Mhadain i mBeal      
+OL,21,     FFeirste do sheoladh Scoil         
+OL,22,     FGheimhridh Ghaoth Dobhair 2026.   
 OL,23,VppppppppppppppppppppppppppppppppppG3/5 
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
@@ -84,10 +87,10 @@ PN,48804
 SC,0004
 PS,C000
 CT,8,T
-OL,0,       GCEEFAX 1 488 Wed 25 NovC02:25/01
+OL,0,       GCEEFAX 1 488 Wed 25 NovC07:20/05
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1        
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CWednesday                    
+OL,3,V}yyy5CThursday                     
 OL,5,G1700 Tus Aite                          
 OL,6,     FClar cursai reatha agus nuachta a 
 OL,7,     Fchur i lathair ag Fachtna O       
@@ -101,10 +104,8 @@ OL,14,     Faitiuil.
 OL,15,G1830 Fograi an Lae                     
 OL,16,     FImeachtai agus fograi na          
 OL,17,     FGaeltachta.                       
-OL,18,G1900 Ceol Binn o na Beanna             
-OL,19,     FCeol traidisiunta den scoth, idir 
-OL,20,     Fsean agus nua a chur i lathair ag 
-OL,21,     FNeansai Ni Choisdealbha.          
+OL,18,G1900 Cuan an Cheoil                    
+OL,19,G2030 An Cuinne Ceoil                   
 OL,23,VppppppppppppppppppppppppppppppppppG4/5 
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
@@ -112,10 +113,10 @@ PN,48805
 SC,0005
 PS,C000
 CT,8,T
-OL,0,       GCEEFAX 1 488 Wed 25 NovC02:25/01
+OL,0,       GCEEFAX 1 488 Wed 25 NovC07:20/05
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1        
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CWednesday                    
+OL,3,V}yyy5CThursday                     
 OL,5,G2100 Ri-Ra ar RnaG                     
 OL,6,     FCeol agus amhrain o na cairteanna,
 OL,7,     Far Ri-Ra ar RnaG, ag cur tus      
@@ -124,8 +125,8 @@ OL,9,     Frith na seachtaine.
 OL,10,G2200 An Taobh Tuathail                 
 OL,11,     FCeol nua eagsuil do chach, a chur 
 OL,12,     Fi lathair ag Cian O Ciobhain.     
-OL,13,G0000 Scoth na Ceadaoine                
-OL,14,     FScoth na Ceadaoine                
+OL,13,G0000 Scoth an Deardaoin                
+OL,14,     FScoth an Deardaoin                
 OL,23,VppppppppppppppppppppppppppppppppppG5/5 
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100

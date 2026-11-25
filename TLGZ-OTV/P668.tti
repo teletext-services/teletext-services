@@ -4,24 +4,24 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     668C|ro 25 lis  02:32:22
+OL,0,      BTVP3     668C|ro 25 lis  12:32:45
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo podkarpackie   Q"##
-OL,4,E25.11.2026  2:00    GStany:            
+OL,4,E25.11.2026 12:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FSan                             
-OL,8,FDwernik         B109   F200    260    =
+OL,8,FDwernik         B107   F200    260    =
 OL,9, Lesko           B170   G250    330    =
-OL,10,FDyn_w           B112   F300    460    =
-OL,11, Przemy|l        B109   G380    570    =
-OL,12,FJaros}aw         B78   F440    620    =
-OL,13, Rzuch_w         B249   G570    750    =
-OL,14,FNisko           B140   F370    500    =
+OL,10,FDyn_w           B110   F300    460    =
+OL,11, Przemy|l        B106   G380    570    =
+OL,12,FJaros}aw         B75   F440    620    =
+OL,13, Rzuch_w         B244   G570    750    =
+OL,14,FNisko           B136   F370    500    =
 OL,16, Rzeka:FTanew                           
 OL,17,FHarasiuki       B102   F270    330     
 OL,19, Rzeka:FWis}a                           
-OL,20,FSandomierz       B98   F420    610    =
+OL,20,FSandomierz       B92   F420    610    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,667,669,100,100,0,100
 PN,66802
@@ -29,18 +29,18 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     668C|ro 25 lis  02:32:22
+OL,0,      BTVP3     668C|ro 25 lis  12:32:45
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo podkarpackie   Q"##
-OL,4,E25.11.2026  2:00    GStany:            
+OL,4,E25.11.2026 12:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FWis}ok                          
-OL,8,FKrosno          B172   F350    480    =
-OL,9, Rzesz_w          B60   G300    420    =
-OL,10,FTry$cza         B195   F540    720    =
+OL,8,FKrosno          B171   F350    480    =
+OL,9, Rzesz_w          B55   G300    420    -
+OL,10,FTry$cza         B196   F540    720    =
 OL,12, Rzeka:FWis}oka                         
-OL,13,FKrajowice       B128   F330    450    =
-OL,14, Mielec          B180   G480    650    =
+OL,13,FKrajowice       B127   F330    450    =
+OL,14, Mielec          B181   G480    650    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,667,669,100,100,0,100

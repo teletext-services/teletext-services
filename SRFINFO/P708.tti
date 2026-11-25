@@ -3,15 +3,26 @@ PN,70800
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       G708  SRF info  24.11.26 13:13:59
-OL,1,A]GSRF info G]@Dienstag, 24. November   
+OL,0,       G708  SRF info  25.11.26 10:24:58
+OL,1,A]GSRF info G]@Mittwoch, 25. November   
 OL,2,G                                       
-OL,3,F04:45 FMeteo (W)...................C   
-OL,4,       FSp{tausgabeCDDCUT               
-OL,5,G04:50 GSportflash (W)..............C750
-OL,6,       GDie Sportnews des TagesCDD      
-OL,7,F04:55 FUEFA Champions League -.....C751
-OL,8,       FHighlights M{nner   (W)         
-OL,9,       FAlle Spiele, alle ToreCDD       
+OL,3,G01:45 GUEFA Champions League -.....C750
+OL,4,       GHighlights M{nner   (W)         
+OL,5,       GAlle Spiele, alle ToreCDDCUT    
+OL,6,F02:30 FNewsflash SRF 1 (W)CDDCUT...C   
+OL,7,G02:40 G10 vor 10 (W)CDDCUT.........C   
+OL,8,F03:05 FMeteo (W)...................C   
+OL,9,       FSp{tausgabeCDDCUT               
+OL,10,G03:10 GSportflash (W)..............C751
+OL,11,       GDie Sportnews des TagesCDD      
+OL,12,F03:15 FUEFA Champions League -.....C752
+OL,13,       FHighlights M{nner   (W)         
+OL,14,       FAlle Spiele, alle ToreCDDCUT    
+OL,15,G04:00 GNewsflash SRF 1 (W)CDDCUT...C   
+OL,16,F04:05 F10 vor 10 (W)CDDCUT.........C   
+OL,17,G04:30 GMeteo (W)...................C   
+OL,18,       GSp{tausgabeCDDCUT               
+OL,19,F04:35 FSportflash (W)..............C753
+OL,20,       FDie Sportnews des TagesCDD      
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

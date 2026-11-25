@@ -3,22 +3,19 @@ PN,24801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G00:45:46
+OL,0,       BSWR BW C   Mi, 25.11.26G10:46:15
 OL,1,Rppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,B]DSWR >>P5DFUSSBALL            P5      
 OL,3,R#########"######################"######
 OL,4,CLandesliga Rhein-Neckar                
-OL,9,FSamstag, 21. November                  
-OL,10, VfB St. Leon    - FC Bammental    C1:1 
-OL,11, ASC Neuenheim   - FC  Dossenheim  C4:4 
-OL,12,FSonntag, 22. November                  
-OL,13, FV 1918 Br}hl   - T}rk. Mannheim  C1:1 
-OL,14, L}tzelsachsen   - SG-SV Lobbach   C2:1 
-OL,15, Zuzenhausen II  - FV Nu~loch      C0:0 
-OL,16, VfB Leimen      - Spvgg 06 Ketsch C2:2 
-OL,17, VfB Gartenstadt - Srbija Mannheim C0:0 
-OL,18,FMittwoch, 25. November                 
-OL,19, ASC Neuenheim   - TSV Viernheim  F20:00
+OL,10,FSamstag, 28. November                  
+OL,11, FV 1918 Br}hl   - SG-SV Lobbach  F16:00
+OL,12,FSonntag, 29. November                  
+OL,13, VfB Gartenstadt - FC  Dossenheim F14:00
+OL,14, VfB St. Leon    - Srbija MannheimF14:00
+OL,15, VfB Leimen      - FC Bammental   F14:00
+OL,16, Zuzenhausen II  - Spvgg 06 KetschF14:00
+OL,17, L}tzelsachsen   - FV Nu~loch     F14:00
 OL,23,B]D ]bersicht 220           Tabelle 1 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -26,7 +23,7 @@ PN,24802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G00:45:46
+OL,0,       BSWR BW C   Mi, 25.11.26G10:46:15
 OL,1,Rppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,B]DSWR >>P5DFUSSBALL            P5      
 OL,3,R#########"######################"######
@@ -53,21 +50,20 @@ PN,24803
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G00:45:47
+OL,0,       BSWR BW C   Mi, 25.11.26G10:46:15
 OL,1,Rppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,B]DSWR >>P5DFUSSBALL            P5      
 OL,3,R#########"######################"######
 OL,4,CLandesliga Mittelbaden                 
-OL,9,FFreitag, 20. November                  
-OL,10, SG Stupferich   - FC \stringen    C1:0 
-OL,11,FSonntag, 22. November                  
-OL,12, FV Wiesental    - Langensteinbach C5:1 
-OL,13, FV Forchheim    - VfB Knielingen  C4:2 
-OL,14, ASV Durlach     - 05 Reichenbach  C2:4 
-OL,15, FC Flehingen    - VfB Bretten     C0:3 
-OL,16, FC N|ttingen II - SV Huchenfeld   C2:2 
-OL,17, FC O. Kirrlach  - Heidelsheim     C0:1 
-OL,18, 1. FC Ersingen  - Ettlingenweier  C5:1 
+OL,10,FSonntag, 29. November                  
+OL,11, FC O. Kirrlach  - SV Huchenfeld  F14:00
+OL,12, VfB Bretten     - Heidelsheim    F14:00
+OL,13, 1. FC Ersingen  - FC Flehingen   F14:00
+OL,14, ASV Durlach     - Ettlingenweier F14:00
+OL,15, SG Stupferich   - 05 Reichenbach F14:00
+OL,16, FV Forchheim    - FC \stringen   F14:00
+OL,17, FV Wiesental    - VfB Knielingen F14:00
+OL,18, FC N|ttingen II - Conweiler-Sch. F14:00
 OL,23,B]D ]bersicht 220         Mittelbaden >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -75,7 +71,7 @@ PN,24804
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G00:45:47
+OL,0,       BSWR BW C   Mi, 25.11.26G10:46:15
 OL,1,Rppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,B]DSWR >>P5DFUSSBALL            P5      
 OL,3,R#########"######################"######
@@ -104,19 +100,20 @@ PN,24805
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G00:45:47
+OL,0,       BSWR BW C   Mi, 25.11.26G10:46:15
 OL,1,Rppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,B]DSWR >>P5DFUSSBALL            P5      
 OL,3,R#########"######################"######
 OL,4,CLandesliga Odenwald                    
-OL,10,FSonntag, 22. November                  
-OL,11, FSV Tauberh|he  - TSV Mudau       C1:1 
-OL,12, TSV Assamstadt  - T'bischofsheim  C0:3 
-OL,13, FV Mosbach      - SV K|nigshofen  C6:0 
-OL,14, FC Gr}nsfeld    - FSV Waldbrunn   C2:1 
-OL,15, SV Neckargerach - VfB Sennfeld    C3:1 
-OL,16, TSV Billigheim  - SV Osterburken  C3:0 
-OL,17, FV Lauda 1913   - SV E. Nassig    C2:2 
+OL,10,FSonntag, 29. November                  
+OL,11, TSV Mudau       - SpVgg.NeckarelzF14:00
+OL,12, TSV Billigheim  - SV E. Nassig   F14:00
+OL,13, SV Neckargerach - SV Osterburken F14:00
+OL,14, FC Gr}nsfeld    - VfB Sennfeld   F14:00
+OL,15, FV Mosbach      - FSV Waldbrunn  F14:00
+OL,16, TSV Assamstadt  - SV K|nigshofen F14:00
+OL,17, FSV Tauberh|he  - T'bischofsheim F14:00
+OL,18, FV Lauda 1913   - VfK Diedesheim F14:00
 OL,23,B]D ]bersicht 220            Odenwald >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -124,7 +121,7 @@ PN,24806
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G00:45:47
+OL,0,       BSWR BW C   Mi, 25.11.26G10:46:15
 OL,1,Rppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,B]DSWR >>P5DFUSSBALL            P5      
 OL,3,R#########"######################"######

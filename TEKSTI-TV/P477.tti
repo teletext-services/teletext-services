@@ -3,8 +3,8 @@ PN,47701
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
-OL,1,D]G         VOITTAJAVETO 1         1/7  
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         VOITTAJAVETO 1         1/14 
 OL,2,K                                       
 OL,3,BM       Salibandyn MM-kisat 2026       
 OL,5,K                                       
@@ -32,8 +32,66 @@ PN,47702
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
-OL,1,D]G         SUPERTRIPLA 5          2/7  
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         VOITTAJAVETO 2         2/14 
+OL,2,K                                       
+OL,3,BMAmpumahiihto, miehet 20km normaalimatk
+OL,5,K                                       
+OL,6,K                                       
+OL,7,G 1 Laegreid Sturla  16 Strelow Justus  
+OL,8,G 2 Perrot Eric      17 Muu voittaja    
+OL,9,G 3 Botn Johan-Olav                     
+OL,10,G 4 Christiansen Vet                    
+OL,11,G 5 Samuelsson Sebas                    
+OL,12,G 6 Giacomel Tommaso                    
+OL,13,G 7 Uldal Martin                        
+OL,14,G 8 Fillon Maillet Q                    
+OL,15,G 9 Nawrath Philipp                     
+OL,16,G10 Dale Johannes                       
+OL,17,G11 Frey Isak                           
+OL,18,G12 Wright Campbell                     
+OL,19,G13 Hofer Lukas                         
+OL,20,G14 Claude Fabien                       
+OL,21,G15 Hiidensalo Olli                     
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy to 26.11. klo 17.15.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47703
+SC,0003
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         SUPERTRIPLA 1          3/14 
+OL,2,K                                       
+OL,3,BMAmpumahiihto, naiset 15km normaalimatk
+OL,5,K                                       
+OL,6,BVoittaja                               
+OL,7,K                                       
+OL,8,G 1 Jeanmonnot Lou   15 Hristova Lora   
+OL,9,G 2 Vittozzi Lisa    16 Muu voittaja    
+OL,10,G 3 Simon Julia                         
+OL,11,G 4 \berg Elvira                        
+OL,12,G 5 Minkkinen Suvi                      
+OL,13,G 6 Bened Camille                       
+OL,14,G 7 Kirkeeide Maren                     
+OL,15,G 8 Braisaz Bouchet                     
+OL,16,G 9 Michelon Oceane                     
+OL,17,G10 Hettich Walz Jan                    
+OL,18,G11 Magnusson Anna                      
+OL,19,G12 Voigt Vanessa                       
+OL,20,G13 Halvarsson Ella                     
+OL,21,G14 Vobornikova Tere                    
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy pe 27.11. klo 17.15.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47704
+SC,0004
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         SUPERTRIPLA 5          4/14 
 OL,2,K                                       
 OL,3,BMAmpumahiihto, kokonaiskilpailu, mieste
 OL,5,K                                       
@@ -57,12 +115,12 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy to 26.11. klo 17.15.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47703
-SC,0003
+PN,47705
+SC,0005
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
-OL,1,D]G         SUPERTRIPLA 6          3/7  
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         SUPERTRIPLA 6          5/14 
 OL,2,K                                       
 OL,3,BMAmpumahiihto, kokonaiskilpailu, naiste
 OL,5,K                                       
@@ -86,12 +144,12 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy pe 27.11. klo 17.15.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47704
-SC,0004
+PN,47706
+SC,0006
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
-OL,1,D]G         SUPERTRIPLA 9          4/7  
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         SUPERTRIPLA 9          6/14 
 OL,2,K                                       
 OL,3,BMAmpumahiihto, miehet 20km normaalimatk
 OL,5,K                                       
@@ -115,12 +173,99 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy to 26.11. klo 17.15.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47705
-SC,0005
+PN,47707
+SC,0007
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
-OL,1,D]G         P[IV[N TRIO 2          5/7  
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         P[IV[N TRIO 1          7/14 
+OL,2,K                                       
+OL,3,BMAmpumahiihto, miehet 20km normaalimatk
+OL,5,K                                       
+OL,6,Bkilpailu 1: Ryhm{n parhaiten sijoittuva
+OL,7,K                                       
+OL,8,G 1 Perrot Eric                         
+OL,9,G 2 Laegreid Sturla Holm                
+OL,10,G 3 Botn Johan-Olav                     
+OL,11,G 4 Christiansen Vetle Sjaastad         
+OL,12,G 5 Samuelsson Sebastian                
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy to 26.11. klo 17.15.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47708
+SC,0008
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         P[IV[N TRIO 1          8/14 
+OL,2,K                                       
+OL,3,BMAmpumahiihto, miehet 20km normaalimatk
+OL,5,K                                       
+OL,6,Bkilpailu 2: Ryhm{n parhaiten sijoittuva
+OL,7,K                                       
+OL,8,G 1 Giacomel Tommaso                    
+OL,9,G 2 Fillon Maillet Quentin              
+OL,10,G 3 Nawrath Philipp                     
+OL,11,G 4 Hofer Lukas                         
+OL,12,G 5 Uldal Martin                        
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy to 26.11. klo 17.15.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47709
+SC,0009
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         P[IV[N TRIO 1          9/14 
+OL,2,K                                       
+OL,3,BMAmpumahiihto, miehet 20km normaalimatk
+OL,5,K                                       
+OL,6,Bkilpailu 3: Ryhm{n parhaiten sijoittuva
+OL,7,K                                       
+OL,8,G 1 Hiidensalo Olli                     
+OL,9,G 2 Claude Fabien                       
+OL,10,G 3 Zakhna Rene                         
+OL,11,G 4 Harjula Tuomas                      
+OL,12,G 5 Brandt Viktor                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy to 26.11. klo 17.15.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47710
+SC,0010
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         P[IV[N TRIO 2          10/14
 OL,2,K                                       
 OL,3,BM         Puoliaika/lopputulos         
 OL,5,K                                       
@@ -144,12 +289,12 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy ke 25.11. klo 22.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47706
-SC,0006
+PN,47711
+SC,0011
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
-OL,1,D]G         P[IV[N TRIO 3          6/7  
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         P[IV[N TRIO 3          11/14
 OL,2,K                                       
 OL,3,BM        Otteluiden maalim{{r{t        
 OL,5,K                                       
@@ -173,12 +318,12 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy to 26.11. klo 02.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47707
-SC,0007
+PN,47712
+SC,0012
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 25.03.01:51:44
-OL,1,D]G         P[IV[N TRIO 4          7/7  
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         P[IV[N TRIO 4          12/14
 OL,2,K                                       
 OL,3,BM        Otteluiden maalim{{r{t        
 OL,5,K                                       
@@ -200,5 +345,63 @@ OL,20,G11 11 maalia
 OL,21,G12 12 maalia tai yli                   
 OL,22,K                                       
 OL,23,BPelaaminen p{{ttyy ke 25.11. klo 18.30.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47713
+SC,0013
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         P[IV[N TRIO 5          13/14
+OL,2,K                                       
+OL,3,BM        Otteluiden maalim{{r{t        
+OL,5,K                                       
+OL,6,Bkilpailu 1: Sport - Ilves              
+OL,7,Bkilpailu 2: Pyry - Ketter{             
+OL,8,Bkilpailu 3: V{xj| - Djurg}rden         
+OL,9,K                                       
+OL,10,G 1 0-1 maalia                          
+OL,11,G 2 2 maalia                            
+OL,12,G 3 3 maalia                            
+OL,13,G 4 4 maalia                            
+OL,14,G 5 5 maalia                            
+OL,15,G 6 6 maalia                            
+OL,16,G 7 7 maalia                            
+OL,17,G 8 8 maalia                            
+OL,18,G 9 9 maalia                            
+OL,19,G10 10 maalia                           
+OL,20,G11 11 maalia                           
+OL,21,G12 12 maalia tai yli                   
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy to 26.11. klo 18.30.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47714
+SC,0014
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 25.03.11:51:48
+OL,1,D]G         P[IV[N TRIO 6          14/14
+OL,2,K                                       
+OL,3,BM         Puoliaika/lopputulos         
+OL,5,K                                       
+OL,6,Bkilpailu 1: SC Braga - KuPS            
+OL,7,Bkilpailu 2: SC Freiburg - FC Twente    
+OL,8,Bkilpailu 3: Nordsjaelland - Panathinaik
+OL,9,K                                       
+OL,10,G 1 1/1                                 
+OL,11,G 2 1/X                                 
+OL,12,G 3 1/2                                 
+OL,13,G 4 X/1                                 
+OL,14,G 5 X/X                                 
+OL,15,G 6 X/2                                 
+OL,16,G 7 2/1                                 
+OL,17,G 8 2/X                                 
+OL,18,G 9 2/2                                 
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy to 26.11. klo 22.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

@@ -3,9 +3,9 @@ PN,44301
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G443FORF1   GDi 24.11.26 22:16:16
+OL,0,       G443FORF1   GMi 25.11.26 08:16:17
 OL,1,A]WG           Billig tanken Steiermark 
-OL,2,A]GMOTOR  ]A             24.11.,20:52h \
+OL,2,A]GMOTOR  ]A             25.11.,06:09h \
 OL,3,Q#########G                        1/7  
 OL,4,C                               Super95 
 OL,5,G8020 Graz, F. LEITNER                  
@@ -33,9 +33,9 @@ PN,44302
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G443FORF1   GDi 24.11.26 22:16:16
+OL,0,       G443FORF1   GMi 25.11.26 08:16:17
 OL,1,A]WG           Billig tanken Steiermark 
-OL,2,A]GMOTOR  ]A             24.11.,20:52h \
+OL,2,A]GMOTOR  ]A             25.11.,06:09h \
 OL,3,Q#########G                        2/7  
 OL,4,C                               Super95 
 OL,5,G8740 Zeltweg, Diskont Tankstelle       
@@ -63,9 +63,9 @@ PN,44303
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G443FORF1   GDi 24.11.26 22:16:16
+OL,0,       G443FORF1   GMi 25.11.26 08:16:17
 OL,1,A]WG           Billig tanken Steiermark 
-OL,2,A]GMOTOR  ]A             24.11.,20:52h \
+OL,2,A]GMOTOR  ]A             25.11.,06:09h \
 OL,3,Q#########G                        3/7  
 OL,4,C                               Super95 
 OL,5,G8184 Feistritz bei Anger, F. LEITNER   
@@ -85,9 +85,9 @@ PN,44304
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G443FORF1   GDi 24.11.26 22:16:16
+OL,0,       G443FORF1   GMi 25.11.26 08:16:18
 OL,1,A]WG           Billig tanken Steiermark 
-OL,2,A]GMOTOR  ]A             24.11.,20:52h \
+OL,2,A]GMOTOR  ]A             25.11.,06:09h \
 OL,3,Q#########G                        4/7  
 OL,4,C                                Diesel 
 OL,5,G8052 Graz, SOCAR Graz-Steinbergstra~e  
@@ -96,16 +96,16 @@ OL,7,F8055 Graz, F. LEITNER
 OL,8,F     Puntigamerstra~e 143        1,865 
 OL,9,G8055 Graz, Diskont Tankstelle          
 OL,10,G     Gmeinstra~e 4 (am HOFER     1,867 
-OL,11,F8020 Graz, F. LEITNER                  
-OL,12,F     K{rntner Stra~e 4           1,868 
-OL,13,G8020 Graz Karlau, Diskont Tankstelle   
-OL,14,G     Karlauerguertel 4 (am HOFER 1,868 
+OL,11,F8020 Graz, Sprint - K{rntner Stra~e 30 
+OL,12,F     K{rntner Stra~e 30          1,868 
+OL,13,G8020 Graz, F. LEITNER                  
+OL,14,G     K{rntner Stra~e 4           1,868 
 OL,15,F8750 Judenburg, SOCAR Judenburg        
 OL,16,F     Burggasse 85a               1,869 
 OL,17,G8750 Judenburg, Seebacher Tank- u.     
 OL,18,G     Burggasse 92                1,870 
-OL,19,F8753 Fohnsdorf, Turm|l Quick           
-OL,20,F     Judenburger Stra~e 12       1,873 
+OL,19,F9463 Reichenfels, F. LEITNER           
+OL,20,F     Industriestra~e 1           1,871 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -115,15 +115,15 @@ PN,44305
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       G443FORF1   GDi 24.11.26 22:16:16
+OL,0,       G443FORF1   GMi 25.11.26 08:16:18
 OL,1,A]WG           Billig tanken Steiermark 
-OL,2,A]GMOTOR  ]A             24.11.,20:52h \
+OL,2,A]GMOTOR  ]A             25.11.,06:09h \
 OL,3,Q#########G                        5/7  
 OL,4,C                                Diesel 
-OL,5,G8761 P|ls, SOCAR P|ls                  
-OL,6,G     Tauernstra~e 47             1,873 
-OL,7,F8720 Knittelfeld, AVANTI - Knittelfeld 
-OL,8,F     K{rntner Stra~e 75          1,873 
+OL,5,G8753 Fohnsdorf, Turm|l Quick           
+OL,6,G     Judenburger Stra~e 12       1,873 
+OL,7,F8761 P|ls, SOCAR P|ls                  
+OL,8,F     Tauernstra~e 47             1,873 
 OL,9,G8510 Stainz, Turm|l Quick              
 OL,10,G     Grazer Stra~e 34-35         1,884 
 OL,11,F8502 Lannach, SOCAR Lannach            
@@ -132,10 +132,10 @@ OL,13,G8583 Edelschrott, SB DISKONT plus
 OL,14,G     Packerstra~e 50             1,908 
 OL,15,F8570 B{rnbach, SB DISKONT plus         
 OL,16,F     Packerstra~e 4              1,908 
-OL,17,G8472 Vogau, F. LEITNER                 
-OL,18,G     Rebenland Center Stra~e 2   1,912 
-OL,19,F8181 St.Ruprecht, F. LEITNER           
-OL,20,F     Obere Haupstra~e 384        1,924 
+OL,17,G8211 Gro~pesendorf, yes                
+OL,18,G     Gro~pesendorf 41            1,909 
+OL,19,F8472 Vogau, F. LEITNER                 
+OL,20,F     Rebenland Center Stra~e 2   1,912 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -145,19 +145,19 @@ PN,44306
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       G443FORF1   GDi 24.11.26 22:16:16
+OL,0,       G443FORF1   GMi 25.11.26 08:16:18
 OL,1,A]WG           Billig tanken Steiermark 
-OL,2,A]GMOTOR  ]A             24.11.,20:52h \
+OL,2,A]GMOTOR  ]A             25.11.,06:09h \
 OL,3,Q#########G                        6/7  
 OL,4,C                                Diesel 
-OL,5,G8184 Feistritz bei Anger, F. LEITNER   
-OL,6,G     Viertelfeistritz 46         1,924 
-OL,7,F8200 Hofst{tten an der Raab, F. LEITNER
-OL,8,F     Hofst{tten an der Raab 113  1,925 
-OL,9,G8160 PREDING BEI WEIZ, JET TANKSTELLE  
-OL,10,G     BUNDESSTRASSE 7             1,929 
-OL,11,F8200 GLEISDORF, JET TANKSTELLE         
-OL,12,F     WEIZER STRASSE 50           1,929 
+OL,5,G8181 St.Ruprecht, F. LEITNER           
+OL,6,G     Obere Haupstra~e 384        1,924 
+OL,7,F8184 Feistritz bei Anger, F. LEITNER   
+OL,8,F     Viertelfeistritz 46         1,924 
+OL,9,G8200 Hofst{tten an der Raab, F. LEITNER
+OL,10,G     Hofst{tten an der Raab 113  1,925 
+OL,11,F8160 PREDING BEI WEIZ, JET TANKSTELLE  
+OL,12,F     BUNDESSTRASSE 7             1,929 
 OL,21,             >>www.spritpreisrechner.at 
 OL,22,        >>www.wirtschaftsministerium.at 
 OL,23,QGARB\ Infodienst (Angaben ohne Gew{hr) 
@@ -167,9 +167,9 @@ PN,44307
 SC,0007
 PS,C200
 CT,15,T
-OL,0,       G443FORF1   GDi 24.11.26 22:16:16
+OL,0,       G443FORF1   GMi 25.11.26 08:16:18
 OL,1,A]WG           Billig tanken Steiermark 
-OL,2,A]GMOTOR  ]A             24.11.,20:52h \
+OL,2,A]GMOTOR  ]A             25.11.,06:09h \
 OL,3,Q#########G                        7/7  
 OL,4,GDie Dateneingaben der angegebenen      
 OL,5,GPreise und sonstigen Konditionen       

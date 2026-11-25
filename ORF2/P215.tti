@@ -3,28 +3,22 @@ PN,21501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G215FORF2   GDi 24.11.26 22:25:34
+OL,0,       G215FORF2   GMi 25.11.26 08:25:03
 OL,1,A]G                             Fu~ball 
-OL,2,A]GSPORT  ]A     Deutschland, 10.Runde \
-OL,3,Q#########G                        1/3  
-OL,4,CSonntag                                
-OL,5,FAugsburg      - Mainz        F3:1 (2:0)
-OL,6, Gregoritsch 19.,48., Bah 36.; K|nigs-  
-OL,7, d|rffer 51.; Gregoritsch bis 73. (A);  
-OL,8, mit Posch, Mwene bis 85. (M)           
-OL,9,FBremen        - Hamburg      F4:0 (0:0)
-OL,10, Friedl 55., Njinmah 66.,70.,           
-OL,11, F}llkrug 92.; mit Friedl (B)           
-OL,13,CSamstag                                
-OL,14,FM'gladbach    - Dortmund     F0:1 (0:0)
-OL,15, F.Nmecha 80.; Sabitzer ab 73. (D)      
-OL,16,FElversberg    - Freiburg     F0:1 (0:0)
-OL,17, Matanovic 68.;                         
-OL,18, mit Kristof (E); mit Lienhart (F)      
-OL,19,FUnion Berlin  - Leipzig      F1:5 (1:1)
-OL,20, Aebischer 41.; Nusa 18./E, Romulo 50., 
-OL,21, Gruda 72., Reitz 76., Baku 89.;        
-OL,22, Baumgartner bis 61., Seiwald ab 61. (L)
+OL,2,A]GSPORT  ]A     Deutschland, 11.Runde \
+OL,3,Q#########G                        1/2  
+OL,4,CFreitag                                
+OL,5,GBremen        - M'gladbach   G20.30h   
+OL,7,CSamstag                                
+OL,8,GMainz         - Union Berlin G15.30h   
+OL,9,GHamburg       - Bayern       G15.30h   
+OL,10,GK|ln          - Elversberg   G15.30h   
+OL,11,GPaderborn     - Schalke      G15.30h   
+OL,12,GStuttgart     - Frankfurt    G18.30h   
+OL,14,CSonntag                                
+OL,15,GFreiburg      - Leipzig      G15.30h   
+OL,16,GHoffenheim    - Augsburg     G17.30h   
+OL,17,GDortmund      - Leverkusen   G19.30h   
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -32,35 +26,10 @@ PN,21502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G215FORF2   GDi 24.11.26 22:25:34
-OL,1,A]G                             Fu~ball 
-OL,2,A]GSPORT  ]A     Deutschland, 10.Runde \
-OL,3,Q#########G                        2/3  
-OL,4,CSamstag (Forts.)                       
-OL,5,FLeverkusen    - Paderborn    F4:0 (1:0)
-OL,6, A.Moreira 14.,47., Schick 51.,         
-OL,7, Fernandez 59.                          
-OL,8,FFrankfurt     - Hoffenheim   F1:0 (1:0)
-OL,9, Burkardt 25.; Rot: Kabak 93./H;        
-OL,10, Prass bis 80. (H)                      
-OL,11,FSchalke       - Stuttgart    F0:0      
-OL,12, mit Ljubicic, Adamu bis 81. (Sch.);    
-OL,13, Spalt (St.) bis 71.                    
-OL,15,CFreitag                                
-OL,16,FBayern        - K|ln         F1:1 (1:1)
-OL,17, Brown 37.; Moore 12.;                  
-OL,18, Laimer (B) bis 70.                     
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,21503
-SC,0003
-PS,C200
-CT,15,T
-OL,0,       G215FORF2   GDi 24.11.26 22:25:34
+OL,0,       G215FORF2   GMi 25.11.26 08:25:03
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A     ADeutschland, Tabelle \
-OL,3,Q#########G                        3/3  
+OL,3,Q#########G                        2/2  
 OL,4,G 1 Bor.Dortmund    10  7  3  0 17:7  24
 OL,5,G 2 Bayern M}nchen  10  6  4  0 30:10 22
 OL,6,G 3 SC Freiburg     10  7  1  2 21:10 22

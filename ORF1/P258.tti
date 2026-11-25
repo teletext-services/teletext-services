@@ -3,48 +3,19 @@ PN,25801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G258FORF1   GDi 24.11.26 22:10:59
+OL,0,       G258FORF1   GMi 25.11.26 08:10:30
 OL,1,A]G                            Football 
 OL,2,A]GSPORT  ]A          NFL, 11.Spieltag \
-OL,3,Q#########G                        1/4  
-OL,4,CMontag                                 
-OL,5,FWashington    - Cincinnati      22:20  
-OL,6,CSonntag                                
-OL,7, Buffalo       - Miami           26:9   
-OL,8,FCarolina      - Baltimore       35:33  
-OL,9, Chicago       - New Orleans     21:13  
-OL,10,FDallas        - Tennessee       51:30  
-OL,11, Detroit       - Tampa Bay       31:21  
-OL,12,FKansas City   - Arizona         34:7   
-OL,13, Philadelphia  - Pittsburgh      19:16  
-OL,14,FL.A.Chargers  - N.Y.Jets        24:27  
-OL,15, N.Y.Giants    - Jacksonville    23:18  
-OL,16,FDenver        - Las Vegas       38:24  
-OL,17, San Francisco - MinnesotaF    *G35:10  
-OL,18,CDonnerstag                             
-OL,19,FHouston       - Indianapolis    26:3   
-OL,21,Fspielfrei:GAtlanta, Cleveland, Green   
-OL,22,GBay, L.A.Rams, New England, Seattle    
-OL,23,Q,,,,F* in Mexiko City (Aztekenstadion) 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,25802
-SC,0002
-PS,C200
-CT,15,T
-OL,0,       G258FORF1   GDi 24.11.26 22:10:59
-OL,1,A]G                            Football 
-OL,2,A]GSPORT  ]A          NFL, 11.Spieltag \
-OL,3,Q#########G                        2/4  
-OL,4,CMittwoch, 25.November                  
+OL,3,Q#########G                        1/3  
+OL,4,CMittwoch                               
 OL,5, L.A.Rams      - Green Bay              
-OL,6,CDonnerstag, 26.November                
+OL,6,CDonnerstag                             
 OL,7, Detroit       - Chicago                
 OL,8, Dallas        - Philadelphia           
 OL,9, Buffalo       - Kansas City            
-OL,10,CFreitag, 27.November                   
+OL,10,CFreitag                                
 OL,11, Pittsburgh    - Denver                 
-OL,12,CSonntag, 29.November                   
+OL,12,CSonntag                                
 OL,13, Cincinnati    - New Orleans            
 OL,14, Cleveland     - Las Vegas              
 OL,15, Indianapolis  - N.Y.Giants             
@@ -55,17 +26,17 @@ OL,19, Jacksonville  - Tennessee
 OL,20, Arizona       - Washington             
 OL,21, San Francisco - Seattle                
 OL,22, L.A.Chargers  - New England            
-OL,23, Tampa Bay     - Carolina       CMontag 
+OL,23, Tampa Bay     - Carolina     CMontag   
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,25803
-SC,0003
+PN,25802
+SC,0002
 PS,C200
 CT,15,T
-OL,0,       G258FORF1   GDi 24.11.26 22:10:59
+OL,0,       G258FORF1   GMi 25.11.26 08:10:30
 OL,1,A]G                            Football 
 OL,2,A]GSPORT  ]A  NFL, American Conference \
-OL,3,Q#########G                        3/4  
+OL,3,Q#########G                        2/3  
 OL,4,FEastern Division         S  N  U  %Pkt 
 OL,5,  Buffalo Bills           9  1  0  .900 
 OL,6,  New England Patriots    5  5  0  .500 
@@ -73,8 +44,8 @@ OL,7,  New York Jets  G        3  8  0  .273
 OL,8,  Miami Dolphins          1  9  0  .100 
 OL,9,FNorthern Division                      
 OL,10,  Cincinnati Bengals  G   7  3  0  .700 
-OL,11,  Pittsburgh Steelers     6  4  0  .600 
-OL,12,  Cleveland Browns        6  4  0  .600 
+OL,11,  Cleveland Browns        6  4  0  .600 
+OL,12,  Pittsburgh Steelers     6  4  0  .600 
 OL,13,  Baltimore Ravens        4  7  0  .364 
 OL,14,FSouthern Division                      
 OL,15,  Jacksonville Jaguars    7  3  0  .700 
@@ -82,20 +53,20 @@ OL,16,  Houston Texans          4  6  0  .400
 OL,17,  Indianapolis Colts  G   3  8  0  .273 
 OL,18,  Tennessee Titans        1  9  0  .100 
 OL,19,FWestern Division                       
-OL,20,  Kansas City Chiefs      8  2  0  .800 
-OL,21,  Denver Broncos          8  2  0  .800 
+OL,20,  Denver Broncos          8  2  0  .800 
+OL,21,  Kansas City Chiefs      8  2  0  .800 
 OL,22,  Las Vegas Raiders       4  7  0  .364 
 OL,23,  Los Angeles ChargersG   1  9  0  .100 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,25804
-SC,0004
+PN,25803
+SC,0003
 PS,C200
 CT,15,T
-OL,0,       G258FORF1   GDi 24.11.26 22:10:59
+OL,0,       G258FORF1   GMi 25.11.26 08:10:30
 OL,1,A]G                            Football 
 OL,2,A]GSPORT  ]A  NFL, National Conference \
-OL,3,Q#########G                        4/4  
+OL,3,Q#########G                        3/3  
 OL,4,FEastern Division         S  N  U  %Pkt 
 OL,5,  New York Giants         6  3  1  .650 
 OL,6,  Dallas CowboysF G       5  6  0  .455 
@@ -113,8 +84,8 @@ OL,17,  New Orleans Saints      3  7  0  .300
 OL,18,  Atlanta Falcons         3  7  0  .300 
 OL,19,FWestern Division                       
 OL,20,  San Francisco 49ers     9  1  0  .900 
-OL,21,  Los Angeles Rams        6  4  0  .600 
-OL,22,  Seattle Seahawks        6  4  0  .600 
+OL,21,  Seattle Seahawks        6  4  0  .600 
+OL,22,  Los Angeles Rams        6  4  0  .600 
 OL,23,  Arizona Cardinals       3  8  0  .273 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

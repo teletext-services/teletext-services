@@ -1,31 +1,61 @@
 DE,DR-TEKST-TV 601
-PN,60100
-SC,0000
-PS,8108
+PN,60101
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       GDR   S601  tir 24 nov   20:10:29
+OL,0,       GDR   S601  ons 25 nov   05:11:20
 OL,1,T################]GSENDER P] FM   
-OL,2,D]GP1  \TIRSDAG 24.NOVD]GKL.06-18 SEC638
+OL,2,D]GP1  \ONSDAG 25.NOV D]GKL.06-18 SEC638
 OL,3,T#######################################
-OL,4,C613F19:30GGenstart: Attentatplaner     
-OL,5,    F     Gi CharlottenlundA>           
-OL,6,    F     G                             
-OL,7,C610F20:03GVerdens navle: RitualerA>    
+OL,4,    F05:00GRadioavisenA>                
+OL,5,    F     G                             
+OL,6,    F05:03GVildt Naturligt: Dansk natur 
+OL,7,    F     G- for, nu og fremover?A>     
 OL,8,    F     G                             
-OL,9,C611F21:03GKampen om historienA>        
-OL,10,    F     GYtringsfrihed eller mundkurv?
+OL,9,    F06:05GP1 MorgenA>                  
+OL,10,    F     G                             
+OL,11,C609F09:05GVerden ifolge GramA>         
+OL,12,    F     GRykker Spanien ud til hojre  
+OL,13,    F     Gp} sondag?                   
+OL,14,    F     G                             
+OL,15,C610F10:03GBrinkmanns briksA>           
+OL,16,    F     GStyrer hormoner dit helbred? 
+OL,17,    F     G                             
+OL,18,C611F11:03GSkonlitteraturA>             
+OL,19,    F     GDe voksne synger!            
+OL,20,    F     G                             
+OL,21,    F     G                             
+OL,22,    F     G                             
+OL,23, ]A600@RADIO     P5A639@NETRADIO    1/3 
+OL,24,  ANyheder    BSport    CTV    FVejret  
+FL,110,200,300,400,0,100
+PN,60102
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       GDR   S601  ons 25 nov   05:10:51
+OL,1,T################]GSENDER P] FM   
+OL,2,D]GP1  \ONSDAG 25.NOV D]GKL.06-18 SEC638
+OL,3,T#######################################
+OL,4,C613F19:30GGenstartA>                   
+OL,5,    F     G                             
+OL,6,C610F20:03GBrinkmanns briksA>           
+OL,7,    F     GStyrer hormoner dit helbred? 
+OL,8,    F     G                             
+OL,9,C611F21:03GSkonlitteraturA>             
+OL,10,    F     GDe voksne synger!            
 OL,11,    F     G                             
 OL,12,C616F22:03GP1 OrienteringA>             
 OL,13,    F     G                             
-OL,14,C609F00:03GGuld og gronne skoveA>       
-OL,15,    F     GEn bedre kop                 
-OL,16,    F     G                             
-OL,17,C614F01:03GK-LiveA>                     
-OL,18,    F     GHvem er mandenes nye crush?  
-OL,19,C615F02:03GK-Live: Kan man forelske     
-OL,20,    F     Gsig i en tegning?A>          
-OL,21,    F     G                             
-OL,22,C616F03:03GP1 OrienteringA>             
-OL,23, ]A600@RADIO     P5A639@NETRADIO        
+OL,14,C609F00:03GVerden ifolge GramA>         
+OL,15,    F     GRykker Spanien ud til hojre  
+OL,16,    F     Gp} sondag?                   
+OL,17,    F     G                             
+OL,18,C614F01:03GK-LiveA>                     
+OL,19,C615F02:03GK-LiveA>                     
+OL,20,    F     G                             
+OL,21,C616F03:03GP1 OrienteringA>             
+OL,22,    F     G                             
+OL,23, ]A600@RADIO     P5A639@NETRADIO    3/3 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100

@@ -4,166 +4,166 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     178C|ro 25 lis  02:23:01
-OL,1,D]GPROGNOZA POGODY        ]D24/11/2026  
+OL,0,      BTVP3     178C|ro 25 lis  12:23:23
+OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FAMSTERDAM                       ZV,,,, 
-OL,4, wt.     B0  C5 Gumiar F14SEG1023       
-OL,5, |ro.    B1  C4        F25E G1019       
-OL,6, czw.    B0  C2        F21E G1021       
+OL,4, |ro.    B0  C3        F25E G1018       
+OL,5, czw.    B0  C2        F21E G1021       
+OL,6, pi@.   B-1  C2 Gumiar F14E G1024       
 OL,7,FATENY                           ZV,,,, 
-OL,8, wt.    B11 C16 Gumiar F14N G1021       
-OL,9, |ro.   B11 C14         F7SEG1025       
-OL,10, czw.   B14 C16         F3S G1020       
+OL,8, |ro.   B10 C14         F7SEG1026       
+OL,9, czw.   B14 C17         F7S G1020       
+OL,10, pi@.   B15 C17         F3S G1016       
 OL,11,FBERLIN                          ZV,,,, 
-OL,12, wt.     B0  C3        F10NWG1025       
-OL,13, |ro.   B-1  C2         F7NEG1023       
-OL,14, czw.   B-2  C3 Gdu{e  F10E G1024       
+OL,12, |ro.   B-1  C2         F7NEG1023       
+OL,13, czw.   B-2  C3        F10E G1023       
+OL,14, pi@.   B-3  C1        F10NEG1026       
 FL,177,179,100,100,0,100
 PN,17802
 SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     178C|ro 25 lis  02:23:01
-OL,1,D]GPROGNOZA POGODY        ]D24/11/2026  
+OL,0,      BTVP3     178C|ro 25 lis  12:23:23
+OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FBUDAPESZT                       ZV,,,, 
-OL,4, wt.     B0  C3 Gumiar F18NWG1025       
-OL,5, |ro.    B0  C1         F7E G1023       
-OL,6, czw.    B0  C1        F14NEG1016       
+OL,4, |ro.    B0  C1         F7E G1023       
+OL,5, czw.    B0  C0        F18E G1016       
+OL,6, pi@.    B1  C1         F7N G1018       
 OL,7,FDUBLIN                          ZV,,,, 
-OL,8, wt.     B8 C12        F21S G1008ZV`t`p 
-OL,9, |ro.    B8  C8         F7NWG1015ZWppp` 
-OL,10, czw.    B6  C9        F21S G1014   ZVh 
+OL,8, |ro.    B7  C9         F7NWG1014ZVpp`  
+OL,9, czw.    B6  C9        F21S G1014   ZW` 
+OL,10, pi@.    B4 C10        F14W G1012ZVp0   
 OL,11,FHELSINKI                        ZV,,,, 
-OL,12, wt.     B0  C1        F18N G1017       
-OL,13, |ro.   B-1  C0        F14N G1023       
-OL,14, czw.   B-2  C0        F10N G1026       
+OL,12, |ro.   B-1  C0        F14N G1022       
+OL,13, czw.   B-2  C0 Gdu{e  F10N G1026       
+OL,14, pi@.   B-3 C-1         F7N G1033       
 FL,177,179,100,100,0,100
 PN,17803
 SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     178C|ro 25 lis  02:23:01
-OL,1,D]GPROGNOZA POGODY        ]D24/11/2026  
+OL,0,      BTVP3     178C|ro 25 lis  12:23:23
+OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FKIJOW                           ZV,,,, 
-OL,4, wt.     B0  C1        F14W G1008       
-OL,5, |ro.    B0  C1        F14NWG1017       
-OL,6, czw.   B-2  C0        F10NWG1024       
+OL,4, |ro.    B0  C1        F14NWG1017       
+OL,5, czw.   B-1  C1        F10NWG1024       
+OL,6, pi@.   B-1  C0         F7E G1028       
 OL,7,FKOPENHAGA                       ZV,,,, 
-OL,8, wt.     B0  C2        F10N G1025       
-OL,9, |ro.    B0  C0        F10NEG1026       
-OL,10, czw.    B0  C2 Gca}k. F10NEG1028       
+OL,8, |ro.    B0  C0        F10NEG1026       
+OL,9, czw.    B0  C2        F10NEG1027       
+OL,10, pi@.    B1  C3        F14E G1030       
 OL,11,FLIZBONA                         ZV,,,, 
-OL,12, wt.    B13 C17        F18W G1020 ZVt0  
-OL,13, |ro.   B13 C16        F21NWG1023ZW0`   
-OL,14, czw.   B13 C17        F10NWG1021       
+OL,12, |ro.   B14 C16        F21NWG1023ZV0`0  
+OL,13, czw.   B13 C17        F10NWG1021       
+OL,14, pi@.   B13 C16         F7SEG1019       
 FL,177,179,100,100,0,100
 PN,17804
 SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     178C|ro 25 lis  02:23:01
-OL,1,D]GPROGNOZA POGODY        ]D24/11/2026  
+OL,0,      BTVP3     178C|ro 25 lis  12:23:23
+OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FLONDYN                          ZV,,,, 
-OL,4, wt.     B3  C7        F14SEG1018       
-OL,5, |ro.    B4  C7        F14E G1014       
-OL,6, czw.    B3  C7        F10E G1019       
+OL,4, |ro.    B4  C7        F14E G1013       
+OL,5, czw.    B3  C7        F10E G1018       
+OL,6, pi@.    B2  C6        F10SEG1019       
 OL,7,FMADRYT                          ZV,,,, 
-OL,8, wt.     B7 C10        F10SEG1018  ZV4  
-OL,9, |ro.    B7 C10        F25W G1017 ZW0   
-OL,10, czw.    B4 C10         F7N G1019       
+OL,8, |ro.    B7 C10        F21W G1017 ZV0   
+OL,9, czw.    B4 C10 Gumiar  F7N G1019       
+OL,10, pi@.    B3 C11 Gumiar  F3E G1021       
 OL,11,FMINSK                           ZV,,,, 
-OL,12, wt.     B0  C0        F10NWG1009       
-OL,13, |ro.   B-3  C0        F18NWG1018       
-OL,14, czw.   B-3 C-1        F10NWG1024       
+OL,12, |ro.   B-2  C0        F18NWG1018       
+OL,13, czw.   B-2  C0        F10NWG1024       
+OL,14, pi@.   B-4 C-1 Gca}k.  F7NEG1030       
 FL,177,179,100,100,0,100
 PN,17805
 SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     178C|ro 25 lis  02:23:01
-OL,1,D]GPROGNOZA POGODY        ]D24/11/2026  
+OL,0,      BTVP3     178C|ro 25 lis  12:23:23
+OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FMOSKWA                          ZV,,,, 
-OL,4, wt.    B-1  C0        F21NEG1003       
-OL,5, |ro.   B-4  C0        F25N G1002       
-OL,6, czw.   B-4 C-1        F21NWG1012       
+OL,4, |ro.   B-4  C0        F21N G1002       
+OL,5, czw.   B-4 C-1        F21NWG1012       
+OL,6, pi@.   B-5 C-3        F18NWG1022       
 OL,7,FNICEA                           ZV,,,, 
-OL,8, wt.     B9 C13         F7N G1020   ZVp 
-OL,9, |ro.    B9 C12        F10NEG1011ZWt4 x 
-OL,10, czw.    B7 C11         F7N G1005ZVtp   
+OL,8, |ro.    B9 C12        F10NEG1011ZVt4 t 
+OL,9, czw.    B8 C11         F7N G1005ZW0    
+OL,10, pi@.    B7 C12         F7N G1013  ZV`0 
 OL,11,FOSLO                            ZV,,,, 
-OL,12, wt.    B-5 C-3 Gumiar  F7N G1030       
-OL,13, |ro.   B-6 C-4         F7NWG1032       
-OL,14, czw.   B-7 C-4 Gbrak   F3N G1031       
+OL,12, |ro.   B-7 C-4 Gca}k.  F7NWG1032       
+OL,13, czw.   B-7 C-3 Gbrak   F3N G1031       
+OL,14, pi@.   B-7 C-5         F0SWG1033       
 FL,177,179,100,100,0,100
 PN,17806
 SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     178C|ro 25 lis  02:23:01
-OL,1,D]GPROGNOZA POGODY        ]D24/11/2026  
+OL,0,      BTVP3     178C|ro 25 lis  12:23:23
+OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FPALERMO                         ZV,,,, 
-OL,4, wt.    B16 C18        F14W G1023ZV0    
-OL,5, |ro.   B17 C20         F7S G1016       
-OL,6, czw.   B16 C19        F18SWG1013ZV`0 ` 
+OL,4, |ro.   B17 C20         F7S G1016       
+OL,5, czw.   B15 C19        F18SWG1013ZWh0 h 
+OL,6, pi@.   B14 C16        F14W G1014ZV| `p 
 OL,7,FPARY[                           ZV,,,, 
-OL,8, wt.     B3  C7        F10E G1018       
-OL,9, |ro.    B4  C6        F10NEG1010 ZW`pp 
-OL,10, czw.    B2  C5        F10NEG1016       
+OL,8, |ro.    B4  C6        F10NEG1010 ZV`tp 
+OL,9, czw.    B2  C6        F10NEG1015ZW0    
+OL,10, pi@.    B1  C5         F7E G1021       
 OL,11,FPRAGA                           ZV,,,, 
-OL,12, wt.    B-1  C3        F10NWG1026       
-OL,13, |ro.   B-2  C2        F10E G1022       
-OL,14, czw.   B-2  C2        F10NEG1020       
+OL,12, |ro.   B-2  C1        F10E G1022       
+OL,13, czw.   B-2  C2        F10NEG1019       
+OL,14, pi@.   B-2  C0         F7NWG1023       
 FL,177,179,100,100,0,100
 PN,17807
 SC,0007
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     178C|ro 25 lis  02:23:01
-OL,1,D]GPROGNOZA POGODY        ]D24/11/2026  
+OL,0,      BTVP3     178C|ro 25 lis  12:23:23
+OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FREJKIAWIK                       ZV,,,, 
-OL,4, wt.     B8 C12        F21S G1008ZV`t`p 
-OL,5, |ro.    B8  C8         F7NWG1015ZWppp` 
-OL,6, czw.    B6  C9        F21S G1014   ZVh 
+OL,4, |ro.    B7  C9         F7NWG1014ZVpp`  
+OL,5, czw.    B6  C9        F21S G1014   ZW` 
+OL,6, pi@.    B4 C10        F14W G1012ZVp0   
 OL,7,FRZYM                            ZV,,,, 
-OL,8, wt.     B8 C13         F7E G1022  ZV`  
-OL,9, |ro.   B11 C17        F10SEG1014ZW`x0` 
-OL,10, czw.   B10 C15        F14SWG1009ZV4ppp 
+OL,8, |ro.   B12 C17        F14SEG1014ZVpxp` 
+OL,9, czw.   B10 C14        F18SWG1009ZWpxpp 
+OL,10, pi@.    B9 C14         F7S G1012ZVppp` 
 OL,11,FSZTOKHOLM                       ZV,,,, 
-OL,12, wt.     B1  C2        F14N G1022       
-OL,13, |ro.   B-1  C1        F10N G1026       
-OL,14, czw.   B-2  C0         F7N G1029       
+OL,12, |ro.    B0  C1        F10N G1026       
+OL,13, czw.   B-2  C0         F7N G1028       
+OL,14, pi@.   B-1  C0         F3E G1033       
 FL,177,179,100,100,0,100
 PN,17808
 SC,0008
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     178C|ro 25 lis  02:23:01
-OL,1,D]GPROGNOZA POGODY        ]D24/11/2026  
+OL,0,      BTVP3     178C|ro 25 lis  12:23:24
+OL,1,D]GPROGNOZA POGODY        ]D25/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FWIEDEN                          ZV,,,, 
-OL,4, wt.     B0  C4 Gma}e  F10W G1026       
-OL,5, |ro.    B0  C2        F14E G1020       
-OL,6, czw.    B0  C0         F7E G1016       
+OL,4, |ro.    B0  C2        F14E G1020       
+OL,5, czw.    B0  C0         F7E G1016       
+OL,6, pi@.   B-3  C0        F10NWG1021       
 OL,7,FZAGRZEB                         ZV,,,, 
-OL,8, wt.     B1  C5         F3SEG1026       
-OL,9, |ro.    B1  C4         F3SEG1020  ZW`` 
-OL,10, czw.    B1  C3         F7N G1014ZVp0   
+OL,8, |ro.    B1  C4         F3SEG1019  ZV`t 
+OL,9, czw.    B0  C3         F7N G1014ZW04   
+OL,10, pi@.    B0  C1         F3NEG1019       
 OL,11,FZURICH                          ZV,,,, 
-OL,12, wt.     B1  C4         F7NEG1023ZV0    
-OL,13, |ro.    B0  C4         F3NEG1015       
-OL,14, czw.   B-1  C0         F7NEG1015       
+OL,12, |ro.    B0  C3         F3NEG1014  ZV`p 
+OL,13, czw.    B0  C2         F3NEG1015       
+OL,14, pi@.   B-1  C3         F3NEG1021       
 FL,177,179,100,100,0,100

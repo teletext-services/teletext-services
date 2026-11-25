@@ -3,25 +3,26 @@ PN,18201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G00:43:38
+OL,0,       BSWR BW C   Mi, 25.11.26G10:44:05
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GOZONWERTE RLP       P5      
 OL,3,T#########"######################"######
-OL,4, F                24.11.2026 24:00 Uhr  
-OL,6, Station/Uhrzeit      22   23           
+OL,4, F                25.11.2026 09:00 Uhr  
+OL,5,                                   Max. 
+OL,6, Station/Uhrzeit      07   08   09 heute
 OL,7, ---------------------------------------
-OL,8, Bad Kreuznach         3    2         2 
-OL,9,FKaiserslautern       32   34        31 
-OL,10, KO-Fr. Ebert R.      36   35        39 
-OL,11,FLU-Oppau              3    3         2 
-OL,12, MZ-Mombach           30   23        23 
-OL,13,FMZ-Rheinallee        27   25        29 
-OL,14, NR-Hafenstr.         35   18         3 
-OL,15,FPirmasens            46   45        44 
-OL,16, Speyer                8   16        43 
-OL,17,FTR-Pfalzel           26   22        20 
-OL,18, W|rth                37   32        30 
-OL,19,FWorms                 1    1         4 
+OL,8, Bad Kreuznach         2    2    2     2
+OL,9,FKaiserslautern       30   25   27    38
+OL,10, KO-Fr. Ebert R.      30   30   23    46
+OL,11,FLU-Oppau              4    3    6    30
+OL,12, MZ-Mombach           37   33   33    40
+OL,13,FMZ-Rheinallee        29   23   --    38
+OL,14, NR-Hafenstr.          8   12    5    46
+OL,15,FPirmasens            41   38   36    45
+OL,16, Speyer                1    1    1    47
+OL,17,FTR-Pfalzel           30   24   25    35
+OL,18, W|rth                38   35   32    41
+OL,19,FWorms                11    6    7    33
 OL,22,D]G1h-Mittel in Mikrogr./Kubikmeter Luft
 OL,23,D]           Gohne Gew{hr / LfU Mainz >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
@@ -30,20 +31,20 @@ PN,18202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G00:43:38
+OL,0,       BSWR BW C   Mi, 25.11.26G10:44:05
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GOzonwerte RLP       P5      
 OL,3,T#########"######################"######
-OL,4,FWaldgebiete      24.11.2026 24:00 Uhr  
-OL,5,                              1h-MW     
-OL,6, Messort              22   23 1h-MW     
+OL,4,FWaldgebiete      25.11.2026 09:00 Uhr  
+OL,5,                                   Max  
+OL,6, Messort              07   08   09 1h-MW
 OL,7, ---------------------------------------
-OL,8, Hunsr}ck             25   26        31 
-OL,9,FPf{lzerwald          49   49        48 
-OL,10, Westeifel            46   46        45 
-OL,11,FWesterwald-Nord      61   59        56 
-OL,12, Westerwald-S}d       47   48        46 
-OL,13,FWestpfalz            36   36        36 
+OL,8, Hunsr}ck             41   41   42    42
+OL,9,FPf{lzerwald          44   42   41    48
+OL,10, Westeifel            46   45   46    46
+OL,11,FWesterwald-Nord      52   51   48    56
+OL,12, Westerwald-S}d       48   46   46    48
+OL,13,FWestpfalz            36   36   37    41
 OL,22,D]G1h-Mittel in Mikrogr./Kubikmeter Luft
 OL,23,D]           Gohne Gew{hr / LfU Mainz >>
 OL,24,A]berblick  BNachrichten CWetter  FSport

@@ -3,52 +3,75 @@ PN,69701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G697 WDR Text GMi 25.11.26 03:56:08
+OL,0,     G697 WDR Text GMi 25.11.26 13:47:18
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, f}r A44,A45,A46                        
-OL,5, Stand: 25.11.2026 03:48 Uhr            
-OL,7, Auf der A44 Kassel Richtung Dortmund   
-OL,8, ist die Anschlussstelle B}ren wegen    
-OL,9, Bauarbeiten f}r mehrere Monate         
-OL,10, gesperrt. Dort wird die Fahrbahn       
-OL,11, saniert. Eine Umleitung ist            
-OL,12, ausgeschildert.                        
-OL,14, Auf der A44 Kassel Richtung Dortmund   
-OL,15, ist im Kreuz Dortmund/Unna die         
-OL,16, Verbindung zur A1 in Richtung K|ln     
-OL,17, wegen Bauarbeiten bis Anfang Dezember  
-OL,18, gesperrt.                              
-OL,20, Auf der A44 Kassel Richtung Dortmund   
-OL,21, ist im Kreuz Dortmund/Unna die         
-OL,22, Verbindung zur A1 Richtung K|ln        
+OL,5, Stand: 25.11.2026 13:43 Uhr            
+OL,7, A44 Dortmund Richtung Kassel zwischen  
+OL,8, Soest und Erwitte/Anr|chte 3 km Stau   
+OL,10, Auf der A44 Kassel Richtung Dortmund   
+OL,11, ist die Anschlussstelle B}ren wegen    
+OL,12, Bauarbeiten f}r mehrere Monate         
+OL,13, gesperrt. Dort wird die Fahrbahn       
+OL,14, saniert. Eine Umleitung ist            
+OL,15, ausgeschildert.                        
+OL,17, Auf der A44 Kassel Richtung Dortmund   
+OL,18, ist im Kreuz Dortmund/Unna die         
+OL,19, Verbindung zur A1 in Richtung K|ln     
+OL,20, wegen Bauarbeiten bis Anfang Dezember  
+OL,21, gesperrt.                              
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 696B]G+ 698  \               G(1/2)
+OL,24,A]G- 696B]G+ 698  \               G(1/3)
 FL,696,698,0,0,0,100
 PN,69702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G697 WDR Text GMi 25.11.26 03:56:08
+OL,0,     G697 WDR Text GMi 25.11.26 13:47:18
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
-OL,4, voraussichtlich bis zum 7. Dezember    
-OL,5, gesperrt.                              
-OL,7, Auf der A46 D}sseldorf Richtung        
-OL,8, Wuppertal ist die Anschlussstelle      
-OL,9, Wuppertal-Varresbeck wegen Bauarbeiten 
-OL,10, bis Ende November gesperrt.            
-OL,12, Auf der A46 Wuppertal Richtung         
-OL,13, D}sseldorf ist die Anschlussstelle     
-OL,14, Wuppertal-Wichlinghausen               
-OL,15, voraussichtlich bis Herbst 2027        
-OL,16, gesperrt.                              
-OL,18, Die A46 Wuppertal Richtung D}sseldorf  
-OL,19, ist zwischen D}sseldorf-Holthausen und 
-OL,20, dem Universit{tstunnel wegen           
-OL,21, Wartungsarbeiten gesperrt.             
+OL,4, Auf der A44 Kassel Richtung Dortmund   
+OL,5, ist im Kreuz Dortmund/Unna die         
+OL,6, Verbindung zur A1 Richtung K|ln        
+OL,7, voraussichtlich bis zum 7. Dezember    
+OL,8, gesperrt.                              
+OL,10, A44 M|nchengladbach Richtung Aachen    
+OL,11, zwischen Aachen-Brand und              
+OL,12, Aachen-Lichtenbusch etwa 10 Minuten    
+OL,13, plus, 3 km Stau                        
+OL,15, Auf der A44 M|nchengladbach Richtung   
+OL,16, Aachen ist die Ausfahrt                
+OL,17, Aachen-Lichtenbusch bis zum Nachmittag 
+OL,18, gesperrt.                              
+OL,20, A45 Gie~en Richtung Dortmund zwischen  
+OL,21, Hagen-S}d und Westhofener Kreuz etwa 10
+OL,22, Minuten plus, 4 km stockender Verkehr  
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 696B]G+ 698  \               G(2/2)
+OL,24,A]G- 696B]G+ 698  \               G(2/3)
+FL,696,698,0,0,0,100
+PN,69703
+SC,0003
+PS,C200
+CT,15,T
+OL,0,     G697 WDR Text GMi 25.11.26 13:47:18
+OL,1,]D]        G]               @]  CVERKEHR
+OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
+OL,3,]T5                                
+OL,5, A45 Hagen Richtung Dortmund Einfahrt   
+OL,6, Dortmund-Eichlinghofen Unfall, Einfahrt
+OL,7, gesperrt                               
+OL,9, Auf der A46 D}sseldorf Richtung        
+OL,10, Wuppertal ist die Anschlussstelle      
+OL,11, Wuppertal-Varresbeck wegen Bauarbeiten 
+OL,12, bis Ende November gesperrt.            
+OL,14, Auf der A46 Wuppertal Richtung         
+OL,15, D}sseldorf ist die Anschlussstelle     
+OL,16, Wuppertal-Wichlinghausen               
+OL,17, voraussichtlich bis Herbst 2027        
+OL,18, gesperrt.                              
+OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]G- 696B]G+ 698  \               G(3/3)
 FL,696,698,0,0,0,100

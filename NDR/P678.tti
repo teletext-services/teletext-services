@@ -3,7 +3,7 @@ PN,67801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G678FNDR TEXT GDi 24.11.B21:40:37
+OL,0,       G678FNDR TEXT GMi 25.11.B07:40:17
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD LUFTG]TEDATEN               
@@ -11,16 +11,16 @@ OL,4,F]T  %D     Hamburg
 OL,5, EINSTUNDENMITTEL F]R OZON UND NO2 UND  
 OL,6, GESTRIGE FEINSTAUB-TAGESMITTEL (PM10)  
 OL,7, in Mikrogramm je Kubikmeter Luft       
-OL,9,FStand: 24. November 2026    20:00 Uhr  
+OL,9,FStand: 25. November 2026    07:00 Uhr  
 OL,10, STATION            OZON    NO2   PM10  
 OL,11, -------------------------------------  
-OL,12,FAltona Elbhang        -     57      9  
-OL,13, Bergstedt             1     27      -  
-OL,14,FFinkenwerder Airbus   -     48      -  
-OL,15, Finkenwerder West     -     56      8  
-OL,16,FFlughafen             3     50     10  
-OL,17, Habichtstra~e         -     57     24  
-OL,18,FKieler Stra~e         -     60     13  
+OL,12,FAltona Elbhang        -     13     13  
+OL,13, Bergstedt            39      6      -  
+OL,14,FFinkenwerder Airbus   -     31      -  
+OL,15, Finkenwerder West     -     21     12  
+OL,16,FFlughafen            36     12     18  
+OL,17, Habichtstra~e         -     24     18  
+OL,18,FKieler Stra~e         -     19     17  
 OL,23,D]G673<                      BREMEN >679
 OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
 FL,101,200,300,650,0,100
@@ -28,7 +28,7 @@ PN,67802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G678FNDR TEXT GDi 24.11.B21:40:37
+OL,0,       G678FNDR TEXT GMi 25.11.B07:40:17
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD LUFTG]TEDATEN               
@@ -36,16 +36,16 @@ OL,4,F]T  %D     Hamburg
 OL,5, EINSTUNDENMITTEL F]R OZON UND NO2 UND  
 OL,6, GESTRIGE FEINSTAUB-TAGESMITTEL (PM10)  
 OL,7, in Mikrogramm je Kubikmeter Luft       
-OL,9,FStand: 24. November 2026    21:00 Uhr  
+OL,9,FStand: 25. November 2026    07:00 Uhr  
 OL,10, STATION            OZON    NO2   PM10  
 OL,11, -------------------------------------  
-OL,12,FMax-Brauer-Allee      -     59     20  
-OL,13, Neugraben             1     21      8  
-OL,14,FNiendorf              -     42      9  
-OL,15, Sternschanze          1     55     10  
-OL,16,FStresemannstra~e      -     63     15  
-OL,17, Veddel                -     54     12  
-OL,18,FWilhelmsburg          2     45      9  
+OL,12,FMax-Brauer-Allee      -     22     19  
+OL,13, Neugraben             1     29     12  
+OL,14,FNiendorf              -     10     14  
+OL,15, Sternschanze         26     12     14  
+OL,16,FStresemannstra~e      -     33     17  
+OL,17, Veddel                -     31     17  
+OL,18,FWilhelmsburg         11     31     17  
 OL,21, Internet:  https://luft.hamburg.de     
 OL,23,D]G673<                      BREMEN >679
 OL,24,AInhalt BSport CFernsehen FWetter G(2/2)

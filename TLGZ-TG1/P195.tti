@@ -4,22 +4,22 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:16
+OL,0,      BTVP1     195C|ro 25 lis  13:04:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo dolno|l@skie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FBarycz                          
 OL,9,FOsetno          B164   F260    330    =
 OL,11, Rzeka:FBia}a L@decka                   
 OL,12,FL@dek-Zdr_j      B36    F80    120    =
 OL,14, Rzeka:FB_br                            
-OL,15,FJelenia G_ra / B B84   F160    220    -
-OL,16, D@browa Boles}aw B90   G300    350    =
+OL,15,FJelenia G_ra / B B83   F160    220    =
+OL,16, D@browa Boles}aw B87   G300    350    =
 OL,18, Rzeka:FBystrzyca                       
-OL,19,FLubach_w        B140   F210    230    =
-OL,20, Jarno}t_w        B80   G230    270    -
+OL,19,FLubach_w        B139   F210    230    =
+OL,20, Jarno}t_w        B90   G230    270    +
 OL,21,FBystrzyca K}odzk B31    F80    120    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
@@ -28,23 +28,23 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:16
+OL,0,      BTVP1     195C|ro 25 lis  13:04:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo dolno|l@skie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FKaczawa                         
 OL,9,F\wierzawa       B120   F150    220    =
-OL,10, Pi@tnica        B124   G300    370    =
+OL,10, Pi@tnica        B123   G300    370    =
 OL,12, Rzeka:FKwisa                           
 OL,13,FMirsk / Kwisa   B323   F420    470    =
-OL,14, Nowogrodziec    B125   G330    380    =
+OL,14, Nowogrodziec    B120   G330    380    =
 OL,16, Rzeka:FNysa K}odzka                    
 OL,17,FMi`dzylesie      B93   F180    200    =
-OL,18, Bystrzyca K}odzk B45   G110    180    =
-OL,19,FK}odzko         B105   F160    240    =
-OL,20, Bardo            B45   G180    250    +
+OL,18, Bystrzyca K}odzk B44   G110    180    =
+OL,19,FK}odzko         B102   F160    240    +
+OL,20, Bardo            B46   G180    250    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19503
@@ -52,21 +52,21 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:16
+OL,0,      BTVP1     195C|ro 25 lis  13:04:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo dolno|l@skie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FNysa ]u{ycka                    
-OL,9,FZgorzelec / NysaB143   F340    400    =
+OL,9,FZgorzelec / NysaB145   F340    400    =
 OL,11, Rzeka:FNysa Szalona                    
-OL,12,FJawor            B24   F100    150    =
+OL,12,FJawor            B23   F100    150    =
 OL,14, Rzeka:FOdra                            
-OL,15,FO}awa / Odra    B196   F500    560    =
-OL,16, Trestno         B317   G380    450    =
-OL,17,FBrzeg Dolny     B320   F510    630    =
-OL,18, G}og_w          B186   G400    450    =
+OL,15,FO}awa / Odra    B195   F500    560    -
+OL,16, Trestno         B320   G380    450    -
+OL,17,FBrzeg Dolny     B317   F510    630    -
+OL,18, G}og_w          B194   G400    450    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19504
@@ -74,20 +74,20 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:16
+OL,0,      BTVP1     195C|ro 25 lis  13:04:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo dolno|l@skie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FO}awa                           
 OL,9,FO}awa / O}awa   B131   F200    250    =
 OL,11, Rzeka:FStrzegomka                      
-OL,12,F]azany           B97   F200    240    =
+OL,12,F]azany           B95   F200    240    =
 OL,14, Rzeka:F\l`za                           
-OL,15,F\l`za           B202   F270    300    =
+OL,15,F\l`za           B201   F270    300    =
 OL,17, Rzeka:FWidawa                          
-OL,18,FKrzy{anowice / W B95   F150    200    =
+OL,18,FKrzy{anowice / W B96   F150    200    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19505
@@ -95,11 +95,11 @@ SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:16
+OL,0,      BTVP1     195C|ro 25 lis  13:04:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo dolno|l@skie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FWilczka                         
 OL,9,FWilkan_w         B78   F140    160    =
@@ -110,20 +110,20 @@ SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:16
+OL,0,      BTVP1     195C|ro 25 lis  13:04:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##! Cwojew_dztwo kujawsko-pomorskieQ"##
-OL,5,E25.11.2026  1:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FBrda                            
-OL,9,FTuchola         B100   F140    190    =
+OL,9,FTuchola          B99   F140    190    =
 OL,11, Rzeka:FDrw`ca                          
 OL,12,FBrodnica        B122   F230    260    =
 OL,13, Elgiszewo        B69   G200    230    =
 OL,15, Rzeka:FNote^                           
 OL,16,FPako|^          B166   F260    280    =
-OL,17, Nak}o - Zach_d  B234   G320    360    =
+OL,17, Nak}o - Zach_d  B233   G320    360    =
 OL,19, Rzeka:FOsa                             
 OL,20,FRog_~no 2        B65   F230    260    =
 OL,23,                        ~r_d}o: IMGW-PIB
@@ -133,20 +133,20 @@ SC,0007
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:16
+OL,0,      BTVP1     195C|ro 25 lis  13:04:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##! Cwojew_dztwo kujawsko-pomorskieQ"##
-OL,5,E25.11.2026  1:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FWda                             
-OL,9,FKr@plewice       B81   F220    280    -
+OL,9,FKr@plewice      B125   F220    280    -
 OL,11, Rzeka:FWis}a                           
-OL,12,FW}oc}awek       B108   F600    650    +
-OL,13, Toru$           B117   G530    650     
-OL,14,FFordon          B117   F530    650    =
-OL,15, Che}mno         B161   G510    630    =
-OL,16,FGrudzi@dz       B162   F540    650    =
+OL,12,FW}oc}awek       B131   F600    650    +
+OL,13, Toru$           B116   G530    650     
+OL,14,FFordon          B117   F530    650     
+OL,15, Che}mno         B160   G510    630    =
+OL,16,FGrudzi@dz       B160   F540    650    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19508
@@ -154,17 +154,17 @@ SC,0008
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:16
+OL,0,      BTVP1     195C|ro 25 lis  13:04:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo lubelskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FBug                             
-OL,9,FKry}_w          B186   F440    540    +
-OL,10, Strzy{_w        B271   G650    800    =
+OL,9,FKry}_w          B189   F440    540    =
+OL,10, Strzy{_w        B273   G650    800    =
 OL,11,FDorohusk        B164   F290    430    =
-OL,12, W}odawa          B78   G300    390    =
+OL,12, W}odawa          B79   G300    390    =
 OL,13,FKrzyczew        B106   F380    480    =
 OL,15, Rzeka:FKrzna                           
 OL,16,FMalowa G_ra     B197   F310    350    =
@@ -177,20 +177,20 @@ SC,0009
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:16
+OL,0,      BTVP1     195C|ro 25 lis  13:04:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo lubelskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FWieprz                          
-OL,9,FKrasnystaw      B275   F420    470    -
-OL,10, Lubart_w        B176   G430    480    =
-OL,11,FKo|min          B157   F350    400    =
+OL,9,FKrasnystaw      B275   F420    470    =
+OL,10, Lubart_w        B175   G430    480    =
+OL,11,FKo|min          B158   F350    400    =
 OL,13, Rzeka:FWis}a                           
-OL,14,FZawichost       B232   F480    620    =
+OL,14,FZawichost       B227   F480    620    =
 OL,15, Pu}awy          B137   G450    550    =
-OL,16,FD`blin          B160   F400    500    =
+OL,16,FD`blin          B156   F400    500     
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19510
@@ -198,22 +198,22 @@ SC,0010
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:16
+OL,0,      BTVP1     195C|ro 25 lis  13:04:42
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo lubuskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FB_br                            
 OL,9,FSzprotawa / B_brB113   F200    250    +
-OL,10, [aga$ / B_br    B221   G340    400    =
-OL,11,FNowogr_d Bobrza$B141   F250    300    -
+OL,10, [aga$ / B_br    B228   G340    400    +
+OL,11,FNowogr_d Bobrza$B140   F250    300    =
 OL,13, Rzeka:FCzerna Ma}a                     
-OL,14,FI}owa           B154   F180    200    =
+OL,14,FI}owa           B160   F180    200    -
 OL,16, Rzeka:FDrawa                           
 OL,17,FDrawiny          B26   F120    170    =
 OL,19, Rzeka:FKwisa                           
-OL,20,F]ozy            B120   F280    330    =
+OL,20,F]ozy            B118   F280    330    -
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19511
@@ -221,24 +221,24 @@ SC,0011
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:17
+OL,0,      BTVP1     195C|ro 25 lis  13:04:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo lubuskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FNote^                           
-OL,9,FNowe Drezdenko  B119   F290    340    =
+OL,9,FNowe Drezdenko  B118   F290    340    =
 OL,11, Rzeka:FNysa ]u{ycka                    
-OL,12,FPrzew_z          B90   F290    350    =
-OL,13, Gubin            B54   G300    400    +
+OL,12,FPrzew_z          B87   F290    350    -
+OL,13, Gubin            B50   G300    400    =
 OL,15, Rzeka:FObra                            
-OL,16,FBledzew          B95   F200    220    -
+OL,16,FBledzew         B100   F200    220    -
 OL,18, Rzeka:FOdra                            
-OL,19,FNowa S_l        B131   F400    450    =
-OL,20, Cigacice        B136   G350    400    =
-OL,21,FNietk_w         B137   F370    400    =
-OL,22, Po}`cko          B55   G310    350    =
+OL,19,FNowa S_l        B129   F400    450    =
+OL,20, Cigacice        B135   G350    400    =
+OL,21,FNietk_w         B138   F370    400    =
+OL,22, Po}`cko          B63   G310    350    +
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19512
@@ -246,21 +246,21 @@ SC,0012
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:17
+OL,0,      BTVP1     195C|ro 25 lis  13:04:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo lubuskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FOdra                            
 OL,9,FS}ubice         B116   F360    410    =
-OL,10, Kostrzyn Nad OdrB162   G420    470    =
+OL,10, Kostrzyn Nad OdrB160   G420    470    -
 OL,12, Rzeka:FSzprotawa                       
-OL,13,FSzprotawa / SzprB136   F230    270    =
+OL,13,FSzprotawa / SzprB131   F230    270    -
 OL,15, Rzeka:FWarta                           
 OL,16,FSkwierzyna      B150   F380    460    =
-OL,17, Gorz_w WielkopolB199   G390    470    =
-OL,18,FKostrzyn Nad OdrB172   F360    410    =
+OL,17, Gorz_w WielkopolB200   G390    470    =
+OL,18,FKostrzyn Nad OdrB171   F360    410    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19513
@@ -268,22 +268,22 @@ SC,0013
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:17
+OL,0,      BTVP1     195C|ro 25 lis  13:04:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo }_dzkie      Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FBzura                           
-OL,9,FKwiatk_wek      B169   F200    250    =
+OL,9,FKwiatk_wek      B170   F200    250    =
 OL,10, ]owicz          B214   G350    400    =
 OL,12, Rzeka:FCzarna                          
-OL,13,FD@browa         B249   F370    400    -
+OL,13,FD@browa         B240   F370    400    =
 OL,15, Rzeka:FGrabia                          
 OL,16,F]ask            B147   F160    180    =
-OL,17, Grabno          B128   G230    280    =
+OL,17, Grabno          B129   G230    280    =
 OL,19, Rzeka:FLuci@{a                         
-OL,20,FK}udzice        B279   F350    380    =
+OL,20,FK}udzice        B268   F350    380    -
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19514
@@ -291,20 +291,20 @@ SC,0014
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:17
+OL,0,      BTVP1     195C|ro 25 lis  13:04:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo }_dzkie      Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FMroga                           
-OL,9,FBielawy         B253   F310    360    =
+OL,9,FBielawy         B254   F310    360    =
 OL,11, Rzeka:FNer                             
-OL,12,FPodd`bice       B129   F240    290    =
+OL,12,FPodd`bice       B140   F240    290    +
 OL,14, Rzeka:FNieciecz                        
 OL,15,FWidawa          B149   F999    999    =
 OL,17, Rzeka:FNies_b                          
-OL,18,FKu~nica Skakawsk B55   F999    999    =
+OL,18,FKu~nica Skakawsk B56   F999    999    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19515
@@ -312,11 +312,11 @@ SC,0015
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:17
+OL,0,      BTVP1     195C|ro 25 lis  13:04:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo }_dzkie      Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FOle|nica                        
 OL,9,FNiechmir_w      B113   F170    220    =
@@ -327,7 +327,7 @@ OL,14,FSpa}a           B119   F220    280    =
 OL,16, Rzeka:FProsna                          
 OL,17,FMirk_w          B156   F230    270    =
 OL,19, Rzeka:FRawka                           
-OL,20,FK`szyce         B255   F350    400    =
+OL,20,FK`szyce         B254   F350    400    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19516
@@ -335,23 +335,23 @@ SC,0016
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:17
+OL,0,      BTVP1     195C|ro 25 lis  13:04:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo }_dzkie      Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FWarta                           
-OL,9,FBobry            B84   F130    150    =
+OL,9,FBobry            B83   F130    150    =
 OL,10, Dzia}oszyn      B407   G530    570    =
-OL,11,FOsjak_w         B127   F280    340    =
-OL,12, Burzenin         B70   G280    320    =
-OL,13,FSieradz         B150   F390    440    =
+OL,11,FOsjak_w         B126   F280    340    =
+OL,12, Burzenin         B69   G280    320    =
+OL,13,FSieradz         B151   F390    440    =
 OL,14, Uniej_w          B33   G220    270    =
 OL,16, Rzeka:FWidawka                         
-OL,17,FSzczerc_w       B128   F190    230    =
-OL,18, Rog_~no         B140   G240    290    -
-OL,19,FPodg_rze        B108   F290    330    =
+OL,17,FSzczerc_w       B129   F190    230    =
+OL,18, Rog_~no         B138   G240    290    =
+OL,19,FPodg_rze        B106   F290    330    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19517
@@ -359,21 +359,21 @@ SC,0017
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:17
+OL,0,      BTVP1     195C|ro 25 lis  13:04:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FBia}a                           
-OL,9,FCi`{kowice      B170   F350    500    =
+OL,9,FCi`{kowice      B169   F350    500    =
 OL,11, Rzeka:FDunajec                         
-OL,12,FNowy Targ-KowaniB156   F300    380    =
-OL,13, Kro|cienko      B165   G320    390    =
-OL,14,FNowy S@cz        B66   F250    380    =
-OL,15, [abno           B116   G530    750    -
+OL,12,FNowy Targ-KowaniB155   F300    380    =
+OL,13, Kro|cienko      B164   G320    390    -
+OL,14,FNowy S@cz        B65   F250    380    =
+OL,15, [abno           B126   G530    750    -
 OL,17, Rzeka:FKamienica                       
-OL,18,FNowy S@cz        B83   F200    260    =
+OL,18,FNowy S@cz        B82   F200    260    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19518
@@ -381,23 +381,23 @@ SC,0018
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:17
+OL,0,      BTVP1     195C|ro 25 lis  13:04:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:F]ubinka                         
 OL,9,FNowy S@cz       B205   F300    380    =
 OL,11, Rzeka:FPoprad                          
-OL,12,FStary S@cz      B128   F300    400    =
+OL,12,FStary S@cz      B127   F300    400    =
 OL,14, Rzeka:FRaba                            
 OL,15,FRabka            B75   F140    180    =
-OL,16, Str_{a           B39   G220    290    =
-OL,17,FProsz_wki       B210   F500    700    =
+OL,16, Str_{a           B38   G220    290    =
+OL,17,FProsz_wki       B209   F500    700    =
 OL,19, Rzeka:FSkawa                           
-OL,20,FSucha Beskidzka B103   F215    285    =
-OL,21, Wadowice        B106   G370    490    =
+OL,20,FSucha Beskidzka B102   F215    285    =
+OL,21, Wadowice        B105   G370    490    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19519
@@ -405,24 +405,24 @@ SC,0019
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:17
+OL,0,      BTVP1     195C|ro 25 lis  13:04:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo ma}opolskie    Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FSo}a                            
-OL,9,FO|wi`cim        B261   F370    460    =
+OL,9,FO|wi`cim        B260   F370    460    =
 OL,11, Rzeka:FSzreniawa                       
-OL,12,FBiskupice       B281   F410    450    =
+OL,12,FBiskupice       B280   F410    450    +
 OL,14, Rzeka:FUszwica                         
-OL,15,FBorz`cin        B105   F300    400    =
+OL,15,FBorz`cin        B103   F300    400    =
 OL,17, Rzeka:FWis}a                           
-OL,18,FSmolice         B135   F450    630    =
-OL,19, Krak_w Bielany  B150   G370    520    =
-OL,20,FPop`dzynka      B165   F580    750    =
-OL,21, Karsy            B95   G550    750    -
-OL,22,FSzczucin         B94   F460    660    =
+OL,18,FSmolice         B136   F450    630    =
+OL,19, Krak_w Bielany  B159   G370    520    +
+OL,20,FPop`dzynka      B161   F580    750    =
+OL,21, Karsy            B89   G550    750    =
+OL,22,FSzczucin         B89   F460    660    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19520
@@ -430,19 +430,19 @@ SC,0020
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:17
+OL,0,      BTVP1     195C|ro 25 lis  13:04:43
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo mazowieckie    Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FBug                             
-OL,9,FWyszk_w         B175   F400    450    =
+OL,9,FWyszk_w         B176   F400    450    =
 OL,11, Rzeka:FJeziorka                        
-OL,12,FPiaseczno 2     B184   F300    350    =
+OL,12,FPiaseczno 2     B183   F300    350    =
 OL,14, Rzeka:FLiwiec                          
 OL,15,FZaliwie-PiegawkiB140   F220    270    =
-OL,16, ]och_w          B116   G300    350    +
+OL,16, ]och_w          B119   G300    350    =
 OL,18, Rzeka:FNarew                           
 OL,19,FOstro}`ka        B74   F360    380    =
 OL,20, Zambski Ko|cielnB159   G420    480    =
@@ -453,21 +453,21 @@ SC,0021
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:17
+OL,0,      BTVP1     195C|ro 25 lis  13:04:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo mazowieckie    Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FOmulew                          
 OL,9,FBia}obrzeg Bli{s B96   F180    220    =
 OL,11, Rzeka:FOrzyc                           
-OL,12,FMak_w MazowieckiB153   F370    390    -
+OL,12,FMak_w MazowieckiB154   F370    390    +
 OL,14, Rzeka:FPilica                          
 OL,15,FNowe Miasto      B37   F160    200    =
 OL,16, Bia}obrzegi     B137   G200    250    =
 OL,18, Rzeka:FRadomka                         
-OL,19,FRogo{ek         B117   F330    380    =
+OL,19,FRogo{ek         B119   F330    380    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19522
@@ -475,23 +475,23 @@ SC,0022
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:18
+OL,0,      BTVP1     195C|ro 25 lis  13:04:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo mazowieckie    Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:F\wider                          
 OL,9,FW_lka Ml@dzka    B72   F210    300    =
 OL,11, Rzeka:FWis}a                           
-OL,12,FGusin           B139   F370    420    =
-OL,13, Warszawa BulwaryB146   G600    650    =
-OL,14,FModlin          B228   F650    700    +
-OL,15, Wyszogr_d       B260   G500    550    =
-OL,16,FK`pa Polska     B189   F450    500    =
+OL,12,FGusin           B141   F370    420    =
+OL,13, Warszawa BulwaryB148   G600    650    =
+OL,14,FModlin          B230   F650    700    =
+OL,15, Wyszogr_d       B262   G500    550    =
+OL,16,FK`pa Polska     B191   F450    500    =
 OL,18, Rzeka:FWkra                            
-OL,19,FTrzciniec       B185   F280    330    =
-OL,20, Borkowo         B126   G280    300    +
+OL,19,FTrzciniec       B186   F280    330    =
+OL,20, Borkowo         B122   G280    300    -
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19523
@@ -499,16 +499,16 @@ SC,0023
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:18
+OL,0,      BTVP1     195C|ro 25 lis  13:04:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo opolskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FBia}a                           
 OL,9,FDobra            B81   F140    200    =
 OL,11, Rzeka:FK}odnica                        
-OL,12,FLenartowice     B140   F210    260    -
+OL,12,FLenartowice     B135   F210    260    =
 OL,14, Rzeka:FMa}a Panew                      
 OL,15,FTurawa          B124   F210    250    =
 OL,17, Rzeka:FNysa K}odzka                    
@@ -520,22 +520,22 @@ SC,0024
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:18
+OL,0,      BTVP1     195C|ro 25 lis  13:04:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo opolskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FOdra                            
-OL,9,FKo~le           B281   F400    500    +
-OL,10, Krapkowice      B210   G340    450    +
-OL,11,FOpole GroszowiceB400   F500    600    =
+OL,9,FKo~le           B279   F400    500    =
+OL,10, Krapkowice      B208   G340    450    -
+OL,11,FOpole GroszowiceB398   F500    600    -
 OL,12, Uj|cie Nysy K}odB274   G400    530    =
-OL,13,FBrzeg           B148   F460    530    =
+OL,13,FBrzeg           B150   F460    530    +
 OL,15, Rzeka:FOpawa                           
 OL,16,FBranice          B83   F180    240    =
 OL,18, Rzeka:FOsob}oga                        
-OL,19,FRac}awice \l@skiB189   F300    350    =
+OL,19,FRac}awice \l@skiB188   F300    350    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19525
@@ -543,20 +543,20 @@ SC,0025
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:18
+OL,0,      BTVP1     195C|ro 25 lis  13:04:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo opolskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FProsna                          
-OL,9,FGorz_w \l@ski   B140   F160    210    =
+OL,9,FGorz_w \l@ski   B142   F160    210    =
 OL,11, Rzeka:FPrudnik                         
-OL,12,FPrudnik         B111   F180    230    =
+OL,12,FPrudnik         B110   F180    230    =
 OL,14, Rzeka:FStobrawa                        
-OL,15,FKar}owice       B179   F250    300    =
+OL,15,FKar}owice       B178   F250    300    =
 OL,17, Rzeka:FStradunia                       
-OL,18,FKamionka        B123   F180    240    =
+OL,18,FKamionka        B119   F180    240    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19526
@@ -564,14 +564,14 @@ SC,0026
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:18
+OL,0,      BTVP1     195C|ro 25 lis  13:04:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo opolskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:F\cinawa Niemodli$ska            
-OL,9,FNiemodlin       B254   F320    350    =
+OL,9,FNiemodlin       B249   F320    350    =
 OL,11, Rzeka:FWidawa                          
 OL,12,FNamys}_w        B140   F210    250    =
 OL,14, Rzeka:FZ}oty Potok                     
@@ -583,20 +583,20 @@ SC,0027
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:18
+OL,0,      BTVP1     195C|ro 25 lis  13:04:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo podkarpackie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FSan                             
-OL,9,FDwernik         B109   F200    260    =
+OL,9,FDwernik         B107   F200    260    =
 OL,10, Lesko           B170   G250    330    =
-OL,11,FDyn_w           B112   F300    460    =
-OL,12, Przemy|l        B109   G380    570    =
-OL,13,FJaros}aw         B78   F440    620    =
-OL,14, Rzuch_w         B249   G570    750    =
-OL,15,FNisko           B140   F370    500    =
+OL,11,FDyn_w           B110   F300    460    =
+OL,12, Przemy|l        B106   G380    570    =
+OL,13,FJaros}aw         B75   F440    620    =
+OL,14, Rzuch_w         B244   G570    750    =
+OL,15,FNisko           B136   F370    500    =
 OL,17, Rzeka:FTanew                           
 OL,18,FHarasiuki       B102   F270    330     
 OL,23,                        ~r_d}o: IMGW-PIB
@@ -606,21 +606,21 @@ SC,0028
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:18
+OL,0,      BTVP1     195C|ro 25 lis  13:04:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!    Cwojew_dztwo podkarpackie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FWis}a                           
-OL,9,FSandomierz       B98   F420    610    =
+OL,9,FSandomierz       B92   F420    610    =
 OL,11, Rzeka:FWis}ok                          
-OL,12,FKrosno          B172   F350    480    =
-OL,13, Rzesz_w          B60   G300    420    =
-OL,14,FTry$cza         B195   F540    720    =
+OL,12,FKrosno          B171   F350    480    =
+OL,13, Rzesz_w          B55   G300    420    -
+OL,14,FTry$cza         B196   F540    720    =
 OL,16, Rzeka:FWis}oka                         
-OL,17,FKrajowice       B128   F330    450    =
-OL,18, Mielec          B180   G480    650    =
+OL,17,FKrajowice       B127   F330    450    =
+OL,18, Mielec          B181   G480    650    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19529
@@ -628,22 +628,22 @@ SC,0029
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:18
+OL,0,      BTVP1     195C|ro 25 lis  13:04:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FBiebrza                         
-OL,9,FSztabin         B150   F270    290    =
-OL,10, D`bowo          B112   G270    300    =
+OL,9,FSztabin         B151   F270    290    =
+OL,10, D`bowo          B116   G270    300    +
 OL,11,FOsowiec         B276   F400    430    =
 OL,12, Burzyn          B184   G380    400    =
 OL,14, Rzeka:FBug                             
 OL,15,FFrankopol        B48   F250    350    =
 OL,17, Rzeka:FE}k                             
 OL,18,FPrzechody       B194   F330    360    =
-OL,19, Osowiec         B360   G460    490    =
+OL,19, Osowiec         B359   G460    490    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19530
@@ -651,23 +651,23 @@ SC,0030
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:18
+OL,0,      BTVP1     195C|ro 25 lis  13:04:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FLega                            
-OL,9,FRajgr_d         B107   F140    160    =
+OL,9,FRajgr_d         B106   F140    160    =
 OL,11, Rzeka:FNarew                           
 OL,12,FNarew           B132   F170    200    =
 OL,13, Sura{           B118   G320    340    =
-OL,14,FStr`kowa G_ra   B144   F420    440    =
+OL,14,FStr`kowa G_ra   B133   F420    440    -
 OL,15, Wizna           B190   G440    470    =
 OL,16,FPi@tnica - ]om{aB103   F410    460    =
 OL,17, Nowogr_d        B156   G360    400    =
 OL,19, Rzeka:FNurzec                          
-OL,20,FBra$sk           B70   F250    300    -
+OL,20,FBra$sk           B71   F250    300    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19531
@@ -675,20 +675,20 @@ SC,0031
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:18
+OL,0,      BTVP1     195C|ro 25 lis  13:04:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FPisa                            
 OL,9,FPtaki            B59   F210    240    =
 OL,10, Dobrylas         B86   G250    290    =
 OL,12, Rzeka:FSoko}da                         
-OL,13,FSoko}da         B195   F250    300    =
+OL,13,FSoko}da         B196   F250    300    =
 OL,15, Rzeka:FSupra|l                         
-OL,16,FSupra|l         B111   F220    260    =
-OL,17, Fasty           B116   G220    250    =
+OL,16,FSupra|l         B112   F220    260    =
+OL,17, Fasty           B113   G220    250    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19532
@@ -696,22 +696,22 @@ SC,0032
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:18
+OL,0,      BTVP1     195C|ro 25 lis  13:04:45
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo pomorskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:F]eba                            
 OL,9,FL`bork          B135   F150    200    =
 OL,11, Rzeka:F]upawa                          
-OL,12,F]upawa           B73   F130    160    =
+OL,12,F]upawa           B71   F130    160    =
 OL,14, Rzeka:FMorze Ba}tyckie                 
-OL,15,FGda$sk Port P}n B547   F550    570    -
-OL,16, Hel             B544   G550    570    -
-OL,17,FUstka           B542   F570    600    =
+OL,15,FHel             B542   F550    570    +
+OL,16, Gda$sk Port P}n B546   G550    570    +
+OL,17,FUstka           B544   F570    600    =
 OL,19, Rzeka:FMot}awa                         
-OL,20,FWi|lina         B534   F560    580    =
+OL,20,FWi|lina         B523   F560    580    +
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19533
@@ -719,20 +719,20 @@ SC,0033
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:19
+OL,0,      BTVP1     195C|ro 25 lis  13:04:45
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo pomorskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FRadunia                         
-OL,9,FGor`czyno       B120   F210    240    =
+OL,9,FGor`czyno       B119   F210    240    =
 OL,11, Rzeka:FS}upia                          
-OL,12,FS}upsk          B159   F220    260    =
+OL,12,FS}upsk          B165   F220    260    =
 OL,14, Rzeka:FSzkarpawa                       
-OL,15,FTujsk           B566   F570    590    =
+OL,15,FTujsk           B558   F570    590    -
 OL,17, Rzeka:FTuja                            
-OL,18,FNowy Dw_r Gda$skC577   F570    590    =
+OL,18,FNowy Dw_r Gda$skB562   F570    590    -
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19534
@@ -740,20 +740,20 @@ SC,0034
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:19
+OL,0,      BTVP1     195C|ro 25 lis  13:04:45
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo pomorskie     Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FWda                             
 OL,9,FCzarna Woda      B50   F130    150    =
 OL,11, Rzeka:FWierzyca                        
-OL,12,FBrody Pomorskie B189   F320    350    =
+OL,12,FBrody Pomorskie B188   F320    350    =
 OL,14, Rzeka:FWis}a                           
 OL,15,FTczew           B267   F700    820    =
-OL,16, Gda$sk PrzegalinB559   G650    700    -
-OL,17,FGda$sk \wibno   B552   F600    680    -
+OL,16, Gda$sk PrzegalinB559   G650    700    +
+OL,17,FGda$sk \wibno   B546   F600    680    +
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19535
@@ -761,19 +761,19 @@ SC,0035
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:19
+OL,0,      BTVP1     195C|ro 25 lis  13:04:45
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo |l@skie      Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FBrynica                         
-OL,9,FSzabelnia        B26    F70    100    =
+OL,9,FSzabelnia        B22    F70    100    =
 OL,11, Rzeka:FGostynia                        
 OL,12,FBojszowy        B100   F170    230    =
 OL,14, Rzeka:FLiswarta                        
 OL,15,FNiwki           B134   F200    250    =
-OL,16, Kule             B94   G250    300    =
+OL,16, Kule             B93   G250    300    =
 OL,18, Rzeka:FMa}a Panew                      
 OL,19,FKrupski M}yn     B22   F160    250    =
 OL,23,                        ~r_d}o: IMGW-PIB
@@ -783,23 +783,23 @@ SC,0036
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:19
+OL,0,      BTVP1     195C|ro 25 lis  13:04:45
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo |l@skie      Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FOdra                            
 OL,9,FCha}upki        B153   F300    420    =
-OL,10, Olza            B147   G500    610    =
-OL,11,FRacib_rz MiedoniB137   F400    600    =
+OL,10, Olza            B145   G500    610    =
+OL,11,FRacib_rz MiedoniB120   F400    600    -
 OL,13, Rzeka:FOlza                            
-OL,14,FCieszyn          B27   F140    230    =
+OL,14,FCieszyn          B26   F140    230    =
 OL,16, Rzeka:FPilica                          
-OL,17,FW@sosz          B171   F250    300    =
+OL,17,FW@sosz          B170   F250    300    =
 OL,19, Rzeka:FPrzemsza                        
-OL,20,FRadocha          B35    F90    130    =
-OL,21, Jele$           B144   G280    330    =
+OL,20,FRadocha          B32    F90    130    =
+OL,21, Jele$           B138   G280    330    -
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19537
@@ -807,24 +807,24 @@ SC,0037
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:19
+OL,0,      BTVP1     195C|ro 25 lis  13:04:45
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!      Cwojew_dztwo |l@skie      Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FPsina                           
-OL,9,FBojan_w          B50   F150    210    =
+OL,9,FBojan_w          B51   F150    210    =
 OL,11, Rzeka:FSo}a                            
-OL,12,FCi`cina          B99   F280    360    =
-OL,13, [ywiec          B211   G280    340    =
+OL,12,FCi`cina          B97   F280    360    =
+OL,13, [ywiec          B210   G280    340    =
 OL,15, Rzeka:FWarta                           
-OL,16,FKr`ciwilk        B25    F80    130    =
+OL,16,FKr`ciwilk        B22    F80    130    =
 OL,17, Poraj            B75   G220    290    =
 OL,19, Rzeka:FWis}a                           
-OL,20,FSkocz_w         B150   F210    260    =
-OL,21, Gocza}kowice     B99   G290    410    -
-OL,22,FNowy Bieru$      B98   F220    330    =
+OL,20,FSkocz_w         B149   F210    260    =
+OL,21, Gocza}kowice     B98   G290    410    -
+OL,22,FNowy Bieru$      B96   F220    330    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19538
@@ -832,21 +832,21 @@ SC,0038
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:19
+OL,0,      BTVP1     195C|ro 25 lis  13:04:45
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!   Cwojew_dztwo |wi`tokrzyskie  Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FCzarna                          
 OL,9,FStasz_w         B155   F220    260    =
-OL,10, Januszewice     B297   G360    410    =
-OL,11,FPo}aniec        B113   F290    350    =
+OL,10, Januszewice     B291   G360    410    =
+OL,11,FPo}aniec        B112   F290    350    =
 OL,13, Rzeka:FKamienna                        
 OL,14,FBzin            B118   F180    230    =
-OL,15, Czekarzewice     B54   G160    220    =
+OL,15, Czekarzewice     B52   G160    220    =
 OL,17, Rzeka:FKoprzywianka                    
-OL,18,FKoprzywnica     B196   F290    360    =
+OL,18,FKoprzywnica     B197   F290    360    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19539
@@ -854,20 +854,20 @@ SC,0039
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:19
+OL,0,      BTVP1     195C|ro 25 lis  13:04:45
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!   Cwojew_dztwo |wi`tokrzyskie  Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FNida                            
 OL,9,FBrzegi           B82   F240    300    =
 OL,10, Pi$cz_w         B187   G250    300    =
 OL,12, Rzeka:F\wi|lina                        
-OL,13,FNieulisko Du{e  B220   F460    510    -
+OL,13,FNieulisko Du{e  B238   F460    510    +
 OL,15, Rzeka:FWis}a                           
-OL,16,FZawichost       B232   F480    620    =
-OL,17, Annopol         B200   G500    550    =
+OL,16,FZawichost       B227   F480    620    =
+OL,17, Annopol         B198   G500    550    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19540
@@ -875,21 +875,21 @@ SC,0040
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:19
+OL,0,      BTVP1     195C|ro 25 lis  13:04:45
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FDrw`ca                          
-OL,9,FNowe Miasto LubaB187   F330    340    =
+OL,9,FNowe Miasto LubaB189   F330    340    =
 OL,11, Rzeka:FElbl@g                          
-OL,12,FElbl@g          B573   F590    610    =
+OL,12,FElbl@g          B565   F590    610    =
 OL,14, Rzeka:FE}k                             
 OL,15,FE}k              B92   F200    230    =
 OL,17, Rzeka:FGo}dapa                         
 OL,18,FJurkiszki        B72   F180    210    =
-OL,19, Banie Mazurskie B154   G260    290    =
+OL,19, Banie Mazurskie B155   G260    290    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19541
@@ -897,22 +897,22 @@ SC,0041
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:19
+OL,0,      BTVP1     195C|ro 25 lis  13:04:45
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FGuber                           
-OL,9,FProsna          B156   F300    330    =
+OL,9,FProsna          B155   F300    330    =
 OL,11, Rzeka:FI}awka                          
-OL,12,FDziarny          B34   F130    140    =
+OL,12,FDziarny          B33   F130    140    =
 OL,14, Rzeka:FJez.Druzno                      
 OL,15,F[ukowo          A607   F570    590    =
 OL,17, Rzeka:F]yna                            
-OL,18,FOlsztyn - Kortow B70   F140    160    =
-OL,19, Smolajny        B140   G280    300    =
-OL,20,FS`popol         B168   F420    450    =
+OL,18,FOlsztyn - Kortow B69   F140    160    =
+OL,19, Smolajny        B142   G280    300    =
+OL,20,FS`popol         B167   F420    450    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19542
@@ -920,21 +920,21 @@ SC,0042
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:19
+OL,0,      BTVP1     195C|ro 25 lis  13:04:46
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FNogat                           
-OL,9,FDolna K`pa (nowoB558   F570    590    -
+OL,9,FDolna K`pa (nowoB550   F570    590    -
 OL,11, Rzeka:FPas}`ka                         
-OL,12,FBraniewo        B673   F720    780    -
+OL,12,FBraniewo        B671   F720    780    -
 OL,14, Rzeka:FPisa                            
-OL,15,FGi{ycko         B113   F130    150    =
-OL,16, Pisz            B121   G270    290    =
+OL,15,FGi{ycko         B112   F130    150    =
+OL,16, Pisz            B120   G270    290    =
 OL,18, Rzeka:FW@ska                           
-OL,19,FPas}`k          B588   F620    630    -
+OL,19,FPas}`k          B563   F620    630    -
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19543
@@ -942,19 +942,19 @@ SC,0043
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:20
+OL,0,      BTVP1     195C|ro 25 lis  13:04:46
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!Cwojew_dztwo warmi$sko-mazurskieQ"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FWel                             
-OL,9,FKuligi           B81   F150    180    -
+OL,9,FKuligi           B77   F150    180    =
 OL,11, Rzeka:FW`gorapa                        
 OL,12,FMieduniszki     B225   F400    450    =
 OL,14, Rzeka:FZalew Wi|lany                   
-OL,15,FNowe Batorowo   B573   F590    630    =
-OL,16, Tolkmicko       B562   G590    630    -
+OL,15,FNowe Batorowo   B562   F590    630    =
+OL,16, Tolkmicko       B548   G590    630    -
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19544
@@ -962,11 +962,11 @@ SC,0044
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:20
+OL,0,      BTVP1     195C|ro 25 lis  13:04:46
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FBarycz                          
 OL,9,FOdolan_w / Baryc B51   F120    150    =
@@ -975,8 +975,8 @@ OL,12,FTr@bczyn        B117   F180    230    =
 OL,14, Rzeka:FDrawa                           
 OL,15,FDrawiny          B26   F120    170    =
 OL,17, Rzeka:FGwda                            
-OL,18,FPtusza          B197   F240    290    +
-OL,19, Pi}a            B121   G190    220    +
+OL,18,FPtusza          B191   F240    290    +
+OL,19, Pi}a            B116   G190    220    +
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19545
@@ -984,19 +984,19 @@ SC,0045
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:20
+OL,0,      BTVP1     195C|ro 25 lis  13:04:46
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FKana} Mosi$ski                  
 OL,9,FKo|cian          B86   F180    210    =
 OL,10, Mosina           B39   G160    250    =
 OL,12, Rzeka:FKie}baska Du{a                  
-OL,13,FKo|cielec       B136   F240    270    =
+OL,13,FKo|cielec       B138   F240    270    =
 OL,15, Rzeka:FKuroch                          
-OL,16,FOdolan_w / KurocB128   F160    190    =
+OL,16,FOdolan_w / KurocB129   F160    190    =
 OL,18, Rzeka:F]ob{onka                        
 OL,19,FWyrzysk          B55   F160    200    =
 OL,23,                        ~r_d}o: IMGW-PIB
@@ -1006,19 +1006,19 @@ SC,0046
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:20
+OL,0,      BTVP1     195C|ro 25 lis  13:04:46
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:F]u{yca                          
-OL,9,FKraszewice      B182   F240    260    =
+OL,9,FKraszewice      B181   F240    260    =
 OL,11, Rzeka:FNer                             
 OL,12,FD@bie           B146   F250    300    =
 OL,14, Rzeka:FNote^                           
-OL,15,FBia}o|liwie     B177   F280    330    =
-OL,16, Uj|cie          B188   G310    330    =
+OL,15,FBia}o|liwie     B176   F280    330    =
+OL,16, Uj|cie          B189   G310    330    =
 OL,17,FCzarnk_w         B97   F250    300    =
 OL,18, Krzy{           B179   G360    400    =
 OL,23,                        ~r_d}o: IMGW-PIB
@@ -1028,20 +1028,20 @@ SC,0047
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:20
+OL,0,      BTVP1     195C|ro 25 lis  13:04:46
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FO}obok                          
-OL,9,FO}obok           B64   F220    260    -
+OL,9,FO}obok           B60   F220    260    +
 OL,11, Rzeka:FPolska Woda                     
-OL,12,FBogdaj          B225   F250    300    =
+OL,12,FBogdaj          B224   F250    300    =
 OL,14, Rzeka:FPolski R_w                      
-OL,15,FRydzyna         B121   F200    240    =
+OL,15,FRydzyna         B122   F200    240    =
 OL,17, Rzeka:FPowa                            
-OL,18,FPosoka          B174   F260    300    -
+OL,18,FPosoka          B186   F260    300    +
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19548
@@ -1049,15 +1049,15 @@ SC,0048
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:20
+OL,0,      BTVP1     195C|ro 25 lis  13:04:46
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FProsna                          
 OL,9,FPiwonice         B84   F200    230    =
-OL,10, Bogus}aw         B69   G250    300    -
+OL,10, Bogus}aw         B57   G250    300    =
 OL,12, Rzeka:FRgilewka                        
 OL,13,FGrzegorzew      B120   F240    280    =
 OL,15, Rzeka:FSw`drnia                        
@@ -1065,8 +1065,8 @@ OL,16,FD`be            B230   F250    270    =
 OL,18, Rzeka:FWarta                           
 OL,19,FKo}o            B222   F340    390    =
 OL,20, S}awsk          B269   G450    480    =
-OL,21,FL@d             B153   F330    370    =
-OL,22, Pyzdry          B215   G410    450    =
+OL,21,FL@d             B154   F330    370    =
+OL,22, Pyzdry          B216   G410    450    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
 PN,19549
@@ -1074,18 +1074,18 @@ SC,0049
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:20
+OL,0,      BTVP1     195C|ro 25 lis  13:04:46
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!   Cwojew_dztwo wielkopolskie   Q"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FWarta                           
-OL,9,FNowa Wie| Podg_rB186   F430    480    =
+OL,9,FNowa Wie| Podg_rB187   F430    480    =
 OL,10, \rem            B190   G400    460    =
-OL,11,FPozna$ - Most RoB155   F400    500    =
-OL,12, Oborniki        B174   G420    560    =
-OL,13,FWronki          B148   F380    470    =
+OL,11,FPozna$ - Most RoB156   F400    500    =
+OL,12, Oborniki        B175   G420    560    =
+OL,13,FWronki          B143   F380    470    -
 OL,14, Mi`dzych_d       B95   G380    430    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100
@@ -1094,20 +1094,20 @@ SC,0050
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     195C|ro 25 lis  03:04:20
+OL,0,      BTVP1     195C|ro 25 lis  13:04:46
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##! Cwojew_dztwo zachodniopomorskieQ"##
-OL,5,E25.11.2026  2:00    GStany:            
+OL,5,E25.11.2026 12:00    GStany:            
 OL,6, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,8, Rzeka:FCie|nina Dziwna                 
-OL,9,FWolin           C563   F560    580    =
+OL,9,FWolin           B555   F560    580    =
 OL,11, Rzeka:FIna                             
-OL,12,FStargard Szczeci B62   F250    280    =
-OL,13, Goleni_w        B118   G270    320    =
+OL,12,FStargard Szczeci B66   F250    280    =
+OL,13, Goleni_w        B117   G270    320    =
 OL,15, Rzeka:FMorze Ba}tyckie                 
-OL,16,FDziwn_w         B547   F560    580    =
-OL,17, \winouj|cie     B539   G560    580    -
-OL,18,FKo}obrzeg       B538   F570    610    =
+OL,16,FDziwn_w         B551   F560    580    -
+OL,17, Ko}obrzeg       B543   G570    610    =
+OL,18,F\winouj|cie     B545   F560    580    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,194,196,200,200,0,100

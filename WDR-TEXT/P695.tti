@@ -3,37 +3,66 @@ PN,69501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G695 WDR Text GMi 25.11.26 03:56:06
+OL,0,     G695 WDR Text GMi 25.11.26 13:47:16
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, f}r A30,A31,A33                        
-OL,5, Stand: 25.11.2026 03:48 Uhr            
-OL,7, Auf der A30 Rheine Richtung Osnabr}ck  
-OL,8, ist die Auffahrt Ibbenb}ren            
-OL,9, voraussichtlich bis Juli 2027 gesperrt.
-OL,11, Auf der A30 Rheine Richtung Osnabr}ck  
-OL,12, ist die Auffahrt Osnabr}ck-Sutthausen  
-OL,13, bis etwa 5 Uhr gesperrt.               
-OL,15, Auf der A30 Osnabr}ck Richtung Rheine  
-OL,16, ist die Anschlussstelle                
-OL,17, Rheine-Kanalhafen voraussichtlich bis  
-OL,18, Mai 2027 gesperrt.                     
-OL,20, Auf der A33 Osnabr}ck Richtung         
-OL,21, Bielefeld ist die Auffahrt Harderberg  
-OL,22, voraussichtlich bis Ende November      
+OL,5, Stand: 25.11.2026 13:43 Uhr            
+OL,7, A30 Osnabr}ck Richtung Bad Oeynhausen  
+OL,8, zwischen Kirchlengern und L|hne Gefahr 
+OL,9, durch ungesicherte Unfallstelle, fahren
+OL,10, Sie bitte besonders vorsichtig         
+OL,12, A30 Amsterdam Richtung Osnabr}ck       
+OL,13, zwischen Salzbergen und                
+OL,14, Rheine-Kanalhafen 6 km stockender      
+OL,15, Verkehr                                
+OL,17, Auf der A30 Rheine Richtung Osnabr}ck  
+OL,18, ist die Auffahrt Ibbenb}ren            
+OL,19, voraussichtlich bis Juli 2027 gesperrt.
+OL,21, Auf der A30 Rheine Richtung Osnabr}ck  
+OL,22, ist die Auffahrt Osnabr}ck-Sutthausen  
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 694B]G+ 696  \               G(1/2)
+OL,24,A]G- 694B]G+ 696  \               G(1/3)
 FL,694,696,0,0,0,100
 PN,69502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G695 WDR Text GMi 25.11.26 03:56:06
+OL,0,     G695 WDR Text GMi 25.11.26 13:47:16
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
-OL,4, gesperrt.                              
+OL,4, bis etwa 5 Uhr gesperrt.               
+OL,6, Die A30 Osnabr}ck Richtung Rheine ist  
+OL,7, zwischen Ibbenb}ren-West und H|rstel   
+OL,8, mehr als 10 Minuten plus, 4 km Stau    
+OL,9, nach Bergungsarbeiten                  
+OL,11, A30 Osnabr}ck Richtung Rheine die      
+OL,12, Einfahrt H|rstel ist gesperrt.         
+OL,14, Auf der A30 Osnabr}ck Richtung Rheine  
+OL,15, ist die Anschlussstelle                
+OL,16, Rheine-Kanalhafen voraussichtlich bis  
+OL,17, Mai 2027 gesperrt.                     
+OL,19, Auf der A33 Osnabr}ck Richtung         
+OL,20, Bielefeld ist die Auffahrt Harderberg  
+OL,21, voraussichtlich bis Ende November      
+OL,22, gesperrt.                              
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 694B]G+ 696  \               G(2/2)
+OL,24,A]G- 694B]G+ 696  \               G(2/3)
+FL,694,696,0,0,0,100
+PN,69503
+SC,0003
+PS,C200
+CT,15,T
+OL,0,     G695 WDR Text GMi 25.11.26 13:47:16
+OL,1,]D]        G]               @]  CVERKEHR
+OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
+OL,3,]T5                                
+OL,5, A33 Bielefeld Richtung Brilon zwischen 
+OL,6, Schlo~ Holte-Stukenbrock und           
+OL,7, Stukenbrock-Senne etwa 10 Minuten plus,
+OL,8, 3 km Stau                              
+OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]G- 694B]G+ 696  \               G(3/3)
 FL,694,696,0,0,0,100

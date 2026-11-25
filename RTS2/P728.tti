@@ -3,48 +3,49 @@ PN,72801
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G728  RTS 2     24.11.26 23:41:39
-OL,1,D]GRTS 1     ]@mardi 24 novembre        
+OL,0,       G728  RTS 2     25.11.26 09:41:37
+OL,1,D]GRTS 1     ]@mercredi 25 novembre     
 OL,2,                                    1/2 
 OL,4,G06:00 GJeunesse                        
-OL,6,F09:30 FQuel temps fait-il ?            
-OL,7,       CS-T                             
-OL,8,G09:40 GMagnum                          
-OL,9,       GMensonges d'amourCI/IICS-T      
-OL,10,F10:25 FMagnum                          
-OL,11,E 1030 FEnfants terriblesCI/IICS-T      
-OL,12,G11:15 GTop ModelsCI/IICS-T             
-OL,13,E 1125                                  
-OL,14,F11:40 FPlus belle la vie, encore       
-OL,15,E 1145 Fplus belleCS-T                  
-OL,17,G12:05 GDemain nous appartientCS-T      
-OL,18,F12:45 F12h45                           
-OL,19,       CS-T                             
+OL,6,F09:45 FQuel temps fait-il ?            
+OL,7,E 0930 CS-T                             
+OL,8,G09:50 GSaisis ta chance @ No[l         
+OL,9,E 0940 CI/IICS-T                        
+OL,10,F11:15 FTop ModelsCI/IICS-T             
+OL,11,E 1125                                  
+OL,12,G11:40 GPlus belle la vie, encore       
+OL,13,E 1145 Gplus belleCS-T                  
+OL,15,F12:10 FDemain nous appartientCS-T      
+OL,16,E 1205                                  
+OL,17,G12:45 G12h45                           
+OL,18,       CS-T                             
+OL,19,F13:10 FM#t#o                           
+OL,20,E 1305 CS-T                             
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,72802
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G728  RTS 2     24.11.26 23:41:39
-OL,1,D]GRTS 1     ]@mardi 24 novembre        
+OL,0,       G728  RTS 2     25.11.26 09:41:37
+OL,1,D]GRTS 1     ]@mercredi 25 novembre     
 OL,2,                                    2/2 
-OL,4,G13:10 GM#t#o                           
-OL,5,E 1305 CS-T                             
-OL,6,F13:20 FAbracadabra ! Ally et le        
-OL,7,       Fmiracle de No[l                 
-OL,8,       CI/IICS-T                        
-OL,9,G14:55 GUn No[l plein d'histoires       
-OL,10,       CI/IICS-T                        
-OL,11,F16:30 FYoung Sheldon                   
-OL,12,E 1625 FPassion's Harvest et une        
-OL,13,       FSheldocratieCI/IICS-T           
-OL,14,G16:50 GMeurtres au paradis             
-OL,15,E 1700 GPris @ son propre pi`geCI/      
-OL,16,       GIICS-T                          
-OL,17,F17:55 FIci tout commenceCS-T           
-OL,18,E 1810                                  
-OL,19,G18:25 GC'est ma question               
-OL,20,E 1820 CS-T                             
+OL,4,G13:20 GUn match parfait pour No[l      
+OL,5,E 1315 CI/IICS-T                        
+OL,6,F14:50 FEn route pour No[l              
+OL,7,E 1455 CI/IICS-T                        
+OL,8,G16:30 GYoung Sheldon                   
+OL,9,E 1620 GUne fausse blonde et le         
+OL,10,       Gconcept du z#roCI/IICS-T        
+OL,11,F16:50 FMeurtres au paradis             
+OL,12,E 1700 FCh`re HortenseCI/IICS-T         
+OL,13,G17:55 GIci tout commenceCS-T           
+OL,14,E 1810                                  
+OL,15,F18:25 FC'est ma question               
+OL,16,E 1820 CS-T                             
+OL,17,G18:55 GM#t#o r#gionale                 
+OL,18,E 1850 CS-T                             
+OL,19,F19:00 FCouleurs locales                
+OL,20,       CS-T                             
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

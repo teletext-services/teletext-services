@@ -1,20 +1,52 @@
 DE,ORF1 431
-PN,43100
-SC,0000
-PS,8208
+PN,43101
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G431FORF1   GDi 24.11.26 22:15:53
+OL,0,       G431FORF1   GMi 25.11.26 08:15:44
 OL,1,A]G              ARB\-Verkehrsmeldungen 
-OL,2,A]GMOTOR  ]A            24.11., 22:15h \
-OL,3,Q#########G                             
+OL,2,A]GMOTOR  ]A            25.11., 08:15h \
+OL,3,Q#########G                        1/2  
 OL,4,FKettenpflicht f}r Fahrzeuge ab 3,5t:   
 OL,5,G* B23, Lahnsattel Str., zw. Frein an   
 OL,6,G  der M}rz u. Terz                     
-OL,8,GAuf den Hauptverbindungen herrscht     
-OL,9,Gderzeit st|rungsfreies                 
-OL,10,GVerkehrsaufkommen.                     
+OL,8,GA7, M}hlkreis-AB, FR West-AB, ab       
+OL,9,GTreffling, Stau u. bis zu 30 min       
+OL,10,GZeitverlust (]berlastung)              
+OL,12,GA9, Pyhrn-AB, FR Voralpenkreuz, ab     
+OL,13,GWundschuh, Stau u. bis zu 10 min       
+OL,14,GZeitverlust (]berlastung)              
+OL,16,GA23, S}dostt., FR Inzersdorf, zw. Kn.  
+OL,17,GHirschstetten u. Kn. Prater, Stau u.   
+OL,18,Gbis zu 15 min Zeitverlust (]berlastung)
 OL,21,A]GKeine Reise ohne ARB\-Sicherheits-   
 OL,22,A]GPass - dem Rundum-Schutz f}r Auto    
 OL,23,A]Gund Familie!C>>arboe.at              
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,43102
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G431FORF1   GMi 25.11.26 08:15:44
+OL,1,A]G              ARB\-Verkehrsmeldungen 
+OL,2,A]GMOTOR  ]A            25.11., 08:15h \
+OL,3,Q#########G                        2/2  
+OL,4,GB3, Donau Str., FR Linz, H|he Pulgarn, 
+OL,5,GStau u. bis zu 15 min Zeitverlust      
+OL,6,G(]berlastung)                          
+OL,8,GB1, Wiener Str., FR Linz, zw. Pichling 
+OL,9,Gu. Mona Lisa Tunnel, Stau u. bis zu 10 
+OL,10,Gmin Zeitverlust (]berlastung)          
+OL,12,GB15, Mannersdorfer Str., FR            
+OL,13,GLeopoldsdorf, bei Himberg, Stau u. bis 
+OL,14,Gzu 15 min Zeitverlust (]berlastung)    
+OL,16,GB137, Innviertler Str., beide FR, zw.  
+OL,17,GAndorf u. Zell an der Pram, Sperre     
+OL,18,G(Unfall)                               
+OL,20,GWien: Innerer G}rtel, zw. Mariahilfer  
+OL,21,GStr. u. Stollgasse, Behinderungen      
+OL,22,G(Unfall)                               
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

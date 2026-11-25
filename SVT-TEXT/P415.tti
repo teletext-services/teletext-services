@@ -3,9 +3,9 @@ PN,41501
 SC,0001
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 415  Ons 25 novC00:30:18
-OL,1,D]GSj|v{der tisdag kl. 22.02       1(4) 
-OL,2,D]GUtsikter g{llande ett dygn           
+OL,0,      GSVT Text 415  Ons 25 novC05:30:04
+OL,1,D]GSj|v{der onsdag kl. 05.05       1(4) 
+OL,2,D]GUtsikter till torsdag morgon         
 OL,4,FV{der|versikt                          
 OL,5, GEtt h|gtryck etablerar sig |ver Norden
 OL,6, Goch ett omfattande l}gtryck finns |ver
@@ -15,9 +15,9 @@ OL,10,FUtsira
 OL,11, GOst 8-13. Mest god sikt, n}gon        
 OL,12, Gregnskur i norr.                      
 OL,14,FSkagerrak                              
-OL,15, GNordost 7-12. I morgon eftermiddag p} 
-OL,16, Gden |stra delen 6-9. Mest god sikt,   
-OL,17, Gn}gon skur.                           
+OL,15, GNordost 7-12. I eftermiddag p} den    
+OL,16, G|stra delen 6-9. Till natten allm{nt  
+OL,17, G5-9. Mest god sikt, n}gon skur.       
 OL,23,D] GV{derindex 400                      
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/4)
 FL,100,300,400,700,0,100
@@ -25,21 +25,22 @@ PN,41502
 SC,0002
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 415  Ons 25 novC00:30:18
-OL,1,D]GSj|v{der tisdag kl. 22.02       2(4) 
-OL,2,D]GUtsikter g{llande ett dygn           
-OL,4,FKattegatt, \resund, B{lten och         
-OL,5,FSydv{stra \stersj|n                    
-OL,6, GOst eller nordost  6-10. Enstaka byar 
-OL,7, Gav bl|tsn| med m}ttlig sikt.          
-OL,9,FV{nern                                 
-OL,10, GNord eller nordost 5-9. I morgon ost  
-OL,11, Geller nordost. P} s|dra V{nern n}gon  
-OL,12, Gsn|by, i |vrigt god sikt.             
-OL,14,FS|dra \stersj|n                        
-OL,15, GOmkring nord 4-9.  I morgon           
-OL,16, Geftermiddag nordost 7-11. Byar av regn
-OL,17, Geller bl|tsn| med m}ttlig sikt.       
+OL,0,      GSVT Text 415  Ons 25 novC05:30:04
+OL,1,D]GSj|v{der onsdag kl. 05.05       2(4) 
+OL,2,D]GUtsikter till torsdag morgon         
+OL,4,FKattegatt, V{nern och \resund          
+OL,5,  GNordost till ost 5-9. P} s|dra V{nern
+OL,6, Gn}gon sn|by, i |vrigt god sikt.       
+OL,8,FB{lten, Sydv{stra \stersj|n och S|dra  
+OL,9,F\stersj|n                              
+OL,10, GOst eller nordost  6-11. Enstaka      
+OL,11, Gregnskurar eller byar av bl|tsn| med  
+OL,12, Gm}ttlig sikt.                         
+OL,14,FSyd|stra \stersj|n                     
+OL,15, GNordost 6-10. Avtagande, i eftermiddag
+OL,16, Gost eller nordost 3-7. Byar av regn   
+OL,17, Geller bl|tsn| med m}ttlig till d}lig  
+OL,18, Gsikt.                                 
 OL,23,D] GV{derindex 400                      
 OL,24,ANyheter BSport CV{der FInneh}llG  (2/4)
 FL,100,300,400,700,0,100
@@ -47,23 +48,21 @@ PN,41503
 SC,0003
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 415  Ons 25 novC00:30:18
-OL,1,D]GSj|v{der tisdag kl. 22.02       3(4) 
-OL,2,D]GUtsikter g{llande ett dygn           
-OL,4,FSyd|stra \stersj|n                     
-OL,5, GOmkring nord 6-10. Avtagande, i morgon
-OL,6, Geftermiddag ost eller nordost 3-7.    
-OL,7, GByar av regn eller bl|tsn| med m}ttlig
-OL,8, Gsikt.                                 
-OL,10,FMellersta \stersj|n, Norra \stersj|n,  
-OL,11,FRigabukten och Finska viken            
-OL,12, GNord eller nordost 7-12, n}got        
-OL,13, Gavtagande. I morgon eftermiddag       
-OL,14, Gnordost 5-10. Byar av regn eller      
-OL,15, Gbl|tsn| med m}ttlig till d}lig sikt.  
-OL,17,F]lands hav och Sk{rg}rdshavet          
-OL,18, GNord eller nordost 6-10. Mest god     
-OL,19, Gsikt.                                 
+OL,0,      GSVT Text 415  Ons 25 novC05:30:04
+OL,1,D]GSj|v{der onsdag kl. 05.05       3(4) 
+OL,2,D]GUtsikter till torsdag morgon         
+OL,4,FMellersta \stersj|n, Norra \stersj|n,  
+OL,5,FRigabukten och Finska viken            
+OL,6, GNord eller nordost 6-10. Byar av regn 
+OL,7, Geller bl|tsn| med m}ttlig till d}lig  
+OL,8, Gsikt. I natt mest god sikt.           
+OL,10,F]lands hav och Sk{rg}rdshavet          
+OL,11, GNord eller nordost 6-10. Mest god     
+OL,12, Gsikt.                                 
+OL,14,FS|dra Bottenhavet och Norra Bottenhavet
+OL,15, GNord eller nordost 6-11. I eftermiddag
+OL,16, Gnord eller nordv{st. I natt }ter nord 
+OL,17, Gtill nordost. God sikt.               
 OL,23,D] GV{derindex 400                      
 OL,24,ANyheter BSport CV{der FInneh}llG  (3/4)
 FL,100,300,400,700,0,100
@@ -71,19 +70,12 @@ PN,41504
 SC,0004
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 415  Ons 25 novC00:30:18
-OL,1,D]GSj|v{der tisdag kl. 22.02       4(4) 
-OL,2,D]GUtsikter g{llande ett dygn           
-OL,4,FS|dra Bottenhavet och Norra Bottenhavet
-OL,5, GNord eller nordost 8-12. I morgon     
-OL,6, Gbitti avtagande, i morgon eftermiddag 
-OL,7, Gnord eller nordv{st 5-9. P} v{stra    
-OL,8, Gfarvattnen byar av bl|tsn| med m}ttlig
-OL,9, Gtill d}lig sikt. I morgon mest god    
-OL,10, Gsikt.                                 
-OL,12,FNorra Kvarken och Bottenviken          
-OL,13, GNordv{st till nord 6-10. I morgon     
-OL,14, Geftermiddag nord 9-12. Mest god sikt. 
+OL,0,      GSVT Text 415  Ons 25 novC05:30:04
+OL,1,D]GSj|v{der onsdag kl. 05.05       4(4) 
+OL,2,D]GUtsikter till torsdag morgon         
+OL,4,FNorra Kvarken och Bottenviken          
+OL,5, GNordv{st till nord 6-10. I eftermiddag
+OL,6, Gnord 8-12. Mest god sikt.             
 OL,23,D] GV{derindex 400                      
 OL,24,ANyheter BSport CV{der FInneh}llG  (4/4)
 FL,100,300,400,700,0,100

@@ -3,20 +3,20 @@ PN,60101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G601FORF IIIGDi 24.11.26 22:42:35
+OL,0,       G601FORF IIIGMi 25.11.26 08:42:35
 OL,1,A]G                    Werte \sterreich 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       1/3  
-OL,4,FWien/H. WarteC22h G    wolkenlosF -2,4`
-OL,5,FEisenstadt   C22h G    wolkenlosF -2,7`
-OL,6,FSt. P|lten   C22h G    wolkenlosF -2,6`
-OL,8,FLinz         C22h G    wolkenlosF -0,2`
-OL,9,FSalzburg     C22h G    wolkenlosF -3,5`
-OL,10,FInnsbruck/Un.C22h Gstark bew|lktF -1,1`
-OL,12,FBregenz      C22h Gstark bew|lktF  1,1`
-OL,13,FGraz/Stra~ga.C22h G       wolkigF -3,6`
-OL,14,FKlagenfurt/H.C22h G       wolkigF -2,4`
-OL,21,F              Geosphere Austria  22:00h
+OL,4,FWien/H. WarteC08h G       wolkigF -1,8`
+OL,5,FEisenstadt   C08h Gstark bew|lktF -1,3`
+OL,6,FSt. P|lten   C08h G       heiterF -4,5`
+OL,8,FLinz         C08h G       wolkigF -2,3`
+OL,9,FSalzburg     C08h Gstark bew|lktF -2,9`
+OL,10,FInnsbruck/Un.C08h Gstark bew|lktF  2,0`
+OL,12,FBregenz      C08h Gstark bew|lktF  1,9`
+OL,13,FGraz/Stra~ga.C08h Gstark bew|lktF -1,1`
+OL,14,FKlagenfurt/H.C08h Gstark bew|lktF -1,2`
+OL,21,F              Geosphere Austria  08:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -24,27 +24,27 @@ PN,60102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G601FORF IIIGDi 24.11.26 22:42:35
+OL,0,       G601FORF IIIGMi 25.11.26 08:42:35
 OL,1,A]G                    Werte \sterreich 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       2/3  
 OL,4,FH|chst-Temperaturen letzte Stunde      
-OL,5,GLaterns/Gapfohlal. (VBG 1550m).   3,3`C
-OL,6,GSteinach/Tirol (TIR 1025m) ....   2,9`C
-OL,7,GFraxern (VBG 809m) ............   2,8`C
-OL,8,GRohrspitz (VBG 398m) ..........   2,5`C
-OL,9,GEhrwald (TIR 994m) ............   2,2`C
-OL,10,GFeldkirch (VBG 451m) ..........   2,0`C
-OL,11,GKolm-Saigurn (SBG 1618m) ......   1,9`C
+OL,5,GBrand (VBG 1040m) .............   7,1`C
+OL,6,GSchr|cken (VBG 1260m) .........   6,5`C
+OL,7,GBludenz (VBG 571m) ............   4,7`C
+OL,8,GMittelberg (VBG 1215m) ........   4,5`C
+OL,9,GLaterns/Gapfohlal. (VBG 1550m).   4,0`C
+OL,10,GFraxern (VBG 809m) ............   3,6`C
+OL,11,GHintertux-Zillert. (TIR 1505m).   3,4`C
 OL,13,FTiefst-Temperaturen letzte Stunde      
-OL,14,GSchwarzau im Freiw. (NOE 788m). -10,6`C
-OL,15,GStift Zwettl (NOE 505m) .......  -9,5`C
-OL,16,GSt.Aegyd am Neuwal. (NOE 679m).  -9,1`C
-OL,17,GLiebenau-Gugu (OOE 845m) ......  -8,9`C
-OL,18,GPuchberg (NOE 582m) ...........  -8,2`C
-OL,19,GSt. Michael/Lungau (SBG 1094m).  -8,0`C
-OL,20,GSillian (TIR 1081m) ...........  -8,0`C
-OL,21,F              Geosphere Austria  22:00h
+OL,14,GPuchberg (NOE 582m) ...........  -7,9`C
+OL,15,GSt.Aegyd am Neuwal. (NOE 679m).  -7,7`C
+OL,16,GBerndorf (NOE 339m) ...........  -7,6`C
+OL,17,GB{rnkopf (NOE 965m) ...........  -7,6`C
+OL,18,GJauerling Gipfel (NOE 959m) ...  -7,4`C
+OL,19,GAflenz (STM 774m) .............  -7,2`C
+OL,20,GFreistadt (OOE 535m) ..........  -7,0`C
+OL,21,F              Geosphere Austria  08:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100
@@ -52,22 +52,27 @@ PN,60103
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G601FORF IIIGDi 24.11.26 22:42:35
+OL,0,       G601FORF IIIGMi 25.11.26 08:42:35
 OL,1,A]G                    Werte \sterreich 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       3/3  
 OL,4,FNiederschlag letzte Stunde             
-OL,5,GLech/Arlberg (VBG 1445m) ......  0,7 mm
-OL,6,GSemmering (NOE 993m) ..........  0,1 mm
-OL,8,FWindspitzen letzte Stunde              
-OL,9,GSteinach/Tirol (TIR 1025m) .... 41 km/h
-OL,10,GWolfsegg am Hausru. (OOE 619m). 38 km/h
-OL,11,GOstermiething (OOE 412m) ...... 36 km/h
-OL,12,GWachtberg bei Steyr (OOE 366m). 34 km/h
-OL,13,GGolling (SBG 491m) ............ 31 km/h
-OL,14,GReichersberg (OOE 353m) ....... 31 km/h
-OL,15,GEhrwald (TIR 994m) ............ 31 km/h
-OL,21,F              Geosphere Austria  22:00h
+OL,5,GVillacher Alpe (KAE 2156m) ....  0,3 mm
+OL,6,GObergurgl (TIR 1939m) .........  0,2 mm
+OL,7,GBrenner (TIR 1377m) ...........  0,2 mm
+OL,8,GRudolfsh}tte (SBG 2309m) ......  0,2 mm
+OL,9,GSt. Jakob/Def. (TIR 1388m) ....  0,2 mm
+OL,10,GKanzelh|he (KAE 1526m) ........  0,1 mm
+OL,11,GLoibl/Tunnel (KAE 1096m) ......  0,1 mm
+OL,13,FWindspitzen letzte Stunde              
+OL,14,GBrand (VBG 1040m) ............. 45 km/h
+OL,15,GGolling (SBG 491m) ............ 39 km/h
+OL,16,GLoibl/Tunnel (KAE 1096m) ...... 39 km/h
+OL,17,GBruckneudorf (BGL 167m) ....... 37 km/h
+OL,18,GKremsm}nster (OOE 389m) ....... 36 km/h
+OL,19,GLeiser Berge (NOE 458m) ....... 35 km/h
+OL,20,GWolfsegg am Hausru. (OOE 619m). 34 km/h
+OL,21,F              Geosphere Austria  08:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersichtBFernsehenCKultur+Show FWetter
 FL,100,300,400,600,0,100

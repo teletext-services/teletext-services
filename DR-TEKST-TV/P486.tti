@@ -3,56 +3,59 @@ PN,48601
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       GDR   S486  tir 24 nov   20:12:52
+OL,0,       GDR   S486  ons 25 nov   06:13:28
 OL,1,D]G                                     
 OL,2,D]G        BILLUND   INDENRIGS/UDENRIGS 
 OL,3,D]G        LUFTHAVN             ANKOMST 
 OL,4,T#######################################
 OL,5,CTID  FORV FLY    FRA          BEMARK   
-OL,6,   -------  2026-11-24  -------         
-OL,7, 2045      SK1287 Copenhagen            
-OL,8, 2245      KL1301 Amsterdam             
-OL,9, 2325      LH842  Frankfurt             
-OL,10, 2355      SK1289 Copenhagen            
-OL,11,   -------  2026-11-25  -------         
-OL,12, 0930      SK1901 Oslo          Cancelle
-OL,13, 0940      KL1291 Amsterdam             
-OL,14, 0950      LH836  Frankfurt             
-OL,15, 1015      SK2497 Stockholm             
-OL,16, 1020      DY998  Oslo                  
-OL,17, 1025      SK1281 Copenhagen            
-OL,18, 1125      KL1293 Amsterdam             
-OL,19, 1345      KL1295 Amsterdam             
-OL,20, 1415      W43695 Iasi                  
-OL,21, 1425      AF1264 Paris CDG             
-OL,22, 1500      SK1285 Copenhagen            
-OL,23, ]A485@AFGANG      P5A480@FLY       1/2 
+OL,6,   -------  2026-11-25  -------         
+OL,7, 0930      SK1901 Oslo          Cancelle
+OL,8, 0940      KL1291 Amsterdam             
+OL,9, 0950      LH836  Frankfurt             
+OL,10, 1015      SK2497 Stockholm             
+OL,11, 1020      DY998  Oslo                  
+OL,12, 1025      SK1281 Copenhagen            
+OL,13, 1125      KL1293 Amsterdam             
+OL,14, 1345      KL1295 Amsterdam             
+OL,15, 1415      W43695 Iasi                  
+OL,16, 1425      AF1264 Paris CDG             
+OL,17, 1500      SK1285 Copenhagen            
+OL,18, 1645      D83535 London LGW            
+OL,19, 1800      KL1299 Amsterdam             
+OL,20, 1820      LH840  Frankfurt             
+OL,21, 1855      SK1905 Oslo                  
+OL,22, 1900      DK1217 Gran Canaria          
+OL,23, ]A485@AFGANG      P5A480@FLY       1/3 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100
 PN,48602
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       GDR   S486  tir 24 nov   20:12:22
+OL,0,       GDR   S486  ons 25 nov   06:12:59
 OL,1,D]G                                     
 OL,2,D]G        BILLUND   INDENRIGS/UDENRIGS 
 OL,3,D]G        LUFTHAVN             ANKOMST 
 OL,4,T#######################################
 OL,5,CTID  FORV FLY    FRA          BEMARK   
-OL,6, 1645      D83535 London LGW            
-OL,7, 1800      KL1299 Amsterdam             
-OL,8, 1820      LH840  Frankfurt             
-OL,9, 1855      SK1905 Oslo                  
-OL,10, 1900      DK1217 Gran Canaria          
-OL,11, 1910      D85084 Malaga                
-OL,12, 1920      LO467  Warsaw                
-OL,13, 1945      SK1497 Stockholm             
-OL,14, 2005      BA822  London LHR            
-OL,15, 2045      SK1287 Copenhagen            
-OL,16, 2245      KL1301 Amsterdam             
-OL,17, 2325      LH842  Frankfurt             
-OL,18, 2355      SK1289 Copenhagen            
-OL,22, ]                                      
-OL,23, ]A485@AFGANG      P5A480@FLY       2/2 
+OL,6, 1205      BA820  London LHR            
+OL,7, 1240      W61777 Gdansk                
+OL,8, 1345      KL1295 Amsterdam             
+OL,9, 1425      AF1264 Paris CDG             
+OL,10, 1455      W62319 Budapest              
+OL,11, 1500      SK1285 Copenhagen            
+OL,12, 1620      RC470  Faroe Islands         
+OL,13, 1800      KL1299 Amsterdam             
+OL,14, 1820      LH840  Frankfurt             
+OL,15, 1855      SK1905 Oslo                  
+OL,16, 1855      SK1497 Stockholm             
+OL,17, 1930      DK1215 Gran Canaria          
+OL,18, 1945      JTD546 Hurghada              
+OL,19, 2045      SK1287 Copenhagen            
+OL,20, 2145      AF1764 Paris CDG             
+OL,21, 2245      KL1301 Amsterdam             
+OL,22, 2325      LH842  Frankfurt             
+OL,23, ]A485@AFGANG      P5A480@FLY       3/3 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100

@@ -3,67 +3,41 @@ PN,10901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GDi 24 Nov F20:22:27
+OL,0,         GFORUM64   GMi 25 Nov F06:22:31
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EProjektvorstellung: C128-Turbokarte    
-OL,4,CAntwort:  BQuantfr                     
-OL,5,CComments: B173                         
+OL,2,EHeute so gebastelt ...                 
+OL,4,CAntwort:  Bmanfred.moser               
+OL,5,CComments: B43346                       
 OL,6,F                                       
-OL,7,FUpdate: Nach einigem hin und her ist   
-OL,8,Fjetzt die Bestellung 2 da. Die         
-OL,9,FBestellung 1 kommt noch diese Woche. Am
-OL,10,FWochenende werde ich die Platinen dann 
-OL,11,Fgenauer pr}fen und mal eine Karte      
-OL,12,Fkomplett zusammen bauen und testen.    
-OL,13,FSieht auf die Schnelle ganz gut aus.   
-OL,16,CErster Beitrag:                        
-OL,18,GDie Karte wurde urspr}nglich als Ersatz
-OL,19,Gf}r die REU1750 entwickelt, mit der    
-OL,20,Gzus{tzlichen M|glichkeit, weitere      
-OL,21,GProjekte flexibel darauf umzusetzen.   
-OL,22,GNachdem REU1750 , GEORAM ,             
-OL,23,GExternal-Kernal (ROMs) , SwiftLink ,   
-OL,24,D]FForum64.de RSS feed            (1/3) 
+OL,7,F( )                                    
+OL,9,FHab heute den CPLD von der             
+OL,10,FPiStormX-Platine erfolgreich           
+OL,11,Fprogrammiert.                          
+OL,13,FHabe dazu den schon beim Projekt       
+OL,14,FGottaGoFastRAM vorbereiteten Raspi Zero
+OL,15,F2W benutzt. Dort ist xc3sprog zum      
+OL,16,FFlashen der *.JED - Datei auf der      
+OL,17,FMicroSD-Karte eingerichtet.            
+OL,19,FIm GitHub von                          
+OL,21,CErster Beitrag:                        
+OL,23,GHier ein kleiner thread f}r die kleinen
+OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,10902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GDi 24 Nov F20:22:27
+OL,0,         GFORUM64   GMi 25 Nov F06:22:31
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GThe Final Chesscard und die C64        
-OL,4,GTurbokarte abgeschlossen waren, brachte
-OL,5,Gmich @Ich_bins3 dem ich die Karte in   
-OL,6,Gder REU und C64 Turbo Konfiguration zum
-OL,7,GTesten auf seinen C128 Systemen        
-OL,8,G}berlassen hatte auf das n{chste       
-OL,9,GProjekt: die C128 Turbokarte .         
-OL,11,G@Ich_bins3 Hat die C128 Turbokarte     
-OL,12,Gunter GEOS128 getestet (GEOWrite/GEOS  
-OL,13,GSpiele), soweit keine Auff{lligkeiten. 
-OL,15,GHier die C128 Specs:                   
-OL,17,GSpeichererweiterung auf 256KiB         
-OL,18,G(Bank2+3) Einschr{nkung VICII kann nur 
-OL,19,Gauf Bank0+1 zugreifen.                 
-OL,21,GCPU 50MHz bei MMU Adress}bersetzungen  
-OL,22,G25MHz                                  
-OL,24,D]FForum64.de RSS feed            (2/3) 
-FL,0,0,0,0,0,100
-PN,10903
-SC,0003
-PS,C200
-CT,15,T
-OL,0,         GFORUM64   GDi 24 Nov F20:22:27
-OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GRAM BANK0 lesen 50MHz, schreiben erste 
-OL,4,G1KiB 50MHz der Rest 1MHz               
-OL,6,GRAM BANK1 lesen 10MHz, schreiben 1MHz  
-OL,8,GRAM BANK2+3 lesen und schreiben 10MHz  
-OL,10,GBASIC ROM erste 16KiB 50MHz die        
-OL,11,Grestlichen ROMs 10MHz                  
-OL,13,GIO und FarbRAM 1MHz                    
-OL,15,GDie CPU 8502 IO-Ports werden eingelesen
-OL,16,Gund angesteuert.                       
-OL,18,GDie                                    
-OL,24,D]FForum64.de RSS feed            (3/3) 
+OL,3,GBasteleien die man so nebenbei sich aus
+OL,4,Gjux und erfindernot zusammen bastelt   
+OL,6,GIch hab aus meiner datasette bei der   
+OL,7,Gdie vorspultaste zerbrochen ist (im    
+OL,8,Ginneren) und einen alten Kassetten     
+OL,9,GAdapter Folgenes zusammengebastelt     
+OL,11,GEine datasette mit klinkenport (Und das
+OL,12,Gganze nur mit 4schrauben und 10 minuten
+OL,13,GAufwand) Das beste dabei:              
+OL,15,GEs funktioniert!                       
+OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

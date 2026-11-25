@@ -1,23 +1,53 @@
 DE,TEKSTI-TV 304
-PN,30400
-SC,0000
-PS,8108
+PN,30401
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       G304 YLE TEKSTI-TV 25.03.01:47:29
-OL,1,E]         G]                   E   1/1 
-OL,2,E]GNELONEN G]E    Tiistai 24.11.        
+OL,0,       G304 YLE TEKSTI-TV 25.03.11:47:55
+OL,1,E]         G]                   E   1/2 
+OL,2,E]GNELONEN G]E    Keskiviikko 25.11.    
 OL,3,U#########^W############################
-OL,4,G22.00GIvalo (12)                       
-OL,5,G23.00GKorisliiga 360                   
-OL,6,G23.05GSelviytyj{t Suomi                
-OL,7,G00.35GIS esitt{{: Sain sen videolle    
-OL,8,G00.45GErikoisjoukot                    
-OL,9,G01.45GKapen keitti|kaappaus            
-OL,10,G02.40GSavotta                          
-OL,11,G03.40GArman ja viimeinen ristiretki    
+OL,4,G11.05GHaluatko miljon{{riksi?          
+OL,5,G12.00GT{htiarpa                        
+OL,6,G13.45GValitut Palat Collection         
+OL,7,G14.00GValitut Palat Collection         
+OL,8,G14.15GValitut Palat Collection         
+OL,9,G14.30GValitut Palat Collection         
+OL,10,G14.45GValitut Palat Collection         
+OL,11,G15.00GMaryn helpot kokkailut           
+OL,12,G15.30GRemppa vai muutto UK             
+OL,13,G16.30G100 Places to Be                 
+OL,14,G16.35G100 Places to Be                 
+OL,15,G16.40GIS esitt{{: Sain sen videolle    
+OL,16,G16.50GVain el{m{{ (7)                  
+OL,17,G19.00GKorkeasaari                      
+OL,18,G20.00GPoliisit 24/7                    
+OL,19,G20.35GPoliisit 24/7                    
+OL,20,G21.05GTulossa: TOKIO-TAMPERE           
+OL,21,G21.10GSami Kieksi - Digihuijaukset     
+OL,22,G22.10GKorisliiga 360                   
+OL,23,G]   EETV-ohjelmien hakemisto s.E300    
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,30402
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       G304 YLE TEKSTI-TV 25.03.11:47:55
+OL,1,E]         G]                   E   2/2 
+OL,2,E]GNELONEN G]E    Keskiviikko 25.11.    
+OL,3,U#########^W############################
+OL,4,G21.10GSami Kieksi - Digihuijaukset     
+OL,5,G22.10GKorisliiga 360                   
+OL,6,G22.15GAmazing Race Suomi               
+OL,7,G00.25GPoliisit 24/7                    
+OL,8,G01.00GPoliisit 24/7                    
+OL,9,G01.30GRata auki                        
+OL,10,G02.30GRekkakuskit Suomi                
+OL,11,G03.30GArman ja viimeinen ristiretki    
 OL,12,G     G(12)                             
-OL,13,G04.15GArman ja viimeinen ristiretki    
-OL,14,G     G(12)                             
+OL,13,G04.05GArman ja viimeinen ristiretki (7)
+OL,14,K                                       
 OL,15,K                                       
 OL,16,K                                       
 OL,17,K                                       
@@ -26,6 +56,6 @@ OL,19,K
 OL,20,K                                       
 OL,21,K                                       
 OL,22,K                                       
-OL,23,G]   EETV-ohjelmien hakemisto s.E300    
+OL,23,E]   GGTV-ohjelmien hakemisto s.G300    
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
