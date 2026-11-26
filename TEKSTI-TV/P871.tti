@@ -3,27 +3,25 @@ PN,87101
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G871 YLE TEKSTI-TV 25.03.21:59:18
-OL,1,V~}4V VIIKKOMAKASIINIV,,,,,,$,$,(( G1/2 
+OL,0,       G871 YLE TEKSTI-TV 26.03.21:36:38
+OL,1,V~}4V VIIKKOMAKASIINIV,,,,,,$,$,(( G1/4 
 OL,2,Vj5$ F          F                       
-OL,3,V*/%CMMatkanj{rjest{j{ peruu matkan?    
-OL,5,G    BMy|s matkanj{rjest{j{ll{ on oikeus
-OL,6,G    Bperuuttaa tai keskeytt{{ matka,   
-OL,7,G    Bjos poikkeukselliset olosuhteet   
-OL,8,G    Best{v{t matkanj{rjest{j{{ toteut- 
-OL,9,G    Btamasta matkaa sovitulla tavalla. 
-OL,10,K    B                                  
-OL,11,GJos matkaa ei kohdemaan tilanteen takia
-OL,12,Gole mahdollista j{rjest{{, matkan-     
-OL,13,Gj{rjest{j{ peruu yleens{ matkan itse,  
-OL,14,Gjolloin olet aina oikeutettu rahan-    
-OL,15,Gpalautukseen. Matkaa ei siten yleens{  
-OL,16,Gole tarpeen itse perua.                
-OL,17,K                                       
-OL,18,GMatkanj{rjest{j{n on ilmoitettava      
-OL,19,Gperuuttamisesta matkustajalle ilman    
-OL,20,Gaiheetonta viivytyst{ ennen matkan     
-OL,21,Galkamista.                             
+OL,3,V*/%CMBlack Friday -tarjous?            
+OL,5,G    BBlack Friday -tarjous ei aina     
+OL,6,G    Bole sit{, milt{ n{ytt{{.          
+OL,8, Black Fridayn suuret alennusprosentit  
+OL,9, sek{ kiireeseen ja niukkaan saatavuu-  
+OL,10, teen perustuva markkinointi voivat     
+OL,11, saada kuluttajan tekem{{n h{tik|ityj{  
+OL,12, ostop{{t|ksi{.                         
+OL,14, Tarjousten yhteydess{ voi piill{ my|s  
+OL,15, muita ongelmia, kuten ostoskoriin      
+OL,16, huomaamatta lis{ttyj{ palveluja tai    
+OL,17, yll{tt{vi{ lis{maksuja. Kilpailu- ja   
+OL,18, kuluttajavirasto (KKV) muistuttaa      
+OL,19, pysym{{n ostoksilla valppaana,         
+OL,20, vertailemaan hintoja ja tarkistamaan   
+OL,21, tarjousten ehdot ennen ostamista.      
 OL,22,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,F]D Kuukauden kuluttajasivut s. 870 >>> 
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
@@ -32,29 +30,80 @@ PN,87102
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G871 YLE TEKSTI-TV 25.03.21:59:18
-OL,1,V~}4  ,,,,,,,,,,,,,,,,,,,$,,$,$,(( G2/2 
-OL,2,Vj5$ CMatkanj{rjest{j{ peruu matkan?    
+OL,0,       G871 YLE TEKSTI-TV 26.03.21:36:38
+OL,1,V~}4  ,,,,,,,,,,,,,,,,,,,$,,$,$,(( G2/4 
+OL,2,Vj5$ CBlack Friday -tarjous?            
 OL,3,V*/%                                    
-OL,4,G     Matkan peruuntumisen tai keskey-  
-OL,5,G     tymisen uhatessa seuraa matkan-   
-OL,6,Gj{rjest{j{n ja viranomaisten tiedotusta
-OL,7,Gja ota tarvittaessa yhteytt{           
-OL,8,Gmatkanj{rjest{j{{n.                    
-OL,9,K                                       
-OL,10,K                                       
-OL,11,K                                       
-OL,12,K                                       
-OL,13,K                                       
-OL,14,K                                       
+OL,4,      Black Friday -mainoksissa huomio  
+OL,5,      kiinnittyy usein suuriin alennus- 
+OL,6, prosentteihin. Kuluttajan kannattaa    
+OL,7, kuitenkin tarkistaa, mihin hintaan     
+OL,8, alennusta verrataan.                   
+OL,10, Alennuksen yhteydest{ pit{{ l|yty{     
+OL,11, tavaran alin hinta viimeisen 30 p{iv{n 
+OL,12, ajalta ja alennusprosentti pit{{ laskea
+OL,13, t{st{ hinnasta. Vaikka alennus olisi   
+OL,14, laskettu 30 p{iv{n alimmasta hinnasta, 
+OL,15, se ei v{ltt{m{tt{ tarkoita, ett{ tuote 
+OL,16, olisi nyt poikkeuksellisen edullinen.  
+OL,18, Verkkokaupassa edulliselta vaikuttavan 
+OL,19, ostoksen hintaa voivat kasvattaa my|s  
+OL,20, erilaiset lis{maksut tai huomaamatta   
+OL,21, ostoskoriin ilmestyv{t tuotteet ja     
+OL,22, palvelut, vaikkei n{in saisi tapahtua. 
+OL,23,F]D            Kuluttajainfo s. 861 >>> 
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,87103
+SC,0003
+PS,C100
+CT,15,T
+OL,0,       G871 YLE TEKSTI-TV 26.03.21:36:38
+OL,1,V~}4  ,,,,,,,,,,,,,,,,,,,$,,$,$,(( G3/4 
+OL,2,Vj5$ CBlack Friday -tarjous?            
+OL,3,V*/%                                    
+OL,4,BVinkit Black Friday -ostoksille:       
+OL,5, - Seuraa tuotteen hintaa pidemm{n aikaa
+OL,6, ja vertaa hintoja eri kaupoissa.       
+OL,8, - Tarkista, onko alennuksen yhteydess{ 
+OL,9, ilmoitettu 30 p{iv{n alin hinta ja onko
+OL,10, alennus laskettu siit{.                
+OL,12, - [l{ anna kiireen tai niukkuuden      
+OL,13, tunteen ohjata ostop{{t|st{.           
+OL,15, - Tarkista ostoskorin sis{lt|, lis{-   
+OL,16, maksut ja mahdolliset jatkuvat         
+OL,17, tilaukset ennen maksamista.            
+OL,19, - Tarkista peruuttamis- ja palautus-   
+OL,20, k{yt{nn|t. Verkkokaupassa on l{ht|-    
+OL,21,Kkohtaisesti 14 vuorokauden peruuttamis-
+OL,22,Koikeus.                           B>>> 
+OL,23,F]D          Digitreenit s. 851-857 >>> 
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,87104
+SC,0004
+PS,C100
+CT,15,T
+OL,0,       G871 YLE TEKSTI-TV 26.03.21:36:38
+OL,1,V~}4  ,,,,,,,,,,,,,,,,,,,$,,$,$,(( G4/4 
+OL,2,Vj5$ C...vinkit Black Friday -ostoksille
+OL,3,V*/%                                    
+OL,4, - Varmista verkkokaupan luotettavuus   
+OL,5, ennen tilaamista esimerkiksi tutkimalla
+OL,6, yrityksen yhteys- ja taustatietoja.    
+OL,8, - Valitse maksutapa tietoisesti:       
+OL,9, luottokortti antaa parhaan turvan,     
+OL,10, mutta velkaa ei kannata kerrytt{{.     
+OL,12, - Pohdi tarvettasi: mist{ ja milloin se
+OL,13,Ksyntyi? Ostaisitko saman tuotteen      
+OL,14,Kmuuten kalliimmalla?                   
 OL,15,K                                       
-OL,16,BLis{{:Fwww.kkv.fiC->GKuluttaja-asiatC->
-OL,17,GMatkustaminen ja majoituksetC->        
-OL,18,GLuonnonkatastrofit ja matkustajan      
-OL,19,Goikeudet                               
-OL,20,K                                       
-OL,21,K                                       
-OL,22,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,16, - Jos t|rm{{t harhaanjohtavaan         
+OL,17, markkinointiin, voit antaa kuluttaja-  
+OL,18, asiamiehelle valvontavihjeen.          
+OL,20,BLis{{:Fwww.kkv.fi/ajankohtaista/       
+OL,21,Ftiedotteet/black-friday-tarjous-ei-    
+OL,22,Faina-ole-sita-milta-nayttaa            
 OL,23,F]D L{hde: Kilpailu- ja kuluttajavirasto
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

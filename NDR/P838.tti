@@ -3,19 +3,19 @@ PN,83801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G838FNDR TEXT GMi 25.11.B17:44:00
+OL,0,       G838FNDR TEXT GDo 26.11.B20:43:22
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD BASKETBALL                  
 OL,4,F]T  %D     2. Bundesliga Nord Damen    
-OL,8,BSamstag, 21. November                  
-OL,9, TuSLi Berlin  - BBC Osnabr}ck    50:78 
-OL,10, VfL Bochum    - ETV Hamburg      87:53 
-OL,12, BonnRh|ndorf  - CC Chemnitz      56:50 
-OL,13, BG Rotenburg  - Alstertal-L.     97:55 
-OL,15, NB Oberhausen - Leverkusen       76:83 
-OL,17,BSonntag, 22. November                  
-OL,18, UBC M}nster   - BG G|ttingen     49:60 
+OL,8,BSamstag, 28. November                  
+OL,9, ETV Hamburg   - UBC M}nsterB     16.00 
+OL,10, Leverkusen    - Alstertal-L.B    18.00 
+OL,12, CC Chemnitz   - NB OberhausenB   18.00 
+OL,14,BSonntag, 29. November                  
+OL,15, BG G|ttingen  - TuSLi BerlinB    16.00 
+OL,16, BBC Osnabr}ck - BG RotenburgB    16.00 
+OL,18, VfL Bochum    - BonnRh|ndorfB    17.00 
 OL,23,B]D810<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -23,7 +23,7 @@ PN,83802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G838FNDR TEXT GMi 25.11.B17:44:00
+OL,0,       G838FNDR TEXT GDo 26.11.B20:43:22
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD BASKETBALL                  
@@ -48,19 +48,20 @@ PN,83803
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G838FNDR TEXT GMi 25.11.B17:44:00
+OL,0,       G838FNDR TEXT GDo 26.11.B20:43:22
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD BASKETBALL                  
 OL,4,F]T  %D     2. Bundesliga Nord Damen    
-OL,8,BSamstag, 28. November                  
-OL,9, ETV Hamburg   - UBC M}nsterB     16.00 
-OL,10, Leverkusen    - Alstertal-L.B    18.00 
-OL,12, CC Chemnitz   - NB OberhausenB   18.00 
-OL,14,BSonntag, 29. November                  
-OL,15, BG G|ttingen  - TuSLi BerlinB    16.00 
-OL,16, BBC Osnabr}ck - BG RotenburgB    16.00 
-OL,18, VfL Bochum    - BonnRh|ndorfB    17.00 
+OL,8,BSamstag, 5. Dezember                   
+OL,9, TuSLi Berlin  - ETV HamburgB     15.00 
+OL,10, UBC M}nster   - CC ChemnitzB     15.00 
+OL,12, BonnRh|ndorf  - BBC Osnabr}ckB   17.00 
+OL,13, NB Oberhausen - VfL BochumB      19.30 
+OL,15,BSamstag, 6. M{rz                       
+OL,16, BG Rotenburg  - LeverkusenB      18.30 
+OL,18,BSonntag, 7. M{rz                       
+OL,19, Alstertal-L.  - BG G|ttingenB    15.00 
 OL,23,B]D810<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

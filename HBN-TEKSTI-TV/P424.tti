@@ -3,21 +3,21 @@ PN,42401
 SC,0001
 PS,C100
 CT,25,T
-OL,0,       G424 HBN TEKSTI-TVG25.11.16:26:51
+OL,0,       G424 HBN TEKSTI-TVG26.11.09:39:25
 OL,1,V]G        DTAMPERE PIRKKALA      1/5   
 OL,2,T]D        GSAAPUVAT LENNOT             
-OL,4,V]D09:55 AY644                          
-OL,5,V]DOulu                                 
-OL,7,V]D22:55 BT357                          
-OL,8,V]DRiika                                
-OL,10,V]D22:20 AY269                          
-OL,11,V]DHelsinki                             
-OL,13,V]D13:10 JTD803                         
-OL,14,V]DGran Canaria                         
-OL,16,V]D09:55 AY644                          
-OL,17,V]DOulu                                 
-OL,19,V]D23:30 BT526                          
-OL,20,V]DMalaga                               
+OL,4,V]D22:55 BT357                          
+OL,5,V]DRiika                                
+OL,7,V]D22:20 AY269                          
+OL,8,V]DHelsinki                             
+OL,10,V]D09:55 AY644                          
+OL,11,V]DOulu                                 
+OL,13,V]D22:55 BT357                          
+OL,14,V]DRiika                                
+OL,16,V]D22:20 AY269                          
+OL,17,V]DHelsinki                             
+OL,19,V]D13:10 JTD803                         
+OL,20,V]DGran Canaria                         
 OL,22,V                                       
 OL,23,V                                       
 FL,0,0,0,0,0,100
@@ -25,11 +25,55 @@ PN,42402
 SC,0002
 PS,C100
 CT,25,T
-OL,0,       G424 HBN TEKSTI-TVG25.11.16:26:51
+OL,0,       G424 HBN TEKSTI-TVG26.11.09:39:25
 OL,1,V]G        DTAMPERE PIRKKALA      2/5   
 OL,2,T]D        GSAAPUVAT LENNOT             
-OL,4,V]D22:20 AY269                          
-OL,5,V]DHelsinki                             
+OL,4,V]D09:55 AY644                          
+OL,5,V]DOulu                                 
+OL,7,V]D23:30 BT526                          
+OL,8,V]DMalaga                               
+OL,10,V]D22:20 AY269                          
+OL,11,V]DHelsinki                             
+OL,13,V]D09:55 AY644                          
+OL,14,V]DOulu                                 
+OL,16,V]D22:55 BT357                          
+OL,17,V]DRiika                                
+OL,19,V]D22:20 AY269                          
+OL,20,V]DHelsinki                             
+OL,22,V                                       
+OL,23,V                                       
+FL,0,0,0,0,0,100
+PN,42403
+SC,0003
+PS,C100
+CT,25,T
+OL,0,       G424 HBN TEKSTI-TVG26.11.09:39:25
+OL,1,V]G        DTAMPERE PIRKKALA      3/5   
+OL,2,T]D        GSAAPUVAT LENNOT             
+OL,4,V]D12:50 BT355                          
+OL,5,V]DRiika                                
+OL,7,V]D09:55 AY644                          
+OL,8,V]DOulu                                 
+OL,10,V]D22:55 BT357                          
+OL,11,V]DRiika                                
+OL,13,V]D22:20 AY269                          
+OL,14,V]DHelsinki                             
+OL,16,V]D09:55 AY644                          
+OL,17,V]DOulu                                 
+OL,19,V]D22:20 AY269                          
+OL,20,V]DHelsinki                             
+OL,22,V                                       
+OL,23,V                                       
+FL,0,0,0,0,0,100
+PN,42404
+SC,0004
+PS,C100
+CT,25,T
+OL,0,       G424 HBN TEKSTI-TVG26.11.09:39:25
+OL,1,V]G        DTAMPERE PIRKKALA      4/5   
+OL,2,T]D        GSAAPUVAT LENNOT             
+OL,4,V]D15:35 BT526                          
+OL,5,V]DMalaga                               
 OL,7,V]D09:55 AY644                          
 OL,8,V]DOulu                                 
 OL,10,V]D22:55 BT357                          
@@ -43,12 +87,12 @@ OL,20,V]DOulu
 OL,22,V                                       
 OL,23,V                                       
 FL,0,0,0,0,0,100
-PN,42403
-SC,0003
+PN,42405
+SC,0005
 PS,C100
 CT,25,T
-OL,0,       G424 HBN TEKSTI-TVG25.11.16:26:51
-OL,1,V]G        DTAMPERE PIRKKALA      3/5   
+OL,0,       G424 HBN TEKSTI-TVG26.11.09:39:25
+OL,1,V]G        DTAMPERE PIRKKALA      5/5   
 OL,2,T]D        GSAAPUVAT LENNOT             
 OL,4,V]D22:55 BT357                          
 OL,5,V]DRiika                                
@@ -56,56 +100,12 @@ OL,7,V]D22:20 AY269
 OL,8,V]DHelsinki                             
 OL,10,V]D09:55 AY644                          
 OL,11,V]DOulu                                 
-OL,13,V]D22:20 AY269                          
-OL,14,V]DHelsinki                             
-OL,16,V]D15:35 BT526                          
-OL,17,V]DMalaga                               
-OL,19,V]D09:55 AY644                          
-OL,20,V]DOulu                                 
-OL,22,V                                       
-OL,23,V                                       
-FL,0,0,0,0,0,100
-PN,42404
-SC,0004
-PS,C100
-CT,25,T
-OL,0,       G424 HBN TEKSTI-TVG25.11.16:26:51
-OL,1,V]G        DTAMPERE PIRKKALA      4/5   
-OL,2,T]D        GSAAPUVAT LENNOT             
-OL,4,V]D22:55 BT357                          
-OL,5,V]DRiika                                
-OL,7,V]D22:20 AY269                          
-OL,8,V]DHelsinki                             
-OL,10,V]D12:50 BT355                          
-OL,11,V]DRiika                                
-OL,13,V]D09:55 AY644                          
-OL,14,V]DOulu                                 
-OL,16,V]D22:55 BT357                          
-OL,17,V]DRiika                                
-OL,19,V]D22:20 AY269                          
-OL,20,V]DHelsinki                             
-OL,22,V                                       
-OL,23,V                                       
-FL,0,0,0,0,0,100
-PN,42405
-SC,0005
-PS,C100
-CT,25,T
-OL,0,       G424 HBN TEKSTI-TVG25.11.16:26:51
-OL,1,V]G        DTAMPERE PIRKKALA      5/5   
-OL,2,T]D        GSAAPUVAT LENNOT             
-OL,4,V]D09:55 AY644                          
-OL,5,V]DOulu                                 
-OL,7,V]D22:55 BT357                          
-OL,8,V]DRiika                                
-OL,10,V]D22:20 AY269                          
-OL,11,V]DHelsinki                             
-OL,13,V]D13:10 JTD803                         
-OL,14,V]DGran Canaria                         
-OL,16,V]D09:55 AY644                          
-OL,17,V]DOulu                                 
-OL,19,V                                       
-OL,20,V                                       
+OL,13,V]D22:55 BT357                          
+OL,14,V]DRiika                                
+OL,16,V]D22:20 AY269                          
+OL,17,V]DHelsinki                             
+OL,19,V]D13:10 JTD803                         
+OL,20,V]DGran Canaria                         
 OL,22,V                                       
 OL,23,V                                       
 FL,0,0,0,0,0,100

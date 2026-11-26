@@ -3,9 +3,9 @@ PN,43201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:54
+OL,0,       G432FORF1   GDo 26.11.26 09:52:04
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                       1/31  
 OL,4,CBaustellen-Autobahnen                  
 OL,6,FA1, West-AB:                           
@@ -29,9 +29,9 @@ PN,43202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:54
+OL,0,       G432FORF1   GDo 26.11.26 09:52:04
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                       2/31  
 OL,4,CBaustellen-Autobahnen (Forts.)         
 OL,6,FA2, S}d-AB:                            
@@ -55,9 +55,9 @@ PN,43203
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:54
+OL,0,       G432FORF1   GDo 26.11.26 09:52:04
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                       3/31  
 OL,4,CBaustellen-Autobahnen (Forts.)         
 OL,6,FA7, M}hlkreis-AB:                      
@@ -81,9 +81,9 @@ PN,43204
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:54
+OL,0,       G432FORF1   GDo 26.11.26 09:52:04
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                       4/31  
 OL,4,CBaustellen-Autobahnen (Forts.)         
 OL,6,FA9, Pyhrn-AB:                          
@@ -107,24 +107,24 @@ PN,43205
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:54
+OL,0,       G432FORF1   GDo 26.11.26 09:52:04
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                       5/31  
 OL,4,CBaustellen-Autobahnen (Forts.)         
 OL,6,FA11, Karawanken-AB:                    
 OL,7,G* in beiden FR, bei St. Jakob /        
 OL,8,G  Rosental, Einengung bis 23.09.27     
-OL,9,G* FR Slowenien, vor dem St. Niklas     
-OL,10,G  Tunnel, Sperre bis 26.11.26 zw. 20 u.
-OL,11,G  5 Uhr                                
-OL,13,FA12, Inntal-AB:                        
-OL,14,G* in beiden FR, bei Kramsach,          
-OL,15,G  Gegenverkehrsbereich bis 28.05.27    
-OL,16,G* in beiden FR, zw. Vomp u. Wattens,   
-OL,17,G  Einengung bis 27.11.26               
-OL,18,G* in beiden FR, bei M|tz - Reutte,     
-OL,19,G  Gegenverkehrsbereich bis 11.12.26    
+OL,10,FA12, Inntal-AB:                        
+OL,11,G* in beiden FR, bei Kramsach,          
+OL,12,G  Gegenverkehrsbereich bis 28.05.27    
+OL,13,G* in beiden FR, zw. Vomp u. Wattens,   
+OL,14,G  Einengung bis 27.11.26               
+OL,15,G* in beiden FR, bei M|tz - Reutte,     
+OL,16,G  Gegenverkehrsbereich bis 11.12.26    
+OL,18,FA12, Zubringer Flie~:                  
+OL,19,G* in beiden FR, zw. Kn. Oberinntal u.  
+OL,20,G  Flie~, Sperre bis 07.12.26           
 OL,23,Q,,,,,,,,,,,,,,,,GARB\-Info-Dienst Wien 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -132,25 +132,25 @@ PN,43206
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:54
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                       6/31  
 OL,4,CBaustellen-Autobahnen (Forts.)         
-OL,6,FA12, Zubringer Flie~:                  
-OL,7,G* in beiden FR, zw. Kn. Oberinntal u.  
-OL,8,G  Flie~, Sperre bis 07.12.26           
-OL,10,FA13, Brenner-AB:                       
-OL,11,G* in beiden FR, bei Innsbruck-S}d,     
-OL,12,G  Gegenverkehrsbereich bis 25.06.27    
-OL,13,G* in beiden FR, zw. N|sslach u.        
-OL,14,G  Brennerpass, vor der Luegbr}cke,     
-OL,15,G  Einengung bis 31.12.28               
-OL,16,G* FR Italien, zw. Kn. Innsbruck-Amras  
-OL,17,G  u. Innsbruck-Bergisel, Einengung zw. 
-OL,18,G  21 u. 5 Uhr bis 27.11.26             
-OL,19,G* FR Italien, bei Matrei-Steinach,     
-OL,20,G  Einengung bis 31.01.28               
+OL,6,FA13, Brenner-AB:                       
+OL,7,G* in beiden FR, bei Innsbruck-S}d,     
+OL,8,G  Gegenverkehrsbereich bis 25.06.27    
+OL,9,G* in beiden FR, zw. N|sslach u.        
+OL,10,G  Brennerpass, vor der Luegbr}cke,     
+OL,11,G  Einengung bis 31.12.28               
+OL,12,G* FR Italien, zw. Kn. Innsbruck-Amras  
+OL,13,G  u. Innsbruck-Bergisel, Einengung zw. 
+OL,14,G  21 u. 5 Uhr bis 27.11.26             
+OL,15,G* FR Italien, bei Matrei-Steinach,     
+OL,16,G  Einengung bis 31.01.28               
+OL,17,G* FR Innsbruck, bei Innsbruck-Bergisel,
+OL,18,G  Einengung zw. 22 u. 5 Uhr bis        
+OL,19,G  04.12.26                             
 OL,23,Q,,,,,,,,,,,,,,,,GARB\-Info-Dienst Wien 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -158,24 +158,22 @@ PN,43207
 SC,0007
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:54
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                       7/31  
 OL,4,CBaustellen-Autobahnen (Forts.)         
-OL,6,FA13, Brenner-AB:                       
-OL,7,G* FR Innsbruck, bei Innsbruck-Bergisel,
-OL,8,G  Einengung zw. 22 u. 5 Uhr bis        
-OL,9,G  04.12.26                             
-OL,11,FA13, Westast - Verbindung A12-A13:     
-OL,12,G* FR Innsbruck, im gesamten Verlauf,   
-OL,13,G  Sperre zw. 21 u. 5 Uhr bis 26.11.26  
-OL,15,FA14, Rheintal/Walgau-AB:               
-OL,16,G* in beiden FR, zw. G|tzis - Koblach u.
-OL,17,G  Klaus - Koblach, Einengung bis       
-OL,18,G  14.12.26                             
-OL,19,G* in beiden FR, bei Feldkirch-Frastanz,
-OL,20,G  Einengung bis 18.12.26               
+OL,6,FA14, Rheintal/Walgau-AB:               
+OL,7,G* in beiden FR, zw. G|tzis - Koblach u.
+OL,8,G  Klaus - Koblach, Einengung bis       
+OL,9,G  14.12.26                             
+OL,10,G* in beiden FR, bei Feldkirch-Frastanz,
+OL,11,G  Einengung bis 18.12.26               
+OL,13,FA23, S}dostt.:                         
+OL,14,G* in beiden FR, Auf- u. Abfahrtsrampe  
+OL,15,G  G}rtel - Landstr. Hauptstr.,         
+OL,16,G  Einengung zw. 22 u. 5 Uhr bis        
+OL,17,G  19.12.26                             
 OL,23,Q,,,,,,,,,,,,,,,,GARB\-Info-Dienst Wien 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -183,27 +181,22 @@ PN,43208
 SC,0008
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                       8/31  
 OL,4,CBaustellen-Autobahnen (Forts.)         
-OL,6,FA23, S}dostt.:                         
-OL,7,G* in beiden FR, Auf- u. Abfahrtsrampe  
-OL,8,G  G}rtel - Landstr. Hauptstr.,         
-OL,9,G  Einengung zw. 22 u. 5 Uhr bis        
-OL,10,G  19.12.26                             
-OL,12,FA25, Welser-AB:                        
-OL,13,G* FR Wels, zw. Wei~kirchen /           
-OL,14,G  Marchtrenk-Ost u. Wels-Ost /         
-OL,15,G  Marchtrenk-West, Einengung bis       
-OL,16,G  10.09.27                             
-OL,17,G* FR Wels, auf der Nebenabfahrtsrampe  
-OL,18,G  Wels-Ost / Marchtrenk-West, Einengung
-OL,19,G  bis 15.09.27                         
-OL,20,G* FR Haid, bei Wei~kirchen /           
-OL,21,G  Marchtrenk-Ost, Einengung bis zw. 20 
-OL,22,G  u. 5 Uhr bis 27.11.26                
+OL,6,FA25, Welser-AB:                        
+OL,7,G* FR Wels, zw. Wei~kirchen /           
+OL,8,G  Marchtrenk-Ost u. Wels-Ost /         
+OL,9,G  Marchtrenk-West, Einengung bis       
+OL,10,G  10.09.27                             
+OL,11,G* FR Wels, auf der Nebenabfahrtsrampe  
+OL,12,G  Wels-Ost / Marchtrenk-West, Einengung
+OL,13,G  bis 15.09.27                         
+OL,14,G* FR Haid, bei Wei~kirchen /           
+OL,15,G  Marchtrenk-Ost, Einengung bis zw. 20 
+OL,16,G  u. 5 Uhr bis 27.11.26                
 OL,23,Q,,,,,,,,,,,,,,,,GARB\-Info-Dienst Wien 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -211,23 +204,23 @@ PN,43209
 SC,0009
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                       9/31  
 OL,4,CBaustellen-Schnellstra~en              
-OL,6,FS1, Wiener Au~enring SStr.:            
-OL,7,G* in beiden FR, vor dem Tunnel         
-OL,8,G  V|sendorf, Sperre bis 26.11.26 zw. 22
-OL,9,G  u. 5 Uhr                             
-OL,11,FS2, Wiener Nordrand SStr.:             
-OL,12,G* FR G{nserndorf, Auffahrtsrampe       
-OL,13,G  Hirschstetten, Sperre bis 27.11.26   
-OL,14,G  zw. 22 u. 5 Uhr                      
-OL,16,FS4, Mattersburger SStr.:               
-OL,17,G* FR Wiener Neustadt, zw. Mattersburg  
-OL,18,G  u. Wiener Neustadt-Ost, Einengung bis
-OL,19,G  30.09.27                             
+OL,6,FS2, Wiener Nordrand SStr.:             
+OL,7,G* FR G{nserndorf, Auffahrtsrampe       
+OL,8,G  Hirschstetten, Sperre bis 27.11.26   
+OL,9,G  zw. 22 u. 5 Uhr                      
+OL,11,FS4, Mattersburger SStr.:               
+OL,12,G* FR Wiener Neustadt, zw. Mattersburg  
+OL,13,G  u. Wiener Neustadt-Ost, Einengung bis
+OL,14,G  30.09.27                             
+OL,16,FS6, Semmering SStr.:                   
+OL,17,G* FR Semmering, Auffahrtsrampe         
+OL,18,G  M}rzzuschlag-West, Sperre bis        
+OL,19,G  05.09.27 18:00 Uhr                   
 OL,23,Q,,,,,,,,,,,,,,,,GARB\-Info-Dienst Wien 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -235,23 +228,23 @@ PN,43210
 SC,0010
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      10/31  
 OL,4,CBaustellen-Schnellstra~en (Forts.)     
-OL,6,FS6, Semmering SStr.:                   
-OL,7,G* FR Semmering, Auffahrtsrampe         
-OL,8,G  M}rzzuschlag-West, Sperre bis        
-OL,9,G  05.09.27 18:00 Uhr                   
-OL,11,FS31, Burgenland SStr.:                 
-OL,12,G* FR Oberpullendorf, zw.               
-OL,13,G  Weppersdorf-St. Martin u.            
-OL,14,G  Oberpullendorf S}d, Einengung bis    
-OL,15,G  28.05.27                             
-OL,17,FS33, Kremser SStr.:                    
-OL,18,G* FR Jettsdorf, bei Herzogenburg Stadt,
-OL,19,G  Einengung bis                        
+OL,6,FS31, Burgenland SStr.:                 
+OL,7,G* FR Oberpullendorf, zw.               
+OL,8,G  Weppersdorf-St. Martin u.            
+OL,9,G  Oberpullendorf S}d, Einengung bis    
+OL,10,G  28.05.27                             
+OL,12,FS33, Kremser SStr.:                    
+OL,13,G* FR Jettsdorf, bei Herzogenburg Stadt,
+OL,14,G  Einengung bis                        
+OL,16,CBaustellen-Bundesstra~en               
+OL,18,FB3, Donau Stra~e:                      
+OL,19,G* FR Linz, Auffahrtsrampe Donaubr}cke  
+OL,20,G  Mauthausen, Einengung bis 31.03.27   
 OL,23,Q,,,,,,,,,,,,,,,,GARB\-Info-Dienst Wien 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -259,24 +252,24 @@ PN,43211
 SC,0011
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      11/31  
-OL,4,CBaustellen-Bundesstra~en               
-OL,6,FB3, Donau Stra~e:                      
-OL,7,G* FR Linz, Auffahrtsrampe Donaubr}cke  
-OL,8,G  Mauthausen, Einengung bis 31.03.27   
-OL,10,FB10, Budapester Stra~e:                
-OL,11,G* in beiden FR, zw. Parndorf u. A4 -   
-OL,12,G  Nickelsdorf, wechselseitige          
-OL,13,G  Anhaltungen bis 30.11.26             
-OL,15,FB28, Puchenstubener Stra~e:            
-OL,16,G* in beiden FR, in St. Anton an der    
-OL,17,G  Je~nitz, halbseitige Sperre bis      
-OL,18,G  11.12.26                             
-OL,19,G* in beiden FR, zw. Gaming u.          
-OL,20,G  Puchenstuben, Einengung bis 27.11.26 
+OL,4,CBaustellen-Bundesstra~en (Forts.)      
+OL,6,FB10, Budapester Stra~e:                
+OL,7,G* in beiden FR, zw. Parndorf u. A4 -   
+OL,8,G  Nickelsdorf, wechselseitige          
+OL,9,G  Anhaltungen bis 30.11.26             
+OL,11,FB28, Puchenstubener Stra~e:            
+OL,12,G* in beiden FR, in St. Anton an der    
+OL,13,G  Je~nitz, halbseitige Sperre bis      
+OL,14,G  11.12.26                             
+OL,15,G* in beiden FR, zw. Gaming u.          
+OL,16,G  Puchenstuben, Einengung bis 27.11.26 
+OL,18,FB31, Ybbstal Stra~e:                   
+OL,19,G* in beiden FR, vor dem                
+OL,20,G  Buchenbergtunnel, Sperre bis 26.11.26
 OL,23,Q,,,,,,,,,,,,,,,,GARB\-Info-Dienst Wien 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -284,23 +277,23 @@ PN,43212
 SC,0012
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      12/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
-OL,6,FB31, Ybbstal Stra~e:                   
-OL,7,G* in beiden FR, vor dem                
-OL,8,G  Buchenbergtunnel, Sperre bis 26.11.26
-OL,10,FB33, Aggsteiner Stra~e:                
-OL,11,G* in beiden FR, zw. Donaubr}cke Mautern
-OL,12,G  u. F|rlhof, Sperre bis 30.06.28      
-OL,14,FB34, Kamptal Stra~e:                   
-OL,15,G* in beiden FR, zw in Gars am Kamp,    
-OL,16,G  Einengung bis 04.12.26               
-OL,18,FB39, Pielachtal Stra~e:                
-OL,19,G* in beiden FR, zw. Kreuzung Dobersnigg
-OL,20,G  u. Wei~enburg, Einengung bis 27.11.26
+OL,6,FB33, Aggsteiner Stra~e:                
+OL,7,G* in beiden FR, zw. Donaubr}cke Mautern
+OL,8,G  u. F|rlhof, Sperre bis 30.06.28      
+OL,10,FB34, Kamptal Stra~e:                   
+OL,11,G* in beiden FR, zw in Gars am Kamp,    
+OL,12,G  Einengung bis 04.12.26               
+OL,14,FB39, Pielachtal Stra~e:                
+OL,15,G* in beiden FR, zw. Kreuzung Dobersnigg
+OL,16,G  u. Wei~enburg, Einengung bis 27.11.26
+OL,18,FB40, Mistelbacher Stra~e:              
+OL,19,G* in beiden FR, in Zistersdorf,        
+OL,20,G  Einengung bis 27.11.26               
 OL,23,Q,,,,,,,,,,,,,,,,GARB\-Info-Dienst Wien 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -308,26 +301,23 @@ PN,43213
 SC,0013
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      13/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
-OL,6,FB40, Mistelbacher Stra~e:              
-OL,7,G* in beiden FR, in Zistersdorf,        
-OL,8,G  Einengung bis 27.11.26               
-OL,10,FB50, Burgenlandstra~e:                 
-OL,11,G* in beiden FR, auf H|he Kreuzung nach 
-OL,12,G  Eggendorf, ge{nderte Verkehrsf}hrung 
-OL,13,G  im Baustellenbereich bis 30.11.26    
-OL,14,G* in beiden FR, zw. Marz u. Ausfahrt   
-OL,15,G  S31 - Sieggraben, ge{nderte          
-OL,16,G  Verkehrsf}hrung im Baustellenbereich 
-OL,17,G  bis 27.11.26                         
-OL,19,FB51, Neusiedler Stra~e:                
-OL,20,G* in beiden FR, zw. L205 u. Wallern im 
-OL,21,G  Burgenland, wechselseitige           
-OL,22,G  Anhaltungen bis 30.11.26             
+OL,6,FB50, Burgenlandstra~e:                 
+OL,7,G* in beiden FR, auf H|he Kreuzung nach 
+OL,8,G  Eggendorf, ge{nderte Verkehrsf}hrung 
+OL,9,G  im Baustellenbereich bis 30.11.26    
+OL,10,G* in beiden FR, zw. Marz u. Ausfahrt   
+OL,11,G  S31 - Sieggraben, ge{nderte          
+OL,12,G  Verkehrsf}hrung im Baustellenbereich 
+OL,13,G  bis 27.11.26                         
+OL,15,FB51, Neusiedler Stra~e:                
+OL,16,G* in beiden FR, zw. L205 u. Wallern im 
+OL,17,G  Burgenland, wechselseitige           
+OL,18,G  Anhaltungen bis 30.11.26             
 OL,23,Q,,,,,,,,,,,,,,,,GARB\-Info-Dienst Wien 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -335,9 +325,9 @@ PN,43214
 SC,0014
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      14/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB62, Deutschkreutzer Stra~e:           
@@ -358,9 +348,9 @@ PN,43215
 SC,0015
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      15/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB85, Rosental Stra~e:                  
@@ -381,9 +371,9 @@ PN,43216
 SC,0016
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      16/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB99, Katschberg Stra~e:                
@@ -406,9 +396,9 @@ PN,43217
 SC,0017
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      17/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB111, Gailtalstra~e:                   
@@ -431,9 +421,9 @@ PN,43218
 SC,0018
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      18/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB123, Mauthausener Stra~e:             
@@ -455,9 +445,9 @@ PN,43219
 SC,0019
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:05
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      19/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB129, Eferdinger Stra~e:               
@@ -478,9 +468,9 @@ PN,43220
 SC,0020
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:06
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      20/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB134, Wallerner Stra~e:                
@@ -502,9 +492,9 @@ PN,43221
 SC,0021
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:55
+OL,0,       G432FORF1   GDo 26.11.26 09:52:06
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      21/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB143, Hausruck Stra~e:                 
@@ -525,9 +515,9 @@ PN,43222
 SC,0022
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:56
+OL,0,       G432FORF1   GDo 26.11.26 09:52:06
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      22/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB154, Mondsee Stra~e:                  
@@ -549,9 +539,9 @@ PN,43223
 SC,0023
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:56
+OL,0,       G432FORF1   GDo 26.11.26 09:52:06
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      23/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB160, Berchtesgadner Stra~e:           
@@ -575,9 +565,9 @@ PN,43224
 SC,0024
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:56
+OL,0,       G432FORF1   GDo 26.11.26 09:52:06
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      24/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB171, Tiroler Stra~e:                  
@@ -601,9 +591,9 @@ PN,43225
 SC,0025
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:56
+OL,0,       G432FORF1   GDo 26.11.26 09:52:06
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      25/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB180 - Kajetansbr}cke:                 
@@ -626,9 +616,9 @@ PN,43226
 SC,0026
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:56
+OL,0,       G432FORF1   GDo 26.11.26 09:52:06
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      26/31  
 OL,4,CBaustellen-Bundesstra~en (Forts.)      
 OL,6,FB310, M}hlviertler Stra~e:             
@@ -651,9 +641,9 @@ PN,43227
 SC,0027
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:56
+OL,0,       G432FORF1   GDo 26.11.26 09:52:06
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      27/31  
 OL,4,CBaustellen-Landesstra~en               
 OL,6,FStaller Sattel:                        
@@ -677,9 +667,9 @@ PN,43228
 SC,0028
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:56
+OL,0,       G432FORF1   GDo 26.11.26 09:52:06
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      28/31  
 OL,4,CBaustellen-Sonstige Stra~en            
 OL,6,FGro~glockner Hochalpenstra~e:          
@@ -703,9 +693,9 @@ PN,43229
 SC,0029
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:56
+OL,0,       G432FORF1   GDo 26.11.26 09:52:06
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      29/31  
 OL,4,CBaustellen-Sonstige Stra~en (Forts.)   
 OL,6,FKitzb}hler Horn Panormastra~e:         
@@ -728,9 +718,9 @@ PN,43230
 SC,0030
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:56
+OL,0,       G432FORF1   GDo 26.11.26 09:52:06
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      30/31  
 OL,4,CBaustellen-Sonstige Stra~en (Forts.)   
 OL,6,FTschiernock Panoramastra~e:            
@@ -752,9 +742,9 @@ PN,43231
 SC,0031
 PS,C200
 CT,15,T
-OL,0,       G432FORF1   GMi 25.11.26 18:15:56
+OL,0,       G432FORF1   GDo 26.11.26 09:52:06
 OL,1,A]G                Sperren + Baustellen 
-OL,2,A]GMOTOR  ]A              Stand 25.11. \
+OL,2,A]GMOTOR  ]A              Stand 26.11. \
 OL,3,Q#########G                      31/31  
 OL,4,CBaustellen-Sonstige Stra~en (Forts.)   
 OL,6,FSchlegeis Alpenstra~e:                 

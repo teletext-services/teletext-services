@@ -3,37 +3,70 @@ PN,69101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G691 WDR Text GDo 26.11.26 00:15:34
+OL,0,     G691 WDR Text GDo 26.11.26 16:48:10
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, f}r A1                                 
-OL,5, Stand: 26.11.2026 00:03 Uhr            
-OL,7, Auf der A1 Dortmund Richtung M}nster   
-OL,8, ist die Ausfahrt Hamm-Bockum/Werne bis 
-OL,9, Anfang Dezember gesperrt.              
-OL,11, Auf der A1 M}nster Richtung Dortmund   
-OL,12, ist die Auffahrt Kamen-Zentrum bis 5   
-OL,13, Uhr gesperrt.                          
-OL,15, An der A1 M}nster Richtung Dortmund ist
-OL,16, die Auffahrt Unna bis voraussichtlich  
-OL,17, Ende 2028 wegen einer Baustelle        
-OL,18, gesperrt.                              
-OL,20, Auf der A1 Dortmund Richtung K|ln ist  
-OL,21, im Kreuz Leverkusen-West die Verbindung
-OL,22, zur A59 wegen Br}ckenarbeiten          
+OL,5, Stand: 26.11.2026 16:43 Uhr            
+OL,7, A1 Euskirchen Richtung K|ln zwischen   
+OL,8, K|ln-Bocklem}nd und Kreuz K|ln-Nord    
+OL,9, Gefahr durch ungesicherte Unfallstelle 
+OL,10, auf dem linken Fahrstreifen            
+OL,12, A1 M}nster Richtung Dortmund zwischen  
+OL,13, Kamen-Zentrum und Unna Gefahr durch    
+OL,14, Gegenst{nde auf dem linken Fahrstreifen
+OL,16, A1 M}nster Richtung Dortmund zwischen  
+OL,17, Kamener Kreuz und Kamen-Zentrum etwa 45
+OL,18, Minuten plus, 5 km Stau. wegen         
+OL,19, Bergungsarbeiten ist nur ein           
+OL,20, Fahrstreifen frei                      
+OL,22, A1 Euskirchen Richtung Dortmund        
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 690B]G+ 692  \               G(1/2)
+OL,24,A]G- 690B]G+ 692  \               G(1/3)
 FL,690,692,0,0,0,100
 PN,69102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G691 WDR Text GDo 26.11.26 00:15:34
+OL,0,     G691 WDR Text GDo 26.11.26 16:48:10
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
-OL,4, voraussichtlich bis Ende 2027 gesperrt.
+OL,4, zwischen K|ln-Bocklem}nd und Kreuz     
+OL,5, Leverkusen-West etwa 10 Minuten plus, 6
+OL,6, km Stau                                
+OL,8, A1 K|ln Richtung Dortmund zwischen     
+OL,9, Remscheid-Lennep und Kreuz             
+OL,10, Wuppertal-Nord mehr als 30 Minuten     
+OL,11, plus, 10 km Stau Dort ist wegen        
+OL,12, Bergungsarbeiten nur ein Fahrstreifen  
+OL,13, frei.                                  
+OL,15, Auf der A1 Dortmund Richtung M}nster   
+OL,16, ist die Ausfahrt Hamm-Bockum/Werne bis 
+OL,17, zum 10. Dezember gesperrt.             
+OL,19, An der A1 M}nster Richtung Dortmund ist
+OL,20, die Auffahrt Unna bis voraussichtlich  
+OL,21, Ende 2028 wegen einer Baustelle        
+OL,22, gesperrt.                              
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 690B]G+ 692  \               G(2/2)
+OL,24,A]G- 690B]G+ 692  \               G(2/3)
+FL,690,692,0,0,0,100
+PN,69103
+SC,0003
+PS,C200
+CT,15,T
+OL,0,     G691 WDR Text GDo 26.11.26 16:48:10
+OL,1,]D]        G]               @]  CVERKEHR
+OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
+OL,3,]T5                                
+OL,5, Auf der A1 Dortmund Richtung K|ln ist  
+OL,6, im Kreuz Leverkusen-West die Verbindung
+OL,7, zur A59 wegen Br}ckenarbeiten          
+OL,8, voraussichtlich bis Ende 2027 gesperrt.
+OL,10, A1 K|ln Richtung Euskirchen zwischen   
+OL,11, H}rth und Kreuz Bliesheim etwa 10      
+OL,12, Minuten plus, 4 km stockender Verkehr  
+OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]G- 690B]G+ 692  \               G(3/3)
 FL,690,692,0,0,0,100

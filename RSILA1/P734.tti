@@ -3,70 +3,66 @@ PN,73401
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G734  RSI LA 1  25.11.26 19:01:19
-OL,1,A]GRSI   ]@LA2    MERCOLEDI 25 novembre 
+OL,0,       G734  RSI LA 1  26.11.26 17:57:24
+OL,1,A]GRSI   ]@LA2      GIOVEDI 26 novembre 
 OL,2,G                                   1/3 
-OL,3, G04:45  GTG Notte                      
-OL,4, F05:05  FMeteoCR                       
-OL,5, G05:10  GA tutta Champions             
-OL,6, F05:30  FAlbachiara in TVCST           
-OL,7, G07:00  GRadiogiornale e lanci     CST 
-OL,8,         Gsport                         
-OL,9, F07:20  FSetteventi in TVCST           
-OL,10, G08:30  GModemCST                      
-OL,11, F09:00  FRadiogiornaleCST              
-OL,12, G09:10  GCasa SvizzeraCST              
-OL,13, F10:00  FMillevoci in TVCST            
-OL,14, G11:00  GMillestorieCST                
-OL,15, F11:45  FControcorrente in TVCST       
-OL,16, G12:35  GSiamo fuoriCST                
-OL,17, F13:35  FZeroveroCST                   
-OL,18, G13:55  GEverywhere I go -         CST 
-OL,19,         GCoincidenze d'amore           
-OL,20,         GEpisodio 42                   
+OL,3, G04:40  GTelegiornaleCR                
+OL,4, F05:10  FTG Notte                      
+OL,5, G05:30  GAlbachiara in TVCST           
+OL,6, F07:00  FRadiogiornale e lanci     CST 
+OL,7,         Fsport                         
+OL,8, G07:20  GSetteventi in TVCST           
+OL,9, F08:30  FModemCST                      
+OL,10, G09:00  GRadiogiornaleCST              
+OL,11, F09:10  FCasa SvizzeraCST              
+OL,12, G10:00  GMillevoci in TVCST            
+OL,13, F11:00  FMillestorieCST                
+OL,14, G11:45  GControcorrente in TVCST       
+OL,15, F12:35  FSiamo fuoriCST                
+OL,16, G13:40  GEverywhere I go -         CST 
+OL,17,         GCoincidenze d'amore           
+OL,18,         GEpisodio 43                   
+OL,19, F14:25  FCalcio: Champions League  CST 
+OL,20,         F2026/2027                     
+OL,21,         FInter - Stoccarda             
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73402
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G734  RSI LA 1  25.11.26 19:01:19
-OL,1,A]GRSI   ]@LA2    MERCOLEDI 25 novembre 
+OL,0,       G734  RSI LA 1  26.11.26 17:57:24
+OL,1,A]GRSI   ]@LA2      GIOVEDI 26 novembre 
 OL,2,G                                   2/3 
-OL,3, F14:35  FFal|CST                       
-OL,4, G15:40  GLa signora in gialloCSTCI/II  
-OL,5,         GChiave di volta               
-OL,6, F16:30  FIl KalahariCST                
-OL,7,         FSeconda parte                 
-OL,8, G17:20  GPrivate EyesCSTCI/II          
-OL,9,         GIl codice                     
-OL,10, F18:05  FWalker, Texas RangerCSTCI/II  
-OL,11,         FMiss Ranger                   
-OL,12, G18:55  GLe sorelle McLeodCSTCI/II     
-OL,13,         GIndecisione                   
-OL,14, F19:45  FModern FamilyCSTCI/II.....C710
-OL,15,         FI vicini di casa              
-OL,16, G20:15  GTelesguardCST                 
-OL,17, F20:30  FCalcio: Champions    CSTCI/II 
-OL,18,         FLeague 2026/2027              
-OL,19,         FInter - Stoccarda             
+OL,3, G16:10  GBiathlon: Coppa del  CSTCI/II 
+OL,4,         GMondo 2026/2027               
+OL,5,         G20km individuale maschile     
+OL,6, F17:55  FBASKET: PREQUALIFICAZIONI     
+OL,7,         FEUROPEI 2029: SLOVACCHIA -    
+OL,8,         FSVIZZERA                      
+OL,9, G18:25  GCalcio: Conference   CSTCI/II 
+OL,10,         GLeague 2026/2027              
+OL,11,         GAjax - Thun                   
+OL,12, F21:20  FDinastia KnieCSTCI/II.....C710
+OL,13, G23:05  GCalcio: La partita            
+OL,14, F23:25  FBasket: Pre Qualificazioni    
+OL,15,         FEuropei 2029                  
+OL,16,         FSlovacchia - Svizzera         
+OL,17, G01:10  GTelesguardCST                 
+OL,18, F01:25  FCalcio: Conference League CST 
+OL,19,         F2026/2027                     
+OL,20,         FAjax - Thun                   
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73403
 SC,0003
 PS,C300
 CT,8,T
-OL,0,       G734  RSI LA 1  25.11.26 19:01:19
-OL,1,A]GRSI   ]@LA2    MERCOLEDI 25 novembre 
+OL,0,       G734  RSI LA 1  26.11.26 17:57:24
+OL,1,A]GRSI   ]@LA2      GIOVEDI 26 novembre 
 OL,2,G                                   3/3 
-OL,3, G00:05  GUn principe sotto    CSTCI/II 
-OL,4,         Gcopertura                     
-OL,5, F01:30  FTelesguardCST                 
-OL,6, G01:45  GCalcio: Champions League  CST 
-OL,7,         G2026/2027                     
-OL,8,         GInter - Stoccarda             
-OL,9, F03:25  FTG Notte                      
-OL,10, G03:45  GMeteoCST                      
-OL,11, F03:50  FPrima OraCST                  
+OL,3, G03:05  GBiathlon: Coppa del Mondo CST 
+OL,4,         G2026/2027                     
+OL,5,         G20km individuale maschile     
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

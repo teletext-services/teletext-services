@@ -3,7 +3,7 @@ PN,50601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,      BARD-TEXT 506CMit 25 Nov  15:38:55
+OL,0,      BARD-TEXT 506CDon 26 Nov  11:50:54
 OL,1,RppppppppTpppppppppppppppppppppppppppppp
 OL,2,RD]G            Fu~ball:F3.Liga 
 OL,3,R########T##############################
@@ -33,7 +33,7 @@ PN,50602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,      BARD-TEXT 506CMit 25 Nov  15:38:55
+OL,0,      BARD-TEXT 506CDon 26 Nov  11:50:54
 OL,1,RppppppppTpppppppppppppppppppppppppppppp
 OL,2,RD]G            Fu~ball:F3.Liga 
 OL,3,R########T##############################
@@ -63,37 +63,7 @@ PN,50603
 SC,0003
 PS,C200
 CT,15,T
-OL,0,      BARD-TEXT 506CMit 25 Nov  15:38:55
-OL,1,RppppppppTpppppppppppppppppppppppppppppp
-OL,2,RD]G            Fu~ball:F3.Liga 
-OL,3,R########T##############################
-OL,4,FTermine 2026/2027: 15.Spieltag         
-OL,5,G                                       
-OL,6,FFreitag, 27.November          19.00 Uhr
-OL,7,GHansa Rostock - TSV Havelse . -:- (-:-)
-OL,8,FSamstag, 28.November          14.00 Uhr
-OL,9,GKick.W}rzburg - F.D}sseldorf  -:- (-:-)
-OL,10,GPreu~.M}nster - SC Verl ..... -:- (-:-)
-OL,11,GRW Essen - Hoffenheim II .... -:- (-:-)
-OL,12,GSVW Mannheim - Stuttgart II . -:- (-:-)
-OL,13,GSaarbr}cken - Alem.Aachen ... -:- (-:-)
-OL,14,G                             F16.30 Uhr
-OL,15,GS.Gro~aspach - MSV Duisburg . -:- (-:-)
-OL,16,FSonntag, 29.November          13.30 Uhr
-OL,17,GViktoria K|ln - Fortuna K|ln  -:- (-:-)
-OL,18,G                             F16.30 Uhr
-OL,19,GW.Wiesbaden - SV Meppen ..... -:- (-:-)
-OL,20,G                             F19.30 Uhr
-OL,21,GFC Ingolstadt - J.Regensburg  -:- (-:-)
-OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,23,F501G<<           3/4             mehr >
-OL,24,AStartseite   BSport    CWetter   FB|rse
-FL,100,200,171,710,0,100
-PN,50604
-SC,0004
-PS,C200
-CT,15,T
-OL,0,      BARD-TEXT 506CMit 25 Nov  15:38:55
+OL,0,      BARD-TEXT 506CDon 26 Nov  11:50:54
 OL,1,RppppppppTpppppppppppppppppppppppppppppp
 OL,2,RD]G            Fu~ball:F3.Liga 
 OL,3,R########T##############################
@@ -115,6 +85,36 @@ OL,18,G                             F16.30 Uhr
 OL,19,GHoffenheim II - Saarbr}cken . -:- (-:-)
 OL,20,G                             F19.30 Uhr
 OL,21,GAlem.Aachen - TSV Havelse ... -:- (-:-)
+OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,23,F501G<<           3/4             mehr >
+OL,24,AStartseite   BSport    CWetter   FB|rse
+FL,100,200,171,710,0,100
+PN,50604
+SC,0004
+PS,C200
+CT,15,T
+OL,0,      BARD-TEXT 506CDon 26 Nov  11:50:54
+OL,1,RppppppppTpppppppppppppppppppppppppppppp
+OL,2,RD]G            Fu~ball:F3.Liga 
+OL,3,R########T##############################
+OL,4,FTermine 2026/2027: 17.Spieltag         
+OL,5,G                                       
+OL,6,FFreitag, 11.Dezember          19.00 Uhr
+OL,7,GViktoria K|ln - F.D}sseldorf  -:- (-:-)
+OL,8,FSamstag, 12.Dezember          14.00 Uhr
+OL,9,GRW Essen - MSV Duisburg ..... -:- (-:-)
+OL,10,GW.Wiesbaden - Stuttgart II .. -:- (-:-)
+OL,11,GSVW Mannheim - J.Regensburg . -:- (-:-)
+OL,12,GSaarbr}cken - Kick.W}rzburg . -:- (-:-)
+OL,13,GTSV Havelse - Hoffenheim II . -:- (-:-)
+OL,14,G                             F16.30 Uhr
+OL,15,GPreu~.M}nster - SV Meppen ... -:- (-:-)
+OL,16,FSonntag, 13.Dezember          13.30 Uhr
+OL,17,GS.Gro~aspach - Alem.Aachen .. -:- (-:-)
+OL,18,G                             F16.30 Uhr
+OL,19,GFC Ingolstadt - Fortuna K|ln  -:- (-:-)
+OL,20,G                             F19.30 Uhr
+OL,21,GHansa Rostock - SC Verl ..... -:- (-:-)
 OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,F501G<<           4/4              >F507
 OL,24,AStartseite   BSport    CWetter   FB|rse

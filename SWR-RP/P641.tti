@@ -3,46 +3,44 @@ PN,64101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G21:25:15
+OL,0,       BSWR RLPC   Do, 26.11.26G15:28:14
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,10,FWARNUNG vor FROST                      
-OL,11, G}ltig: Mi 16:00 bis Do 12:00          
-OL,13,FKonstanz, L|rrach, Waldshut            
-OL,15, Es tritt leichter Frost zwischen -1 `C 
-OL,16, und -5 `C auf.                         
-OL,23,D]GQuelle:DWD  Stand:12:35  Hinweise 654
+OL,11,FWARNUNG vor FROST                      
+OL,12, G}ltig: Do 12:00 bis Fr 12:00          
+OL,14,FKonstanz                               
+OL,16, Es tritt leichter Frost um -2 `C auf.  
+OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,64102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G21:25:15
+OL,0,       BSWR RLPC   Do, 26.11.26G15:28:14
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,11,FWARNUNG vor GL[TTE                     
-OL,12, G}ltig: Mi 20:30 bis Do 10:00          
-OL,14,FKonstanz                               
-OL,16, Es besteht Gl{ttegefahr.               
-OL,23,D]GQuelle:DWD  Stand:20:18  Hinweise 654
+OL,12, G}ltig: Do 16:00 bis Fr 11:00          
+OL,14,FKonstanz, L|rrach, Waldshut            
+OL,16, Es besteht vereinzelt Gl{ttegefahr.    
+OL,23,D]GQuelle:DWD  Stand:12:55  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,64103
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G21:25:15
+OL,0,       BSWR RLPC   Do, 26.11.26G15:28:14
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,10,FWARNUNG vor GL[TTE                     
-OL,11, G}ltig: Mi 21:30 bis Do 10:00          
-OL,13,FL|rrach, Waldshut                      
-OL,15, Es besteht oberhalb 400 m              
-OL,16, Gl{ttegefahr.                          
-OL,23,D]GQuelle:DWD  Stand:21:22  Hinweise 654
+OL,11,FWARNUNG vor FROST                      
+OL,12, G}ltig: Do 16:00 bis Fr 12:00          
+OL,14,FL|rrach, Waldshut                      
+OL,16, Es tritt leichter Frost um -4 `C auf.  
+OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

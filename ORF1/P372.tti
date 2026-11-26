@@ -3,11 +3,11 @@ PN,37201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G372FORF1   GMi 25.11.26 18:13:49
+OL,0,       G372FORF1   GDo 26.11.26 08:15:38
 OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]A    Donnerstag, 26.11. \
-OL,3,Q#############                  G  1/9  
-OL,4,F06.07 FFWetter-Panorama und            
+OL,2,A]GFERNSEHEN  ]A       Freitag, 27.11. \
+OL,3,Q#############                  G  1/6  
+OL,4,F06.03 FFWetter-Panorama und            
 OL,5,       FFProgrammvorschau               
 OL,6,G06.30 GGGuten Morgen \sterreichEUT     
 OL,7,F07.00 FFZIBEUT                         
@@ -24,8 +24,8 @@ OL,17,       GGKreuterEUT
 OL,18,F09.26 FFWetter-Panorama                
 OL,19,G09.30 GGSilvia kochtEUT                
 OL,20,F09.56 FFkeine ORF2E-Rechte             
-OL,21,G10.45 GGReisezeit - \sterreich:        
-OL,22,       GGSalzburgEUT                    
+OL,21,G10.43 GGDaheim - das                   
+OL,22,       GGVolksgruppenmagazinEUT         
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -33,26 +33,29 @@ PN,37202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G372FORF1   GMi 25.11.26 18:13:50
+OL,0,       G372FORF1   GDo 26.11.26 08:15:38
 OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]A    Donnerstag, 26.11. \
-OL,3,Q#############                  G  2/9  
-OL,4,F11.10 FF\sterreich-Bild aus dem        
-OL,5,       FFLandesstudio Nieder|sterreich: 
-OL,6,       FFMade in N\ - unternehmerische  
-OL,7,       FFErfolgsgeschichtenEUT          
-OL,8,G11.37 GGWELTjournal: Philippinen -     
-OL,9,       GGDuterte vor dem Internationalen
-OL,10,       GGStrafgerichtEUT                
-OL,11,F12.03 FFWELTjournal + Dutertes blutiges
-OL,12,       FFErbeEUT                        
-OL,13,G12.46 GGWetterschau                    
-OL,14,F13.00 FFZIBEUT                         
-OL,15,G13.25 GGWetterEUT                      
-OL,16,F13.30 FFAktuell nach einsEUT           
-OL,17,G14.15 GGSeitenblickeEUT                
-OL,18,F14.20 FFSilvia kochtEUT                
-OL,19,G14.46 GGkeine ORF2E-Rechte             
+OL,2,A]GFERNSEHEN  ]A       Freitag, 27.11. \
+OL,3,Q#############                  G  2/6  
+OL,4,F11.15 FFkreuz & quer: Mann sein, aber  
+OL,5,       FFwie?EUT                        
+OL,6,G11.51 GGAm Schauplatz: Und raus bist du
+OL,7,       GEUT                             
+OL,8,F12.41 FFWetterschau                    
+OL,9,G13.00 GGZIBEUT                         
+OL,10,F13.26 FFWetterEUT                      
+OL,11,G13.30 GGAktuell nach einsEUT           
+OL,12,F14.20 FFSeitenblickeEUT                
+OL,13,G14.26 GGSilvia kocht: Unterwegs in     
+OL,14,       GGVillachEUT                     
+OL,15,F14.52 FFkeine ORF2E-Rechte             
+OL,16,G16.21 GGHinter den SchlagzeilenEUT     
+OL,17,F16.56 FFBundesland heute kompakt       
+OL,18,G17.00 GGZIBEUT                         
+OL,19,F17.07 FFAktuell nach f}nfEUT           
+OL,20,G17.28 GGStudio 2EUT                    
+OL,21,F18.30 FFMayrs Magazin - Wissen f}r alle
+OL,22,       FE\GSEUT                         
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -60,29 +63,27 @@ PN,37203
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G372FORF1   GMi 25.11.26 18:13:50
+OL,0,       G372FORF1   GDo 26.11.26 08:15:38
 OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]A    Donnerstag, 26.11. \
-OL,3,Q#############                  G  3/9  
-OL,4,F16.23 FFHinter den Schlagzeilen:       
-OL,5,       FFSebastian G|tzendorfer zu: "Wie
-OL,6,       FFein 31-j{hriger Pfarrer f}r    
-OL,7,       FFvolle Kirchen sorgt"EUT        
-OL,8,G16.56 GGBundesland heute kompakt       
-OL,9,F17.00 FFZIBEUT                         
-OL,10,G17.07 GGAktuell nach f}nfEUT           
-OL,11,F17.29 FFStudio 2EUT                    
-OL,12,G18.29 GGkonkretE\GSEUT                 
-OL,13,F18.51 FFinfos & tipps                  
-OL,14,G18.57 GGBundesland heute Service       
-OL,15,F19.00 FFBundesland heuteEUT            
-OL,16,G19.30 GGZeit im BildE\GSEUT            
-OL,17,F19.50 FFWetterE\GSEUT                  
-OL,18,G19.55 GGSport AktuellE\GSEUT           
-OL,19,F20.02 FFSeitenblickeEUT                
-OL,20,G20.14 GGkeine ORF2E-Rechte             
-OL,21,F21.05 FFAm Schauplatz: Und raus bist du
-OL,22,       FEUT                             
+OL,2,A]GFERNSEHEN  ]AFr, 27.11.& Sa, 28.11. \
+OL,3,Q#############                  G  3/6  
+OL,4,F18.51 FFinfos & tipps                  
+OL,5,G18.57 GGBundesland heute Service       
+OL,6,F19.00 FFBundesland heuteEUT            
+OL,7,G19.30 GGZeit im BildE\GSEUT            
+OL,8,F19.51 FFWetterE\GSEUT                  
+OL,9,G19.56 GGSport AktuellE\GSEUT           
+OL,10,F20.04 FFSeitenblickeEUT                
+OL,11,G20.15 GGkeine ORF2E-Rechte             
+OL,12,F21.20 FFLive aus Kitzb}hel: Kurier Romy
+OL,13,       FFGala 2026 - Der \sterreichische
+OL,14,       FFFilm- und FernsehpreisEHFEUT   
+OL,15,G23.37 GGEuromillionen                  
+OL,16,F23.44 FFUniversum History: Richard     
+OL,17,       FFL|wenherz - Ein K|nig in der   
+OL,18,       FFFalleEUT                       
+OL,19,G00.30 GGkeine ORF2E-Rechte             
+OL,20,F02.16 FFSeitenblickeEUT                
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -90,26 +91,17 @@ PN,37204
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G372FORF1   GMi 25.11.26 18:13:50
+OL,0,       G372FORF1   GDo 26.11.26 08:15:38
 OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]ADo, 26.11.& Fr, 27.11. \
-OL,3,Q#############                  G  4/9  
-OL,4,F22.00 FFZIB 2EUT                       
-OL,5,G22.28 GGEco Spezial: Die Geister, die  
-OL,6,       GGwir riefen - wer von der KI-   
-OL,7,       GGRevolution wirklich profitiert 
-OL,8,       GEUT                             
-OL,9,F23.03 FFST\CKLEUT                      
-OL,10,G00.03 GGkeine ORF2E-Rechte             
-OL,11,F01.31 FFAm Schauplatz: Und raus bist du
-OL,12,       FEUT                             
-OL,13,G02.20 GGEco Spezial: Die Geister, die  
-OL,14,       GGwir riefen - wer von der KI-   
-OL,15,       GGRevolution wirklich profitiert 
-OL,16,       GEUT                             
-OL,17,F02.51 FFST\CKLEUT                      
-OL,18,G03.51 GGSilvia kochtEUT                
-OL,19,F04.16 FFSeitenblickeEUT                
+OL,2,A]GFERNSEHEN  ]A       Samstag, 28.11. \
+OL,3,Q#############                  G  4/6  
+OL,4,F02.16 FFKurier Romy Gala 2026 - Der    
+OL,5,       FF\sterreichische Film- und      
+OL,6,       FFFernsehpreisEHFEUT             
+OL,7,G04.27 GGHinter den SchlagzeilenEUT     
+OL,8,F05.00 FFStudio 2EUT                    
+OL,9,G05.59 GGMayrs Magazin - Wissen f}r alle
+OL,10,       GE\GSEUT                         
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -117,16 +109,29 @@ PN,37205
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       G372FORF1   GMi 25.11.26 18:13:50
+OL,0,       G372FORF1   GDo 26.11.26 08:15:38
 OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]A       Freitag, 27.11. \
-OL,3,Q#############                  G  5/9  
-OL,4,F04.22 FFHinter den Schlagzeilen:       
-OL,5,       FFSebastian G|tzendorfer zu: "Wie
-OL,6,       FFein 31-j{hriger Pfarrer f}r    
-OL,7,       FFvolle Kirchen sorgt"EUT        
-OL,8,G04.53 GGStudio 2EUT                    
-OL,9,F05.51 FFkonkretE\GSEUT                 
+OL,2,A]GFERNSEHEN  ]A       Samstag, 28.11. \
+OL,3,Q#############                  G  5/6  
+OL,4,F06.10 FFText Aktuell                   
+OL,5,G07.15 GGWetter-Panorama                
+OL,6,F09.00 FFZIBEUT                         
+OL,7,G09.05 GGDer Sagenj{ger - Max M}ller auf
+OL,8,       GGSpurensuche: Die Bienenschlacht
+OL,9,       GEUT                             
+OL,10,F09.30 FFTango im SchneeEHFEUT          
+OL,11,G10.55 GGkeine ORF2E-Rechte             
+OL,12,F12.25 FFOrte der Kindheit: Heinz       
+OL,13,       FFMarecekEUT                     
+OL,14,G12.55 GGWetterschau                    
+OL,15,F13.00 FFZIBEUT                         
+OL,16,G13.12 GGWetterEUT                      
+OL,17,F13.20 FFAdventzeit - Traditionen und   
+OL,18,       FFBr{uche in \sterreichEUT       
+OL,19,G13.45 GGSeitenblicke WeekendEUT        
+OL,20,F14.05 FFkeine ORF2E-Rechte             
+OL,21,G16.20 GGLand und LeuteEUT              
+OL,22,F16.45 FFPrismaEUT                      
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -134,103 +139,24 @@ PN,37206
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       G372FORF1   GMi 25.11.26 18:13:50
+OL,0,       G372FORF1   GDo 26.11.26 08:15:38
 OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]A       Freitag, 27.11. \
-OL,3,Q#############                  G  6/9  
-OL,4,F06.05 FFWetter-Panorama und            
-OL,5,       FFProgrammvorschau               
-OL,6,G06.30 GGGuten Morgen \sterreichEUT     
-OL,7,F07.00 FFZIBEUT                         
-OL,8,G07.10 GGGuten Morgen \sterreichEUT     
-OL,9,F07.30 FFZIBEUT                         
-OL,10,G07.33 GGGuten Morgen \sterreichEUT     
-OL,11,F08.00 FFZIBEUT                         
-OL,12,G08.10 GGGuten Morgen \sterreichEUT     
-OL,13,F08.30 FFZIBEUT                         
-OL,14,G08.33 GGGuten Morgen \sterreichEUT     
-OL,15,F09.00 FFZIBEUT                         
-OL,16,G09.10 GGFit mit den Stars: Conny       
-OL,17,       GGKreuterEUT                     
-OL,18,F09.27 FFWetter-Panorama                
-OL,19,G09.30 GGSilvia kochtEUT                
-OL,20,F09.55 FFkeine ORF2E-Rechte             
-OL,21,G10.45 GGDaheim - das                   
-OL,22,       GGVolksgruppenmagazinEUT         
-OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,37207
-SC,0007
-PS,C200
-CT,15,T
-OL,0,       G372FORF1   GMi 25.11.26 18:13:50
-OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]A       Freitag, 27.11. \
-OL,3,Q#############                  G  7/9  
-OL,4,F11.15 FFkreuz & quer: Mann sein, aber  
-OL,5,       FFwie?EUT                        
-OL,6,G11.50 GGAm Schauplatz: Und raus bist du
-OL,7,       GEUT                             
-OL,8,F12.40 FFWetterschau                    
-OL,9,G13.00 GGZIBEUT                         
-OL,10,F13.25 FFWetterEUT                      
-OL,11,G13.30 GGAktuell nach einsEUT           
-OL,12,F14.20 FFSeitenblickeEUT                
-OL,13,G14.25 GGSilvia kocht: Unterwegs in     
-OL,14,       GGVillachEUT                     
-OL,15,F14.50 FFkeine ORF2E-Rechte             
-OL,16,G16.20 GGHinter den SchlagzeilenEUT     
-OL,17,F17.00 FFZIBEUT                         
-OL,18,G17.05 GGAktuell nach f}nfEUT           
-OL,19,F17.30 FFStudio 2EUT                    
-OL,20,G18.30 GGMayrs Magazin - Wissen f}r alle
-OL,21,       GE\GSEUT                         
-OL,22,F18.51 FFinfos & tipps                  
-OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,37208
-SC,0008
-PS,C200
-CT,15,T
-OL,0,       G372FORF1   GMi 25.11.26 18:13:50
-OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]AFr, 27.11.& Sa, 28.11. \
-OL,3,Q#############                  G  8/9  
-OL,4,F19.00 FFBundesland heuteEUT            
-OL,5,G19.30 GGZeit im BildE\GSEUT            
-OL,6,F19.51 FFWetterE\GSEUT                  
-OL,7,G19.56 GGSport AktuellE\GSEUT           
-OL,8,F20.05 FFSeitenblickeEUT                
-OL,9,G20.15 GGkeine ORF2E-Rechte             
-OL,10,F21.20 FFLive aus Kitzb}hel: Kurier Romy
-OL,11,       FFGala 2026 - Der \sterreichische
-OL,12,       FFFilm- und FernsehpreisEHFEUT   
-OL,13,G23.35 GGEuromillionen                  
-OL,14,F23.40 FFUniversum History: Richard     
-OL,15,       FFL|wenherz - Ein K|nig in der   
-OL,16,       FFFalleEUT                       
-OL,17,G00.25 GGkeine ORF2E-Rechte             
-OL,18,F02.10 FFSeitenblickeEUT                
-OL,19,G02.15 GGKurier Romy Gala 2026 - Der    
-OL,20,       GG\sterreichische Film- und      
-OL,21,       GGFernsehpreisEHFEUT             
-OL,22,F04.25 FFHinter den SchlagzeilenEUT     
-OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,37209
-SC,0009
-PS,C200
-CT,15,T
-OL,0,       G372FORF1   GMi 25.11.26 18:13:50
-OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]A       Samstag, 28.11. \
-OL,3,Q#############                  G  9/9  
-OL,4,F04.55 FFStudio 2EUT                    
-OL,5,G05.50 GGMayrs Magazin - Wissen f}r alle
-OL,6,       GE\GSEUT                         
+OL,2,A]GFERNSEHEN  ]ASa, 28.11.& So, 29.11. \
+OL,3,Q#############                  G  6/6  
+OL,4,F17.00 FFZIBEUT                         
+OL,5,G17.05 GGAktuell nach f}nfEUT           
+OL,6,F17.30 FFBewusst Gesund - Das Magazin   
+OL,7,       FE\GSEUT                         
+OL,8,G18.00 GGB}rgeranwaltE\GSEUT            
+OL,9,F19.00 FFBundesland heuteEUT            
+OL,10,G19.30 GGZeit im BildE\GSEUT            
+OL,11,F19.51 FFWetterE\GSEUT                  
+OL,12,G19.56 GGSport AktuellE\GSEUT           
+OL,13,F20.05 FFSeitenblickeEUT                
+OL,14,G20.15 GGkeine ORF2E-Rechte             
+OL,15,F23.42 FFZIB                            
+OL,16,G23.50 GGkeine ORF2E-Rechte             
+OL,17,F02.55 FFSeitenblickeEUT                
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

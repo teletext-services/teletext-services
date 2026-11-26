@@ -3,20 +3,20 @@ PN,42301
 SC,0001
 PS,C100
 CT,25,T
-OL,0,       G423 HBN TEKSTI-TVG25.11.16:26:22
-OL,1,T]G         TAMPERE PIRKKALA      1/6   
+OL,0,       G423 HBN TEKSTI-TVG26.11.09:38:19
+OL,1,T]G         TAMPERE PIRKKALA      1/5   
 OL,2,V]D         L[HTEV[T LENNOT             
-OL,4,T]G10:20 AY644  G3                      
-OL,5,T]GHelsinki                             
-OL,7,T]G04:00 AY270  G3                      
+OL,4,T]G03:25 BT358  G1                      
+OL,5,T]GRiika                                
+OL,7,T]G10:20 AY644  G3                      
 OL,8,T]GHelsinki                             
-OL,10,T]G03:25 BT358  G1                      
-OL,11,T]GRiika                                
-OL,13,T]G14:30 JTD804 G1                      
-OL,14,T]GGran Canaria                         
-OL,16,T]G10:20 AY644  G3                      
-OL,17,T]GHelsinki                             
-OL,19,T]G04:00 AY270  G3                      
+OL,10,T]G04:00 AY270  G3                      
+OL,11,T]GHelsinki                             
+OL,13,T]G03:25 BT358  G1                      
+OL,14,T]GRiika                                
+OL,16,T]G14:30 JTD804 G1                      
+OL,17,T]GGran Canaria                         
+OL,19,T]G10:20 AY644  G3                      
 OL,20,T]GHelsinki                             
 OL,22,T                                       
 OL,23,T                                       
@@ -25,21 +25,21 @@ PN,42302
 SC,0002
 PS,C100
 CT,25,T
-OL,0,       G423 HBN TEKSTI-TVG25.11.16:26:22
-OL,1,T]G         TAMPERE PIRKKALA      2/6   
+OL,0,       G423 HBN TEKSTI-TVG26.11.09:38:19
+OL,1,T]G         TAMPERE PIRKKALA      2/5   
 OL,2,V]D         L[HTEV[T LENNOT             
-OL,4,T]G03:25 BT358  G1                      
-OL,5,T]GRiika                                
-OL,7,T]G13:05 BT525  G1                      
-OL,8,T]GMalaga                               
-OL,10,T]G10:20 AY644  G1                      
-OL,11,T]GHelsinki                             
-OL,13,T]G04:00 AY270  G3                      
+OL,4,T]G04:00 AY270  G3                      
+OL,5,T]GHelsinki                             
+OL,7,T]G03:25 BT358  G1                      
+OL,8,T]GRiika                                
+OL,10,T]G13:05 BT525  G1                      
+OL,11,T]GMalaga                               
+OL,13,T]G10:20 AY644  G1                      
 OL,14,T]GHelsinki                             
-OL,16,T]G13:30 BT356  G1                      
-OL,17,T]GRiika                                
-OL,19,T]G10:20 AY644  G3                      
-OL,20,T]GHelsinki                             
+OL,16,T]G04:00 AY270  G3                      
+OL,17,T]GHelsinki                             
+OL,19,T]G13:30 BT356  G1                      
+OL,20,T]GRiika                                
 OL,22,T                                       
 OL,23,T                                       
 FL,0,0,0,0,0,100
@@ -47,36 +47,14 @@ PN,42303
 SC,0003
 PS,C100
 CT,25,T
-OL,0,       G423 HBN TEKSTI-TVG25.11.16:26:22
-OL,1,T]G         TAMPERE PIRKKALA      3/6   
+OL,0,       G423 HBN TEKSTI-TVG26.11.09:38:19
+OL,1,T]G         TAMPERE PIRKKALA      3/5   
 OL,2,V]D         L[HTEV[T LENNOT             
-OL,4,T]G04:00 AY270  G3                      
+OL,4,T]G10:20 AY644  G3                      
 OL,5,T]GHelsinki                             
-OL,7,T]G03:25 BT358  G1                      
-OL,8,T]GRiika                                
-OL,10,T]G10:20 AY644  G3                      
-OL,11,T]GHelsinki                             
-OL,13,T]G04:00 AY270  G3                      
-OL,14,T]GHelsinki                             
-OL,16,T]G03:25 BT358  G1                      
-OL,17,T]GRiika                                
-OL,19,T]G10:20 AY644  G3                      
-OL,20,T]GHelsinki                             
-OL,22,T                                       
-OL,23,T                                       
-FL,0,0,0,0,0,100
-PN,42304
-SC,0004
-PS,C100
-CT,25,T
-OL,0,       G423 HBN TEKSTI-TVG25.11.16:26:22
-OL,1,T]G         TAMPERE PIRKKALA      4/6   
-OL,2,V]D         L[HTEV[T LENNOT             
-OL,4,T]G05:10 BT525  G1                      
-OL,5,T]GMalaga                               
 OL,7,T]G04:00 AY270  G3                      
 OL,8,T]GHelsinki                             
-OL,10,T]G13:30 BT356  G1                      
+OL,10,T]G03:25 BT358  G1                      
 OL,11,T]GRiika                                
 OL,13,T]G10:20 AY644  G3                      
 OL,14,T]GHelsinki                             
@@ -87,21 +65,21 @@ OL,20,T]GRiika
 OL,22,T                                       
 OL,23,T                                       
 FL,0,0,0,0,0,100
-PN,42305
-SC,0005
+PN,42304
+SC,0004
 PS,C100
 CT,25,T
-OL,0,       G423 HBN TEKSTI-TVG25.11.16:26:22
-OL,1,T]G         TAMPERE PIRKKALA      5/6   
+OL,0,       G423 HBN TEKSTI-TVG26.11.09:38:19
+OL,1,T]G         TAMPERE PIRKKALA      4/5   
 OL,2,V]D         L[HTEV[T LENNOT             
 OL,4,T]G10:20 AY644  G3                      
 OL,5,T]GHelsinki                             
-OL,7,T]G04:00 AY270  G3                      
-OL,8,T]GHelsinki                             
-OL,10,T]G03:25 BT358  G1                      
-OL,11,T]GRiika                                
-OL,13,T]G14:30 JTD804 G1                      
-OL,14,T]GGran Canaria                         
+OL,7,T]G05:10 BT525  G1                      
+OL,8,T]GMalaga                               
+OL,10,T]G04:00 AY270  G3                      
+OL,11,T]GHelsinki                             
+OL,13,T]G13:30 BT356  G1                      
+OL,14,T]GRiika                                
 OL,16,T]G10:20 AY644  G3                      
 OL,17,T]GHelsinki                             
 OL,19,T]G04:00 AY270  G3                      
@@ -109,25 +87,25 @@ OL,20,T]GHelsinki
 OL,22,T                                       
 OL,23,T                                       
 FL,0,0,0,0,0,100
-PN,42306
-SC,0006
+PN,42305
+SC,0005
 PS,C100
 CT,25,T
-OL,0,       G423 HBN TEKSTI-TVG25.11.16:26:22
-OL,1,T]G         TAMPERE PIRKKALA      6/6   
+OL,0,       G423 HBN TEKSTI-TVG26.11.09:38:19
+OL,1,T]G         TAMPERE PIRKKALA      5/5   
 OL,2,V]D         L[HTEV[T LENNOT             
 OL,4,T]G03:25 BT358  G1                      
 OL,5,T]GRiika                                
-OL,7,T                                       
-OL,8,T                                       
-OL,10,T                                       
-OL,11,T                                       
-OL,13,T                                       
-OL,14,T                                       
-OL,16,T                                       
-OL,17,T                                       
-OL,19,T                                       
-OL,20,T                                       
+OL,7,T]G10:20 AY644  G3                      
+OL,8,T]GHelsinki                             
+OL,10,T]G04:00 AY270  G3                      
+OL,11,T]GHelsinki                             
+OL,13,T]G03:25 BT358  G1                      
+OL,14,T]GRiika                                
+OL,16,T]G14:30 JTD804 G1                      
+OL,17,T]GGran Canaria                         
+OL,19,T]G10:20 AY644  G3                      
+OL,20,T]GHelsinki                             
 OL,22,T                                       
 OL,23,T                                       
 FL,0,0,0,0,0,100

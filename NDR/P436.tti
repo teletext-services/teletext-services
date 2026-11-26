@@ -1,13 +1,13 @@
 DE,NDR 436
-PN,43600
-SC,0000
-PS,8208
+PN,43601
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G436FNDR TEXT GMi 25.11.B17:35:08
+OL,0,       G436FNDR TEXT GDo 26.11.B09:58:37
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD    NDR BLUE                 
-OL,4,F]T  %D        Mittwoch 25.11.2026      
+OL,4,F]T  %D        Donnerstag 26.11.2026    
 OL,6, 00:00  Nightlounge: Musik, die }ber die
 OL,7,        Charts hinausgeht               
 OL,8,F06:00  NDR Blue Morning: Der Start in  
@@ -17,11 +17,29 @@ OL,11,F11:00  NDR 2 Soundcheck Neue Musik
 OL,12, 14:00  N-JOY PLAY                      
 OL,13,F17:00  NDR Blue After Work: Die        
 OL,14,F       richtige Musik nach der Arbeit  
-OL,15, 20:00  Nachtclub in Concert            
-OL,16,F21:00  Nachtclub in Concert            
-OL,17, 22:00  Nachtclub: Frische Mische aus   
-OL,18,        Puders kleinem Hobbykeller #28  
-OL,19,F23:00  Nachtclub: Mari On mit Tom Liwa 
-OL,23,F]D400<                      WEITER >437
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,15, 20:00  Nachtclub: F|nwelle f}r         
+OL,16,        Sch|ngeister: Vor 50 Jahre      
+OL,17,        starteten Japan                 
+OL,18,F21:00  Nachtclub Classics: In Search Of
+OL,19,F       Space                           
+OL,20, 22:00  Nachtclub: Musik, die }ber die  
+OL,21,        Charts hinausgeht - mit         
+OL,22,        Christoph Twickel               
+OL,23,F]D400<                        WEITER >>
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,43602
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G436FNDR TEXT GDo 26.11.B09:58:37
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    NDR BLUE                 
+OL,4,F]T  %D        Donnerstag 26.11.2026    
+OL,6, 23:00  Nachtclub: Musik, die }ber die  
+OL,7,        Charts hinausgeht - mit Paul    
+OL,8,        Baskerville                     
+OL,23,F]D400<                   WEITER >437 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

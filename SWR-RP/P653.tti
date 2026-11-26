@@ -1,34 +1,17 @@
 DE,SWR-RP 653
-PN,65301
-SC,0001
-PS,C200
+PN,65300
+SC,0000
+PS,8208
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G21:25:53
+OL,0,       BSWR RLPC   Do, 26.11.26G15:47:24
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,10,FWARNUNG vor FROST                      
-OL,11, G}ltig: Mi 16:00 bis Do 12:00          
-OL,13,FLandau in der Pfalz                    
+OL,11, G}ltig: Do 16:00 bis Fr 12:00          
+OL,13,FLandau in der Pfalz, Germersheim       
 OL,14,FS}dliche Weinstra~e                    
-OL,16, Es tritt m{~iger Frost zwischen -5     
-OL,17, `C und -8 `C auf.                      
-OL,23,D]GQuelle:DWD  Stand:12:32  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,65302
-SC,0002
-PS,C200
-CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G21:25:53
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,10,FWARNUNG vor FROST                      
-OL,11, G}ltig: Mi 16:00 bis Do 12:00          
-OL,13,FGermersheim                            
-OL,15, Es tritt leichter Frost zwischen 0 `C  
-OL,16, und -5 `C auf.                         
-OL,23,D]GQuelle:DWD  Stand:12:32  Hinweise 654
+OL,16, Es tritt leichter Frost bis -5 `C auf. 
+OL,23,D]GQuelle:DWD  Stand:12:31  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

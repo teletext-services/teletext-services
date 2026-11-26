@@ -3,65 +3,66 @@ PN,11701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMi 25 Nov F16:22:29
+OL,0,         GFORUM64   GDo 26 Nov F01:28:01
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EAdam is Me - C64 Version               
-OL,4,CAntwort:  BRiewekooche                 
-OL,5,CComments: B14                          
-OL,6,F                                       
-OL,7,FIch denke, dass ich als Tester         
-OL,8,Fungeeignet bin, da ich die Situation   
-OL,9,Fmit dem vermeintlichen Fehler nicht    
-OL,10,Freproduzieren kann... Trozdem ein paar 
-OL,11,FAnmerkungen Inwieweit ist die 64er     
-OL,12,FVersion noch beta? Ich vermisse die    
-OL,13,FM|glichkeit mit "Fire"+"Joystick links"
-OL,15,CErster Beitrag:                        
-OL,17,GHallo zusammen!                        
-OL,19,GNach einiger Entwicklungs- und         
-OL,20,GTestarbeit m|chte ich euch heute einen 
-OL,21,Gersten Release Candidate meiner        
-OL,22,GC64-Portierung von Adam Is Me          
-OL,23,Gvorstellen.                            
+OL,2,E"UCALC" - eine Tabellenkalkulation f}r 
+OL,3,Eden C64 mit CSV-Import/Export (UTF-8)  
+OL,4,Eund PDF-Ausgabe                        
+OL,6,CAntwort:  BOmega                       
+OL,7,CComments: B132                         
+OL,8,F                                       
+OL,9,F( )                                    
+OL,11,FHab' ich schon versucht. Aber ich      
+OL,12,Fkriege leider keine gleichm{~ige       
+OL,13,FDarstellung hin, bei der alle Pixel    
+OL,14,Fgleich gro~ sind. Der Emulator scheint 
+OL,15,Fda seinen eigenen Willen zu haben.     
+OL,17,F( )                                    
+OL,19,FAch. Ich warte erstmal auf das Update  
+OL,20,FV1.4.                                  
+OL,22,CErster Beitrag:                        
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMi 25 Nov F16:22:29
+OL,0,         GFORUM64   GDo 26 Nov F01:28:01
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GDas urspr}nglich von Agenda f}r den    
-OL,4,GAtari entwickelte Denkspiel hat es nun 
-OL,5,Gauch auf den Commodore 64 geschafft    
-OL,6,Geinschlie~lich aller 64 Originallevel! 
-OL,8,GBei der Umsetzung war mir wichtig,     
-OL,9,Gm|glichst nah am Original zu bleiben,  
-OL,10,Ggleichzeitig aber auch die             
-OL,11,GM|glichkeiten des C64 auszunutzen.     
-OL,12,GBesonders bei der Grafik, der Musik und
-OL,13,Gder Steuerung hat sich einiges getan.  
-OL,15,GWas bietet die C64-Version?            
-OL,17,GAlle 64 Originallevel in 8 Welten      
-OL,18,GGrafische Galaxy- und Levelauswahl mit 
-OL,19,GAnzeige bereits gel|ster Level         
-OL,20,GSID-Musik , wahlweise auch mit         
-OL,21,GDual-SID-Unterst}tzung ($D400/$D420)   
-OL,22,GZwei unterschiedliche Intro-Melodien,  
+OL,3,GAufbauend auf UTEXT hatte ich damals   
+OL,4,Gauch eine Tabellenkalkulation          
+OL,5,Gentwickelt, damit ich quasi meine      
+OL,6,G"Officearbeiten" am C64 vornehmen kann.
+OL,7,GF}r kleinere Texte (UTEXT) und Tabellen
+OL,8,G(UCALC) mache ich das mittlerweile     
+OL,9,Gtats{chlich auch hin und wieder damit. 
+OL,11,GZu einer Ver|ffentlichung konnte ich   
+OL,12,Gmich jedoch nie so richtig aufraffen,  
+OL,13,Gweil es ohne Anleitung eher wenig Sinn 
+OL,14,Gmacht und Anleitungen schreiben nicht  
+OL,15,Gunbedingt mein Lieblingshobby ist. Es  
+OL,16,Glag irgendwie, wie so manches andere,  
+OL,17,Gin der virtuellen Schublade.           
+OL,19,GDa UTEXT ja doch gut ankam, habe ich   
+OL,20,Gmich dieses Wochenende dann doch mal an
+OL,21,Geine Anleitung gesetzt und sie         
+OL,22,Ghoffentlich einigerma~en verst{ndlich  
+OL,23,Gformuliert. Da ist mir erst wieder so  
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,11703
 SC,0003
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMi 25 Nov F16:22:29
+OL,0,         GFORUM64   GDo 26 Nov F01:28:01
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gdie zuf{llig ausgew{hlt werden und ohne
-OL,4,GUnterbrechung }ber die ersten          
-OL,5,GBildschirme laufen Eigenst{ndige       
-OL,6,GMusikbegleitung f}r das dreiteilige    
-OL,7,GOutro Automatische Speicherung des     
-OL,8,GSpielfortschritts Fl}ssige Tastatur-   
-OL,9,Gund Joysticksteuerung                  
+OL,3,Grichtig aufgefallen, wie viel bei der  
+OL,4,GTabellenkalkulation doch beschrieben   
+OL,5,Gwerden muss. Wer UCALC benutzen will,  
+OL,6,Gsollte tats{chlich mal in die Anleitung
+OL,7,Gschauen, es ist nicht alles            
+OL,8,Gselbsterkl{rend, auch wenn ich darauf -
+OL,9,Gso gut es ging - geachtet habe.        
+OL,11,GBitte                                  
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

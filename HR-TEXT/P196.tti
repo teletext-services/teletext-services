@@ -3,22 +3,24 @@ PN,19601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F16:32:10
+OL,0,           Fhr-textGDo 26.11.26F03:34:26
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G      Nordhessen 
 OL,3,W#######################################
-OL,4,            Mi.       Do.       Tendenz 
+OL,4,            Do.       Fr.       Tendenz 
 OL,6,BKASSEL    C2  F-3   C0  F-4   C0  F-5  
-OL,7, Vormittag  wolkig    wolkig+           
-OL,8,                      Nebel             
-OL,9, Nachmittag sonnig    leicht    wolkig  
-OL,10,                      bew|lkt           
-OL,11, Abend      wolkig    wolkig            
-OL,14,BKORBACH   C0  F-5   C-3 F-6   C-1 F-7  
-OL,15, Vormittag  sonnig    wolkig            
+OL,7, Vormittag  wolkig    bedeckt           
+OL,8,                      od. tr}b          
+OL,9, Nachmittag sonnig    bedeckt   wolkig  
+OL,11, Abend      bedeckt   leicht            
+OL,12,            od. tr}b  bew|lkt           
+OL,14,BKORBACH   C0  F-5   C-2 F-6   C-2 F-5  
+OL,15, Vormittag  sonnig    bedeckt           
+OL,16,                      od. tr}b          
 OL,17, Nachmittag sonnig    leicht    leicht  
 OL,18,                      bew|lkt   bew|lkt 
-OL,19, Abend      wolkig    wolkig            
+OL,19, Abend      bedeckt   leicht            
+OL,20,            od. tr}b  bew|lkt           
 OL,22,CH|chstwert TagG/FTiefstwert NachtGin `C
 OL,23,G]DNordhessenwetter 192          1/5 -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
@@ -27,25 +29,25 @@ PN,19602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F16:32:10
+OL,0,           Fhr-textGDo 26.11.26F03:34:26
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G       Osthessen 
 OL,3,W#######################################
-OL,4,            Mi.       Do.       Tendenz 
-OL,6,BB.HERSFELDC1  F-4   C-1 F-4   C-1 F-5  
+OL,4,            Do.       Fr.       Tendenz 
+OL,6,BB.HERSFELDC1  F-4   C-1 F-4   C-1 F-6  
 OL,7, Vormittag  sonnig    bedeckt           
 OL,8,                      od. tr}b          
 OL,9, Nachmittag sonnig    bedeckt   bedeckt 
-OL,10,                      od. tr}b  od. tr}b
-OL,11, Abend      leicht    wolkig            
-OL,12,            bew|lkt                     
-OL,14,BFULDA     C2  F-6   C-2 F-6   C-2 F-6  
+OL,10,                                od. tr}b
+OL,11, Abend      wolkig+   bedeckt           
+OL,12,            Nebel     od. tr}b          
+OL,14,BFULDA     C2  F-6   C0  F-6   C-1 F-8  
 OL,15, Vormittag  leicht    bedeckt           
 OL,16,            bew|lkt   od. tr}b          
-OL,17, Nachmittag leicht    wolkig+   bedeckt 
-OL,18,            bew|lkt   Nebel     od. tr}b
-OL,19, Abend      klar      bedeckt           
-OL,20,                      od. tr}b          
+OL,17, Nachmittag leicht    bedeckt   bedeckt 
+OL,18,            bew|lkt             od. tr}b
+OL,19, Abend      leicht    bedeckt           
+OL,20,            bew|lkt   od. tr}b          
 OL,22,CH|chstwert TagG/FTiefstwert NachtGin `C
 OL,23,G]DOsthessenwetter 193           2/5 -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
@@ -54,24 +56,25 @@ PN,19603
 SC,0003
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F16:32:10
+OL,0,           Fhr-textGDo 26.11.26F03:34:26
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G    Mittelhessen 
 OL,3,W#######################################
-OL,4,            Mi.       Do.       Tendenz 
-OL,6,BMARBURG   C2  F-4   C-1 F-4   C1  F-4  
-OL,7, Vormittag  leicht    leicht            
-OL,8,            bew|lkt   bew|lkt           
-OL,9, Nachmittag sonnig    leicht    wolkig+ 
-OL,10,                      bew|lkt   Nebel   
-OL,11, Abend      leicht    wolkig            
-OL,12,            bew|lkt                     
-OL,14,BGIESSEN   C1  F-4   C0  F-4   C1  F-4  
+OL,4,            Do.       Fr.       Tendenz 
+OL,6,BMARBURG   C2  F-4   C0  F-4   C-1 F-4  
+OL,7, Vormittag  leicht    bedeckt           
+OL,8,            bew|lkt   od. tr}b          
+OL,9, Nachmittag sonnig    bedeckt   wolkig+ 
+OL,10,                                Nebel   
+OL,11, Abend      bedeckt   bedeckt           
+OL,12,            od. tr}b  od. tr}b          
+OL,14,BGIESSEN   C1  F-4   C0  F-4   C0  F-5  
 OL,15, Vormittag  leicht    bedeckt           
 OL,16,            bew|lkt   od. tr}b          
-OL,17, Nachmittag leicht    wolkig    wolkig+ 
+OL,17, Nachmittag leicht    bedeckt   wolkig+ 
 OL,18,            bew|lkt             Nebel   
-OL,19, Abend      klar      wolkig            
+OL,19, Abend      leicht    wolkig            
+OL,20,            bew|lkt                     
 OL,22,CH|chstwert TagG/FTiefstwert NachtGin `C
 OL,23,G]DMittelhessenwetter 194        3/5 -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
@@ -80,24 +83,23 @@ PN,19604
 SC,0004
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F16:32:10
+OL,0,           Fhr-textGDo 26.11.26F03:34:26
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G      Rhein-Main 
 OL,3,W#######################################
-OL,4,            Mi.       Do.       Tendenz 
-OL,6,BFRANKFURT C2  F-3   C3  F-3   C3  F-2  
+OL,4,            Do.       Fr.       Tendenz 
+OL,6,BFRANKFURT C2  F-3   C2  F-3   C0  F-3  
 OL,7, Vormittag  wolkig    bedeckt           
 OL,8,                      od. tr}b          
-OL,9, Nachmittag wolkig    wolkig    bedeckt 
-OL,11, Abend      leicht    bedeckt           
-OL,12,            bew|lkt                     
-OL,14,BWIESBADEN C3  F-2   C2  F-3   C3  F-3  
-OL,15, Vormittag  bedeckt   wolkig+           
-OL,16,                      Nebel             
+OL,9, Nachmittag wolkig    bedeckt   bedeckt 
+OL,11, Abend      wolkig    bedeckt           
+OL,14,BWIESBADEN C3  F-2   C2  F-3   C1  F-2  
+OL,15, Vormittag  bedeckt   bedeckt           
+OL,16,                      od. tr}b          
 OL,17, Nachmittag wolkig    bedeckt   wolkig+ 
-OL,18,                      od. tr}b  Nebel   
+OL,18,                                Nebel   
 OL,19, Abend      leicht    bedeckt           
-OL,20,            bew|lkt   od. tr}b          
+OL,20,            bew|lkt                     
 OL,22,CH|chstwert TagG/FTiefstwert NachtGin `C
 OL,23,G]DRhein-Main-Wetter 191         4/5 -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
@@ -106,23 +108,22 @@ PN,19605
 SC,0005
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F16:32:10
+OL,0,           Fhr-textGDo 26.11.26F03:34:26
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERAUSSICHTEND] G       S}dhessen 
 OL,3,W#######################################
-OL,4,            Mi.       Do.       Tendenz 
-OL,6,BDARMSTADT C2  F-3   C2  F-3   C2  F-2  
+OL,4,            Do.       Fr.       Tendenz 
+OL,6,BDARMSTADT C3  F-3   C1  F-3   C2  F-3  
 OL,7, Vormittag  bedeckt   bedeckt           
 OL,8,                      od. tr}b          
-OL,9, Nachmittag wolkig    wolkig    bedeckt 
-OL,11, Abend      wolkig    wolkig            
-OL,14,BMICHELST. C1  F-4   C1  F-3   C1  F-3  
+OL,9, Nachmittag wolkig    bedeckt   bedeckt 
+OL,11, Abend      bedeckt   bedeckt           
+OL,14,BMICHELST. C1  F-4   C0  F-3   C1  F-5  
 OL,15, Vormittag  bedeckt   bedeckt           
 OL,16,            od. tr}b  od. tr}b          
-OL,17, Nachmittag wolkig    wolkig    bedeckt 
+OL,17, Nachmittag wolkig    bedeckt   bedeckt 
 OL,18,                                od. tr}b
-OL,19, Abend      wolkig    bedeckt           
-OL,20,                      od. tr}b          
+OL,19, Abend      bedeckt   bedeckt           
 OL,22,CH|chstwert TagG/FTiefstwert NachtGin `C
 OL,23,G]DS}dhessenwetter 195           5/5 -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport

@@ -1,22 +1,52 @@
 DE,TEKSTI-TV 309
-PN,30900
-SC,0000
-PS,8108
+PN,30901
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       G309 YLE TEKSTI-TV 25.03.21:47:08
-OL,1,B]D        G]                   D   1/1 
-OL,2,B]DJIM     G]D    Keskiviikko 25.11.    
+OL,0,       G309 YLE TEKSTI-TV 26.03.06:35:22
+OL,1,B]D        G]                   D   1/2 
+OL,2,B]DJIM     G]D    Torstai 26.11.        
 OL,3,R#########^W############################
-OL,4,G21.35GPoliisit 24/7                    
-OL,5,G22.05GKuppilat kuntoon, Kape Aihinen!  
-OL,6,G23.05GSimpsonit (12)                   
-OL,7,G23.35GSimpsonit (12)                   
-OL,8,G00.05GKuppilat kuntoon, Gordon Ramsay! 
-OL,9,G01.00GPoliisit 2017 (S)                
-OL,10,G01.30GPoliisit 2017 (S)                
-OL,11,G02.00GAlaskan j{{lentokentt{           
-OL,12,G03.00GAustralian rajalla               
-OL,13,G03.30GAustralian rajalla               
+OL,4,G09.00GSuomen huutokauppakeisari        
+OL,5,G10.00GAlaskan j{{lentokentt{           
+OL,6,G11.00GMichelin-kokkien keitti|iss{     
+OL,7,G12.00GAmazing Race Suomi               
+OL,8,G14.10GSuomen huutokauppakeisari        
+OL,9,G15.10G100 Places to Be                 
+OL,10,G15.15G100 Places to Be                 
+OL,11,G15.20G100 Places to Be                 
+OL,12,G15.30GAustralian rajalla               
+OL,13,G16.00GAlaskan j{{lentokentt{           
+OL,14,G17.00GMichelin-kokkien keitti|iss{     
+OL,15,G18.00GPoliisit 2017 (S)                
+OL,16,G18.30GPoliisit 2017 (S)                
+OL,17,G19.00GSimpsonit (7)                    
+OL,18,G19.30GSimpsonit (7)                    
+OL,19,G20.00GAmerikan kovimmat ker{ilij{t     
+OL,20,G21.00GBurgerimiehet kes{lomalla (S)    
+OL,21,G22.00GErikoisjoukot                    
+OL,22,G23.00GSimpsonit (7)                    
+OL,23,B]D    TV-ohjelmien hakemisto s.D300    
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,30902
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       G309 YLE TEKSTI-TV 26.03.06:35:22
+OL,1,B]D        G]                   D   2/2 
+OL,2,B]DJIM     G]D    Torstai 26.11.        
+OL,3,R#########^W############################
+OL,4,G20.00GAmerikan kovimmat ker{ilij{t     
+OL,5,G21.00GBurgerimiehet kes{lomalla (S)    
+OL,6,G22.00GErikoisjoukot                    
+OL,7,G23.00GSimpsonit (7)                    
+OL,8,G23.30GSimpsonit (7)                    
+OL,9,G00.00GSami Kieksi - Digihuijaukset     
+OL,10,G01.00GPoliisit 2017 (S)                
+OL,11,G01.30GPoliisit 2017 (S)                
+OL,12,G02.00GAmazing Race Suomi               
+OL,13,K                                       
 OL,14,K                                       
 OL,15,K                                       
 OL,16,K                                       
@@ -26,6 +56,6 @@ OL,19,K
 OL,20,K                                       
 OL,21,K                                       
 OL,22,K                                       
-OL,23,B]D    TV-ohjelmien hakemisto s.D300    
+OL,23,G]D    TV-ohjelmien hakemisto s.D300    
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

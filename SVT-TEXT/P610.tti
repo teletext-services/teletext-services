@@ -1,29 +1,54 @@
 DE,SVT-TEXT 610
-PN,61000
-SC,0000
-PS,8108
+PN,61001
+SC,0001
+PS,C100
 CT,15,T
-OL,0,      GSVT Text 610  Ons 25 novC06:04:11
-OL,1,D] GSVT2 Fredag 27/11                   
+OL,0,      GSVT Text 610  Tor 26 novC06:04:11
+OL,1,D] GSVT2 L|rdag 28/11             1(2)  
 OL,2,D] G                                    
-OL,3,G14.30BM|te med (teckenspr}k)CHDFT 199  
-OL,4,G15.00BDr|mlandetCHDFT 199              
-OL,5,G15.30BPolitikbyr}nCHDFT 199            
-OL,6,G16.00BSverige LiveCHDFT 199            
-OL,7,G17.20BNyhetsteckenFT 199               
-OL,8,G17.30BOddasat                          
-OL,9,G17.40BUutiset                          
-OL,10,G17.50BG}tan p} havets bottenCHD        
-OL,11,G18.20BHundra procent bondeCHD          
-OL,12,G18.50BBasket: VM-kvalCHD               
-OL,13,G20.00BBardotCHD                        
-OL,14,G20.50BVem fan {r Hugo Alfv`n?CHDFT 199 
-OL,15,G21.00BAktuelltFT 199                   
-OL,16,G21.22BKulturnyheternaFT 199            
-OL,17,G21.30BSportnyttCHDFT 199               
-OL,18,G21.45BV{rnCHDFT 199                    
-OL,19,G23.05BDet kalla speletCHDFT 199        
-OL,20,G23.55-00.35B112 ambulansCHD            
+OL,3,G08.50BUtrikesbyr}nCHDFT 199            
+OL,4,G09.20BEkonomibyr}nCHDFT 199            
+OL,5,G09.50BPolitikbyr}nCHDFT 199            
+OL,6,G10.20BFr}ga doktornCHDFT 199           
+OL,7,G10.50BJiros CI-resaCHDFT 199           
+OL,8,G11.00B40 }r med CI - Vad s{ger         
+OL,9,      Bforskarna?CHDFT 199              
+OL,10,G12.30BJorden runt p} 80 katterCHDFT 199
+OL,11,G13.00BJakttidCHD                       
+OL,12,G13.30BHundra procent bondeCHD          
+OL,13,G14.00BG}tan p} havets bottenCHD        
+OL,14,G14.30BBabelCHDFT 199                   
+OL,15,G15.00BVetenskapens v{rld: PFAS - kampen
+OL,16,      Bmot evighetsgifternaCHDFT 199    
+OL,17,G15.55BAnslagstavlanCHDFT 199           
+OL,18,G16.00BRapportFT 199                    
+OL,19,G16.05B15 minuter fr}n S pmiCHDFT 199   
+OL,20,G16.25BNya arkitekturens p{rlorCHDFT 199
+OL,21,G16.35B[lskade stadCHD                  
 OL,23,D]GIndex 600 TV-guide 650 Inneh}ll 700  
-OL,24,ANyheter   BSport    CV{der    FInneh}ll
+OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
+FL,100,300,400,700,0,100
+PN,61002
+SC,0002
+PS,C100
+CT,15,T
+OL,0,      GSVT Text 610  Tor 26 novC06:04:11
+OL,1,D] GSVT2 L|rdag 28/11             2(2)  
+OL,2,D] G                                    
+OL,3,G17.05BSamuel Coleridge-Taylor -        
+OL,4,      Bf|rsvunnen ur musikhistorienCHD  
+OL,5,G17.50BHandboll: LandskampCHD           
+OL,6,G19.00BEngelska AntikrundanCHD          
+OL,7,G20.00BSeriestart:  Visorna och William 
+OL,8,      CHDFT 199                         
+OL,9,G20.10BG|teborg sjunger AlfCHDFT 199    
+OL,10,G21.10BCountrygalan fr}n Nashville 2026 
+OL,11,      CHD                               
+OL,12,G22.40BFilmtjuvenCHD                    
+OL,13,G00.30BHooja och den sista resanCHD     
+OL,14,      FT 199                            
+OL,15,G00.45-01.00BHooja och den sista resan  
+OL,16,      CHDFT 199                         
+OL,23,D]GIndex 600 TV-guide 650 Inneh}ll 700  
+OL,24,ANyheter BSport CV{der FInneh}llG  (2/2)
 FL,100,300,400,700,0,100

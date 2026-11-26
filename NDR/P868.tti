@@ -3,18 +3,18 @@ PN,86801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G868FNDR TEXT GMi 25.11.B17:44:02
+OL,0,       G868FNDR TEXT GDo 26.11.B21:31:43
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD EISHOCKEY                   
 OL,4,F]T  %D     Oberliga Nord               
-OL,9,BSonntag, 22. November                  
-OL,10, Tilburg Trap. - Icef. Leipzig      2:4 
-OL,11, F}chse Duisb. - Rostock Pir.       2:5 
-OL,13, Herforder EV  - MEC Halle 04       0:1 
-OL,14, Hammer Eisb.  - BD Erfurt          4:2 
-OL,16, Herner EV     - Hannover Ind.      5:2 
-OL,17, Hannover Sco. - EHC Neuwied        5:0 
+OL,9,BFreitag, 27. November                  
+OL,10, Herner EV     - Hammer Eisb.B    20.00 
+OL,11, MEC Halle 04  - Rostock Pir.B    20.00 
+OL,13, Hannover Sco. - BD ErfurtB       20.00 
+OL,14, Hannover Ind. - EHC NeuwiedB     20.00 
+OL,16, Tilburg Trap. - F}chse Duisb.B   20.15 
+OL,17, Herforder EV  - Icef. LeipzigB   20.30 
 OL,23,B]D810<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -22,7 +22,7 @@ PN,86802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G868FNDR TEXT GMi 25.11.B17:44:02
+OL,0,       G868FNDR TEXT GDo 26.11.B21:31:43
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD EISHOCKEY                   
@@ -46,18 +46,18 @@ PN,86803
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G868FNDR TEXT GMi 25.11.B17:44:02
+OL,0,       G868FNDR TEXT GDo 26.11.B21:31:43
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD EISHOCKEY                   
 OL,4,F]T  %D     Oberliga Nord               
-OL,9,BFreitag, 27. November                  
-OL,10, Herner EV     - Hammer Eisb.B    20.00 
-OL,11, MEC Halle 04  - Rostock Pir.B    20.00 
-OL,13, Hannover Sco. - BD ErfurtB       20.00 
-OL,14, Hannover Ind. - EHC NeuwiedB     20.00 
-OL,16, Tilburg Trap. - F}chse Duisb.B   20.15 
-OL,17, Herforder EV  - Icef. LeipzigB   20.30 
+OL,9,BSonntag, 29. November                  
+OL,10, BD Erfurt     - Herner EVB       16.00 
+OL,11, F}chse Duisb. - MEC Halle 04B    17.30 
+OL,13, Icef. Leipzig - Hannover Ind.B   18.00 
+OL,14, Hammer Eisb.  - Tilburg Trap.B   18.30 
+OL,16, Rostock Pir.  - Hannover Sco.B   19.00 
+OL,17, EHC Neuwied   - Herforder EVB    19.00 
 OL,23,B]D810<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

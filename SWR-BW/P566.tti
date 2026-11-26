@@ -3,28 +3,28 @@ PN,56601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G20:56:00
+OL,0,       BSWR BW C   Do, 26.11.26G13:27:20
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Mi 20:50 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Do 13:20 
 OL,3,T#########"#############################
 OL,4,CAnkunftGvon        Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FLH  199 Berlin     20:50C20:43 gel.F1 A
-OL,7, LH 1197 Z}rich     20:50C20:38 gel.G1 A
-OL,8,FOS  219 Wien       20:50C20:41 gel.F1 A
-OL,9, 4Y  515 Palma      20:55C21:06     G1 B
-OL,10,FLH  807 Stockholm  20:55C21:13     F1 A
-OL,11, DE  525 Agadir     21:00C20:39 gel.G1 B
-OL,12,FLH  917 London     21:05Cim Anflug F1 B
-OL,13, LH 3441 M}nchen    21:08            1 T
-OL,14,FLH 3493 Aachen Hbf 21:13            1 T
-OL,15, OS  221 Wien       21:45            1 A
-OL,16,FBA  910 London     22:00            3 J
-OL,17, LH  123 M}nchen    22:00            1 C
-OL,18,FAF 1018 Paris      22:05            3 J
-OL,19, LH  919 London     22:05            1 B
-OL,20,FKL 1825 Amsterdam  22:25            3 J
-OL,21, IB 1331 Madrid     22:35C22:26     G3 J
+OL,6,FLH  815 G|teborg   13:40Cim Anflug F1 A
+OL,7, LH  433 Chicago    13:45C13:36     G1 A
+OL,8,FSV  167 Jeddah     13:45C13:25     F3 J
+OL,9, LH 3617 Dortmund   13:49            1 T
+OL,10,FLH 3651 Bremen Bhf 13:49            1 T
+OL,11, RJ  125 Amman      13:50Cim Anflug G3 J
+OL,12,FLH 3675 G|ttingen  13:52            1  
+OL,13, 4Y  513 Palma      13:55C14:04     G1 A
+OL,14,FTK 1591 Istanbul   13:55C13:41     F1 B
+OL,15, VL  905 London     14:05C14:26     G1 A
+OL,16,FLH 3549 Basel Bad  14:08            1 T
+OL,17, MS  785 Kairo      14:10C13:39     G1 B
+OL,18,FVL  825 Kopenhagen 14:10C14:00     F1 A
+OL,19, LH 3461 N}rnberg   14:19CgestrichenG1  
+OL,20,FAF 1218 Paris      14:20C14:12     F3 J
+OL,21, LH 1475 Sarajevo   14:20C14:25     G1 A
 OL,23,D]G< 560       ohne Gew{hr         567 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -32,28 +32,28 @@ PN,56602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G20:56:00
+OL,0,       BSWR BW C   Do, 26.11.26G13:27:20
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Mi 20:50 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Do 13:20 
 OL,3,T#########"#############################
 OL,4,CAnkunftGvon        Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FTP  574 Lissabon   22:40C22:45     F1 A
-OL,7, DE 4335 London     22:45            1 B
-OL,8,FLH  401 New York   05:15            1 A
-OL,9, 4Y  133 Windhuk    05:20C05:11     G1 C
-OL,10,FLH  423 Boston     05:20            1 A
-OL,11, 4Y  157 Mauritius  05:25C05:06     G1 C
-OL,12,FLH  573 Johannesbg 05:30C05:12     F1 A
-OL,13, LH  585 Kairo      05:30            1 A
-OL,14,FNH  203 Tokio      05:30C05:21     F1 B
-OL,15, LH  577 Kapstadt   05:35C06:16     G1 A
-OL,16,FLH 3601 K|ln Hbf   05:36            1  
-OL,17, CZ 8021 Guangzhou  05:45C05:06     G3 J
-OL,18,FDE 2291 Kapstadt   05:45C05:38     F1 B
-OL,19, ET  706 Addis Abeb 05:45            1 C
-OL,20,FMU  219 Shanghai   05:45C05:32     F3 J
-OL,21, TG  920 Bangkok    05:55C06:31     G1 B
+OL,6,FLH 1189 Z}rich     14:25            1 A
+OL,7, PC  995 Istanbul   14:25C14:52     G3 J
+OL,8,FLH  323 Palermo    14:30C14:29     F1 A
+OL,9, LH 1143 Bilbao     14:30C14:30     G1 A
+OL,10,FLH 1365 Krakau     14:30C14:52     F1 B
+OL,11, LH 1479 Chisinau   14:30C14:53     G1 A
+OL,12,FSK  675 Kopenhagen 14:30            3 J
+OL,13, LH 3519 Dus Hbf    14:39            1 T
+OL,14,FLH  499 Mexico Cit 14:45C14:47     F1 B
+OL,15, LH  979 Dublin     14:45            1 B
+OL,16,FLH 3619 Dortmund   14:49            1 T
+OL,17, LH 3653 Hamburg    14:49            1 T
+OL,18,FLH  185 Berlin     14:50            1 A
+OL,19, LH  273 Mailand    14:55            1 A
+OL,20,FLH  327 Venedig    14:55            1 A
+OL,21, LH  803 Stockholm  14:55            1 A
 OL,23,D]G< 560       ohne Gew{hr         567 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -61,28 +61,28 @@ PN,56603
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G20:56:00
+OL,0,       BSWR BW C   Do, 26.11.26G13:27:20
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Mi 20:50 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Do 13:20 
 OL,3,T#########"#############################
 OL,4,CAnkunftGvon        Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FDE 2549 Bangkok    06:00            1 B
-OL,7, LH  691 Tel Aviv   06:00            1 B
-OL,8,FVN  037 Hanoi      06:00C06:37     F3 J
-OL,9, LH  797 Hong Kong  06:10C06:39     G1 A
-OL,10,FCA  965 Peking     06:15C05:42     F1 C
-OL,11, GF  017 Bahrain    06:15            3 J
-OL,12,FLH  443 Detroit    06:15            1 A
-OL,13, LH  781 Singapur   06:15C06:25     G1 A
-OL,14,FLH  569 Malabo     06:25            1 B
-OL,15, CI  061 Taipeh     06:30C06:20     G3 J
-OL,16,FUA  944 Chicago    06:35            1 A
-OL,17, LH 3501 Siegburg   06:39            1 T
-OL,18,FAC  840 Toronto    06:40            1 B
-OL,19, SQ  026 Singapur   06:40C06:57     G1 B
-OL,20,FLH 3603 K|ln Hbf   06:49            1 T
-OL,21, LH 3605 K|ln Hbf   06:49            1 T
+OL,6,FUA  926 SFrancisco 14:55C14:34     F1 A
+OL,7, LH 3739 Dresden    14:56            1  
+OL,8,FLH  107 M}nchen    15:00            1 A
+OL,9, LH  873 Bergen     15:00C14:55     G1 A
+OL,10,FLH 1081 Strassburg 15:00            1 A
+OL,11, VL  943 Manchester 15:00            1 B
+OL,12,FLA 8070 Sao Paulo  15:05C15:20     F1 B
+OL,13, LH 3427 M}nchen    15:08            1 T
+OL,14,FLH 1217 Genf       15:10            1 A
+OL,15, LH 3487 Aachen Hbf 15:13            1 T
+OL,16,FEN  395 Luxemburg  15:15            1 A
+OL,17, LH  075 D}sseldrf  15:15            1 C
+OL,18,FLH 1101 Valencia   15:15            1 A
+OL,19, LH 3463 N}rnberg   15:19            1 T
+OL,20,FLH  233 Rom        15:25            1 A
+OL,21, OS  211 Wien       15:25            1 A
 OL,23,D]G< 560       ohne Gew{hr         567 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -90,28 +90,28 @@ PN,56604
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G20:56:00
+OL,0,       BSWR BW C   Do, 26.11.26G13:27:20
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Mi 20:40 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Do 13:20 
 OL,3,T#########"#############################
 OL,4,CAnkunftGvon        Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FLH  443 Detroit    06:15            1 A
-OL,7, LH  781 Singapur   06:15C06:25     G1 A
-OL,8,FLH  569 Malabo     06:25            1 B
-OL,9, CI  061 Taipeh     06:30C06:20     G3 J
-OL,10,FUA  944 Chicago    06:35            1 A
-OL,11, LH 3501 Siegburg   06:39            1 T
-OL,12,FAC  840 Toronto    06:40            1 B
-OL,13, SQ  026 Singapur   06:40C06:57     G1 B
-OL,14,FLH 3603 K|ln Hbf   06:49            1 T
-OL,15, LH 3605 K|ln Hbf   06:49            1 T
-OL,16,FQR  069 Doha-Hamad 06:50            3 J
-OL,17, VN  031 Ho Chi Min 06:50C07:08     G3 J
-OL,18,FLH  501 Rio de Jan 06:55C06:43     F1 A
-OL,19, LH 1481 Eriwan     06:55            1 B
-OL,20,F4Y 2107 La Romana  07:00            1 C
-OL,21, CX  289 Hong Kong  07:05C07:49     G3 J
+OL,6,FVL  849 Helsinki   15:25            1 A
+OL,7, EN 1191 Z}rich     15:30            1 A
+OL,8,FKC  921 Astana     15:30C15:47     F3 J
+OL,9, VF  523 Ankara     15:30C15:32     G1 C
+OL,10,FLH  961 Edinburgh  15:35            1 A
+OL,11, SN 2613 Br}ssel    15:35            1 A
+OL,12,FLH 3521 Dus Hbf    15:39CgestrichenF1 T
+OL,13, LH 1047 Paris      15:40            1 A
+OL,14,FLH 1411 Belgrad    15:40            1 B
+OL,15, LH 1427 Sofia      15:40            1 A
+OL,16,FEN  301 Verona     15:45            1 A
+OL,17, LH  329 Venedig    15:45            1 A
+OL,18,FLH  827 Kopenhagen 15:45            1 A
+OL,19, LH 1205 Basel      15:45            1 A
+OL,20,FLH 1375 Wroclaw    15:45            1 B
+OL,21, LH 3621 Dortmund   15:49            1 T
 OL,23,D]G< 560       ohne Gew{hr         567 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -119,28 +119,28 @@ PN,56605
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G20:56:00
+OL,0,       BSWR BW C   Do, 26.11.26G13:27:20
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Mi 20:50 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Do 13:20 
 OL,3,T#########"#############################
 OL,4,CAnkunftGvon        Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FLH  403 Newark     07:20            1 A
-OL,7, AC  844 Montreal   07:25            1 B
-OL,8,FEN  297 Turin      07:25            1 A
-OL,9, LH 1257 Graz       07:25            1 A
-OL,10,FUA  989 Washington 07:25            1 A
-OL,11, LH  431 Chicago    07:30            1 A
-OL,12,FLH  449 St. Louis  07:30            1 A
-OL,13, LH  561 Luanda     07:30            1 B
-OL,14,FLH  893 Riga       07:30            1 A
-OL,15, LH 1391 Poznan     07:30            1 B
-OL,16,FOS  199 Wien       07:30            1 A
-OL,17, EK  043 Dubai      07:35            3 J
-OL,18,FLH  281 Mailand    07:35            1 A
-OL,19, LH 1267 Salzburg   07:35            1 A
-OL,20,FLH 1305 Istanbul   07:35            1 C
-OL,21, LH 1407 Zagreb     07:35            1 A
+OL,6,FLH 3655 Hamburg    15:49            1 T
+OL,7, LH  187 Berlin     15:50            1 A
+OL,8,FLH  955 Birmingham 15:50            1 A
+OL,9, LH  997 Amsterdam  15:50            1 A
+OL,10,FLH 1113 Madrid     15:50            1 B
+OL,11, LH 1263 Salzburg   15:50            1 A
+OL,12,FEN  315 Florenz    15:55            1 A
+OL,13, LH  543 Bogota     15:55C15:57     G1 B
+OL,14,FLO  377 Warschau   15:55            1 A
+OL,15, VF  035 Istanbul   15:55C15:36     G1 B
+OL,16,FEN  251 Mailand    16:00            1 A
+OL,17, LH  045 Hannover   16:00            1 A
+OL,18,FLH  109 M}nchen    16:00            1 A
+OL,19, LH  275 Mailand    16:00            1 B
+OL,20,FLH 1129 Barcelona  16:00            1 A
+OL,21, LH 1253 Graz       16:00            1 A
 OL,23,D]G< 560       ohne Gew{hr         567 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -148,28 +148,28 @@ PN,56606
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G20:56:00
+OL,0,       BSWR BW C   Do, 26.11.26G13:27:20
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Mi 20:50 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Do 13:20 
 OL,3,T#########"#############################
 OL,4,CAnkunftGvon        Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FLH 1423 Bukarest   07:35            1 A
-OL,7, LH 3405 Stuttgart  07:38            1 T
-OL,8,FLH 3505 Dus Hbf    07:39            1 T
-OL,9, EN  399 Luxemburg  07:40            1 B
-OL,10,FLH  031 Hamburg    07:40            1 A
-OL,11, LH  419 Washington 07:40            1 A
-OL,12,FLH  899 Vilnius    07:40            1 A
-OL,13, DX  191 Linz       07:45            1 A
-OL,14,FLH  463 Miami      07:45            1 A
-OL,15, LH 1385 Gdansk     07:45            1 B
-OL,16,FLH 3607 Dortmund   07:49            1 T
-OL,17, DL  014 Atlanta    07:50            3 J
-OL,18,FLH  203 Berlin     07:50            1 A
-OL,19, LH 1209 Basel      07:50            1 A
-OL,20,F4Y  615 Lyon       07:55            1 B
-OL,21, EN  303 Verona     07:55            1 A
+OL,6,FLH 1397 Prag       16:00            1 A
+OL,7, LH  891 Riga       16:05            1 B
+OL,8,FLH  907 London     16:05            1 B
+OL,9, LH 3553 Basel Bad  16:08            1 T
+OL,10,FLH  019 Hamburg    16:10            1 A
+OL,11, LH  861 Oslo       16:10            1 A
+OL,12,FLH 1317 Algier     16:10            1 A
+OL,13, LH 1337 Budapest   16:10            1 A
+OL,14,FLH 1381 Gdansk     16:10            1 B
+OL,15, EN  285 Bologna    16:15            1 A
+OL,16,FEN  293 Turin      16:15            1 A
+OL,17, LH 1141 Sevilla    16:15            1 B
+OL,18,FLH 1175 Porto      16:15            1 A
+OL,19, LH 1417 Bukarest   16:15            1 A
+OL,20,FX3 2139 Fuertevent 16:15C16:11     F3 J
+OL,21, LH 3465 N}rnberg   16:19            1  
 OL,23,D]G< 560       ohne Gew{hr         567 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

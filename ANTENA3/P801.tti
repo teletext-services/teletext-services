@@ -1,29 +1,55 @@
 DE,ANTENA3 801
-PN,80100
-SC,0000
-PS,8288
+PN,80101
+SC,0001
+PS,C280
 CT,15,T
-OL,0,      BANTENA 3 801Cmar 24 nov  15:43:06
-OL,1,M]DANTENA3   Martes, 24 de noviembre    
-OL,3,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,      
-OL,4, 06:00 PAZY: QUE TE RECUERDEN COMO HAS  
-OL,5,       VIVIDO (TELEVENTA)BTP ST         
-OL,6,F06:15 NOTICIAS DE LA MANANA            
-OL,7,      F(INFORMATIVO)BSTF............C101
-OL,8, 08:55 ESPEJO PUBLICO (INFORMATIVO)B+16 
-OL,9,      BST                               
-OL,10,F13:20 COCINA ABIERTA DE KARLOS         
-OL,11,      FARGUINANO (COCINA)BTP ST         
-OL,12, 13:45 LA RULETA DE LA SUERTE (CONCURSO)
-OL,13,      BTP ST                            
-OL,14,F15:00 NOTICIAS (INFORMATIVO)BSTF...C101
-OL,15, 15:30 DEPORTES (INFORMATIVO)BSTG...C817
-OL,16,F15:35 AL DETALLE (INFORMATIVO)B+12 ST  
-OL,17,A15:40 TU TIEMPO CON ROBERTO BRASERO    
-OL,18,      A(INFORMATIVO)BSTA............C330
-OL,19,F15:45 SUENOS DE LIBERTAD (TELENOVELA)  
-OL,20,      B+12 STF......................C819
-OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,G17:00 -> 802  
+OL,0,      BANTENA 3 801Cjue 26 nov  19:45:17
+OL,1,M]DANTENA3   Jueves, 26 de noviembre    
+OL,3,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  G1/2
+OL,5, 06:00 PAZY: QUE TE RECUERDEN COMO HAS  
+OL,6,       VIVIDO (TELEVENTA)BTP ST         
+OL,7,F06:15 NOTICIAS DE LA MANANA            
+OL,8,      F(INFORMATIVO)BSTF............C101
+OL,9, 08:55 ESPEJO PUBLICO (INFORMATIVO)B+16 
+OL,10,      BST                               
+OL,11,F13:20 COCINA ABIERTA DE KARLOS         
+OL,12,      FARGUINANO (COCINA)BTP ST         
+OL,13, 13:45 LA RULETA DE LA SUERTE (CONCURSO)
+OL,14,      BTP ST                            
+OL,15,F15:00 NOTICIAS (INFORMATIVO)BSTF...C101
+OL,16, 15:30 DEPORTES (INFORMATIVO)BSTG...C130
+OL,17,F15:35 AL DETALLE (INFORMATIVO)B+12 ST  
+OL,18, 15:40 TU TIEMPO CON ROBERTO BRASERO    
+OL,19,       (INFORMATIVO)BSTG............C330
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,G15:45 -> 801/2
+OL,22,T
+OL,23,T
+OL,24,AMANANABSUBTI HOYCPROGRAMACIONFQUE PONEN
+FL,803,886,800,896,0,100
+PN,80102
+SC,0002
+PS,C280
+CT,15,T
+OL,0,      BANTENA 3 801Cjue 26 nov  19:45:17
+OL,1,M]DANTENA3   Jueves, 26 de noviembre    
+OL,3,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  G2/2
+OL,4, 15:45 SUENOS DE LIBERTAD (TELENOVELA)  
+OL,5,      B+12 ST                           
+OL,6,A17:00 Y AHORA SONSOLES (MAGAZINE)B+16  
+OL,7,      BSTA..........................C813
+OL,8, 20:00 PASAPALABRA (CONCURSO)BTP ST     
+OL,9,       El concurso de mayor \xito de la 
+OL,10,       televisi^n, encabezado por       
+OL,11,       Roberto Leal. Los concursantes   
+OL,12,       deber[n intentar conseguir los   
+OL,13,       m[ximos segundos posibles en las 
+OL,14,       diferentes pruebas del programa, 
+OL,15,       escudados por invitados de       
+OL,16,       lujo. .......................C819
+OL,17,F21:00 NOTICIAS (INFORMATIVO)BSTF...C101
+OL,18, 21:35 ESPECIAL INFORMATIVO PREVIO      
+OL,19,       DEBATE A CUATROBST               
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,,G22:00 -> 802  
 OL,22,T
 OL,23,T
 OL,24,AMANANABSUBTI HOYCPROGRAMACIONFQUE PONEN

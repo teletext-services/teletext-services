@@ -3,29 +3,29 @@ PN,88201
 SC,0001
 PS,C200
 CT,8,T
-OL,0,       G882  SRF info  25.11.26 20:26:52
-OL,1,D]GPC-Date 25/11/2026  GDOG4 AT 20:25:39
+OL,0,       G882  SRF info  26.11.26 21:54:32
+OL,1,D]GPC-Date 26/11/2026  GDOG4 AT 21:53:15
 OL,2,G]                                      
 OL,3,G]                                      
 OL,4,G]                                      
-OL,5,F]D20:05 SRDRS              D20:24 TICKX
-OL,6,G]D20:24 TVSF1 D20:16 TVSFi D20:22 WDPRO
-OL,7,G]D20:14 TVSF2                          
+OL,5,F]D21:05 SRDRS              D21:52 TICKX
+OL,6,G]D21:52 TVSF1 D21:52 TVSFi D21:52 WDPRO
+OL,7,G]D21:33 TVSF2                          
 OL,8,F]                                      
 OL,9,G]                                      
 OL,10,G]              0                       
-OL,11,F]F25/19 WISPDGF25/19 WISPFGF25/19 WISPI
+OL,11,F]F26/19 WISPDGF26/19 WISPFGF26/19 WISPI
 OL,12,G]                                      
 OL,13,G]                          D18.00 METSF
 OL,14,F]                                      
 OL,15,G]                                      
 OL,16,G]             D18:00 METSIG            
-OL,17,F]             D25SR1D25SR2GD25SI1D25SI2
-OL,18,G]             G  !0  AGTICGD20:25 PRZCH
+OL,17,F]             D26SR1D26SR2GD26SI1D26SI2
+OL,18,G]             G  !0  AGTICGD21:50 PRZCH
 OL,19,G]             G22!07GSECO2             
 OL,20,F] 0            0                       
 OL,21,G]                                      
-OL,22,G]DFOOT-DHOCK-G                   DASRC1
+OL,22,G]DFOOT-DHOCK+G                   DASRC1
 OL,23,F]                                      
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100
@@ -33,29 +33,29 @@ PN,88202
 SC,0002
 PS,C200
 CT,8,T
-OL,0,       G882  SRF info  25.11.26 20:26:52
-OL,1,D]GSTXTS0 D]GF25.11. 20:00 /G   20:25:29
+OL,0,       G882  SRF info  26.11.26 21:54:32
+OL,1,D]GSTXTS0 D]GF26.11. 21:00 /G   21:53:07
 OL,2,D]GDSK Us/Te IntmLk PLnk1 Plnk2 Dog Time
-OL,3,C1G424G 3/ 3GOKG   G 0000G 0000G 0G20:25
-OL,4,C2G265G 0/ 0GOKG   G    0G    0G 0G20:24
+OL,3,C1G424G 4/ 4GOKG   G 0000G 0000G 0G21:52
+OL,4,C2G265G 0/ 0GOKG   G    0G    0G 0G21:52
 OL,5,CDG584G  /  GOKG OKG     G     F 1F07:08
 OL,6,D]GDK0 Que  Max SQue Sts PmemST DogGADMN
-OL,7,Z1E   G   0G  11G  0G   G      F  F     
+OL,7,Z1E   G   0G   1G  0G   G      F  F     
 OL,8,Z2E   G    G    G   E   G      F  F     
-OL,9,G1E   G   0G   4G  0G   G      F  F     
+OL,9,G1E   G   0G   2G  0G   G      F  F     
 OL,10,G2E   G    G    G   E   G      F  F     
-OL,11,L1E   G   0G   4G  0G   G      F  F     
+OL,11,L1E   G   0G   3G  0G   G      F  F     
 OL,12,L2E   G    G    G   E   G      F  F     
 OL,13,P1E   G    G   0G   G   G      F  F     
 OL,14,P2E   G    G    G   E   G      F  F     
 OL,15,TxE   G    G   0G   GA  G      F  F     
 OL,16,ZoE   G    G   0G   GA  G      F  F     
 OL,17,D]G    Que  Max SQue Sts PmemST    GASRC
-OL,18,41G       0G   2G  0G   G      G  G     
-OL,19,42G       0G   1G  0G   G      G  G     
+OL,18,41G       0G   1G  0G   G      G  G     
+OL,19,42G       0G  56G  0G   G      G  G     
 OL,20,  G        G    G   G   G      G  G     
 OL,21,  G        G    G   G   G      G  G     
-OL,22,D]G 107Xheld G"coX60 99.98 to 60 9G07:00
+OL,22,D]G 157Xheld G"coX60 99.98 to 60 9G07:00
 OL,23,D]G                                     
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

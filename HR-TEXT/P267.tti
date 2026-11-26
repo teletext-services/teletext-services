@@ -3,20 +3,21 @@ PN,26701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F16:33:36
+OL,0,           Fhr-textGDo 26.11.26F05:28:11
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A           KOL Frankfurt 
 OL,3,Q#######################################
 OL,4,BSonntag, 29. November         13.00 Uhr
 OL,5, Bornheim/GW II  - Un. Niederrad...  -:-
-OL,6,B                              15.00 Uhr
+OL,6,B                              14.00 Uhr
 OL,7, SG Westend Ffm  - BSC SW Ffm......  -:-
-OL,8, FC Gudesding    - TuS Makkabi.....  -:-
-OL,9, SV Heddernheim  - Germ.Enkheim....  -:-
-OL,10, SG Harheim      - FC R|delheim....  -:-
-OL,11, C.Eschersheim   - Nieder-Eschbach.  -:-
-OL,12,B                              15.30 Uhr
-OL,13, Blau-Gelb Ffm   - SV Bonames......  -:-
+OL,8,B                              15.00 Uhr
+OL,9, FC Gudesding    - TuS Makkabi.....  -:-
+OL,10, SV Heddernheim  - Germ.Enkheim....  -:-
+OL,11, SG Harheim      - FC R|delheim....  -:-
+OL,12, C.Eschersheim   - Nieder-Eschbach.  -:-
+OL,13,B                              15.30 Uhr
+OL,14, Blau-Gelb Ffm   - SV Bonames......  -:-
 OL,23,G]AKOL Wiesb. 268            Tabelle -> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
@@ -24,7 +25,7 @@ PN,26702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F16:33:36
+OL,0,           Fhr-textGDo 26.11.26F05:28:11
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A           KOL Frankfurt 
 OL,3,Q#######################################
@@ -53,7 +54,7 @@ PN,26703
 SC,0003
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F16:33:36
+OL,0,           Fhr-textGDo 26.11.26F05:28:11
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A           KOL Offenbach 
 OL,3,Q#######################################
@@ -73,7 +74,7 @@ PN,26704
 SC,0004
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F16:33:36
+OL,0,           Fhr-textGDo 26.11.26F05:28:11
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A           KOL Offenbach 
 OL,3,Q#######################################
@@ -100,12 +101,12 @@ PN,26705
 SC,0005
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F16:33:36
+OL,0,           Fhr-textGDo 26.11.26F05:28:11
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A               KOL Hanau 
 OL,3,Q#######################################
-OL,4,BMittwoch, 25. November        20.00 Uhr
-OL,5, Bischofsheim    - Kilianst{dten...  -:-
+OL,4,BMittwoch, 25. November                 
+OL,5, Bischofsheim    - Kilianst{dten...  0:1
 OL,6,B                              20.30 Uhr
 OL,7, Spvgg.Ro~dorf   - Safakspor Hanau.  -:-
 OL,9,BSamstag, 28. November         16.30 Uhr
@@ -127,17 +128,17 @@ PN,26706
 SC,0006
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F16:33:36
+OL,0,           Fhr-textGDo 26.11.26F05:28:11
 OL,1,Qppppppppppppppppppppppppppppppppppppppp
 OL,2,A]GFUSSBALLG] A               KOL Hanau 
 OL,3,Q#######################################
 OL,4,B 1.FC Hochstadt.... 18 11 5  2 42:31 38
 OL,5,C 2.Langenselbold... 18 10 7  1 54:24 37
-OL,6,  3.G.Niederrodenb.. 18 11 2  5 42:32 35
-OL,7,  4.KSV Eichen...... 18 10 4  4 54:32 33
-OL,8,  5.Kilianst{dten... 17  9 6  2 41:21 33
+OL,6,  3.Kilianst{dten... 18 10 6  2 42:21 36
+OL,7,  4.G.Niederrodenb.. 18 11 2  5 42:32 35
+OL,8,  5.KSV Eichen...... 18 10 4  4 54:32 33
 OL,9,  6.Safakspor Hanau. 16 10 3  3 55:23 32
-OL,10,  7.FSV Bischofsheim 17  8 6  3 41:18 30
+OL,10,  7.FSV Bischofsheim 18  8 6  4 41:19 30
 OL,11,  8.Sportf.Ostheim.. 18  8 3  7 42:40 26
 OL,12,  9.Oberdorfelden... 18  5 7  6 33:36 22
 OL,13, 10.FSV Neuberg..... 18  6 4  8 25:40 22

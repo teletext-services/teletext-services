@@ -1,17 +1,38 @@
 DE,RTS2 717
-PN,71700
-SC,0000
-PS,8088
-CT,15,T
-OL,0,       G717  RTS 2     25.11.26 19:41:20
-OL,1,D]GRTS 1     ]D@Le sport @ la RTS       
+PN,71701
+SC,0001
+PS,C080
+CT,8,T
+OL,0,       G717  RTS 2     26.11.26 17:30:12
+OL,1,D]GRTS 1     ]D@Le sport @ la RTS   1/2 
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
-OL,5,Cmercredi 25 novembre                   
-OL,6,ARTS2C20:10GFootball                    
-OL,7,           GUEFA Champions League       
-OL,8,           GInter Milan - VfB Stuttgart 
-OL,9,           GEn direct de Milan (ITA)    
-OL,11,ARTS2C23:36GZap RTS Sport               
+OL,5,Cjeudi 26 novembre                      
+OL,6,ARTS2C16:10GBiathlon                    
+OL,7,           GCoupe du monde              
+OL,8,           G20km individuel Messieurs   
+OL,9,           GEn direct de Kontiolahti    
+OL,10,           G(FIN)                       
+OL,12,ARTS2C17:50GBasketball                  
+OL,13,           GFIBA Eurobasket 2029 Pre-   
+OL,14,           GQualifiers                  
+OL,15,           GSlovaquie - Suisse          
+OL,16,           GEn direct de Bratislava     
+OL,17,           G(SVK)                       
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,71702
+SC,0002
+PS,C080
+CT,8,T
+OL,0,       G717  RTS 2     26.11.26 17:30:12
+OL,1,D]GRTS 1     ]D@Le sport @ la RTS   2/2 
+OL,2,A]GRTS 2     ] @                        
+OL,3,G]           ]A                         
+OL,5,ARTS2C18:35GFootball                    
+OL,6,           GUEFA Conf#rence League      
+OL,7,           GAjax Amsterdam - FC Thoune  
+OL,8,           GEn direct d'Amsterdam (NED) 
+OL,10,ARTS2C22:30GZap RTS Sport               
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

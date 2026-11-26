@@ -1,21 +1,45 @@
 DE,SWR-BW 502
-PN,50200
-SC,0000
-PS,8208
+PN,50201
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Mi, 25.11.26G20:53:40
+OL,0,       BSWR BW C   Do, 26.11.26G11:45:29
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
 OL,4,            Gefahrenmeldungen           
-OL,6,CA8FStuttgart Richtung M}nchen          
-OL,7, zwischen Wendlingen und Rastplatz Im   
-OL,8, R}bholz Gefahr durch Gegenst{nde auf   
-OL,9, dem mittleren Fahrstreifen             
-OL,11,CB9FLudwigshafen Richtung W|rth         
-OL,12, in H|he Schwegenheim-Tankhof Gefahr    
-OL,13, durch defekten LKW auf dem rechten     
-OL,14, Fahrstreifen                           
-OL,23,D]GStand:25.11. 20:51   ]bersicht 501 >>
+OL,6,CA6FHeilbronn Richtung Mannheim         
+OL,7, zwischen Sinsheim und                  
+OL,8, Wiesloch/Rauenberg Gefahr durch        
+OL,9, ungesicherte Unfallstelle auf dem      
+OL,10, Standstreifen                          
+OL,12,CA661FBad Homburg Richtung Darmstadt    
+OL,13, zwischen Oberursel und Neu-Isenburg    
+OL,14, Gefahr durch Gegenst{nde (ein Reifen)  
+OL,15, auf der Fahrbahn                       
+OL,17,CA8FM}nchen Richtung Stuttgart          
+OL,18, zwischen Zusmarshausen und Burgau      
+OL,19, Gefahr durch defekten LKW,             
+OL,20, Standstreifen blockiert                
+OL,23,D]GStand:26.11. 11:42   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50202
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR BW C   Do, 26.11.26G11:45:29
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,            Gefahrenmeldungen           
+OL,6,CA8FM}nchen Richtung Stuttgart          
+OL,7, in H|he Esslingen Gefahr durch         
+OL,8, defektes Fahrzeug auf dem Standstreifen
+OL,10,CB455FK|nigstein Richtung Mainz-Kastel  
+OL,11, zwischen A66, Wiesbaden-Erbenheim und  
+OL,12, A671, Mainz-Kastel Gefahr durch        
+OL,13, Gegenst{nde auf allen Fahrstreifen     
+OL,23,D]GStand:26.11. 11:42   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

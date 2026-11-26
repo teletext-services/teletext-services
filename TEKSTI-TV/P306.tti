@@ -1,23 +1,53 @@
 DE,TEKSTI-TV 306
-PN,30600
-SC,0000
-PS,8108
+PN,30601
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       G306 YLE TEKSTI-TV 25.03.21:47:03
-OL,1,C]         D]                   F   1/1 
-OL,2,C]DAva     D]F    Keskiviikko 25.11.    
+OL,0,       G306 YLE TEKSTI-TV 26.03.06:30:56
+OL,1,C]         D]                   F   1/2 
+OL,2,C]DAva     D]F    Torstai 26.11.        
 OL,3,S#########^T############################
-OL,4,G21.30GKoko Suomi leipoo                
-OL,5,G22.25GMasked Singer Suomi              
-OL,6,G23.55GSiskoni on noita                 
-OL,7,G00.45GSullivan's Crossing              
-OL,8,G01.30GBachelor Suomi                   
-OL,9,G02.15GDaydreamer                       
-OL,10,G03.00GIholla                           
-OL,11,G03.25GUnelma-asunto auringon alta      
-OL,12,G04.10GMTV Uutiset Live                 
-OL,13,K                                       
-OL,14,K                                       
+OL,4,G06.00GMTV Uutiset Live                 
+OL,5,G06.45GIholla                           
+OL,6,G07.05GSalatut el{m{t                   
+OL,7,G07.30GSalatut el{m{t                   
+OL,8,G08.00GDaydreamer                       
+OL,9,G08.55GUnelma-asunto auringon alta      
+OL,10,G10.00GEmmerdale                        
+OL,11,G10.25GThe Harlins                      
+OL,12,G10.50GKotoisa                          
+OL,13,G11.40GKuokkavieras Kataja              
+OL,14,G12.25GKuokkavieras Kataja              
+OL,15,G13.15GBachelor Suomi                   
+OL,16,G14.05GUnelma-asunto auringon alta      
+OL,17,G15.00GMurhaklubi ratkaisee             
+OL,18,G15.55GMurhaklubi ratkaisee             
+OL,19,G17.00GGrand Designs Suomi              
+OL,20,G18.00GKoko Suomi leipoo                
+OL,21,G19.00GUnelma-asunto auringon alta      
+OL,22,G20.00GThe Way Home                     
+OL,23,C]    DTV-ohjelmien hakemisto s.D300    
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,30602
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       G306 YLE TEKSTI-TV 26.03.06:30:56
+OL,1,C]         D]                   F   2/2 
+OL,2,C]DAva     D]F    Torstai 26.11.        
+OL,3,S#########^T############################
+OL,4,G21.00GSuurmestari: Comeback            
+OL,5,G21.55GSuomalainen menestysresepti      
+OL,6,G22.50GRakkaat Maajussit                
+OL,7,G23.20GSiskoni on noita                 
+OL,8,G00.15GSullivan's Crossing              
+OL,9,G01.00GKoko Britannia leipoo:           
+OL,10,G     Gjouluerikoinen                   
+OL,11,G02.05GIholla                           
+OL,12,G02.25GDaydreamer                       
+OL,13,G03.15GUnelma-asunto auringon alta      
+OL,14,G04.00GMTV Uutiset Live                 
 OL,15,K                                       
 OL,16,K                                       
 OL,17,K                                       

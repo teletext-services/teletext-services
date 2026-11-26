@@ -3,20 +3,20 @@ PN,60201
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       GDR   S602  ons 25 nov   12:10:06
+OL,0,       GDR   S602  tor 26 nov   12:15:59
 OL,1,T################]GSENDER P] FM   
-OL,2,D]GP2  \ONSDAG 25.NOV D]GKL.18-06 SEC638
+OL,2,D]GP2  \TORSDAG 26.NOVD]GKL.18-06 SEC638
 OL,3,T#######################################
-OL,4,    F12:00GRadioavisenA>                
-OL,5,    F12:15GSiesta - DramaA>             
+OL,4,    F05:00GRadioavisenA>                
+OL,5,    F05:03GP2 Klassisk                  
 OL,6,    F     G                             
-OL,7,C618F13:03GFrokostkoncertenA>           
-OL,8,    F     GMozart i morke og lys        
+OL,7,    F06:05GKlassisk morgenA>            
+OL,8,C617F08:05GMorgenandagtenA>             
 OL,9,    F     G                             
-OL,10,    F14:03GKlassisk MixA>               
-OL,11,    F16:05GDagen og MusikkenA>          
+OL,10,    F08:30GHej P2: Musikkens svar       
+OL,11,    F     Gp} varm kakaoA>              
 OL,12,    F     G                             
-OL,13,C619F18:05GPulsA>                       
+OL,13,    F11:03GVarket: Schrekers SymfoniA>  
 OL,14,    F     G                             
 OL,15,    F     G                             
 OL,16,    F     G                             
@@ -26,29 +26,29 @@ OL,19,    F     G
 OL,20,    F     G                             
 OL,21,    F     G                             
 OL,22,    F     G                             
-OL,23, ]A600@RADIO     P5A639@NETRADIO    1/2 
+OL,23, ]A600@RADIO     P5A639@NETRADIO    1/3 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100
 PN,60202
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       GDR   S602  ons 25 nov   12:10:35
+OL,0,       GDR   S602  tor 26 nov   12:15:29
 OL,1,T################]GSENDER P] FM   
-OL,2,D]GP2  \ONSDAG 25.NOV D]GKL.18-06 SEC638
+OL,2,D]GP2  \TORSDAG 26.NOVD]GKL.18-06 SEC638
 OL,3,T#######################################
-OL,4,    F19:00GNyt fra hyldenA>             
-OL,5,    F     G                             
-OL,6,C620F19:20GP2 Koncerten: Den Danske     
-OL,7,    F     GStrygekvartet i Tjekkiet     
-OL,8,    F     G                             
-OL,9,    F22:00GNatsvarmerenA>               
-OL,10,    F     GVild, Vidunderlig            
-OL,11,    F     G                             
-OL,12,    F00:03GP2 Klassisk                  
-OL,13,    F01:03GKlassisk MixA>               
-OL,14,    F     G                             
-OL,15,    F03:03GNatsvarmerenA>               
+OL,4,C620F19:20GP2 Koncerten:                
+OL,5,    F     GGalla med Wiener             
+OL,6,    F     GFilharmonikerne i Japan      
+OL,7,    F     G                             
+OL,8,    F22:00GNatsvarmerenA>               
+OL,9,    F     GIntim intensitet             
+OL,10,    F     G                             
+OL,11,    F00:03GP2 Klassisk                  
+OL,12,    F01:03GKlassisk MixA>               
+OL,13,    F     G                             
+OL,14,    F03:03GNatsvarmeren: BerusetA>      
+OL,15,    F     G                             
 OL,16,    F     G                             
 OL,17,    F     G                             
 OL,18,    F     G                             
@@ -56,6 +56,6 @@ OL,19,    F     G
 OL,20,    F     G                             
 OL,21,    F     G                             
 OL,22,    F     G                             
-OL,23, ]A600@RADIO     P5A639@NETRADIO    2/2 
+OL,23, ]A600@RADIO     P5A639@NETRADIO    3/3 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100

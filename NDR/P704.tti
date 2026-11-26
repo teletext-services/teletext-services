@@ -1,25 +1,46 @@
 DE,NDR 704
-PN,70400
-SC,0000
-PS,8208
+PN,70401
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G704FNDR TEXT GMi 25.11.B17:40:47
+OL,0,       G704FNDR TEXT GDo 26.11.B17:08:47
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
-OL,4,F]T  %D     Bundesstra~en    Stand 16:55
-OL,5, B437 Rodenkirchen Richtung Stotel      
-OL,6, zwischen Dedesdorf und der A27, Stotel 
-OL,7, 3 km Stau vor der Baustelle            
-OL,9,FB443 Sehnde Richtung Pattensen zwischen
-OL,10,FMesseschnellweg und Koldingen 4 km Stau
-OL,12, Hamburg: B73 Cuxhavener Stra~e,        
-OL,13, stadtausw{rts zwischen Waltershofer    
-OL,14, Stra~e und Rehrstieg stockender Verkehr
-OL,16,FBremen: die B6 Neuenlander Stra~e ist  
-OL,17,Fin H|he Kattenturmer Heerstra~e wegen  
-OL,18,FBauarbeiten bis Anfang M{rz in beiden  
-OL,19,FRichtungen gesperrt.                   
+OL,4,F]T  %D     Bundesstra~en    Stand 17:00
+OL,5, Die B248, B243 Braunschweig - Northeim 
+OL,6, ist in Seesen in H|he des Abzweiges zur
+OL,7, B248 wegen Bauarbeiten bis zum 11.     
+OL,8, Dezember in beiden Richtungen gesperrt.
+OL,10,FB437 Rodenkirchen Richtung Stotel      
+OL,11,Fzwischen Wesertunnel und der A27,      
+OL,12,FStotel 4 km Stau im Baustellenbereich  
+OL,14, B443 Sehnde Richtung Pattensen zwischen
+OL,15, Rethen und Koldingen 3 km Stau         
+OL,17,FB3, Hannover: B6 S}dschnellweg bis     
+OL,18,FFrankfurter Allee stadtausw{rts        
+OL,19,Fzwischen Seelhorster Kreuz und         
+OL,20,FKreisverkehr Landwehrkreisel 3 km Stau 
+OL,21,Fim Baustellenbereich                   
 OL,23,A]G701<               NIEDERSACHSEN >705
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,70402
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G704FNDR TEXT GDo 26.11.B17:08:47
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
+OL,4,F]T  %D     Bundesstra~en    Stand 17:00
+OL,5, Bremen: die B6 Neuenlander Stra~e ist  
+OL,6, in H|he Kattenturmer Heerstra~e im     
+OL,7, Tunnel wegen Bauarbeiten bis Anfang    
+OL,8, M{rz in beiden Richtungen gesperrt. Die
+OL,9, Kreuzung Neuenlander                   
+OL,10, Stra~e/Kattenturmer Heerstra~e ist     
+OL,11, weiterhin befahrbar                    
+OL,23,A]G701<               NIEDERSACHSEN >705
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

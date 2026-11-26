@@ -3,29 +3,29 @@ PN,76401
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G764CORF SPORT+G25.11.26 18:49:53
+OL,0,       G764CORF SPORT+G26.11.26 18:45:04
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A     EL-Ligaphase, 5.Runde \
-OL,3,Q#########G                        1/3  
-OL,4,CDonnerstag                             
-OL,5,CSalzburg     G- A.A.Jerewan  G18.45h   
-OL,6,GOlympiakos    - Milan        G18.45h   
-OL,7,GCelta         - Bournemouth  G18.45h   
-OL,8,GSt-Gilloise   - Poznan       G18.45h   
-OL,9,GPilsen        - Benfica      G18.45h   
-OL,10,GD.Zagreb      - Leverkusen   G18.45h   
-OL,11,GMarseille     - Lewski Sofia G18.45h   
-OL,12,GBesiktas      - Beer Sheva   G18.45h   
-OL,13,GHoffenheim    -CSturm        G21.00h   
-OL,14,GNijmegen      - Rennes       G21.00h   
-OL,15,GC.Palace      - R.Sociedad   G21.00h   
-OL,16,GOFI Kreta     - Anderlecht   G21.00h   
-OL,17,GFerencvaros   - Celje        G21.00h   
-OL,18,GSparta Prag   - Alkmaar      G21.00h   
-OL,19,GJuventus      - O.Nikosia    G21.00h   
-OL,20,GSunderland    - Jagiellonia  G21.00h   
-OL,21,GTorreense     - Celtic       G21.00h   
-OL,22,GLyon          - Lillestr|m   G21.00h   
+OL,3,Q#########G                        1/4  
+OL,4,CDonnerstag, 18.45h                     
+OL,5,CSalzburg     F- A.A.Jerewan  F-:- (-:-)
+OL,6,FOlympiakos    - Milan        F-:- (-:-)
+OL,7,FCelta         - Bournemouth  F-:- (-:-)
+OL,8,FSt-Gilloise   - Poznan       F-:- (-:-)
+OL,9,FPilsen        - Benfica      F-:- (-:-)
+OL,10,FD.Zagreb      - Leverkusen   F-:- (-:-)
+OL,11,FMarseille     - Lewski Sofia F-:- (-:-)
+OL,12,FBesiktas      - Beer Sheva   F-:- (-:-)
+OL,13,C21.00h                                 
+OL,14,FHoffenheim    -CSturm        F-:- (-:-)
+OL,15,FNijmegen      - Rennes       F-:- (-:-)
+OL,16,FC.Palace      - R.Sociedad   F-:- (-:-)
+OL,17,FOFI Kreta     - Anderlecht   F-:- (-:-)
+OL,18,FFerencvaros   - Celje        F-:- (-:-)
+OL,19,FSparta Prag   - Alkmaar      F-:- (-:-)
+OL,20,FJuventus      - O.Nikosia    F-:- (-:-)
+OL,21,FSunderland    - Jagiellonia  F-:- (-:-)
+OL,22,FTorreense     - Celtic       F-:- (-:-)
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -33,10 +33,23 @@ PN,76402
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G764CORF SPORT+G25.11.26 18:49:53
+OL,0,       G764CORF SPORT+G26.11.26 18:45:04
+OL,1,A]G                             Fu~ball 
+OL,2,A]GSPORT  ]A     EL-Ligaphase, 5.Runde \
+OL,3,Q#########G                        2/4  
+OL,4,CDonnerstag, 21.00h                     
+OL,5,FLyon          - Lillestr|m   F-:- (-:-)
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht  BSport   CFernsehen  FWetter
+FL,100,200,300,600,0,100
+PN,76403
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       G764CORF SPORT+G26.11.26 18:45:04
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A             AEL-Ligaphase \
-OL,3,Q#########G                        2/3  
+OL,3,Q#########G                        3/4  
 OL,4,F 1 Benfica Liss.    4  4  0  0 13:3  12
 OL,5,F 2 Bournemouth AFC  4  4  0  0 11:2  12
 OL,6,F 3 Ferencvaros B.   4  4  0  0 11:3  12
@@ -59,14 +72,14 @@ OL,22,G19 Uniao Torreense  4  2  0  2  7:9   6
 OL,23,Q,,,F1-8: AchtelfinaleQ,F9-24: Play-off 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
-PN,76403
-SC,0003
+PN,76404
+SC,0004
 PS,C200
 CT,15,T
-OL,0,       G764CORF SPORT+G25.11.26 18:49:53
+OL,0,       G764CORF SPORT+G26.11.26 18:45:04
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A             AEL-Ligaphase \
-OL,3,Q#########G                        3/3  
+OL,3,Q#########G                        4/4  
 OL,4,G20 Real Sociedad    4  1  2  1  9:4   5
 OL,5,G21 Crystal Palace   4  1  2  1  9:6   5
 OL,6,G22 Sparta Prag      4  1  1  2  6:6   4

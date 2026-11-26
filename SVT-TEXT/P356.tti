@@ -3,29 +3,29 @@ PN,35601
 SC,0001
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 356  Ons 25 novC00:07:33
+OL,0,      GSVT Text 356  Tor 26 novC00:07:35
 OL,1,D]GHANDBOLL Allsvenskan, herrar         
-OL,2,C19/11FH43 Lund   - Varberg    33-28    
-OL,3,C21/11FIFK Ystad  - Drott      40-34    
-OL,4,      FTorslanda  - V{ster}sIr 36-32    
-OL,5,      FKung{lv    - Tyres|     34-37    
-OL,6,C22/11FH43 Lund   - Guif       27-31    
-OL,7,      FAran{s     - Huddinge   46-32    
-OL,8,C23/11FKroppskult - Varberg    29-33    
-OL,9,C25/11GTorslanda  - Redbergsli          
-OL,10,      GTumba      - V{ster}sIr          
-OL,11,C28/11GGuif       - IFK Ystad           
-OL,12,      GV{ster}sIr - Aran{s              
-OL,13,      GTyres|     - Varberg             
-OL,14,      GRedbergsli - H43 Lund            
-OL,15,C29/11GDrott      - Kung{lv             
-OL,16,      GKroppskult - Tumba               
-OL,17,      GHuddinge   - Torslanda           
-OL,18,C30/11GTyres|     - IFK Ystad           
-OL,19,C2/12 GVarberg    - Huddinge            
-OL,20,C3/12 GTorslanda  - Drott               
-OL,21,C5/12 GKung{lv    - Kroppskult          
-OL,22,C6/12 GAran{s     - Guif                
+OL,2,C21/11FTorslanda  - V{ster}sIr 36-32    
+OL,3,      FKung{lv    - Tyres|     34-37    
+OL,4,C22/11FH43 Lund   - Guif       27-31    
+OL,5,      FAran{s     - Huddinge   46-32    
+OL,6,C23/11FKroppskult - Varberg    29-33    
+OL,7,C25/11FTorslanda  - Redbergsli 25-27    
+OL,8,      FTumba      - V{ster}sIr 34-25    
+OL,9,C28/11GGuif       - IFK Ystad           
+OL,10,      GV{ster}sIr - Aran{s              
+OL,11,      GTyres|     - Varberg             
+OL,12,      GRedbergsli - H43 Lund            
+OL,13,C29/11GDrott      - Kung{lv             
+OL,14,      GKroppskult - Tumba               
+OL,15,      GHuddinge   - Torslanda           
+OL,16,C30/11GTyres|     - IFK Ystad           
+OL,17,C2/12 GVarberg    - Huddinge            
+OL,18,C3/12 GTorslanda  - Drott               
+OL,19,C5/12 GKung{lv    - Kroppskult          
+OL,20,C6/12 GAran{s     - Guif                
+OL,21,      GH43 Lund   - V{ster}sIr          
+OL,22,      GTumba      - Redbergsli          
 OL,23,D]G          Tabell f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/4)
 FL,100,300,400,700,0,100
@@ -33,19 +33,19 @@ PN,35602
 SC,0002
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 356  Ons 25 novC00:07:33
+OL,0,      GSVT Text 356  Tor 26 novC00:07:35
 OL,1,D]GHANDBOLL Allsvenskan, herrar         
 OL,3, B1 Guif        10  9  1  0  320-260  19
 OL,4, C2 IFK Ystad   10  7  1  2  310-262  15
 OL,5, C3 H43 Lund    10  7  1  2  305-290  15
-OL,6, C4 Tyres|      10  5  0  5  306-305  10
-OL,7, G5 Varberg     10  4  2  4  304-306  10
-OL,8, G6 Torslanda    9  4  1  4  298-289   9
-OL,9, G7 Aran{s       9  4  1  4  294-293   9
-OL,10, G8 Redbergslid  9  4  1  4  248-259   9
-OL,11, G9 Tumba        9  3  2  4  292-291   8
-OL,12,G10 V{ster}sIrs  9  4  0  5  279-287   8
-OL,13,C11 Kroppskultu 10  3  2  5  272-287   8
+OL,6, C4 Redbergslid 10  5  1  4  275-284  11
+OL,7, G5 Tumba       10  4  2  4  326-316  10
+OL,8, G6 Tyres|      10  5  0  5  306-305  10
+OL,9, G7 Varberg     10  4  2  4  304-306  10
+OL,10, G8 Torslanda   10  4  1  5  323-316   9
+OL,11, G9 Aran{s       9  4  1  4  294-293   9
+OL,12,G10 Kroppskultu 10  3  2  5  272-287   8
+OL,13,C11 V{ster}sIrs 10  4  0  6  304-321   8
 OL,14,C12 Kung{lv      9  3  1  5  269-282   7
 OL,15,F13 Drott       10  3  1  6  284-299   7
 OL,16,F14 Huddinge    10  0  0 10  266-337   0
@@ -56,7 +56,7 @@ PN,35603
 SC,0003
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 356  Ons 25 novC00:07:33
+OL,0,      GSVT Text 356  Tor 26 novC00:07:35
 OL,1,D]GHANDBOLL Bundesliga, herrar          
 OL,3,C20/11FHannover   - Stuttgart  34-34    
 OL,4,      FErlangen   - Balingen-W 28-34    
@@ -82,7 +82,7 @@ PN,35604
 SC,0004
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 356  Ons 25 novC00:07:33
+OL,0,      GSVT Text 356  Tor 26 novC00:07:35
 OL,1,D]GHANDBOLL Bundesliga, herrar          
 OL,3, B1 Magdeburg   13 12  0  1  433-368  24
 OL,4, G2 Kiel        14 11  1  2  434-386  23

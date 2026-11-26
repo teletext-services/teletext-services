@@ -3,28 +3,28 @@ PN,58201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G21:23:06
+OL,0,       BSWR RLPC   Do, 26.11.26G13:53:26
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN K\LN/BONN P5      
 OL,3,T#########"######################"######
-OL,4,                 STANDC21:17            
+OL,4,                 STANDC13:47            
 OL,5, Plan  Flug    Von          Erw.  Bemerk
 OL,6, ---------------------------------------
-OL,7, 20.25 FR 9325 Porto        20.16 Geland
-OL,8,F21.15 EW  767 Zuerich            T2 - D
-OL,9, 21.40 EW  269 Las Palmas         T1 - C
-OL,10,F21.45 EW  757 Wien               T1 - C
-OL,11, 21.50 EW  085 Muenchen           T1 - C
-OL,12,F22.00 FR 2814 Stansted           T2 - D
-OL,13, 22.10 EW  475 London-Gatw.       T2 - D
-OL,14,F22.15 W6 4781 Skopje             T2 - D
-OL,15, 22.45 EW  253 Teneriffa          T1 - C
-OL,16,F23.15 VF  091 Sabiha Gokce       Gestr 
-OL,17, 23.35 FR  303 Las Palmas         T1 - C
-OL,18,F23.45 PC 1013 Sabiha Gokce       T2 - D
-OL,19, 23.55 PC 5013 Antalya            T2 - D
-OL,20,F01.35 SM 2916 Marsa Alam         T2 - D
-OL,21, 02.05 SM 2912 Hurghada           T2 - D
+OL,7, 10.40 EW  753 Wien         12.58 Geland
+OL,8,F12.50 LH 1978 Muenchen     13.25 Geland
+OL,9, 14.05 PC 1017 Sabiha Gokce       T2 - D
+OL,10,F14.15 FR 4501 Dublin             T2 - D
+OL,11, 14.30 FR 5527 Palma              T1 - B
+OL,12,F15.10 EW  611 Funchal            T1 - B
+OL,13, 15.35 FR 9325 Porto              T1 - C
+OL,14,F16.00 FR  303 Las Palmas         T1 - B
+OL,15, 16.10 EW  269 Las Palmas         T1 - C
+OL,16,F16.15 FR  933 Rom-Fiumicin       T1 - B
+OL,17, 16.20 FR 2814 Stansted           T2 - D
+OL,18,F16.55 LH 1984 Muenchen           T1 - C
+OL,19, 17.05 EW  755 Wien               Gestr 
+OL,20,F17.10 FR 1593 Manchester         T2 - D
+OL,21, 17.10 TK 1675 Istanbul           T2 - D
 OL,22,V                                       
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -32,28 +32,28 @@ PN,58202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G21:23:06
+OL,0,       BSWR RLPC   Do, 26.11.26G13:53:26
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN K\LN/BONN P5      
 OL,3,T#########"######################"######
-OL,4,                 STANDC21:20            
+OL,4,                 STANDC13:50            
 OL,5, Plan  Flug    Von          Erw.  Bemerk
 OL,6, ---------------------------------------
-OL,7, 08.05 EW 8050 Berlin             T1 - C
-OL,8,F08.05 FR 4763 Stockholm          T1 - C
-OL,9, 08.35 VL 1972 Muenchen           T1 - C
-OL,10,F08.45 W4 5121 Tirana             T2 - D
-OL,11, 08.55 OS  245 Wien               T1 - C
-OL,12,F09.20 FR 5531 Mailand            T2 - D
-OL,13, 09.35 FR 5519 Palma              T1 - B
-OL,14,F09.35 FR 9480 Wien               T2 - D
-OL,15, 09.40 EW  763 Zuerich            T1 - C
-OL,16,F09.45 IZ  481 Tel Aviv           T2 - D
-OL,17, 09.50 PC 1011 Sabiha Gokce       T2 - D
-OL,18,F10.00 EW  081 Muenchen           T1 - C
-OL,19, 10.05 FR 2105 Alicante           T1 - C
-OL,20,F10.15 EW  471 London-Gatw.       T2 - D
-OL,21, 10.40 EW  753 Wien               T1 - C
+OL,7, 17.15 EW  585 Palma              T1 - C
+OL,8,F17.30 XQ  982 Izmir              T2 - D
+OL,9, 18.05 EW  083 Muenchen           T2 - D
+OL,10,F18.10 EW  825 Mailand            T1 - C
+OL,11, 18.50 EW  007 Berlin             T1 - B
+OL,12,F19.15 PC 1015 Sabiha Gokce       T2 - D
+OL,13, 19.30 BA  998 London             T2 - D
+OL,14,F19.35 LH 1986 Muenchen           T1 - C
+OL,15, 19.35 OS  249 Wien               T1 - C
+OL,16,F19.50 EW 8056 Berlin             T1 - B
+OL,17, 20.10 FR 2507 Barcelona          T2 - D
+OL,18,F20.10 FR 5206 Malta              T1 - B
+OL,19, 20.20 IV 4226 Pristina           T2 - D
+OL,20,F21.15 EW  767 Zuerich            T1 - C
+OL,21, 21.45 EW  757 Wien               T2 - D
 OL,22,V                                       
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -61,28 +61,28 @@ PN,58203
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G21:23:06
+OL,0,       BSWR RLPC   Do, 26.11.26G13:53:26
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN K\LN/BONN P5      
 OL,3,T#########"######################"######
-OL,4,                 STANDC21:20            
+OL,4,                 STANDC13:50            
 OL,5, Plan  Flug    Von          Erw.  Bemerk
 OL,6, ---------------------------------------
-OL,7, 10.40 FR 1597 Marrakesch         T2 - D
-OL,8,F10.50 FR 9841 Lissabon           T1 - B
-OL,9, 10.50 LS 4113 London-Gatw.       T2 - D
-OL,10,F11.35 FR 2256 Valencia           T1 - C
-OL,11, 11.40 EW 8052 Berlin             T1 - C
-OL,12,F12.10 SM  601 Kairo              T2 - D
-OL,13, 12.40 EW  973 Zagreb             T1 - C
-OL,14,F12.45 FR 2816 Stansted           T2 - D
-OL,15, 12.45 XQ  114 Antalya            T2 - D
-OL,16,F12.50 LH 1978 Muenchen           T1 - C
-OL,17, 14.05 PC 1017 Sabiha Gokce       T2 - D
-OL,18,F14.15 FR 4501 Dublin             T2 - D
-OL,19, 14.30 FR 5527 Palma              T1 - B
-OL,20,F15.10 EW  611 Funchal            T1 - B
-OL,21, 15.35 FR 9325 Porto              T1 - C
+OL,7, 21.50 EW  085 Muenchen           T1 - C
+OL,8,F21.55 FR 5277 Palermo            T1 - B
+OL,9, 22.00 W6 7603 Podgorica          T2 - D
+OL,10,F22.10 EW  475 London-Gatw.       T2 - D
+OL,11, 22.15 EW  243 Fuerte.            T1 - B
+OL,12,F22.20 EW  009 Berlin             T1 - C
+OL,13, 23.15 FR 1034 Teneriffa          T1 - C
+OL,14,F23.15 VF  091 Sabiha Gokce       T2 - D
+OL,15, 23.25 FR 2307 Malaga             T1 - B
+OL,16,F23.35 FR 2352 Stansted           T2 - D
+OL,17, 23.35 PC 1013 Sabiha Gokce       T2 - D
+OL,18,F00.25 KK 7904 Zagreb             T1 - C
+OL,19, 02.05 SM 2912 Hurghada           T2 - D
+OL,20,F06.15 PC 1607 Kayseri            T2 - D
+OL,21, 08.35 LH 1972 Muenchen           T1 - C
 OL,22,V                                       
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -90,28 +90,28 @@ PN,58204
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G21:23:06
+OL,0,       BSWR RLPC   Do, 26.11.26G13:53:26
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFLUGHAFEN K\LN/BONN P5      
 OL,3,T#########"######################"######
-OL,4,                 STANDC21:17            
+OL,4,                 STANDC13:50            
 OL,5, Plan  Flug    Von          Erw.  Bemerk
 OL,6, ---------------------------------------
-OL,7, 16.00 FR  303 Las Palmas         T1 - C
-OL,8,F16.10 EW  269 Las Palmas         T1 - C
-OL,9, 16.15 FR  933 Rom-Fiumicin       T1 - B
-OL,10,F16.20 FR 2814 Stansted           T2 - D
-OL,11, 16.55 LH 1984 Muenchen           T1 - C
-OL,12,F17.05 EW  755 Wien               T1 - C
-OL,13, 17.10 FR 1593 Manchester         T2 - D
-OL,14,F17.10 TK 1675 Istanbul           T2 - D
-OL,15, 17.15 EW  585 Palma              T1 - C
-OL,16,F17.30 XQ  982 Izmir              T2 - D
-OL,17, 18.05 EW  083 Muenchen           T2 - D
-OL,18,F18.10 EW  825 Mailand            T1 - C
-OL,19, 18.50 EW  007 Berlin             T1 - C
-OL,20,F19.15 PC 1015 Sabiha Gokce       T2 - D
-OL,21, 19.30 BA  998 London             T2 - D
+OL,7, 08.55 OS  245 Wien               T1 - C
+OL,8,F09.00 FR 2352 Stansted           T2 - D
+OL,9, 09.25 FR 1356 Alicante           T1 - B
+OL,10,F09.35 FR 1603 Bologna            T1 - C
+OL,11, 09.40 EW  763 Zuerich            T2 - D
+OL,12,F10.00 EW  081 Muenchen           T1 - C
+OL,13, 10.15 EW  471 London-Gatw.       T2 - D
+OL,14,F10.15 PC 1011 Sabiha Gokce       T2 - D
+OL,15, 10.20 FR 2659 Faro               T1 - B
+OL,16,F10.30 TK 1671 Istanbul           T2 - D
+OL,17, 10.40 EW  753 Wien               T1 - C
+OL,18,F10.45 LS 4113 London-Gatw.       T2 - D
+OL,19, 11.20 FR 4453 Sofia              T2 - D
+OL,20,F11.25 FR 2511 Barcelona          T1 - B
+OL,21, 11.40 LS  483 Leeds              T2 - D
 OL,22,V                                       
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

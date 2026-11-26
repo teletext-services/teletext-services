@@ -3,45 +3,70 @@ PN,72901
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 2     25.11.26 19:41:26
-OL,1,D]GRTS 1     ]@mercredi 25 novembre     
-OL,2,                                    1/2 
-OL,4,G19:20 GM#t#o                           
-OL,5,E 1915 CS-T                             
-OL,6,F19:30 F19h30                           
-OL,7,       CS-T                             
-OL,8,G20:00 GM#t#o                           
-OL,9,E 1955 GsoirCS-T                        
-OL,10,F20:10 FInfrarouge..................C739
-OL,11,       FInfrarouge: Frigos, avions,     
-OL,12,       Fh|pitaux, institutions: la      
-OL,13,       Fcyberguerre est d#clar#e?       
-OL,14,       CS-T                             
-OL,15,G21:05 GMarie-Antoinette............C707
-OL,16,       CI/IICS-T                        
-OL,17,F23:05 FSwiss Loto                      
-OL,18,E 2230                                  
-OL,19,G23:15 GClassiques du cin#ma........C708
-OL,20,E 0110 GAscenseur pour l'#chafaud       
-OL,21,       CS-T                             
+OL,0,       G729  RTS 2     26.11.26 17:49:33
+OL,1,D]GRTS 1     ]@jeudi 26 novembre        
+OL,2,                                    1/3 
+OL,4,F20:00 FM#t#o                           
+OL,5,E 1955 FsoirCS-T                        
+OL,6,G20:10 GTemps pr#sent...............C738
+OL,7,E 2000 GL'exfiltration des              
+OL,8,       Gdjihadistes suisses.CS-T        
+OL,9,F21:05 FAstrid et Rapha[lle             
+OL,10,E 2045 FSainte-HonorineCS-T             
+OL,11,G21:55 GAstrid et Rapha[lle             
+OL,12,E 2130 GLes SurvivantsCS-T              
+OL,13,F22:50 FElisabeth Kubler-Ross -.....C708
+OL,14,E 2320 FFaire face @ la mort            
+OL,15,       CS-T                             
+OL,16,G23:50 GDocumentaire................C710
+OL,17,E 0015 GSur le PontCS-T                 
+OL,18,F00:55 F19h30                           
+OL,19,E 0235 CS-TC(R)                         
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,72902
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 2     25.11.26 19:41:26
-OL,1,D]GRTS 1     ]@mercredi 25 novembre     
-OL,2,                                    2/2 
-OL,4,F04:04 FM#t#o                           
-OL,5,E 0218 CS-TC(R)                         
-OL,6,G04:20 G19h30                           
-OL,7,E 0235 CS-TC(R)                         
-OL,8,F04:53 FM#t#o                           
-OL,9,E 0430 CS-TC(R)                         
-OL,10,G04:55 GCouleurs locales                
-OL,11,E 0435 CS-TC(R)                         
-OL,12,F05:10 F19h30                           
-OL,13,E 0445 CS-TC(R)                         
+OL,0,       G729  RTS 2     26.11.26 17:49:33
+OL,1,D]GRTS 1     ]@jeudi 26 novembre        
+OL,2,                                    2/3 
+OL,4,G01:30 GTemps pr#sent                   
+OL,5,E 0139 GL'exfiltration des              
+OL,6,       Gdjihadistes suisses.CS-T        
+OL,7,       C(R)                             
+OL,8,F02:15 FCouleurs locales                
+OL,9,E 0150 CS-TC(R)                         
+OL,10,G02:35 GM#t#o                           
+OL,11,E 0218 CS-TC(R)                         
+OL,12,F02:36 F19h30                           
+OL,13,E 0210 CS-TC(R)                         
+OL,14,G03:05 GTemps pr#sent                   
+OL,15,E 0209 GL'exfiltration des              
+OL,16,       Gdjihadistes suisses.CS-T        
+OL,17,       C(R)                             
+OL,18,F03:55 FCouleurs locales                
+OL,19,E 0208 CS-TC(R)                         
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,72903
+SC,0003
+PS,C080
+CT,8,T
+OL,0,       G729  RTS 2     26.11.26 17:49:33
+OL,1,D]GRTS 1     ]@jeudi 26 novembre        
+OL,2,                                    3/3 
+OL,4,G04:13 GM#t#o                           
+OL,5,E 0207 CS-TC(R)                         
+OL,6,F04:15 F19h30                           
+OL,7,E 0405 CS-TC(R)                         
+OL,8,G04:45 GTemps pr#sent                   
+OL,9,E 0404 GL'exfiltration des              
+OL,10,       Gdjihadistes suisses.CS-T        
+OL,11,       C(R)                             
+OL,12,F05:30 FCouleurs locales                
+OL,13,E 0403 CS-TC(R)                         
+OL,14,G05:51 GM#t#o                           
+OL,15,E 0410 CS-TC(R)                         
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

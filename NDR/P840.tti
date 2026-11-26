@@ -3,18 +3,23 @@ PN,84001
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G840FNDR TEXT GMi 25.11.B17:43:07
+OL,0,       G840FNDR TEXT GDo 26.11.B20:46:50
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD BASKETBALL                  
 OL,4,F]T  %D     Regionalliga Nord Frauen    
-OL,9,BSamstag, 21. November                  
-OL,10, Oldenburg     - Braunschweig     57:68 
-OL,11, Ahrensburg    - TuS Neuk|lln     29:67 
-OL,13, City Baskets  - Hamb. Towers     64:48 
-OL,14, BG Zehlendorf - Rostock Seaw.    52:82 
-OL,16,BSonntag, 22. November                  
-OL,17, SC Rist Wedel - ASC G|ttingen    61:70 
+OL,6,BSamstag, 28. November                  
+OL,7, City Baskets  - Rostock Seaw.B   17.00 
+OL,9,BSonntag, 29. November                  
+OL,10, SC Rist Wedel - BG ZehlendorfB   16.00 
+OL,12,BMittwoch, 2. Dezember                  
+OL,13, TuS Neuk|lln  - BG ZehlendorfB   20.00 
+OL,15,BSamstag, 5. Dezember                   
+OL,16, Oldenburg     - TuS Neuk|llnB    14.30 
+OL,17, ASC G|ttingen - BG ZehlendorfB   17.30 
+OL,19,BSonntag, 6. Dezember                   
+OL,20, Rostock Seaw. - AhrensburgB      13.00 
+OL,21, Hamb. Towers  - SC Rist WedelB   16.00 
 OL,23,B]D810<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -22,7 +27,7 @@ PN,84002
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G840FNDR TEXT GMi 25.11.B17:43:07
+OL,0,       G840FNDR TEXT GDo 26.11.B20:46:50
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD BASKETBALL                  
@@ -45,23 +50,21 @@ PN,84003
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G840FNDR TEXT GMi 25.11.B17:43:07
+OL,0,       G840FNDR TEXT GDo 26.11.B20:46:51
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD BASKETBALL                  
 OL,4,F]T  %D     Regionalliga Nord Frauen    
-OL,6,BSamstag, 28. November                  
-OL,7, City Baskets  - Rostock Seaw.B   17.00 
-OL,9,BSonntag, 29. November                  
-OL,10, SC Rist Wedel - BG ZehlendorfB   16.00 
-OL,12,BMittwoch, 2. Dezember                  
-OL,13, TuS Neuk|lln  - BG ZehlendorfB   20.00 
-OL,15,BSamstag, 5. Dezember                   
-OL,16, Oldenburg     - TuS Neuk|llnB    14.30 
-OL,17, ASC G|ttingen - BG ZehlendorfB   17.30 
-OL,19,BSonntag, 6. Dezember                   
-OL,20, Rostock Seaw. - AhrensburgB      13.00 
-OL,21, Hamb. Towers  - SC Rist WedelB   16.00 
+OL,7,BSamstag, 12. Dezember                  
+OL,8, TuS Neuk|lln  - Rostock Seaw.B   15.00 
+OL,9, SC Rist Wedel - BraunschweigB    16.00 
+OL,11, Ahrensburg    - ASC G|ttingenB   17.00 
+OL,12, BG Zehlendorf - Hamb. TowersB    17.00 
+OL,14, City Baskets  - OldenburgB       17.00 
+OL,16,BSamstag, 19. Dezember                  
+OL,17, Rostock Seaw. - SC Rist WedelB   15.00 
+OL,19,BSonntag, 20. Dezember                  
+OL,20, Braunschweig  - City BasketsB    15.00 
 OL,23,B]D810<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

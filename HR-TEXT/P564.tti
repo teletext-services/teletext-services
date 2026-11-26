@@ -3,27 +3,27 @@ PN,56400
 SC,0000
 PS,8208
 CT,15,T
-OL,0,           Fhr-textGMi 25.11.26F16:43:28
+OL,0,           Fhr-textGDo 26.11.26F13:23:50
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]DFrankfurt AirportD] GStand Mi 16:40  
+OL,2,G]DFrankfurt AirportD] GStand Do 13:20  
 OL,3,W#######################################
 OL,4,CAnkunftGvon        Plan Cerw. GTerminal
-OL,6,FLH  273 Mailand    14:55C16:24 gel.F1 A
-OL,7, LH 3427 M}nchen    15:08C15:08 gel.G1 T
-OL,8,FLH 3487 Aachen Hbf 15:13C15:13 gel.F1 T
-OL,9, LH 3463 N}rnberg   15:19C15:19 gel.G1 T
-OL,10,FEN 1191 Z}rich     15:30C16:34 gel.F1 A
-OL,11, LH 3521 Dus Hbf    15:39C15:39 gel.G1 T
-OL,12,FLH 3621 Dortmund   15:49C15:49 gel.F1 T
-OL,13, LH 3655 Hamburg    15:49C15:49 gel.G1 T
-OL,14,FLH 1061 Nizza      16:00C16:27 gel.F1 A
-OL,15, LH 1129 Barcelona  16:00C16:18 gel.G1 A
-OL,16,FLH 3553 Basel Bad  16:08            1 T
-OL,17, LH  019 Hamburg    16:10C16:20 gel.G1 A
-OL,18,FLH 1337 Budapest   16:10C16:32 gel.F1 A
-OL,19, LH 1381 Gdansk     16:10C16:32 gel.G1 A
-OL,20,FEN  285 Bologna    16:15C16:17 gel.F1 A
-OL,21, EN  293 Turin      16:15C16:16 gel.G1 A
+OL,6,FOS  205 Wien       10:30C12:53 gel.F1 A
+OL,7, DE 2117 Cancun     11:45C13:09 gel.G1 C
+OL,8,FOS  207 Wien       12:00            1 C
+OL,9, LH 3545 Basel Bad  12:08C12:08 gel.G1 T
+OL,10,FLH 1459 Ljubljana  12:10Cim Anflug F1 A
+OL,11, LH 3587 Dus Hbf    12:13C12:13 gel.G1 T
+OL,12,FLH 3457 N}rnberg   12:19C12:19 gel.F1  
+OL,13, DE 4363 Wien       12:30            1  
+OL,14,FDE 4263 Mailand    12:35C13:13 gel.F1 B
+OL,15, LH 3515 Dus Hbf    12:39C12:39 gel.G1 T
+OL,16,FEK  045 Dubai      12:45C13:08 gel.F3 J
+OL,17, LH 3615 Dortmund   12:49            1 T
+OL,18,FLH 3649 Hamburg    12:49            1 T
+OL,19, OS  209 Wien       12:50            1 A
+OL,20,FDE 4303 Paris      12:55C13:41     F1 B
+OL,21, DE 4483 Prag       12:55C13:26     G1 B
 OL,23,G] DAbflug 561 ohne Gew{hr!    >> 565   
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100

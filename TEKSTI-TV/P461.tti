@@ -3,7 +3,7 @@ PN,46101
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G461 YLE TEKSTI-TV 25.03.21:50:01
+OL,0,       G461 YLE TEKSTI-TV 26.03.10:38:59
 OL,1,D]G      JOKIMAAN TOTO75-RAVIT      1/12
 OL,2,   B  NO VOITTAJA     AIKA  2. 3.   KK  
 OL,3,    1  3 Real RocketmG16,7a  6  7  12,54
@@ -33,7 +33,7 @@ PN,46102
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G461 YLE TEKSTI-TV 25.03.21:50:01
+OL,0,       G461 YLE TEKSTI-TV 26.03.10:38:59
 OL,1,D]G      JOKIMAAN TOTO75-RAVIT      2/12
 OL,2,   B  NO VOITTAJA     AIKA  2. 3.   KK  
 OL,3,K                                       
@@ -63,7 +63,7 @@ PN,46103
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G461 YLE TEKSTI-TV 25.03.21:50:01
+OL,0,       G461 YLE TEKSTI-TV 26.03.10:38:59
 OL,1,D]G      XPRESS A TOTO86-RAVIT      3/12
 OL,2,   B  NO VOITTAJA     AIKA  2. 3.       
 OL,3,F86G1  5 Martin PalemG12,4a  3  7       
@@ -78,7 +78,7 @@ OL,11,F86B5  9 J.Kagan BricB11,5a  7 11
 OL,12,K                                       
 OL,13,F86B6  4 Dancing LaneB13,2a  2 11       
 OL,14,K                                       
-OL,15,F86B7F 2 Dark Photon B    a  9  3       
+OL,15,F86B7F 2 Dark Photon B12,7a  9  3       
 OL,16,K                                       
 OL,17, Voittajakertoimet jaFpoissaolleet:     
 OL,18,K                                       
@@ -93,11 +93,11 @@ PN,46104
 SC,0004
 PS,C100
 CT,15,T
-OL,0,       G461 YLE TEKSTI-TV 25.03.21:50:01
+OL,0,       G461 YLE TEKSTI-TV 26.03.10:38:59
 OL,1,D]G      XPRESS A TOTO86-RAVIT      4/12
 OL,2,   B  NO VOITTAJA     AIKA  2. 3.       
 OL,3,K                                       
-OL,4,F86B8FDuo-2                             
+OL,4,F86B8F 4 Mansa Musa MB13,2a  3  9       
 OL,5,K                                       
 OL,6,K                                       
 OL,7,K                                       
@@ -107,10 +107,10 @@ OL,10,K
 OL,11,K                                       
 OL,12, Voittajakertoimet jaFpoissaolleet:     
 OL,13,K                                       
-OL,14,B8.                                     
+OL,14,B8.     G F-                            
 OL,15,K                                       
-OL,16,FT86: 5-8-8-10-9-4-2G383,76 e           
-OL,17,BT4:9-4-2G21,40 e   FDuo:G              
+OL,16,FT86:F8:G749,88 eF7:G7,44 eF6:G- e      
+OL,17,BT4:9-4-2-4G37,50 e FDuo:G8,69          
 OL,18,K                                       
 OL,19,K                                       
 OL,20,K                                       
@@ -123,8 +123,38 @@ PN,46105
 SC,0005
 PS,C100
 CT,15,T
-OL,0,       G461 YLE TEKSTI-TV 25.03.21:50:01
-OL,1,D]G         SOLVALLAN RAVIT         5/12
+OL,0,       G461 YLE TEKSTI-TV 26.03.10:38:59
+OL,1,D]G            ]BYN RAVIT           5/12
+OL,2,K                                       
+OL,3,B   NO VOITTAJA       AIKA  2. 3.   KK  
+OL,4, 1.  4 Rainbow Bros* G16,4   8  6   9,17
+OL,5,                poissa 3 /CTroikka 42,24
+OL,6,B2.  4 Global HeartbrB15,0a  5  2  12,03
+OL,7,                         CTroikka 128,01
+OL,8,B3.  5 Gransal Jet*  B14,0a  4  3  17,03
+OL,9,                         CTroikka 303,44
+OL,10,B4.  9 Wiener S{ngerkB15,2a  7  5  21,62
+OL,11,                         CTroikka 228,24
+OL,12,B5.  9 Midnight RhymeB14,4a  6  2   4,14
+OL,13,                          CTroikka 27,79
+OL,14,B6.  5 Martin Palema*B12,4a  3  7   9,57
+OL,15,                          CTroikka 95,00
+OL,16, 7.  8 Vulcan Tile*  G14,6a  3  6  42,92
+OL,17,               poissa 1 /CTroikka 640,88
+OL,18, 8.  9 J.Kagan Brick*G11,5a  7 11  32,48
+OL,19,               poissa - /CTroikka 417,28
+OL,20, 9.  2 Dark Photon FaG12,7a  9  3   4,01
+OL,21,               poissa 12 /CTroikka 67,65
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46106
+SC,0006
+PS,C100
+CT,15,T
+OL,0,       G461 YLE TEKSTI-TV 26.03.10:38:59
+OL,1,D]G         SOLVALLAN RAVIT         6/12
 OL,2,K                                       
 OL,3,B   NO VOITTAJA       AIKA  2. 3.   KK  
 OL,4, 1.  2 Rich's Queen* G16,0   3  7   6,30
@@ -145,45 +175,15 @@ OL,18, 8. 10 Superstitious G12,9a  6  8   8,41
 OL,19,               poissa - /CTroikka 219,88
 OL,20, 9.  4 Dancing Lane* G13,2a  2 11  13,89
 OL,21,              poissa 12 /CTroikka 143,36
-OL,22,10.                                     
-OL,23,               poissa   /CTroikka       
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,46106
-SC,0006
-PS,C100
-CT,15,T
-OL,0,       G461 YLE TEKSTI-TV 25.03.21:50:01
-OL,1,D]G            ]BYN RAVIT           6/12
-OL,2,K                                       
-OL,3,B   NO VOITTAJA       AIKA  2. 3.   KK  
-OL,4, 1.  4 Rainbow Bros* G16,4   8  6   9,17
-OL,5,                poissa 3 /CTroikka 42,24
-OL,6,B2.  4 Global HeartbrB15,0a  5  2  12,03
-OL,7,                         CTroikka 128,01
-OL,8,B3.  5 Gransal Jet*  B14,0a  4  3  17,03
-OL,9,                         CTroikka 303,44
-OL,10,B4.  9 Wiener S{ngerkB15,2a  7  5  21,62
-OL,11,                         CTroikka 228,24
-OL,12,B5.  9 Midnight RhymeB14,4a  6  2   4,14
-OL,13,                          CTroikka 27,79
-OL,14,B6.  5 Martin Palema*B12,4a  3  7   9,57
-OL,15,                          CTroikka 95,00
-OL,16, 7.  8 Vulcan Tile*  G14,6a  3  6  42,92
-OL,17,               poissa 1 /CTroikka 640,88
-OL,18, 8.  9 J.Kagan Brick*G11,5a  7 11  32,48
-OL,19,               poissa - /CTroikka 417,28
-OL,20, 9.  2 Dark Photon FaG    a  9  3   4,01
-OL,21,               poissa 12 /CTroikka 67,65
-OL,22,K                                       
-OL,23,K                                       
+OL,22,10.  4 Mansa Musa Me G13,2a  3  9  26,36
+OL,23,               poissa - /CTroikka 227,25
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,46107
 SC,0007
 PS,C100
 CT,15,T
-OL,0,       G461 YLE TEKSTI-TV 25.03.21:50:01
+OL,0,       G461 YLE TEKSTI-TV 26.03.10:38:59
 OL,1,D]G         DEAUVILLEN RAVIT        7/12
 OL,2,B   NO VOITTAJA       AIKA  2. 3.   KK  
 OL,3, 1.  8 Awaiting ChrisG       7  1  55,30
@@ -213,7 +213,7 @@ PN,46108
 SC,0008
 PS,C100
 CT,15,T
-OL,0,       G461 YLE TEKSTI-TV 25.03.21:50:01
+OL,0,       G461 YLE TEKSTI-TV 26.03.10:38:59
 OL,1,D]G        VINCENNESIN RAVIT        8/12
 OL,2,K                                       
 OL,3,B   NO VOITTAJA       AIKA  2. 3.   KK  
@@ -243,7 +243,7 @@ PN,46109
 SC,0009
 PS,C100
 CT,15,T
-OL,0,       G461 YLE TEKSTI-TV 25.03.21:50:01
+OL,0,       G461 YLE TEKSTI-TV 26.03.10:38:59
 OL,1,D]G        VINCENNESIN RAVIT        9/12
 OL,2,K                                       
 OL,3,B   NO VOITTAJA       AIKA  2. 3.       
@@ -273,7 +273,7 @@ PN,46110
 SC,0010
 PS,C100
 CT,15,T
-OL,0,       G461 YLE TEKSTI-TV 25.03.21:50:01
+OL,0,       G461 YLE TEKSTI-TV 26.03.10:38:59
 OL,1,D]G         CHARTRESIN RAVIT       10/12
 OL,2,B   NO VOITTAJA       AIKA  2. 3.   KK  
 OL,3, 1. 12 Magyc Berry* Gm15,4   3 10 320,70
@@ -303,7 +303,7 @@ PN,46111
 SC,0011
 PS,C100
 CT,15,T
-OL,0,       G461 YLE TEKSTI-TV 25.03.21:50:01
+OL,0,       G461 YLE TEKSTI-TV 26.03.10:38:59
 OL,1,D]G        BERGS]KERIN RAVIT       11/12
 OL,2,B  NO VOITTAJA        AIKA  2. 3.   KK  
 OL,3,B1  7 Edes J{nta*    B29,1a 11 10  23,07
@@ -333,7 +333,7 @@ PN,46112
 SC,0012
 PS,C100
 CT,15,T
-OL,0,       G461 YLE TEKSTI-TV 25.03.21:50:01
+OL,0,       G461 YLE TEKSTI-TV 26.03.10:38:59
 OL,1,D]G        BERGS]KERIN RAVIT       12/12
 OL,2,B  NO VOITTAJA        AIKA  2. 3.   KK  
 OL,3,K                                       

@@ -4,26 +4,26 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     853Cczw 26 lis  00:01:09
+OL,0,      BTVP2     853Cczw 26 lis  21:09:31
 OL,1,C]      MDM U L T I   M U L T I         
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
-OL,4,C]DData losowania:@25.11.2026 r.        
+OL,4,C]DData losowania:@26.11.2026 r.        
 OL,5,S
 OL,6,C]DGodzina:@14:00                       
 OL,7,S
 OL,8,C]DWylosowane liczby:                   
-OL,9,C] A1D-@jeden        A62D-@sze|^-dwa    
-OL,10,C] A8D-@osiem        A67D-@sze|^-siedem 
-OL,11,C]A14D-@jeden-cztery A68D-@sze|^-osiem  
-OL,12,C]A15D-@jeden-pi`^   A69D-@sze|^-dziewi`
-OL,13,C]A18D-@jeden-osiem  A71D-@siedem-jeden 
-OL,14,C]A22D-@dwa-dwa      A72D-@siedem-dwa   
-OL,15,C]A23D-@dwa-trzy     A73D-@siedem-trzy  
-OL,16,C]A29D-@dwa-dziewi`^ A76D-@siedem-sze|^ 
-OL,17,C]A35D-@trzy-pi`^    A78D-@siedem-osiem 
-OL,18,C]A58D-@pi`^-osiem   A80D-@osiem-zero   
+OL,9,C] A5D-@pi`^         A53D-@pi`^-trzy    
+OL,10,C]A10D-@jeden-zero   A57D-@pi`^-siedem  
+OL,11,C]A14D-@jeden-cztery A59D-@pi`^-dziewi`^
+OL,12,C]A15D-@jeden-pi`^   A64D-@sze|^-cztery 
+OL,13,C]A17D-@jeden-siedem A68D-@sze|^-osiem  
+OL,14,C]A22D-@dwa-dwa      A70D-@siedem-zero  
+OL,15,C]A33D-@trzy-trzy    A73D-@siedem-trzy  
+OL,16,C]A40D-@cztery-zero  A74D-@siedem-cztery
+OL,17,C]A41D-@cztery-jeden A77D-@siedem-siedem
+OL,18,C]A47D-@cztery-siedemA79D-@siedem-dziewi
 OL,19,S
-OL,20,C]             DPlus A73D-@siedem-trzy  
+OL,20,C]             DPlus A59D-@pi`^-dziewi`^
 OL,21,S///////////////////////////////////////
 OL,22,Q
 OL,23,Q
@@ -33,7 +33,7 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     853Cczw 26 lis  00:01:09
+OL,0,      BTVP2     853Cczw 26 lis  21:09:31
 OL,1,C]      MDM U L T I   M U L T I         
 OL,3,Ssssssssssssssssssssssssssssssssssssssss
 OL,4,C]DData losowania:@25.11.2026 r.        

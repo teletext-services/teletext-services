@@ -3,23 +3,22 @@ PN,83601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G836FNDR TEXT GMi 25.11.B17:43:00
+OL,0,       G836FNDR TEXT GDo 26.11.B20:40:30
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD BASKETBALL                  
 OL,4,F]T  %D     2. Bundesliga Pro A         
-OL,5,BFreitag, 20. November                  
-OL,6, B|rde B.      - RheinStars K|ln  95:68 
-OL,8,BSamstag, 21. November                  
-OL,9, Kirchheim Kn. - Bremerhaven      93:68 
-OL,10, OrangeAcademy - Bask. Koblenz    74:88 
-OL,12, BG G|ttingen  - BBC Bayreuth     95:63 
-OL,13, Giessen 46ers - Paderborn        73:61 
-OL,15, T}bingen      - ETB Essen        67:63 
-OL,16, Karlsr. Lions - VfL Bochum       82:74 
-OL,18, Crailsheim    - N}rnb. Falc.     79:72 
-OL,20,BSonntag, 22. November                  
-OL,21, Quakenbr}ck   - Heidelberg       72:89 
+OL,6,BSamstag, 5. Dezember                   
+OL,7, Kirchheim Kn. - RheinStars K|lnB 18.00 
+OL,8, Heidelberg    - BremerhavenB     18.00 
+OL,10, N}rnb. Falc.  - OrangeAcademyB   18.30 
+OL,11, BBC Bayreuth  - Giessen 46ersB   19.00 
+OL,13, VfL Bochum    - ETB EssenB       19.00 
+OL,14, Quakenbr}ck   - B|rde B.B        19.30 
+OL,16, Bask. Koblenz - Karlsr. LionsB   19.30 
+OL,17, Crailsheim    - BG G|ttingenB    20.00 
+OL,19,BMittwoch, 9. Dezember                  
+OL,20, Paderborn     - T}bingenB        19.30 
 OL,23,B]D810<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/4)
 FL,101,200,300,650,0,100
@@ -27,7 +26,7 @@ PN,83602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G836FNDR TEXT GMi 25.11.B17:43:00
+OL,0,       G836FNDR TEXT GDo 26.11.B20:40:30
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD BASKETBALL                  
@@ -57,7 +56,7 @@ PN,83603
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G836FNDR TEXT GMi 25.11.B17:43:00
+OL,0,       G836FNDR TEXT GDo 26.11.B20:40:30
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD BASKETBALL                  
@@ -71,22 +70,23 @@ PN,83604
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G836FNDR TEXT GMi 25.11.B17:43:00
+OL,0,       G836FNDR TEXT GDo 26.11.B20:40:30
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD BASKETBALL                  
 OL,4,F]T  %D     2. Bundesliga Pro A         
-OL,6,BSamstag, 5. Dezember                   
-OL,7, Kirchheim Kn. - RheinStars K|lnB 18.00 
-OL,8, Heidelberg    - BremerhavenB     18.00 
-OL,10, N}rnb. Falc.  - OrangeAcademyB   18.30 
-OL,11, BBC Bayreuth  - Giessen 46ersB   19.00 
-OL,13, VfL Bochum    - ETB EssenB       19.00 
-OL,14, Quakenbr}ck   - B|rde B.B        19.30 
-OL,16, Bask. Koblenz - Karlsr. LionsB   19.30 
-OL,17, Crailsheim    - BG G|ttingenB    20.00 
-OL,19,BMittwoch, 9. Dezember                  
-OL,20, Paderborn     - T}bingenB        19.30 
+OL,6,BDonnerstag, 10. Dezember               
+OL,7, B|rde B.      - BBC BayreuthB    19.00 
+OL,9,BSamstag, 12. Dezember                  
+OL,10, Heidelberg    - VfL BochumB      18.00 
+OL,11, OrangeAcademy - Quakenbr}ckB     18.00 
+OL,13, Bremerhaven   - Bask. KoblenzB   18.30 
+OL,14, T}bingen      - RheinStars K|lnB 19.30 
+OL,16, ETB Essen     - N}rnb. Falc.B    19.30 
+OL,17, Karlsr. Lions - PaderbornB       19.30 
+OL,19,BSonntag, 13. Dezember                  
+OL,20, BG G|ttingen  - Giessen 46ersB   15.00 
+OL,21, Kirchheim Kn. - CrailsheimB      17.00 
 OL,23,B]D810<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(4/4)
 FL,101,200,300,650,0,100

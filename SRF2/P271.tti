@@ -3,36 +3,47 @@ PN,27101
 SC,0001
 PS,C200
 CT,8,T
-OL,0,       G271  SRF zwei  25.11.26 20:04:01
-OL,1,C]@FUSSBALL         G]@25.11.26 19:58GBK
+OL,0,       G271  SRF zwei  26.11.26 05:35:04
+OL,1,C]@FUSSBALL         G]@25.11.26 23:11GBK
 OL,2,G                                       
 OL,3,                                    1/2 
-OL,4,CSch.Donezk  - Fenerbahce CMI 21.00 Uhr 
-OL,9,FSch.Donezk:GRiznyk;GTobias,GBondar,G   
-OL,10,GMatwijenko,GPedro Henrique;GNazaryna;G 
-OL,11,GAlisson,GOcheretko,GMarlon,GNewerton;G 
-OL,12,GTraore.                                
+OL,4,CSch.Donezk  - Fenerbahce    C 0:1 (0:0)
+OL,5,G56'Muriqi.                             
+OL,9,FSch.Donezk:GRiznyk;GTobiasG(83'Asarow),
+OL,10,CBondar,GMatwijenko,CPedro Henrique;G   
+OL,11,GNazarynaG(89'Obah);GAlisson,GOcheretko,
+OL,12,GMarlonG(56'Isaque),GNewerton;GTraoreG  
+OL,13,G(82'Meirelles).                        
 OL,15,FFenerbahce:GEderson;GSemedo,GSkriniar,G
-OL,16,GOppong,GBrown;GKante,GY}ksek;G         
-OL,17,GGreenwood;GAydin,GMuriqi,GAkt}rkoglu.  
-OL,21,FStamford Bridge                        
+OL,16,GOppong,GBrown;GKante,CY}ksek;GGreenwood
+OL,17,G(78'Guendouzi);GAydin,GMuriqiG         
+OL,18,G(86'Lukaku),GAkt}rkogluG(69'Kahveci).  
+OL,21,FStamford Bridge: 36077                 
+OL,22,GMichael OliverG(ENG)                   
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100
 PN,27102
 SC,0002
 PS,C200
 CT,8,T
-OL,0,       G271  SRF zwei  25.11.26 20:04:01
-OL,1,C]@FUSSBALL         G]@25.11.26 19:57GBK
+OL,0,       G271  SRF zwei  26.11.26 05:35:04
+OL,1,C]@FUSSBALL         G]@25.11.26 23:08GBK
 OL,2,G                                       
 OL,3,                                    2/2 
-OL,4,CSporting    - Manch. Utd CMI 21.00 Uhr 
-OL,9,FSporting:GKaique;GFresneda,GInacio,G   
-OL,10,GQuaresma,GAraujo;GAndersen;GDoumbia,G  
-OL,11,GAltimira;GCatamo,GSuarez,GGuilherme.   
-OL,15,FManch. Utd:GLammens;GMazraoui,GMaguire,
-OL,16,GYoro,GMartinez;GMainoo,GTielemans;G    
-OL,17,GDiallo,GFernandes,GMbeumo;GZirkzee.    
-OL,21,FEstadio Jose Alvalade                  
+OL,4,CSporting    - Manch. Utd    C 2:2 (1:0)
+OL,5,G33'Suarez(P) 1:0,G48'(P)/50'Fernandes  
+OL,6,G1:2,G80'Suarez 2:2.                    
+OL,9,FSporting:GKaique;GFresneda,CQuaresmaG  
+OL,10,G(76'I.Ba),GInacio,GAraujo;GAltimira;G  
+OL,11,GDoumbiaC(76'Irankunda),GAndersen;G     
+OL,12,GCatamoG(69'Zalazar),GSuarezG           
+OL,13,G(86'Ioannidis),GGuilherme.             
+OL,15,FManch. Utd:CLammens;GMazraouiG         
+OL,16,G(64'Dalot),GYoro,GMaguire,GMartinez;A  
+OL,17,ATielemans/93',GMainoo;GDialloG         
+OL,18,G(77'Lacey),GFernandesG(92'Mount),G     
+OL,19,GMbeumoG(92'Santos);GZirkzeeG(64'Dorgu).
+OL,21,FEstadio Jose Alvalade: 50856           
+OL,22,GSzymon MarciniakG(POL)                 
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

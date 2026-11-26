@@ -1,22 +1,68 @@
 DE,FORUM64 118
-PN,11800
-SC,0000
-PS,8208
+PN,11801
+SC,0001
+PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMi 25 Nov F16:22:31
+OL,0,         GFORUM64   GDo 26 Nov F01:29:28
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,E"Commoserve File Search" beim neuen C64
-OL,3,EUltimate                               
-OL,5,CAntwort:  Bschorsch3000                
-OL,6,CComments: B139                         
-OL,7,F                                       
-OL,8,Fbei mir gibts da jetzt nochmal nen     
-OL,9,Fupdate: ich hab das umschalten mit     
-OL,10,Fsuche nach + und - abgeschafft. es gibt
-OL,11,Fdie repo-auswahl und dort taucht jetzt 
-OL,12,Feinfach commoserve mit auf.            
-OL,14,Fhttps://github.com/schorsch3000/CommoSe
-OL,15,Frve2Assembly64                         
+OL,2,EHeute so gecodet...                    
+OL,4,CAntwort:  Btheincredib13               
+OL,5,CComments: B2845                        
+OL,6,F                                       
+OL,7,FErster Meilenstein des Enigma          
+OL,8,FSimulator! Die Basis ist zu meiner     
+OL,9,FZufriedenheit fertiggestellt und kann  
+OL,10,F(nachdem aufgefallen war, dass die     
+OL,11,F"bl|de" KI Walze V falsch verdrahtet   
+OL,12,Fhatte) jetzt auch scheinbar fehlerfrei 
+OL,13,F(de-)codieren.                         
+OL,15,FBitte melde Dich an, um                
 OL,17,CErster Beitrag:                        
-OL,24,D]FForum64.de RSS feed                  
+OL,19,GMal ein Thread [equivalent f}r "Heute  
+OL,20,Gso gebastelt..." f}r Coder.            
+OL,22,GIch fange mal an.                      
+OL,24,D]FForum64.de RSS feed            (1/3) 
+FL,0,0,0,0,0,100
+PN,11802
+SC,0002
+PS,C200
+CT,15,T
+OL,0,         GFORUM64   GDo 26 Nov F01:29:28
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GIch habe ein Tool f}r die Erkennung der
+OL,4,Ginstallierten .NET Framework Versionen 
+OL,5,Gben|tigt. Habe zwar vor einer Weile    
+OL,6,Gschon eins in VB.NET Code erstellt. Das
+OL,7,Gist aber etwas witzlos, da es .NET 2.0 
+OL,8,Gvoraussetzt und es ist mir ein paar Mal
+OL,9,Gbei Kunden passiert, dass diese .NET   
+OL,10,G4/4.5/4.6.x drauf haben und eben kein  
+OL,11,G2.0/3.0/3.5.                           
+OL,13,GDas kleine Tool soll m|glichst keine   
+OL,14,GAbh{ngigheiten haben, damit es auf     
+OL,15,Gallen vern}nftigen Windows-Versionen   
+OL,16,Gals Copy+Paste EXE l{uft. Da hat man   
+OL,17,Gdann nicht viel zur Auswahl: Entweder  
+OL,18,GC++ oder VB6. Letzteres wird fr}her    
+OL,19,Goder sp{ter abgeschossen als Runtimes, 
+OL,20,Galso bleibt C++ und Win32 API.         
+OL,22,GHabe dazu diesen C++ Code mal kopiert. 
+OL,23,GFunktioniert auch, aber als Win32 GUI  
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,11803
+SC,0003
+PS,C200
+CT,15,T
+OL,0,         GFORUM64   GDo 26 Nov F01:29:28
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GApp. Doof. Muss es mal                 
+OL,4,Gauseinandernehmen und auf Konsolen-App 
+OL,5,Gumstellen.                             
+OL,7,G@Tale-X : Was ist der Unterschied      
+OL,8,Gzwischen dem "<MeinIcon>.ico" und      
+OL,9,G"small.ico"? letzteres als Standardicon
+OL,10,Gist kleiner in der Gr|sse, aber wieso  
+OL,11,Gben|tigt es                            
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

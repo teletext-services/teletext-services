@@ -3,24 +3,24 @@ PN,29601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G296FNDR TEXT GMi 25.11.B17:32:01
+OL,0,       G296FNDR TEXT GDo 26.11.B06:14:18
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Champions League            
 OL,5,BDienstag, 24. November                 
-OL,6, Galatasaray     - Aston Villa     1:0  
-OL,7, FK Bod|/Glimt   - Linzer ASK      1:0  
-OL,9, Real Madrid     - PSV Eindhoven   5:1  
-OL,10, Manchester City - SSC Neapel      2:2  
-OL,12, FC Arsenal      - Bor. Dortmund   1:1  
-OL,13, Feyenoord R.    - FC Porto        0:1  
-OL,15, Sl.Bratislava   - Betis Sevilla   0:2  
-OL,16, RB Leipzig      - RC Lens         3:1  
-OL,18, Como 1907       - AEK Athen       1:0  
+OL,6, Galatasaray     - Aston Villa      1:0 
+OL,7, FK Bod|/Glimt   - Linzer ASK       1:0 
+OL,9, Real Madrid     - PSV Eindhoven    5:1 
+OL,10, Manchester City - SSC Neapel       2:2 
+OL,12, FC Arsenal      - Bor. Dortmund    1:1 
+OL,13, Feyenoord R.    - FC Porto         0:1 
+OL,15, Sl.Bratislava   - Betis Sevilla    0:2 
+OL,16, RB Leipzig      - RC Lens          3:1 
+OL,18, Como 1907       - AEK Athen        1:0 
 OL,20,BMittwoch, 25. November                 
-OL,21, Sabah FK        - FC BarcelonaB  18.45 
-OL,22, Slavia Prag     - FC VillarrealB 18.45 
+OL,21, Sabah FK        - FC Barcelona     1:4 
+OL,22, Slavia Prag     - FC Villarreal    0:1 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/4)
 FL,101,200,300,650,0,100
@@ -28,19 +28,19 @@ PN,29602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G296FNDR TEXT GMi 25.11.B17:32:01
+OL,0,       G296FNDR TEXT GDo 26.11.B06:14:18
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Champions League            
 OL,8,BMittwoch, 25. November                 
-OL,9, Inter Mailand   - VfB StuttgartB 21.00 
-OL,10, Atl. Madrid     - V. StavangerB  21.00 
-OL,12, Paris SG        - AS RomB        21.00 
-OL,13, FC Br}gge       - FC LiverpoolB  21.00 
-OL,15, OSC Lille       - Bay. M}nchenB  21.00 
-OL,16, Sp. Lissabon    - Man. UnitedB   21.00 
-OL,18, Sch. Donezk     - FenerbahceB    21.00 
+OL,9, Inter Mailand   - VfB Stuttgart    2:0 
+OL,10, Atl. Madrid     - V. Stavanger     2:0 
+OL,12, Paris SG        - AS Rom           2:2 
+OL,13, FC Br}gge       - FC Liverpool     0:3 
+OL,15, OSC Lille       - Bay. M}nchen     2:1 
+OL,16, Sp. Lissabon    - Man. United      2:2 
+OL,18, Sch. Donezk     - Fenerbahce       0:1 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(2/4)
 FL,101,200,300,650,0,100
@@ -48,29 +48,29 @@ PN,29603
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G296FNDR TEXT GMi 25.11.B17:32:01
+OL,0,       G296FNDR TEXT GDo 26.11.B06:14:18
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Champions League            
 OL,5,C 1.Real Madrid            5   18:8   15
-OL,6,C 2.Paris St. Germain      4   20:5   12
+OL,6,C 2.Paris St. Germain      5   22:7   13
 OL,7,C 3.Como 1907              5   20:6   12
-OL,8,C 4.Betis Sevilla          5   10:6   12
-OL,9,C 5.FC Arsenal             5    9:4   11
-OL,10,C 6.Manchester C.          5   14:9   10
-OL,11,C 7.Borussia Dortmund      5    8:6   10
-OL,12,C 8.FC Barcelona           4   14:6    9
-OL,13,C 9.Aston Villa            5   12:7    9
-OL,14,C10.FC Liverpool           4   14:10   9
-OL,15,C11.FC Br}gge              4   11:7    9
-OL,16,C12.Sporting Lissabon      4    8:4    9
-OL,17,C13.Galatasaray Istanbul   5    9:9    9
-OL,18,C14.Bayern M}nchen         4   12:5    8
-OL,19,C15.VfB Stuttgart          4    7:4    7
-OL,20,C16.FK Bod|/Glimt          5    5:9    7
-OL,21,C17.Inter Mailand          4    8:6    6
-OL,22,C18.Linzer ASK             5   10:10   6
+OL,8,C 4.FC Barcelona           5   18:7   12
+OL,9,C 5.FC Liverpool           5   17:10  12
+OL,10,C 6.Betis Sevilla          5   10:6   12
+OL,11,C 7.FC Arsenal             5    9:4   11
+OL,12,C 8.Manchester C.          5   14:9   10
+OL,13,C 9.Sporting Lissabon      5   10:6   10
+OL,14,C10.Borussia Dortmund      5    8:6   10
+OL,15,C11.Aston Villa            5   12:7    9
+OL,16,C12.Inter Mailand          5   10:6    9
+OL,17,C13.FC Br}gge              5   11:10   9
+OL,18,C14.Galatasaray Istanbul   5    9:9    9
+OL,19,C15.Bayern M}nchen         5   13:7    8
+OL,20,C16.Fenerbahce             5    7:11   8
+OL,21,C17.VfB Stuttgart          5    7:6    7
+OL,22,C18.Atletico Madrid        5    6:5    7
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/4)
 FL,101,200,300,650,0,100
@@ -78,28 +78,28 @@ PN,29604
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G296FNDR TEXT GMi 25.11.B17:32:01
+OL,0,       G296FNDR TEXT GDo 26.11.B06:14:18
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Champions League            
-OL,5,C19.Manchester United      4    8:8    6
-OL,6,C20.FC Porto               5    7:7    6
-OL,7,C21.RB Leipzig             5    8:12   6
-OL,8,C22.Fenerbahce             4    6:11   5
-OL,9,C23.AS Rom                 4   10:8    4
-OL,10,C24.Schachtjor Donezk      4    4:4    4
-OL,11,F25.Viking Stavanger       4    9:10   4
-OL,12,F26.Atletico Madrid        4    4:5    4
-OL,13,F27.SSC Neapel             5    8:13   4
-OL,14,F28.PSV Eindhoven          5    4:9    4
-OL,15,F29.FC Villarreal          4    8:14   3
-OL,16,F30.Sabah FK               4    4:10   3
+OL,5,C19.Manchester United      5   10:10   7
+OL,6,C20.FK Bod|/Glimt          5    5:9    7
+OL,7,C21.Linzer ASK             5   10:10   6
+OL,8,C22.FC Porto               5    7:7    6
+OL,9,C23.RB Leipzig             5    8:12   6
+OL,10,C24.FC Villarreal          5    9:14   6
+OL,11,F25.AS Rom                 5   12:10   5
+OL,12,F26.Schachtjor Donezk      5    4:5    4
+OL,13,F27.Viking Stavanger       5    9:12   4
+OL,14,F28.SSC Neapel             5    8:13   4
+OL,15,F29.OSC Lille              5    6:11   4
+OL,16,F30.PSV Eindhoven          5    4:9    4
 OL,17,F31.AEK Athen              5    5:12   3
 OL,18,F32.Feyenoord Rotterdam    5    4:12   3
-OL,19,F33.RC Lens                5    5:19   3
-OL,20,F34.Slavia Prag            4    5:9    1
-OL,21,F35.OSC Lille              4    4:10   1
+OL,19,F33.Sabah FK               5    5:14   3
+OL,20,F34.RC Lens                5    5:19   3
+OL,21,F35.Slavia Prag            5    5:10   1
 OL,22,F36.Slovan Bratislava      5    1:19   0
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(4/4)

@@ -3,30 +3,44 @@ PN,64301
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G21:25:18
+OL,0,       BSWR RLPC   Do, 26.11.26G15:31:05
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,10,FWARNUNG vor FROST                      
-OL,11, G}ltig: Mi 16:00 bis Do 12:00          
-OL,13,FBiberach, Alb-Donau-Kreis/Ulm          
-OL,15, Es tritt leichter Frost zwischen -1 `C 
-OL,16, und -5 `C auf.                         
-OL,23,D]GQuelle:DWD  Stand:12:35  Hinweise 654
+OL,11,FWARNUNG vor FROST                      
+OL,12, G}ltig: Do 12:00 bis Fr 12:00          
+OL,14,FBiberach, Alb-Donau-Kreis/Ulm          
+OL,16, Es tritt leichter Frost um -2 `C auf.  
+OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,64302
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Mi, 25.11.26G21:25:18
+OL,0,       BSWR RLPC   Do, 26.11.26G15:31:05
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,11,FWARNUNG vor GL[TTE                     
-OL,12, G}ltig: Mi 20:00 bis Do 10:00          
+OL,12, G}ltig: Do 12:55 bis Fr 11:00          
 OL,14,FBiberach, Alb-Donau-Kreis/Ulm          
-OL,16, Es besteht Gl{ttegefahr.               
-OL,23,D]GQuelle:DWD  Stand:19:54  Hinweise 654
+OL,16, Es besteht vereinzelt Gl{ttegefahr.    
+OL,23,D]GQuelle:DWD  Stand:12:55  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,64303
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Do, 26.11.26G15:31:05
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,11,FWARNUNG vor FROST                      
+OL,12, G}ltig: Do 16:00 bis Fr 12:00          
+OL,14,FAlb-Donau-Kreis/Ulm                    
+OL,16, Es tritt leichter Frost um -4 `C auf.  
+OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

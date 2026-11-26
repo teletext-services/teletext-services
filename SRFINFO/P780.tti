@@ -3,7 +3,7 @@ PN,78001
 SC,0001
 PS,C200
 CT,8,T
-OL,0,       G780  SRF info  25.11.26 20:26:27
+OL,0,       G780  SRF info  26.11.26 19:11:36
 OL,1,E]@RADIO-PROGRAMM               A]GSRF  
 OL,2,G]@TV-Programm 701                      
 OL,3,F                                       
@@ -14,10 +14,10 @@ OL,10, Radio SRF 4 News................... 787
 OL,11, Radio SRF Musikwelle............... 788
 OL,12,F                                       
 OL,13,E]@JETZT AUF RADIO SRF 1                
-OL,14,@]G20:03 Spasspartout                   
-OL,15,@]G21:00 Nachrichten                    
-OL,16,@]G21:03 Nachtclub                      
-OL,17,@]G22:00 Nachrichten                    
+OL,14,@]Ges folgt                             
+OL,15,@]G20:00 Nachrichten                    
+OL,16,@]G20:03 Dini Mundart - Schnabelweid    
+OL,17,@]G21:00 Nachrichten                    
 OL,18,E]G                                     
 OL,19,F                                       
 OL,21, Echo der Zeit...................... 789
@@ -28,7 +28,7 @@ PN,78002
 SC,0002
 PS,C200
 CT,8,T
-OL,0,       G780  SRF info  25.11.26 20:26:27
+OL,0,       G780  SRF info  26.11.26 19:11:36
 OL,1,E]@RADIO-PROGRAMM               A]GSRF  
 OL,2,G]@TV-Programm 701                      
 OL,3,F                                       
@@ -39,8 +39,8 @@ OL,10, Radio SRF 4 News................... 787
 OL,11, Radio SRF Musikwelle............... 788
 OL,12,F                                       
 OL,13,E]@JETZT AUF RADIO SRF 2 KULTUR         
-OL,14,@]G20:00 Perspektiven                   
-OL,15,@]G20:30 Klassik punkt CH               
+OL,14,@]G19:00 Echo der Zeit                  
+OL,15,@]G20:00 Im Konzertsaal                 
 OL,16,@]G22:00 Nachrichten                    
 OL,17,@]G00:00 Nachrichten                    
 OL,18,E]G                                     
@@ -53,7 +53,7 @@ PN,78003
 SC,0003
 PS,C200
 CT,8,T
-OL,0,       G780  SRF info  25.11.26 20:26:27
+OL,0,       G780  SRF info  26.11.26 19:11:36
 OL,1,E]@RADIO-PROGRAMM               A]GSRF  
 OL,2,G]@TV-Programm 701                      
 OL,3,F                                       
@@ -64,10 +64,10 @@ OL,10, Radio SRF 4 News................... 787
 OL,11, Radio SRF Musikwelle............... 788
 OL,12,F                                       
 OL,13,E]@JETZT AUF RADIO SRF 3                
-OL,14,@]G20:03 Sounds!                        
-OL,15,@]G21:00 Nachrichten                    
-OL,16,@]G22:00 Nachrichten                    
-OL,17,@]G23:00 Nachrichten                    
+OL,14,@]G19:03 SRF 3 punkt CH                 
+OL,15,@]G20:00 Nachrichten                    
+OL,16,@]G20:03 Sounds!                        
+OL,17,@]G21:00 Nachrichten                    
 OL,18,E]G                                     
 OL,19,F                                       
 OL,21, Echo der Zeit...................... 789
@@ -78,7 +78,7 @@ PN,78004
 SC,0004
 PS,C200
 CT,8,T
-OL,0,       G780  SRF info  25.11.26 20:26:27
+OL,0,       G780  SRF info  26.11.26 19:11:36
 OL,1,E]@RADIO-PROGRAMM               A]GSRF  
 OL,2,G]@TV-Programm 701                      
 OL,3,F                                       
@@ -89,10 +89,10 @@ OL,10,FRadio SRF 4 News................... 787
 OL,11, Radio SRF Musikwelle............... 788
 OL,12,F                                       
 OL,13,E]@JETZT AUF RADIO SRF 4 NEWS           
-OL,14,@]G20:03 4x4 Podcast                    
-OL,15,@]G20:30 Nachrichten                    
-OL,16,@]G20:33 Tagesgespr{ch                  
-OL,17,@]G21:00 Nachrichten                    
+OL,14,@]G19:00 Echo der Zeit                  
+OL,15,@]G19:45 News Plus - das Thema des Tages
+OL,16,@]G20:00 Nachrichten                    
+OL,17,@]G20:03 4x4 Podcast                    
 OL,18,E]G                                     
 OL,19,F                                       
 OL,21, Echo der Zeit...................... 789
@@ -103,7 +103,7 @@ PN,78005
 SC,0005
 PS,C200
 CT,8,T
-OL,0,       G780  SRF info  25.11.26 20:26:27
+OL,0,       G780  SRF info  26.11.26 19:11:36
 OL,1,E]@RADIO-PROGRAMM               A]GSRF  
 OL,2,G]@TV-Programm 701                      
 OL,3,F                                       
@@ -114,10 +114,10 @@ OL,10, Radio SRF 4 News................... 787
 OL,11,FRadio SRF Musikwelle............... 788
 OL,12,F                                       
 OL,13,E]@JETZT AUF RADIO SRF 4 MUSIKWELLE     
-OL,14,@]Ges folgt                             
-OL,15,@]G21:00 Nachrichten                    
-OL,16,@]G21:03 Musik am Abend                 
-OL,17,@]G22:00 Nachrichten                    
+OL,14,@]G19:00 Echo der Zeit                  
+OL,15,@]G20:00 Nachrichten                    
+OL,16,@]G20:03 Schlag auf Schlager            
+OL,17,@]G21:00 Nachrichten                    
 OL,18,E]G                                     
 OL,19,F                                       
 OL,21, Echo der Zeit...................... 789

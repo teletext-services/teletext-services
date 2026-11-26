@@ -1,23 +1,44 @@
 DE,NDR 703
-PN,70300
-SC,0000
-PS,8208
+PN,70301
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G703FNDR TEXT GMi 25.11.B17:41:02
+OL,0,       G703FNDR TEXT GDo 26.11.B17:07:35
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
-OL,4,F]T  %D     Sonstige BAB     Stand 16:50
-OL,5, Die A27 Cuxhaven Richtung Bremerhaven  
-OL,6, ist in H|he Debstedt aufgrund von      
-OL,7, Bauarbeiten heute und morgen zwischen 7
-OL,8, Uhr und 19 Uhr gesperrt.               
-OL,10,FDie A39 Braunschweig Richtung Wolfsburg
-OL,11,Fist zwischen Kreuz                     
-OL,12,FWolfsburg/K|nigslutter und Flechtorf   
-OL,13,Fwegen Reperaturarbeiten bis 20 Uhr     
-OL,14,Fgesperrt. Die Umleitung f}hrt: }ber die
-OL,15,FU60                                    
+OL,4,F]T  %D     Sonstige BAB     Stand 17:00
+OL,5, Die A23 Hamburg Richtung Heide ist     
+OL,6, zwischen Horst/Elmshorn und Hohenfelde 
+OL,7, nach einem Unfall gesperrt. Die        
+OL,8, Umleitung f}hrt: }ber die U129         
+OL,10,FA24 Hamburg Richtung Berlin zwischen   
+OL,11,FReinbek und Schwarzenbek/Grande 3 km   
+OL,12,FStau                                   
+OL,14, Die A27 Cuxhaven Richtung Bremerhaven  
+OL,15, ist in H|he Debstedt wegen Bauarbeiten 
+OL,16, bis circa 19 Uhr gesperrt. Bitte der   
+OL,17, ausgeschilderten Umleitung folgen.     
 OL,23,A]G701<              BUNDESSTRASSEN >704
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,70302
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G703FNDR TEXT GDo 26.11.B17:07:35
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
+OL,4,F]T  %D     Sonstige BAB     Stand 17:00
+OL,5, Die A352: Richtung A2 wird zwischen    
+OL,6, Dreieck Hannover-Nord und              
+OL,7, Langenhagen-Kaltenweide wegen einer    
+OL,8, Nachtbaustelle von 19 Uhr bis morgen,  
+OL,9, circa 6 Uhr, gesperrt.                 
+OL,11,FA352: Richtung A2 zwischen             
+OL,12,FHannover-Flughafen und Dreieck         
+OL,13,FHannover-West 2 km Stau                
+OL,23,A]G701<              BUNDESSTRASSEN >704
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

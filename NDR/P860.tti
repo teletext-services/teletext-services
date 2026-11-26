@@ -3,15 +3,20 @@ PN,86001
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G860FNDR TEXT GMi 25.11.B17:44:06
+OL,0,       G860FNDR TEXT GDo 26.11.B21:19:07
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FAUSTBALL                   
 OL,4,F]T  %D     Bundesliga Nord Frauen Halle
-OL,11,BSonntag, 22. November                  
-OL,12, TSV Hagen      - TVGH Brettorf     1:3 
-OL,13, TSV Hagen      - Schneverdingen    0:3 
-OL,15, Schneverdingen - TVGH Brettorf     2:3 
+OL,8,BSonntag, 29. November                  
+OL,9, Schneverdingen - Ohligser TVB    11.00 
+OL,10, Schneverdingen - Ahlhorner SVB   11.00 
+OL,12, TSV Hagen      - Ohligser TVB    11.00 
+OL,13, TSV Hagen      - Ahlhorner SVB   11.00 
+OL,15, MTV Wangersen  - KellinghusenB   11.00 
+OL,16, MTV Wangersen  - TVGH BrettorfB  11.00 
+OL,18, Lemwerder TV   - KellinghusenB   11.00 
+OL,19, TVGH Brettorf  - Lemwerder TVB   11.00 
 OL,23,B]D810<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -19,7 +24,7 @@ PN,86002
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G860FNDR TEXT GMi 25.11.B17:44:06
+OL,0,       G860FNDR TEXT GDo 26.11.B21:19:08
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FAUSTBALL                   
@@ -39,20 +44,22 @@ PN,86003
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G860FNDR TEXT GMi 25.11.B17:44:06
+OL,0,       G860FNDR TEXT GDo 26.11.B21:19:08
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FAUSTBALL                   
 OL,4,F]T  %D     Bundesliga Nord Frauen Halle
-OL,8,BSonntag, 29. November                  
-OL,9, Schneverdingen - Ohligser TVB    11.00 
-OL,10, Schneverdingen - Ahlhorner SVB   11.00 
-OL,12, TSV Hagen      - Ohligser TVB    11.00 
-OL,13, TSV Hagen      - Ahlhorner SVB   11.00 
-OL,15, MTV Wangersen  - KellinghusenB   11.00 
-OL,16, MTV Wangersen  - TVGH BrettorfB  11.00 
-OL,18, Lemwerder TV   - KellinghusenB   11.00 
-OL,19, TVGH Brettorf  - Lemwerder TVB   11.00 
+OL,6,BSonntag, 6. Dezember                   
+OL,7, MTV Wangersen  - TVGH BrettorfB  11.00 
+OL,8, MTV Wangersen  - Ahlhorner SVB   11.00 
+OL,10, TVGH Brettorf  - Ahlhorner SVB   11.00 
+OL,11, Lemwerder TV   - KellinghusenB   11.00 
+OL,13, Lemwerder TV   - SchneverdingenB 11.00 
+OL,14, Kellinghusen   - SchneverdingenB 11.00 
+OL,16,BSonntag, 13. Dezember                  
+OL,17, Ohligser TV    - Ahlhorner SVB   11.00 
+OL,18, Ahlhorner SV   - Lemwerder TVB   11.00 
+OL,20, Ohligser TV    - Lemwerder TVB   11.00 
 OL,23,B]D810<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

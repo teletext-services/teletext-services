@@ -3,27 +3,27 @@ PN,70600
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G706  RSI LA 1  25.11.26 19:00:42
-OL,1,A]GRSI   ]@LA1      GIOVEDI 26 novembre 
+OL,0,       G706  RSI LA 1  26.11.26 17:12:45
+OL,1,A]GRSI   ]@LA1      VENERDI 27 novembre 
 OL,2,G                                       
-OL,3, G05:00  GTG Notte                      
+OL,3, G05:00  GTG NotteCR                    
 OL,4, F05:20  FMeteoCST                      
-OL,5, G05:25  GIl QuotidianoCST              
-OL,6, F05:55  FTG Notte                      
-OL,7, G06:15  GSiamo fuoriCST                
+OL,5, G05:25  GIl QuotidianoCSTCR            
+OL,6, F05:55  FTG NotteCR                    
+OL,7, G06:15  GSiamo fuoriCSTCR              
 OL,8, F07:10  FMezz'ora per voiCST           
 OL,9, G07:40  GMezz'ora per voiCST           
 OL,10, F08:05  FEverywhere I go -         CST 
 OL,11,         FCoincidenze d'amore           
-OL,12,         FEpisodio 43                   
+OL,12,         FEpisodio 44                   
 OL,13, G08:50  GLa signora in gialloCSTCI/II  
-OL,14,         GOmicidio in musica            
+OL,14,         GIn arte Jessica Fox           
 OL,15, F09:35  FLa natura selvaggia degli CST 
 OL,16,         Fanimali domestici             
-OL,17,         FIl gioco della vita           
+OL,17,         FPiccoli segreti               
 OL,18, G10:30  GPrivate EyesCSTCI/II          
-OL,19,         GLa vendetta } servita         
+OL,19,         GL'ultimo miglio               
 OL,20, F11:15  FWalker, Texas RangerCSTCI/II  
-OL,21,         FLa pillola del diavolo        
+OL,21,         FFuria cieca                   
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

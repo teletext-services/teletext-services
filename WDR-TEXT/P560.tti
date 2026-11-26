@@ -3,27 +3,27 @@ PN,56001
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G560 WDR Text GDo 26.11.26 00:12:08
+OL,0,     G560 WDR Text GDo 26.11.26 13:17:32
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DM]NSTER/OSNAB. ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 00:09            
+OL,4,                 STAND 13:13            
 OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B09:10 VL 2134 M}nchen                  
-OL,8, 12:20 VL 2136 M}nchen                  
-OL,9,B18:30 DE 1325 Gran Canaria             
-OL,10, 19:35 LH 2140 M}nchen                  
-OL,11,B23:30 VL 2142 M}nchen                  
-OL,12, ------Ank}nfte n{chster Tag------------
-OL,13,B08:55 FR 1450 Alicante           27.11.
-OL,14, 09:10 FR 3368 Malaga             27.11.
-OL,15,B09:10 VL 2134 M}nchen            27.11.
-OL,16, 09:25 FR 7249 Palma d.M.         27.11.
-OL,17,B15:25 HV 7998 Basel              27.11.
-OL,18, 16:15 LH 2138 M}nchen            27.11.
-OL,19,B16:35 DE 1323 Teneriffa          27.11.
-OL,20, 19:10 IV 5240 Pristina           27.11.
-OL,21,B19:35 LH 2140 M}nchen            27.11.
+OL,7,B12:20 VL 2136 M}nchen        13:06 ARR 
+OL,8, 18:30 DE 1325 Gran Canaria             
+OL,9,B19:35 LH 2140 M}nchen                  
+OL,10, 23:30 VL 2142 M}nchen                  
+OL,11,B------Ank}nfte n{chster Tag------------
+OL,12, 08:55 FR 1450 Alicante           27.11.
+OL,13,B09:10 FR 3368 Malaga             27.11.
+OL,14, 09:10 VL 2134 M}nchen            27.11.
+OL,15,B09:25 FR 7249 Palma d.M.         27.11.
+OL,16, 15:25 HV 7998 Basel              27.11.
+OL,17,B16:15 LH 2138 M}nchen            27.11.
+OL,18, 16:35 DE 1323 Teneriffa          27.11.
+OL,19,B19:10 IV 5240 Pristina           27.11.
+OL,20, 19:35 LH 2140 M}nchen            27.11.
+OL,21,B21:30 FR 6143 London STN         27.11.
 OL,23,]D555 < ]bersicht       FMO Abflug > 561
 OL,24,A]G- 559B]G+ 561C]DMuenster \     G(1/2)
 FL,559,561,0,0,0,100
@@ -31,14 +31,13 @@ PN,56002
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G560 WDR Text GDo 26.11.26 00:12:08
+OL,0,     G560 WDR Text GDo 26.11.26 13:17:32
 OL,1,]D]        G]               @]  CSERVICE
 OL,2,]D]GWDR     ]DM]NSTER/OSNAB. ]          
 OL,3,]T5D     Ankunft                   
-OL,4,                 STAND 00:09            
+OL,4,                 STAND 13:13            
 OL,6,CZEIT  FLUGNR. VON      ERWARTET BEMERK.
-OL,7,B21:30 FR 6143 London STN         27.11.
-OL,8, 23:30 VL 2142 M}nchen            27.11.
+OL,7,B23:30 VL 2142 M}nchen            27.11.
 OL,23,]D555 < ]bersicht       FMO Abflug > 561
 OL,24,A]G- 559B]G+ 561C]DMuenster \     G(2/2)
 FL,559,561,0,0,0,100

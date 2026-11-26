@@ -3,51 +3,63 @@ PN,10801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMi 25 Nov F16:21:54
+OL,0,         GFORUM64   GDo 26 Nov F01:13:37
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EInfos zum Commodore PC 40-01           
-OL,4,CAntwort:  Bdaybyter                    
-OL,5,CComments: B108                         
-OL,6,F                                       
-OL,7,FBitte melde Dich an, um dieses         
-OL,8,FMedienelement zu sehen.                
-OL,10,FEben auf YouTube gesehen               
-OL,12,CErster Beitrag:                        
-OL,14,GHab vor ein paar Wochen eher zuf{llig  
-OL,15,Gnoch einen Commodore PC 40-01          
-OL,16,G(obendrein auf einen Amiga 2000)       
-OL,17,Gerstanden. Leider finde ich zu dem     
-OL,18,GGer{t (im Gegensatz zum PC 40-III) im  
-OL,19,GInternet nahezu keine Informationen,   
-OL,20,Gausgenommen ein paar Bilder. Das Board 
-OL,21,Ghat Commodore bei diesem PC zugekauft  
-OL,22,Gund nicht selbst entwickelt. Es tr{gt  
-OL,23,Gdie Bezeichnung PC/900-2 . Dennoch     
-OL,24,D]FForum64.de RSS feed            (1/2) 
+OL,2,EThe whole internet is a floppy drive   
+OL,3,Efor you Commodore with Meatloaf!       
+OL,5,CAntwort:  Bidolpx                      
+OL,6,CComments: B360                         
+OL,7,F                                       
+OL,8,F( )                                    
+OL,10,FI made changes to the bus code in      
+OL,11,Fpreparation to support more fast       
+OL,12,Floaders. I think that is the cause. I'm
+OL,13,Finvestigating and will get an update   
+OL,14,Fposted with some more improvements.    
+OL,16,CErster Beitrag:                        
+OL,18,GI hope it is ok to post in English.    
+OL,19,GI've been a user for a while now but   
+OL,20,Ghave not posted anything.              
+OL,22,GI apologize in advance if not. I could 
+OL,23,Guse a translator but I'm afraid it     
+OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,10802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GMi 25 Nov F16:21:54
+OL,0,         GFORUM64   GDo 26 Nov F01:13:37
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Ghandelt es sich um keinen umgelabelten 
-OL,4,Gstandard PC; das Netzteil etwa hat     
-OL,5,Gdenselben Formfaktor wie das Amiga 2000
-OL,6,GNetzteil (ist elektrisch jedoch        
-OL,7,GAT-kompatibel) und auch das Geh{use ist
-OL,8,Gdem des A2000 von der gesamten         
-OL,9,GKonstruktionsweise sehr {hnlich. Auch  
-OL,10,Gist das Parallel/Seriell-Interface auf 
-OL,11,Geiner von Commodore selbst entwickelten
-OL,12,G8bit ISA-Karte untergebracht.          
-OL,14,GIn welchen Ausstattungen war der PC zu 
-OL,15,Ghaben? Wie ist der RAM original        
-OL,16,Gbest}ckt? Welcher Jumper konfiguriert  
-OL,17,Gwas? Mit welchen ISA-Karten kam das    
-OL,18,Ggute St}ck ab Werk? Mit welchen        
-OL,19,GHDD/FDD-Laufwerken kam es ab Werk,     
-OL,20,Gwelcher Controller wurde daf}r benutzt?
-OL,21,G(wenigstens die                        
-OL,24,D]FForum64.de RSS feed            (2/2) 
+OL,3,Gwould not do as good a job as I'd like.
+OL,5,GI was hoping people might be interested
+OL,6,Gin my little gadget. It's a 1541 multi 
+OL,7,Gdrive emulator and wifi modem. No need 
+OL,8,Gfor a PC. It has 16MB of flash memory  
+OL,9,Gonboard. Can hold a lot of             
+OL,10,GD64/D71/D81/T64/TCRT/PRG/P00 file      
+OL,11,Gimages. It can also access disk images 
+OL,12,Gvia HTTP and load them like they were  
+OL,13,Gdirectly mounted from flash. You use   
+OL,14,Gsimple LOAD commands to connect via    
+OL,15,Ghttp, change directories and mount disk
+OL,16,Gimages. It doesn't support any fast    
+OL,17,Gloaders yet but I'm working on that.   
+OL,18,GAll operations at the moment are read  
+OL,19,Gonly as well.                          
+OL,21,GI also integrated a WebDAV server so   
+OL,22,Gyou can connect to it from your        
+OL,23,Gcomputer over Wifi and mount it like   
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,10803
+SC,0003
+PS,C200
+CT,15,T
+OL,0,         GFORUM64   GDo 26 Nov F01:13:37
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,Gany network drive to add/edit/delete   
+OL,4,Gfiles in the flash memory.             
+OL,6,GIt can be configured to emulate any/all
+OL,7,GDevice IDs from 4-30 with a different  
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

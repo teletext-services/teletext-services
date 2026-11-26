@@ -3,27 +3,23 @@ PN,60201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G602FORF2   GMi 25.11.26 18:32:33
+OL,0,       G602FORF2   GDo 26.11.26 14:25:00
 OL,1,A]G                                Wien 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       1/3  
-OL,4,FHeute NachtGdichte Wolken. Zur Fr}h hin
-OL,5,Gfallen erste Schneeflocken. Der Tiefst-
-OL,6,Gwert liegt bei -2 bis 0 Grad.          
-OL,8,FMorgenGwinterlich! Von der Fr}h weg    
-OL,9,Gschneit es leicht. Zwischen dem Vormit-
-OL,10,Gtag und dem sp{ten Nachmittag          
-OL,11,Gintensiviert sich der Schneefall.      
-OL,12,GSelbst in der Innenstadt sollten ein   
-OL,13,Gpaar cm Schnee liegen bleiben. Am Rand 
-OL,14,Gdes Wienerwalds sind }ber 10cm Schnee  
-OL,15,Gzu erwarten. Der Wind weht schwach bis 
-OL,16,Gm{~ig aus NO. Die Temperatur liegt den 
-OL,17,Gganzen Tag um 0 Grad.                  
-OL,18,F]bermorgenGWolken, einzelne Schneeflo- 
-OL,19,Gcken und zwischendurch Sonne. M{~iger  
-OL,20,GNW-Wind. Kalt bei maximal +2 Grad.     
-OL,21,FWarnseite beachten >> 624  ORF 16:00h  
+OL,4,FHeute NachmittagGschneit es zun{chst   
+OL,5,Gnoch recht kr{ftig. Sp{ter am Nachmit- 
+OL,6,Gtag wird der Schneefall allm{hlich     
+OL,7,Gweniger. Bei leichtem Nordostwind liegt
+OL,8,Gdie Temperatur um 0 Grad.              
+OL,10,FMorgenGkann es vor allem in der Fr}h   
+OL,11,Gund am Vormittag noch unergiebig       
+OL,12,Gschneien. Im Lauf des Tages lockert die
+OL,13,GWolkendecke dann zeitweise auf und die 
+OL,14,GSonne kommt zum Vorschein. Es weht     
+OL,15,Gm{~iger bis lebhafter Nordwestwind.    
+OL,16,GDie Temperatur schafft maximal 2 Grad. 
+OL,21,FWarnseite beachten >> 624  ORF 10:00h  
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -31,23 +27,23 @@ PN,60202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G602FORF2   GMi 25.11.26 18:32:33
+OL,0,       G602FORF2   GDo 26.11.26 14:25:00
 OL,1,A]G                                Wien 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       2/3  
-OL,4,FDonaufeld     C18hGstark bew|lktF  0,9`
-OL,5, GO   7-18 km/h 1020hPa  0,0mm/2h  76%LF
-OL,7,FFlughafen WienC18hGstark bew|lktF  0,5`
-OL,8, GO  11-18 km/h 1020hPa  0,0mm/2h  82%LF
-OL,10,FHohe Warte    C18hGstark bew|lktF  0,9`
-OL,11, GO  17-27 km/h 1020hPa  0,0mm/2h  81%LF
-OL,13,FInnere Stadt  C18hGstark bew|lktF  1,7`
-OL,14, GSO 16-27 km/h 1019hPa  0,0mm/2h  75%LF
-OL,16,FJubil{umswarteC18hGstark bew|lktF -1,1`
-OL,17, GSO 15-28 km/h 1020hPa  0,0mm/2h  89%LF
-OL,19,FMariabrunn    C18hGstark bew|lktF  0,8`
-OL,20, GSO  6-18 km/h 1019hPa  0,0mm/2h  78%LF
-OL,21,F              Geosphere Austria  18:00h
+OL,4,FDonaufeld     C14hG   SchneefallF  0,2`
+OL,5, GN   6-14 km/h 1014hPa  3,7mm/2h  91%LF
+OL,7,FFlughafen WienC14hG   SchneefallF -0,1`
+OL,8, GN   9-17 km/h 1014hPa  3,6mm/2h  97%LF
+OL,10,FHohe Warte    C14hG   SchneefallF  0,1`
+OL,11, GNO 12-23 km/h 1014hPa  3,9mm/2h  96%LF
+OL,13,FInnere Stadt  C14hG   SchneefallF  0,6`
+OL,14, GN   9-21 km/h 1014hPa  3,5mm/2h  90%LF
+OL,16,FJubil{umswarteC14hG   SchneefallF -1,4`
+OL,17, GN  10-17 km/h 1014hPa  3,9mm/2h  97%LF
+OL,19,FMariabrunn    C14hG   SchneefallF  0,3`
+OL,20, GW    1-2 km/h 1014hPa  3,9mm/2h  94%LF
+OL,21,F              Geosphere Austria  14:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -55,15 +51,15 @@ PN,60203
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G602FORF2   GMi 25.11.26 18:32:33
+OL,0,       G602FORF2   GDo 26.11.26 14:25:00
 OL,1,A]G                                Wien 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       3/3  
-OL,4,FStammersdorf  C18hGstark bew|lktF  0,4`
-OL,5, GO   9-18 km/h 1021hPa  0,0mm/2h  82%LF
-OL,7,FUnterlaa      C18hGstark bew|lktF  0,8`
-OL,8, GO  17-24 km/h 1020hPa  0,0mm/2h  84%LF
-OL,21,F              Geosphere Austria  18:00h
+OL,4,FStammersdorf  C14hG   SchneefallF -0,1`
+OL,5, GN  16-23 km/h 1015hPa  4,4mm/2h  94%LF
+OL,7,FUnterlaa      C14hG   SchneefallF  0,3`
+OL,8, GN   9-15 km/h 1015hPa  2,5mm/2h  96%LF
+OL,21,F              Geosphere Austria  14:00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

@@ -3,26 +3,26 @@ PN,70600
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       G706  SRF info  25.11.26 10:24:52
-OL,1,A]GSRF info G]@Mittwoch, 25. November   
+OL,0,       G706  SRF info  26.11.26 17:12:26
+OL,1,A]GSRF info G]@Donnerstag, 26. November 
 OL,2,G                                       
-OL,3,G21:05 GEinstein (W)................C742
-OL,4,       GWas, wenns brennt? Feuer in     
-OL,5,       Gdeinem ZuhauseCUT               
-OL,6,F21:40 FMeteo (W)...................C   
-OL,7,       FAbendausgabeCDDCUT              
-OL,8,G21:45 GTelesguard (W)CDDCUT........C743
-OL,9,F21:55 FSRF B|rse (W)CDDCUT.........C   
-OL,10,G22:00 GSportflash (W)..............C744
-OL,11,       GDie Sportnews des TagesCDD      
-OL,12,F22:05 FSchweiz aktuell (W)CDDCUT...C765
-OL,13,G22:25 GMeteo (W)...................C   
-OL,14,       GAbendausgabeCDDCUT              
-OL,15,F22:30 FSRF B|rse (W)CDDCUT.........C   
-OL,16,G22:35 GSportflash (W)..............C745
-OL,17,       GDie Sportnews des TagesCDD      
-OL,18,F22:40 F10 vor 10 (W)CDDCUT.........C767
-OL,19,G23:05 GMeteo (W)...................C   
-OL,20,       GSp{tausgabeCDDCUT               
+OL,3,G02:50 GMeteo (W)...................C   
+OL,4,       GSp{tausgabeCDDCUT               
+OL,5,F02:55 FSportflash (W)..............C742
+OL,6,       FDie Sportnews des TagesCDD      
+OL,7,G03:00 GUEFA Europa League -........C743
+OL,8,       GHighlights M{nner (W)           
+OL,9,       GDie besten Spiele, Szenen und   
+OL,10,       GToreCDD                         
+OL,11,F03:30 FNewsflash SRF 1 (W)CDDCUT...C   
+OL,12,G03:35 G10 vor 10 (W)CDDCUT.........C   
+OL,13,F04:00 FMeteo (W)...................C   
+OL,14,       FSp{tausgabeCDDCUT               
+OL,15,G04:05 GSportflash (W)..............C744
+OL,16,       GDie Sportnews des TagesCDD      
+OL,17,F04:10 FUEFA Europa League -........C745
+OL,18,       FHighlights M{nner (W)           
+OL,19,       FDie besten Spiele, Szenen und   
+OL,20,       FToreCDD                         
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100
