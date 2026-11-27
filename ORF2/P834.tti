@@ -3,167 +3,170 @@ PN,83401
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G834FORF2   GFr 27.11.26 02:36:57
+OL,0,       G834FORF2   GFr 27.11.26 12:36:44
 OL,1,A]G                    Wien Westbahnhof 
 OL,2,A]G\BB  ]A                     Ankunft \
 OL,3,Q#######G                          1/6  
 OL,4,C  Zug   Plan Akt. von                  
-OL,5,REX   51B 537B 537GSt.P|lten Hbf        
-OL,6,REX   50B 545B 545GSt.P|lten Hbf        
-OL,7,REX   51B 607B 607GSt.P|lten Hbf        
-OL,8,REX   51B 637F ** GSt.P|lten Hbf        
-OL,9,REX   50B 645F ** GSt.P|lten Hbf        
-OL,10,REX   51B 707F ** GSt.P|lten Hbf        
-OL,11,REX   51B 737F ** GSt.P|lten Hbf        
-OL,12,REX   50B 745F ** GSt.P|lten Hbf        
-OL,13,REX   51B 807F ** GSt.P|lten Hbf        
-OL,14,REX   51B 837F ** GSt.P|lten Hbf        
-OL,15,EC   342B 900F ** GBudapest-Keleti      
-OL,16,REX   51B 907F ** GSt.P|lten Hbf        
-OL,17,REX   51B 937F ** GSt.P|lten Hbf        
-OL,18,D  40007B 956B 956GUzhhorod             
-OL,19,D    346B 956B 956GBucuresti Nord Gara A
+OL,5,EC   203B1230A1255GKrakow Glowny        
+OL,6,REX   51B1237B1237GSt.P|lten Hbf        
+OL,7,REX   51B1307B1307GSt.P|lten Hbf        
+OL,8,REX   51B1337B1337GSt.P|lten Hbf        
+OL,9,EC   142B1400B1400GBudapest-Keleti      
+OL,10,REX   51B1407B1407GSt.P|lten Hbf        
+OL,11,EC   103B1430A1545GWarszawa Wschodnia   
+OL,12,REX   51B1437B1437GSt.P|lten Hbf        
+OL,13,REX   51B1507B1507GSt.P|lten Hbf        
+OL,14,REX   51B1537B1537GSt.P|lten Hbf        
+OL,15,EC   144B1600B1600GBudapest-Keleti      
+OL,16,REX   51B1607B1607GSt.P|lten Hbf        
+OL,17,EC   205B1630A1640GKrakow Glowny        
+OL,18,REX   51B1637B1637GSt.P|lten Hbf        
+OL,19,REX   51B1707F ** GSt.P|lten Hbf        
 OL,21,F** Derzeit keine Versp{tungen gemeldet 
-OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 02:29h 
+OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 12:36h 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83402
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G834FORF2   GFr 27.11.26 02:36:57
+OL,0,       G834FORF2   GFr 27.11.26 12:36:44
 OL,1,A]G                       St.P|lten HBF 
 OL,2,A]G\BB  ]A                     Ankunft \
 OL,3,Q#######G                          2/6  
 OL,4,C  Zug   Plan Akt. von                  
-OL,5,RJ   821B 500B 500GWels Hbf             
-OL,6,IC   847B 529B 529GLinz/Donau Hbf       
-OL,7,IC   848B 530B 530GWien Hbf (Bahnsteige 
-OL,8,RJX  368B 557B 557GWien Hbf (Bahnsteige 
-OL,9,EN 40467B 558B 558GZ}rich HB            
-OL,10,EC   463B 558B 558GSalzburg Hbf         
-OL,11,EN 50237B 558B 558GStuttgart Hbf        
-OL,12,NJ 19947B 610B 610GBregenz Bahnhof      
-OL,13,EN 40407B 613B 613GWarszawa Wschodnia   
-OL,14,EN 40417B 613F ** GPrzemysl Glowny      
-OL,15,IC   407B 613B 613GWarszawa Wschodnia   
-OL,16,IC   417B 613F ** GPrzemysl Glowny      
-OL,17,RJ   256B 628F ** GLinz/Donau Hbf       
-OL,18,IC   540B 630F ** GWien Hbf (Bahnsteige 
-OL,19,D   1123B 643F ** GSt.Valentin Bahnhof  
+OL,5,NJ 40421B 913A1238GAmsterdam Centraal   
+OL,6,NJ   493B 913A1238GHamburg-Altona       
+OL,7,RJX13470B1057A1302GWien Hbf (Bahnsteige 
+OL,8,RJX   60B1057A1302GBudapest-Keleti      
+OL,9,RJX   61B1101A1241GM}nchen Hbf          
+OL,10,ICE 1214B1144A1239GWien Hbf (Bahnsteige 
+OL,11,RJX19975B1201A1436GBregenz Bahnhof      
+OL,12,IC   642B1230A1245GFlughafen Wien Bahnho
+OL,13,BusSV113B1254B1254GSchrambach Bahnhst (B
+OL,14,RJX19982B1257B1257GWien Hbf (Bahnsteige 
+OL,15,RJX   62B1257B1257GBudapest-Keleti      
+OL,16,RJX   63B1301A1351GSalzburg Hbf         
+OL,17,RJX19983B1301A1506GBregenz Bahnhof      
+OL,18,IC   643B1329A1339GWels Hbf             
+OL,19,IC   644B1330B1330GFlughafen Wien Bahnho
+OL,20,BusSV113B1354F ** GHainfeld N\ Bahnhof (
 OL,21,F** Derzeit keine Versp{tungen gemeldet 
-OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 02:29h 
+OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 12:36h 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83403
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G834FORF2   GFr 27.11.26 02:36:57
+OL,0,       G834FORF2   GFr 27.11.26 12:36:44
 OL,1,A]G                      Linz/Donau HBF 
 OL,2,A]G\BB  ]A                     Ankunft \
 OL,3,Q#######G                          3/6  
 OL,4,C  Zug   Plan Akt. von                  
-OL,5,RJ   821B 408B 408GWels Hbf             
-OL,6,NJ 19947B 443A 458GBregenz Bahnhof      
-OL,7,EN 40467B 504B 504GZ}rich HB            
-OL,8,EC   463B 504B 504GSalzburg Hbf         
-OL,9,EN 50237B 504B 504GStuttgart Hbf        
-OL,10,BusSV141B 524F ** GSummerau Bahnhof (Vor
-OL,11,NJ 40236B 558B 558GVenezia Santa Lucia  
-OL,12,NJ   467B 558B 558GZ}rich HB            
-OL,13,RJX  769B 615B 615GSalzburg Hbf         
-OL,14,IC   848B 628B 628GWien Hbf (Bahnsteige 
-OL,15,IC   541B 630F ** GV|cklabruck Bahnhof  
-OL,16,RJX  368B 643B 643GWien Hbf (Bahnsteige 
-OL,17,EN 40407B 713B 713GWarszawa Wschodnia   
-OL,18,EN 40417B 713F ** GPrzemysl Glowny      
-OL,19,IC   407B 713B 713GWarszawa Wschodnia   
+OL,5,RJX19975B1115A1350GBregenz Bahnhof      
+OL,6,RJX13470B1143A1353GWien Hbf (Bahnsteige 
+OL,7,RJX   60B1143A1353GBudapest-Keleti      
+OL,8,RJX   63B1215A1305GSalzburg Hbf         
+OL,9,RJX19983B1215A1415GBregenz Bahnhof      
+OL,10,IC   643B1230A1240GWels Hbf             
+OL,11,ICE 1214B1232A1327GWien Hbf (Bahnsteige 
+OL,12,RJX19976B1259A1314GFlughafen Wien Bahnho
+OL,13,RJX  186B1315A1430GInnsbruck Hbf        
+OL,14,RJX  161B1315A1430GInnsbruck Hbf        
+OL,15,IC   642B1328A1338GFlughafen Wien Bahnho
+OL,16,IC   645B1330F ** GSalzburg Hbf         
+OL,17,Bus 3616B1339F ** GSt.Valentin Bahnhof  
+OL,18,RJX19982B1343B1343GWien Hbf (Bahnsteige 
+OL,19,RJX   62B1343B1343GBudapest-Keleti      
 OL,21,F** Derzeit keine Versp{tungen gemeldet 
-OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 02:29h 
+OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 12:36h 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83404
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G834FORF2   GFr 27.11.26 02:36:57
+OL,0,       G834FORF2   GFr 27.11.26 12:36:44
 OL,1,A]G                        Salzburg HBF 
 OL,2,A]G\BB  ]A                     Ankunft \
 OL,3,Q#######G                          4/6  
 OL,4,C  Zug   Plan Akt. von                  
-OL,5,EC   462B 207A 232GBudapest-Keleti      
-OL,6,EN   414B 245A 355GZagreb Glavni kolodvo
-OL,7,NJ 19947B 255A 340GBregenz Bahnhof      
-OL,8,NJ   236B 255B 255GVenezia Santa Lucia  
-OL,9,NJ 40236B 255F ** GVenezia Santa Lucia  
-OL,10,EN 40467B 322A 332GZ}rich HB            
-OL,11,NJ   467B 322A 332GZ}rich HB            
-OL,12,NJ 40421B 646A 936GAmsterdam Centraal   
-OL,13,NJ   493B 646A 936GHamburg-Altona       
-OL,14,RJ 13478B 649F ** GLinz/Donau Hbf       
-OL,15,D    817B 653B 653GSaalfelden Bahnhof   
-OL,16,NJ   294B 658B 658GRoma Tiburtina       
-OL,17,RJX19969B 702B 702GInnsbruck Hbf        
-OL,18,IC   848B 749B 749GWien Hbf (Bahnsteige 
-OL,19,EC   212B 753B 753GKlagenfurt Hbf       
-OL,21,F** Derzeit keine Versp{tungen gemeldet 
-OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 02:29h 
+OL,5,RJX19975B1003A1243GBregenz Bahnhof      
+OL,6,RJX19962B1053A1248GWien Hbf (Bahnsteige 
+OL,7,RJX  262B1053A1248GWien Hbf (Bahnsteige 
+OL,8,RJX19983B1102A1312GBregenz Bahnhof      
+OL,9,RJX19952B1153A1238GWien Hbf (Bahnsteige 
+OL,10,RJX  162B1153A1238GBudapest-Keleti      
+OL,11,EC  1216B1201A1306GWien Hbf (Bahnsteige 
+OL,12,RJX  186B1203A1328GInnsbruck Hbf        
+OL,13,RJX  161B1203A1328GInnsbruck Hbf        
+OL,14,IR   713B1249B1249GW|rgl Hbf            
+OL,15,RJX13470B1253A1458GWien Hbf (Bahnsteige 
+OL,16,IC   796B1253B1253GVillach Hbf          
+OL,17,RJX   60B1253A1458GBudapest-Keleti      
+OL,18,RJX   65B1258B1258GM}nchen Hbf          
+OL,19,RJX19985B1302A1317GBregenz Bahnhof      
+OL,20,IC   640B1349B1349GFlughafen Wien Bahnho
+OL,21,ICE  116B1353B1353GGraz Hbf             
+OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 12:36h 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83405
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       G834FORF2   GFr 27.11.26 02:36:57
+OL,0,       G834FORF2   GFr 27.11.26 12:36:44
 OL,1,A]G                       Innsbruck HBF 
 OL,2,A]G\BB  ]A                     Ankunft \
 OL,3,Q#######G                          5/6  
 OL,4,C  Zug   Plan Akt. von                  
-OL,5,EN 40462B 427B 427GBudapest-Keleti      
-OL,6,NJ   466B 427B 427GWien Hbf (Bahnsteige 
-OL,7,EN 40414B 449A 509GZagreb Glavni kolodvo
-OL,8,NJ   464B 449A 509GGraz Hbf             
-OL,9,NJ 19946B 505B 505GWien Hbf (ARZ)       
-OL,10,BusSV410B 555F ** GScharnitz Bahnhof (Vo
-OL,11,RJX19981B 642B 642GBregenz Bahnhof      
-OL,12,RJX19975B 743B 743GBregenz Bahnhof      
-OL,13,IR   614B 748F ** GSaalfelden Bahnhof   
-OL,14,RJX  366B 802F ** GSalzburg Hbf         
-OL,15,RJX19983B 841F ** GBregenz Bahnhof      
-OL,16,NJ 40491B 849B 849GHamburg-Altona       
-OL,17,NJ   421B 849B 849GAmsterdam Centraal   
-OL,18,RJ 13478B 904F ** GLinz/Donau Hbf       
-OL,19,RJ    81B 918F ** GM}nchen Hbf          
-OL,21,F** Derzeit keine Versp{tungen gemeldet 
-OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 02:29h 
+OL,5,RJ    88B1232A1252GBologna Centrale     
+OL,6,RJX13477B1241A1411GBregenz Bahnhof      
+OL,7,RJX19962B1304A1454GWien Hbf (Bahnsteige 
+OL,8,RJ    85B1318B1318GM}nchen Hbf          
+OL,9,RJX  165B1343A1353GZ}rich HB            
+OL,10,IR   518B1348B1348GGraz Hbf             
+OL,11,RJX19952B1402A1432GWien Hbf (Bahnsteige 
+OL,12,RJX  162B1402A1432GBudapest-Keleti      
+OL,13,RJ    86B1432B1432GVerona Porta Nuova   
+OL,14,RJX13479B1441B1441GFeldkirch Bahnhof    
+OL,15,RJX13470B1504A1549GWien Hbf (Bahnsteige 
+OL,16,RJ    87B1518B1518GM}nchen Hbf          
+OL,17,EC   164B1540B1540GGraz Hbf             
+OL,18,RJX19957B1543B1543GFeldkirch Bahnhof    
+OL,19,RJX  167B1543B1543GSargans              
+OL,20,RJX19976B1618B1618GFlughafen Wien Bahnho
+OL,21,RJ    84B1632F ** GVenezia Santa Lucia  
+OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 12:36h 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83406
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       G834FORF2   GFr 27.11.26 02:36:57
+OL,0,       G834FORF2   GFr 27.11.26 12:36:44
 OL,1,A]G                             Bregenz 
 OL,2,A]G\BB  ]A                     Ankunft \
 OL,3,Q#######G                          6/6  
 OL,4,C  Zug   Plan Akt. von                  
-OL,5,RJX19986B2347A 307GWien Hbf (Bahnsteige 
-OL,6,RJX19970B 047A 242GFlughafen Wien Bahnho
-OL,7,EC   290B 658F ** GLindau (Bodensee) Reu
-OL,8,EC    95B 700F ** GZ}rich HB            
-OL,9,NJ 19946B 857B 857GWien Hbf (ARZ)       
-OL,10,EC   198B 858F ** GLindau (Bodensee) Reu
-OL,11,EC    97B 900F ** GZ}rich HB            
-OL,12,RJ 19966B 947F ** GInnsbruck Hbf        
-OL,13,EC   196B1058F ** GLindau (Bodensee) Reu
-OL,14,EC    99B1100F ** GZ}rich HB            
-OL,15,ICE  216B1149F ** GInnsbruck Hbf        
-OL,16,RJ 13478B1151F ** GLinz/Donau Hbf       
-OL,17,EC   194B1258F ** GLindau (Bodensee) Reu
-OL,18,EC   191B1300F ** GZ}rich HB            
-OL,19,RJX19960B1347F ** GWien Hbf (Bahnsteige 
+OL,5,EC   194B1258B1258GLindau (Bodensee) Reu
+OL,6,EC   191B1300B1300GZ}rich HB            
+OL,7,RJX19960B1347B1347GWien Hbf (Bahnsteige 
+OL,8,EC   192B1458B1458GLindau (Bodensee) Reu
+OL,9,EC   193B1500B1500GZ}rich HB            
+OL,10,RJX19962B1547A1707GWien Hbf (Bahnsteige 
+OL,11,ICE  217B1604A1619GEssen Hbf            
+OL,12,EC   190B1658F ** GLindau (Bodensee) Reu
+OL,13,EC   195B1700B1700GZ}rich HB            
+OL,14,RJX13470B1747A1757GWien Hbf (Bahnsteige 
+OL,15,EC   197B1858F ** GZ}rich HB            
+OL,16,EC    98B1858F ** GLindau (Bodensee) Reu
+OL,17,RJX19982B1947B1947GWien Hbf (Bahnsteige 
+OL,18,EC    96B2058F ** GLindau (Bodensee) Reu
+OL,19,EC   199B2100F ** GZ}rich HB            
 OL,21,F** Derzeit keine Versp{tungen gemeldet 
-OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 02:29h 
+OL,23,Q,,,,,,,,G\BB-Personenverkehr AG 12:36h 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

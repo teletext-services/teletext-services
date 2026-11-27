@@ -3,28 +3,28 @@ PN,30201
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G302 YLE TEKSTI-TV 27.03.05:48:24
-OL,1,D]         G]                    D  1/4 
+OL,0,       G302 YLE TEKSTI-TV 27.03.15:47:54
+OL,1,D]         G]                    D  1/2 
 OL,2,D]GTV2     G]D    Perjantai 27.11.      
 OL,3,T#########^W############################
-OL,4, 00.00GPentulive 2026 TV2 y|striimi     
-OL,5, 06.20GMeid{n maamme - V}rt landBAC>353 
-OL,6, 06.50GPikku Kakkonen                   
-OL,7, 06.51GNimip{iv{onnittelu: 27.11.FAC>353
-OL,8, 06.52GHumpsG(S)ETBAC>353               
-OL,9, 07.00GKotilokouluG(S)ETBAC>353         
-OL,10, 07.07GPikku KakkonenFA                 
-OL,11, 07.09GPipsa PossuG(S)ETBAC>353         
-OL,12, 07.14GPikku KakkonenFA                 
-OL,13, 07.16GMalla MahtavaG(S)ETBAC>353       
-OL,14, 07.27GElla, Oskari ja HuuG(S)ETFAC>353 
-OL,15, 07.38GPikku Kakkosen postiETFA         
-OL,16, 07.43GKaarleG(S)ETBAC>353              
-OL,17, 07.55GPikku KakkonenFA                 
-OL,18, 07.57GSafariG(S)ETFAC>353              
-OL,19, 08.10GDinofarmiG(S)ETBAC>353           
-OL,20, 08.22GNimip{iv{onnittelu: 27.11.FAC>353
-OL,21, 08.24GPikku Kakkonen                   
+OL,4, 15.43GRuma SuomiETBAC>353              
+OL,5, 16.15GUrheilustudioBA                  
+OL,6, 16.25GYhdistetyn MC: M 7,5 km, RukaFA  
+OL,7, 16.56GUrheilustudioFA                  
+OL,8, 17.05GAmpumahiihdon MC: Naisten        
+OL,9,      GnormaalimatkaFA                  
+OL,10, 18.51GUrheilustudioFA                  
+OL,11, 19.05GM{kihypyn MC: M iso m{ki,        
+OL,12,      Gkarsinta, RukaFA                 
+OL,13, 20.05GSuomalaisen naiskoripallon tarina
+OL,14,      G  kohti kotikisoja 2027ETBA      
+OL,15, 20.15GSuomalaisen naiskoripallon tarina
+OL,16,      G  kohti kotikisoja 2027ETBA      
+OL,17, 20.24GSuomalaisen naiskoripallon tarina
+OL,18,      G  kohti kotikisoja 2027ETBA      
+OL,19, 20.40GKoripallon miesten MM-           
+OL,20,      Gjatkokarsinta: Ennakkostudio SLO 
+OL,21,      G- FINFA                          
 OL,22,ET = Tekstitys                          
 OL,23,BA = Jo Areenassa   FA = Tulee Areenaan 
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
@@ -33,83 +33,23 @@ PN,30202
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G302 YLE TEKSTI-TV 27.03.05:48:24
-OL,1,D]         G]                    D  2/4 
+OL,0,       G302 YLE TEKSTI-TV 27.03.15:47:54
+OL,1,D]         G]                    D  2/2 
 OL,2,D]GTV2     G]D    Perjantai 27.11.      
 OL,3,T#########^W############################
-OL,4, 08.25GKeltainen LumimiesG(S)ETBA       
-OL,5, 08.37GPoika, tytt|, koira, kissa, hiiri
-OL,6,      Gja juustoG(S)ETBAC>353           
-OL,7, 08.50GJumppahetkiETBA                  
-OL,8, 09.00GRamsay PullisestaETBAC>353       
-OL,9, 10.00GSuuri keramiikkakisaBAC>353      
-OL,10, 10.56GL{nnen-Jukka AmerikassaETBAC>353 
-OL,11, 11.15GUrheilustudioFA                  
-OL,12, 11.25GHiihdon MC: N 10 km (p) RukaFA   
-OL,13, 12.46GUrheilustudioFA                  
-OL,14, 12.55GYhdistetyn MC: M HS 142 RukaFA   
-OL,15, 13.50GUrheilustudioFA                  
-OL,16, 13.55GHiihdon MC: M 10 km (p) RukaFA   
-OL,17, 15.16GUrheilustudioFA                  
-OL,18, 15.25GKeikkaG(S)ETBAC>353              
-OL,19, 15.42GRuma SuomiETBAC>353              
-OL,20, 16.15GUrheilustudioFA                  
-OL,21, 16.25GYhdistetyn MC: M 7,5 km RukaFA   
-OL,22, 16.56GUrheilustudioFA                  
-OL,23,G]DTV2 huomennaD311  ylihuomennaD316    
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,30203
-SC,0003
-PS,C100
-CT,15,T
-OL,0,       G302 YLE TEKSTI-TV 27.03.05:48:24
-OL,1,D]         G]                    D  3/4 
-OL,2,D]GTV2     G]D    Perjantai 27.11.      
-OL,3,T#########^W############################
-OL,4, 17.05GAmpumahiihdon MC: Naisten        
-OL,5,      GnormaalimatkaFA                  
-OL,6, 18.51GUrheilustudioFA                  
-OL,7, 19.05GM{kihypyn MC: M HS 142 karsinta, 
-OL,8,      GRukaFA                           
-OL,9, 20.05GSuomalaisen naiskoripallon tarina
-OL,10,      G  kohti kotikisoja 2027ETBA      
-OL,11, 20.15GSuomalaisen naiskoripallon tarina
-OL,12,      G  kohti kotikisoja 2027ETBA      
-OL,13, 20.24GSuomalaisen naiskoripallon tarina
-OL,14,      G  kohti kotikisoja 2027ETBA      
-OL,15, 20.40GKoripallon miesten MM-           
-OL,16,      Gjatkokarsinta: Ennakkostudio SLO 
-OL,17,      G- FINFA                          
-OL,18, 20.50GKoripallon miesten MM-           
-OL,19,      Gjatkokarsinta: SLO - FINFA       
-OL,20, 23.00GKoripallon miesten MM-           
-OL,21,      Gjatkokarsinta: J{lkistudio SLO - 
-OL,22,      GFINFA                            
-OL,23,D]G    TV-ohjelmien hakemisto s.G300    
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,30204
-SC,0004
-PS,C100
-CT,15,T
-OL,0,       G302 YLE TEKSTI-TV 27.03.05:48:24
-OL,1,D]         G]                    D  4/4 
-OL,2,D]GTV2     G]D    Perjantai 27.11.      
-OL,3,T#########^W############################
-OL,4, 20.24GSuomalaisen naiskoripallon tarina
-OL,5,      G  kohti kotikisoja 2027ETBA      
-OL,6, 20.40GKoripallon miesten MM-           
-OL,7,      Gjatkokarsinta: Ennakkostudio SLO 
-OL,8,      G- FINFA                          
-OL,9, 20.50GKoripallon miesten MM-           
-OL,10,      Gjatkokarsinta: SLO - FINFA       
-OL,11, 23.00GKoripallon miesten MM-           
-OL,12,      Gjatkokarsinta: J{lkistudio SLO - 
-OL,13,      GFINFA                            
-OL,14, 23.10GBlockfest 2026ETC>354            
-OL,15, 00.10GBelzebubsG(7)ETBAC>354           
-OL,16, 00.35GPentulive 2026 TV2 y|striimi     
+OL,4, 20.50GKoripallon miesten MM-           
+OL,5,      Gjatkokarsinta: SLO - FINFA       
+OL,6, 23.00GKoripallon miesten MM-           
+OL,7,      Gjatkokarsinta: J{lkistudio SLO - 
+OL,8,      GFINFA                            
+OL,9, 23.10GBlockfest 2026ETC>354            
+OL,10, 00.10GBelzebubsG(7)ETBAC>354           
+OL,11, 00.35GPentulive 2026 TV2 y|striimi     
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
 OL,17,K                                       
 OL,18,K                                       
 OL,19,K                                       

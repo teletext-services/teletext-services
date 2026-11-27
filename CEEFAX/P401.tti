@@ -3,29 +3,29 @@ PN,40101
 SC,0001
 PS,C000
 CT,5,T
-OL,0,       GCEEFAX 1 401 Thu 26 NovC23:20/33
-OL,1,T]G       Weather for Thursday          
+OL,0,       GCEEFAX 1 401 Fri 27 NovC07:56/13
+OL,1,T]G        Weather for Friday           
 OL,2,            ZV`4`~|}             G1/3 
-OL,3,           ZRV?0~G5V%                  
-OL,4,           ZVj*^R}||t                
-OL,5,FShowers   ZV^({R?  BCloudy       
-OL,6,            ZV!'~G6R!                
+OL,3,           ZRV?0~G8V%                  
+OL,4,           ZVj*^V}||t                
+OL,5,FShowers   ZV^({V?                
+OL,6,            ZV!'~G6V!                
 OL,7,            ^ZV~oVw1                 
-OL,8,           ^ZRVy?Vsp                 
-OL,9,            ZVj)"G5R}                
-OL,10,        ZVp|t Vx^gR0               
-OL,11,       ZVnG8VtV+"RG4R               
-OL,12,       ZV+R`4 +^R|0             
-OL,13,        ZV+%*o!R"   *^Ru             
-OL,14,              ZV`  R*G5R}            
-OL,15,             ^ZVk||R            
-OL,16,              ZV'oG3R^R}zt         
-OL,17,              ZRVj^R_G4R         
-OL,18,             ZVx|G6R^RR_'         
-OL,19,             ^ZV! +R'i_G4Rqp0        
-OL,20,             ^ZR  tRR/!        
-OL,21,             ZRhG4R/s/R/?           
-OL,22,            ZR8?' "'    "               
+OL,8,           ^ZRVy?Vsp  BSleet         
+OL,9,            ZVj)"G6R} Bshower        
+OL,10,        ZSp|t Vx^gR0               
+OL,11,       ZSnG8StV+"VG2R               
+OL,12,       ZS+V`4 +^V|0             
+OL,13,        ZS+%*o!V"   *^Vu             
+OL,14,CSunny        ZV`  V*G5V}            
+OL,15,             ^ZVk||V            
+OL,16,              ZV'oG3V^U}zt         
+OL,17,              ZRVj^V_G4U         
+OL,18,             ZVx|G9V^VU_'ECloudy  
+OL,19,             ^ZV! +V'i_G4Uqp0        
+OL,20,             ^ZV  tVU/!        
+OL,21,             ZVhG4V/s/U/?           
+OL,22,            ZV8?' "'    "               
 OL,23,D]G      Data from the Met Office       
 OL,24,ARegionWeath BSport  CTravel FMain Menu 
 FL,402,300,430,100,0,100
@@ -33,8 +33,8 @@ PN,40102
 SC,0002
 PS,C000
 CT,5,T
-OL,0,       GCEEFAX 1 401 Thu 26 NovC23:20/33
-OL,1,T]G        Weather for Friday           
+OL,0,       GCEEFAX 1 401 Fri 27 NovC07:56/13
+OL,1,T]G       Weather for Saturday          
 OL,2,            ZV`4`~|}             G2/3 
 OL,3,           ZRV?0~G7V%                  
 OL,4,           ZVj*^V}||t                
@@ -43,18 +43,18 @@ OL,6,            ZV!'~G6V!
 OL,7,            ^ZV~oVw1                 
 OL,8,           ^ZRVy?Vsp                 
 OL,9,            ZVj)"G6V}                
-OL,10,        ZSp|t Vx^gV0               
-OL,11,       ZSnG8StV+"VG2V               
-OL,12,       ZS+V`4 +^V|0             
-OL,13,        ZS+%*o!V"   *^Vu             
-OL,14,CSunny        ZV`  V*G6V}            
+OL,10,        ZVp|t Vx^gV0               
+OL,11,       ZVnG10VtV+"VG9V               
+OL,12,       ZV+V`4 +^V|0             
+OL,13,        ZV+%*o!V"   *^Vu             
+OL,14,              ZV`  V*G10V}            
 OL,15,             ^ZVk||V            
-OL,16,              ZV'oG3V^R}zt         
-OL,17,              ZRVj^V_G4R         
-OL,18,             ZVx|G9V^VR_'BCloudy  
-OL,19,             ^ZV! +V'i_G5Rqp0        
-OL,20,             ^ZV  tVR/!        
-OL,21,             ZVhG5V/s/R/?           
+OL,16,              ZV'oG9V^V}zt         
+OL,17,              ZRVj^V_G7V         
+OL,18,             ZVx|G13V^VV_'         
+OL,19,             ^ZV! +V'i_G11Vqp0        
+OL,20,             ^ZV  tVV/!        
+OL,21,             ZVhG11V/s/V/?           
 OL,22,            ZV8?' "'    "               
 OL,23,D]G      Data from the Met Office       
 OL,24,ARegionWeath BSport  CTravel FMain Menu 
@@ -63,29 +63,29 @@ PN,40103
 SC,0003
 PS,C000
 CT,5,T
-OL,0,       GCEEFAX 1 401 Thu 26 NovC23:20/33
-OL,1,T]G       Weather for Saturday          
+OL,0,       GCEEFAX 1 401 Fri 27 NovC07:56/13
+OL,1,T]G        Weather for Sunday           
 OL,2,            ZV`4`~|}             G3/3 
-OL,3,           ZRV?0~G7V%                  
-OL,4,           ZVj*^V}||t                
-OL,5,FShowers   ZV^({V?                
-OL,6,            ZV!'~G6V!                
-OL,7,            ^ZV~oVw1                 
-OL,8,           ^ZRVy?Vsp                 
-OL,9,            ZVj)"G7V}                
-OL,10,        ZVp|t Vx^gV0               
-OL,11,       ZVnG10VtV+"VG8V               
-OL,12,       ZV+V`4 +^V|0             
-OL,13,        ZV+%*o!V"   *^Vu             
-OL,14,              ZV`  V*G10V}            
-OL,15,             ^ZVk||V            
-OL,16,              ZV'oG9V^V}zt         
-OL,17,              ZRVj^V_G6V         
-OL,18,             ZVx|G13V^VV_'         
-OL,19,             ^ZV! +V'i_G10Vqp0        
-OL,20,             ^ZV  tVV/!        
-OL,21,             ZVhG10V/s/V/?           
-OL,22,            ZV8?' "'    "               
+OL,3,           ZRV?0~G9V%                  
+OL,4,           ZVj*^S}||t                
+OL,5,FShowers   ZV^({S?  CSunny        
+OL,6,            ZV!'~G8S!                
+OL,7,            ^ZV~oSw1                 
+OL,8,           ^ZRVy?Ssp                 
+OL,9,            ZSj)"G8S}                
+OL,10,        ZSp|t Sx^gS0               
+OL,11,       ZSnG9StS+"SG9S               
+OL,12,       ZS+S`4 +^S|0             
+OL,13,        ZS+%*o!S"   *^Su             
+OL,14,              ZS`  S*G10S}            
+OL,15,             ^ZSk||S            
+OL,16,              ZS'oG9S^S}zt         
+OL,17,              ZRSj^S_G9S         
+OL,18,             ZSx|G11S^SS_'         
+OL,19,             ^ZS! +S'i_G10Sqp0        
+OL,20,             ^ZS  tSS/!        
+OL,21,             ZShG10S/s/S/?           
+OL,22,            ZS8?' "'    "               
 OL,23,D]G      Data from the Met Office       
 OL,24,ARegionWeath BSport  CTravel FMain Menu 
 FL,402,300,430,100,0,100

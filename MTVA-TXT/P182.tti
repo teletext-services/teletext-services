@@ -3,18 +3,18 @@ PN,18201
 SC,0001
 PS,C100
 CT,15,T
-OL,0,        C182BMTVA    G2026.11.27. C01:18
+OL,0,        C182BMTVA    G2026.11.27. C11:18
 OL,2,D]COrszagos Vizjelz| Szolgalat jelentiP
-OL,3,           D] F2026.11.26P
+OL,3,           D] F2026.11.27P
 OL,6,BDUNA            Cvizallas, cm   Fvizh| 
 OL,7,               tegnap  ma  holnap  ma   
-OL,9, Komarom         C49    52    42  F8.0  
-OL,10, Esztergom       C37    39    33  F5.5  
-OL,11, Nagymaros      C-16   -17   -19  F5.0  
-OL,12, Budapest        C95    88    87  F6.6  
-OL,13, Dunaujvaros    C-33   -37   -39  F5.4  
-OL,14, Baja            C84    87    82  F5.6  
-OL,15, Mohacs          C96   102   100  F6.5  
+OL,9, Komarom         C52    47    28  F8.1  
+OL,10, Esztergom       C39    37    20  F4.6  
+OL,11, Nagymaros      C-17   -18   -30  F4.9  
+OL,12, Budapest        C88    90    82  F6.4  
+OL,13, Dunaujvaros    C-37   -37   -38  F5.2  
+OL,14, Baja            C87    87    85  F5.3  
+OL,15, Mohacs         C102   102   101  F6.3  
 OL,20,AAz adatok mindig reggelre vonatkoznak. 
 OL,22,D]      Chttp://www.hydroinfo.hu        
 OL,23, ]    DORSZAGOS VIZJELZ\ SZOLGALAT      
@@ -23,18 +23,18 @@ PN,18202
 SC,0002
 PS,C100
 CT,15,T
-OL,0,        C182BMTVA    G2026.11.27. C01:18
+OL,0,        C182BMTVA    G2026.11.27. C11:18
 OL,2,D]COrszagos Vizjelz| Szolgalat jelentiP
-OL,3,           D] F2026.11.26P
+OL,3,           D] F2026.11.27P
 OL,6,BDUNA        Cvizallasel|rejelz`s, cm   
 OL,7,             holnap 2.nap 3.nap 4.nap   
-OL,9, Komarom       C42    35    28    22    
-OL,10, Esztergom     C33    26    16     8    
-OL,11, Nagymaros    C-19   -26   -34   -41    
-OL,12, Budapest      C87    81    73    62    
-OL,13, Dunaujvaros  C-39   -43   -49   -57    
-OL,14, Baja          C82    78    72    60    
-OL,15, Mohacs       C100    95    90    80    
+OL,9, Komarom       C28    24    19    13    
+OL,10, Esztergom     C20    11     5     0    
+OL,11, Nagymaros    C-30   -39   -45   -50    
+OL,12, Budapest      C82    68    59    53    
+OL,13, Dunaujvaros  C-38   -48   -59   -66    
+OL,14, Baja          C85    82    70    53    
+OL,15, Mohacs       C101    98    89    73    
 OL,20,AAz adatok mindig reggelre vonatkoznak. 
 OL,22,D]      Chttp://www.hydroinfo.hu        
 OL,23, ]    DORSZAGOS VIZJELZ\ SZOLGALAT      
@@ -43,21 +43,21 @@ PN,18203
 SC,0003
 PS,C100
 CT,15,T
-OL,0,        C182BMTVA    G2026.11.27. C01:18
+OL,0,        C182BMTVA    G2026.11.27. C11:18
 OL,2,D]COrszagos Vizjelz| Szolgalat jelentiP
-OL,3,           D] F2026.11.26P
+OL,3,           D] F2026.11.27P
 OL,6,                 Cvizallas, cm   Fvizh| 
 OL,7,               tegnap  ma  holnap  ma   
 OL,8,BRABA                                   
-OL,9, Szentgotthard C-112  -114  -113  F6.9  
+OL,9, Szentgotthard C-114  -108  -109  F6.6  
 OL,10,BMURA                                   
-OL,11, Letenye         C86    86    97  F5.3  
+OL,11, Letenye         C86    90    89  F5.0  
 OL,12,BDRAVA                                  
-OL,13, Dravaszabolcs  C-30   -26    -4  F...  
+OL,13, Dravaszabolcs  C-26   -14   -39  F6.3  
 OL,15,BBALATON                                
-OL,16, Balaton atlag   C38    38        F1.8  
+OL,16, Balaton atlag   C38    38        F4.5  
 OL,17,BVELENCEI-TO                            
-OL,18, Agard           C16    23        F0.9  
+OL,18, Agard           C23    19        F2.4  
 OL,20,AAz adatok mindig reggelre vonatkoznak. 
 OL,22,D]      Chttp://www.hydroinfo.hu        
 OL,23, ]    DORSZAGOS VIZJELZ\ SZOLGALAT      
@@ -66,19 +66,19 @@ PN,18204
 SC,0004
 PS,C100
 CT,15,T
-OL,0,        C182BMTVA    G2026.11.27. C01:18
+OL,0,        C182BMTVA    G2026.11.27. C11:18
 OL,2,D]COrszagos Vizjelz| Szolgalat jelentiP
-OL,3,           D] F2026.11.26P
+OL,3,           D] F2026.11.27P
 OL,6,BTISZA    Cv i z a l l a s, c m  Fvizh| 
 OL,7,         tegnap  ma  holnap 2.nap  ma   
-OL,9,TiszabecsC-109  -129  -139        F3.8  
-OL,10,V.nam`ny   C42    -3   -31        F4.9  
-OL,11,Zahony    C-10   -70  -116        F5.1  
-OL,12,Tokaj     C500   487   481        F6.0  
-OL,13,T.f~red   C518   504   496        F6.2  
-OL,14,Szolnok   C305   268   222        F6.3  
-OL,15,Csongrad  C237   230   198        F6.2  
-OL,16,Szeged    C277   282   273   251  F6.2  
+OL,9,TiszabecsC-129  -141  -140        F4.3  
+OL,10,V.nam`ny   C-3   -33   -47        F4.8  
+OL,11,Zahony    C-70  -107  -139        F4.5  
+OL,12,Tokaj     C487   479   474        F6.1  
+OL,13,T.f~red   C504   485   478        F5.9  
+OL,14,Szolnok   C268   229   184        F6.2  
+OL,15,Csongrad  C230   209   174        F6.1  
+OL,16,Szeged    C282   271   251   230  F6.0  
 OL,20,AAz adatok mindig reggelre vonatkoznak. 
 OL,22,D]      Chttp://www.hydroinfo.hu        
 OL,23, ]    DORSZAGOS VIZJELZ\ SZOLGALAT      
@@ -87,23 +87,23 @@ PN,18205
 SC,0005
 PS,C100
 CT,15,T
-OL,0,        C182BMTVA    G2026.11.27. C01:18
+OL,0,        C182BMTVA    G2026.11.27. C11:18
 OL,2,D]COrszagos Vizjelz| Szolgalat jelentiP
-OL,3,           D] F2026.11.26P
+OL,3,           D] F2026.11.27P
 OL,6,                 Cvizallas, cm   Fvizh| 
 OL,7,               tegnap  ma  holnap  ma   
 OL,8,BTUR                                    
-OL,9, Garbolc        C-39   -38   -39  F4.8  
+OL,9, Garbolc        C-38   -33   -21  F5.3  
 OL,10,BSZAMOS                                 
-OL,11, Csenger        C-14   -28   -41  F5.1  
+OL,11, Csenger        C-28   -45   -45  F5.5  
 OL,12,BKRASZNA                                
-OL,13, Agerd|major    C146   155   161  F3.7  
+OL,13, Agerd|major    C155   157   151  F4.1  
 OL,14,BBODROG                                 
-OL,15, Fels|berecki   C280   252   228  F4.3  
+OL,15, Fels|berecki   C252   230   215  F3.8  
 OL,16,BHERNAD                                 
-OL,17, Hidasn`meti   C-110  -108  -110  F...  
+OL,17, Hidasn`meti   C-108  -110  -108  F...  
 OL,18,BBERETTYO                               
-OL,19, BerettyoujfaluC-102   -76   -79  F5.8  
+OL,19, Berettyoujfalu C-76   -91  -104  F5.8  
 OL,21,AAz adatok mindig reggelre vonatkoznak. 
 OL,22,D]      Chttp://www.hydroinfo.hu        
 OL,23, ]    DORSZAGOS VIZJELZ\ SZOLGALAT      
@@ -112,24 +112,24 @@ PN,18206
 SC,0006
 PS,C100
 CT,15,T
-OL,0,        C182BMTVA    G2026.11.27. C01:18
+OL,0,        C182BMTVA    G2026.11.27. C11:18
 OL,2,D]COrszagos Vizjelz| Szolgalat jelentiP
-OL,3,           D] F2026.11.26P
+OL,3,           D] F2026.11.27P
 OL,5,                 Cvizallas, cm   Fvizh| 
 OL,6,               tegnap  ma  holnap  ma   
 OL,7,BSEBES-K\R\S                            
-OL,8, K|r|sladany    C155   152   152  F5.0  
+OL,8, K|r|sladany    C152   137   137  F5.0  
 OL,9,BFEKETE-K\R\S                           
-OL,10, Ant            C203   146   111  F5.6  
+OL,10, Ant            C146   110   119  F5.7  
 OL,11,BFEH@R-K\R\S                            
-OL,12, Gyula          C142   133   126  F5.8  
+OL,12, Gyula          C133   119   120  F5.5  
 OL,13,BKETT\S-K\R\S                           
-OL,14, B`k`s          C208   200   163  F6.5  
+OL,14, B`k`s          C200   173   152  F6.0  
 OL,15,BHARMAS-K\R\S                           
-OL,16, Gyoma          C366   365   360  F...  
-OL,17, Kunszentmarton C264   267   236  F6.4  
+OL,16, Gyoma          C365   354   354  F5.8  
+OL,17, Kunszentmarton C267   249   213  F6.2  
 OL,18,BMAROS                                  
-OL,19, Mako            C33    36    23  F6.3  
+OL,19, Mako            C36    13     2  F6.2  
 OL,21,AAz adatok mindig reggelre vonatkoznak. 
 OL,22,D]      Chttp://www.hydroinfo.hu        
 OL,23, ]    DORSZAGOS VIZJELZ\ SZOLGALAT      

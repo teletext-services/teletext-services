@@ -1,20 +1,56 @@
 DE,ORF2 282
-PN,28200
-SC,0000
-PS,8208
+PN,28201
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G282FORF2   GFr 27.11.26 02:27:55
+OL,0,       G282FORF2   GFr 27.11.26 12:27:53
 OL,1,A]G                                 Bob 
 OL,2,A]GSPORT  ]A                           \
-OL,3,Q#########G                             
+OL,3,Q#########G                        1/3  
+OL,4,FWeltcup in Altenberg, Freitag          
+OL,6,FDamen-Mono, Endstand nach 2 L{ufen     
+OL,7,  1. Laura Nolte            GER 1:59,62 
+OL,8,  2. Lisa Buckwitz          GER  + 0,25 
+OL,9,  3. Bree Walker            AUS    0,54 
+OL,10,Fweiters                                
+OL,11,  6. Katrin Beierl          AUT    1,23 
+OL,12,  9. Lea Haslwanter         AUT    2,09 
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,28202
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G282FORF2   GFr 27.11.26 12:27:53
+OL,1,A]G                                 Bob 
+OL,2,A]GSPORT  ]A                           \
+OL,3,Q#########G                        2/3  
+OL,4,FWeltcup                                
+OL,6,FDamen-Mono, nach 1 Bewerb              
+OL,7,  1. Laura Nolte              GER   225 
+OL,8,  2. Lisa Buckwitz            GER   210 
+OL,9,  3. Bree Walker              AUS   200 
+OL,10,Fweiters                                
+OL,11,  6. Katrin Beierl            AUT   176 
+OL,12,  9. Lea Haslwanter           AUT   152 
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,28203
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       G282FORF2   GFr 27.11.26 12:27:53
+OL,1,A]G                                 Bob 
+OL,2,A]GSPORT  ]A                           \
+OL,3,Q#########G                        3/3  
 OL,4,FWeltcup in Altenberg, Programm         
-OL,6,CFreitag                                
-OL,7, Damen-Mono         10.00h * + 11.30h * 
-OL,9,CSamstag                                
-OL,10, Herren-Zweier      14.00h   + 15.30h   
-OL,12,CSonntag                                
-OL,13, Damen-Zweier       12.00h * + 13.30h   
-OL,14, Herren-Vierer      15.30h * + 17.00h   
+OL,6,CSamstag                                
+OL,7, Herren-Zweier      14.00h   + 15.30h   
+OL,9,CSonntag                                
+OL,10, Damen-Zweier       12.00h * + 13.30h   
+OL,11, Herren-Vierer      15.30h * + 17.00h   
 OL,23,Q,,,,,,,,,,,,,,,,,G* live in ORF Sport+ 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

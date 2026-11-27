@@ -4,24 +4,24 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:42
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:22
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    16:59 26.11.2026
+OL,3,AInformacje z godz.:    16:59 27.11.2026
 OL,4,D]                            GObligacje
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FFPC0229     101,600   B0,01         F2 
+OL,6,FFPC0229     101,600   D0,00         F0 
 OL,7,CFPC0231                                
-OL,8,FFPC0235     98,0000  A-0,23       F777 
-OL,9,CFPC0328     96,7400   D0,00        C78 
-OL,10,FFPC0332                                
-OL,11,CFPC0342     104,700  A-0,28         C3 
-OL,12,FFPC0427     99,2800   B0,03        F30 
-OL,13,CFPC0630     89,7000  A-0,22       C492 
-OL,14,FFPC0631     98,0500  A-0,05       F252 
-OL,15,CFPC0733     78,0000  A-2,38         C6 
+OL,8,FFPC0235     98,8000   B0,82       F662 
+OL,9,CFPC0328     96,8900   B0,16        C16 
+OL,10,FFPC0332     95,2200   B0,55         F4 
+OL,11,CFPC0342                                
+OL,12,FFPC0427     99,3000   B0,02         F2 
+OL,13,CFPC0630     90,0000   B0,33        C84 
+OL,14,FFPC0631     98,1000   B0,05         F5 
+OL,15,CFPC0733     79,9600   B2,51        C10 
 OL,16,FFPC0931                                
-OL,17,CFPC1140     64,5900  A-0,98         C1 
+OL,17,CFPC1140     65,2400   B1,01        C29 
 OL,18,FKO11136                                
 OL,19,CKOL1130                                
 OL,20,FSIC1133                                
@@ -34,10 +34,10 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:42
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:22
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    16:59 26.11.2026
+OL,3,AInformacje z godz.:    16:59 27.11.2026
 OL,4,D]                            GObligacje
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FWAL1027                                
@@ -51,28 +51,28 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:42
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:22
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    16:59 26.11.2026
+OL,3,AInformacje z godz.:    16:59 27.11.2026
 OL,4,D]                   GObligacje skarbowe
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FDS0432      82,5000   B0,13        F53 
-OL,7,CDS0436      93,8000  A-0,10       C147 
-OL,8,FDS0727      99,5000   D0,00        F17 
-OL,9,CDS1029      94,2000  A-0,21        C67 
-OL,10,FDS1030      86,6000   B0,70       F356 
-OL,11,CDS1033      101,440   B0,44       C130 
-OL,12,FDS1034      94,6800   B0,59       F118 
-OL,13,CDS1035      92,7400  A-0,02       C190 
-OL,14,FIZ0831      95,9900   B0,46         F3 
-OL,15,CIZ0836      87,4000   B0,16        C91 
-OL,16,FNZ0331      94,4200  A-0,30         F0 
-OL,17,CNZ0332                                 
+OL,6,FDS0432      82,9000   B0,48        F19 
+OL,7,CDS0436      94,2000   B0,43       C225 
+OL,8,FDS0727      99,3500  A-0,15         F6 
+OL,9,CDS1029      94,6500   B0,48        C15 
+OL,10,FDS1030      86,6000   D0,00        F80 
+OL,11,CDS1033      101,220  A-0,22       C625 
+OL,12,FDS1034      94,5000  A-0,19        F15 
+OL,13,CDS1035      93,1500   B0,44       C272 
+OL,14,FIZ0831      95,9900   D0,00         F3 
+OL,15,CIZ0836      87,4900   B0,10        C78 
+OL,16,FNZ0331                                 
+OL,17,CNZ0332      92,4900  A-0,01         C3 
 OL,18,FNZ0928                                 
-OL,19,CNZ0936      88,9400   D0,00         C0 
-OL,20,FOK0127      99,5800   B0,04         F6 
-OL,21,COK0128      95,6800   B0,05       C153 
+OL,19,CNZ0936                                 
+OL,20,FOK0127      99,2100  A-0,37         F3 
+OL,21,COK0128      95,7400   B0,06       C143 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -81,28 +81,28 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:42
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:22
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    16:59 26.11.2026
+OL,3,AInformacje z godz.:    16:59 27.11.2026
 OL,4,D]                   GObligacje skarbowe
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FOK0129      90,8000   B0,11       F491 
-OL,7,CPS0130      100,200  A-0,20         C2 
-OL,8,FPS0131      97,3000   B0,46        F19 
-OL,9,CPS0527                                 
-OL,10,FPS0728                                 
-OL,11,CPS0729      99,9200   B0,02       C332 
-OL,12,FPS0730      97,7400   B0,25       F320 
-OL,13,CPS0731      94,5000   B0,32       C326 
-OL,14,FPS1031      97,3000   B0,10        F16 
-OL,15,CWS0428      98,2000  A-0,05         C5 
-OL,16,FWS0429      102,200   B0,10        F29 
-OL,17,CWS0437      90,9900   B0,49        C62 
-OL,18,FWS0447      74,5000  A-0,11         F3 
-OL,19,CWZ0330      97,4900  A-0,21        C72 
-OL,20,FWZ0528      100,000   D0,00         F1 
-OL,21,CWZ0533      97,2000  A-0,31         C0 
+OL,6,FOK0129      90,8800   B0,09       F316 
+OL,7,CPS0130      100,200   D0,00         C1 
+OL,8,FPS0131      97,3000   D0,00        F22 
+OL,9,CPS0527      100,300   B0,05        C10 
+OL,10,FPS0728      104,850  A-0,29         F3 
+OL,11,CPS0729      99,9900   B0,07       C369 
+OL,12,FPS0730      98,2000   B0,47        F25 
+OL,13,CPS0731      94,5000   D0,00        C22 
+OL,14,FPS1031      96,8000  A-0,51       F134 
+OL,15,CWS0428                                 
+OL,16,FWS0429      102,300   B0,10         F1 
+OL,17,CWS0437      91,4900   B0,55       C828 
+OL,18,FWS0447      74,5600   B0,08         F2 
+OL,19,CWZ0330      98,0000   B0,52        C49 
+OL,20,FWZ0528      99,7000  A-0,30         F3 
+OL,21,CWZ0533      97,2000   D0,00         C1 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -111,17 +111,17 @@ SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:43
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:22
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    16:59 26.11.2026
+OL,3,AInformacje z godz.:    16:59 27.11.2026
 OL,4,D]                   GObligacje skarbowe
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FWZ0930      97,1400   B0,15       F156 
-OL,7,CWZ1127      100,200   D0,00         C7 
-OL,8,FWZ1128      99,3500   B0,40       F117 
-OL,9,CWZ1129      98,1900  A-0,10        C98 
-OL,10,FWZ1131      96,8500  A-0,13         F2 
+OL,6,FWZ0930      97,2900   B0,15         F3 
+OL,7,CWZ1127      100,250   B0,05        C43 
+OL,8,FWZ1128      99,3500   D0,00        F45 
+OL,9,CWZ1129      98,3400   B0,15       C105 
+OL,10,FWZ1131      97,2100   B0,37       F515 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -130,28 +130,28 @@ SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:43
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:23
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    16:59 26.11.2026
+OL,3,AInformacje z godz.:    17:02 27.11.2026
 OL,4,D]               GObligacje korporacyjne
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FBS10327     100,400  A-0,10         F9 
-OL,7,CBS10829                                
-OL,8,FBST0232     99,0000  A-0,30       F271 
+OL,6,FBS10327                                
+OL,7,CBS10829     101,600  A-0,39         C2 
+OL,8,FBST0232     99,0000   D0,00        F98 
 OL,9,CBST0327                                
-OL,10,FBST0331     100,000   B0,10        F62 
-OL,11,CBST0630     100,900   B0,18         C7 
-OL,12,FBST0829                                
-OL,13,CBST0831     99,8900   B0,59         C3 
-OL,14,FBST0930     100,890   B0,13        F99 
-OL,15,CBST1029     100,900   B0,06         C5 
-OL,16,FBST1131     98,8100  A-0,49        F65 
+OL,10,FBST0331     100,000   D0,00        F12 
+OL,11,CBST0630     100,920   B0,02        C45 
+OL,12,FBST0829     102,200  A-0,36        F20 
+OL,13,CBST0831     99,3000  A-0,59         C3 
+OL,14,FBST0930     100,500  A-0,39        F20 
+OL,15,CBST1029     101,320   B0,42         C4 
+OL,16,FBST1131     99,0000   B0,19        F63 
 OL,17,CBST1226                                
 OL,18,FCAV0127                                
-OL,19,CCAV0327     100,300   D0,00         C0 
-OL,20,FCAV0329     101,000   B0,39         F1 
-OL,21,CCAV0530     100,150   D0,00         C4 
+OL,19,CCAV0327     100,300   D0,00         C1 
+OL,20,FCAV0329     100,650  A-0,35         F1 
+OL,21,CCAV0530     100,000  A-0,15         C1 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -160,28 +160,28 @@ SC,0007
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:43
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:23
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    16:59 26.11.2026
+OL,3,AInformacje z godz.:    17:02 27.11.2026
 OL,4,D]               GObligacje korporacyjne
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FCAV0627                                
-OL,7,CCAV0729                                
-OL,8,FCAV0730                                
-OL,9,CCAV0928                                
+OL,6,FCAV0627     100,330  A-0,22         F0 
+OL,7,CCAV0729     100,500  A-0,54         C1 
+OL,8,FCAV0730     101,490  A-0,01         F0 
+OL,9,CCAV0928     101,140   B0,34         C2 
 OL,10,FCAV0929                                
-OL,11,CCAV1128     101,790   B0,93         C2 
-OL,12,FCAV1227     100,210   B0,21         F0 
-OL,13,CCAV1229     100,500   B0,30         C1 
-OL,14,FECH0128     100,450   D0,00         F0 
-OL,15,CECH0428     101,740   B0,53        C10 
-OL,16,FECH0627     100,000  A-0,78       F170 
-OL,17,CECH1127     100,000  A-0,99       C170 
-OL,18,FGHE0128     66,0000   B4,76        F14 
-OL,19,CGHE1027     73,9000   B3,36         C6 
-OL,20,FKR10228                                
-OL,21,CKR10627                                
+OL,11,CCAV1128     101,500  A-0,28         C7 
+OL,12,FCAV1227     100,280   B0,07         F4 
+OL,13,CCAV1229     100,670   B0,17         C1 
+OL,14,FECH0128     100,500   B0,05         F0 
+OL,15,CECH0428                                
+OL,16,FECH0627                                
+OL,17,CECH1127                                
+OL,18,FGHE0128     66,0000   D0,00         F5 
+OL,19,CGHE1027     74,0000   B0,14        C14 
+OL,20,FKR10228     101,810   D0,00        F10 
+OL,21,CKR10627     100,400  A-0,44       C118 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -190,28 +190,28 @@ SC,0008
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:43
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:23
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    16:59 26.11.2026
+OL,3,AInformacje z godz.:    17:02 27.11.2026
 OL,4,D]               GObligacje korporacyjne
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FKR11029     101,600   D0,00         F1 
-OL,7,CKR20229     102,500   B0,11         C3 
-OL,8,FKRU0227     100,110  A-0,15        F76 
+OL,6,FKR11029     101,600   D0,00        F44 
+OL,7,CKR20229     102,500   D0,00         C9 
+OL,8,FKRU0227     100,400   B0,29        F23 
 OL,9,CKRU0229                                
-OL,10,FKRU0231     101,190   B0,19        F20 
-OL,11,CKRU0628     102,000  A-0,97        C42 
-OL,12,FKRU0731     101,200  A-0,09        F42 
-OL,13,CKRU0827     100,490   B0,21        C64 
+OL,10,FKRU0231     101,100  A-0,09         F1 
+OL,11,CKRU0628                                
+OL,12,FKRU0731     101,230   B0,03        F19 
+OL,13,CKRU0827     100,600   B0,11        C67 
 OL,14,FKRU0828                                
-OL,15,CKRU1028                                
-OL,16,FKRU1127     101,500  A-0,49        F45 
-OL,17,CKRU1130     101,600  A-0,37       C125 
-OL,18,FKRU1226     100,020   D0,00        F10 
+OL,15,CKRU1028     102,600   B0,28         C1 
+OL,16,FKRU1127     101,950   B0,44        F25 
+OL,17,CKRU1130     101,900   B0,30        C40 
+OL,18,FKRU1226     100,020   D0,00         F5 
 OL,19,CKRU1228                                
 OL,20,FMBH0627                                
-OL,21,CMBH0629     96,6000  A-0,10         C7 
+OL,21,CMBH0629     97,3000   B0,72         C0 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -220,28 +220,28 @@ SC,0009
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:43
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:23
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    16:59 26.11.2026
+OL,3,AInformacje z godz.:    17:02 27.11.2026
 OL,4,D]               GObligacje korporacyjne
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FMVP0130     99,5000   B0,01         F2 
-OL,7,CMVP0528                                
+OL,6,FMVP0130     99,4900  A-0,01         F3 
+OL,7,CMVP0528     101,210   B0,23         C2 
 OL,8,FMVP1029                                
 OL,9,CMVP1228                                
-OL,10,FPCR0527                                
-OL,11,CPHP0430     96,8000  A-0,41        C99 
+OL,10,FPCR0527     100,000   D0,00         F3 
+OL,11,CPHP0430                                
 OL,12,FPHP0930                                
-OL,13,CPHP1128     97,3600  A-0,18         C6 
+OL,13,CPHP1128     97,5000   B0,14         C2 
 OL,14,FPRF0228                                
-OL,15,CPRF0429                                
-OL,16,FPRF0627     100,460  A-0,02        F10 
-OL,17,CPRF0628     100,380   B0,06        C75 
+OL,15,CPRF0429     100,000  A-0,38        C46 
+OL,16,FPRF0627                                
+OL,17,CPRF0628                                
 OL,18,FPRF0727                                
-OL,19,CPRF0729     99,9800   D0,00        C21 
-OL,20,FPRF0927     100,010   D0,00        F23 
-OL,21,CPRF1028     99,9000  A-1,40        C14 
+OL,19,CPRF0729     99,7500  A-0,23         C1 
+OL,20,FPRF0927     100,010   D0,00        F16 
+OL,21,CPRF1028                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -250,13 +250,13 @@ SC,0010
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:43
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:23
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    16:59 26.11.2026
+OL,3,AInformacje z godz.:    17:02 27.11.2026
 OL,4,D]               GObligacje korporacyjne
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FPRF1228                                
+OL,6,FPRF1228     100,280  A-0,09         F1 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -265,10 +265,10 @@ SC,0011
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:43
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:23
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:04 27.11.2026
 OL,4,D]       GKontrakty terminowe na indeksy
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFBASH25                                
@@ -295,10 +295,10 @@ SC,0012
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:43
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:23
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:04 27.11.2026
 OL,4,D]       GKontrakty terminowe na indeksy
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFGMSM25                                
@@ -307,16 +307,16 @@ OL,8,FFGMSU26
 OL,9,CFGMSZ26                                
 OL,10,FFW20H2520                              
 OL,11,CFW20H2620                              
-OL,12,FFW20H2720   4099,00   B1,39    F41.792 
-OL,13,CFW20KONT    4056,00   B1,40 C1.198.807 
+OL,12,FFW20H2720   4142,00   B1,05    F52.761 
+OL,13,CFW20KONT    4101,00   B1,11 C2.620.159 
 OL,14,FFW20M2520                              
 OL,15,CFW20M2620                              
-OL,16,FFW20M2720   4071,00   B1,62     F3.009 
+OL,16,FFW20M2720   4110,00   B0,98     F8.076 
 OL,17,CFW20U2520                              
 OL,18,FFW20U2620                              
-OL,19,CFW20U2720   4054,00   B1,32     C2.351 
+OL,19,CFW20U2720   4101,00   B1,16     C3.363 
 OL,20,FFW20Z2520                              
-OL,21,CFW20Z2620   4056,00   B1,40 C1.198.807 
+OL,21,CFW20Z2620   4101,00   B1,11 C2.620.159 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -325,22 +325,22 @@ SC,0013
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:43
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:23
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:04 27.11.2026
 OL,4,D]       GKontrakty terminowe na indeksy
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFW40H25                                
 OL,7,CFW40H26                                
-OL,8,FFW40H27     10495,0   B1,79     F1.783 
+OL,8,FFW40H27     10601,0   B1,01     F2.019 
 OL,9,CFW40M25                                
 OL,10,FFW40M26                                
-OL,11,CFW40M27     10468,0  A-5,89     C1.362 
+OL,11,CFW40M27                                
 OL,12,FFW40U25                                
 OL,13,CFW40U26                                
 OL,14,FFW40Z25                                
-OL,15,CFW40Z26     10397,0   B1,76    C13.378 
+OL,15,CFW40Z26     10520,0   B1,18     C9.273 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -349,22 +349,22 @@ SC,0014
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:43
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:24
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FF11BH25                                
 OL,7,CF11BH26                                
-OL,8,FF11BH27     104,030   B3,00         F3 
+OL,8,FF11BH27     107,230   B3,08         F2 
 OL,9,CF11BM25                                
 OL,10,FF11BM26                                
 OL,11,CF11BM27                                
 OL,12,FF11BU25                                
 OL,13,CF11BU26                                
 OL,14,FF11BZ25                                
-OL,15,CF11BZ26     102,000   B1,18        C16 
+OL,15,CF11BZ26     106,000   B3,92        C21 
 OL,16,FFACPH25                                
 OL,17,CFACPH26                                
 OL,18,FFACPH27                                
@@ -379,26 +379,26 @@ SC,0015
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:44
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:24
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFACPU25                                
 OL,7,CFACPU26                                
 OL,8,FFACPZ25                                
-OL,9,CFACPZ26     222,200   B5,22       C198 
+OL,9,CFACPZ26     234,680   B5,62       C851 
 OL,10,FFALEH25                                
 OL,11,CFALEH26                                
-OL,12,FFALEH27     65,5700  A-1,35        F46 
+OL,12,FFALEH27     66,6200   D0,00        F33 
 OL,13,CFALEM25                                
 OL,14,FFALEM26                                
 OL,15,CFALEM27                                
 OL,16,FFALEU25                                
 OL,17,CFALEU26                                
 OL,18,FFALEZ25                                
-OL,19,CFALEZ26     66,8000   B2,41       C992 
+OL,19,CFALEZ26     66,4900  A-0,46     C1.333 
 OL,20,FFALRH25                                
 OL,21,CFALRH26                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
@@ -409,10 +409,10 @@ SC,0016
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:44
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:24
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFALRH27                                
@@ -422,10 +422,10 @@ OL,9,CFALRM27
 OL,10,FFALRU25                                
 OL,11,CFALRU26                                
 OL,12,FFALRZ25                                
-OL,13,CFALRZ26     136,510   B0,38       C221 
+OL,13,CFALRZ26     138,550   B1,49        C97 
 OL,14,FFAPRH25                                
 OL,15,CFAPRH26                                
-OL,16,FFAPRH27                                
+OL,16,FFAPRH27     28,6860 A-14,03        F29 
 OL,17,CFAPRM25                                
 OL,18,FFAPRM26                                
 OL,19,CFAPRU25                                
@@ -439,26 +439,26 @@ SC,0017
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:44
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:24
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FFAPRZ26     27,3000   B1,30         F3 
+OL,6,FFAPRZ26     27,5100   B0,77        F60 
 OL,7,CFASBH25                                
 OL,8,FFASBH26                                
-OL,9,CFASBH27                                
+OL,9,CFASBH27     152,500  A-7,80        C15 
 OL,10,FFASBM25                                
 OL,11,CFASBM26                                
 OL,12,FFASBM27                                
 OL,13,CFASBU25                                
 OL,14,FFASBU26                                
 OL,15,CFASBZ25                                
-OL,16,FFASBZ26     145,400   B5,44     F1.559 
+OL,16,FFASBZ26     148,120   B2,15     F1.323 
 OL,17,CFATTH25                                
 OL,18,FFATTH26                                
-OL,19,CFATTH27     14,3000   B6,80         C7 
+OL,19,CFATTH27     14,5000   B1,40         C1 
 OL,20,FFATTM25                                
 OL,21,CFATTM26                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
@@ -469,27 +469,27 @@ SC,0018
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:44
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:24
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFATTM27                                
 OL,7,CFATTU25                                
 OL,8,FFATTU26                                
 OL,9,CFATTZ25                                
-OL,10,FFATTZ26     14,3490   B8,70       F230 
+OL,10,FFATTZ26     14,5900   B1,46        F77 
 OL,11,CFBDXH25                                
 OL,12,FFBDXH26                                
-OL,13,CFBDXH27     757,000   B1,61        C38 
+OL,13,CFBDXH27     777,000   B2,64        C61 
 OL,14,FFBDXM25                                
 OL,15,CFBDXM26                                
 OL,16,FFBDXM27                                
 OL,17,CFBDXU25                                
 OL,18,FFBDXU26                                
 OL,19,CFBDXZ25                                
-OL,20,FFBDXZ26     750,250   B0,84        F38 
+OL,20,FFBDXZ26     773,000   B3,03       F493 
 OL,21,CFCARH25                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -499,27 +499,27 @@ SC,0019
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:44
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:24
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFCARH26                                
-OL,7,CFCARH27     1040,00  A-2,40        C31 
+OL,7,CFCARH27                                
 OL,8,FFCARM25                                
 OL,9,CFCARM26                                
 OL,10,FFCARU25                                
 OL,11,CFCARU26                                
 OL,12,FFCARZ25                                
-OL,13,CFCARZ26     1048,00   B0,77        C83 
+OL,13,CFCARZ26     1041,00  A-0,67        C84 
 OL,14,FFCCCH25                                
 OL,15,CFCCCM25                                
 OL,16,FFCCCU25                                
 OL,17,CFCCCZ25                                
 OL,18,FFCDRH25                                
 OL,19,CFCDRH26                                
-OL,20,FFCDRH27     280,990   B2,00       F169 
+OL,20,FFCDRH27     278,610  A-0,85        F56 
 OL,21,CFCDRM25                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -529,28 +529,28 @@ SC,0020
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:44
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:24
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFCDRM26                                
-OL,7,CFCDRM27     286,880   B3,36        C57 
+OL,7,CFCDRM27                                
 OL,8,FFCDRU25                                
 OL,9,CFCDRU26                                
 OL,10,FFCDRZ25                                
-OL,11,CFCDRZ26     277,500   B1,91     C6.415 
+OL,11,CFCDRZ26     275,100  A-0,86     C6.224 
 OL,12,FFCPSH25                                
 OL,13,CFCPSH26                                
-OL,14,FFCPSH27     13,4700   B1,89         F3 
+OL,14,FFCPSH27     13,5800   B0,82       F122 
 OL,15,CFCPSM25                                
 OL,16,FFCPSM26                                
-OL,17,CFCPSM27                                
+OL,17,CFCPSM27     13,9700   B7,46         C3 
 OL,18,FFCPSU25                                
 OL,19,CFCPSU26                                
 OL,20,FFCPSZ25                                
-OL,21,CFCPSZ26     13,2150   B2,59       C570 
+OL,21,CFCPSZ26     13,4000   B1,40       C669 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -559,26 +559,26 @@ SC,0021
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:44
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:24
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFDIAH26                                
 OL,7,CFDIAH27                                
 OL,8,FFDIAM26                                
-OL,9,CFDIAM27                                
+OL,9,CFDIAM27     143,600  A-2,97        C14 
 OL,10,FFDIAU25                                
 OL,11,CFDIAU26                                
 OL,12,FFDIAZ25                                
-OL,13,CFDIAZ26                                
+OL,13,CFDIAZ26     142,200  A-6,57       C217 
 OL,14,FFDNPH25                                
 OL,15,CFDNPH26                                
-OL,16,FFDNPH27     37,6200   B0,99       F151 
+OL,16,FFDNPH27                                
 OL,17,CFDNPM25                                
 OL,18,FFDNPM26                                
-OL,19,CFDNPM27     38,7060   B4,05        C27 
+OL,19,CFDNPM27                                
 OL,20,FFDNPU25                                
 OL,21,CFDNPU26                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
@@ -589,20 +589,20 @@ SC,0022
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:44
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:25
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFDNPZ25                                
-OL,7,CFDNPZ26     37,6500   B1,76     C6.208 
+OL,7,CFDNPZ26     37,7480   B0,26     C2.398 
 OL,8,FFDOMH25                                
 OL,9,CFDOMH26                                
 OL,10,FFDOMH27                                
 OL,11,CFDOMM25                                
 OL,12,FFDOMM26                                
-OL,13,CFDOMM27                                
+OL,13,CFDOMM27     253,350  A-1,42       C300 
 OL,14,FFDOMU25                                
 OL,15,CFDOMU26                                
 OL,16,FFDOMZ25                                
@@ -619,10 +619,10 @@ SC,0023
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:44
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:25
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFEATU25                                
@@ -631,9 +631,9 @@ OL,8,FFEATZ25
 OL,9,CFEATZ26                                
 OL,10,FFEBPH27                                
 OL,11,CFEBPM26                                
-OL,12,FFEBPM27     730,890  A-1,23         F7 
+OL,12,FFEBPM27                                
 OL,13,CFEBPU26                                
-OL,14,FFEBPZ26     743,390  A-3,46        F68 
+OL,14,FFEBPZ26                                
 OL,15,CFENAH25                                
 OL,16,FFENAH26                                
 OL,17,CFENAH27                                
@@ -649,27 +649,27 @@ SC,0024
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:44
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:25
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFENAZ25                                
-OL,7,CFENAZ26     20,8000   B4,29        C62 
+OL,7,CFENAZ26     20,8940   B0,45        C84 
 OL,8,FFEUHH25                                
 OL,9,CFEUHH26                                
-OL,10,FFEUHH27                                
+OL,10,FFEUHH27      4,8979   B5,13        F24 
 OL,11,CFEUHM25                                
 OL,12,FFEUHM26                                
 OL,13,CFEUHM27                                
 OL,14,FFEUHU25                                
 OL,15,CFEUHU26                                
 OL,16,FFEUHZ25                                
-OL,17,CFEUHZ26      4,7900   B2,52        C33 
+OL,17,CFEUHZ26      4,8100   B0,42        C38 
 OL,18,FFGPWH25                                
 OL,19,CFGPWH26                                
-OL,20,FFGPWH27                                
+OL,20,FFGPWH27     100,050  A-0,74        F30 
 OL,21,CFGPWM25                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -679,10 +679,10 @@ SC,0025
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:44
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:25
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFGPWM26                                
@@ -690,7 +690,7 @@ OL,7,CFGPWM27
 OL,8,FFGPWU25                                
 OL,9,CFGPWU26                                
 OL,10,FFGPWZ25                                
-OL,11,CFGPWZ26     97,5000   B1,99        C39 
+OL,11,CFGPWZ26     99,6500   B2,21        C80 
 OL,12,FFINGH25                                
 OL,13,CFINGH26                                
 OL,14,FFINGH27                                
@@ -700,7 +700,7 @@ OL,17,CFINGM27
 OL,18,FFINGU25                                
 OL,19,CFINGU26                                
 OL,20,FFINGZ25                                
-OL,21,CFINGZ26     448,000  A-0,09        C45 
+OL,21,CFINGZ26                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -709,28 +709,28 @@ SC,0026
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:45
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:25
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFJSWH25                                
 OL,7,CFJSWH26                                
-OL,8,FFJSWH27     26,8960   B8,58       F121 
+OL,8,FFJSWH27     27,3100   B2,42        F30 
 OL,9,CFJSWM25                                
 OL,10,FFJSWM26                                
 OL,11,CFJSWM27                                
 OL,12,FFJSWU25                                
 OL,13,CFJSWU26                                
 OL,14,FFJSWZ25                                
-OL,15,CFJSWZ26     26,1100   B8,34     C1.533 
+OL,15,CFJSWZ26     27,0010   B3,41       C669 
 OL,16,FFKGHH25                                
 OL,17,CFKGHH26                                
-OL,18,FFKGHH27     237,700   B3,80       F666 
+OL,18,FFKGHH27     255,130   B7,33     F1.766 
 OL,19,CFKGHM25                                
 OL,20,FFKGHM26                                
-OL,21,CFKGHM27     241,450  A-5,31        C48 
+OL,21,CFKGHM27     258,000   B6,85        C77 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -739,26 +739,26 @@ SC,0027
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:45
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:25
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFKGHU25                                
 OL,7,CFKGHU26                                
 OL,8,FFKGHZ25                                
-OL,9,CFKGHZ26     234,510   B3,38    C26.522 
+OL,9,CFKGHZ26     252,490   B7,67    C48.707 
 OL,10,FFKRUH25                                
 OL,11,CFKRUH26                                
-OL,12,FFKRUH27                                
+OL,12,FFKRUH27     321,800   B2,81        F38 
 OL,13,CFKRUM25                                
 OL,14,FFKRUM26                                
 OL,15,CFKRUM27                                
 OL,16,FFKRUU25                                
 OL,17,CFKRUU26                                
 OL,18,FFKRUZ25                                
-OL,19,CFKRUZ26     314,000   B0,90        C50 
+OL,19,CFKRUZ26     321,400   B2,36        C61 
 OL,20,FFKTYH25                                
 OL,21,CFKTYH26                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
@@ -769,20 +769,20 @@ SC,0028
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:45
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:25
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FFKTYH27     1265,00   B2,43        F38 
+OL,6,FFKTYH27     1290,00   B1,98        F64 
 OL,7,CFKTYM25                                
 OL,8,FFKTYM26                                
 OL,9,CFKTYM27                                
 OL,10,FFKTYU25                                
 OL,11,CFKTYU26                                
 OL,12,FFKTYZ25                                
-OL,13,CFKTYZ26     1266,00   B3,60       C189 
+OL,13,CFKTYZ26     1286,00   B1,58       C168 
 OL,14,FFLPPH25                                
 OL,15,CFLPPH26                                
 OL,16,FFLPPH27                                
@@ -799,24 +799,24 @@ SC,0029
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:45
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:25
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFLPPZ25                                
-OL,7,CFLPPZ26     27990,0   B1,56       C428 
+OL,7,CFLPPZ26     27950,0  A-0,14       C572 
 OL,8,FFLWBH25                                
 OL,9,CFLWBH26                                
-OL,10,FFLWBH27     24,7500   B3,12         F2 
+OL,10,FFLWBH27                                
 OL,11,CFLWBM25                                
 OL,12,FFLWBM26                                
 OL,13,CFLWBM27                                
 OL,14,FFLWBU25                                
 OL,15,CFLWBU26                                
 OL,16,FFLWBZ25                                
-OL,17,CFLWBZ26     25,4000   B7,58        C48 
+OL,17,CFLWBZ26     25,8610   B1,81        C21 
 OL,18,FFMABH25                                
 OL,19,CFMABH26                                
 OL,20,FFMABH27                                
@@ -829,10 +829,10 @@ SC,0030
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:45
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:26
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFMABM26                                
@@ -849,7 +849,7 @@ OL,16,FFMBKM27
 OL,17,CFMBKU25                                
 OL,18,FFMBKU26                                
 OL,19,CFMBKZ25                                
-OL,20,FFMBKZ26     1607,49   B1,32       F338 
+OL,20,FFMBKZ26     1609,00   B0,09        F97 
 OL,21,CFMDVH26                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -859,17 +859,17 @@ SC,0031
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:45
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:26
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FFMDVH27     123,290   B2,74        F12 
+OL,6,FFMDVH27     134,000   B8,69       F396 
 OL,7,CFMDVM26                                
 OL,8,FFMDVM27                                
 OL,9,CFMDVU26                                
-OL,10,FFMDVZ26     121,090   B1,37     F2.501 
+OL,10,FFMDVZ26     134,500  B11,07    F15.173 
 OL,11,CFMILH25                                
 OL,12,FFMILH26                                
 OL,13,CFMILH27                                
@@ -879,7 +879,7 @@ OL,16,FFMILM27
 OL,17,CFMILU25                                
 OL,18,FFMILU26                                
 OL,19,CFMILZ25                                
-OL,20,FFMILZ26     22,0970   B1,41        F44 
+OL,20,FFMILZ26                                
 OL,21,CFOPLH25                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -889,10 +889,10 @@ SC,0032
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:45
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:26
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFOPLH26                                
@@ -903,13 +903,13 @@ OL,10,FFOPLM27
 OL,11,CFOPLU25                                
 OL,12,FFOPLU26                                
 OL,13,CFOPLZ25                                
-OL,14,FFOPLZ26     16,6650  A-0,33       F217 
+OL,14,FFOPLZ26     16,7200   B0,33       F555 
 OL,15,CFPCOH25                                
 OL,16,FFPCOH26                                
 OL,17,CFPCOH27                                
 OL,18,FFPCOM25                                
 OL,19,CFPCOM26                                
-OL,20,FFPCOM27     49,7000  A-3,46         F5 
+OL,20,FFPCOM27                                
 OL,21,CFPCOU25                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -919,25 +919,25 @@ SC,0033
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:45
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:26
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFPCOU26                                
 OL,7,CFPCOZ25                                
-OL,8,FFPCOZ26     49,9100   B0,12       F265 
+OL,8,FFPCOZ26     49,9100  A-0,18       F362 
 OL,9,CFPEOH25                                
 OL,10,FFPEOH26                                
-OL,11,CFPEOH27                                
+OL,11,CFPEOH27     252,120   B0,29        C25 
 OL,12,FFPEOM25                                
 OL,13,CFPEOM26                                
 OL,14,FFPEOM27                                
 OL,15,CFPEOU25                                
 OL,16,FFPEOU26                                
 OL,17,CFPEOZ25                                
-OL,18,FFPEOZ26     249,540   B1,41       F626 
+OL,18,FFPEOZ26     249,000  A-0,22     F1.151 
 OL,19,CFPGEH25                                
 OL,20,FFPGEH26                                
 OL,21,CFPGEH27                                
@@ -949,25 +949,25 @@ SC,0034
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:45
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:26
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFPGEM25                                
 OL,7,CFPGEM26                                
-OL,8,FFPGEM27                                
+OL,8,FFPGEM27     18,2900  B14,24        F70 
 OL,9,CFPGEU25                                
 OL,10,FFPGEU26                                
 OL,11,CFPGEZ25                                
-OL,12,FFPGEZ26     15,4200   B2,05       F634 
+OL,12,FFPGEZ26     15,8000   B2,46     F1.123 
 OL,13,CFPKNH25                                
 OL,14,FFPKNH26                                
-OL,15,CFPKNH27     120,560   B1,40        C84 
+OL,15,CFPKNH27     123,010   B2,03       C309 
 OL,16,FFPKNM25                                
 OL,17,CFPKNM26                                
-OL,18,FFPKNM27     117,300   B2,00       F268 
+OL,18,FFPKNM27     118,700   B1,19        F12 
 OL,19,CFPKNU25                                
 OL,20,FFPKNU26                                
 OL,21,CFPKNZ25                                
@@ -979,23 +979,23 @@ SC,0035
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:45
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:26
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FFPKNZ26     120,000   B2,15     F3.401 
+OL,6,FFPKNZ26     122,570   B2,14     F4.906 
 OL,7,CFPKOH25                                
 OL,8,FFPKOH26                                
-OL,9,CFPKOH27     111,820   B1,54        C45 
+OL,9,CFPKOH27     112,330   B0,46        C90 
 OL,10,FFPKOM25                                
 OL,11,CFPKOM26                                
-OL,12,FFPKOM27     113,220   B1,27        F11 
+OL,12,FFPKOM27     114,350   B1,00        F11 
 OL,13,CFPKOU25                                
 OL,14,FFPKOU26                                
 OL,15,CFPKOZ25                                
-OL,16,FFPKOZ26     110,500   B0,96     F2.962 
+OL,16,FFPKOZ26     111,210   B0,64     F3.603 
 OL,17,CFPKPH25                                
 OL,18,FFPKPH26                                
 OL,19,CFPKPH27                                
@@ -1009,16 +1009,16 @@ SC,0036
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:45
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:27
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFPKPU25                                
 OL,7,CFPKPU26                                
 OL,8,FFPKPZ25                                
-OL,9,CFPKPZ26      8,8980   B2,75        C28 
+OL,9,CFPKPZ26      8,9900   B1,03         C4 
 OL,10,FFPXMH25                                
 OL,11,CFPXMH26                                
 OL,12,FFPXMH27                                
@@ -1027,10 +1027,10 @@ OL,14,FFPXMM26
 OL,15,CFPXMU25                                
 OL,16,FFPXMU26                                
 OL,17,CFPXMZ25                                
-OL,18,FFPXMZ26      6,4800   B5,28        F13 
+OL,18,FFPXMZ26                                
 OL,19,CFPZUH25                                
 OL,20,FFPZUH26                                
-OL,21,CFPZUH27     69,1500   B0,80       C111 
+OL,21,CFPZUH27     69,5000   B0,51       C125 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -1039,19 +1039,19 @@ SC,0037
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:46
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:27
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFPZUM25                                
 OL,7,CFPZUM26                                
-OL,8,FFPZUM27                                
+OL,8,FFPZUM27     69,2500   B0,22         F7 
 OL,9,CFPZUU25                                
 OL,10,FFPZUU26                                
 OL,11,CFPZUZ25                                
-OL,12,FFPZUZ26     68,5800   B1,21       F473 
+OL,12,FFPZUZ26     69,0000   B0,61     F1.398 
 OL,13,CFSPLH25                                
 OL,14,FFSPLH26                                
 OL,15,CFSPLM25                                
@@ -1069,10 +1069,10 @@ SC,0038
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:46
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:28
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFSVEZ26                                
@@ -1085,10 +1085,10 @@ OL,12,FFTENM27
 OL,13,CFTENU25                                
 OL,14,FFTENU26                                
 OL,15,CFTENZ25                                
-OL,16,FFTENZ26     85,5400   B0,69         F1 
+OL,16,FFTENZ26     85,5900   B0,06         F9 
 OL,17,CFTPEH25                                
 OL,18,FFTPEH26                                
-OL,19,CFTPEH27      8,9700   B0,79        C18 
+OL,19,CFTPEH27                                
 OL,20,FFTPEM25                                
 OL,21,CFTPEM26                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
@@ -1099,27 +1099,27 @@ SC,0039
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:46
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:28
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFTPEM27                                
 OL,7,CFTPEU25                                
 OL,8,FFTPEU26                                
 OL,9,CFTPEZ25                                
-OL,10,FFTPEZ26      8,8720   B1,08       F609 
+OL,10,FFTPEZ26      8,9700   B1,10       F752 
 OL,11,CFXTBH25                                
 OL,12,FFXTBH26                                
-OL,13,CFXTBH27     111,150   B1,79        C67 
+OL,13,CFXTBH27     115,600   B4,00       C370 
 OL,14,FFXTBM25                                
 OL,15,CFXTBM26                                
-OL,16,FFXTBM27     110,890  A-3,98        F11 
+OL,16,FFXTBM27     112,510   B1,46        F11 
 OL,17,CFXTBU25                                
 OL,18,FFXTBU26                                
 OL,19,CFXTBZ25                                
-OL,20,FFXTBZ26     109,500   B2,33     F1.066 
+OL,20,FFXTBZ26     112,600   B2,83     F2.023 
 OL,21,CFZABH25                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -1129,21 +1129,21 @@ SC,0040
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:46
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:28
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:04 26.11.2026
+OL,3,AInformacje z godz.:    17:03 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy akcji
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFZABH26                                
-OL,7,CFZABH27     32,0000   B0,03         C3 
+OL,7,CFZABH27                                
 OL,8,FFZABM25                                
 OL,9,CFZABM26                                
 OL,10,FFZABM27                                
 OL,11,CFZABU25                                
 OL,12,FFZABU26                                
 OL,13,CFZABZ25                                
-OL,14,FFZABZ26     31,8000  A-0,31        F48 
+OL,14,FFZABZ26     31,6600  A-0,44        F82 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -1152,10 +1152,10 @@ SC,0041
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:46
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:28
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:01 26.11.2026
+OL,3,AInformacje z godz.:    17:04 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFCHFF25                                
@@ -1164,14 +1164,14 @@ OL,8,FFCHFG25
 OL,9,CFCHFG26                                
 OL,10,FFCHFH25                                
 OL,11,CFCHFH26                                
-OL,12,FFCHFH27      4,9549  A-0,61     F1.736 
+OL,12,FFCHFH27      4,9403  A-0,29        F44 
 OL,13,CFCHFJ25                                
 OL,14,FFCHFJ26                                
 OL,15,CFCHFK25                                
 OL,16,FFCHFK26                                
 OL,17,CFCHFM25                                
 OL,18,FFCHFM26                                
-OL,19,CFCHFM27      5,0047  A-0,58    C20.502 
+OL,19,CFCHFM27      4,9905  A-0,28       C519 
 OL,20,FFCHFN25                                
 OL,21,CFCHFN26                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
@@ -1182,21 +1182,21 @@ SC,0042
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:46
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:28
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:01 26.11.2026
+OL,3,AInformacje z godz.:    17:04 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFCHFQ25                                
 OL,7,CFCHFU25                                
 OL,8,FFCHFU26                                
-OL,9,CFCHFU27      5,0550  A-0,63       C880 
+OL,9,CFCHFU27      5,0391  A-0,31        C40 
 OL,10,FFCHFV25                                
 OL,11,CFCHFV26                                
 OL,12,FFCHFX25                                
 OL,13,CFCHFZ25                                
-OL,14,FFCHFZ26      4,9070  A-0,53       F800 
+OL,14,FFCHFZ26      4,8941  A-0,26     F1.095 
 OL,15,CFEURF25                                
 OL,16,FFEURF26                                
 OL,17,CFEURF27                                
@@ -1212,27 +1212,27 @@ SC,0043
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:46
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:28
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:01 26.11.2026
+OL,3,AInformacje z godz.:    17:04 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FFEURH27      4,4940  A-0,02     F1.078 
+OL,6,FFEURH27      4,4837  A-0,30       F695 
 OL,7,CFEURJ25                                
 OL,8,FFEURJ26                                
 OL,9,CFEURK25                                
 OL,10,FFEURK26                                
 OL,11,CFEURM25                                
 OL,12,FFEURM26                                
-OL,13,CFEURM27      4,5109   B0,06       C902 
+OL,13,CFEURM27      4,4955  A-0,34        C90 
 OL,14,FFEURN25                                
 OL,15,CFEURN26                                
 OL,16,FFEURQ25                                
 OL,17,CFEURQ26                                
 OL,18,FFEURU25                                
 OL,19,CFEURU26                                
-OL,20,FFEURU27      4,5213   B0,02       F904 
+OL,20,FFEURU27      4,5131  A-0,23        F32 
 OL,21,CFEURV25                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -1242,16 +1242,16 @@ SC,0044
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:46
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:28
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:01 26.11.2026
+OL,3,AInformacje z godz.:    17:04 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFEURV26                                
 OL,7,CFEURX25                                
 OL,8,FFEURZ25                                
-OL,9,CFEURZ26      4,4842   B0,08       C488 
+OL,9,CFEURZ26      4,4710  A-0,29     C3.363 
 OL,10,FFGBPF25                                
 OL,11,CFGBPG25                                
 OL,12,FFGBPG26                                
@@ -1272,10 +1272,10 @@ SC,0045
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:46
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:29
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:01 26.11.2026
+OL,3,AInformacje z godz.:    17:04 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFGBPM27                                
@@ -1290,10 +1290,10 @@ OL,14,FFGBPV25
 OL,15,CFGBPV26                                
 OL,16,FFGBPX25                                
 OL,17,CFGBPZ25                                
-OL,18,FFGBPZ26      5,3505   B0,12        F75 
+OL,18,FFGBPZ26      5,3520  A-0,01       F144 
 OL,19,CFUSDF25                                
 OL,20,FFUSDF26                                
-OL,21,CFUSDF27      4,0732  A-0,35       C122 
+OL,21,CFUSDF27      4,0715  A-0,26         C8 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100
@@ -1302,24 +1302,24 @@ SC,0046
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:46
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:29
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:01 26.11.2026
+OL,3,AInformacje z godz.:    17:04 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFUSDG25                                
 OL,7,CFUSDG26                                
 OL,8,FFUSDH25                                
 OL,9,CFUSDH26                                
-OL,10,FFUSDH27      4,0745  A-0,30       F122 
+OL,10,FFUSDH27      4,0799   B0,03     F4.487 
 OL,11,CFUSDJ25                                
 OL,12,FFUSDJ26                                
 OL,13,CFUSDK25                                
 OL,14,FFUSDK26                                
 OL,15,CFUSDM25                                
 OL,16,FFUSDM26                                
-OL,17,CFUSDM27      4,0690  A-0,27        C45 
+OL,17,CFUSDM27      4,0635  A-0,25        C45 
 OL,18,FFUSDN25                                
 OL,19,CFUSDN26                                
 OL,20,FFUSDQ25                                
@@ -1332,21 +1332,21 @@ SC,0047
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     703Cpi@ 27 lis  07:30:47
+OL,0,      BTVP2     703Cpi@ 27 lis  17:30:30
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:01 26.11.2026
+OL,3,AInformacje z godz.:    17:04 27.11.2026
 OL,4,D]   GKontrakty terminowe na kursy walut
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFUSDU25                                
 OL,7,CFUSDU26                                
-OL,8,FFUSDU27      4,0733  A-0,16       F106 
+OL,8,FFUSDU27      4,0718  A-0,03        F69 
 OL,9,CFUSDV25                                
 OL,10,FFUSDV26                                
 OL,11,CFUSDX25                                
 OL,12,FFUSDX26                                
 OL,13,CFUSDZ25                                
-OL,14,FFUSDZ26      4,0832  A-0,17    F13.179 
+OL,14,FFUSDZ26      4,0827  A-0,01    F25.058 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,704,100,100,0,100

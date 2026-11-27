@@ -3,42 +3,70 @@ PN,25801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G258FORF2   GFr 27.11.26 02:26:53
+OL,0,       G258FORF2   GFr 27.11.26 12:26:37
 OL,1,A]G                            Football 
 OL,2,A]GSPORT  ]A          NFL, 12.Spieltag \
-OL,3,Q#########G                        1/3  
-OL,4,CMittwoch                               
-OL,5,FL.A.Rams      - Green Bay     26:13    
-OL,6,CDonnerstag                             
-OL,7,FDetroit       - Chicago       35:39    
-OL,8, Dallas        - Philadelphia           
-OL,9, Buffalo       - Kansas City            
-OL,10,CFreitag                                
-OL,11, Pittsburgh    - Denver                 
-OL,12,CSonntag                                
-OL,13, Miami         - N.Y.Jets               
-OL,14, Cincinnati    - New Orleans            
-OL,15, Houston       - Baltimore              
-OL,16, Jacksonville  - Tennessee              
-OL,17, Indianapolis  - N.Y.Giants             
-OL,18, Minnesota     - Atlanta                
-OL,19, L.A.Chargers  - New England            
-OL,20, San Francisco - Seattle                
-OL,21, Arizona       - Washington             
-OL,22, Cleveland     - Las Vegas              
-OL,23, Tampa Bay     - Carolina     CMontag   
+OL,3,Q#########G                        1/4  
+OL,4,FBills gewinnen Thanksgiving-Schlager   
+OL,6, Trotz m{~iger Leistung von Quarterback 
+OL,7, Josh Allen entschied Buffalo das Top-  
+OL,8, spiel gegen Kansas City f}r sich. Die  
+OL,9, Bills setzten sich am Thanksgiving-Tag 
+OL,10, dank eines Fieldgoals in letzter Sekun-
+OL,11, de 13:10 durch und feierten den sieben-
+OL,12, ten Sieg in Folge. Die Chiefs bezogen  
+OL,13, dagegen die schon dritte Saisonpleite. 
+OL,15, Obwohl Allen mit nur zehn angekommenen 
+OL,16, P{ssen f}r 81 Yards klar unter seinen  
+OL,17, M|glichkeiten blieb und zudem zwei In- 
+OL,18, terceptions verzeichnete, behaupteten  
+OL,19, sich die Hausherren: In der Schlusspha-
+OL,20, se vergab G{ste-Kicker Harrison Butker 
+OL,21, aus 46 Yards, ehe Tyler Bass bei aus-  
+OL,22, laufender Uhr aus 57 Yards verwertete. 
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,25802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G258FORF2   GFr 27.11.26 02:26:53
+OL,0,       G258FORF2   GFr 27.11.26 12:26:37
+OL,1,A]G                            Football 
+OL,2,A]GSPORT  ]A          NFL, 12.Spieltag \
+OL,3,Q#########G                        2/4  
+OL,4,CDonnerstag                             
+OL,5,FDetroit       - Chicago       35:39    
+OL,6, Dallas        - Philadelphia  38:39    
+OL,7,FBuffalo       - Kansas City   13:10    
+OL,8,CFreitag                                
+OL,9, Pittsburgh    - Denver                 
+OL,10,CSonntag                                
+OL,11, Miami         - N.Y.Jets               
+OL,12, Cincinnati    - New Orleans            
+OL,13, Houston       - Baltimore              
+OL,14, Jacksonville  - Tennessee              
+OL,15, Indianapolis  - N.Y.Giants             
+OL,16, Minnesota     - Atlanta                
+OL,17, L.A.Chargers  - New England            
+OL,18, San Francisco - Seattle                
+OL,19, Arizona       - Washington             
+OL,20, Cleveland     - Las Vegas              
+OL,21, Tampa Bay     - Carolina     CMontag   
+OL,22,Cbereits gespielt                       
+OL,23,FL.A.Rams      - Green Bay     26:13    
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,25803
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       G258FORF2   GFr 27.11.26 12:26:37
 OL,1,A]G                            Football 
 OL,2,A]GSPORT  ]A  NFL, American Conference \
-OL,3,Q#########G                        2/3  
+OL,3,Q#########G                        3/4  
 OL,4,FEastern Division         S  N  U  %Pkt 
-OL,5,  Buffalo Bills           9  1  0  .900 
+OL,5,  Buffalo Bills          10  1  0  .909 
 OL,6,  New England Patriots    5  5  0  .500 
 OL,7,  New York Jets  G        3  8  0  .273 
 OL,8,  Miami Dolphins          1  9  0  .100 
@@ -54,24 +82,24 @@ OL,17,  Indianapolis Colts  G   3  8  0  .273
 OL,18,  Tennessee Titans        1  9  0  .100 
 OL,19,FWestern Division                       
 OL,20,  Denver Broncos          8  2  0  .800 
-OL,21,  Kansas City Chiefs      8  2  0  .800 
+OL,21,  Kansas City Chiefs      8  3  0  .727 
 OL,22,  Las Vegas Raiders       4  7  0  .364 
 OL,23,  Los Angeles ChargersG   1  9  0  .100 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,25803
-SC,0003
+PN,25804
+SC,0004
 PS,C200
 CT,15,T
-OL,0,       G258FORF2   GFr 27.11.26 02:26:53
+OL,0,       G258FORF2   GFr 27.11.26 12:26:38
 OL,1,A]G                            Football 
 OL,2,A]GSPORT  ]A  NFL, National Conference \
-OL,3,Q#########G                        3/3  
+OL,3,Q#########G                        4/4  
 OL,4,FEastern Division         S  N  U  %Pkt 
 OL,5,  New York Giants         6  3  1  .650 
-OL,6,  Dallas CowboysF G       5  6  0  .455 
-OL,7,  Washington Commanders   4  5  1  .450 
-OL,8,  Philadelphia EaglesF G  3  7  0  .300 
+OL,6,  Washington Commanders   4  5  1  .450 
+OL,7,  Dallas CowboysF G       5  7  0  .417 
+OL,8,  Philadelphia EaglesF G  4  7  0  .364 
 OL,9,FNorthern Division                      
 OL,10,  Chicago Bears           9  2  0  .818 
 OL,11,  Detroit Lions           8  3  0  .727 
@@ -80,8 +108,8 @@ OL,13,  Green Bay Packers  G    6  5  0  .545
 OL,14,FSouthern Division                      
 OL,15,  Carolina Panthers       5  5  0  .500 
 OL,16,  Tampa Bay Buccaneers    3  7  0  .300 
-OL,17,  New Orleans Saints      3  7  0  .300 
-OL,18,  Atlanta Falcons         3  7  0  .300 
+OL,17,  Atlanta Falcons         3  7  0  .300 
+OL,18,  New Orleans Saints      3  7  0  .300 
 OL,19,FWestern Division                       
 OL,20,  San Francisco 49ers     9  1  0  .900 
 OL,21,  Los Angeles Rams        7  4  0  .636 

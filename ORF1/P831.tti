@@ -3,39 +3,38 @@ PN,83101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G831FORF1   GFr 27.11.26 02:21:10
+OL,0,       G831FORF1   GFr 27.11.26 12:21:14
 OL,1,A]G                      Flughafen Linz 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug     von        Plan aktuell       
-OL,5,FQY 4126 Leipzig/Hall0635B              
-OL,6,GENT534P Graz        1455B              
-OL,7,FDX 194  Frankfurt   1520B              
-OL,8,F  LH 7342                              
-OL,9,GDX 198  Frankfurt   2200B              
-OL,10,G  LH 7344                              
-OL,11,FDX 194  Frankfurt   1520B    28.11.26  
-OL,12,F  LH 7342                              
-OL,23,Q,F02:20hGFlughafen LinzF07221/600-1100 
+OL,5,FENT534P Graz        1455B              
+OL,6,GDX 194  Frankfurt   1520B              
+OL,7,G  LH 7342                              
+OL,8,FDX 198  Frankfurt   2200B              
+OL,9,F  LH 7344                              
+OL,10,GDX 194  Frankfurt   1520B    28.11.26  
+OL,11,G  LH 7342                              
+OL,23,Q,F12:20hGFlughafen LinzF07221/600-1100 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G831FORF1   GFr 27.11.26 02:21:10
+OL,0,       G831FORF1   GFr 27.11.26 12:21:14
 OL,1,A]G                      Flughafen Linz 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug     nach       Plan aktuell       
-OL,5,FDX 193  Frankfurt   1130B              
-OL,6,F  LH 7343                              
-OL,7,GDX 197  Frankfurt   1730B              
-OL,8,G  LH 7345                              
-OL,9,FQY 4127 Leipzig/Hall2130B              
-OL,10,GENT591  Milan MXP   1030B    28.11.26  
-OL,11,FDX 193  Frankfurt   1130B    28.11.26  
+OL,5,FDX 197  Frankfurt   1730B              
+OL,6,F  LH 7345                              
+OL,7,GQY 4127 Leipzig/Hall2130B              
+OL,8,FENT591  Milan MXP   1030B    28.11.26  
+OL,9,GDX 193  Frankfurt   1130B    28.11.26  
+OL,10,G  LH 7343                              
+OL,11,FDX 193  Frankfurt   1130B    29.11.26  
 OL,12,F  LH 7343                              
-OL,23,Q,F02:20hGFlughafen LinzF07221/600-1100 
+OL,23,Q,F12:20hGFlughafen LinzF07221/600-1100 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

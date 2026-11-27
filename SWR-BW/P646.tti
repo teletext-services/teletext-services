@@ -3,31 +3,35 @@ PN,64601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G05:00:21
+OL,0,       BSWR BW C   Fr, 27.11.26G15:00:10
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,10,FWARNUNG vor FROST                      
-OL,11, G}ltig: Do 16:00 bis Fr 12:00          
-OL,13,FAhrweiler, Eifelkreis Bitburg-Pr}m     
-OL,14,FVulkaneifel                            
-OL,16, Es tritt m{~iger Frost zwischen -5     
-OL,17, `C und -9 `C auf.                      
-OL,23,D]GQuelle:DWD  Stand:12:31  Hinweise 654
+OL,9,FWARNUNG vor FROST                      
+OL,10, G}ltig: Fr 12:00 bis Fr 16:00          
+OL,12,FAhrweiler, Eifelkreis Bitburg-Pr}m     
+OL,13,FVulkaneifel                            
+OL,14,FTrier-Saarburg und Stadt Trier         
+OL,16, Es tritt leichter Frost zwischen 0 `C  
+OL,17, und -4 `C auf.                         
+OL,23,D]GQuelle:DWD  Stand:09:50  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,64602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G05:00:21
+OL,0,       BSWR BW C   Fr, 27.11.26G15:00:10
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,11,FWARNUNG vor FROST                      
-OL,12, G}ltig: Do 16:00 bis Fr 12:00          
+OL,9,FWARNUNG vor FROST                      
+OL,10, G}ltig: Fr 16:00 bis Sa 12:00          
+OL,12,FAhrweiler, Eifelkreis Bitburg-Pr}m     
+OL,13,FVulkaneifel                            
 OL,14,FTrier-Saarburg und Stadt Trier         
-OL,16, Es tritt leichter Frost bis -5 `C auf. 
-OL,23,D]GQuelle:DWD  Stand:12:31  Hinweise 654
+OL,16, Es tritt m{~iger Frost zwischen -4     
+OL,17, `C und -8 `C auf.                      
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

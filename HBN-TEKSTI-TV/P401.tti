@@ -3,24 +3,24 @@ PN,40101
 SC,0001
 PS,C100
 CT,25,T
-OL,0,       G401 HBN TEKSTI-TVG27.11.00:26:38
+OL,0,       G401 HBN TEKSTI-TVG27.11.10:26:03
 OL,1,F  ILMATIETEEN LAITOS 27.11.  Q^~}0    
-OL,2,D]GS[[TIEDOTUS KLO 1    ^Q`t    !    
+OL,2,D]GS[[TIEDOTUS KLO 11   ^Q`t    !    
 OL,3,                         ^Q+}00~7     
 OL,4,GGPilvist{. Ajoittain    ^Qku     
 OL,5,Gmahdollista kevytt{       ^TQu    
 OL,6,Gsadetta. Tuuli            ^TjQ?    
 OL,7,Gkohtalaista. L{mp|tila    ^TjQ5    
-OL,8,G-9..-1 astetta.           ^TjQ    
-OL,9,DGKirkas ja aurinkoinen   ^TjW4   
-OL,10,Gs{{. Pilvet|nt{ tai vain  ^WT+W%   
-OL,11,Gv{h{n pilvi{. L{mp|tila on ^WTW    
-OL,12,GL{mp|tila -9..-1 astetta. ^W ~5   
+OL,8,G-15..1 astetta.           ^TjQ    
+OL,9,DGKirkas ja aurinkoinen   ^TjQ4   
+OL,10,Gs{{. Pilvet|nt{ tai vain  ^WT+Q%   
+OL,11,Gv{h{n pilvi{. L{mp|tila on ^WTQ    
+OL,12,GL{mp|tila -15..1 astetta. ^W ~5   
 OL,13,AGEnimm{kseen selke{{,   ^W`~   
 OL,14,Gpaikoin ohutta         ^W x5  
 OL,15,Gpilvisyytt{. S{{ pysyy^WW~0 
 OL,16,Gkuivana. L{mp|tila    ^TjW 
-OL,17,G-9..-1 astetta.       ^TjW% 
+OL,17,G-15..1 astetta.       ^TjW% 
 OL,18,                       ^Tj'  
 OL,19,                       ^Tj'   
 OL,20,                       ^Tj'    
@@ -31,37 +31,9 @@ PN,40102
 SC,0002
 PS,C100
 CT,25,T
-OL,0,       G401 HBN TEKSTI-TVG27.11.00:26:38
+OL,0,       G401 HBN TEKSTI-TVG27.11.10:26:03
 OL,1,F  ILMATIETEEN LAITOS 27.11.  W^~}0    
 OL,2,D]GHUOMISAAMUUN ASTI    ^W`t    !    
-OL,3,                         ^W+}00~7     
-OL,4,GGPilvist{. Ajoittain    ^Wku     
-OL,5,Gmahdollista kevytt{       ^Wu    
-OL,6,Gsadetta. Tuuli            ^Wj?    
-OL,7,Gkohtalaista. L{mp|tila    ^Wj5    
-OL,8,G-16..-3 astetta.          ^Wj    
-OL,9,DGKirkas ja aurinkoinen   ^Qj4   
-OL,10,Gs{{. Pilvet|nt{ tai vain  ^WQ+%   
-OL,11,Gv{h{n pilvi{. L{mp|tila on ^WQ    
-OL,12,GL{mp|tila -16..-3 astetta.^Q ~5   
-OL,13,AGEnimm{kseen selke{{,   ^Q`~   
-OL,14,Gpaikoin ohutta         ^Q xT5  
-OL,15,Gpilvisyytt{. S{{ pysyy^WQ~T0 
-OL,16,Gkuivana. L{mp|tila    ^WjT 
-OL,17,G-16..-3 astetta.      ^WjT% 
-OL,18,                       ^WjT'  
-OL,19,                       ^WjT'   
-OL,20,                       ^WjT'    
-OL,21,                       ^W oT'!     
-OL,22,                     ^Wg   '#T#         
-FL,0,0,0,0,0,100
-PN,40103
-SC,0003
-PS,C100
-CT,25,T
-OL,0,       G401 HBN TEKSTI-TVG27.11.00:26:38
-OL,1,F  ILMATIETEEN LAITOS 27.11.  W^~}0    
-OL,2,D]GYLIHUOMISEN S[[      ^W`t    !    
 OL,3,                         ^W+}00~7     
 OL,4,GGPilvist{. Ajoittain    ^Wku     
 OL,5,Gmahdollista kevytt{       ^TWu    
@@ -71,10 +43,38 @@ OL,8,G-9..1 astetta.            ^TjW
 OL,9,DGLumisadetta. Ajoittain  ^Wj4   
 OL,10,Grunsastakin lunta.        ^WW+%   
 OL,11,GPakkasta ja liukkautta.    ^WW    
-OL,12,GTuuli kohtalaista.        ^T ~W5   
-OL,13,GL{mp|tila -9..1 astetta. ^T`~W   
-OL,14,                        ^T xW5  
-OL,15,                       ^WT~W0 
+OL,12,GTuuli kohtalaista.        ^W ~5   
+OL,13,GL{mp|tila -9..1 astetta. ^W`~   
+OL,14,                        ^W x5  
+OL,15,                       ^WW~0 
+OL,16,                       ^Wj 
+OL,17,                       ^Wj% 
+OL,18,                       ^Wj'  
+OL,19,                       ^Wj'   
+OL,20,                       ^Wj'    
+OL,21,                       ^W o'!     
+OL,22,                     ^Wg   '###         
+FL,0,0,0,0,0,100
+PN,40103
+SC,0003
+PS,C100
+CT,25,T
+OL,0,       G401 HBN TEKSTI-TVG27.11.10:26:03
+OL,1,F  ILMATIETEEN LAITOS 27.11.  W^~}0    
+OL,2,D]GYLIHUOMISEN S[[      ^W`t    !    
+OL,3,                         ^W+}00~7     
+OL,4,GGPilvist{. Ajoittain    ^Wku     
+OL,5,Gmahdollista kevytt{       ^Wu    
+OL,6,Gsadetta. Tuuli            ^Wj?    
+OL,7,Gkohtalaista. L{mp|tila    ^Wj5    
+OL,8,G-8..3 astetta.            ^Wj    
+OL,9,DGLumisadetta. Ajoittain  ^Wj4   
+OL,10,Grunsastakin lunta.        ^WW+%   
+OL,11,GPakkasta ja liukkautta.    ^WW    
+OL,12,GTuuli kohtalaista.        ^W ~T5   
+OL,13,GL{mp|tila -8..3 astetta. ^W`~T   
+OL,14,                        ^W x5  
+OL,15,                       ^WW~0 
 OL,16,                       ^Wj 
 OL,17,                       ^Wj% 
 OL,18,                       ^Wj'  

@@ -1,13 +1,13 @@
 DE,NOS-TT 725
-PN,72500
-SC,0000
-PS,8208
+PN,72501
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BNOS-TT  725Cvri 27 nov  01:50:40
-OL,1,D]                                      
+OL,0,       BNOS-TT  725Cvri 27 nov  11:50:53
+OL,1,D]                                F 1/2 
 OL,2,R]MD  IJS @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,4,D]F Fdonderdag 26 november 11:38@@@@@@@@
+OL,4,D]F Fvrijdag 27 november 11:40@@@@@@@@@@
 OL,5,                                    @@@@
 OL,6,CVaarmogelijkheid@@@@@@@@@@@@@@@@@@@@@@@
 OL,7,B++                     FGoed bevaarbaar
@@ -18,8 +18,38 @@ OL,11,Axx                          FVaarverbod
 OL,12,A>>              FKonvooivaart verplicht
 OL,13,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,14,CFlevoland@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,15,FZwolsevaart                         B++
-OL,16,FVoorstersluis - Zwarte Meer         B++
+OL,15,FRamsdiep                            B++
+OL,16,FZwolsevaart                         B++
+OL,17,FVoorstersluis - Zwarte Meer         B++
+OL,18,FDe Vaart(Almere) - Zuidersluis      B++
+OL,19,FHarderwijk - Elburgerbrug           B++
+OL,20,FElburgerbrug - Reevesluis            A-
+OL,21,FReevesluis - Ketelmond              B +
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,Bwww.rijkswaterstaat.nlT,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,72502
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  725Cvri 27 nov  11:50:53
+OL,1,D]                                F 2/2 
+OL,2,R]MD  IJS @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,3,B]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,4,D]F Fvrijdag 27 november 11:40@@@@@@@@@@
+OL,5,                                    @@@@
+OL,6,CNoord-Holland@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,7,FWestfriesche Vaart                  B++
+OL,8,FKanaal Alkmaar(Omval)-Kolhorn       B++
+OL,9,FWeespertrekvaart - Ouderkerk/Amstel B++
+OL,10,FOuderkerk/Amstel - Uithoorn         B++
+OL,11,FUithoorn - Aarkanaal                B++
+OL,12,FOostl.Ringvaart Haarlemmermeer      B++
+OL,13,FZuidl.Ringvaart Haarlemmermeer      B++
+OL,14,FHillegom - Zuidl.Rv.Haarlemmermeer  B++
+OL,15,FCruquius - Hillegom                 B++
+OL,16,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,17,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,18,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,19,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

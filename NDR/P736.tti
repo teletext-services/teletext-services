@@ -3,28 +3,27 @@ PN,73600
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       G736FNDR TEXT GFr 27.11.B01:41:58
+OL,0,       G736FNDR TEXT GFr 27.11.B11:41:37
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN M]NSTER/OSNABR.   
-OL,4,F]T  %D     Abflug       Stand 01:36    
+OL,4,F]T  %D     Abflug       Stand 10:52    
 OL,5,BFLUG    NACH          PLAN ERW. TER/BEM
-OL,6, DE 1322 Teneriffa     0605             
-OL,7,FVL 2143 M}nchen       0605             
-OL,8, FR 1451 Alicante      0920             
-OL,9,FFR 3369 Malaga        0935             
-OL,10, FR 7248 Palma d.M.    0950             
-OL,11,FVL 2135 M}nchen       0950             
-OL,12, LH 2139 M}nchen       1655             
-OL,13,FIV 5241 Pristina      2010             
-OL,14, LH 2141 M}nchen       2015             
-OL,15,FFR 6142 London STN    2155             
-OL,16,C        -- Am 28.11.2026 --            
-OL,17,FVL 2143 M}nchen       0605             
-OL,18, DE 346  Hurghada      0915             
-OL,19,FVL 2135 M}nchen       0950             
-OL,20, VL 2137 M}nchen       1305             
-OL,21,FFR 7248 Palma d.M.    1510             
+OL,6, VL 2135 M}nchen       0950 1145 Einst  
+OL,7,FLH 2139 M}nchen       1655             
+OL,8, IV 5241 Pristina      2010             
+OL,9,FLH 2141 M}nchen       2015             
+OL,10, FR 6142 London STN    2155             
+OL,11,C        -- Am 28.11.2026 --            
+OL,12, VL 2143 M}nchen       0605             
+OL,13,FDE 346  Hurghada      0915             
+OL,14, VL 2135 M}nchen       0950             
+OL,15,FVL 2137 M}nchen       1305             
+OL,16, FR 7248 Palma d.M.    1510             
+OL,17,C        -- Am 29.11.2026 --            
+OL,18, VL 2143 M}nchen       0605             
+OL,19,FDE 1324 Gran Canaria  0720             
+OL,20, FR 3369 Malaga        1005             
 OL,23,A]G700<                      WEITER >737
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

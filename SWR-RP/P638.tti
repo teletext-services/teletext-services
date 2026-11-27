@@ -3,46 +3,60 @@ PN,63801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:27:07
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:26:44
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,10,FWARNUNG vor FROST                      
-OL,11, G}ltig: Do 12:00 bis Fr 12:00          
-OL,13,FCalw, Kreis Freudenstadt               
-OL,14,FEnzkreis/Pforzheim                     
+OL,11,FWARNUNG vor FROST                      
+OL,12, G}ltig: Fr 12:00 bis Sa 12:00          
+OL,14,FCalw                                   
 OL,16, Es tritt leichter Frost um -2 `C auf.  
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,63802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:27:07
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:26:44
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,11,FWARNUNG vor FROST                      
-OL,12, G}ltig: Do 16:00 bis Fr 12:00          
-OL,14,FCalw, Kreis Freudenstadt               
-OL,16, Es tritt leichter Frost um -4 `C auf.  
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
+OL,10,FWARNUNG vor FROST                      
+OL,11, G}ltig: Fr 12:00 bis Sa 12:00          
+OL,13,FKreis Freudenstadt                     
+OL,15, Es tritt m{~iger Frost zwischen -2     
+OL,16, `C und -6 `C auf.                      
+OL,23,D]GQuelle:DWD  Stand:09:59  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,63803
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:27:07
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:26:44
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,10,FWARNUNG vor GL[TTE                     
-OL,11, G}ltig: Do 16:00 bis Fr 11:00          
-OL,13,FCalw, Kreis Freudenstadt               
-OL,14,FEnzkreis/Pforzheim                     
+OL,11,FWARNUNG vor GL[TTE                     
+OL,12, G}ltig: Fr 16:00 bis Sa 11:00          
+OL,14,FKreis Freudenstadt                     
 OL,16, Es besteht vereinzelt Gl{ttegefahr.    
-OL,23,D]GQuelle:DWD  Stand:01:14  Hinweise 654
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,63804
+SC,0004
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:26:44
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,11,FWARNUNG vor FROST                      
+OL,12, G}ltig: Fr 16:00 bis Sa 12:00          
+OL,14,FEnzkreis/Pforzheim                     
+OL,16, Es tritt leichter Frost um -2 `C auf.  
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

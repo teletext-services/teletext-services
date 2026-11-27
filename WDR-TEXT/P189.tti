@@ -3,22 +3,22 @@ PN,18901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G189 WDR Text GFr 27.11.26 07:35:45
+OL,0,     G189 WDR Text GFr 27.11.26 17:35:19
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DEXTREMWERTE    ]          
 OL,3,]T5                                
 OL,5,            WDR-Wetterstudio            
 OL,7,          CExtremwerte aus NRW          
-OL,9,          Daten vom 26.11.2026          
+OL,9,          Daten vom 27.11.2026          
 OL,11,CMinimum Temperaturen letzte Nacht      
-OL,13,        Nettersheim          -9,6  `C   
-OL,14,        Kall-Sistig          -7,6  `C   
-OL,15,        Wipperfuerth         -7,5  `C   
-OL,16,        Netphen              -7,2  `C   
-OL,17,        Olpe (Biggesee)      -7,1  `C   
-OL,18,        K|ln-Bonn            -7,1  `C   
-OL,19,        D}ren                -6,9  `C   
-OL,20,        St. Augustin         -6,9  `C   
+OL,13,        Nettersheim         -10,5  `C   
+OL,14,        Netphen             -10,4  `C   
+OL,15,        Kalterherberg       -10,2  `C   
+OL,16,        Dahlemer Binz        -9,9  `C   
+OL,17,        Wipperfuerth         -9,8  `C   
+OL,18,        Olpe (Biggesee)      -9,6  `C   
+OL,19,        Lennestadt           -9,2  `C   
+OL,20,        Bochum-Stiepel (Lot. -9,2  `C   
 OL,23,]D180 < ]bersicht      Pegelst{nde > 190
 OL,24,A]G- 188B]G+ 190  \               G(1/6)
 FL,188,190,0,0,0,100
@@ -26,22 +26,22 @@ PN,18902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G189 WDR Text GFr 27.11.26 07:35:45
+OL,0,     G189 WDR Text GFr 27.11.26 17:35:19
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DEXTREMWERTE    ]          
 OL,3,]T5                                
 OL,5,            WDR-Wetterstudio            
 OL,7,          CExtremwerte aus NRW          
-OL,9,          Daten vom 26.11.2026          
+OL,9,          Daten vom 27.11.2026          
 OL,11,CMinimum Temperaturen am Erdboden       
-OL,13,        Nettersheim         -11,4  `C   
-OL,14,        Z}lpich             -10,1  `C   
-OL,15,        D}ren               -10,0  `C   
-OL,16,        Kalterherberg       -10,0  `C   
-OL,17,        Kall-Sistig          -9,8  `C   
-OL,18,        Eslohe               -9,5  `C   
-OL,19,        Netphen              -9,5  `C   
-OL,20,        Wipperfuerth         -9,3  `C   
+OL,13,        Dahlemer Binz       -14,2  `C   
+OL,14,        Kalterherberg       -13,4  `C   
+OL,15,        Bochum-Stiepel (Lot.-12,8  `C   
+OL,16,        Nettersheim         -12,1  `C   
+OL,17,        Neuenrade           -12,0  `C   
+OL,18,        Wipperfuerth        -11,8  `C   
+OL,19,        Mettingen-Schlickel.-11,8  `C   
+OL,20,        Netphen             -11,8  `C   
 OL,23,]D180 < ]bersicht      Pegelst{nde > 190
 OL,24,A]G- 188B]G+ 190  \               G(2/6)
 FL,188,190,0,0,0,100
@@ -49,22 +49,22 @@ PN,18903
 SC,0003
 PS,C200
 CT,15,T
-OL,0,     G189 WDR Text GFr 27.11.26 07:35:45
+OL,0,     G189 WDR Text GFr 27.11.26 17:35:19
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DEXTREMWERTE    ]          
 OL,3,]T5                                
 OL,5,            WDR-Wetterstudio            
 OL,7,          CExtremwerte aus NRW          
-OL,9,          Daten vom 26.11.2026          
+OL,9,          Daten vom 27.11.2026          
 OL,11,CMaximum Temperaturen gestern           
-OL,13,        Neuss                 6,1  `C   
-OL,14,        D}sseldorf-Uni        5,5  `C   
-OL,15,        Lennestadt            5,2  `C   
-OL,16,        Duisburg Hochfeld     5,0  `C   
-OL,17,        Olpe (Biggesee)       4,9  `C   
-OL,18,        Bergisch Gladbach     4,6  `C   
-OL,19,        Wipperfuerth          4,4  `C   
-OL,20,        Porta Westfalica      4,2  `C   
+OL,13,        Castrop-Rauxel        3,8  `C   
+OL,14,        Duisburg Hochfeld     3,7  `C   
+OL,15,        Unna                  3,2  `C   
+OL,16,        Kemnader See          3,0  `C   
+OL,17,        Gelsenkirchen         2,9  `C   
+OL,18,        Beverungen/Weser      2,8  `C   
+OL,19,        Lennestadt            2,7  `C   
+OL,20,        Marl                  2,6  `C   
 OL,23,]D180 < ]bersicht      Pegelst{nde > 190
 OL,24,A]G- 188B]G+ 190  \               G(3/6)
 FL,188,190,0,0,0,100
@@ -72,22 +72,22 @@ PN,18904
 SC,0004
 PS,C200
 CT,15,T
-OL,0,     G189 WDR Text GFr 27.11.26 07:35:45
+OL,0,     G189 WDR Text GFr 27.11.26 17:35:19
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DEXTREMWERTE    ]          
 OL,3,]T5                                
 OL,5,            WDR-Wetterstudio            
 OL,7,          CExtremwerte aus NRW          
-OL,9,          Daten vom 26.11.2026          
+OL,9,          Daten vom 27.11.2026          
 OL,11,CMaximum Sonnenschein gestern           
-OL,13,        K|ln-Porz-Wahn        8,0  Std  
-OL,14,        Steinfurt             7,7  Std  
-OL,15,        M}nster               7,6  Std  
-OL,16,        Schloss Holte-Stuke.  7,6  Std  
-OL,17,        Bielefeld             7,5  Std  
-OL,18,        Emsdetten             7,5  Std  
-OL,19,        Halle (Westfalen)     7,4  Std  
-OL,20,        B}nde                 7,4  Std  
+OL,13,        Hemer                 6,7  Std  
+OL,14,        Porta Westfalica      6,5  Std  
+OL,15,        B}nde                 6,4  Std  
+OL,16,        Fr|ndenberg/Ruhr-Ho.  6,3  Std  
+OL,17,        L}bbecke              6,3  Std  
+OL,18,        Bielefeld             6,1  Std  
+OL,19,        Steinfurt             6,0  Std  
+OL,20,        Bochum Harpen         5,8  Std  
 OL,23,]D180 < ]bersicht      Pegelst{nde > 190
 OL,24,A]G- 188B]G+ 190  \               G(4/6)
 FL,188,190,0,0,0,100
@@ -95,22 +95,22 @@ PN,18905
 SC,0005
 PS,C200
 CT,15,T
-OL,0,     G189 WDR Text GFr 27.11.26 07:35:45
+OL,0,     G189 WDR Text GFr 27.11.26 17:35:19
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DEXTREMWERTE    ]          
 OL,3,]T5                                
 OL,5,            WDR-Wetterstudio            
 OL,7,          CExtremwerte aus NRW          
-OL,9,          Daten vom 26.11.2026          
+OL,9,          Daten vom 27.11.2026          
 OL,11,CMaximum Niederschlag letzte 24h        
-OL,13,        Beverungen-Drenke     0,4  mm   
-OL,14,        Mettingen (Davis)     0,2  mm   
-OL,15,        Bielefeld             0,0  mm   
-OL,16,        Halle (Westfalen)     0,0  mm   
-OL,17,        Wuppertal-Buchenhof.  0,0  mm   
-OL,18,        Xanten                0,0  mm   
-OL,19,        K|ln-City             0,0  mm   
-OL,20,        Warburg               0,0  mm   
+OL,13,        Beverungen-Drenke     0,1  mm   
+OL,14,        Bielefeld             0,0  mm   
+OL,15,        Halle (Westfalen)     0,0  mm   
+OL,16,        Wuppertal-Buchenhof.  0,0  mm   
+OL,17,        Xanten                0,0  mm   
+OL,18,        K|ln-City             0,0  mm   
+OL,19,        Warburg               0,0  mm   
+OL,20,        K|nigswinter-Heider.  0,0  mm   
 OL,23,]D180 < ]bersicht      Pegelst{nde > 190
 OL,24,A]G- 188B]G+ 190  \               G(5/6)
 FL,188,190,0,0,0,100
@@ -118,22 +118,22 @@ PN,18906
 SC,0006
 PS,C200
 CT,15,T
-OL,0,     G189 WDR Text GFr 27.11.26 07:35:45
+OL,0,     G189 WDR Text GFr 27.11.26 17:35:19
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DEXTREMWERTE    ]          
 OL,3,]T5                                
 OL,5,            WDR-Wetterstudio            
 OL,7,          CExtremwerte aus NRW          
-OL,9,          Daten vom 26.11.2026          
+OL,9,          Daten vom 27.11.2026          
 OL,11,CMaximum Wind letzte 24h                
-OL,13,        B}ren-Ahden            52  km/h 
-OL,14,        Kahler Asten           50  km/h 
-OL,15,        Birkelbach             49  km/h 
-OL,16,        Haaren                 49  km/h 
-OL,17,        Aachen-Orsbach         49  km/h 
-OL,18,        Mettingen-Schlickel.   48  km/h 
-OL,19,        Ibbenbueren            48  km/h 
-OL,20,        Winterberg             48  km/h 
+OL,13,        Birkelbach             51  km/h 
+OL,14,        Haaren                 50  km/h 
+OL,15,        Kahler Asten           50  km/h 
+OL,16,        B}ren-Ahden            48  km/h 
+OL,17,        Bad W}nnenberg         44  km/h 
+OL,18,        Winterberg             44  km/h 
+OL,19,        Schmallenberg          42  km/h 
+OL,20,        Arnsberg-M}schede      41  km/h 
 OL,23,]D180 < ]bersicht      Pegelst{nde > 190
 OL,24,A]G- 188B]G+ 190  \               G(6/6)
 FL,188,190,0,0,0,100

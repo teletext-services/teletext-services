@@ -3,100 +3,10 @@ PN,37801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G378FORF2   GFr 27.11.26 02:30:33
-OL,1,A]G                            Teletest 
-OL,2,A]GFERNSEHEN  ]A      ORF1, So, 22.11. \
-OL,3,Q#############G                    1/9  
-OL,4,C                             %  MA  Tsd
-OL,5,F03:00 JAGDSAISON             *   6   18
-OL,6,G03:35 YOUNG SHELDON          *   6   18
-OL,7,F03:59 FORMEL 1 GP USA NEWS   1  16   42
-OL,8,G04:30 FORMEL 1 GP USA CTD    1  29   77
-OL,9,F04:55 FORMEL 1 GP USA        3  54  194
-OL,10,G07:05 FORMEL 1 GP USA ANALY  2  42  139
-OL,11,F07:25 DER GESTIEFELTE KATER  1  16   48
-OL,12,G07:48 KIDS CLUB              *  10   32
-OL,13,F07:59 MISTER PAPER           *   8   30
-OL,14,G08:04 GALAKTISCH KLUG        *   7   28
-OL,15,F08:21 DEMOKRATINO            *   6   22
-OL,16,G08:31 DIE CROODS DER FAMILI  *   5   20
-OL,17,F08:54 DIE SUPERKLASSE        *   4   23
-OL,18,G09:20 CAMPSITE               *   5   26
-OL,19,F09:27 SPORT BILD             1  11   70
-OL,20,G09:59 SKI ALPIN SLALOM HERR  4  33  271
-OL,21,F10:24 SKI ALPIN SLALOM HERR  6  45  425
-OL,22,G                                     @ 
-OL,23,Q,,,,,,,,,,,,,,,GZuschauer ab 12 Jahren 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,37802
-SC,0002
-PS,C200
-CT,15,T
-OL,0,       G378FORF2   GFr 27.11.26 02:30:33
-OL,1,A]G                            Teletest 
-OL,2,A]GFERNSEHEN  ]A      ORF1, So, 22.11. \
-OL,3,Q#############G                    2/9  
-OL,4,C                             %  MA  Tsd
-OL,5,F10:30 SKI ALPIN SLALOM HERR  7  52  547
-OL,6,G11:43 SKI ALPIN SLALOM HERR  5  38  373
-OL,7,F11:53 SKISPRINGEN DAMEN LIL  4  33  311
-OL,8,G11:58 SKISPRINGEN DAMEN LIL  3  28  259
-OL,9,F12:45 SKISPRINGEN DAMEN LIL  3  24  234
-OL,10,G12:55 SKISPRINGEN DAMEN LIL  3  23  252
-OL,11,F13:30 SKI ALPIN SLALOM HERR  8  45  587
-OL,12,G14:23 SKI ALPIN SLALOM HERR  5  30  381
-OL,13,F14:33 SKI ALPIN SLALOM HERR  4  24  297
-OL,14,G14:37 SKI ALPIN SLALOM HERR  4  22  273
-OL,15,F14:46 ZIB FLASH              3  20  252
-OL,16,G14:50 FORMEL 1 GP USA        3  19  237
-OL,17,F15:50 SKISPRINGEN HERREN LI  3  17  199
-OL,18,G15:59 SKISPRINGEN HERREN LI  4  24  301
-OL,19,F16:59 ZIB FLASH              4  21  294
-OL,20,G17:03 SKISPRINGEN HERREN LI  4  21  295
-OL,21,F17:15 SKISPRINGEN HERREN LI  5  24  378
-OL,22,G                                     @ 
-OL,23,Q,,,,,,,,,,,,,,,GZuschauer ab 12 Jahren 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,37803
-SC,0003
-PS,C200
-CT,15,T
-OL,0,       G378FORF2   GFr 27.11.26 02:30:33
-OL,1,A]G                            Teletest 
-OL,2,A]GFERNSEHEN  ]A      ORF1, So, 22.11. \
-OL,3,Q#############G                    3/9  
-OL,4,C                             %  MA  Tsd
-OL,5,F17:59 SKISPRINGEN HERREN LI  4  19  302
-OL,6,G18:04 ZIB FLASH              3  16  264
-OL,7,F18:13 FUSSBALL AM SONNTAG    3  11  207
-OL,8,G19:30 ZEIT IM BILD           2   7  177
-OL,9,F19:51 WETTER                 2   7  165
-OL,10,G19:55 SPORT AKTUELL          2   7  162
-OL,11,F20:01 ZIB MAGAZIN KINO       2   6  146
-OL,12,G20:15 INDIANA JONES UND DAS  4  13  324
-OL,13,F22:39 KILLERS BODYGUARD      1  11  107
-OL,14,G00:27 SKI ALPIN SLALOM HERR  *   6   31
-OL,15,F                                     @ 
-OL,16,G                                     @ 
-OL,17,F                                     @ 
-OL,18,G                                     @ 
-OL,19,F                                     @ 
-OL,20,G                                     @ 
-OL,21,F                                     @ 
-OL,22,G                                     @ 
-OL,23,Q,,,,,,,,,,,,,,,GZuschauer ab 12 Jahren 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,37804
-SC,0004
-PS,C200
-CT,15,T
-OL,0,       G378FORF2   GFr 27.11.26 02:30:33
+OL,0,       G378FORF2   GFr 27.11.26 12:30:20
 OL,1,A]G                            Teletest 
 OL,2,A]GFERNSEHEN  ]A      ORF1, Mo, 23.11. \
-OL,3,Q#############G                    4/9  
+OL,3,Q#############G                    1/9  
 OL,4,C                             %  MA  Tsd
 OL,5,F03:00 INDIANA JONES UND DAS  *   7   16
 OL,6,G03:16 SCHOOL OF CHAMPIONS    *   6   12
@@ -119,14 +29,14 @@ OL,22,G                                     @
 OL,23,Q,,,,,,,,,,,,,,,GZuschauer ab 12 Jahren 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,37805
-SC,0005
+PN,37802
+SC,0002
 PS,C200
 CT,15,T
-OL,0,       G378FORF2   GFr 27.11.26 02:30:33
+OL,0,       G378FORF2   GFr 27.11.26 12:30:20
 OL,1,A]G                            Teletest 
 OL,2,A]GFERNSEHEN  ]A      ORF1, Mo, 23.11. \
-OL,3,Q#############G                    5/9  
+OL,3,Q#############G                    2/9  
 OL,4,C                             %  MA  Tsd
 OL,5,F10:49 GEFRAGT GEJAGT         1  10   40
 OL,6,G11:36 MONK                   1   9   40
@@ -149,14 +59,14 @@ OL,22,G                                     @
 OL,23,Q,,,,,,,,,,,,,,,GZuschauer ab 12 Jahren 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,37806
-SC,0006
+PN,37803
+SC,0003
 PS,C200
 CT,15,T
-OL,0,       G378FORF2   GFr 27.11.26 02:30:33
+OL,0,       G378FORF2   GFr 27.11.26 12:30:20
 OL,1,A]G                            Teletest 
 OL,2,A]GFERNSEHEN  ]A      ORF1, Mo, 23.11. \
-OL,3,Q#############G                    6/9  
+OL,3,Q#############G                    3/9  
 OL,4,C                             %  MA  Tsd
 OL,5,F20:04 ZIB MAGAZIN            1   4   92
 OL,6,G20:16 ALLES FINSTER          3   8  189
@@ -179,14 +89,14 @@ OL,22,G                                     @
 OL,23,Q,,,,,,,,,,,,,,,GZuschauer ab 12 Jahren 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,37807
-SC,0007
+PN,37804
+SC,0004
 PS,C200
 CT,15,T
-OL,0,       G378FORF2   GFr 27.11.26 02:30:33
+OL,0,       G378FORF2   GFr 27.11.26 12:30:20
 OL,1,A]G                            Teletest 
 OL,2,A]GFERNSEHEN  ]A      ORF1, Di, 24.11. \
-OL,3,Q#############G                    7/9  
+OL,3,Q#############G                    4/9  
 OL,4,C                             %  MA  Tsd
 OL,5,F03:00 SCHNELLER ALS DIE ANG  *   4   10
 OL,6,G03:26 SCHNELLER ALS DIE ANG  *   5   11
@@ -209,14 +119,14 @@ OL,22,G                                     @
 OL,23,Q,,,,,,,,,,,,,,,GZuschauer ab 12 Jahren 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,37808
-SC,0008
+PN,37805
+SC,0005
 PS,C200
 CT,15,T
-OL,0,       G378FORF2   GFr 27.11.26 02:30:33
+OL,0,       G378FORF2   GFr 27.11.26 12:30:20
 OL,1,A]G                            Teletest 
 OL,2,A]GFERNSEHEN  ]A      ORF1, Di, 24.11. \
-OL,3,Q#############G                    8/9  
+OL,3,Q#############G                    5/9  
 OL,4,C                             %  MA  Tsd
 OL,5,F09:58 Q1 EIN HINWEIS IST FA  *   7   23
 OL,6,G10:39 GEFRAGT GEJAGT         1  10   38
@@ -239,14 +149,14 @@ OL,22,G                                     @
 OL,23,Q,,,,,,,,,,,,,,,GZuschauer ab 12 Jahren 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,37809
-SC,0009
+PN,37806
+SC,0006
 PS,C200
 CT,15,T
-OL,0,       G378FORF2   GFr 27.11.26 02:30:33
+OL,0,       G378FORF2   GFr 27.11.26 12:30:20
 OL,1,A]G                            Teletest 
 OL,2,A]GFERNSEHEN  ]A      ORF1, Di, 24.11. \
-OL,3,Q#############G                    9/9  
+OL,3,Q#############G                    6/9  
 OL,4,C                             %  MA  Tsd
 OL,5,F19:56 SPORT AKTUELL          1   4  102
 OL,6,G20:03 ZIB MAGAZIN            1   5  109
@@ -262,6 +172,96 @@ OL,15,F01:22 GOOD TROUBLE           *   5   20
 OL,16,G02:02 ALLES FINSTER          *   5   16
 OL,17,F02:46 ALLES FINSTER          *   6   14
 OL,18,G                                     @ 
+OL,19,F                                     @ 
+OL,20,G                                     @ 
+OL,21,F                                     @ 
+OL,22,G                                     @ 
+OL,23,Q,,,,,,,,,,,,,,,GZuschauer ab 12 Jahren 
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,37807
+SC,0007
+PS,C200
+CT,15,T
+OL,0,       G378FORF2   GFr 27.11.26 12:30:20
+OL,1,A]G                            Teletest 
+OL,2,A]GFERNSEHEN  ]A      ORF1, Mi, 25.11. \
+OL,3,Q#############G                    7/9  
+OL,4,C                             %  MA  Tsd
+OL,5,F03:00 ALLES FINSTER          *   6   13
+OL,6,G03:31 SCHOOL OF CHAMPIONS    *   5   10
+OL,7,F04:16 SCHOOL OF CHAMPIONS    *   6   11
+OL,8,G05:01 SCHOOL OF CHAMPIONS    *   6   13
+OL,9,F05:46 ECHT FETT              *   4   10
+OL,10,G05:59 ZIB KIDS               *   3    9
+OL,11,F06:05 NILS HOLGERSSON        *   4   11
+OL,12,G06:30 SERVUS KASPERL         *   4   10
+OL,13,F06:54 DIE JAGD NACH DEM KJU  *   2    7
+OL,14,G07:19 BAKABU                 *   2    7
+OL,15,F07:23 ABC BAER               *   2    6
+OL,16,G07:37 VEGESAURIER            *   2    6
+OL,17,F07:43 GARFIELD               *   2    6
+OL,18,G07:55 ZIB KIDS               *   2    6
+OL,19,F08:02 AMERICAN HOUSEWIFE     *   2    7
+OL,20,G08:23 WAPO BODENSEE          *   4   16
+OL,21,F09:11 SMART10 DAS QUIZ MIT   *   5   17
+OL,22,G                                     @ 
+OL,23,Q,,,,,,,,,,,,,,,GZuschauer ab 12 Jahren 
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,37808
+SC,0008
+PS,C200
+CT,15,T
+OL,0,       G378FORF2   GFr 27.11.26 12:30:20
+OL,1,A]G                            Teletest 
+OL,2,A]GFERNSEHEN  ]A      ORF1, Mi, 25.11. \
+OL,3,Q#############G                    8/9  
+OL,4,C                             %  MA  Tsd
+OL,5,F09:57 Q1 EIN HINWEIS IST FA  *   6   21
+OL,6,G10:40 GEFRAGT GEJAGT         1  11   43
+OL,7,F11:26 DEATH IN PARADISE      1  10   40
+OL,8,G12:18 MONK                   1  11   60
+OL,9,F12:58 SOKO KITZBUEHEL        1  14   94
+OL,10,G13:42 SOKO KITZBUEHEL        2  18  120
+OL,11,F14:26 WAPO BODENSEE          2  17  114
+OL,12,G15:14 DEATH IN PARADISE      1  13   93
+OL,13,F16:06 ZIB FLASH              1  12   98
+OL,14,G16:13 SOKO DONAU             2  16  136
+OL,15,F16:59 SOKO DONAU             2  15  174
+OL,16,G17:44 ZIB FLASH              2  10  126
+OL,17,F17:53 WETTER                 2  10  122
+OL,18,G17:56 SMART10 DAS QUIZ MIT   2   9  126
+OL,19,F18:43 Q1 EIN HINWEIS IST FA  1   5  105
+OL,20,G19:30 ZIB                    1   5  106
+OL,21,F19:51 WETTER                 1   5  104
+OL,22,G                                     @ 
+OL,23,Q,,,,,,,,,,,,,,,GZuschauer ab 12 Jahren 
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,37809
+SC,0009
+PS,C200
+CT,15,T
+OL,0,       G378FORF2   GFr 27.11.26 12:30:20
+OL,1,A]G                            Teletest 
+OL,2,A]GFERNSEHEN  ]A      ORF1, Mi, 25.11. \
+OL,3,Q#############G                    9/9  
+OL,4,C                             %  MA  Tsd
+OL,5,F19:56 SPORT AKTUELL          1   4   98
+OL,6,G20:03 ZIB MAGAZIN MEDIA      1   4   88
+OL,7,F20:15 DOK 1 IM AFD LAND UNT  3   9  222
+OL,8,G21:06 JUNG MILITANT NATIONA  2   7  171
+OL,9,F21:54 BLACK FRIDAY UND KONS  1   6  112
+OL,10,G22:41 ZIB FLASH              1   6   85
+OL,11,F22:51 BETRIFFT UNS REPORTAG  1   6   78
+OL,12,G23:24 ZIB FLASH              1   5   58
+OL,13,F23:32 WAS GIBT ES NEUES SHO  1   6   51
+OL,14,G23:58 ECHT FETT              1   5   42
+OL,15,F00:01 MEHR FUSSBALL DIE UEF  1   6   39
+OL,16,G00:47 HARROW                 *   7   28
+OL,17,F01:29 HARROW                 *   6   20
+OL,18,G02:13 LANDKRIMI STEIRERBIES  *   6   16
 OL,19,F                                     @ 
 OL,20,G                                     @ 
 OL,21,F                                     @ 

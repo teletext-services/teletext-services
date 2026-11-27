@@ -3,22 +3,22 @@ PN,51101
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G511  RTS 1     27.11.26 03:28:29
+OL,0,       G511  RTS 1     27.11.26 13:28:39
 OL,1,D]GLE TEMPS EN ROMANDIE                 
 OL,2,@]                                G 1/2 
-OL,3,F27.11. Situation @ 01h00   nouv.: 07h35
+OL,3,F27.11. Situation @ 07h00   nouv.: 13h35
 OL,4,C                           E*C  l/m2  C
 OL,5,GAigle....... part. nuageux.....  0.0  5
-OL,6,FBienne...... tr`s nuageux......  0.0  1
-OL,7,GCh{t.d'Oex.. peu nuageux.......  0.0  1
-OL,8,FSt-Bernard.. sans nuages.......  0.0 -7
+OL,6,FBienne...... nuageux...........  0.0  1
+OL,7,GCh{t.d'Oex.. peu nuageux.......  0.0 -0
+OL,8,FSt-Bernard.. sans nuages.......  0.0 -8
 OL,9,GDel#mont.... tr`s nuageux......  0.0  0
-OL,10,FEvol`ne..... sans nuages.......  0.0 -2
-OL,11,GFribourg.... tr`s nuageux......  0.0  1
-OL,12,FGen`ve...... tr`s nuageux......  0.0  4
-OL,13,GChx-de-Fds.. tr`s nuageux......  0.0 -1
-OL,14,FPayerne..... tr`s nuageux......  0.0  0
-OL,15,GSion........ part. nuageux.....  0.0  3
+OL,10,FEvol`ne..... sans nuages.......  0.0 -5
+OL,11,GFribourg.... part. nuageux.....  0.0  1
+OL,12,FGen`ve...... nuageux...........  0.0  3
+OL,13,GChx-de-Fds.. tr`s nuageux......  0.0 -2
+OL,14,FPayerne..... peu nuageux.......  0.0  0
+OL,15,GSion........ part. nuageux.....  0.0  4
 OL,16,G                                       
 OL,17,G                                       
 OL,18,EDonn#es automatiques - carence possible
@@ -33,25 +33,25 @@ PN,51102
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G511  RTS 1     27.11.26 03:28:29
+OL,0,       G511  RTS 1     27.11.26 13:28:39
 OL,1,D]GLE TEMPS EN SUISSE                   
 OL,2,@]                                G 2/2 
-OL,3,F27.11. Situation @ 01h00   nouv.: 07h35
+OL,3,F27.11. Situation @ 07h00   nouv.: 13h35
 OL,4,C                           E*C l/qm   C
-OL,5,GAarau..... nuageux............  0.0   1
-OL,6,FAltdorf... part. nuageux......  0.0   2
-OL,7,GB{le ..... tr`s nuageux.......  0.0   0
-OL,8,FBerne..... tr`s nuageux.......  0.0   0
-OL,9,GCoire..... sans nuages........  0.0  -2
-OL,10,FInterlaken peu nuageux........  0.0   3
-OL,11,GLocarno... peu nuageux........  0.0   4
-OL,12,FLugano.... part. nuageux......  0.0   5
+OL,5,GAarau..... part. nuageux......  0.0   0
+OL,6,FAltdorf... peu nuageux........  0.0   2
+OL,7,GB{le ..... peu nuageux........  0.0   0
+OL,8,FBerne..... part. nuageux......  0.0   0
+OL,9,GCoire..... sans nuages........  0.0  -4
+OL,10,FInterlaken part. nuageux......  0.0   3
+OL,11,GLocarno... peu nuageux........  0.0   2
+OL,12,FLugano.... sans nuages........  0.0   3
 OL,13,GLucerne... nuageux............  0.0   0
-OL,14,FSamedan... sans nuages........  0.0 -12
+OL,14,FSamedan... sans nuages........  0.0 -16
 OL,15,GSaentis... part. nuageux......  0.0 -10
-OL,16,FSchaffhous part. nuageux......  0.0   0
-OL,17,GSaint Gall peu nuageux........  0.0  -2
-OL,18,FZurich.... peu nuageux........  0.0  -1
+OL,16,FSchaffhous nuageux............  0.0  -0
+OL,17,GSaint Gall part. nuageux......  0.0  -2
+OL,18,FZurich.... nuageux............  0.0  -2
 OL,19,C                                       
 OL,20,EDonn#es automatiques - carence possible
 OL,21,E* mesures sur l'heure pr#c#denteC      

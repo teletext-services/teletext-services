@@ -3,21 +3,21 @@ PN,42101
 SC,0001
 PS,C100
 CT,25,T
-OL,0,       G421 HBN TEKSTI-TVG27.11.00:26:52
-OL,1,T]G         HELSINKI VANTAA       1/4   
+OL,0,       G421 HBN TEKSTI-TVG27.11.10:26:22
+OL,1,T]G         HELSINKI VANTAA       1/6   
 OL,2,V]D         L[HTEV[T LENNOT             
-OL,4,T]G22:50 AY099  G47                     
-OL,5,T]GHong Kong                            
-OL,7,T]G22:20 AY1045 G31E                    
-OL,8,T]GTartto                               
-OL,10,T]G22:15 AY145  G44                     
-OL,11,T]GBangkok                              
-OL,13,T]G22:05 AY131  G45A                    
-OL,14,T]GSingapore                            
-OL,16,T]G21:55 AY1035 G31D                    
-OL,17,T]GTallinna                             
-OL,19,T]G21:55 RP699  G17A                    
-OL,20,T]GPori                                 
+OL,4,T]G09:20 AY1103 G16                     
+OL,5,T]GVilna                                
+OL,7,T]G09:20 AY413  G5                      
+OL,8,T]GKajaani                              
+OL,10,T]G09:10 AY573  G24                     
+OL,11,T]GKittil{                              
+OL,13,T]G09:10 AY913  G29                     
+OL,14,T]GOslo                                 
+OL,16,T]G09:10 SK1707 G17                     
+OL,17,T]GK||penhamina                         
+OL,19,T]G09:05 SK705  G23B                    
+OL,20,T]GTukholma                             
 OL,22,T                                       
 OL,23,T                                       
 FL,0,0,0,0,0,100
@@ -25,21 +25,21 @@ PN,42102
 SC,0002
 PS,C100
 CT,25,T
-OL,0,       G421 HBN TEKSTI-TVG27.11.00:26:52
-OL,1,T]G         HELSINKI VANTAA       2/4   
+OL,0,       G421 HBN TEKSTI-TVG27.11.10:26:22
+OL,1,T]G         HELSINKI VANTAA       2/6   
 OL,2,V]D         L[HTEV[T LENNOT             
-OL,4,T]G21:55 AY321  G6                      
-OL,5,T]GVaasa                                
-OL,7,T]G21:55 AY395  G5                      
-OL,8,T]GKokkola-Pietarsaari                  
-OL,10,T]G21:55 AY449  G18                     
-OL,11,T]GOulu                                 
-OL,13,T]G21:50 AY289  G8                      
-OL,14,T]GJyv{skyl{                            
-OL,16,T]G21:50 AY825  G28                     
-OL,17,T]GTukholma                             
-OL,19,T]G21:50 AY375  G13A                    
-OL,20,T]GKuopio                               
+OL,4,T]G09:00 AY1019 G9                      
+OL,5,T]GTallinna                             
+OL,7,T]G08:50 AY551  G28                     
+OL,8,T]GRovaniemi                            
+OL,10,T]G08:50 AY603  G25                     
+OL,11,T]GIvalo                                
+OL,13,T]G08:40 AY1423 G15                     
+OL,14,T]GHampuri                              
+OL,16,T]G08:25 LG5402 G19                     
+OL,17,T]GLuxembourg                           
+OL,19,T]G07:40 AY1221 G32                     
+OL,20,T]GPraha                                
 OL,22,T                                       
 OL,23,T                                       
 FL,0,0,0,0,0,100
@@ -47,21 +47,21 @@ PN,42103
 SC,0003
 PS,C100
 CT,25,T
-OL,0,       G421 HBN TEKSTI-TVG27.11.00:26:52
-OL,1,T]G         HELSINKI VANTAA       3/4   
+OL,0,       G421 HBN TEKSTI-TVG27.11.10:26:22
+OL,1,T]G         HELSINKI VANTAA       3/6   
 OL,2,V]D         L[HTEV[T LENNOT             
-OL,4,T]G21:50 AY229  G10                     
-OL,5,T]GTurku                                
-OL,7,T]G21:50 AY269  G11                     
-OL,8,T]GTampere                              
-OL,10,T]G21:40 AY349  G9                      
-OL,11,T]GJoensuu                              
-OL,13,T]G21:35 AY539  G32                     
-OL,14,T]GRovaniemi                            
-OL,16,T]G21:15 AY963  G31E                    
-OL,17,T]GK||penhamina                         
-OL,19,T]G20:45 AY447  G30                     
-OL,20,T]GOulu                                 
+OL,4,T]G07:25 AY1471 G16                     
+OL,5,T]GWien                                 
+OL,7,T]G07:10 AY1013 G11                     
+OL,8,T]GTallinna                             
+OL,10,T]G07:05 AY435  G8                      
+OL,11,T]GOulu                                 
+OL,13,T]G07:05 AY807  G31E                    
+OL,14,T]GTukholma                             
+OL,16,T]G07:00 BT302  G20                     
+OL,17,T]GRiika                                
+OL,19,T]G06:40 AY485  G6                      
+OL,20,T]GKuusamo                              
 OL,22,T                                       
 OL,23,T                                       
 FL,0,0,0,0,0,100
@@ -69,13 +69,57 @@ PN,42104
 SC,0004
 PS,C100
 CT,25,T
-OL,0,       G421 HBN TEKSTI-TVG27.11.00:26:52
-OL,1,T]G         HELSINKI VANTAA       4/4   
+OL,0,       G421 HBN TEKSTI-TVG27.11.10:26:22
+OL,1,T]G         HELSINKI VANTAA       4/6   
 OL,2,V]D         L[HTEV[T LENNOT             
-OL,4,T]G20:10 SK725  G23B                    
-OL,5,T]GTukholma                             
-OL,7,T]G20:05 FR9144 G46                     
-OL,8,T]GLontoo Stansted                      
+OL,4,T]G06:35 AY1691 G18                     
+OL,5,T]GTeneriffa                            
+OL,7,T]G06:25 D82990 G49                     
+OL,8,T]GHurghada                             
+OL,10,T]G06:15 D82766 G43                     
+OL,11,T]GLontoo Gatwick                       
+OL,13,T]G06:15 AY1301 G23                     
+OL,14,T]GAmsterdam                            
+OL,16,T]G06:10 DK1344 G29                     
+OL,17,T]GGran Canaria                         
+OL,19,T]G06:05 AY1361 G51B                    
+OL,20,T]GManchester                           
+OL,22,T                                       
+OL,23,T                                       
+FL,0,0,0,0,0,100
+PN,42105
+SC,0005
+PS,C100
+CT,25,T
+OL,0,       G421 HBN TEKSTI-TVG27.11.10:26:22
+OL,1,T]G         HELSINKI VANTAA       5/6   
+OL,2,V]D         L[HTEV[T LENNOT             
+OL,4,T]G06:05 D82862 G24                     
+OL,5,T]GBucharest                            
+OL,7,T]G06:00 AY1511 G30                     
+OL,8,T]GZ~rich                               
+OL,10,T]G06:00 AY1751 G17                     
+OL,11,T]GMilano Malpensa                      
+OL,13,T]G06:00 D82522 G15                     
+OL,14,T]GRovaniemi                            
+OL,16,T]G06:00 AY803  G20A                    
+OL,17,T]GTukholma                             
+OL,19,T]G05:55 AY1401 G27                     
+OL,20,T]GM~nchen                              
+OL,22,T                                       
+OL,23,T                                       
+FL,0,0,0,0,0,100
+PN,42106
+SC,0006
+PS,C100
+CT,25,T
+OL,0,       G421 HBN TEKSTI-TVG27.11.10:26:22
+OL,1,T]G         HELSINKI VANTAA       6/6   
+OL,2,V]D         L[HTEV[T LENNOT             
+OL,4,T]G05:55 AY1531 G31E                    
+OL,5,T]GGeneve                               
+OL,7,T                                       
+OL,8,T                                       
 OL,10,T                                       
 OL,11,T                                       
 OL,13,T                                       

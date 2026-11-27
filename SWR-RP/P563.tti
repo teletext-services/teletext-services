@@ -3,28 +3,28 @@ PN,56301
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:24:14
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:24:37
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 05:10 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 15:10 
 OL,3,T#########"#############################
 OL,4,CAbflug Gnach       Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FLH 3536 Basel Bad  07:51 Gate T5    1 A
-OL,7, LH  006 Hamburg    08:00 Gate A13   1 A
-OL,8,FLH  822 Kopenhagen 08:00 Gate A24   1 A
-OL,9, LH 1058 Nizza      08:00 Gate A21   1 A
-OL,10,FLH 1362 Krakau     08:00 Gate A40   3 J
-OL,11, X3 2346 Teneriffa  08:00 Gate H6    3 J
-OL,12,FX3 6102 Hurghada   08:00            3 J
-OL,13, EN  310 Florenz    08:05 Gate A2    1 A
-OL,14,FLH  900 London     08:05 Gate B22   3 J
-OL,15, LH  282 Bologna    08:10 Gate A28   1 A
-OL,16,FLH 1042 Paris      08:10 Gate B3    1 A
-OL,17, LH 3602 Dortmund   08:11 Gate T6    3 J
-OL,18,FLH 3642 Hamburg    08:11 Gate T6    1 A
-OL,19, DE 3866 La Romana  08:15 Gate B45   1 B
-OL,20,FLH  096 M}nchen    08:15 Gate A52   1 A
-OL,21, LH 1250 Graz       08:20 Gate A36   1 A
+OL,6,FVL  946 Manchester 16:10 Gate Z22   1 A
+OL,7, LH 3618 K|ln Hbf   16:11 Gate T6    1 A
+OL,8,FLH  114 M}nchen    16:15 Gate A36   3 J
+OL,9, LH  818 G|teborg   16:15 Gate A62   1 A
+OL,10,FLH 1338 Budapest   16:15 Gate B9    3 J
+OL,11, OS  212 Wien       16:15C16:35     G1 A
+OL,12,F4Y  152 Mauritius  16:20 Gate C13   1 A
+OL,13, LH 3424 M}nchen    16:22C16:37     G1 A
+OL,14,FLH 3518 Dus Hbf    16:22 Gate T7    3 J
+OL,15, EN  956 Birmingham 16:25 Gate Z18   3 J
+OL,16,FLH 1194 Z}rich     16:25 Gate A16   1 A
+OL,17, LH 1220 Genf       16:25 Gate A3    1 A
+OL,18,FSN 2614 Br}ssel    16:25 Gate A26   1 A
+OL,19, LH  998 Amsterdam  16:40 Gate A4    1 A
+OL,20,FLH 3466 N}rnberg   16:41C16:47     F1 A
+OL,21, LH  194 Berlin     16:45 Gate A28   1 A
 OL,23,D]G< 560       ohne Gew{hr         564 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -32,28 +32,28 @@ PN,56302
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:24:14
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:24:37
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 05:10 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 15:10 
 OL,3,T#########"#############################
 OL,4,CAbflug Gnach       Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FOS  200 Wien       08:20 Gate A11   1 A
-OL,7, LH 3402 M}nchen    08:22 Gate T5    1 A
-OL,8,FLH 3500 Dus Hbf    08:22 Gate T7    1 A
-OL,9, VL 1086 Marseille  08:25 Gate B19   1 A
-OL,10,F4Y  616 Lyon       08:30 Gate A15   1 A
-OL,11, DE 4002 Berlin     08:30 Gate B9    1 B
-OL,12,FDE 4032 Hamburg    08:30 Gate B1    1 B
-OL,13, LH  836 Billund    08:30 Gate A58   1 A
-OL,14,FEN  290 Turin      08:35 Gate B11   1 A
-OL,15, LH 1392 Prag       08:35 Gate B8    1 A
-OL,16,FSQ  026 New York   08:35 Gate B46   1 C
-OL,17, 4Y  512 Palma      08:40 Gate B2    1 A
-OL,18,FUA  945 Chicago    08:40 Gate Z20   1 C
-OL,19, LH 3450 N}rnberg   08:41 Gate T5    1 A
-OL,20,FEN  930 London     08:45 Gate B30   1 A
-OL,21, LH  152 Leipzig    08:45 Gate A3    1 A
+OL,6,FVF  524 Ankara     16:45 Gate C14   1 C
+OL,7, LH 3490 Aachen Hbf 16:48 Gate T7    1 A
+OL,8,FDE 2302 Mahe       16:50 Gate B48   1 B
+OL,9, LH 1368 Krakau     16:50 Gate A56   1 A
+OL,10,FLH 3426 M}nchen    16:51C16:56         
+OL,11, EN  278 Mailand    16:55 Gate B16   1 A
+OL,12,FEN  316 Florenz    16:55 Gate B1    1 A
+OL,13, LH 1064 Nizza      16:55 Gate A58   1 A
+OL,14,FLO  378 Warschau   16:55 Gate A23   1 B
+OL,15, VF  036 Istanbul   16:55 Gate C15   1 C
+OL,16,F4Y  612 Lyon       17:00 Gate B11   1 A
+OL,17, EN  286 Bologna    17:00 Gate A30   1 A
+OL,18,FLH  026 Hamburg    17:00 Gate A25   1 A
+OL,19, LH  156 Leipzig    17:00 Gate A69   1 A
+OL,20,FLH  828 Kopenhagen 17:00 Gate A40   1 A
+OL,21, LH  840 Billund    17:00 Gate A1    1 A
 OL,23,D]G< 560       ohne Gew{hr         564 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -61,28 +61,28 @@ PN,56303
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:24:14
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:24:38
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 05:10 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 15:10 
 OL,3,T#########"#############################
 OL,4,CAbflug Gnach       Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FLH  178 Berlin     08:45 Gate A1    1 A
-OL,7, LH  324 Venedig    08:45 Gate A26   1 A
-OL,8,FLH 1372 Wroclaw    08:45 Gate A66   1 A
-OL,9, LH 3482 Aachen Hbf 08:48 Gate T7    1 A
-OL,10,FEN  270 Mailand    08:50 Gate B12   1 A
-OL,11, LH  072 D}sseldrf  08:50 Gate A32   1 A
-OL,12,FLH 3404 M}nchen    08:51 Gate T5    1 A
-OL,13, EN 1214 Genf       08:55 Gate A5    1 A
-OL,14,FLH  040 Hannover   08:55 Gate A56   1 A
-OL,15, LH 1458 Ljubljana  08:55 Gate A25   1 A
-OL,16,FDE 4330 London     09:00 Gate B54   1 B
-OL,17, DE 4362 Wien       09:00 Gate B6    1 B
-OL,18,FLH  010 Hamburg    09:00 Gate A23   1 A
-OL,19, LH  142 N}rnberg   09:00 Gate A18   1 A
-OL,20,FLH  994 Amsterdam  09:00 Gate A60   1 A
-OL,21, LH 1478 Chisinau   09:00 Gate B27   1 A
+OL,6,FUA  933 Washington 17:00 Gate Z23   1 C
+OL,7, LH 3738 Dresden    17:02 Gate T5    1 A
+OL,8,FKC  922 Astana     17:05               
+OL,9, LH  916 London     17:05 Gate B27   1 A
+OL,10,FAC  843 Toronto    17:10 Gate B46   1 B
+OL,11, EN  936 London     17:10 Gate B30   1 A
+OL,12,FLH  612 Baku       17:10 Gate Z20   1 A
+OL,13, LH 3620 Dortmund   17:10 Gate T6    1 A
+OL,14,FLH 3660 Bremen Bhf 17:10 Gate T6    1 A
+OL,15, VL 1048 Paris      17:10 Gate A19   1 A
+OL,16,FEN  396 Luxemburg  17:15 Gate B14   1 A
+OL,17, EN 1398 Prag       17:15 Gate B6    1 A
+OL,18,FLH  046 Hannover   17:15 Gate A62   1 A
+OL,19, LH  066 Dresden    17:15 Gate A24   1 A
+OL,20,FLH  076 D}sseldrf  17:15 Gate A54   1 A
+OL,21, LH  116 M}nchen    17:15 Gate A13   1 A
 OL,23,D]G< 560       ohne Gew{hr         564 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -90,28 +90,28 @@ PN,56304
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:24:14
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:24:38
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 05:10 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 15:10 
 OL,3,T#########"#############################
 OL,4,CAbflug Gnach       Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FSN 2608 Br}ssel    09:00 Gate A17   1 A
-OL,7, EN  392 Luxemburg  09:05 Gate B13   1 A
-OL,8,FEN 1202 Basel      09:05 Gate B7    1 A
-OL,9, LH 1044 Paris      09:05 Gate A19   1 A
-OL,10,FLH 1260 Salzburg   09:05 Gate A30   1 A
-OL,11, EJU5404 Mailand    09:10 Gate H1    3 J
-OL,12,FLH 1386 Poznan     09:10 Gate A52   1 A
-OL,13, LH 3604 Dortmund   09:10 Gate T6    1 A
-OL,14,FLH 3644 Hamburg    09:10 Gate T6    1 A
-OL,15, DE 4262 Mailand    09:15 Gate B3    1 B
-OL,16,FLH  098 M}nchen    09:15 Gate A34   1 A
-OL,17, QR  070 Doha-Hamad 09:15               
-OL,18,FEJU2994 Rom        09:20 Gate H3    3 J
-OL,19, LH  062 Dresden    09:20 Gate A68   1 A
-OL,20,FLH 1148 Malaga     09:20 Gate B10   1 A
-OL,21, OS  202 Wien       09:20 Gate A11   1 A
+OL,6,FLH 1264 Salzburg   17:15 Gate A60   1 A
+OL,7, LH  330 Venedig    17:20 Gate A56   1 A
+OL,8,FLH 3520 Dus Hbf    17:22 Gate T6    1 A
+OL,9, UA  927 SFrancisco 17:25 Gate Z19   1 C
+OL,10,FA3  533 Thessaloni 17:30 Gate A38   1 B
+OL,11, LH 1284 Athen      17:30 Gate B10   1 A
+OL,12,FLH 1480 Eriwan     17:30 Gate B22   1 A
+OL,13, AF 1319 Paris      17:35 Gate H2    3 J
+OL,14,FAT  811 Casablanca 17:35               
+OL,15, LH  146 N}rnberg   17:35 Gate A64   1 A
+OL,16,FLH 1116 Madrid     17:35 Gate A34   1 A
+OL,17, LH 1304 Istanbul   17:35 Gate Z15   1 A
+OL,18,FOS  214 Wien       17:40 Gate A11   1 A
+OL,19, LH 3470 N}rnberg   17:41 Gate T5    1 A
+OL,20,FLH  198 Berlin     17:45 Gate A22   1 A
+OL,21, LH  432 Chicago    17:45 Gate Z69   1 A
 OL,23,D]G< 560       ohne Gew{hr         564 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -119,28 +119,28 @@ PN,56305
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:24:14
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:24:38
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 05:10 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 15:10 
 OL,3,T#########"#############################
 OL,4,CAbflug Gnach       Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FLH 3504 Dus Hbf    09:22 Gate T7    1 A
-OL,7, DE 4302 Paris      09:25 Gate B4    1 B
-OL,8,FLH  248 Mailand    09:25 Gate A2    1 A
-OL,9, LH  814 G|teborg   09:25 Gate B14   1 A
-OL,10,FLH 1166 Lissabon   09:25 Gate A38   1 A
-OL,11, LH 1334 Budapest   09:25 Gate A69   1 A
-OL,12,FOU  417 Zagreb     09:30 Gate A20   1 C
-OL,13, VL  848 Helsinki   09:30 Gate A22   1 A
-OL,14,FEK  044 Dubai      09:40               
-OL,15, LH  880 Tallinn    09:40 Gate A54   1 A
-OL,16,FLH 1100 Valencia   09:40 Gate A15   1 A
-OL,17, LH 1316 Algier     09:40 Gate B47   1 A
-OL,18,FLH 1394 Prag       09:40 Gate A14   1 A
-OL,19, LH 3452 N}rnberg   09:41 Gate T5    1 A
-OL,20,FLH 3586 Dortmund   09:41 Gate T6    1 A
-OL,21, 4Y 2106 La Romana  09:45 Gate C14   1 A
+OL,6,FOS  214 Wien       17:40 Gate A11   1 A
+OL,7, LH 3470 N}rnberg   17:41 Gate T5    1 A
+OL,8,FLH  198 Berlin     17:45 Gate A22   1 A
+OL,9, LH  432 Chicago    17:45 Gate Z69   1 A
+OL,10,FTP  573 Lissabon   17:45 Gate A28   1 B
+OL,11, LH 3556 Karlsruhe  17:51C18:20         
+OL,12,FLH  690 Tel Aviv   17:55 Gate C4    1 A
+OL,13, LH 1136 Barcelona  17:55 Gate A17   1 A
+OL,14,FPC  998 Istanbul   17:55               
+OL,15, OU  411 Zagreb     18:00 Gate B9    1 C
+OL,16,FLH  918 London     18:05 Gate B28   1 A
+OL,17, LH 1196 Z}rich     18:05 Gate A1    1 A
+OL,18,FLH 3680 G|ttingen  18:09 Gate T4    1 A
+OL,19, BA  905 London     18:10               
+OL,20,FTK 1594 Istanbul   18:10 Gate B47   1 C
+OL,21, LH 3622 Dortmund   18:11 Gate T6    1 A
 OL,23,D]G< 560       ohne Gew{hr         564 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -148,28 +148,28 @@ PN,56306
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:24:14
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:24:38
 OL,1,Tppppppppp`ppppppppppppppppppppppppppppp
-OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 05:10 
+OL,2,D]GSWR >>P5GFRANKFURT AIRPORT  Fr 15:10 
 OL,3,T#########"#############################
 OL,4,CAbflug Gnach       Plan Cerw. GTerminal
 OL,5, ---------------------------------------
-OL,6,FAC  845 Montreal   09:45 Gate B48   1 B
-OL,7, LH  180 Berlin     09:45 Gate A21   1 A
-OL,8,F4Y  302 Gr.Canaria 09:50 Gate A40   1 A
-OL,9, 4Y  306 Teneriffa  09:50 Gate B12   1 A
-OL,10,FDL  089 Detroit    09:50               
-OL,11, JU  351 Belgrad    09:50               
-OL,12,FLH  802 Stockholm  09:50 Gate A66   1 A
-OL,13, LH 1186 Z}rich     09:50 Gate A26   1 A
-OL,14,FLH 1280 Athen      09:50 Gate B15   1 A
-OL,15, LH 1322 Tunis      09:50 Gate Z21   1 A
-OL,16,FLH 3540 Basel Bad  09:51 Gate T5    1 A
-OL,17, BT  244 Riga       09:55 Gate A25   1 B
-OL,18,FDE 2548 Bangkok    09:55 Gate B43   1 B
-OL,19, DE 4482 Prag       09:55 Gate B1    1 B
-OL,20,FLH  978 Dublin     09:55 Gate B30   1 A
-OL,21, LH 1112 Madrid     09:55 Gate A50   1 A
+OL,6,FLH  120 M}nchen    18:15 Gate A68   1 A
+OL,7, LH 3430 M}nchen    18:22 Gate T4    1 A
+OL,8,FLH 3522 Dus Hbf    18:22 Gate T7    1 A
+OL,9, KL 1822 Amsterdam  18:35 Gate H6    3 J
+OL,10,FCA  936 Shanghai   18:40 Gate B25   1 C
+OL,11, LH 3472 N}rnberg   18:42 Gate T5    1 A
+OL,12,FLH 3492 Aachen Hbf 18:48 Gate T7    1 A
+OL,13, DE 4334 London     18:50 Gate B44   1 B
+OL,14,FLH 3432 M}nchen    18:51 Gate T5    1 A
+OL,15, A3  833 Athen      18:55 Gate A40   1 B
+OL,16,FUX 1506 Madrid     18:55 Gate H1    3 J
+OL,17, LH  030 Hamburg    19:00 Gate A26   1 A
+OL,18,FLH 3740 Dresden    19:02 Gate T5    1 A
+OL,19, LH 3624 Dortmund   19:10 Gate T6    1 A
+OL,20,FLH 3664 Hamburg    19:10 Gate T6    1 A
+OL,21, SN 2616 Br}ssel    19:10 Gate A28   1 A
 OL,23,D]G< 560       ohne Gew{hr         564 >
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

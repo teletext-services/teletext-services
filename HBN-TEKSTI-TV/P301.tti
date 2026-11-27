@@ -3,89 +3,77 @@ PN,30101
 SC,0001
 PS,C100
 CT,20,T
-OL,0,       G301 HBN TEKSTI-TVG27.11.00:25:58
+OL,0,       G301 HBN TEKSTI-TVG27.11.10:25:52
 OL,1,  Spp00 0 |,,,|                         
 OL,2,Q]S 5 ih! C1S G       PERJANTAI       
 OL,3,  S !  !  /,,,/                         
-OL,4,G00.10GModernit miehet                  
-OL,5,G06.25GYlen aamu                        
-OL,6,G09.30GPuoli seitsem{n                  
-OL,7,G10.00GLa Promesa - Salaisuuksien       
-OL,8,Gkartano                                
-OL,9,G11.00GYle Uutiset Uusimaa              
-OL,10,G11.05GYle Uutiset Kaakkois-Suomi       
-OL,11,G11.10GYle Uutiset Lounais-Suomi        
-OL,12,G11.15GYle Uutiset H{me                 
-OL,13,G11.20GYle Uutiset Pirkanmaa            
-OL,14,G11.25GYle Uutiset Keski-Suomi ja       
-OL,15,GEtel{-Savo                             
-OL,16,G11.30GYle Uutiset It{-Suomi            
-OL,17,G11.35GYle Uutiset Pohjanmaa            
-OL,18,G11.40GYle Uutiset Pohjois-Suomi        
-OL,19,G11.45GYle Uutiset Lappi                
-OL,20,G11.50GYle Oddasat                      
+OL,4,G10.00GLa Promesa - Salaisuuksien       
+OL,5,Gkartano                                
+OL,6,G11.00GYle Uutiset Uusimaa              
+OL,7,G11.05GYle Uutiset Kaakkois-Suomi       
+OL,8,G11.10GYle Uutiset Lounais-Suomi        
+OL,9,G11.15GYle Uutiset H{me                 
+OL,10,G11.20GYle Uutiset Pirkanmaa            
+OL,11,G11.25GYle Uutiset Keski-Suomi ja       
+OL,12,GEtel{-Savo                             
+OL,13,G11.30GYle Uutiset It{-Suomi            
+OL,14,G11.35GYle Uutiset Pohjanmaa            
+OL,15,G11.40GYle Uutiset Pohjois-Suomi        
+OL,16,G11.45GYle Uutiset Lappi                
+OL,17,G11.50GYle Oddasat                      
+OL,18,G11.55GOddasat                          
+OL,19,G12.05GKuin kaikki muut                 
+OL,20,G12.35GRikoksen aakkoset                
 FL,0,0,0,0,0,100
 PN,30102
 SC,0002
 PS,C100
 CT,20,T
-OL,0,       G301 HBN TEKSTI-TVG27.11.00:25:58
+OL,0,       G301 HBN TEKSTI-TVG27.11.10:25:52
 OL,1,  Spp00 0 |,,,|                         
 OL,2,Q]S 5 ih! C1S G       PERJANTAI       
 OL,3,  S !  !  /,,,/                         
-OL,4,G11.55GOddasat                          
-OL,5,G12.05GKuin kaikki muut                 
-OL,6,G12.35GRikoksen aakkoset                
-OL,7,G13.25GKuriton sukupolvi                
-OL,8,G14.55GEl{v{ arkisto: Vuosirenkaita     
-OL,9,G15.00GVictorian syd{n                  
-OL,10,G15.50GHuippuvuoret yl{ilmoista         
-OL,11,G15.55GA-Talk                           
-OL,12,G16.35GYle Uutiset selkosuomeksi        
-OL,13,G16.40GYle Oddasat                      
-OL,14,G16.45GNovosti Yle                      
-OL,15,G16.50GYle Uutiset viittomakielell{     
-OL,16,G16.55GYle Uutiset alueeltasi           
-OL,17,G17.00GYle Uutiset 17.00                
-OL,18,G17.07GRikoksen aakkoset                
-OL,19,G18.00GYle Uutiset 18.00                
-OL,20,G18.21GYle Uutiset alueeltasi           
+OL,4,G13.25GKuriton sukupolvi                
+OL,5,G14.55GEl{v{ arkisto: Vuosirenkaita     
+OL,6,G15.00GVictorian syd{n                  
+OL,7,G15.50GHuippuvuoret yl{ilmoista         
+OL,8,G15.55GA-Talk                           
+OL,9,G16.35GYle Uutiset selkosuomeksi        
+OL,10,G16.40GYle Oddasat                      
+OL,11,G16.45GNovosti Yle                      
+OL,12,G16.50GYle Uutiset viittomakielell{     
+OL,13,G16.55GYle Uutiset alueeltasi           
+OL,14,G17.00GYle Uutiset 17.00                
+OL,15,G17.07GRikoksen aakkoset                
+OL,16,G18.00GYle Uutiset 18.00                
+OL,17,G18.21GYle Uutiset alueeltasi           
+OL,18,G18.28GKovan viikon ilta: Kaikki muut   
+OL,19,Guutiset                                
+OL,20,G18.30GPuoli seitsem{n                  
 FL,0,0,0,0,0,100
 PN,30103
 SC,0003
 PS,C100
 CT,20,T
-OL,0,       G301 HBN TEKSTI-TVG27.11.00:25:58
+OL,0,       G301 HBN TEKSTI-TVG27.11.10:25:52
 OL,1,  Spp00 0 |,,,|                         
 OL,2,Q]S 5 ih! C1S G       PERJANTAI       
 OL,3,  S !  !  /,,,/                         
-OL,4,G18.28GKovan viikon ilta: Kaikki muut   
-OL,5,Guutiset                                
-OL,6,G18.30GPuoli seitsem{n                  
-OL,7,G19.00GSohvaperunat                     
-OL,8,G19.49GVihreit{ hampurilaisia           
-OL,9,G20.02GUnohtumattomat - Muistikuoron    
-OL,10,Gmatka                                  
-OL,11,G20.30GYle Uutiset 20.30                
-OL,12,G20.55GUrheiluruutu                     
-OL,13,G21.05GOuto historia                    
-OL,14,G21.50GTunturikukkia                    
-OL,15,G21.55GYle Uutiset                      
-OL,16,G21.59GUrheiluruutu                     
-OL,17,G22.03GYle Uutiset Uutis-Suomi          
-OL,18,G22.11GPerjantai-dokkari                
-OL,19,G22.25GTaru Sormusten herrasta:         
-OL,20,GMahtisormukset                         
-FL,0,0,0,0,0,100
-PN,30104
-SC,0004
-PS,C100
-CT,20,T
-OL,0,       G301 HBN TEKSTI-TVG27.11.00:25:58
-OL,1,  Spp00 0 |,,,|                         
-OL,2,Q]S 5 ih! C1S G       PERJANTAI       
-OL,3,  S !  !  /,,,/                         
-OL,4,G23.27GOddasat                          
-OL,5,G23.37GSami Yaffa - Sound Tracker:      
-OL,6,GTurkki                                 
+OL,4,G19.00GSohvaperunat                     
+OL,5,G19.49GVihreit{ hampurilaisia           
+OL,6,G20.02GUnohtumattomat - Muistikuoron    
+OL,7,Gmatka                                  
+OL,8,G20.30GYle Uutiset 20.30                
+OL,9,G20.55GUrheiluruutu                     
+OL,10,G21.05GOuto historia                    
+OL,11,G21.50GTunturikukkia                    
+OL,12,G21.55GYle Uutiset                      
+OL,13,G21.59GUrheiluruutu                     
+OL,14,G22.03GYle Uutiset Uutis-Suomi          
+OL,15,G22.11GPerjantai-dokkari                
+OL,16,G22.25GTaru Sormusten herrasta:         
+OL,17,GMahtisormukset                         
+OL,18,G23.27GOddasat                          
+OL,19,G23.37GSami Yaffa - Sound Tracker:      
+OL,20,GTurkki                                 
 FL,0,0,0,0,0,100

@@ -3,80 +3,108 @@ PN,73501
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G735  RSI LA 2  27.11.26 03:13:45
-OL,1,A]GRSI   ]@LA1      VENERDI 27 novembre 
+OL,0,       G735  RSI LA 2  27.11.26 13:13:22
+OL,1,A]GRSI   ]@LA1       SABATO 28 novembre 
 OL,2,G                                       
-OL,3, G04:45  GIl QuotidianoCR           1/3 
-OL,4, F05:15  FTG Notte                      
-OL,5, G05:40  GMeteoCST                      
-OL,6, F05:40  FIl QuotidianoCST              
-OL,7, G06:15  GMeteoCST                      
-OL,8, F06:15  FSiamo fuoriCST                
-OL,9, G07:10  GMezz'ora per voiCST           
-OL,10, F07:40  FMezz'ora per voiCST           
-OL,11, G08:05  GEverywhere I go -         CST 
-OL,12,         GCoincidenze d'amore           
-OL,13,         GEpisodio 44                   
-OL,14, F08:50  FLa signora in gialloCSTCI/II  
-OL,15,         FIn arte Jessica Fox           
-OL,16, G09:35  GLa natura selvaggia degli CST 
-OL,17,         Ganimali domestici             
-OL,18,         GPiccoli segreti               
-OL,19, F10:30  FPrivate EyesCSTCI/II          
-OL,20,         FL'ultimo miglio               
+OL,3, G05:00  GTG NotteCR                1/4 
+OL,4, F05:20  FMeteoCST                      
+OL,5, G05:25  GPrima OraCSTCR                
+OL,6, F06:15  FIl QuotidianoCSTCR            
+OL,7, G07:00  GSiamo fuoriCSTCR              
+OL,8, F08:00  FColazione con PeoCST          
+OL,9, G08:25  GPiotta la marmottaCST         
+OL,10,         GFesta a sorpresa              
+OL,11, F08:30  FMinieroi della foresta -  CST 
+OL,12,         Fstagione 2                    
+OL,13,         FConsegne a domicilio          
+OL,14, G08:35  GI perch@ di ElinorCST         
+OL,15,         GLa casa costruita dalle       
+OL,16,         Gformiche                      
+OL,17, F08:50  FPocoyoCST                     
+OL,18,         FIl coniglietto birichino -    
+OL,19,         Fprima parte                   
+OL,20, G09:00  GMojo CambiotopCST             
+OL,21,         GUfo                           
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73502
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G735  RSI LA 2  27.11.26 03:13:45
-OL,1,A]GRSI   ]@LA1      VENERDI 27 novembre 
+OL,0,       G735  RSI LA 2  27.11.26 13:13:22
+OL,1,A]GRSI   ]@LA1       SABATO 28 novembre 
 OL,2,G                                       
-OL,3, G11:15  GWalker, Texas RangerCSTCI 2/3 
-OL,4,         GFuria cieca                   
-OL,5, F12:05  FModern FamilyCSTCI/II         
-OL,6,         FIl colloquio di lavoro        
-OL,7, G12:30  GTelegiornaleCST               
-OL,8, F12:45  FMeteo regionaleCST            
-OL,9, G12:55  GSotto il cielo del   CSTCI/II 
-OL,10,         GNatale                        
-OL,11, F14:20  FDonne che hanno cambiato  CST 
-OL,12,         Fil mondo                      
-OL,13,         FAmelia Earhart                
-OL,14, G14:25  GDonne che hanno cambiato  CST 
-OL,15,         Gil mondo                      
-OL,16,         GMaria di Nazareth             
-OL,17, F14:35  FLe sorelle McLeodCSTCI/II     
-OL,18,         FChiamatemi Kate               
-OL,19, G15:25  GLa magia del faroCSTCI/II     
-OL,20, F16:55  FSiamo fuoriCST                
+OL,3, F09:10  FVida la VetCST            2/4 
+OL,4,         FPruriti e rossori             
+OL,5, G09:20  GVida la Vet: chiedi a     CST 
+OL,6,         GVida!                         
+OL,7,         GQuanto cresce un ippopotamo?  
+OL,8, F09:25  FPaw Patrol, stagione 12CST    
+OL,9,         FI cuccioli salvano una pop    
+OL,10,         Fstar / I cuccioli salvano una 
+OL,11,         Fcupola di meditazione         
+OL,12, G09:45  GMortinaCST                    
+OL,13,         GIl burlone invisibile         
+OL,14, F09:55  FDragons: I cavalieri di   CST 
+OL,15,         FBerk                          
+OL,16,         FAlvin e i suoi guerrieri      
+OL,17, G10:20  GLe avventure di SnoopyCST     
+OL,18,         GCucciolo di bracchetto        
+OL,19,         Gsaltellante                   
+OL,20, F10:25  FVuoi quei kiwiCST             
+OL,21,         FCioccolata gelida             
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73503
 SC,0003
 PS,C300
 CT,8,T
-OL,0,       G735  RSI LA 2  27.11.26 03:13:45
-OL,1,A]GRSI   ]@LA1      VENERDI 27 novembre 
+OL,0,       G735  RSI LA 2  27.11.26 13:13:22
+OL,1,A]GRSI   ]@LA1       SABATO 28 novembre 
 OL,2,G                                       
-OL,3, G18:00  GPrima OraCST              3/3 
-OL,4, F19:00  FIl QuotidianoCST              
-OL,5, G19:35  GZeroveroCST                   
-OL,6, F19:55  FMeteo regionaleCST            
-OL,7, G20:00  GTelegiornaleCST               
-OL,8, F20:35  FMeteoCST                      
-OL,9, G20:40  GPatti ChiariCST               
-OL,10, F22:00  FLa mafia corsaCSTC1TV.....C710
-OL,11,         FIl colpo del secolo           
-OL,12, G23:05  GTG Notte                      
-OL,13, F23:30  FMeteoCST                      
-OL,14, G23:35  GL'erba del vicinoCSTCI/II.C716
-OL,15, F01:15  FSiamo fuoriCST                
-OL,16, G02:15  GTG Notte                      
-OL,17, F02:35  FMeteoCST                      
-OL,18, G02:40  GPrima OraCST                  
-OL,19, F03:35  FIl QuotidianoCST              
-OL,20, G04:05  GTelegiornaleCST               
+OL,3, G10:30  GVuoi quei kiwiCST         3/4 
+OL,4,         GBottiglia soft                
+OL,5, F10:35  FAll I want for         CSTC711
+OL,6,         FChristmas 2 - Il              
+OL,7,         Fcristallo magico              
+OL,8, G12:05  GSegni dei tempiCST            
+OL,9, F12:30  FTelegiornaleCST               
+OL,10, G12:45  GMeteo regionaleCST            
+OL,11, F12:55  FPatti ChiariCSTCR             
+OL,12, G14:15  GDonne che hanno cambiato  CST 
+OL,13,         Gil mondo                      
+OL,14,         GMarie Curie                   
+OL,15, F14:20  FDonne che hanno cambiato  CST 
+OL,16,         Fil mondo                      
+OL,17,         FGiovanna d'Arco               
+OL,18, G14:25  GTandemCSTCI/II                
+OL,19,         GUn amore pericoloso           
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,73504
+SC,0004
+PS,C300
+CT,8,T
+OL,0,       G735  RSI LA 2  27.11.26 13:13:22
+OL,1,A]GRSI   ]@LA1       SABATO 28 novembre 
+OL,2,G                                       
+OL,3, F15:20  FUn amore di       CSTCI/I 4/4 
+OL,4,         Ftestimone                     
+OL,5, G17:00  GIl giardino di AlbertCST..C724
+OL,6,         GL'agguato del web             
+OL,7, F18:00  FTelegiornale flashCST         
+OL,8, G18:10  GScacciapensieriCST            
+OL,9, F18:35  FStrada reginaCST              
+OL,10, G19:00  GIl QuotidianoCST              
+OL,11, F19:15  Fneo.CST                       
+OL,12, G19:40  GInsiemeCST                    
+OL,13, F19:50  FLotto Svizzero                
+OL,14, G19:55  GMeteo regionaleCST            
+OL,15, F20:00  FTelegiornaleCST               
+OL,16, G20:35  GMeteoCST                      
+OL,17, F20:40  FBlackoutCST                   
+OL,18, G21:50  GTower Heist -     CSTCI/IIC718
+OL,19,         GColpo ad alto                 
+OL,20,         Glivello                       
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

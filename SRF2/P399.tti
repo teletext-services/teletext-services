@@ -1,12 +1,12 @@
 DE,SRF2 399
-PN,39900
-SC,0000
-PS,8208
-CT,15,T
-OL,0,       G399  SRF zwei  27.11.26 04:09:24
+PN,39901
+SC,0001
+PS,C200
+CT,8,T
+OL,0,       G399  SRF zwei  27.11.26 14:09:03
 OL,1,C]@                 G]@              G"=
 OL,2,G                                       
-OL,3,CSport am TV, Freitag, 27. November     
+OL,3,CSport am TV, Freitag, 27. November 1/2 
 OL,4,E                                       
 OL,5,ESRF zwei                               
 OL,6,C10:25GLanglauf: Weltcup Frauen, 10 km  
@@ -24,6 +24,36 @@ OL,19,EBlue zoom @@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,20,C20:00GFussball, Challenge League       
 OL,21,G      Winterthur - Rapperswil-Jona     
 OL,22,C                                       
+OL,23,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
+FL,101,180,500,700,0,100
+PN,39902
+SC,0002
+PS,C200
+CT,8,T
+OL,0,       G399  SRF zwei  27.11.26 14:09:03
+OL,1,C]@                 G]@27.11.26 14:04G"=
+OL,2,G                                       
+OL,3,CSport am TV, Samstag, 28. November 2/2 
+OL,4,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,5,ESRF zwei                               
+OL,6,C11:05GLanglauf: Weltcup M+F, Sprint kl.
+OL,7,C13:00GBiathlon: Weltcup, Single-Mixed  
+OL,8,C14:00GSki Freestyle: Big Air (Teilaufz)
+OL,9,C15:15GSki: RS Frauen Killington, 1.Lauf
+OL,10,C16:40GWintersport live                 
+OL,11,C18:00GSki: RS Frauen Killington, 2.Lauf
+OL,12,C19:30GSki: SG M{nner Copper Mountain   
+OL,13,C22:35GFussball: Super League Highlights
+OL,14,C23:15GSportheute                       
+OL,15,ESRF info   @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,16,C18:55GFormel 1: GP Katar, Qualifying   
+OL,17,C20:05GFussball: SL, Servette-Lausanne  
+OL,18,ELivestream auf srf.ch/sport & Sport App
+OL,19,C14:00GBob: Weltcup M{nner, Zweierbob   
+OL,20,C14:50GMotorrad: GP Val., MotoGP-Sprint 
+OL,21,C15:10GBiathlon: Weltcup, Mixed-Staffel 
+OL,22,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

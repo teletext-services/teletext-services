@@ -3,28 +3,28 @@ PN,76101
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G761 YLE TEKSTI-TV 27.03.05:59:10
-OL,1, S `"rr(  G                         1/2 
+OL,0,       G761 YLE TEKSTI-TV 27.03.15:59:03
+OL,1, S `"rr(  G                         1/3 
 OL,2,D]S$.-b  GMeteorologiska Institutet   
-OL,3,D]Wx||}0 GV{derprognosen 27.11. kl. 6 
+OL,3,D]Wx||}0 GV{derprognosen 27.11. kl. 12
 OL,4,WW +/o//!                              
 OL,5,K                                       
-OL,6,GDet {r uppeh}llsv{der. Kallare luft    
-OL,7,Gstr|mmar in norrifr}n |ver Finland. I  
-OL,8,Gnatt vrider vinden till omkring        
-OL,9,Gsydv{st.                               
+OL,6,GDet {r uppeh}llsv{der och p} m}nga h}ll
+OL,7,Gklart. I morgon vrider vinden till     
+OL,8,Gomkring sydv{st och v{dret blir        
+OL,9,Gmildare.                               
 OL,10,K                                       
-OL,11,FUtsikterna till i morgon bitti:G       
-OL,12,K                                       
-OL,13,FI landets s|dra och mellersta delar:G  
-OL,14,GMest klart och uppeh}ll, i omr}dets    
-OL,15,G|stra del molnigt. Molnigheten |kar    
-OL,16,Gsm}ningom v{sterifr}n. Dagens h|gsta   
-OL,17,Gtemperatur {r -2...-9 grader. Mildast  
-OL,18,Gvid kusten. Nattens l{gsta -3...-12    
-OL,19,Ggrader. Mest svag vind.                
-OL,20,K                                       
-OL,21,K                                       
+OL,11,FUtsikterna fram till i morgon          
+OL,12,Feftermiddag:G                          
+OL,13,K                                       
+OL,14,FI landets v{stra del:G                 
+OL,15,GP} m}nga h}ll klart och uppeh}ll. I    
+OL,16,Gnatt v{sterifr}n |kad molnighet och i  
+OL,17,Gomr}dets norra del l{tta sn|fall.      
+OL,18,GTemperaturen {r -2...-10 grader, i     
+OL,19,Gmorgon p} dagen +1...-4 grader. Mildast
+OL,20,Gvid v{stra kusten. Svag vind, i morgon 
+OL,21,Gtilltagande vind omkring sydv{st.      
 OL,22,K                                       
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
@@ -33,24 +33,54 @@ PN,76102
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G761 YLE TEKSTI-TV 27.03.05:59:10
-OL,1, S `"rr(  G                         2/2 
+OL,0,       G761 YLE TEKSTI-TV 27.03.15:59:03
+OL,1, S `"rr(  G                         2/3 
 OL,2,D]S$.-b  GMeteorologiska Institutet   
-OL,3,D]Wx||}0 GV{derprognosen 27.11. kl. 6 
+OL,3,D]Wx||}0 GV{derprognosen 27.11. kl. 12
 OL,4,WW +/o//!                              
 OL,5,K                                       
-OL,6,FI landets norra del:G                  
-OL,7,GV{xlande molnighet och uppeh}ll. I     
-OL,8,Gmorgon bitti i sydv{stra Lappland l{tt 
-OL,9,Gsn|fall eller lokalt underkylt         
-OL,10,Gduggregn. Temperaturen {r mest -5...-15
-OL,11,Ggrader, i Lappland -10...-22 grader.   
-OL,12,GSvag vind.                             
-OL,13,K                                       
-OL,14,CTrafikv{dret:G                         
-OL,15,GI hela landet r}der normalt v{glag.    
-OL,16,K                                       
-OL,17,K                                       
+OL,6,FI landets |stra del:G                  
+OL,7,GMest molnigt och uppeh}ll, i natt      
+OL,8,Glokalt klarare. Temperaturen {r -2...- 
+OL,9,G10 grader, i natt i omr}dets norra del 
+OL,10,Glokalt -10...-15 grader. Svag vind.    
+OL,11,K                                       
+OL,12,FI landets norra del:G                  
+OL,13,GP} m}nga h}ll klart och uppeh}ll. I    
+OL,14,Gnatt |kad molnighet och l{tta sn|fall  
+OL,15,Geller underkylt duggregn. Temperaturen 
+OL,16,G{r -5...-15, i Lappland lokalt -15...- 
+OL,17,G25 grader. I morgon p} dagen i omr}dets
+OL,18,Gs|dra del 0...-8 grader. Svag vind, i  
+OL,19,Gmorgon n}got tilltagande vind omkring  
+OL,20,Gsyd.                                   
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,76103
+SC,0003
+PS,C100
+CT,15,T
+OL,0,       G761 YLE TEKSTI-TV 27.03.15:59:03
+OL,1, S `"rr(  G                         3/3 
+OL,2,D]S$.-b  GMeteorologiska Institutet   
+OL,3,D]Wx||}0 GV{derprognosen 27.11. kl. 12
+OL,4,WW +/o//!                              
+OL,5,K                                       
+OL,6,CTrafikv{dret:G                         
+OL,7,GV{glaget {r d}ligt i landskapen        
+OL,8,GMellersta Finland, Norra Savolax, Norra
+OL,9,GKarelen, S|dra \sterbotten,            
+OL,10,G\sterbotten, Mellersta \sterbotten och 
+OL,11,GKajanaland, landskapet Norra           
+OL,12,G\sterbotten fr}nsett kommunerna        
+OL,13,GPudasj{rvi, Taivalkoski och Kuusamo och
+OL,14,Gi f|ljande kommuner i Lappland: Simo,  
+OL,15,GKemi, Keminmaa, Torne} och Tervola     
+OL,16,Gp.g.a. underkylt duggregn och stigande 
+OL,17,Gtemperatur.                            
 OL,18,K                                       
 OL,19,K                                       
 OL,20,K                                       

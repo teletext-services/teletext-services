@@ -3,8 +3,8 @@ PN,73101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  731Cvri 27 nov  01:51:14
-OL,1,D]                    Fbinnenland F 1/11
+OL,0,       BNOS-TT  731Cvri 27 nov  11:51:14
+OL,1,D]                    Fbinnenland F 1/9 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
 OL,4,D]F prognose 24 uur              27 nov.
@@ -17,15 +17,15 @@ OL,10,F  05:00 tot 03 dec 2026 20:00.@@@@@@@@@
 OL,11,F-BA1 Apeldoorn->AmersfoortFtussen Stroe
 OL,12,F  en Voorthuizen.Van 23 nov 2026 05:00@
 OL,13,F  tot 30 nov 2026 20:00.@@@@@@@@@@@@@@@
-OL,14,F-BA2 Eindhoven->'s-HertogenboschFbij@@@
-OL,15,F  knp.Ekkersweijer dicht.Van 26 nov@@@@
-OL,16,F  2026 21:00 tot 27 nov 2026 05:00.@@@@
-OL,17,F-BA2 Utrecht->'s-HertogenboschFtussen@@
-OL,18,F  knp.Everdingen en knp.Deil dicht.@@@@
-OL,19,F  Van 26 nov 2026 21:00 tot 27 nov 2026
-OL,20,F  05:00.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,14,F-BA2 Eindhoven->MaastrichtFtussen Born@
+OL,15,F  en Urmond dicht.Van 27 nov 2026@@@@@@
+OL,16,F  20:00 tot 28 nov 2026 09:00.@@@@@@@@@
+OL,17,F-BA2 Eindhoven->MaastrichtFtussen Born@
+OL,18,F  en Urmond dicht.Van 28 nov 2026@@@@@@
+OL,19,F  21:00 tot 29 nov 2026 08:00.@@@@@@@@@
+OL,20,F-BA6 Emmeloord->JoureFtussen Bant en@@@
+OL,21,F  Lemmer.Van 03 nov 2026 06:00 tot 01@@
+OL,22,F  feb 2027 09:30.@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -33,28 +33,28 @@ PN,73102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  731Cvri 27 nov  01:51:14
-OL,1,D]                    Fbinnenland F 2/11
+OL,0,       BNOS-TT  731Cvri 27 nov  11:50:58
+OL,1,D]                    Fbinnenland F 2/9 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
 OL,4,D]F prognose 24 uur              27 nov.
 OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,6,F-BA2 Eindhoven->MaastrichtFtussen Born@
-OL,7,F  en Urmond dicht.Van 27 nov 2026@@@@@@
-OL,8,F  20:00 tot 28 nov 2026 09:00.@@@@@@@@@
-OL,9,F-BA2 Eindhoven->MaastrichtFtussen Born@
-OL,10,F  en Urmond dicht.Van 28 nov 2026@@@@@@
-OL,11,F  21:00 tot 29 nov 2026 08:00.@@@@@@@@@
-OL,12,F-BA4 Amsterdam->Den HaagFbij de@@@@@@@@
-OL,13,F  Schipholtunnel.Van 25 nov 2026 tot@@@
-OL,14,F  27 nov 2026,dagelijks van 21:00 tot@@
-OL,15,F  05:00.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,16,F-BA6 Emmeloord->JoureFtussen Bant en@@@
-OL,17,F  Lemmer.Van 03 nov 2026 06:00 tot 01@@
-OL,18,F  feb 2027 09:30.@@@@@@@@@@@@@@@@@@@@@@
-OL,19,F-BA6 Emmeloord->JoureFtussen Bant en@@@
-OL,20,F  Lemmer dicht.Van 28 nov 2026 20:00@@@
-OL,21,F  tot 30 nov 2026 06:00.@@@@@@@@@@@@@@@
+OL,6,F-BA6 Emmeloord->JoureFtussen Bant en@@@
+OL,7,F  Lemmer dicht.Van 28 nov 2026 20:00@@@
+OL,8,F  tot 30 nov 2026 06:00.@@@@@@@@@@@@@@@
+OL,9,F-BA6 Joure->EmmeloordFtussen Lemmer en@
+OL,10,F  Bant dicht.Van 28 nov 2026 21:00 tot@
+OL,11,F  30 nov 2026 06:00.@@@@@@@@@@@@@@@@@@@
+OL,12,F-BA6 Joure->EmmeloordFtussen Lemmer en@
+OL,13,F  Emmeloord.Van 03 nov 2026 06:00 tot@@
+OL,14,F  01 feb 2027 09:30.@@@@@@@@@@@@@@@@@@@
+OL,15,F-BA10 knp.Coenplein->knp.De Nieuwe@@@@@
+OL,16,F  BMeerFbij knp.De Nieuwe Meer dicht.@@
+OL,17,F  Van 27 nov 2026 22:00 tot 30 nov 2026
+OL,18,F  05:00.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,19,F-BA15 Gorinchem->NijmegenFtussen knp.@@
+OL,20,F  Deil en Geldermalsen.Van 01 jun 2026@
+OL,21,F  05:00 tot 24 apr 2028 21:00.@@@@@@@@@
 OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
@@ -63,45 +63,15 @@ PN,73103
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  731Cvri 27 nov  01:51:14
-OL,1,D]                    Fbinnenland F 3/11
+OL,0,       BNOS-TT  731Cvri 27 nov  11:50:58
+OL,1,D]                    Fbinnenland F 3/9 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
 OL,4,D]F prognose 24 uur              27 nov.
 OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,6,F-BA6 Joure->EmmeloordFtussen Lemmer en@
-OL,7,F  Bant dicht.Van 28 nov 2026 21:00 tot@
-OL,8,F  30 nov 2026 06:00.@@@@@@@@@@@@@@@@@@@
-OL,9,F-BA6 Joure->EmmeloordFtussen Lemmer en@
-OL,10,F  Emmeloord.Van 03 nov 2026 06:00 tot@@
-OL,11,F  01 feb 2027 09:30.@@@@@@@@@@@@@@@@@@@
-OL,12,F-BA10 knp.Coenplein->knp.De Nieuwe@@@@@
-OL,13,F  BMeerFbij knp.De Nieuwe Meer dicht.@@
-OL,14,F  Van 27 nov 2026 22:00 tot 30 nov 2026
-OL,15,F  05:00.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,16,F-BA15 Gorinchem->NijmegenFtussen knp.@@
-OL,17,F  Deil en Geldermalsen.Van 01 jun 2026@
-OL,18,F  05:00 tot 24 apr 2028 21:00.@@@@@@@@@
-OL,19,F-BA15 Nijmegen->GorinchemFtussen@@@@@@@
-OL,20,F  Geldermalsen en knp.Deil.Van 01 jun@@
-OL,21,F  2026 05:00 tot 24 apr 2028 21:00.@@@@
-OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,73104
-SC,0004
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  731Cvri 27 nov  01:51:14
-OL,1,D]                    Fbinnenland F 4/11
-OL,2,B]DMVERKEERSINFORMATIE                  
-OL,3,B]                                      
-OL,4,D]F prognose 24 uur              27 nov.
-OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,6,F-BA15 Rotterdam->EuropoortFbij de@@@@@@
-OL,7,F  Suurhoffbrug.Van 01 nov 2026 00:00@@@
-OL,8,F  tot 27 nov 2026 05:00.@@@@@@@@@@@@@@@
+OL,6,F-BA15 Nijmegen->GorinchemFtussen@@@@@@@
+OL,7,F  Geldermalsen en knp.Deil.Van 01 jun@@
+OL,8,F  2026 05:00 tot 24 apr 2028 21:00.@@@@
 OL,9,F-BA20 Hoek van Holland->GoudaFtussen@@@
 OL,10,F  Rotterdam-Delfshaven en knp.@@@@@@@@@
 OL,11,F  Kleinpolderplein.Van 01 jan 2026@@@@@
@@ -113,18 +83,18 @@ OL,16,F  00:00 tot 31 jul 2028 00:00.@@@@@@@@@
 OL,17,F-BA35 Enschede->AlmeloFbij Almelo-Zuid.
 OL,18,F  Van 19 nov 2026 16:03 tot 31 dec 2026
 OL,19,F  23:59.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,20,F-BA37 Duitse grens->HoogeveenFbij knp.@
-OL,21,F  Hoogeveen dicht.Van 26 nov 2026@@@@@@
-OL,22,F  22:00 tot 27 nov 2026 06:00.@@@@@@@@@
+OL,20,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
-PN,73105
-SC,0005
+PN,73104
+SC,0004
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  731Cvri 27 nov  01:51:15
-OL,1,D]                    Fbinnenland F 5/11
+OL,0,       BNOS-TT  731Cvri 27 nov  11:51:14
+OL,1,D]                    Fbinnenland F 4/9 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
 OL,4,D]F prognose 24 uur              27 nov.
@@ -137,14 +107,44 @@ OL,10,F-BA44 Amsterdam->Den HaagFtussen afrit@
 OL,11,F  Oude Wetering en afrit@@@@@@@@@@@@@@@
 OL,12,F  Noordwijkerhout dicht.Van 27 nov@@@@@
 OL,13,F  2026 21:00 tot 30 nov 2026 05:00.@@@@
-OL,14,F-BA59 Zierikzee->'s-HertogenboschF@@@@@
-OL,15,F  tussen Waalwijk en knp.Empel dicht.@@
-OL,16,F  Van 25 nov 2026 tot 27 nov 2026,@@@@@
-OL,17,F  dagelijks van 21:00 tot 05:00.@@@@@@@
-OL,18,F-BA59 's-Hertogenbosch->ZierikzeeF@@@@@
-OL,19,F  tussen afrit Heusden en Drunen-West.@
-OL,20,F  Van 01 nov 2026 12:00 tot 18 dec 2026
-OL,21,F  17:00.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,14,F-BA59 's-Hertogenbosch->ZierikzeeF@@@@@
+OL,15,F  tussen afrit Heusden en Drunen-West.@
+OL,16,F  Van 01 nov 2026 12:00 tot 18 dec 2026
+OL,17,F  17:00.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,18,F-BA65 Tilburg->'s-HertogenboschFtussen@
+OL,19,F  knp.De Baars en Vught dicht.Van 27@@@
+OL,20,F  nov 2026 21:00 tot 30 nov 2026 05:00.
+OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,73105
+SC,0005
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  731Cvri 27 nov  11:51:14
+OL,1,D]                    Fbinnenland F 5/9 
+OL,2,B]DMVERKEERSINFORMATIE                  
+OL,3,B]                                      
+OL,4,D]F prognose 24 uur              27 nov.
+OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BA67 Belgische grens->VenloFtussen de@
+OL,7,F  Belgische grens en Asten.Van 19 nov@@
+OL,8,F  2026 08:00 tot 01 dec 2026 08:00.@@@@
+OL,9,F-BA73 Maasbracht->NijmegenFbij Haps.@@@
+OL,10,F  Van 27 jul 2026 16:00 tot 07 dec 2026
+OL,11,F  00:00.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,12,F-BN3 Dordrecht->PapendrechtFbij de Brug
+OL,13,F  over de Beneden-Merwede dicht.Van 17@
+OL,14,F  jul 2026 23:00 tot 21 apr 2027 00:00.
+OL,15,F-BN3 Papendrecht->DordrechtFbij de Brug
+OL,16,F  over de Beneden-Merwede dicht.Van 17@
+OL,17,F  jul 2026 23:00 tot 21 apr 2027 00:00.
+OL,18,F-BN35 Zwolle->AlmeloFtussen Zwolle en@@
+OL,19,F  Raalte dicht.Van 23 nov 2026 tot 19@@
+OL,20,F  dec 2026,dagelijks van 20:00 tot@@@@@
+OL,21,F  05:00.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
@@ -153,29 +153,29 @@ PN,73106
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  731Cvri 27 nov  01:51:15
-OL,1,D]                    Fbinnenland F 6/11
+OL,0,       BNOS-TT  731Cvri 27 nov  11:51:14
+OL,1,D]                    Fbinnenland F 6/9 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
 OL,4,D]F prognose 24 uur              27 nov.
 OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,6,F-BA65 Tilburg->'s-HertogenboschFtussen@
-OL,7,F  knp.De Baars en Vught dicht.Van 27@@@
-OL,8,F  nov 2026 21:00 tot 30 nov 2026 05:00.
-OL,9,F-BA67 Belgische grens->VenloFtussen de@
-OL,10,F  Belgische grens en Asten.Van 19 nov@@
-OL,11,F  2026 08:00 tot 01 dec 2026 08:00.@@@@
-OL,12,F-BA73 Maasbracht->NijmegenFbij Haps.@@@
-OL,13,F  Van 27 jul 2026 16:00 tot 07 dec 2026
-OL,14,F  00:00.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,15,F-BN3 Dordrecht->PapendrechtFbij de Brug
-OL,16,F  over de Beneden-Merwede dicht.Van 17@
-OL,17,F  jul 2026 23:00 tot 21 apr 2027 00:00.
-OL,18,F-BN3 Papendrecht->DordrechtFbij de Brug
-OL,19,F  over de Beneden-Merwede dicht.Van 17@
-OL,20,F  jul 2026 23:00 tot 21 apr 2027 00:00.
-OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BN57 Middelburg->BrouwersdamFtussen@@@
+OL,7,F  Serooskerke-Schouwen en afrit Renesse
+OL,8,F  dicht.Van 06 nov 2026 10:00 tot 04@@@
+OL,9,F  dec 2026 15:00.@@@@@@@@@@@@@@@@@@@@@@
+OL,10,F-BN57 Brouwersdam->MiddelburgFtussen@@@
+OL,11,F  afrit Renesse en Serooskerke-Schouwen
+OL,12,F  dicht.Van 06 nov 2026 04:00 tot 04@@@
+OL,13,F  dec 2026 15:00.@@@@@@@@@@@@@@@@@@@@@@
+OL,14,F-BN65 's-Hertogenbosch->TilburgFtussen@
+OL,15,F  Vught en knp.De Baars dicht.Van 27@@@
+OL,16,F  nov 2026 21:00 tot 30 nov 2026 05:00.
+OL,17,F-BN69 Belgische grens<->VeldhovenFbij@@
+OL,18,F  afrit Bergeijk.Van 02 nov 2026 07:00@
+OL,19,F  tot 27 nov 2026 18:00.@@@@@@@@@@@@@@@
+OL,20,F-BN233 Kesteren->VeenendaalFtussen@@@@@
+OL,21,F  Rhenen en Achterberg dicht.Van 12@@@@
+OL,22,F  okt 2026 06:00 tot 04 dec 2026 22:00.
 OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100
@@ -183,28 +183,28 @@ PN,73107
 SC,0007
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  731Cvri 27 nov  01:51:15
-OL,1,D]                    Fbinnenland F 7/11
+OL,0,       BNOS-TT  731Cvri 27 nov  11:51:14
+OL,1,D]                    Fbinnenland F 7/9 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
 OL,4,D]F prognose 24 uur              27 nov.
 OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,6,F-BN35 Almelo->ZwolleFtussen Raalte en@@
-OL,7,F  Zwolle dicht.Van 26 nov 2026 20:00@@@
-OL,8,F  tot 27 nov 2026 06:00.@@@@@@@@@@@@@@@
-OL,9,F-BN35 Zwolle->AlmeloFtussen Zwolle en@@
-OL,10,F  Raalte dicht.Van 23 nov 2026 tot 19@@
-OL,11,F  dec 2026,dagelijks van 20:00 tot@@@@@
-OL,12,F  05:00.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,13,F-BN57 Middelburg->BrouwersdamFtussen@@@
-OL,14,F  Serooskerke-Schouwen en afrit Renesse
-OL,15,F  dicht.Van 06 nov 2026 10:00 tot 04@@@
-OL,16,F  dec 2026 15:00.@@@@@@@@@@@@@@@@@@@@@@
-OL,17,F-BN57 Brouwersdam->MiddelburgFtussen@@@
-OL,18,F  afrit Renesse en Serooskerke-Schouwen
-OL,19,F  dicht.Van 06 nov 2026 04:00 tot 04@@@
-OL,20,F  dec 2026 15:00.@@@@@@@@@@@@@@@@@@@@@@
-OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BN233 Veenendaal->KesterenFtussen@@@@@
+OL,7,F  Achterberg en Rhenen dicht.Van 12@@@@
+OL,8,F  okt 2026 06:00 tot 04 dec 2026 22:00.
+OL,9,F-BN247 Amsterdam<->HoornFbij@@@@@@@@@@@
+OL,10,F  Monnickendam.Van 26 okt 2026 05:00@@@
+OL,11,F  tot 03 dec 2026 20:00.@@@@@@@@@@@@@@@
+OL,12,F-BN273 Maaseik<->VenloFbij Ittervoort@@
+OL,13,F  dicht.Van 02 nov 2026 00:00 tot 18@@@
+OL,14,F  dec 2026 23:59.@@@@@@@@@@@@@@@@@@@@@@
+OL,15,F-BN297 Nieuwstadt->BornFbij de@@@@@@@@@
+OL,16,F  aansluiting met de A2 dicht.Van 28@@@
+OL,17,F  nov 2026 20:00 tot 29 nov 2026 08:00.
+OL,18,F-BN303 A1: Voorthuizen->A28: ErmeloF@@@
+OL,19,F  tussen Voorthuizen en Putten-Oost@@@@
+OL,20,F  dicht.Van 02 nov 2026 00:00 tot 04@@@
+OL,21,F  dec 2026 00:00.@@@@@@@@@@@@@@@@@@@@@@
 OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
@@ -213,28 +213,28 @@ PN,73108
 SC,0008
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  731Cvri 27 nov  01:51:15
-OL,1,D]                    Fbinnenland F 8/11
+OL,0,       BNOS-TT  731Cvri 27 nov  11:51:14
+OL,1,D]                    Fbinnenland F 8/9 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
 OL,4,D]F prognose 24 uur              27 nov.
 OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,6,F-BN65 's-Hertogenbosch->TilburgFtussen@
-OL,7,F  Vught en knp.De Baars dicht.Van 27@@@
-OL,8,F  nov 2026 21:00 tot 30 nov 2026 05:00.
-OL,9,F-BN69 Belgische grens<->VeldhovenFbij@@
-OL,10,F  afrit Bergeijk.Van 02 nov 2026 07:00@
-OL,11,F  tot 27 nov 2026 18:00.@@@@@@@@@@@@@@@
-OL,12,F-BN233 Kesteren->VeenendaalFtussen@@@@@
-OL,13,F  Rhenen en Achterberg dicht.Van 12@@@@
-OL,14,F  okt 2026 06:00 tot 04 dec 2026 22:00.
-OL,15,F-BN233 Veenendaal->KesterenFtussen@@@@@
-OL,16,F  Achterberg en Rhenen dicht.Van 12@@@@
-OL,17,F  okt 2026 06:00 tot 04 dec 2026 22:00.
-OL,18,F-BN247 Amsterdam<->HoornFbij@@@@@@@@@@@
-OL,19,F  Monnickendam.Van 26 okt 2026 05:00@@@
-OL,20,F  tot 03 dec 2026 20:00.@@@@@@@@@@@@@@@
-OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BN303 A28: Ermelo->A1: VoorthuizenF@@@
+OL,7,F  tussen Putten-Oost en Voorthuizen@@@@
+OL,8,F  dicht.Van 02 nov 2026 00:00 tot 04@@@
+OL,9,F  dec 2026 00:00.@@@@@@@@@@@@@@@@@@@@@@
+OL,10,F-BN337 Deventer->ZwolleFtussen Olst en@
+OL,11,F  Wijhe dicht.Van 24 aug 2026 00:00@@@@
+OL,12,F  tot 25 dec 2026 00:00.@@@@@@@@@@@@@@@
+OL,13,F-BN337 Zwolle->DeventerFtussen Wijhe en
+OL,14,F  Olst dicht.Van 24 aug 2026 00:00 tot@
+OL,15,F  25 dec 2026 00:00.@@@@@@@@@@@@@@@@@@@
+OL,16,F-BN341 Ommen<->KloosterhaarFbij@@@@@@@@
+OL,17,F  Tonnendijkbrug dicht.Van 28 sep 2026@
+OL,18,F  00:00 tot 18 dec 2026 23:59.@@@@@@@@@
+OL,19,F-BN346 Zutphen->HengeloFtussen Lochem@@
+OL,20,F  en Diepenheim dicht.Van 26 okt 2026@@
+OL,21,F  00:00 tot 30 apr 2027 00:00.@@@@@@@@@
 OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
@@ -243,86 +243,26 @@ PN,73109
 SC,0009
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  731Cvri 27 nov  01:51:15
-OL,1,D]                    Fbinnenland F 9/11
+OL,0,       BNOS-TT  731Cvri 27 nov  11:51:14
+OL,1,D]                    Fbinnenland F 9/9 
 OL,2,B]DMVERKEERSINFORMATIE                  
 OL,3,B]                                      
 OL,4,D]F prognose 24 uur              27 nov.
 OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,6,F-BN273 Maaseik<->VenloFbij Ittervoort@@
-OL,7,F  dicht.Van 02 nov 2026 00:00 tot 18@@@
-OL,8,F  dec 2026 23:59.@@@@@@@@@@@@@@@@@@@@@@
-OL,9,F-BN297 Nieuwstadt->BornFbij de@@@@@@@@@
-OL,10,F  aansluiting met de A2 dicht.Van 28@@@
-OL,11,F  nov 2026 20:00 tot 29 nov 2026 08:00.
-OL,12,F-BN303 A1: Voorthuizen->A28: ErmeloF@@@
-OL,13,F  tussen Voorthuizen en Putten-Oost@@@@
-OL,14,F  dicht.Van 02 nov 2026 00:00 tot 04@@@
-OL,15,F  dec 2026 00:00.@@@@@@@@@@@@@@@@@@@@@@
-OL,16,F-BN303 A28: Ermelo->A1: VoorthuizenF@@@
-OL,17,F  tussen Putten-Oost en Voorthuizen@@@@
-OL,18,F  dicht.Van 02 nov 2026 00:00 tot 04@@@
-OL,19,F  dec 2026 00:00.@@@@@@@@@@@@@@@@@@@@@@
-OL,20,F-BN337 Deventer->ZwolleFtussen Olst en@
-OL,21,F  Wijhe dicht.Van 24 aug 2026 00:00@@@@
-OL,22,F  tot 25 dec 2026 00:00.@@@@@@@@@@@@@@@
-OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,73110
-SC,0010
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  731Cvri 27 nov  01:51:15
-OL,1,D]                    Fbinnenland F10/11
-OL,2,B]DMVERKEERSINFORMATIE                  
-OL,3,B]                                      
-OL,4,D]F prognose 24 uur              27 nov.
-OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,6,F-BN337 Zwolle->DeventerFtussen Wijhe en
-OL,7,F  Olst dicht.Van 24 aug 2026 00:00 tot@
-OL,8,F  25 dec 2026 00:00.@@@@@@@@@@@@@@@@@@@
-OL,9,F-BN341 Ommen<->KloosterhaarFbij@@@@@@@@
-OL,10,F  Tonnendijkbrug dicht.Van 28 sep 2026@
-OL,11,F  00:00 tot 18 dec 2026 23:59.@@@@@@@@@
-OL,12,F-BN346 Zutphen->HengeloFtussen Lochem@@
-OL,13,F  en Diepenheim dicht.Van 26 okt 2026@@
-OL,14,F  00:00 tot 30 apr 2027 00:00.@@@@@@@@@
-OL,15,F-BN346 Hengelo->ZutphenFtussen@@@@@@@@@
-OL,16,F  Diepenheim en Lochem dicht.Van 26@@@@
-OL,17,F  okt 2026 00:00 tot 30 apr 2027 00:00.
-OL,18,F-BN373 Assen->RodenFbij Norgerbrug@@@@@
-OL,19,F  dicht.Van 01 nov 2025 00:00 tot 28@@@
-OL,20,F  feb 2027 00:00.@@@@@@@@@@@@@@@@@@@@@@
-OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,23,T,,,,,,,,,,,,,,BBron:ANWBT,,,,,,,,,,,,,,
-OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
-FL,101,102,103,601,0,100
-PN,73111
-SC,0011
-PS,C200
-CT,15,T
-OL,0,       BNOS-TT  731Cvri 27 nov  01:51:15
-OL,1,D]                    Fbinnenland F11/11
-OL,2,B]DMVERKEERSINFORMATIE                  
-OL,3,B]                                      
-OL,4,D]F prognose 24 uur              27 nov.
-OL,5,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,6,F-BN377 Hasselt<->DedemsvaartFbij de@@@@
-OL,7,F  aansluiting met de A28 dicht.Van 07@@
-OL,8,F  sep 2026 06:00 tot 27 nov 2026 17:00.
-OL,9,F @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,10,F  BPrognose:@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,11,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,12,F-FOp vrijdag is er van een ochtendspits
-OL,13,F  geen sprake.@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,14,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,15,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,16,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,17,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,18,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-OL,19,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,6,F-BN346 Hengelo->ZutphenFtussen@@@@@@@@@
+OL,7,F  Diepenheim en Lochem dicht.Van 26@@@@
+OL,8,F  okt 2026 00:00 tot 30 apr 2027 00:00.
+OL,9,F-BN373 Assen->RodenFbij Norgerbrug@@@@@
+OL,10,F  dicht.Van 01 nov 2025 00:00 tot 28@@@
+OL,11,F  feb 2027 00:00.@@@@@@@@@@@@@@@@@@@@@@
+OL,12,F-BN377 Hasselt<->DedemsvaartFbij de@@@@
+OL,13,F  aansluiting met de A28 dicht.Van 07@@
+OL,14,F  sep 2026 06:00 tot 27 nov 2026 17:00.
+OL,15,F @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,16,F  BPrognose:@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,17,F@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OL,18,F-FOp vrijdag is er van een ochtendspits
+OL,19,F  geen sprake.@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,20,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,21,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 OL,22,G@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

@@ -3,23 +3,42 @@ PN,18601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGFr 27.11.26F00:31:04
+OL,0,           Fhr-textGFr 27.11.26F10:31:23
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]DWETTERWARNUNG  D] G    Do. 26.11.2026
+OL,2,G]DWETTERWARNUNG  D] G    Fr. 27.11.2026
 OL,3,W#######################################
-OL,4,CWARNUNG vor GL[TTE                     
-OL,6, G}ltig : Fr. 03:00 bis Fr. 11:00       
-OL,8,FKreis und Stadt Kassel,                
-OL,9,FSchwalm-Eder-Kreis, Werra-Mei~ner-Kreis
-OL,11, Es besteht Gl{ttegefahr.               
-OL,23,F]DQuelle: DWD 00:20 Uhr            F-> 
+OL,4,CWARNUNG vor FROST                      
+OL,6, G}ltig : Fr. 12:00 bis Fr. 16:00       
+OL,8,FKreis Waldeck-Frankenberg, Kreis und   
+OL,9,FStadt Kassel, Schwalm-Eder-Kreis,      
+OL,10,FWerra-Mei~ner-Kreis                    
+OL,12, Es tritt m{~iger Frost zwischen -2 `C  
+OL,13, und -6 `C auf.                         
+OL,23,F]DQuelle: DWD 10:20 Uhr            F-> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
 PN,18602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGFr 27.11.26F00:31:04
+OL,0,           Fhr-textGFr 27.11.26F10:31:24
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]DWETTERWARNUNG  D] G    Fr. 27.11.2026
+OL,3,W#######################################
+OL,4,CWARNUNG vor GL[TTE                     
+OL,6, G}ltig : Fr. 03:22 bis Fr. 11:00       
+OL,8,FKreis Waldeck-Frankenberg, Kreis und   
+OL,9,FStadt Kassel, Schwalm-Eder-Kreis,      
+OL,10,FWerra-Mei~ner-Kreis                    
+OL,12, Es besteht Gl{ttegefahr.               
+OL,23,F]DQuelle: DWD 10:20 Uhr            F-> 
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,18603
+SC,0003
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGFr 27.11.26F10:31:24
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERWARNUNG  D] G    Do. 26.11.2026
 OL,3,W#######################################
@@ -30,6 +49,6 @@ OL,9,FStadt Kassel, Schwalm-Eder-Kreis,
 OL,10,FWerra-Mei~ner-Kreis                    
 OL,12, Es tritt m{~iger Frost zwischen -5 `C  
 OL,13, und -9 `C auf.                         
-OL,23,F]DQuelle: DWD 00:20 Uhr            F-> 
+OL,23,F]DQuelle: DWD 10:20 Uhr            F-> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100

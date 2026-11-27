@@ -3,44 +3,29 @@ PN,64101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G05:00:15
+OL,0,       BSWR BW C   Fr, 27.11.26G15:00:38
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,11,FWARNUNG vor FROST                      
-OL,12, G}ltig: Do 12:00 bis Fr 12:00          
-OL,14,FKonstanz                               
+OL,12, G}ltig: Fr 12:00 bis Sa 12:00          
+OL,14,FKonstanz, L|rrach, Waldshut            
 OL,16, Es tritt leichter Frost um -2 `C auf.  
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,64102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G05:00:15
+OL,0,       BSWR BW C   Fr, 27.11.26G15:00:38
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,11,FWARNUNG vor GL[TTE                     
-OL,12, G}ltig: Do 16:00 bis Fr 11:00          
+OL,12, G}ltig: Fr 16:00 bis Sa 11:00          
 OL,14,FKonstanz, L|rrach, Waldshut            
 OL,16, Es besteht vereinzelt Gl{ttegefahr.    
-OL,23,D]GQuelle:DWD  Stand:01:14  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,64103
-SC,0003
-PS,C200
-CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G05:00:15
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,11,FWARNUNG vor FROST                      
-OL,12, G}ltig: Do 16:00 bis Fr 12:00          
-OL,14,FL|rrach, Waldshut                      
-OL,16, Es tritt leichter Frost um -4 `C auf.  
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

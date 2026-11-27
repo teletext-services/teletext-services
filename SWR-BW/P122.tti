@@ -3,12 +3,12 @@ PN,12201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G04:42:38
+OL,0,       BSWR BW C   Fr, 27.11.26G14:42:46
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GSWR AKTUELL BW      P5      
 OL,3,T#########"######################"######
-OL,4,FK{ltewelle in BW h{lt an: Die          
-OL,5,FWetterlage am ersten Adventswochenende 
+OL,4,FZum 1. Advent bleibt es kalt in BW: So 
+OL,5,Fwird das Wetter am Wochenende          
 OL,7,BIn Baden-W}rttemberg bleibt es weiter  
 OL,8,Bwinterlich kalt. Nebel und             
 OL,9,BSchneegriesel sorgen zudem f}r         
@@ -31,7 +31,7 @@ PN,12202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G04:42:38
+OL,0,       BSWR BW C   Fr, 27.11.26G14:42:46
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GSWR AKTUELL BW      P5      
 OL,3,T#########"######################"######
@@ -60,7 +60,7 @@ PN,12203
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G04:42:38
+OL,0,       BSWR BW C   Fr, 27.11.26G14:42:47
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GSWR AKTUELL BW      P5      
 OL,3,T#########"######################"######
@@ -77,12 +77,12 @@ OL,13, dann bei den niedrigen Temperaturen am
 OL,14, Boden an und das sei schon sehr glatt -
 OL,15, vor allem auf Br}cken und in           
 OL,16, Waldst}cken.                           
-OL,17, Der Deutsche Wetterdienst (DWD) warnt  
-OL,18, vor Gl{ttegefahr in der Nacht zu       
-OL,19, Freitag. Autofahrerinnen und Autofahrer
-OL,20, in Baden-W}rttemberg m}ssten sich dann 
-OL,21, auf glatte Stra~en einstellen.         
-OL,22, Der Sonntag ist laut SWR-Experte       
+OL,17, Der Sonntag ist laut SWR-Experte       
+OL,18, M}hlbauer noch ein bisschen knifflig.  
+OL,19, Sollte es da regnen und der Boden w{re 
+OL,20, noch gefroren, k|nnte es nat}rlich     
+OL,21, Blitzeis geben. Im Augenblick sehe es  
+OL,22, eher nicht danach aus, ganz            
 OL,23,D]G                     ]bersicht 112 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -90,27 +90,27 @@ PN,12204
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G04:42:38
+OL,0,       BSWR BW C   Fr, 27.11.26G14:42:47
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GSWR AKTUELL BW      P5      
 OL,3,T#########"######################"######
 OL,4,FWetter am ersten Adventswochenende     
-OL,6, M}hlbauer noch ein bisschen knifflig.  
-OL,7, Sollte es da regnen und der Boden w{re 
-OL,8, noch gefroren, k|nnte es nat}rlich     
-OL,9, Blitzeis geben. Im Augenblick sehe es  
-OL,10, eher nicht danach aus, ganz            
-OL,11, ausschlie~en k|nne man es jedoch nicht.
-OL,12, Wahrscheinlich betreffe der Regen dann 
-OL,13, auch nur das westliche Rheinland-Pfalz.
-OL,15,CWetter gut f}r Weihnachtsmarktbesuch   
-OL,16, Ein Weihnachtsmarktbesuch ist nach     
-OL,17, Einsch{tzung von Hartmut M}hlbauer     
-OL,18, wettertechnisch sowohl am Freitagabend,
-OL,19, am Samstag oder auch am Sonntag gut    
-OL,20, m|glich. Da der Samstag aber           
-OL,21, wahrscheinlich der sonnigste Tag werde,
-OL,22, ist das sicherlich der beste Tag.      
+OL,6, ausschlie~en k|nne man es jedoch nicht.
+OL,7, Wahrscheinlich betreffe der Regen dann 
+OL,8, auch nur das westliche Rheinland-Pfalz.
+OL,10,CWetter gut f}r Weihnachtsmarktbesuch   
+OL,11, Ein Weihnachtsmarktbesuch ist nach     
+OL,12, Einsch{tzung von Hartmut M}hlbauer     
+OL,13, wettertechnisch sowohl am Freitagabend,
+OL,14, am Samstag oder auch am Sonntag gut    
+OL,15, m|glich. Da der Samstag aber           
+OL,16, wahrscheinlich der sonnigste Tag werde,
+OL,17, ist das sicherlich der beste Tag.      
+OL,18, Trocken und kalt soll es an allen Tagen
+OL,19, sein. Die einzige Einschr{nkung gibt es
+OL,20, laut M}hlbauer am Sonntag im Westen von
+OL,21, Rheinland-Pfalz, da es dort im Laufe   
+OL,22, des Tages m|glicherweise etwas regnen  
 OL,23,D]G                     ]bersicht 112 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -118,18 +118,13 @@ PN,12205
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G04:42:38
+OL,0,       BSWR BW C   Fr, 27.11.26G14:42:47
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GSWR AKTUELL BW      P5      
 OL,3,T#########"######################"######
 OL,4,FWetter am ersten Adventswochenende     
-OL,6, Trocken und kalt soll es an allen Tagen
-OL,7, sein. Die einzige Einschr{nkung gibt es
-OL,8, laut M}hlbauer am Sonntag im Westen von
-OL,9, Rheinland-Pfalz, da es dort im Laufe   
-OL,10, des Tages m|glicherweise etwas regnen  
-OL,11, k|nnte.                                
-OL,12, F                Stand 26.11.2026 13:05
+OL,6, k|nnte.                                
+OL,7, F                Stand 27.11.2026 07:16
 OL,23,D]G                     ]bersicht 112 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

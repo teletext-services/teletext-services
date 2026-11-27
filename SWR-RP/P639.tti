@@ -3,31 +3,46 @@ PN,63901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:26:42
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:27:08
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,10,FWARNUNG vor FROST                      
-OL,11, G}ltig: Do 16:00 bis Fr 12:00          
-OL,13,FEmmendingen, Ortenaukreis              
-OL,14,FBrsg.-Hochschw./Freiburg               
-OL,16, Es tritt leichter Frost um -4 `C auf.  
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
+OL,11,FWARNUNG vor FROST                      
+OL,12, G}ltig: Fr 12:00 bis Sa 12:00          
+OL,14,FEmmendingen, Ortenaukreis              
+OL,16, Es tritt leichter Frost um -2 `C auf.  
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
 PN,63902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:26:42
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:27:08
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
 OL,10,FWARNUNG vor GL[TTE                     
-OL,11, G}ltig: Do 16:00 bis Fr 11:00          
+OL,11, G}ltig: Fr 16:00 bis Sa 11:00          
 OL,13,FEmmendingen, Ortenaukreis              
 OL,14,FBrsg.-Hochschw./Freiburg               
 OL,16, Es besteht vereinzelt Gl{ttegefahr.    
-OL,23,D]GQuelle:DWD  Stand:01:14  Hinweise 654
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,63903
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:27:08
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
+OL,3,T#########"######################"######
+OL,10,FWARNUNG vor FROST                      
+OL,11, G}ltig: Fr 12:00 bis Sa 12:00          
+OL,13,FBrsg.-Hochschw./Freiburg               
+OL,15, Es tritt m{~iger Frost zwischen -2     
+OL,16, `C und -6 `C auf.                      
+OL,23,D]GQuelle:DWD  Stand:09:59  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

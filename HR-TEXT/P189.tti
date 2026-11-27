@@ -1,9 +1,27 @@
 DE,HR-TEXT 189
-PN,18900
-SC,0000
-PS,8208
+PN,18901
+SC,0001
+PS,C200
 CT,15,T
-OL,0,           Fhr-textGFr 27.11.26F00:31:30
+OL,0,           Fhr-textGFr 27.11.26F10:31:29
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]DWETTERWARNUNG  D] G    Fr. 27.11.2026
+OL,3,W#######################################
+OL,4,CWARNUNG vor FROST                      
+OL,6, G}ltig : Fr. 12:00 bis Fr. 16:00       
+OL,8,FKreis Bergstra~e, Kreis                
+OL,9,FDarmstadt-Dieburg und Stadt Darmstadt, 
+OL,10,FOdenwaldkreis                          
+OL,12, Es tritt leichter Frost zwischen 0 `C  
+OL,13, und -2 `C auf.                         
+OL,23,F]DQuelle: DWD 10:25 Uhr            F-> 
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,18902
+SC,0002
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGFr 27.11.26F10:31:29
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]DWETTERWARNUNG  D] G    Do. 26.11.2026
 OL,3,W#######################################
@@ -13,6 +31,6 @@ OL,8,FKreis Bergstra~e, Kreis
 OL,9,FDarmstadt-Dieburg und Stadt Darmstadt, 
 OL,10,FKreis Gro~-Gerau, Odenwaldkreis        
 OL,12, Es tritt leichter Frost bis -5 `C auf. 
-OL,23,F]DQuelle: DWD 00:25 Uhr            F-> 
+OL,23,F]DQuelle: DWD 10:25 Uhr            F-> 
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100

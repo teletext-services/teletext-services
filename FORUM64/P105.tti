@@ -3,43 +3,63 @@ PN,10501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GFr 27 Nov F00:22:12
+OL,0,         GFORUM64   GFr 27 Nov F10:22:06
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,ERUST Compiler                          
-OL,4,CAntwort:  Bdrazil                      
-OL,5,CComments: B13                          
-OL,6,F                                       
-OL,7,FNeue Version des c64 Rust Compiler     
-OL,8,Fhttps://github.com/guidobonerz/c6      
-OL,9,Fs/tag/v0.6                             
-OL,11,FNeue Features:                         
-OL,13,FPerformance/Codesize Tuning Auftrennung
-OL,14,Fdes Grafik Bibliothek in Hires und     
-OL,15,FMulticolor 3D Bibliothek mit           
-OL,16,FPerspektiven Option und DoubleBuffering
-OL,17,Fje nach Build                          
-OL,19,CErster Beitrag:                        
-OL,21,GNabend zusammen.                       
-OL,23,GWer immer schonmal auch in einer       
-OL,24,D]FForum64.de RSS feed            (1/2) 
+OL,2,EFable64 - C64 Expansion PCB mit fpga   
+OL,3,Eund usb gevibed                        
+OL,5,CAntwort:  BSnoopy                      
+OL,6,CComments: B8                           
+OL,7,F                                       
+OL,8,FEs gibt auch f}r den MEGA65 einen      
+OL,9,FC64-Core , der SuperCPU im Angebot hat.
+OL,11,F( )                                    
+OL,13,CErster Beitrag:                        
+OL,15,GHi,                                    
+OL,17,Ghab mit Claude Fable (daher Fable64,   
+OL,18,Gwollte das schon immer machen, habs    
+OL,19,Gdamals Software Defined Cartridge      
+OL,20,Ggenannt) eine Expansion PCB mit fpga   
+OL,21,Gund usb Anbindung erstellen lassen.    
+OL,23,GPlatine war in <2h geprompted, (ging   
+OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,10502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GFr 27 Nov F00:22:12
+OL,0,         GFORUM64   GFr 27 Nov F10:22:06
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gj}ngeren/moderneren Hochsprache als C  
-OL,4,Gf}r den C64 entwickeln wollte kann das 
-OL,5,Gjetzt mit Rust f}r den C64 tun.        
-OL,7,GNein, es ist kein Compiler der auf dem 
-OL,8,GC64 l{uft. Er l{uft unter Windows,     
-OL,9,GLinux und Mac, versteht ein gewisses   
-OL,10,GSubset von Rust.                       
-OL,12,GJa, dieser Compiler wurde von KI       
-OL,13,Gentwickelt                             
-OL,15,GAls Beispiel mal das diagonal.prg      
-OL,17,GUnd jetzt noch der SourceCode dazu.    
-OL,19,G(Versteckter Text)                     
-OL,24,D]FForum64.de RSS feed            (2/2) 
+OL,3,Gsich mit 2 mal den 5 Stunden 5.2 fable 
+OL,4,GTockenlimit aus) und war auch gleich   
+OL,5,Gbestellt, hatte schon bange ob sie     
+OL,6,G}berhaupt geht, aber ging einfach auf  
+OL,7,GAnhieb komplett irre....               
+OL,9,Gkleiner Prompt Auszug der mich zum     
+OL,10,GLachen brachte, verwies ihm dann auf   
+OL,11,Geine C64 Expansion Karte auf Github was
+OL,12,Gich schon mal als Vorlage verwendet    
+OL,13,Ggehabt hab: Mechanik: Zungenbreite     
+OL,14,G(57,8 mm), Fingerl{nge und die Lage von
+OL,15,GPin 1 habe ich aus dem Ged{chtnis      
+OL,16,Gangesetzt. Bitte gegen eine echte      
+OL,17,GCartridge messen.                      
+OL,19,GPCB mit allen Daten und Software ist   
+OL,20,Gverf}gbar unter:                       
+OL,21,Ghttps://gitlab.sandbox64.at/xeniter/fab
+OL,22,Gle64                                   
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,10503
+SC,0003
+PS,C200
+CT,15,T
+OL,0,         GFORUM64   GFr 27 Nov F10:22:06
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GKann kompletten Bus mitschneiden oder  
+OL,4,Gauch im Bus eingreifen, jetzt br{uchte 
+OL,5,Gman noch coole Ideen hat auch 2 pmod   
+OL,6,Gf}r Erweiterungen, hab ich noch nicht  
+OL,7,Ggetestetn sollte aber gehen, k|nnte man
+OL,8,Gtaster,                                
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

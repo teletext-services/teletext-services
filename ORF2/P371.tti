@@ -3,11 +3,11 @@ PN,37101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G371FORF2   GFr 27.11.26 02:29:59
+OL,0,       G371FORF2   GFr 27.11.26 12:30:01
 OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]A    Donnerstag, 26.11. \
-OL,3,Q#############                  G  1/5  
-OL,4,F06.07 FFWetter-Panorama und            
+OL,2,A]GFERNSEHEN  ]A       Freitag, 27.11. \
+OL,3,Q#############                  G  1/4  
+OL,4,F06.14 FFWetter-Panorama und            
 OL,5,       FFProgrammvorschau               
 OL,6,G06.30 GGGuten Morgen \sterreichEUT G303
 OL,7,F07.00 FFZIBEUT                         
@@ -24,8 +24,8 @@ OL,17,       GGKreuterEUT
 OL,18,F09.26 FFWetter-Panorama                
 OL,19,G09.30 GGSilvia kochtEUTG...........G356
 OL,20,F09.56 FFkeine ORF2E-Rechte             
-OL,21,G10.45 GGReisezeit - \sterreich:        
-OL,22,       GGSalzburgEUT                    
+OL,21,G10.43 GGDaheim - das                   
+OL,22,       GGVolksgruppenmagazinEUTG....G337
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -33,26 +33,29 @@ PN,37102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G371FORF2   GFr 27.11.26 02:29:59
+OL,0,       G371FORF2   GFr 27.11.26 12:30:01
 OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]A    Donnerstag, 26.11. \
-OL,3,Q#############                  G  2/5  
-OL,4,F11.10 FF\sterreich-Bild aus dem        
-OL,5,       FFLandesstudio Nieder|sterreich: 
-OL,6,       FFMade in N\ - unternehmerische  
-OL,7,       FFErfolgsgeschichtenEUT          
-OL,8,G11.37 GGWELTjournal: Philippinen -     
-OL,9,       GGDuterte vor dem Internationalen
-OL,10,       GGStrafgerichtEUT                
-OL,11,F12.03 FFWELTjournal + Dutertes blutiges
-OL,12,       FFErbeEUT                        
-OL,13,G12.46 GGWetterschau                    
-OL,14,F13.00 FFZIBEUTF....................F302
-OL,15,G13.25 GGWetterEUT                      
-OL,16,F13.30 FFAktuell nach einsEUTF......F304
-OL,17,G14.15 GGSeitenblickeEUT                
-OL,18,F14.20 FFSilvia kochtEUTF...........F356
-OL,19,G14.46 GGkeine ORF2E-Rechte             
+OL,2,A]GFERNSEHEN  ]A       Freitag, 27.11. \
+OL,3,Q#############                  G  2/4  
+OL,4,F11.15 FFkreuz & quer: Mann sein, aber  
+OL,5,       FFwie?EUT                        
+OL,6,G11.51 GGAm Schauplatz: Und raus bist du
+OL,7,       GEUT                             
+OL,8,F12.41 FFWetterschau                    
+OL,9,G13.00 GGZIBEUTG....................G302
+OL,10,F13.26 FFWetterEUT                      
+OL,11,G13.30 GGAktuell nach einsEUTG......G304
+OL,12,F14.20 FFSeitenblickeEUT                
+OL,13,G14.26 GGSilvia kocht: Unterwegs in     
+OL,14,       GGVillachEUTG................G356
+OL,15,F14.52 FFkeine ORF2E-Rechte             
+OL,16,G16.21 GGHinter den Schlagzeilen:       
+OL,17,       GG"Tanzparkett ist komplett: Das 
+OL,18,       GGsind die Dancing Stars 2027"EUT
+OL,19,       GG...........................G336
+OL,20,F16.56 FFBundesland heute kompakt       
+OL,21,G17.00 GGZIBEUTG....................G302
+OL,22,F17.07 FFAktuell nach f}nfEUTF......F305
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -60,29 +63,29 @@ PN,37103
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G371FORF2   GFr 27.11.26 02:29:59
+OL,0,       G371FORF2   GFr 27.11.26 12:30:01
 OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]A    Donnerstag, 26.11. \
-OL,3,Q#############                  G  3/5  
-OL,4,F16.23 FFHinter den Schlagzeilen:       
-OL,5,       FFSebastian G|tzendorfer zu: "Wie
-OL,6,       FFein 31-j{hriger Pfarrer f}r    
-OL,7,       FFvolle Kirchen sorgt"EUTF...F336
-OL,8,G16.56 GGBundesland heute kompakt       
-OL,9,F17.00 FFZIBEUTF....................F302
-OL,10,G17.07 GGAktuell nach f}nfEUTG......G305
-OL,11,F17.29 FFStudio 2EUTF...............F306
-OL,12,G18.29 GGkonkretE\GSEUTG............G307
-OL,13,F18.51 FFinfos & tipps                  
-OL,14,G18.57 GGBundesland heute Service       
-OL,15,F19.00 FFBundesland heuteEUT            
-OL,16,G19.30 GGZeit im BildE\GSEUT            
-OL,17,F19.50 FFWetterE\GSEUT                  
-OL,18,G19.55 GGSport AktuellE\GSEUT           
-OL,19,F20.02 FFSeitenblickeEUT                
-OL,20,G20.14 GGkeine ORF2E-Rechte             
-OL,21,F21.05 FFAm Schauplatz: Und raus bist du
-OL,22,       FEUTF........................F106
+OL,2,A]GFERNSEHEN  ]A       Freitag, 27.11. \
+OL,3,Q#############                  G  3/4  
+OL,4,F17.28 FFStudio 2EUTF...............F306
+OL,5,G18.29 GGMayrs Magazin - Wissen f}r alle
+OL,6,       GE\GSEUTG....................G340
+OL,7,F18.51 FFinfos & tipps                  
+OL,8,G18.57 GGBundesland heute Service       
+OL,9,F19.00 FFBundesland heuteEUT            
+OL,10,G19.30 GGZeit im BildE\GSEUT            
+OL,11,F19.51 FFWetterE\GSEUT                  
+OL,12,G19.56 GGSport AktuellE\GSEUT           
+OL,13,F20.04 FFSeitenblickeEUT                
+OL,14,G20.14 GGkeine ORF2E-Rechte             
+OL,15,F21.20 FFLive aus Kitzb}hel: Kurier Romy
+OL,16,       FFGala 2026 - Der \sterreichische
+OL,17,       FFFilm- und FernsehpreisEHFEUT   
+OL,18,       FF...........................F106
+OL,19,G23.37 GGEuromillionen                  
+OL,20,F23.44 FFUniversum History: Richard     
+OL,21,       FFL|wenherz - Ein K|nig in der   
+OL,22,       FFFalleEUTF..................F341
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -90,43 +93,21 @@ PN,37104
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G371FORF2   GFr 27.11.26 02:29:59
+OL,0,       G371FORF2   GFr 27.11.26 12:30:01
 OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]ADo, 26.11.& Fr, 27.11. \
-OL,3,Q#############                  G  4/5  
-OL,4,F22.00 FFZIB 2EUTF..................F302
-OL,5,G22.28 GGEco Spezial: Die Geister, die  
-OL,6,       GGwir riefen - wer von der KI-   
-OL,7,       GGRevolution wirklich profitiert 
-OL,8,       GEUTG........................G310
-OL,9,F23.03 FFST\CKLEUTF.................F339
-OL,10,G00.03 GGkeine ORF2E-Rechte             
-OL,11,F01.31 FFAm Schauplatz: Und raus bist du
-OL,12,       FEUTF........................F106
-OL,13,G02.20 GGEco Spezial: Die Geister, die  
-OL,14,       GGwir riefen - wer von der KI-   
-OL,15,       GGRevolution wirklich profitiert 
-OL,16,       GEUTG........................G310
-OL,17,F02.51 FFST\CKLEUTF.................F339
-OL,18,G03.51 GGSilvia kochtEUTG...........G356
-OL,19,F04.16 FFSeitenblickeEUT                
-OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,37105
-SC,0005
-PS,C200
-CT,15,T
-OL,0,       G371FORF2   GFr 27.11.26 02:29:59
-OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]A       Freitag, 27.11. \
-OL,3,Q#############                  G  5/5  
-OL,4,F04.22 FFHinter den Schlagzeilen:       
-OL,5,       FFSebastian G|tzendorfer zu: "Wie
-OL,6,       FFein 31-j{hriger Pfarrer f}r    
-OL,7,       FFvolle Kirchen sorgt"EUTF...F336
-OL,8,G04.53 GGStudio 2EUTG...............G306
-OL,9,F05.51 FFkonkretE\GSEUTF............F307
+OL,2,A]GFERNSEHEN  ]A       Samstag, 28.11. \
+OL,3,Q#############                  G  4/4  
+OL,4,F00.30 FFkeine ORF2E-Rechte             
+OL,5,G02.16 GGKurier Romy Gala 2026 - Der    
+OL,6,       GG\sterreichische Film- und      
+OL,7,       GGFernsehpreisEHFEUTG........G106
+OL,8,F04.27 FFHinter den Schlagzeilen:       
+OL,9,       FF"Tanzparkett ist komplett: Das 
+OL,10,       FFsind die Dancing Stars 2027"EUT
+OL,11,       FF...........................F336
+OL,12,G05.00 GGStudio 2EUTG...............G306
+OL,13,F06.00 FFMayrs Magazin - Wissen f}r alle
+OL,14,       FE\GSEUTF....................F340
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

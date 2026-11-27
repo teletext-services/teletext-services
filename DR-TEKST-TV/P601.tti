@@ -1,31 +1,61 @@
 DE,DR-TEKST-TV 601
-PN,60100
-SC,0000
-PS,8108
+PN,60101
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       GDR   S601  tor 26 nov   20:10:19
+OL,0,       GDR   S601  fre 27 nov   10:04:20
 OL,1,T################]GSENDER P] FM   
-OL,2,D]GP1  \TORSDAG 26.NOVD]GKL.06-18 SEC638
+OL,2,D]GP1  \FREDAG 27.NOV D]GKL.06-18 SEC638
 OL,3,T#######################################
-OL,4,C613F19:30GGenstart: Mette imod en stor 
-OL,5,    F     GbefolkningsudskiftningA>     
-OL,6,    F     G                             
-OL,7,C610F20:03GPrompt: Huang more time      
-OL,8,    F     Gog ChatGPT DotsA>            
-OL,9,    F     G                             
-OL,10,C611F21:03GBibelen Leth fortaltA>       
-OL,11,    F     GJudas' brev                  
-OL,12,    F     G                             
-OL,13,C616F22:03GP1 OrienteringA>             
-OL,14,C609F00:03GMagten:Mette F.i soloulykkeA>
-OL,15,    F     G                             
-OL,16,C614F01:03GK-Live: Hvem laver falsk     
-OL,17,    F     GAI-indhold om Bornholm?A>    
-OL,18,C615F02:03GK-Live: En stor suppedas af  
-OL,19,    F     Galverdens misinformationerA> 
+OL,4,    F05:00GRadioavisenA>                
+OL,5,    F     G                             
+OL,6,    F05:03GBrinkmanns briksA>           
+OL,7,    F     GStyrer hormoner dit helbred? 
+OL,8,    F     G                             
+OL,9,    F06:05GP1 MorgenA>                  
+OL,10,    F     G                             
+OL,11,C609F09:05GTabloidA>                    
+OL,12,    F     GPolitisk pres p} TV2?        
+OL,13,    F     GFangselsstraffe debattorer?  
+OL,14,    F     G                             
+OL,15,C610F10:03GUgens gast: Anders KofoedA>  
+OL,16,    F     G                             
+OL,17,C611F11:03GBlind dateA>                 
+OL,18,    F     GAnnette Heick & Adam Holm    
+OL,19,    F     G                             
 OL,20,    F     G                             
-OL,21,C616F03:03GP1 OrienteringA>             
+OL,21,    F     G                             
 OL,22,    F     G                             
-OL,23, ]A600@RADIO     P5A639@NETRADIO        
+OL,23, ]A600@RADIO     P5A639@NETRADIO    1/3 
+OL,24,  ANyheder    BSport    CTV    FVejret  
+FL,110,200,300,400,0,100
+PN,60102
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       GDR   S601  fre 27 nov   10:03:50
+OL,1,T################]GSENDER P] FM   
+OL,2,D]GP1  \FREDAG 27.NOV D]GKL.06-18 SEC638
+OL,3,T#######################################
+OL,4,C613F19:30GGenstartA>                   
+OL,5,    F     GEr Rane Willerslev problemet?
+OL,6,    F     G                             
+OL,7,C610F20:03GUgens gast: Anders KofoedA>  
+OL,8,    F     G                             
+OL,9,C611F21:03GBlind dateA>                 
+OL,10,    F     GAnnette Heick & Adam Holm    
+OL,11,    F     G                             
+OL,12,C615F22:03GP1 OrienteringA>             
+OL,13,    F     G                             
+OL,14,C609F00:03GTabloidA>                    
+OL,15,    F     GPolitisk pres p} TV2?        
+OL,16,    F     GFangselsstraffe debattorer?  
+OL,17,    F     G                             
+OL,18,C614F01:03GForste rakkeA>               
+OL,19,    F     G                             
+OL,20,C615F03:03GP1 OrienteringA>             
+OL,21,    F     G                             
+OL,22,    F     G                             
+OL,23, ]A600@RADIO     P5A639@NETRADIO    3/3 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100

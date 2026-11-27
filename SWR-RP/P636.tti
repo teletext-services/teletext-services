@@ -1,91 +1,17 @@
 DE,SWR-RP 636
-PN,63601
-SC,0001
-PS,C200
+PN,63600
+SC,0000
+PS,8208
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:27:03
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:26:42
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
 OL,3,T#########"######################"######
-OL,11,FWARNUNG vor FROST                      
-OL,12, G}ltig: Do 16:00 bis Fr 12:00          
-OL,14,FBaden-Baden                            
-OL,16, Es tritt leichter Frost um -1 `C auf.  
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,63602
-SC,0002
-PS,C200
-CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:27:03
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,11,FWARNUNG vor GL[TTE                     
-OL,12, G}ltig: Fr 02:00 bis Fr 11:00          
-OL,14,FBaden-Baden, Kreis und Stadt Karlsruhe 
-OL,16, Es besteht vereinzelt Gl{ttegefahr.    
-OL,23,D]GQuelle:DWD  Stand:01:14  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,63603
-SC,0003
-PS,C200
-CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:27:03
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,11,FWARNUNG vor FROST                      
-OL,12, G}ltig: Do 12:00 bis Fr 12:00          
-OL,14,FRastatt                                
-OL,16, Es tritt leichter Frost um -2 `C auf.  
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,63604
-SC,0004
-PS,C200
-CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:27:03
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,11,FWARNUNG vor FROST                      
-OL,12, G}ltig: Do 16:00 bis Fr 12:00          
-OL,14,FRastatt                                
-OL,16, Es tritt leichter Frost um -4 `C auf.  
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,63605
-SC,0005
-PS,C200
-CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:27:03
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,11,FWARNUNG vor GL[TTE                     
-OL,12, G}ltig: Do 16:00 bis Fr 11:00          
-OL,14,FRastatt                                
-OL,16, Es besteht vereinzelt Gl{ttegefahr.    
-OL,23,D]GQuelle:DWD  Stand:01:14  Hinweise 654
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,63606
-SC,0006
-PS,C200
-CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:27:03
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GUNWETTERWARNUNGEN   P5      
-OL,3,T#########"######################"######
-OL,11,FWARNUNG vor FROST                      
-OL,12, G}ltig: Do 16:00 bis Fr 12:00          
+OL,10,FWARNUNG vor FROST                      
+OL,11, G}ltig: Fr 16:00 bis Sa 12:00          
+OL,13,FBaden-Baden, Rastatt                   
 OL,14,FKreis und Stadt Karlsruhe              
 OL,16, Es tritt leichter Frost um -2 `C auf.  
-OL,23,D]GQuelle:DWD  Stand:12:33  Hinweise 654
+OL,23,D]GQuelle:DWD  Stand:12:37  Hinweise 654
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

@@ -1,14 +1,50 @@
 DE,SWR-RP 508
-PN,50800
-SC,0000
-PS,8208
+PN,50801
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:22:18
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:22:15
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,            Autobahnen A6 ff.           
-OL,12, FZur Zeit liegen keine Meldungen vor.  
-OL,23,D]GStand:27.11. 05:21   ]bersicht 501 >>
+OL,4,           Autobahn A6,A65,A67          
+OL,6,CA6FMannheim Richtung Heilbronn         
+OL,7, zwischen Kreuz Mannheim und            
+OL,8, Mannheim/Schwetzingen Gefahr durch     
+OL,9, ungesicherte Unfallstelle auf dem      
+OL,10, rechten Fahrstreifen                   
+OL,12,CA6FHeilbronn Richtung Mannheim         
+OL,13, Kreuz Walldorf ]berleitung zur A5      
+OL,14, Richtung Karlsruhe Gefahr durch        
+OL,15, Gegenst{nde auf der Fahrbahn           
+OL,17,CA6FMannheim Richtung Heilbronn         
+OL,18, zwischen Dreieck Hockenheim und Kreuz  
+OL,19, Walldorf Gefahr durch Gegenst{nde auf  
+OL,20, dem rechten Fahrstreifen               
+OL,23,D]GStand:27.11. 15:21   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50802
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:22:15
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,           Autobahn A6,A65,A67          
+OL,6,CA65FKarlsruhe Richtung Landau          
+OL,7, zwischen W|rth-Dorschberg und          
+OL,8, Kandel-S}d Unfall mit 4 Fahrzeugen,    
+OL,9, Gefahr durch ungesicherte Unfallstelle,
+OL,10, Stau zu erwarten                       
+OL,12,CA67FDarmstadt Richtung                 
+OL,13,FM|nchhof-Dreieck                       
+OL,14, zwischen Gro~-Gerau und                
+OL,15, M|nchhof-Dreieck 3 km stockender       
+OL,16, Verkehr, Unfall auf dem linken         
+OL,17, Fahrstreifen, defektes Fahrzeug auf dem
+OL,18, Standstreifen                          
+OL,23,D]GStand:27.11. 15:21   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

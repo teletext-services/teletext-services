@@ -3,18 +3,18 @@ PN,55701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:24:25
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:24:08
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GAIRPORT SAARBR]CKEN P5      
 OL,3,T#########"######################"######
 OL,4,FFlug     aus         Plan Cerwartet    
 OL,5, ---------------------------------------
 OL,6,F----------------Freitag----------------
-OL,7, DX  124  BERLIN      12:30             
-OL,8,FXQ  126  ANTALYA     16:55             
-OL,9, DX  126  BERLIN      20:30             
-OL,10,F----------------Samstag----------------
-OL,11, FR9838   ALICANTE    18:10             
+OL,7, XQ  126  ANTALYA     16:55CErwartet    
+OL,8,16:50                                   
+OL,9,FDX  126  BERLIN      20:30CVersp.      
+OL,10, ----------------Samstag----------------
+OL,11,FFR9838   ALICANTE    18:10             
 OL,23,D]G           ohne Gew{hr             > 
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100
@@ -22,18 +22,17 @@ PN,55702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:24:25
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:24:08
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GAIRPORT SAARBR]CKEN P5      
 OL,3,T#########"######################"######
 OL,4,FFlug     nach        Plan Cerwartet    
 OL,5, ---------------------------------------
 OL,6,F----------------Freitag----------------
-OL,7, DX  123  BERLIN      08:30             
-OL,8,FDX  125  BERLIN      16:40             
-OL,9, XQ  127  ANTALYA     17:55             
-OL,10,F----------------Samstag----------------
-OL,11, FR9839   ALICANTE    18:45             
+OL,7, DX  125  BERLIN      16:40CVersp.      
+OL,8,FXQ  127  ANTALYA     17:55             
+OL,9, ----------------Samstag----------------
+OL,10,FFR9839   ALICANTE    18:45             
 OL,23,D]G           ohne Gew{hr             > 
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

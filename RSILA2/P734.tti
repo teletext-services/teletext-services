@@ -3,90 +3,80 @@ PN,73401
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G734  RSI LA 2  27.11.26 03:13:22
-OL,1,A]GRSI   ]@LA1      GIOVEDI 26 novembre 
+OL,0,       G734  RSI LA 2  27.11.26 13:13:49
+OL,1,A]GRSI   ]@LA1      VENERDI 27 novembre 
 OL,2,G                                       
-OL,3, G05:00  GTG Notte                  1/4 
-OL,4, F05:20  FMeteoCST                      
-OL,5, G05:25  GIl QuotidianoCST              
-OL,6, F05:55  FTG Notte                      
-OL,7, G06:10  GMeteoCR                       
+OL,3, G04:45  GIl QuotidianoCR           1/3 
+OL,4, F05:15  FTG Notte                      
+OL,5, G05:40  GMeteoCST                      
+OL,6, F05:40  FIl QuotidianoCST              
+OL,7, G06:15  GMeteoCST                      
 OL,8, F06:15  FSiamo fuoriCST                
 OL,9, G07:10  GMezz'ora per voiCST           
 OL,10, F07:40  FMezz'ora per voiCST           
 OL,11, G08:05  GEverywhere I go -         CST 
 OL,12,         GCoincidenze d'amore           
-OL,13,         GEpisodio 43                   
+OL,13,         GEpisodio 44                   
 OL,14, F08:50  FLa signora in gialloCSTCI/II  
-OL,15,         FOmicidio in musica            
+OL,15,         FIn arte Jessica Fox           
 OL,16, G09:35  GLa natura selvaggia degli CST 
 OL,17,         Ganimali domestici             
-OL,18,         GIl gioco della vita           
+OL,18,         GPiccoli segreti               
 OL,19, F10:30  FPrivate EyesCSTCI/II          
-OL,20,         FLa vendetta } servita         
+OL,20,         FL'ultimo miglio               
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73402
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G734  RSI LA 2  27.11.26 03:13:22
-OL,1,A]GRSI   ]@LA1      GIOVEDI 26 novembre 
+OL,0,       G734  RSI LA 2  27.11.26 13:13:49
+OL,1,A]GRSI   ]@LA1      VENERDI 27 novembre 
 OL,2,G                                       
-OL,3, G11:15  GWalker, Texas RangerCSTCI 2/4 
-OL,4,         GLa pillola del diavolo        
+OL,3, G11:15  GWalker, Texas RangerCSTCI 2/3 
+OL,4,         GFuria cieca                   
 OL,5, F12:05  FModern FamilyCSTCI/II         
-OL,6,         FIl principe azzurro           
+OL,6,         FIl colloquio di lavoro        
 OL,7, G12:30  GTelegiornaleCST               
 OL,8, F12:45  FMeteo regionaleCST            
-OL,9, G12:55  GUna principessa a    CSTCI/II 
+OL,9, G12:55  GSotto il cielo del   CSTCI/II 
 OL,10,         GNatale                        
-OL,11, F14:25  FDonne che hanno cambiato  CST 
+OL,11, F14:20  FDonne che hanno cambiato  CST 
 OL,12,         Fil mondo                      
-OL,13,         FSimone de Beauvoir            
-OL,14, G14:35  GLe sorelle McLeodCSTCI/II     
-OL,15,         GSeconda chance                
-OL,16, F15:25  FCome ti salvo il     CSTCI/II 
-OL,17,         FNatale                        
-OL,18, G16:55  GSiamo fuoriCST                
-OL,19, F18:00  FPrima OraCST                  
-OL,20, G19:00  GIl QuotidianoCST              
+OL,13,         FAmelia Earhart                
+OL,14, G14:25  GDonne che hanno cambiato  CST 
+OL,15,         Gil mondo                      
+OL,16,         GMaria di Nazareth             
+OL,17, F14:35  FLe sorelle McLeodCSTCI/II     
+OL,18,         FChiamatemi Kate               
+OL,19, G15:25  GLa magia del faroCSTCI/II     
+OL,20, F16:55  FSiamo fuoriCST                
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73403
 SC,0003
 PS,C300
 CT,8,T
-OL,0,       G734  RSI LA 2  27.11.26 03:13:22
-OL,1,A]GRSI   ]@LA1      GIOVEDI 26 novembre 
+OL,0,       G734  RSI LA 2  27.11.26 13:13:49
+OL,1,A]GRSI   ]@LA1      VENERDI 27 novembre 
 OL,2,G                                       
-OL,3, F19:35  FZeroveroCST               3/4 
-OL,4, G19:55  GMeteo regionaleCST            
-OL,5, F20:00  FTelegiornaleCST               
-OL,6, G20:35  GMeteoCST                      
-OL,7, F20:40  FConclaveCSTCI/IIC1TV......C715
-OL,8, G22:45  GTG Notte                      
-OL,9, F23:10  FMeteoCST                      
-OL,10, G23:20  GPoniesCSTCI/IIC1TV........C710
-OL,11,         GCambia il ritmo               
-OL,12, F00:10  FPoniesCSTCI/IIC1TV            
-OL,13,         FOperazioni notturne           
-OL,14, G01:00  GSiamo fuoriCST                
-OL,15, F02:00  FTG Notte                      
-OL,16, G02:20  GMeteoCST                      
-OL,17, F02:25  FPrima OraCST                  
-OL,18, G03:15  GIl QuotidianoCST              
-OL,19, F03:45  FTelegiornaleCST               
-OL,20, G04:15  GTG Notte                      
-OL,24,AIndice    BSport    CMeteo    FTV&Radio
-FL,101,180,500,700,0,100
-PN,73404
-SC,0004
-PS,C300
-CT,8,T
-OL,0,       G734  RSI LA 2  27.11.26 03:13:22
-OL,1,A]GRSI   ]@LA1      GIOVEDI 26 novembre 
-OL,2,G                                       
-OL,3, F04:35  FMeteoCST                  4/4 
+OL,3, G18:00  GPrima OraCST              3/3 
+OL,4, F19:00  FIl QuotidianoCST              
+OL,5, G19:35  GZeroveroCST                   
+OL,6, F19:55  FMeteo regionaleCST            
+OL,7, G20:00  GTelegiornaleCST               
+OL,8, F20:35  FMeteoCST                      
+OL,9, G20:40  GPatti ChiariCST               
+OL,10, F22:00  FLa mafia corsaCSTC1TV.....C710
+OL,11,         FIl colpo del secolo           
+OL,12, G23:05  GTG Notte                      
+OL,13, F23:30  FMeteoCST                      
+OL,14, G23:35  GL'erba del vicinoCSTCI/II.C716
+OL,15, F01:15  FSiamo fuoriCST                
+OL,16, G02:15  GTG Notte                      
+OL,17, F02:35  FMeteoCST                      
+OL,18, G02:40  GPrima OraCST                  
+OL,19, F03:35  FIl QuotidianoCST              
+OL,20, G04:05  GTelegiornaleCST               
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

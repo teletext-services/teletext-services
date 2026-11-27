@@ -3,29 +3,29 @@ PN,73300
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       G733FNDR TEXT GFr 27.11.B01:41:53
+OL,0,       G733FNDR TEXT GFr 27.11.B11:41:31
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FLUGHAFEN BREMEN            
-OL,4,F]T  %D     Ankunft      Stand 01:20    
+OL,4,F]T  %D     Ankunft      Stand 10:46    
 OL,5,BFLUG    VON           PLAN ERW. TER/BEM
-OL,6,C        -- Vortag --                   
-OL,7,FLH 2118 MUENCHEN      2300 0013 Gelan  
-OL,8,C        -- Heute --                    
-OL,9,FLH 2108 MUENCHEN      0900             
-OL,10, FR 9056 ALICANTE      0910             
-OL,11,FXQ 218  ANTALYA       0915             
-OL,12, FR 3634 LONDON-STN    0920             
-OL,13,FFR 9929 MALAGA        0920             
-OL,14, KL 1761 AMSTERDAM     1020             
-OL,15,FLH 2110 MUENCHEN      1220             
-OL,16, FR 225  LAMEZIA TERM  1520             
-OL,17,FBGA 145 HAWARDEN      1705             
-OL,18, LH 2112 MUENCHEN      1705             
-OL,19,FTK 1333 ISTANBUL      1710             
-OL,20, KL 1765 AMSTERDAM     1750             
-OL,21,FLX 850  ZUERICH       1855             
-OL,22, SR 3091 TENERIFFA     1900             
+OL,6, FR 9056 ALICANTE      0910 0918 Gelan  
+OL,7,FKL 1761 AMSTERDAM     1020 1039 Gelan  
+OL,8, LH 2110 MUENCHEN      1220             
+OL,9,FFR 225  LAMEZIA TERM  1520             
+OL,10, BGA 145 HAWARDEN      1705             
+OL,11,FLH 2112 MUENCHEN      1705             
+OL,12, TK 1333 ISTANBUL      1710             
+OL,13,FKL 1765 AMSTERDAM     1750             
+OL,14, LX 850  ZUERICH       1855             
+OL,15,FSR 3091 TENERIFFA     1900             
+OL,16, EW 2030 STUTTGART     1935             
+OL,17,FFR 3675 LONDON-STN    2000             
+OL,18, KL 1767 AMSTERDAM     2200             
+OL,19,FLH 2118 MUENCHEN      2300             
+OL,20,C        -- Am 28.11.2026 --            
+OL,21,FLH 2108 MUENCHEN      0900             
+OL,22, FR 3675 LONDON-STN    0915             
 OL,23,A]G700<                      WEITER >734
 OL,24,AInhalt    BSport   CFernsehen   FWetter
 FL,101,200,300,650,0,100

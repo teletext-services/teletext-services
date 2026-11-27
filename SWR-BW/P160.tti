@@ -3,7 +3,7 @@ PN,16000
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G04:44:02
+OL,0,       BSWR BW C   Fr, 27.11.26G14:44:34
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GWETTER - PROGNOSE   P5      
 OL,3,T#########"######################"######
@@ -11,15 +11,15 @@ OL,4,CKarlsruhe                        Nieder
 OL,5,                         BTemp  Cschlags
 OL,6,         Zustand      B  Min/Max CRisiko
 OL,7,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,8, Freitag    27.11.2026  B-1`/  1`       
-OL,10,FFr}h   Gbedeckt        B-1`/  1`   C0% 
-OL,11,FMittag Gwolkig         B 0`/  1`   C0% 
+OL,8, Freitag    27.11.2026  B-1`/  2`       
+OL,10,FFr}h   Gwolkig         B-1`/  1`  C70% 
+OL,11,FMittag Gwolkig         B 0`/  2`   C0% 
 OL,12,FAbend  Gleicht bew|lkt B-1`/  0`   C0% 
-OL,13,FNacht  Gleicht bew|lkt B-2`/ -1`   C0% 
-OL,15, Samstag    28.11.2026  B-1`/  4`       
-OL,17,FFr}h   Gwolkig         B-1`/  2`   C0% 
-OL,18,FMittag Gleicht bew|lkt B 1`/  4`   C0% 
-OL,19,FAbend  Gsonnig         B-1`/  0`   C0% 
+OL,13,FNacht  Gklar           B-2`/ -2`   C0% 
+OL,15, Samstag    28.11.2026  B-2`/  3`       
+OL,17,FFr}h   Gsonnig         B-2`/  2`   C0% 
+OL,18,FMittag Gsonnig         B 1`/  3`   C0% 
+OL,19,FAbend  Gsonnig         B 0`/  1`   C0% 
 OL,20,FNacht  Gwolkig         B-2`/ -1`   C0% 
 OL,23,D]GQuelle: Wetter.com        Ohne Gew{hr
 OL,24,A]berblick  BNachrichten CWetter  FSport

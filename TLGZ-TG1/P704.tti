@@ -4,27 +4,27 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:07
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:54
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,F1SOLUTION    0,0982   B1,03         F1 
-OL,7,C4MOBILITY                              
-OL,8,F7FIT        22,8000   B5,56        F24 
-OL,9,C7LEVELS      5,8500  A-0,85         C0 
-OL,10,FABAK         4,7600   B0,85         F0 
-OL,11,CABSINVEST    1,0000  A-9,09        C10 
-OL,12,FADVERTIGO                              
+OL,6,F1SOLUTION    0,0982   D0,00        F11 
+OL,7,C4MOBILITY    1,0100   D0,00         C0 
+OL,8,F7FIT        22,0000  A-3,51        F22 
+OL,9,C7LEVELS      4,5800 A-21,71        C39 
+OL,10,FABAK         4,8000   B0,84         F1 
+OL,11,CABSINVEST    1,0500   B5,00        C15 
+OL,12,FADVERTIGO    0,2160  A-4,42         F2 
 OL,13,CAERFINANC                              
 OL,14,FAFHOL                                  
-OL,15,CAGROLIGA    24,0000   D0,00         C0 
-OL,16,FAGROMEP      3,1000   B4,73         F0 
-OL,17,CAITON        0,2100   B5,00         C0 
-OL,18,FAKCEPTFIN                              
-OL,19,CAMESA        1,9900   D0,00         C3 
-OL,20,FANALIZY                                
+OL,15,CAGROLIGA    26,8000  B11,67         C6 
+OL,16,FAGROMEP                                
+OL,17,CAITON                                  
+OL,18,FAKCEPTFIN    0,2200  A-8,33         F1 
+OL,19,CAMESA        1,9900   D0,00        C25 
+OL,20,FANALIZY     28,2000  A-5,37         F1 
 OL,21,CAPANET                                 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -34,28 +34,28 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:07
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:54
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FAPIS                                   
-OL,7,CAPS          4,8000   D0,00         C0 
-OL,8,FAQUABB                                 
-OL,9,CAQUAPOZ      5,6000   B7,69         C0 
+OL,7,CAPS          4,7800  A-0,42         C3 
+OL,8,FAQUABB      11,5000  A-1,71         F0 
+OL,9,CAQUAPOZ      4,6800 A-16,43         C1 
 OL,10,FAQUATECH                               
-OL,11,CARI                                    
-OL,12,FARTGAMES     1,1500  B11,65        F16 
+OL,11,CARI          0,3740  A-2,60         C0 
+OL,12,FARTGAMES     1,1700   B1,74        F13 
 OL,13,CASTRO                                  
-OL,14,FATCCARGO    10,9000   B0,93        F21 
+OL,14,FATCCARGO    10,9000   D0,00         F3 
 OL,15,CATOMJELLY                              
 OL,16,FATONHT                                 
-OL,17,CAUXILIA      1,1200   D0,00         C1 
-OL,18,FAXIA         0,3700   D0,00         F1 
-OL,19,CAZTEC        1,2400   D0,00         C0 
-OL,20,FBACT         2,8600  A-1,38         F2 
-OL,21,CBALTICON                               
+OL,17,CAUXILIA      1,1100  A-0,89         C9 
+OL,18,FAXIA         0,3720   B0,54         F0 
+OL,19,CAZTEC                                  
+OL,20,FBACT         2,8400  A-0,70         F2 
+OL,21,CBALTICON    18,6000   B4,49         C2 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -64,28 +64,28 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:08
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:54
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FBASEIG       6,4500  A-2,27         F7 
-OL,7,CBEEIN       24,2000  A-2,42         C5 
+OL,6,FBASEIG       6,5000   B0,78         F1 
+OL,7,CBEEIN       24,4000   B0,83        C13 
 OL,8,FBELEAF                                 
 OL,9,CBERGHOLDI                              
-OL,10,FBFMGROUP     0,6100  A-8,96         F1 
-OL,11,CBINARY       3,8800  A-0,51         C0 
+OL,10,FBFMGROUP                               
+OL,11,CBINARY       3,8800   D0,00         C0 
 OL,12,FBIOERG                                 
 OL,13,CBIOFACTOR                              
-OL,14,FBIOGENED                               
+OL,14,FBIOGENED    18,3000   B0,55         F4 
 OL,15,CBIOMASS                                
-OL,16,FBIZTECH      0,1730   B2,98         F0 
-OL,17,CBKDGAMES     2,0200   B6,32         C5 
-OL,18,FBLACKPOIN    0,3000  A-6,25         F0 
+OL,16,FBIZTECH      0,1640  A-5,20         F4 
+OL,17,CBKDGAMES     2,0000  A-0,99         C0 
+OL,18,FBLACKPOIN    0,3000   D0,00         F0 
 OL,19,CBLACKROSE                              
-OL,20,FBPC          0,2160  A-1,82         F9 
-OL,21,CBRAINSCAN    5,7000   D0,00         C1 
+OL,20,FBPC          0,2240   B3,70        F14 
+OL,21,CBRAINSCAN    5,2500  A-7,89         C2 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -94,27 +94,27 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:08
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:54
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FBRAS         0,1795   B5,90        F14 
-OL,7,CBSH         19,2000   B1,05        C12 
-OL,8,FBTCS         3,2000  A-5,88        F13 
-OL,9,CBTCSTUDIO    0,2900   B0,69         C5 
-OL,10,FCANNABIS     0,1630   B0,62        F11 
-OL,11,CCARBONSTU    1,8800  A-1,05         C2 
+OL,6,FBRAS         0,1795   D0,00         F8 
+OL,7,CBSH         18,0000  A-6,25        C74 
+OL,8,FBTCS         3,1800  A-0,62         F2 
+OL,9,CBTCSTUDIO    0,2800  A-3,45         C0 
+OL,10,FCANNABIS     0,1580  A-3,07        F62 
+OL,11,CCARBONSTU    1,8800   D0,00         C2 
 OL,12,FCARLSON                                
-OL,13,CCARPATHIA    1,2100  A-0,82         C0 
-OL,14,FCCS          0,4700   D0,00         F0 
+OL,13,CCARPATHIA    1,3000   B7,44         C0 
+OL,14,FCCS          0,4460  A-5,11         F0 
 OL,15,CCDA                                    
-OL,16,FCENTORO      3,9200   D0,00         F4 
-OL,17,CCENTURION    0,0835   B0,60        C11 
+OL,16,FCENTORO      4,0800   B4,08         F7 
+OL,17,CCENTURION    0,0835   D0,00        C13 
 OL,18,FCEREALPLT                              
-OL,19,CCFG          1,3600   D0,00         C0 
-OL,20,FCFSA         4,9600  A-0,40         F6 
+OL,19,CCFG          1,2700  A-6,62         C0 
+OL,20,FCFSA         4,7200  A-4,84         F0 
 OL,21,CCHERRY                                 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -124,28 +124,28 @@ SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:08
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:55
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FCMI          2,8000   B0,72         F5 
+OL,6,FCMI          2,8000   D0,00         F0 
 OL,7,CCOMECO                                 
-OL,8,FCONSOLE      8,3500   B7,05         F5 
-OL,9,CCONSOLEW     2,6000   B0,78         C0 
-OL,10,FCONSTANCE    4,9600   D0,00         F0 
+OL,8,FCONSOLE      6,9500 A-16,77         F3 
+OL,9,CCONSOLEW     2,6200   B0,77         C0 
+OL,10,FCONSTANCE    4,8800  A-1,61         F0 
 OL,11,CCOPERNIC                               
-OL,12,FCOSMA        0,4140   D0,00         F3 
+OL,12,FCOSMA        0,4100  A-0,97         F3 
 OL,13,CCTEGROUP                               
-OL,14,FCZARNKOW                               
+OL,14,FCZARNKOW     0,0500 A-13,04         F0 
 OL,15,CDANKS                                  
-OL,16,FDARKPOINT    8,2000   B0,61         F1 
-OL,17,CDDISTANCE    0,0550  A-8,33         C0 
-OL,18,FDEFENCEH     0,4360   B9,00        F14 
-OL,19,CDEKTRA       4,9500   B1,23         C0 
-OL,20,FDITIX                                  
-OL,21,CDIVOLIO      3,1400   B0,64         C2 
+OL,16,FDARKPOINT    8,3000   B1,22         F0 
+OL,17,CDDISTANCE    0,0550   D0,00         C0 
+OL,18,FDEFENCEH     0,5560  B27,52       F144 
+OL,19,CDEKTRA       4,8900  A-1,21         C1 
+OL,20,FDITIX        0,1700  A-1,73         F0 
+OL,21,CDIVOLIO                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -154,28 +154,28 @@ SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:08
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:55
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FDORZECZY    19,0000   D0,00         F0 
-OL,7,CDRAGEUS                                
-OL,8,FDRFINANCE    1,1000  A-5,98         F3 
-OL,9,CDUALITY      0,3860   B1,85         C1 
-OL,10,FECCGAMES     0,1730   B0,87        F22 
-OL,11,CECL          3,8000  A-0,52         C0 
+OL,6,FDORZECZY    18,5500  A-2,37         F0 
+OL,7,CDRAGEUS      0,9500  A-1,04         C0 
+OL,8,FDRFINANCE    0,9700 A-11,82         F2 
+OL,9,CDUALITY      0,3600  A-6,74         C8 
+OL,10,FECCGAMES     0,1770   B2,31         F0 
+OL,11,CECL          3,8000   D0,00         C0 
 OL,12,FECNOLOGY                               
-OL,13,CECO5TECH     0,5500   D0,00         C0 
-OL,14,FEDITELPL                               
+OL,13,CECO5TECH     0,5300  A-3,64         C0 
+OL,14,FEDITELPL     5,8500   D0,00         F0 
 OL,15,CEFENERGII                              
-OL,16,FEKIOSK       0,4440   B3,26         F0 
-OL,17,CEKIPA        0,7000   B5,74         C7 
-OL,18,FEKOBOX       1,0100  A-0,98        F72 
+OL,16,FEKIOSK                                 
+OL,17,CEKIPA        0,6980  A-0,29         C4 
+OL,18,FEKOBOX       1,0550   B4,46        F25 
 OL,19,CEKOOZE                                 
 OL,20,FEKOPARK                                
-OL,21,CEKOPOL       5,3500  A-3,60         C0 
+OL,21,CEKOPOL                                 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -184,27 +184,27 @@ SC,0007
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:08
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:55
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FELQ          1,4400   B0,70         F1 
+OL,6,FELQ          1,3300  A-7,64         F2 
 OL,7,CEMONT                                  
-OL,8,FEMPLOCITY    0,4180  A-4,13         F4 
+OL,8,FEMPLOCITY    0,4280   B2,39         F4 
 OL,9,CEMTASIA                                
 OL,10,FENEIDA                                 
-OL,11,CENERGY       0,2400  A-1,23         C6 
-OL,12,FENIMSO       0,3130  A-0,32         F0 
+OL,11,CENERGY       0,2360  A-1,67         C9 
+OL,12,FENIMSO       0,3190   B1,92         F1 
 OL,13,CERATONRG                               
 OL,14,FESKIMOS                                
-OL,15,CEUROSNACK    2,2000   B0,46         C9 
-OL,16,FEUROTAX      2,8400   B5,19         F7 
-OL,17,CEUVIC       20,8000  A-1,89         C3 
-OL,18,FEXAMOBILE    3,0000   D0,00         F2 
-OL,19,CEXCELLENC    0,3340   B1,83        C80 
-OL,20,FEXIMIT                                 
+OL,15,CEUROSNACK    2,2000   D0,00         C5 
+OL,16,FEUROTAX      2,8000  A-1,41         F4 
+OL,17,CEUVIC       21,0000   B0,96         C7 
+OL,18,FEXAMOBILE    3,0000   D0,00         F0 
+OL,19,CEXCELLENC    0,3400   B1,80       C157 
+OL,20,FEXIMIT      111,000   B6,73         F2 
 OL,21,CFABRYKAKD                              
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -214,28 +214,28 @@ SC,0008
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:08
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:55
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FFALCON                                 
 OL,7,CFARM51                                 
-OL,8,FFARMINN     30,3000   B1,00        F45 
+OL,8,FFARMINN     30,2000  A-0,33         F0 
 OL,9,CFARMYFO                                
 OL,10,FFEMTECH                                
-OL,11,CFHDOM        3,1000   D0,00         C1 
-OL,12,FFIBO         9,2000   D0,00         F1 
+OL,11,CFHDOM                                  
+OL,12,FFIBO         9,1000  A-1,09         F0 
 OL,13,CFIGENE                                 
 OL,14,FFINTECH                                
-OL,15,CFORBUILD                               
-OL,16,FFOREVEREN    1,7850  A-2,99        F10 
+OL,15,CFORBUILD     4,2000   D0,00         C1 
+OL,16,FFOREVEREN    1,7750  A-0,56         F8 
 OL,17,CFORPOSTA                               
-OL,18,FFOTOVOLT     0,2550   D0,00         F0 
-OL,19,CFREEMIND     7,7000   D0,00         C0 
-OL,20,FFROZENWAY   26,6000   B0,38         F1 
-OL,21,CGALVO        3,9800   B0,51         C9 
+OL,18,FFOTOVOLT                               
+OL,19,CFREEMIND                               
+OL,20,FFROZENWAY   26,5000  A-0,38         F2 
+OL,21,CGALVO        4,0000   B0,50         C9 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -244,28 +244,28 @@ SC,0009
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:08
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:55
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FGAMEDUST                               
-OL,7,CGAMEHUNT     4,0000  A-4,76         C1 
-OL,8,FGAMIVO      14,0000   B1,45         F1 
+OL,7,CGAMEHUNT     4,0000   D0,00         C0 
+OL,8,FGAMIVO      14,2000   B1,43         F0 
 OL,9,CGARIN        1,4300   D0,00         C0 
-OL,10,FGDEVS        2,0000   B2,56         F7 
-OL,11,CGENOMED     36,8000  A-4,66         C0 
+OL,10,FGDEVS        2,0600   B3,00         F0 
+OL,11,CGENOMED     36,8000   D0,00         C1 
 OL,12,FGENRG                                  
-OL,13,CGENXONE      4,2900  A-1,15         C0 
-OL,14,FGEOTRANS     2,8200   B4,06        F34 
+OL,13,CGENXONE      4,3500   B1,40         C1 
+OL,14,FGEOTRANS     2,8200   D0,00         F3 
 OL,15,CGHYDROGEN                              
 OL,16,FGKSKAT                                 
 OL,17,CGOLAB                                  
 OL,18,FGOTFI                                  
 OL,19,CGOVENA                                 
 OL,20,FGREENENER                              
-OL,21,CGREENLANE   10,5000   B5,00         C7 
+OL,21,CGREENLANE   10,5000   D0,00         C8 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -274,27 +274,27 @@ SC,0010
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:08
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:55
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FGREENZEB     9,0000   B0,56         F1 
-OL,7,CGREMPCO      1,3950   B0,36         C0 
+OL,6,FGREENZEB     9,0000   D0,00         F0 
+OL,7,CGREMPCO      1,3900  A-0,36         C0 
 OL,8,FGRMEDIA                                
-OL,9,CGRUPAHRC     0,9800   B6,52         C0 
-OL,10,FGRUPAMZ      0,1985   D0,00         F0 
-OL,11,CGRUPAREC    56,4000  A-0,35         C2 
+OL,9,CGRUPAHRC     0,9800   D0,00         C0 
+OL,10,FGRUPAMZ      0,1990   B0,25         F0 
+OL,11,CGRUPAREC    56,4000   D0,00         C0 
 OL,12,FHAMBURGER                              
-OL,13,CHILANDER     0,9000  A-4,86         C2 
-OL,14,FHIPOWERSA    0,2680 A-11,26         F4 
-OL,15,CHIPROMINE   32,8000  A-0,61         C5 
+OL,13,CHILANDER     0,9000   D0,00         C1 
+OL,14,FHIPOWERSA    0,2960  B10,45         F0 
+OL,15,CHIPROMINE   33,0000   B0,61        C10 
 OL,16,FHONEYPAY                               
 OL,17,CHORNIGOLD                              
-OL,18,FHORTICO      5,9500   B2,59        F17 
-OL,19,CHUBTECH      0,2360   B0,85        C14 
-OL,20,FHURTIMEX     0,0665   D0,00         F0 
+OL,18,FHORTICO      6,1000   B2,52        F43 
+OL,19,CHUBTECH      0,2380   B0,85        C21 
+OL,20,FHURTIMEX     0,0690   B3,76         F0 
 OL,21,CHYDRAPRES    0,4860   D0,00         C0 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -304,28 +304,28 @@ SC,0011
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:08
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:55
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FHYENERGY                               
-OL,7,CHYPESA       1,3500   B7,57        C31 
-OL,8,FIBCPOLSKA    6,7400   B3,69        F19 
-OL,9,CICECODE      0,0630  A-3,08        C60 
-OL,10,FICPD                                   
-OL,11,CIDH          2,3000  A-4,17         C0 
+OL,7,CHYPESA       1,3000  A-3,70        C14 
+OL,8,FIBCPOLSKA    6,8000   B0,89         F6 
+OL,9,CICECODE      0,0610  A-3,17        C23 
+OL,10,FICPD         0,9250   B0,54         F0 
+OL,11,CIDH          2,3000   D0,00         C0 
 OL,12,FIFLEASING    1,5600   D0,00         F0 
-OL,13,CIGORIA       0,2740  A-1,08         C3 
-OL,14,FIMAGEPWR     3,3000  A-4,07         F2 
-OL,15,CIMMGAMES     0,6200  A-1,59         C0 
+OL,13,CIGORIA       0,2670  A-2,55         C8 
+OL,14,FIMAGEPWR     3,4200   B3,64         F1 
+OL,15,CIMMGAMES     0,6200   D0,00         C1 
 OL,16,FINCANA                                 
-OL,17,CINCUVO       0,4800   B1,05         C2 
-OL,18,FINDOS                                  
-OL,19,CINFRA        1,6500   B0,61         C1 
+OL,17,CINCUVO       0,5160   B7,50         C7 
+OL,18,FINDOS        3,1200   B0,65         F0 
+OL,19,CINFRA        1,5500  A-6,06         C0 
 OL,20,FINSIDPARK    0,4120   D0,00         F0 
-OL,21,CINTERNITY    9,3500   B1,08         C1 
+OL,21,CINTERNITY    9,3500   D0,00         C0 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -334,28 +334,28 @@ SC,0012
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:08
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:56
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FINTM                                   
-OL,7,CINVENTION    0,1045  A-1,42        C18 
-OL,8,FINVESTEKO    1,6600  A-0,60         F2 
-OL,9,CIRONWOLF     1,3600   D0,00         C7 
+OL,7,CINVENTION    0,1045   D0,00         C9 
+OL,8,FINVESTEKO    1,6600   D0,00         F1 
+OL,9,CIRONWOLF     1,3300  A-2,21         C3 
 OL,10,FIU                                     
-OL,11,CJRCGROUP     1,0000   D0,00         C0 
-OL,12,FJUJUBEE      0,4200 A-14,98        F11 
-OL,13,CKANCELWEC    2,1000   B0,96         C8 
-OL,14,FKBJ         32,0000   B0,63         F2 
-OL,15,CKLEPSYDRA    5,9800  A-0,99        C42 
-OL,16,FKLON         1,3900   B2,96         F0 
-OL,17,CKME          0,1620  A-6,90         C3 
-OL,18,FKOLEJKOWO   46,4000   B1,75        F23 
-OL,19,CKOMBINAT     0,8290   B0,24         C9 
+OL,11,CJRCGROUP     0,9300  A-7,00         C0 
+OL,12,FJUJUBEE      0,4340   B3,33         F3 
+OL,13,CKANCELWEC                              
+OL,14,FKBJ         31,8000  A-0,62         F1 
+OL,15,CKLEPSYDRA    5,9000  A-1,34        C71 
+OL,16,FKLON         1,3900   D0,00         F0 
+OL,17,CKME          0,1630   B0,62         C0 
+OL,18,FKOLEJKOWO   46,0000  A-0,86        F31 
+OL,19,CKOMBINAT     0,8300   B0,12        C19 
 OL,20,FKOOL2PLAY                              
-OL,21,CKORBANK      9,4500   D0,00         C6 
+OL,21,CKORBANK      8,9500  A-5,29        C34 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -364,26 +364,26 @@ SC,0013
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:08
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:56
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FKUBOTA      12,2500   D0,00         F5 
+OL,6,FKUBOTA      12,2500   D0,00         F9 
 OL,7,CKUPIEC                                 
 OL,8,FLABOCANNA                              
-OL,9,CLEGIMI      29,0000   D0,00         C1 
-OL,10,FLETUS        0,2500   D0,00         F9 
-OL,11,CLEXBONO      0,0850 A-12,82         C0 
-OL,12,FLGTRADE                                
-OL,13,CLICHTHUND   51,0000   D0,00        C15 
-OL,14,FLIFTERO     37,3200  A-1,43       F311 
-OL,15,CLMGAMES      0,5900   D0,00         C0 
+OL,9,CLEGIMI      28,0000  A-3,45         C1 
+OL,10,FLETUS        0,2500   D0,00        F18 
+OL,11,CLEXBONO      0,0850   D0,00         C0 
+OL,12,FLGTRADE      2,1600  A-4,42         F0 
+OL,13,CLICHTHUND   53,5000   B4,90         C2 
+OL,14,FLIFTERO     39,0000   B4,50       F194 
+OL,15,CLMGAMES                                
 OL,16,FLOKATYBUD                              
-OL,17,CLTGAMES     10,0000   B1,01        C10 
-OL,18,FLUDUS        0,3540  B10,62         F0 
-OL,19,CLUG          0,7500  A-6,25         C1 
+OL,17,CLTGAMES     10,0000   D0,00         C3 
+OL,18,FLUDUS                                  
+OL,19,CLUG          0,6450 A-14,00        C85 
 OL,20,FLUKARDI                                
 OL,21,CLUON                                   
 OL,22,M]DTABELA KURSOW NBP .............. 701 
@@ -394,28 +394,28 @@ SC,0014
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:09
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:56
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FM4B                                    
-OL,7,CMADKOM       3,1400   B5,37        C13 
-OL,8,FMADMIND                                
+OL,7,CMADKOM       3,0800  A-1,91         C0 
+OL,8,FMADMIND      0,2510  A-6,34         F0 
 OL,9,CMADNETIC                               
-OL,10,FMAKOLAB      6,3000   B2,44         F4 
-OL,11,CMARKA        0,1400   D0,00         C0 
-OL,12,FMAXIPIZZA                              
-OL,13,CMAZOP       14,0000  A-1,41         C3 
-OL,14,FMBFGROUP     1,9800   B2,06         F2 
-OL,15,CMEDAPP       0,1600   D0,00        C10 
+OL,10,FMAKOLAB      6,1000  A-3,17         F0 
+OL,11,CMARKA                                  
+OL,12,FMAXIPIZZA    0,5600   B1,82         F1 
+OL,13,CMAZOP       13,9000  A-0,71         C0 
+OL,14,FMBFGROUP     1,9400  A-2,02         F9 
+OL,15,CMEDAPP       0,1595  A-0,31         C1 
 OL,16,FMEDARD                                 
-OL,17,CMEDCAMP      0,6700  A-3,60         C0 
-OL,18,FMEDICOBIO    0,3540  A-2,21         F1 
-OL,19,CMEDTECH      0,4060   B2,01       C125 
+OL,17,CMEDCAMP      0,6500  A-2,99         C1 
+OL,18,FMEDICOBIO    0,3540   D0,00         F1 
+OL,19,CMEDTECH      0,4240   B4,43       C286 
 OL,20,FMEGAPIXEL                              
-OL,21,CMENNICASK   40,0000  A-0,74        C11 
+OL,21,CMENNICASK   40,1000   B0,25        C27 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -424,28 +424,28 @@ SC,0015
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:09
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:56
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FMENTZEN     22,8000   B0,89         F1 
-OL,7,CMERA         1,1000   B7,84         C0 
+OL,6,FMENTZEN     22,6000  A-0,88         F8 
+OL,7,CMERA                                   
 OL,8,FMERLINGRP                              
-OL,9,CMFOOD        2,8600  A-2,05         C6 
-OL,10,FMIDVEN                                 
+OL,9,CMFOOD        2,7800  A-2,80        C40 
+OL,10,FMIDVEN       4,2000   D0,00         F0 
 OL,11,CMILESTONE                              
-OL,12,FMILISYS      0,3020   B5,23        F13 
-OL,13,CMILITARY     0,4060   B2,53        C73 
+OL,12,FMILISYS      0,2960  A-1,99         F3 
+OL,13,CMILITARY     0,3990  A-1,72        C19 
 OL,14,FMILKPOL                                
-OL,15,CMILTON       0,3360  B12,00       C111 
+OL,15,CMILTON       0,3400   B1,19         C9 
 OL,16,FMINERAL                                
-OL,17,CMMCPL                                  
+OL,17,CMMCPL        7,1000  A-9,55         C4 
 OL,18,FMOLIERA2                               
-OL,19,CMOONLIT      0,3480  B16,00         C4 
-OL,20,FMPAY         0,2430   B1,25        F15 
-OL,21,CMPLVERBUM    4,4400   B3,26         C0 
+OL,19,CMOONLIT                                
+OL,20,FMPAY         0,2410  A-0,82        F25 
+OL,21,CMPLVERBUM                              
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -454,28 +454,28 @@ SC,0016
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:09
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:56
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FMSM          4,4600   B1,36         F0 
+OL,6,FMSM          4,4500  A-0,22         F1 
 OL,7,CMTENERGIA                              
-OL,8,FMUNAR        0,2000 A-19,35        F35 
+OL,8,FMUNAR        0,2000   D0,00         F3 
 OL,9,CMYCODERN                               
-OL,10,FNESTMEDIC    0,7300   B3,11        F78 
+OL,10,FNESTMEDIC    0,7300   D0,00        F14 
 OL,11,CNETWISE                                
 OL,12,FNEURONE                                
 OL,13,CNEXTBIKE                               
 OL,14,FNFPL                                   
-OL,15,CNOOBZ       11,5000  A-0,86         C2 
+OL,15,CNOOBZ       11,1000  A-3,48         C4 
 OL,16,FNOTORIA                                
-OL,17,CNOVINA       0,6100  A-1,29        C10 
-OL,18,FNTVSA        0,1900   D0,00         F0 
-OL,19,COLYMP        0,1825   B1,39         C3 
-OL,20,FONE2TRIBE    0,1600  A-5,88         F0 
-OL,21,CONICO        7,0000   D0,00         C0 
+OL,17,CNOVINA       0,6200   B1,64        C11 
+OL,18,FNTVSA        0,1770  A-6,84         F3 
+OL,19,COLYMP        0,1890   B3,56         C1 
+OL,20,FONE2TRIBE    0,1490  A-6,88         F1 
+OL,21,CONICO        7,0000   D0,00         C1 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -484,24 +484,24 @@ SC,0017
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:09
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:56
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FOPTIGIS      0,3380  A-6,11         F8 
-OL,7,CORBITEO      5,3000  A-0,93         C6 
+OL,6,FOPTIGIS      0,3380   D0,00         F1 
+OL,7,CORBITEO      5,3000   D0,00        C13 
 OL,8,FORGANIC     10,5000   D0,00         F0 
-OL,9,CORZLOPONY                              
-OL,10,FOUTDOORZY    2,0600  A-6,36         F4 
-OL,11,COVIDWORKS                              
+OL,9,CORZLOPONY    2,0000   D0,00        C43 
+OL,10,FOUTDOORZY    2,0800   B0,97        F12 
+OL,11,COVIDWORKS    0,2580  A-7,86         C5 
 OL,12,FOXYGEN                                 
-OL,13,CP2CHILL      2,4600  A-0,81        C57 
+OL,13,CP2CHILL      2,2600  A-8,13        C97 
 OL,14,FPARCELTEC                              
-OL,15,CPARTNER     20,4000   B2,00         C2 
+OL,15,CPARTNER     20,4000   D0,00         C0 
 OL,16,FPBGAMES                                
-OL,17,CPGH          3,7900  A-4,05        C49 
+OL,17,CPGH          3,8400   B1,32        C62 
 OL,18,FPIXELCROW                              
 OL,19,CPLANETB2B    0,0445   D0,00         C0 
 OL,20,FPLANTWEAR                              
@@ -514,28 +514,28 @@ SC,0018
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:09
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:56
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FPLATIGE      3,3400   D0,00         F0 
+OL,6,FPLATIGE                                
 OL,7,CPLGROUP                                
-OL,8,FPLOTTWIST    1,3200   B9,09         F0 
-OL,9,CPOINTPACK   11,2000  A-1,75        C12 
-OL,10,FPOLARISIT    0,3000  A-5,66        F97 
-OL,11,CPOLHOLROZ    1,5200   B4,83        C12 
-OL,12,FPOLMAN       0,4700   D0,00         F3 
-OL,13,CPOLTRONIC    0,6200   D0,00         C0 
+OL,8,FPLOTTWIST    1,3200   D0,00         F0 
+OL,9,CPOINTPACK   10,7000  A-4,46        C13 
+OL,10,FPOLARISIT    0,3100   B3,33         F4 
+OL,11,CPOLHOLROZ    1,6200   B6,58        C16 
+OL,12,FPOLMAN       0,4700   D0,00         F5 
+OL,13,CPOLTRONIC    0,6200   D0,00         C1 
 OL,14,FPOLYSLASH                              
 OL,15,CPREFABET                               
 OL,16,FPREFAGRP                               
-OL,17,CPRESENT24    0,0930 A-11,43         C0 
-OL,18,FPRESIDENT   77,5000   B1,97         F9 
-OL,19,CPRIME        1,4900   B9,56       C147 
+OL,17,CPRESENT24    0,1040  B11,83         C0 
+OL,18,FPRESIDENT   79,5000   B2,58        F51 
+OL,19,CPRIME        1,4200  A-4,70       C427 
 OL,20,FPRIVRNT                                
-OL,21,CPROACTA      1,3000  A-1,52        C11 
+OL,21,CPROACTA      1,2900  A-0,77        C10 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -544,28 +544,28 @@ SC,0019
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:09
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:56
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FPROGUNSGR    4,6000   B5,50         F9 
-OL,7,CPROMISE      6,8500   B2,24         C2 
-OL,8,FPRYMUS       6,2500   B0,81         F0 
+OL,6,FPROGUNSGR    4,6000   D0,00         F0 
+OL,7,CPROMISE      7,0000   B2,19        C18 
+OL,8,FPRYMUS       6,2500   D0,00         F1 
 OL,9,CPUNCHPUNK                              
-OL,10,FPURPLERAY    3,0100   D0,00         F1 
-OL,11,CPYRAMID      3,5800  A-0,56         C0 
+OL,10,FPURPLERAY    3,0000  A-0,33         F8 
+OL,11,CPYRAMID      3,4000  A-5,03         C1 
 OL,12,FQUART                                  
 OL,13,CQUARTICON                              
-OL,14,FQUBICGMS     0,8950  A-0,56         F5 
+OL,14,FQUBICGMS     0,8700  A-2,79         F0 
 OL,15,CQUEST        0,3160   D0,00         C0 
-OL,16,FREADGENE     4,7100   D0,00         F0 
+OL,16,FREADGENE     4,7200   B0,21         F1 
 OL,17,CREDCARPET                              
 OL,18,FREMEDIS                                
-OL,19,CREMORSOL     4,1600   D0,00         C1 
+OL,19,CREMORSOL     4,1400  A-0,48         C4 
 OL,20,FROAD                                   
-OL,21,CROBINSON     3,8000   B0,53         C0 
+OL,21,CROBINSON     3,8000   D0,00         C0 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -574,28 +574,28 @@ SC,0020
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:09
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:56
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FROBSGROUP                              
 OL,7,CROCCA        3,5100   D0,00         C0 
-OL,8,FROCKGAME                               
-OL,9,CRRHGROUP     0,0425   B7,59         C1 
-OL,10,FRSGAMES      4,4000   D0,00         F4 
+OL,8,FROCKGAME     7,4000  A-4,52         F0 
+OL,9,CRRHGROUP     0,0425   D0,00         C0 
+OL,10,FRSGAMES                                
 OL,11,CRUCHCHORZ                              
-OL,12,FS4E         34,6000   B4,22        F43 
-OL,13,CSAKANA       0,4300   B7,50         C2 
+OL,12,FS4E         31,8000  A-8,09        F88 
+OL,13,CSAKANA       0,4600   B6,98         C1 
 OL,14,FSAULETECH                              
-OL,15,CSDSOPTIC     2,2800  A-0,87        C11 
-OL,16,FSEDIVIO      5,9000   B2,61         F5 
-OL,17,CSEVENET     12,9500  A-0,38       C100 
-OL,18,FSFD          3,0300  A-2,26        F13 
+OL,15,CSDSOPTIC     2,4000   B5,26       C117 
+OL,16,FSEDIVIO      5,7000  A-3,39         F7 
+OL,17,CSEVENET     13,1500   B1,54       C107 
+OL,18,FSFD          3,0900   B1,98        F85 
 OL,19,CSFKPOLKAP                              
 OL,20,FSHEEPYARD                              
-OL,21,CSIGMADEF     0,2360  A-1,26        C10 
+OL,21,CSIGMADEF     0,2190  A-7,20        C93 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -604,28 +604,28 @@ SC,0021
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:09
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:57
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FSIMTERACT    6,0500   D0,00         F0 
-OL,7,CSOFTBLUE     0,2450  A-1,21        C15 
-OL,8,FSOLARINOV    0,0436   D0,00         F3 
-OL,9,CSONKA       10,5000   D0,00         C5 
-OL,10,FSPACEFOX     3,0000   B4,90        F12 
+OL,6,FSIMTERACT    6,0500   D0,00         F1 
+OL,7,CSOFTBLUE     0,2420  A-1,22         C9 
+OL,8,FSOLARINOV    0,0378 A-13,30         F4 
+OL,9,CSONKA       10,4000  A-0,95         C0 
+OL,10,FSPACEFOX                               
 OL,11,CSTANDREW                               
-OL,12,FSTARWARD     6,9000  A-1,43         F1 
-OL,13,CSTEMCELLS    0,4700   D0,00         C0 
+OL,12,FSTARWARD     6,5200  A-5,51         F1 
+OL,13,CSTEMCELLS    0,4640  A-1,28         C1 
 OL,14,FSTILO                                  
-OL,15,CSTOHID       2,4600   B1,65         C1 
-OL,16,FSUNNET       1,8400  A-0,54         F0 
-OL,17,CSUNTECH      1,5000 A-14,29        C60 
-OL,18,FSWMANSION   24,2000   B2,54        F23 
-OL,19,CSYGNIS       0,8200   D0,00        C15 
-OL,20,FSYNERGA      0,3920   D0,00         F1 
-OL,21,CSZAR         0,3040  B20,63     C1.263 
+OL,15,CSTOHID       2,4600   D0,00         C2 
+OL,16,FSUNNET       1,9100   B3,80         F1 
+OL,17,CSUNTECH      1,5700   B4,67         C7 
+OL,18,FSWMANSION   22,9000  A-5,37         F5 
+OL,19,CSYGNIS       0,8720   B6,34        C53 
+OL,20,FSYNERGA      0,3920   D0,00         F0 
+OL,21,CSZAR         0,3020  A-0,66     C1.129 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -634,27 +634,27 @@ SC,0022
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:09
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:57
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FTAMEX        3,1000   B5,44         F1 
+OL,6,FTAMEX        3,1000   D0,00         F0 
 OL,7,CTAXNET                                 
-OL,8,FTECHROBOT   14,8000   D0,00         F7 
-OL,9,CTECNTICA     0,3500   D0,00         C7 
-OL,10,FTELEMEDPL    0,3740   B0,54         F1 
-OL,11,CTELESTO                                
+OL,8,FTECHROBOT   14,6000  A-1,35        F27 
+OL,9,CTECNTICA     0,3750   B7,14         C2 
+OL,10,FTELEMEDPL    0,3880   B3,74         F0 
+OL,11,CTELESTO     12,8000   D0,00         C0 
 OL,12,FTELESTR                                
-OL,13,CTELGAM       0,3760  A-1,05         C1 
+OL,13,CTELGAM       0,3480  A-7,45        C12 
 OL,14,FTERMOEXP                               
-OL,15,CTHEDUST      1,1000   D0,00         C0 
-OL,16,FTHORIUMSP   10,5800   B2,72       F114 
+OL,15,CTHEDUST                                
+OL,16,FTHORIUMSP   10,7400   B1,51        F92 
 OL,17,CTNTPROENR                              
-OL,18,FTREX         5,2000   B0,97        F40 
-OL,19,CTRIGGO                                 
-OL,20,FTRUEGS       0,1445   B3,21         F0 
+OL,18,FTREX         5,3000   B1,92        F32 
+OL,19,CTRIGGO       0,6500 A-10,96         C0 
+OL,20,FTRUEGS                                 
 OL,21,CUFGAMES                                
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
@@ -664,26 +664,26 @@ SC,0023
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:09
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:57
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FUNIFIED                                
 OL,7,CUNILABGAM                              
 OL,8,FUNIVERSE                               
-OL,9,CVARSAV       0,5150  A-2,83         C0 
-OL,10,FVEE         10,0500   B2,55        F29 
-OL,11,CVERBICOM     1,6400   D0,00         C0 
+OL,9,CVARSAV       0,5600   B8,74        C22 
+OL,10,FVEE         10,3500   B2,99         F8 
+OL,11,CVERBICOM     1,7500   B6,71        C11 
 OL,12,FVIATRON                                
-OL,13,CVIDIS        4,5200   B3,20         C0 
-OL,14,FVISION       0,0180  B12,50         F0 
-OL,15,CVMAXSA      12,9000   B0,78         C0 
-OL,16,FVOLARIA      0,7750  A-0,64         F1 
-OL,17,CVOOLT        1,5500  A-0,32         C1 
-OL,18,FVRFABRIC     2,4400   B2,52         F8 
-OL,19,CWERTHHOLZ    0,1460   D0,00         C0 
+OL,13,CVIDIS        4,4800  A-0,89         C0 
+OL,14,FVISION       0,0190   B5,56         F0 
+OL,15,CVMAXSA      12,9000   D0,00         C0 
+OL,16,FVOLARIA      0,7700  A-0,65         F0 
+OL,17,CVOOLT        1,5100  A-2,58        C15 
+OL,18,FVRFABRIC     2,4400   D0,00         F0 
+OL,19,CWERTHHOLZ                              
 OL,20,FWESTREAL                               
 OL,21,CWGPARTNER                              
 OL,22,M]DTABELA KURSOW NBP .............. 701 
@@ -694,20 +694,20 @@ SC,0024
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:10
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:57
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:03 26.11.2026
+OL,3,AInformacje z godz.:    16:42 27.11.2026
 OL,4,D]                GNotowania New Connect
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FWIERZYCL     0,5580   D0,00         F0 
-OL,7,CWILDINT      0,6200   B5,98         C1 
-OL,8,FWODKAN       6,8000   B5,43         F3 
-OL,9,CXBSPROLOG   61,0000   B0,83         C8 
+OL,7,CWILDINT      0,5950  A-4,03         C1 
+OL,8,FWODKAN       7,0000   B2,94         F0 
+OL,9,CXBSPROLOG   61,0000   D0,00         C4 
 OL,10,FYBS          0,1930   D0,00         F0 
-OL,11,CYOSHI        0,4600  A-2,13        C17 
-OL,12,FZENERIS      3,2900   B5,79         F0 
-OL,13,CZORTRAX      0,0690   D0,00         C4 
+OL,11,CYOSHI        0,5180  B12,61        C16 
+OL,12,FZENERIS      3,4300   B4,26         F1 
+OL,13,CZORTRAX      0,0685  A-0,72         C3 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -716,28 +716,28 @@ SC,0025
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:10
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:57
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:20 26.11.2026
+OL,3,AInformacje z godz.:    16:57 27.11.2026
 OL,4,D]                          GIndeksy GPW
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
 OL,6,FGIK                                    
-OL,7,CGPWBB1Y3Y   1345,90   B0,05         C0 
-OL,8,FGPWBB1Y4Y   1345,49   B0,05         F0 
-OL,9,CGPWBB1Y5Y   1347,14   B0,06         C0 
-OL,10,FGPWBB3Y     1347,43   B0,05         F0 
-OL,11,CGPWBB3Y5Y   1355,78   B0,06         C0 
-OL,12,FGPWBB5Y     1327,40   B0,04         F0 
-OL,13,CGPWBBWZ     1357,41   B0,04         C0 
-OL,14,FINNOVATOR   1609,49   B2,14   F199.986 
-OL,15,CNCFIndex    1529,18   B0,33       C698 
-OL,16,FNCIndex     235,720   B0,32     F3.689 
-OL,17,CTBSPIndex   2257,86   B0,05         C0 
-OL,18,FWIG         152971,   B1,73 F1.066.724 
+OL,7,CGPWBB1Y3Y   1346,69   B0,06         C0 
+OL,8,FGPWBB1Y4Y   1346,30   B0,06         F0 
+OL,9,CGPWBB1Y5Y   1347,92   B0,06         C0 
+OL,10,FGPWBB3Y     1348,43   B0,07         F0 
+OL,11,CGPWBB3Y5Y   1356,55   B0,06         C0 
+OL,12,FGPWBB5Y     1328,66   B0,09         F0 
+OL,13,CGPWBBWZ     1358,26   B0,06         C0 
+OL,14,FINNOVATOR   1642,93   B2,08   F146.420 
+OL,15,CNCFIndex    1528,46  A-0,05       C848 
+OL,16,FNCIndex     236,380   B0,28     F4.340 
+OL,17,CTBSPIndex   2259,36   B0,07         C0 
+OL,18,FWIG         154530,   B1,02 F1.394.999 
 OL,19,CWIG-ESG                                
-OL,20,FWIG140      2980,40   B1,75 F1.152.706 
-OL,21,CWIG20       4043,87   B1,59 C1.657.383 
+OL,20,FWIG140      3010,63   B1,01 F1.713.967 
+OL,21,CWIG20       4091,20   B1,17 C1.082.627 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -746,28 +746,28 @@ SC,0026
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:10
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:57
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:20 26.11.2026
+OL,3,AInformacje z godz.:    16:57 27.11.2026
 OL,4,D]                          GIndeksy GPW
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FWIG20TR     9318,97   B1,59 F1.657.383 
-OL,7,CWIG20TRlev  10804,2   B3,16         C0 
-OL,8,FWIG20TRsht  1920,43  A-1,57         F0 
+OL,6,FWIG20TR     9424,01   B1,13 F1.913.573 
+OL,7,CWIG20TRlev  11046,6   B2,24         C0 
+OL,8,FWIG20TRsht  1899,17  A-1,11         F0 
 OL,9,CWIG20dvp    157,400   D0,00         C0 
 OL,10,FWIG20lev                               
 OL,11,CWIG20short                             
-OL,12,FWIG30       5200,16   B1,63 F1.464.530 
-OL,13,CWIG30TR     11683,5   B1,63 C1.464.530 
-OL,14,FWIGBANKI    26507,4   B1,14   F316.540 
-OL,15,CWIGBUDOW    10135,2   B1,49    C24.561 
-OL,16,FWIGCEE      3807,05   B0,60       F860 
-OL,17,CWIGCHEMIA   6365,79   B6,51     C9.283 
-OL,18,FWIGENERG    5095,01   B0,80    F36.403 
-OL,19,CWIGGAMES5   17506,4   B1,74    C56.511 
-OL,20,FWIGGORNIC   7562,84   B4,24   F188.351 
-OL,21,CWIGGRY      23100,7   B1,88    C59.315 
+OL,12,FWIG30       5259,48   B1,14 F1.103.851 
+OL,13,CWIG30TR     11814,2   B1,12 C1.640.789 
+OL,14,FWIGBANKI    26632,6   B0,47   F293.892 
+OL,15,CWIGBUDOW    10464,7   B3,25    C32.680 
+OL,16,FWIGCEE      3817,62   B0,28       F398 
+OL,17,CWIGCHEMIA   6379,23   B0,21     C5.371 
+OL,18,FWIGENERG    5186,72   B1,80    F51.382 
+OL,19,CWIGGAMES5   17506,7   D0,00    C63.278 
+OL,20,FWIGGORNIC   8072,57   B6,74   F251.018 
+OL,21,CWIGGRY      22913,5  A-0,81    C64.978 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -776,28 +776,28 @@ SC,0027
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:10
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:57
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:20 26.11.2026
+OL,3,AInformacje z godz.:    16:57 27.11.2026
 OL,4,D]                          GIndeksy GPW
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FWIGINFO     10884,9   B4,06    F44.744 
-OL,7,CWIGLEKI     2515,48   B1,42     C1.316 
-OL,8,FWIGMEDIA    7351,13   B3,09     F3.370 
-OL,9,CWIGMOTO     14113,5   B1,71     C6.728 
-OL,10,FWIGMSBAS    26657,5   B1,86   F216.032 
-OL,11,CWIGMSECM    12871,5   B1,80   C570.947 
-OL,12,FWIGMSFIN    26487,2   B0,85   F352.380 
-OL,13,CWIGNRCHOM   5800,12   B0,55     C6.967 
-OL,14,FWIGODZIEZ   16690,9   B1,84   F101.722 
-OL,15,CWIGPALIWA   14894,6   B2,22    C91.138 
-OL,16,FWIGPoland   158711,   B1,71 F1.161.690 
-OL,17,CWIGSPOZYW   2603,50   B0,23     C1.002 
-OL,18,FWIGUkrain   369,850  A-0,42       F518 
-OL,19,CWIGdiv      3159,28   B1,50   C515.953 
-OL,20,FWIGdivplus  3095,65   B1,16   F499.048 
-OL,21,CWIGind      18002,5   B2,10    C39.689 
+OL,6,FWIGINFO     11210,8   B2,99    F83.852 
+OL,7,CWIGLEKI     2576,12   B2,41     C3.198 
+OL,8,FWIGMEDIA    7381,82   B0,42     F3.561 
+OL,9,CWIGMOTO     13778,4  A-2,37     C5.348 
+OL,10,FWIGMSBAS    27538,0   B3,30   F294.486 
+OL,11,CWIGMSECM    12844,2  A-0,21   C497.432 
+OL,12,FWIGMSFIN    26645,9   B0,60   F397.670 
+OL,13,CWIGNRCHOM   5830,16   B0,52     C4.826 
+OL,14,FWIGODZIEZ   16944,5   B1,52   F256.194 
+OL,15,CWIGPALIWA   15286,8   B2,63   C127.525 
+OL,16,FWIGPoland   160897,   B1,38 F1.618.503 
+OL,17,CWIGSPOZYW   2598,40  A-0,20       C848 
+OL,18,FWIGUkrain   367,810  A-0,55       F194 
+OL,19,CWIGdiv      3197,36   B1,21   C624.887 
+OL,20,FWIGdivplus  3127,88   B1,04   F569.578 
+OL,21,CWIGind      18137,1   B0,75    C28.391 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 
 FL,570,709,100,100,0,100
@@ -806,22 +806,22 @@ SC,0028
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     704Cpi@ 27 lis  07:16:10
+OL,0,      BTVP1     704Cpi@ 27 lis  17:14:57
 OL,1,            BNOTOWANIA GPW              
 OL,2,          (~r_d}o: Bankier.pl)          
-OL,3,AInformacje z godz.:    17:20 26.11.2026
+OL,3,AInformacje z godz.:    16:57 27.11.2026
 OL,4,D]                          GIndeksy GPW
 OL,5,ENazwa          Kurs Zmiana%  Obr_t tys.
-OL,6,FWIGmed      17659,5   B2,36    F20.335 
+OL,6,FWIGmed      17722,2   B0,36    F48.783 
 OL,7,CWIGtech                                
-OL,8,FWIGtechTR   20459,5   B2,61   F150.010 
-OL,9,CmWIG40      10409,1   B2,33   C265.083 
-OL,10,FmWIG40TR    16836,0   B2,33   F265.083 
-OL,11,CmWIG40TRlv  32970,8   B4,64         C0 
-OL,12,FmWIG40TRsh  1836,10  A-2,31         F0 
+OL,8,FWIGtechTR   20749,6   B1,42   F191.947 
+OL,9,CmWIG40      10471,8   B0,60   C342.704 
+OL,10,FmWIG40TR    16937,4   B0,60   F342.704 
+OL,11,CmWIG40TRlv  33364,7   B1,19         C0 
+OL,12,FmWIG40TRsh  1825,40  A-0,58         F0 
 OL,13,CmWIG40dvp   338,740   D0,00         C0 
-OL,14,FsWIG80      28121,3   B1,88    F57.412 
-OL,15,CsWIG80TR    45305,1   B1,88    C57.412 
+OL,14,FsWIG80      28506,9   B1,37    F54.230 
+OL,15,CsWIG80TR    45926,2   B1,37    C54.230 
 OL,16,FsWIG80dvp   807,970   D0,00         F0 
 OL,22,M]DTABELA KURSOW NBP .............. 701 
 OL,24,B]@KREDYTY I PO[YCZKI ............. 570 

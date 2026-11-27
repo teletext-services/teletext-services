@@ -4,22 +4,22 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     877Cpi@ 27 lis  07:19:49
+OL,0,      BTVP1     877Cpi@ 27 lis  17:18:38
 OL,1,E] D] A M I G ] O W K A     Zapa}kowe   
 OL,2,E]D] EL O G I C Z N A    ]  Dr_wnania   
 OL,3,U#######################################
 OL,4,     MRozwi@zanieFz godziny E8:00.      
-OL,6, V,,d   `,,d   `,,d  U`,,d   `,,d   `,,d
-OL,7,   Vj   j  j   j  j  Uj  j   j  j   j  j
-OL,8, V,,f(,,b  bbssb,,f  U",,f(,,b  bbss",,f
-OL,9,   Vj   j  j   j  j     Uj   j  j      j
-OL,10, V,,&   ",,&   ",,&   U,,&   ",,&    ,,&
+OL,6,V`,,d    ,,d   `  `                     
+OL,7,Vj  j h    j   j  j                     
+OL,8,V",,f(n,`,,&bss",,f                     
+OL,9,   Vj * j         j                     
+OL,10, V,,&   ",,$      "                     
 OL,11, S,,,,,U S,,,,,U S,,,,,U S,,,,,U S,,,,,U
-OL,12, V,,d   `,,d    ,,d   U,,d   `,,d    ,,d
-OL,13,   Vj   j  j      j     Uj   j  j      j
-OL,14,   Vb(,,",,fbss   b     Ub(,,b  bbss   b
-OL,15,   Vj      j      j     Uj   j  j      j
-OL,16,   V"    ,,&      "     U"   ",,&      "
+OL,12,                 U`,,d    ,,d      `   `
+OL,13,                 Uj  j h    j      j   j
+OL,14,                 U",,f(n,`,,&bss   b   b
+OL,15,                    Uj * j         j   j
+OL,16,                  U,,&   ",,$      "   "
 OL,17, S,,,,,U S,,,,,U S,,,,,U S,,,,,U S,,,,,U
 OL,23,E]DNowe godz. 08:00 ] E867 <<< powr_t   
 OL,24, A<<< 867    B876      C878      F879   
@@ -29,22 +29,22 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     877Cpi@ 27 lis  07:19:49
+OL,0,      BTVP1     877Cpi@ 27 lis  17:18:38
 OL,1,E] D] A M I G ] O W K A     Zapa}kowe   
 OL,2,E]D] EL O G I C Z N A    ]  Dr_wnania   
 OL,3,U#######################################
 OL,4,     MRozwi@zanieFz godziny E8:00.      
-OL,6, V,,d   `  `    ,,d                     
-OL,7,   Vj h j  j      j                     
-OL,8,   Vb(n,",,fbss ,,f                     
-OL,9,   Vj *    j      j                     
-OL,10,   V"      "    ,,&                     
+OL,6,   V`   `,,d    ,,d   U,,d   `,,d    ,,d
+OL,7,   Vj h j  j      j     Uj h j  j      j
+OL,8,   Vb(n,b,,fbss   b     Ub(n,b  bbss   b
+OL,9,   Vj * j  j      j     Uj * j  j      j
+OL,10,   V"   ",,&      "     U"   ",,&      "
 OL,11, S,,,,,U S,,,,,U S,,,,,U S,,,,,U S,,,,,U
-OL,12,                        U`   `  `    ,,d
-OL,13,                        Uj h j  j      j
-OL,14,                  U(,,   b(n,",,fbss ,,f
-OL,15,                        Uj *    j      j
-OL,16,                        U"      "    ,,&
+OL,12,                     U`   `,,d       ,,d
+OL,13,                     Uj   j  j         j
+OL,14,                     Ub(,,b,,fbss(,,   b
+OL,15,                     Uj   j  j         j
+OL,16,                     U"   ",,&         "
 OL,17, S,,,,,U S,,,,,U S,,,,,U S,,,,,U S,,,,,U
 OL,23,E]DNowe godz. 08:00 ] E867 <<< powr_t   
 OL,24, A<<< 867    B876      C878      F879   
@@ -54,7 +54,32 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     877Cpi@ 27 lis  07:19:50
+OL,0,      BTVP1     877Cpi@ 27 lis  17:18:38
+OL,1,E] D] A M I G ] O W K A     Zapa}kowe   
+OL,2,E]D] EL O G I C Z N A    ]  Dr_wnania   
+OL,3,U#######################################
+OL,4,     MRozwi@zanieFz godziny E8:00.      
+OL,6,V`  ``  `   `,,$   `  `   `             
+OL,7,Vj  jj  j   j      j  j   j             
+OL,8,V",,f",,f(,,",,dbss",,f   b             
+OL,9,   Vj   j      j      j   j             
+OL,10,   V"   "    ,,&      "   "             
+OL,11, S,,,,,U S,,,,,U S,,,,,U S,,,,,U S,,,,,U
+OL,12,             U`  ``  `    ,,d   `  `   `
+OL,13,             Uj  jj  j      j   j  j   j
+OL,14,             U",,f",,f(,, ,,fbss",,f   b
+OL,15,                Uj   j      j      j   j
+OL,16,                U"   "    ,,&      "   "
+OL,17, S,,,,,U S,,,,,U S,,,,,U S,,,,,U S,,,,,U
+OL,23,E]DNowe godz. 08:00 ] E867 <<< powr_t   
+OL,24, A<<< 867    B876      C878      F879   
+FL,867,876,878,879,0,100
+PN,87704
+SC,0004
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP1     877Cpi@ 27 lis  17:18:38
 OL,1,E] D] A M I G ] O W K A     Zapa}kowe   
 OL,2,E]D] EL O G I C Z N A    ]  Dr_wnania   
 OL,3,U#######################################
@@ -74,12 +99,12 @@ OL,17, S,,,,,U S,,,,,U S,,,,,U S,,,,,U S,,,,,U
 OL,23,E]DNowe godz. 18:00 ] E867 <<< powr_t   
 OL,24, A<<< 867    B876      C878      F879   
 FL,867,876,878,879,0,100
-PN,87704
-SC,0004
+PN,87705
+SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     877Cpi@ 27 lis  07:19:50
+OL,0,      BTVP1     877Cpi@ 27 lis  17:18:39
 OL,1,E] D] A M I G ] O W K A     Zapa}kowe   
 OL,2,E]D] EL O G I C Z N A    ]  Dr_wnania   
 OL,3,U#######################################

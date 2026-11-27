@@ -1,17 +1,93 @@
 DE,SWR-RP 502
-PN,50200
-SC,0000
-PS,8208
+PN,50201
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Fr, 27.11.26G05:22:38
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:22:33
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
 OL,4,            Gefahrenmeldungen           
-OL,6,CL225GVorsicht bitte im Kreis           
-OL,7, Tuttlingen, auf der Landesstra~e       
-OL,8, zwischen Auf Stocken und Hattingen     
-OL,9, l{uft ein Rind!                        
-OL,23,D]GStand:27.11. 05:21   ]bersicht 501 >>
+OL,6,CA3FFrankfurt Richtung W}rzburg         
+OL,7, zwischen Wertheim/Lengfurt und         
+OL,8, Helmstadt Gefahr durch brennendes      
+OL,9, Fahrzeug, Standstreifen blockiert,     
+OL,10, rechter Fahrstreifen blockiert,        
+OL,11, Sichtbehinderung durch Rauch           
+OL,13,CA48FDernbach Richtung Koblenz          
+OL,14, zwischen Rastplatz Albrechtshof und    
+OL,15, Bendorf/Neuwied Gefahr durch eine Plane
+OL,16, auf der Fahrbahn, Polizei ist          
+OL,17, benachrichtigt                         
+OL,23,D]GStand:27.11. 15:21   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50202
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:22:33
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,            Gefahrenmeldungen           
+OL,6,CA6FMannheim Richtung Heilbronn         
+OL,7, zwischen Kreuz Mannheim und            
+OL,8, Mannheim/Schwetzingen Gefahr durch     
+OL,9, ungesicherte Unfallstelle auf dem      
+OL,10, rechten Fahrstreifen                   
+OL,12,CA6FHeilbronn Richtung Mannheim         
+OL,13, Kreuz Walldorf ]berleitung zur A5      
+OL,14, Richtung Karlsruhe Gefahr durch        
+OL,15, Gegenst{nde auf der Fahrbahn           
+OL,17,CA6FMannheim Richtung Heilbronn         
+OL,18, zwischen Dreieck Hockenheim und Kreuz  
+OL,19, Walldorf Gefahr durch Gegenst{nde auf  
+OL,20, dem rechten Fahrstreifen               
+OL,23,D]GStand:27.11. 15:21   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50203
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:22:33
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,            Gefahrenmeldungen           
+OL,6,CA65FKarlsruhe Richtung Landau          
+OL,7, zwischen W|rth-Dorschberg und          
+OL,8, Kandel-S}d Unfall mit 4 Fahrzeugen,    
+OL,9, Gefahr durch ungesicherte Unfallstelle,
+OL,10, Stau zu erwarten                       
+OL,12,CA81FStuttgart Richtung Singen          
+OL,13, Einfahrt Empfingen Gefahr durch        
+OL,14, defektes Fahrzeug auf dem              
+OL,15, Beschleunigungsstreifen                
+OL,17,CB10FPforzheim Richtung M}hlacker       
+OL,18, zwischen Niefern und Enzberg Gefahr    
+OL,19, durch ungesicherte Unfallstelle        
+OL,23,D]GStand:27.11. 15:21   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,50204
+SC,0004
+PS,C200
+CT,15,T
+OL,0,       BSWR RLPC   Fr, 27.11.26G15:22:33
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,            Gefahrenmeldungen           
+OL,6,CB42FBonn Richtung Koblenz              
+OL,7, in H|he Rheinbreitbach Gefahr durch    
+OL,8, Gegenst{nde auf der Fahrbahn, Polizei  
+OL,9, ist benachrichtigt                     
+OL,11,CL385FRottenburg am Neckar -            
+OL,12,FTrochtelfingen                         
+OL,13, zwischen Melchingen und Stetten in     
+OL,14, beiden Richtungen Glatteisgefahr       
+OL,23,D]GStand:27.11. 15:21   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

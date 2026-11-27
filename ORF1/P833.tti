@@ -3,31 +3,32 @@ PN,83301
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G833FORF1   GFr 27.11.26 02:21:12
+OL,0,       G833FORF1   GFr 27.11.26 12:21:16
 OL,1,A]G                Flughafen Klagenfurt 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug     von        Plan aktuell       
-OL,5,FOS 109   WIEN       1030               
-OL,6,GEW 284   K\LN/BONN  1220               
-OL,7,FOS 109   WIEN       1030 29.11.26      
-OL,8,GBQ 1990  ROM/FIUMIC 1420 29.11.26      
-OL,23,F02:18hGFlughafen KlagenfurtF0463/41500 
+OL,5,FEW 284   K\LN/BONN  1220Bgelandet  1215
+OL,6,GOS 109   WIEN       1030 29.11.26      
+OL,7,FBQ 1990  ROM/FIUMIC 1420 29.11.26      
+OL,8,GOS 109   WIEN       1055 30.11.26      
+OL,9,FEW 284   K\LN/BONN  1220 30.11.26      
+OL,23,F12:20hGFlughafen KlagenfurtF0463/41500 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83302
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G833FORF1   GFr 27.11.26 02:21:13
+OL,0,       G833FORF1   GFr 27.11.26 12:21:16
 OL,1,A]G                Flughafen Klagenfurt 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug     nach       Plan aktuell       
-OL,5,FOS 110   WIEN       1115               
-OL,6,GEW 285   K\LN/BONN  1300               
-OL,7,FOS 110   WIEN       1115 29.11.26      
-OL,8,GBQ 1991  ROM/FIUMIC 1505 29.11.26      
-OL,23,F02:18hGFlughafen KlagenfurtF0463/41500 
+OL,5,FEW 285   K\LN/BONN  1300               
+OL,6,GOS 110   WIEN       1115 29.11.26      
+OL,7,FBQ 1991  ROM/FIUMIC 1505 29.11.26      
+OL,8,GOS 110   WIEN       1140 30.11.26      
+OL,23,F12:20hGFlughafen KlagenfurtF0463/41500 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

@@ -1,22 +1,50 @@
 DE,WDR-TEXT 698
-PN,69800
-SC,0000
-PS,8208
+PN,69801
+SC,0001
+PS,C200
 CT,15,T
-OL,0,     G698 WDR Text GFr 27.11.26 07:48:30
+OL,0,     G698 WDR Text GFr 27.11.26 17:48:07
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, f}r A52,A57,A59,A61                    
-OL,5, Stand: 27.11.2026 07:43 Uhr            
-OL,7, Die A59 K|ln Richtung D}sseldorf ist   
-OL,8, zwischen Monheim und D}sseldorf-S}d    
-OL,9, voraussichtlich bis Mitte n{chsten     
-OL,10, Jahres wegen Bauarbeiten gesperrt.     
-OL,12, Die A59 K|ln Richtung D}sseldorf ist   
-OL,13, zwischen Monheim und D}sseldorf-S}d    
-OL,14, voraussichtlich bis Mitte n{chsten     
-OL,15, Jahres wegen Bauarbeiten gesperrt.     
+OL,5, Stand: 27.11.2026 17:43 Uhr            
+OL,7, A52 D}sseldorf Richtung Essen zwischen 
+OL,8, Essen-S}d und Dreieck Essen-Ost etwa 10
+OL,9, Minuten plus, 2 km Stau                
+OL,11, A57 Nimwegen Richtung K|ln zwischen    
+OL,12, Moers-Kapellen und Kreuz Meerbusch etwa
+OL,13, 10 Minuten plus, 5 km stockender       
+OL,14, Verkehr                                
+OL,16, Die A59 K|ln Richtung D}sseldorf ist   
+OL,17, zwischen Monheim und D}sseldorf-S}d    
+OL,18, voraussichtlich bis Mitte n{chsten     
+OL,19, Jahres wegen Bauarbeiten gesperrt.     
+OL,21, Die A59 K|ln Richtung D}sseldorf ist   
+OL,22, zwischen Monheim und D}sseldorf-S}d    
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 697B]G+ 699  \                     
+OL,24,A]G- 697B]G+ 699  \               G(1/2)
+FL,697,699,0,0,0,100
+PN,69802
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G698 WDR Text GFr 27.11.26 17:48:07
+OL,1,]D]        G]               @]  CVERKEHR
+OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
+OL,3,]T5                                
+OL,4, voraussichtlich bis Mitte n{chsten     
+OL,5, Jahres wegen Bauarbeiten gesperrt.     
+OL,7, A59 Duisburg Richtung Dinslaken        
+OL,8, zwischen Duisburg-Duissern und Kreuz   
+OL,9, Duisburg-Nord etwa 10 Minuten plus, 5  
+OL,10, km stockender Verkehr                  
+OL,12, A59 Dinslaken Richtung Duisburg        
+OL,13, zwischen Duisburg-Marxloh und Kreuz    
+OL,14, Duisburg 3 km stockender Verkehr       
+OL,16, A59 K|ln Richtung Bonn zwischen Dreieck
+OL,17, Heumar und Flughafen K|ln/Bonn etwa 10 
+OL,18, Minuten plus, 3 km Stau                
+OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]G- 697B]G+ 699  \               G(2/2)
 FL,697,699,0,0,0,100

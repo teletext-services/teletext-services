@@ -1,22 +1,42 @@
 DE,NDR 702
-PN,70200
-SC,0000
-PS,8208
+PN,70201
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G702FNDR TEXT GFr 27.11.B01:40:58
+OL,0,       G702FNDR TEXT GFr 27.11.B11:41:09
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
-OL,4,F]T  %D     A1, A2, A7       Stand 01:05
-OL,5, A1 L}beck - Hamburg Die Norderelbbr}cke
-OL,6, wird wegen eines Schwertransports in   
-OL,7, beiden Richtungen bis circa 5 Uhr      
-OL,8, mehrfach kurzfristig gesperrt.         
-OL,10,FA2 Hannover Richtung Berlin im Kreuz   
-OL,11,FHannover-Ost ist die ]berleitung zur A7
-OL,12,FRichtung Kassel wegen eines            
-OL,13,FSchwertransports gesperrt . Die        
-OL,14,FUmleitung f}hrt: }ber A2 bis Lehrte    
+OL,4,F]T  %D     A1, A2, A7       Stand 11:10
+OL,5, A1 Bremen Richtung Osnabr}ck zwischen  
+OL,6, Uphusen/Bremen-Mahndorf und Arsten 3 km
+OL,7, stockender Verkehr                     
+OL,9,FDie A1 Bremen - Osnabr}ck wird zwischen
+OL,10,FLohne/Dinklage und Neuenkirchen/V|rden 
+OL,11,Fwegen Br}ckenarbeiten von 22 Uhr bis   
+OL,12,FMontag, 5 Uhr, in beiden Richtungen    
+OL,13,Fgesperrt. Umleitungen sind             
+OL,14,Feingerichtet.                          
+OL,16, A1 Osnabr}ck Richtung Bremen zwischen  
+OL,17, Bremen/Brinkum und Hemelingen 5 km     
+OL,18, stockender Verkehr vor der Baustelle   
 OL,23,A]G701<         SONSTIGE AUTOBAHNEN >703
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,70202
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G702FNDR TEXT GFr 27.11.B11:41:09
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
+OL,4,F]T  %D     A1, A2, A7       Stand 11:20
+OL,5, Die A1 L}beck Richtung Fehmarn ist     
+OL,6, zwischen Neustadt-Pelzerhaken und      
+OL,7, Lensahn wegen Bergungsarbeiten         
+OL,8, gesperrt, dadurch staut es sich. Die   
+OL,9, Umleitung f}hrt }ber die U93.          
+OL,23,A]G701<         SONSTIGE AUTOBAHNEN >703
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

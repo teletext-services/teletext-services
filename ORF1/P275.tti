@@ -1,25 +1,63 @@
 DE,ORF1 275
-PN,27500
-SC,0000
-PS,8208
+PN,27501
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G275FORF1   GFr 27.11.26 02:12:04
+OL,0,       G275FORF1   GFr 27.11.26 12:11:40
 OL,1,A]G                            Langlauf 
 OL,2,A]GSPORT  ]A                           \
-OL,3,Q#########G                             
+OL,3,Q#########G                        1/3  
+OL,4,FWeltcup in Ruka, Freitag               
+OL,6,FDamen, 10 km klassisch                 
+OL,7,  1. Ebba Andersson         SWE 25:19,4 
+OL,8,  2. Linn Svahn             SWE   + 9,1 
+OL,9,  3. Frida Karlsson         SWE    10,2 
+OL,10,  4. Natalja Terentewa      AIN    19,0 
+OL,11,  5. Heidi Weng             NOR    23,0 
+OL,12,  6. Johanna Matintalo      FIN    31,9 
+OL,13,Fweiters                                
+OL,14, 10. Teresa Stadlober       AUT    42,8 
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,27502
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G275FORF1   GFr 27.11.26 12:11:40
+OL,1,A]G                            Langlauf 
+OL,2,A]GSPORT  ]A                           \
+OL,3,Q#########G                        2/3  
+OL,4,FWeltcup                                
+OL,6,FDamen, nach 1 Bewerb                   
+OL,7,  1. Ebba Andersson           SWE   100 
+OL,8,  2. Linn Svahn               SWE    95 
+OL,9,  3. Frida Karlsson           SWE    90 
+OL,10,Fweiters                                
+OL,11, 10. Teresa Stadlober         AUT    63 
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,27503
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       G275FORF1   GFr 27.11.26 12:11:40
+OL,1,A]G                            Langlauf 
+OL,2,A]GSPORT  ]A                           \
+OL,3,Q#########G                        3/3  
 OL,4,FWeltcup in Ruka, Programm              
 OL,6,CFreitag                                
-OL,7, Damen: 10 km klassisch        10.30hF* 
-OL,8, Herren: 10 km klassisch       13.00hF* 
-OL,10,CSamstag                                
-OL,11, Sprint klassisch              11.15hF* 
-OL,13,CSonntag                                
-OL,14, Herren: 20 km MS Skating      10.00h   
-OL,15, Damen: 20 km MS Skating       11.55hF* 
-OL,17,F\SV-Aufgebot:GHeidi Bucher, Magdalena  
-OL,18,GScherz, Teresa Stadlober; Tobias Gan-  
-OL,19,Gner, Benjamin Moser, Lukas Mrkonjic,   
-OL,20,GMika Vermeulen                         
+OL,7, Herren: 10 km klassisch       13.00hF* 
+OL,9,CSamstag                                
+OL,10, Sprint klassisch              11.15hF* 
+OL,12,CSonntag                                
+OL,13, Herren: 20 km MS Skating      10.00h   
+OL,14, Damen: 20 km MS Skating       11.55hF* 
+OL,16,F\SV-Aufgebot:GHeidi Bucher, Magdalena  
+OL,17,GScherz, Teresa Stadlober; Tobias Gan-  
+OL,18,Gner, Benjamin Moser, Lukas Mrkonjic,   
+OL,19,GMika Vermeulen                         
 OL,23,Q,,,,,,F* live ORF1Q,G* live ORF Sport+ 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

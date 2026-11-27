@@ -1,22 +1,76 @@
 DE,SWR-BW 512
-PN,51200
-SC,0000
-PS,8208
+PN,51201
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G04:56:16
+OL,0,       BSWR BW C   Fr, 27.11.26G14:56:00
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
 OL,4,             Bundesstra~en              
-OL,6,CB295FStuttgart                         
-OL,7, Feuerbacher Tunnel in beiden Richtungen
-OL,8, Tunnel gesperrt,                       
-OL,9, Tunnelwartungsarbeiten, bis heute ca.  
-OL,10, 05:00 Uhr                              
-OL,12,CB456FUsingen Richtung Weilburg         
-OL,13, zwischen Abzweig nach Hirschhausen und 
-OL,14, Weilburg Richtungsfahrbahn gesperrt,   
-OL,15, Reinigungsarbeiten                     
-OL,23,D]GStand:27.11. 04:54   ]bersicht 501 >>
+OL,6,CB10FPforzheim Richtung M}hlacker       
+OL,7, zwischen Niefern und Enzberg Gefahr    
+OL,8, durch ungesicherte Unfallstelle        
+OL,10,CB14FStuttgart Richtung Backnang        
+OL,11, zwischen Waiblingen-Mitte und          
+OL,12, Schwaikheim defekter PKW auf dem       
+OL,13, Standstreifen                          
+OL,15,CB28FHittistetten Richtung Neu-Ulm      
+OL,16, zwischen Senden und Neu-Ulm Gefahr     
+OL,17, durch Gegenst{nde auf der Fahrbahn     
+OL,23,D]GStand:27.11. 14:54   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,51202
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BSWR BW C   Fr, 27.11.26G14:56:01
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,             Bundesstra~en              
+OL,6,CB30FGaisbeuren, Bundesstra~e           
+OL,7, zwischen Dellenhag und Kirchweg in     
+OL,8, beiden Richtungen Gefahr durch         
+OL,9, ungesicherte Unfallstelle              
+OL,11,CB30FBiberach Richtung Ulm              
+OL,12, Neu-Ulm ]berleitung zur B28 Richtung   
+OL,13, Neu-Ulm 2 km Stau, Zeitverlust von bis 
+OL,14, zu 10 Minuten, Unfallaufnahme,         
+OL,15, Bergungsarbeiten                       
+OL,17,CB413FHachenburg Richtung Bendorf       
+OL,18, zwischen Abzweig nach Marienhausen und 
+OL,19, Dierdorf Gefahr durch Gegenst{nde      
+OL,20, (mehrere Steine) auf der Fahrbahn,     
+OL,21, Polizei ist benachrichtigt             
+OL,23,D]GStand:27.11. 14:54   ]bersicht 501 >>
+OL,24,A]berblick  BNachrichten CWetter  FSport
+FL,101,112,151,200,0,100
+PN,51203
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       BSWR BW C   Fr, 27.11.26G14:56:01
+OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
+OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
+OL,3,T#########"######################"######
+OL,4,             Bundesstra~en              
+OL,6,CB43AFObertshausen Richtung Hanauer     
+OL,7,FKreuz                                  
+OL,8, zwischen Hanau-Hafen in Gro~auheim und 
+OL,9, Hanau-Wolfgang Unfallaufnahme auf dem  
+OL,10, rechten Fahrstreifen, rechter          
+OL,11, Fahrstreifen gesperrt, 3 km Stau       
+OL,13,CB523FSchwenningen - Weilersbach        
+OL,14, in H|he                                
+OL,15, Villingen-Schwenningen-Weilersbach     
+OL,16, Gasse f}r Rettungs- und                
+OL,17, Einsatzfahrzeuge bilden,               
+OL,18, Unfallaufnahme, beide Fahrtrichtungen  
+OL,19, gesperrt, ortskundige Autofahrer werden
+OL,20, gebeten, das Gebiet weitr{umig zu      
+OL,21, umfahren                               
+OL,23,D]GStand:27.11. 14:54   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

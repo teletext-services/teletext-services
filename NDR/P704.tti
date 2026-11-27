@@ -1,24 +1,43 @@
 DE,NDR 704
-PN,70400
-SC,0000
-PS,8208
+PN,70401
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G704FNDR TEXT GFr 27.11.B01:41:25
+OL,0,       G704FNDR TEXT GFr 27.11.B11:42:07
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
-OL,4,F]T  %D     Bundesstra~en    Stand 01:05
+OL,4,F]T  %D     Bundesstra~en    Stand 10:50
 OL,5, Die B248, B243 Braunschweig - Northeim 
 OL,6, ist in Seesen in H|he des Abzweiges zur
 OL,7, B248 wegen Bauarbeiten bis zum 11.     
 OL,8, Dezember in beiden Richtungen gesperrt.
-OL,10,FBremen: die B6 Neuenlander Stra~e ist  
-OL,11,Fin H|he Kattenturmer Heerstra~e im     
-OL,12,FTunnel wegen Bauarbeiten bis Anfang    
-OL,13,FM{rz in beiden Richtungen gesperrt. Die
-OL,14,FKreuzung Neuenlander                   
-OL,15,FStra~e/Kattenturmer Heerstra~e ist     
-OL,16,Fweiterhin befahrbar                    
+OL,10,FHannover: Der S}dschnellweg wird       
+OL,11,Fzwischen Landwehrkreisel und           
+OL,12,FSeelhorster Kreuz wegen Bauarbeiten von
+OL,13,F22 Uhr bis Montag, 5 Uhr, in beiden    
+OL,14,FRichtungen gesperrt. Bitte folgen Sie  
+OL,15,Fder Beschilderung und nicht dem        
+OL,16,FNavigationsger{t.                      
 OL,23,A]G701<               NIEDERSACHSEN >705
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,70402
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G704FNDR TEXT GFr 27.11.B11:42:07
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD VERKEHRSMELDUNGEN           
+OL,4,F]T  %D     Bundesstra~en    Stand 10:50
+OL,5, Bremen: die B6 Neuenlander Stra~e ist  
+OL,6, in H|he Kattenturmer Heerstra~e im     
+OL,7, Tunnel wegen Bauarbeiten bis Anfang    
+OL,8, M{rz in beiden Richtungen gesperrt. Die
+OL,9, Kreuzung Neuenlander                   
+OL,10, Stra~e/Kattenturmer Heerstra~e ist     
+OL,11, weiterhin befahrbar                    
+OL,23,A]G701<               NIEDERSACHSEN >705
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

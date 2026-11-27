@@ -3,10 +3,10 @@ PN,39101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G391FORF2   GFr 27.11.26 02:30:53
+OL,0,       G391FORF2   GFr 27.11.26 12:30:54
 OL,1,A]G              Radio Nieder|sterreich 
 OL,2,A]GRADIO  ]A                  Programm \
-OL,3,Q#########G                        1/2  
+OL,3,Q#########G                        1/3  
 OL,4,F 5:00 Guten Morgen Nieder|sterreich    
 OL,5,F      Aufstehen mit den gr|~ten Hits   
 OL,6,F      aller Zeiten und der besten      
@@ -30,10 +30,10 @@ PN,39102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G391FORF2   GFr 27.11.26 02:30:53
+OL,0,       G391FORF2   GFr 27.11.26 12:30:54
 OL,1,A]G              Radio Nieder|sterreich 
 OL,2,A]GRADIO  ]A                  Programm \
-OL,3,Q#########G                        2/2  
+OL,3,Q#########G                        2/3  
 OL,4,F13:00 Radio N\ am Nachmittag           
 OL,5,F      3 Stunden lang Entspannung,      
 OL,6,F      Stimmung und r{tseln mit der     
@@ -45,10 +45,27 @@ OL,11,G      Verkehrshinweisen
 OL,12,G      N\-Journale um 17:00 und 18:00   
 OL,13,G      Uhr mit den wichtigsten          
 OL,14,G      Meldungen vom Tag                
-OL,15,F22:00 Radio Nieder|sterreich           
-OL,16,F      Nachtschw{rmer                   
-OL,17,F      mit Hits und Oldies durch die    
-OL,18,F      Nacht                            
+OL,15,G      (19:00) Nachrichten              
+OL,16,F19:00 Radio Vanillekipferl             
+OL,17,G20:00 "G'sungen und gspielt"           
+OL,18,F20:30 F}r Freunde der Blasmusik        
+OL,19,G21:00 Tonk}nstler - Klassisches aus    
+OL,20,G      Nieder|sterreich                 
+OL,23,Q,GNachrichten aus Nieder|sterreich >702
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,39103
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       G391FORF2   GFr 27.11.26 12:30:54
+OL,1,A]G              Radio Nieder|sterreich 
+OL,2,A]GRADIO  ]A                  Programm \
+OL,3,Q#########G                        3/3  
+OL,4,F22:00 Radio Nieder|sterreich           
+OL,5,F      Nachtschw{rmer                   
+OL,6,F      mit Hits und Oldies durch die    
+OL,7,F      Nacht                            
 OL,23,Q,GNachrichten aus Nieder|sterreich >702
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
