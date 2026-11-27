@@ -3,42 +3,43 @@ PN,10501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GDo 26 Nov F01:09:07
+OL,0,         GFORUM64   GFr 27 Nov F00:22:12
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EDefender of the Crown - Tips, Taktik,  
-OL,3,ETalk (OT aus: Was spielt ihr derzeit so
-OL,4,Eam C64?)                               
-OL,6,CAntwort:  BAnyTaste                    
-OL,7,CComments: B26                          
-OL,8,F                                       
-OL,9,FJa, auch ich liebe Defender of the     
-OL,10,FCrown und fand immer besonders Schade, 
-OL,11,Fdass es keine Mehrspieler-Option daf}r 
-OL,12,Fgab, so dass man es mit bis zu 3       
-OL,13,FSpielern spielen kann (da es eben auch 
-OL,14,F3 Saxon-Burgen in jeder Partie gibt).  
-OL,16,FZuerst geschafft habe ich das          
-OL,18,CErster Beitrag:                        
-OL,20,GDefender Of The Crown                  
-OL,22,GMmh... vermutlich muss ich das noch ein
-OL,23,GWeilchen }ben aber so wirklich springt 
+OL,2,ERUST Compiler                          
+OL,4,CAntwort:  Bdrazil                      
+OL,5,CComments: B13                          
+OL,6,F                                       
+OL,7,FNeue Version des c64 Rust Compiler     
+OL,8,Fhttps://github.com/guidobonerz/c6      
+OL,9,Fs/tag/v0.6                             
+OL,11,FNeue Features:                         
+OL,13,FPerformance/Codesize Tuning Auftrennung
+OL,14,Fdes Grafik Bibliothek in Hires und     
+OL,15,FMulticolor 3D Bibliothek mit           
+OL,16,FPerspektiven Option und DoubleBuffering
+OL,17,Fje nach Build                          
+OL,19,CErster Beitrag:                        
+OL,21,GNabend zusammen.                       
+OL,23,GWer immer schonmal auch in einer       
 OL,24,D]FForum64.de RSS feed            (1/2) 
 FL,0,0,0,0,0,100
 PN,10502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GDo 26 Nov F01:09:07
+OL,0,         GFORUM64   GFr 27 Nov F00:22:12
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gder Funke nicht }ber. Gibt es          
-OL,4,Geigentlich irgendeine Taktik f}r das   
-OL,5,GFechten wenn man eine Burg infiltriert.
-OL,6,G(The Raid) ? Irgendwie sehe ich da null
-OL,7,GTaktiken bzw. Raum f}r Taktiken.       
-OL,8,GMeistens h{mmer ich auf den Knopf und  
-OL,9,Gwerde dann platt gemacht. Okay, dass   
-OL,10,Gman Blocken kann habe ich auch noch    
-OL,11,Gverstanden. Aber das wirkt alles sehr  
-OL,12,Gzufallsgesteuert.                      
+OL,3,Gj}ngeren/moderneren Hochsprache als C  
+OL,4,Gf}r den C64 entwickeln wollte kann das 
+OL,5,Gjetzt mit Rust f}r den C64 tun.        
+OL,7,GNein, es ist kein Compiler der auf dem 
+OL,8,GC64 l{uft. Er l{uft unter Windows,     
+OL,9,GLinux und Mac, versteht ein gewisses   
+OL,10,GSubset von Rust.                       
+OL,12,GJa, dieser Compiler wurde von KI       
+OL,13,Gentwickelt                             
+OL,15,GAls Beispiel mal das diagonal.prg      
+OL,17,GUnd jetzt noch der SourceCode dazu.    
+OL,19,G(Versteckter Text)                     
 OL,24,D]FForum64.de RSS feed            (2/2) 
 FL,0,0,0,0,0,100

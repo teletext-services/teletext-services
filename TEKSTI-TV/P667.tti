@@ -3,28 +3,28 @@ PN,66701
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G667 YLE TEKSTI-TV 26.03.16:09:39
-OL,1,B]DKONFERENSSILIIGA      D]G26.11.  1/2 
+OL,0,       G667 YLE TEKSTI-TV 27.03.05:56:25
+OL,1,B]DKONFERENSSILIIGA      D]G26.11.  1/5 
 OL,2,K                                       
-OL,3, Kairat Almaty - Mj{llby      G17.30    
-OL,4,K                                       
-OL,5, Ajax          - Thun         G19.45    
-OL,6,K                                       
-OL,7, Pafos FC      - Midtjylland  G19.45    
-OL,8,K                                       
-OL,9, Brighton      - Uni. Craiova G19.45    
-OL,10,K                                       
-OL,11, Brann         - Aarhus       G19.45    
-OL,12,K                                       
-OL,13, Hearts        - Monaco       G19.45    
-OL,14,K                                       
-OL,15, Jablonec      - Lugano       G19.45    
-OL,16,K                                       
-OL,17, Kauno Z       - Riga FC      G19.45    
-OL,18,K                                       
-OL,19, Iberia 1999   - Getafe       G19.45    
-OL,20,K                                       
-OL,21, Egnatia       - Lincoln Red IG19.45    
+OL,3, Kairat Almaty - Mj{llby      B1-0 (1-0)
+OL,4,FTapalov      14                        
+OL,5,K                                       
+OL,6, Ajax          - Thun         B4-0 (2-0)
+OL,7,FBounida      06                        
+OL,8,FLeonardo     41                        
+OL,9,FBounida      70                        
+OL,10,FBerghuis     89                        
+OL,11,K                                       
+OL,12, Pafos FC      - Midtjylland  B0-2 (0-1)
+OL,13,                FRajovic      43        
+OL,14,                FGogorza      82        
+OL,15,K                                       
+OL,16, Brighton      - Uni. Craiova B4-0 (2-0)
+OL,17,FOsman        03AScreciu    # 39        
+OL,18,FCuyper       33                        
+OL,19,FKostoulas    61                        
+OL,20,FOsman        63                        
+OL,21,K                                       
 OL,22,K                                       
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
@@ -33,24 +33,114 @@ PN,66702
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G667 YLE TEKSTI-TV 26.03.16:09:39
-OL,1,B]DKONFERENSSILIIGA      D]G26.11.  2/2 
+OL,0,       G667 YLE TEKSTI-TV 27.03.05:56:25
+OL,1,B]DKONFERENSSILIIGA      D]G26.11.  2/5 
 OL,2,K                                       
-OL,3, Braga         - KuPS         G22.00    
-OL,4,K                                       
-OL,5, Freiburg      - FC Twente    G22.00    
-OL,6,K                                       
-OL,7, Gent          - Crvena ZvezdaG22.00    
+OL,3, Brann         - Aarhus       B1-4 (0-2)
+OL,4,FCastro     rp51FBech         25        
+OL,5,                FGretarsson   39        
+OL,6,                FTchamche     56        
+OL,7,                FKnudsen      60        
 OL,8,K                                       
-OL,9, Banja Luka    - Atalanta     G22.00    
-OL,10,K                                       
-OL,11, Hajduk Split  - St.Truiden   G22.00    
+OL,9, Hearts        - Monaco       B2-3 (2-2)
+OL,10,FAltena       16FBalogun    rp25        
+OL,11,FKerjota      44FDiop         41        
+OL,12,                FBalogun      90+4      
+OL,13,K                                       
+OL,14, Jablonec      - Lugano       B2-0 (0-0)
+OL,15,FCedidla      70                        
+OL,16,FJawo         86                        
+OL,17,K                                       
+OL,18, Kauno Z       - Riga FC      B2-0 (0-0)
+OL,19,FKalik        56ASiqueira   # 40        
+OL,20,FDebeljuh   rp61APiric      # 45+4      
+OL,21,K                                       
+OL,22, Iberia 1999   - Getafe       B1-0 (1-0)
+OL,23,FKobuladze    26AMangala    # 59        
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,66703
+SC,0003
+PS,C100
+CT,15,T
+OL,0,       G667 YLE TEKSTI-TV 27.03.05:56:25
+OL,1,B]DKONFERENSSILIIGA      D]G26.11.  3/5 
+OL,2,K                                       
+OL,3, Egnatia       - Lincoln Red IB2-1 (0-0)
+OL,4,FAlbanese     48FIdrissi      79        
+OL,5,FMedeiros     81                        
+OL,6,K                                       
+OL,7, Braga         - KuPS         B4-0 (2-0)
+OL,8,FVictor       17                        
+OL,9,FNavarro      30                        
+OL,10,FDorgeles     71                        
+OL,11,FMilosevic    82                        
 OL,12,K                                       
-OL,13, Nordsj{lland  - PanathinaikosG22.00    
+OL,13, Freiburg      - FC Twente    B2-1 (1-0)
+OL,14,FIrie         10FTaha         62        
+OL,15,GGinter  erp90+2                        
+OL,16,FBeste      90+3                        
+OL,17,K                                       
+OL,18, Gent          - Crvena ZvezdaB1-1 (1-0)
+OL,19,FAraujo       26FGashtarov    85        
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,66704
+SC,0004
+PS,C100
+CT,15,T
+OL,0,       G667 YLE TEKSTI-TV 27.03.05:56:25
+OL,1,B]DKONFERENSSILIIGA      D]G26.11.  4/5 
+OL,2,K                                       
+OL,3, Banja Luka    - Atalanta     B2-3 (2-0)
+OL,4,FJuricic      22FKrstovic     86        
+OL,5,FDeket        30FKolasinac    90        
+OL,6,APascual    # 75FZappacosta   90+4      
+OL,7,AHerrera    # 88                        
+OL,8,K                                       
+OL,9, Hajduk Split  - St.Truiden   B0-2 (0-1)
+OL,10,                FBazdar       45+1      
+OL,11,                FShinkawa     51        
+OL,12,K                                       
+OL,13, Nordsj{lland  - PanathinaikosB3-2 (0-1)
+OL,14,FLind         61FJagusic      45        
+OL,15,FKristianse om78FRastoder     55        
+OL,16,FLind         80                        
+OL,17,K                                       
+OL,18, Escaldes      - K||penhamina B2-0 (1-0)
+OL,19,FLopez        19ADelaney    # 54        
+OL,20,FChouaib    rp59AMarkgr f   # 57        
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,66705
+SC,0005
+PS,C100
+CT,15,T
+OL,0,       G667 YLE TEKSTI-TV 27.03.05:56:25
+OL,1,B]DKONFERENSSILIIGA      D]G26.11.  5/5 
+OL,2,K                                       
+OL,3, TsSKA Sofia   - Trabzonspor  B1-2 (1-0)
+OL,4,FCabral     om33FSalah        69        
+OL,5,                FSaviolo      90+3      
+OL,6,K                                       
+OL,7,K                                       
+OL,8,K                                       
+OL,9,K                                       
+OL,10,K                                       
+OL,11,K                                       
+OL,12,K                                       
+OL,13,K                                       
 OL,14,K                                       
-OL,15, Escaldes      - K||penhamina G22.00    
+OL,15,K                                       
 OL,16,K                                       
-OL,17, TsSKA Sofia   - Trabzonspor  G22.00    
+OL,17,K                                       
 OL,18,K                                       
 OL,19,K                                       
 OL,20,K                                       

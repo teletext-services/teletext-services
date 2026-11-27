@@ -1,9 +1,9 @@
 DE,ARD-TEXT 671
-PN,67100
-SC,0000
-PS,8208
+PN,67101
+SC,0001
+PS,C200
 CT,15,T
-OL,0,      BARD-TEXT 671CDon 26 Nov  16:15:49
+OL,0,      BARD-TEXT 671CDon 26 Nov  23:40:57
 OL,1,RppppppppTpppppppppppppppppppppppppppppp
 OL,2,RD]G       Wintersport:FWeltcup 
 OL,3,R########T##############################
@@ -17,14 +17,104 @@ OL,10,CFreitag, 27.November
 OL,11,FLanglauf: Weltcup in Ruka/FIN          
 OL,12,G10.30 Uhr: 10 km Klassik/F             
 OL,13,G13.00 Uhr: 10 km Klassik/M             
-OL,14,FBob: Weltcup in Altenberg/GER          
-OL,15,G11.00 Uhr: Monobob/F                   
-OL,16,FNord.Kombination: Weltcup in Ruka/FIN  
-OL,17,G12.00/15.30 Uhr: Gro~schanze+7,5 km/M  
-OL,18,FSkeleton: Weltcup in Altenberg/GER     
-OL,19,G14.00 Uhr: M{nner                      
-OL,20,FBiathlon: Weltcup in Kontiolahti/FIN   
-OL,21,G16.10 Uhr: 15 km Einzel/F              
+OL,14,G                                       
+OL,15,FBob: Weltcup in Altenberg/GER          
+OL,16,G10.00 Uhr: Monobob/F                   
+OL,17,G                                       
+OL,18,FNord.Kombination: Weltcup in Ruka/FIN  
+OL,19,G12.00/15.30 Uhr: Gro~schanze+7,5 km/M  
+OL,20,G                                       
+OL,21,G                                       
+OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,23,F670G<<            1/4            mehr >
+OL,24,AStartseite   BSport    CWetter   FB|rse
+FL,100,200,171,710,0,100
+PN,67102
+SC,0002
+PS,C200
+CT,15,T
+OL,0,      BARD-TEXT 671CDon 26 Nov  23:40:57
+OL,1,RppppppppTpppppppppppppppppppppppppppppp
+OL,2,RD]G       Wintersport:FWeltcup 
+OL,3,R########T##############################
+OL,4,FTermine im ]berblick (MEZ)             
+OL,5,G                                       
+OL,6,CFreitag, 27.November                   
+OL,7,FSkeleton: Weltcup in Altenberg/GER     
+OL,8,G13.00 Uhr: M{nner                      
+OL,9,G                                       
+OL,10,FBiathlon: Weltcup in Kontiolahti/FIN   
+OL,11,G16.10 Uhr: 15 km Einzel/F              
+OL,12,G                                       
+OL,13,CSamstag, 28.November                   
+OL,14,G                                       
+OL,15,FRodeln: Weltcup in Winterberg/GER      
+OL,16,G9.02/10.49 Uhr: Doppelsitzer/M         
+OL,17,G9.53/11.31 Uhr: Doppelsitzer/F         
+OL,18,G12.17/13.45 Uhr: Einzel/M              
+OL,19,G                                       
+OL,20,FNord.Kombination: Weltcup in Ruka/FIN  
+OL,21,G10.15/14.30 Uhr: Gro~schanze+10 km/M   
+OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,23,F670G<<            2/4            mehr >
+OL,24,AStartseite   BSport    CWetter   FB|rse
+FL,100,200,171,710,0,100
+PN,67103
+SC,0003
+PS,C200
+CT,15,T
+OL,0,      BARD-TEXT 671CDon 26 Nov  23:40:57
+OL,1,RppppppppTpppppppppppppppppppppppppppppp
+OL,2,RD]G       Wintersport:FWeltcup 
+OL,3,R########T##############################
+OL,4,FTermine im ]berblick (MEZ)             
+OL,5,G                                       
+OL,6,CSamstag, 28.November                   
+OL,7,FSkeleton: Weltcup in Altenberg/GER     
+OL,8,G10.00 Uhr: Frauen                      
+OL,9,G18.00 Uhr: Mixed-Team                  
+OL,10,G                                       
+OL,11,FLanglauf: Weltcup in Ruka/FIN          
+OL,12,G11.15 Uhr: Sprint Klassik/M+F          
+OL,13,G                                       
+OL,14,FBiathlon: Weltcup in Kontiolahti/FIN   
+OL,15,G13.10 Uhr: Single-Mixed-Staffel        
+OL,16,G15.15 Uhr: Mixed-Staffel               
+OL,17,G                                       
+OL,18,FSkispringen: Weltcup in Hinzenbach/AUT 
+OL,19,G13.30 Uhr: Frauen, Normalschanze       
+OL,20,G                                       
+OL,21,G                                       
+OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,23,F670G<<            3/4            mehr >
+OL,24,AStartseite   BSport    CWetter   FB|rse
+FL,100,200,171,710,0,100
+PN,67104
+SC,0004
+PS,C200
+CT,15,T
+OL,0,      BARD-TEXT 671CDon 26 Nov  23:40:57
+OL,1,RppppppppTpppppppppppppppppppppppppppppp
+OL,2,RD]G       Wintersport:FWeltcup 
+OL,3,R########T##############################
+OL,4,FTermine im ]berblick (MEZ)             
+OL,5,G                                       
+OL,6,CSamstag, 28.November                   
+OL,7,FBob: Weltcup in Altenberg/GER          
+OL,8,G14.00 Uhr: Zweierbob/M                 
+OL,9,G                                       
+OL,10,FSki alpin: Weltcup in Killington/USA   
+OL,11,G15.30/18.30 Uhr: Riesenslalom/F        
+OL,12,G                                       
+OL,13,FSkispringen: Weltcup in Ruka/FIN       
+OL,14,G16.30 Uhr: M{nner, Gro~schanze         
+OL,15,G                                       
+OL,16,FSki alpin: Weltcup, Copper Mountain/USA
+OL,17,G19.45 Uhr: Super-G/M                   
+OL,18,G                                       
+OL,19,G                                       
+OL,20,G                                       
+OL,21,G                                       
 OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,F670G<<      Gesamtst{nde         >>F690
 OL,24,AStartseite   BSport    CWetter   FB|rse

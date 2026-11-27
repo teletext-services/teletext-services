@@ -3,57 +3,57 @@ PN,47201
 SC,0001
 PS,C200
 CT,25,T
-OL,0,          G472BBMN1Gdo 26.11.26 10:56:50
+OL,0,          G472BBMN1Gdo 26.11.26 23:49:34
 OL,1,T]GEINDHOVEN VERTREKKEN/DEPARTURES 1/5  
 OL,2,T]G                                     
-OL,3,V]DLas Palmas de Gran Canaria Transavia 
-OL,4,T]FArrecife TransaviaE6:55              
-OL,5,V]DPrague TransaviaE6:59                
-OL,6,T]FMarrakech TransaviaE7:14             
-OL,7,V]DAlicante TransaviaE7:30              
+OL,3,V]DArrecife TransaviaE7:00              
+OL,4,T]FPrague TransaviaE7:08                
+OL,5,V]DMarrakech TransaviaE7:19             
+OL,6,T]FLas Palmas de Gran Canaria Transavia 
+OL,7,V]DAlicante TransaviaE7:43              
 OL,8,T]FSevilla TransaviaE7:44               
-OL,9,V]DSal TUI fly NetherlandsE8:30         
-OL,10,T]FLondon Ryanair  E8:59                
-OL,11,V]DSofia Wizz Air  E9:00                
-OL,12,T]FBelgrade Wizz AirE9:14               
-OL,13,V]DGdansk Wizz Air E9:19                
-OL,14,T]FBucharest Wizz Air MaltaE9:25        
-OL,15,V]DBudapest Wizz AirE9:29               
-OL,16,T]FTirana Ryanair  E11:55               
-OL,17,V]DSanta Cruz de Tenerife TransaviaE12: 
-OL,18,T]FAlicante RyanairE13:04               
-OL,19,V]DIstanbul PegasusE13:15               
-OL,20,T]FKatowice Wizz AirE13:30              
-OL,21,V]DMalaga Ryanair  E14:00               
-OL,22,T]FKrakow Ryanair  E14:09               
-OL,23,V]DSofia Ryanair   E14:25               
+OL,9,V]DSal TUI fly NetherlandsE8:37         
+OL,10,T]FLondon Ryanair  E8:57                
+OL,11,V]DSofia Wizz Air  E9:07                
+OL,12,T]FGdansk Wizz Air E9:17                
+OL,13,V]DBelgrade Wizz AirE9:36               
+OL,14,T]FBucharest Wizz Air MaltaE10:08       
+OL,15,V]DBudapest Wizz AirE10:11              
+OL,16,T]FTirana Ryanair  E11:44               
+OL,17,V]DTirana BUZZ     E11:44               
+OL,18,T]FSanta Cruz de Tenerife TransaviaE12: 
+OL,19,V]DIstanbul PegasusE13:28               
+OL,20,T]FAlicante RyanairE13:35               
+OL,21,V]DKrakow Ryanair  E14:10               
+OL,22,T]FKatowice Wizz AirE14:19              
+OL,23,V]DMalaga Ryanair  E14:36               
 FL,0,0,0,0,0,100
 PN,47202
 SC,0002
 PS,C200
 CT,25,T
-OL,0,          G472BBMN1Gdo 26.11.26 10:56:50
+OL,0,          G472BBMN1Gdo 26.11.26 23:49:34
 OL,1,T]GEINDHOVEN VERTREKKEN/DEPARTURES 1/5  
 OL,2,T]G                                     
-OL,3,V]DBergamo Ryanair E14:44               
-OL,4,T]FIasi Wizz Air MaltaE15:00            
-OL,5,V]DWarsaw Wizz Air E15:03               
-OL,6,T]FMalaga TransaviaE15:45               
-OL,7,V]DAlicante TransaviaE16:05             
-OL,8,T]FCluj-Napoca Wizz Air MaltaE16:05     
-OL,9,V]DLondon Ryanair  E16:30               
-OL,10,T]FPorto Ryanair   E17:00               
-OL,11,V]DManises TransaviaE17:05              
-OL,12,T]FMadrid Ryanair  E17:09               
-OL,13,V]DBudapest Wizz AirE17:20              
-OL,14,T]FFaro Ryanair    E18:30               
-OL,15,V]DVilnius Ryanair E19:25               
-OL,16,T]FAlicante RyanairE21:05               
-OL,17,V]DManises Ryanair E21:09               
-OL,18,T                                       
-OL,19,V                                       
-OL,20,T                                       
-OL,21,V                                       
+OL,3,V]DKrakow BUZZ     E14:44               
+OL,4,T]FBergamo Ryanair E14:44               
+OL,5,V]DSofia Ryanair   E15:08               
+OL,6,T]FIasi Wizz Air MaltaE15:14            
+OL,7,V]DWarsaw Wizz Air E15:32               
+OL,8,T]FMalaga TransaviaE15:56               
+OL,9,V]DCluj-Napoca Wizz Air MaltaE16:08     
+OL,10,T]FAlicante TransaviaE16:11             
+OL,11,V]DLondon Ryanair  E16:48               
+OL,12,T]FManises TransaviaE17:08              
+OL,13,V]DPorto Ryanair   E17:23               
+OL,14,T]FBudapest Wizz AirE17:34              
+OL,15,V]DMadrid Ryanair  E17:49               
+OL,16,T]FFaro Ryanair    E18:45               
+OL,17,V]DVilnius BUZZ    E19:23               
+OL,18,T]FVilnius Ryanair E19:24               
+OL,19,V]DEindhoven Nomad AviationE19:38       
+OL,20,T]FManises Ryanair E21:09               
+OL,21,V]DAlicante RyanairE21:50               
 OL,22,T                                       
 OL,23,V                                       
 FL,0,0,0,0,0,100
@@ -61,54 +61,83 @@ PN,47203
 SC,0003
 PS,C200
 CT,25,T
-OL,0,          G472BBMN1Gdo 26.11.26 10:56:50
+OL,0,          G472BBMN1Gdo 26.11.26 23:49:34
 OL,1,T]GEINDHOVEN AANKOMSTEN/ARRIVALS   1/5  
 OL,2,T]G                                     
-OL,3,V]DBelgrade Wizz AirE08:40              
-OL,4,T]FLondon Ryanair  E08:20               
-OL,5,V]DSofia Wizz Air  E08:25               
-OL,6,T]FGdansk Wizz Air E08:45               
-OL,7,V]DBucharest Wizz Air MaltaE08:50       
-OL,8,T]FBudapest Wizz AirE08:55              
+OL,3,V]DLondon Ryanair  E08:13               
+OL,4,T]FBelgrade Wizz AirE08:29              
+OL,5,V]DSofia Wizz Air  E08:21               
+OL,6,T]FGdansk Wizz Air E08:33               
+OL,7,V]DBucharest Wizz Air MaltaE08:48       
+OL,8,T]FBudapest Wizz AirE09:10              
 OL,9,V]DTirana Ryanair  E11:10               
-OL,10,T]FPrague TransaviaE10:25               
-OL,11,V]DOujda Jetalliance FlugbetriebsE14:05 
-OL,12,T]FAlicante RyanairE12:40               
-OL,13,V]DMalaga Ryanair  E13:20               
-OL,14,T]FMarrakech TransaviaE15:15            
-OL,15,V]DIstanbul PegasusE12:10               
-OL,16,T]FKatowice Wizz AirE12:40              
-OL,17,V]DAlicante TransaviaE13:35             
-OL,18,T]FArrecife TransaviaE16:20             
-OL,19,V]DSevilla TransaviaE14:10              
+OL,10,T]FTirana BUZZ     E10:55               
+OL,11,V]DPrague TransaviaE10:33               
+OL,12,T]FOujda Jetalliance FlugbetriebsE13:20 
+OL,13,V]DAlicante RyanairE12:42               
+OL,14,T]FMarrakech TransaviaE15:03            
+OL,15,V]DMalaga Ryanair  E13:41               
+OL,16,T]FIstanbul PegasusE12:11               
+OL,17,V]DAlicante TransaviaE13:24             
+OL,18,T]FArrecife TransaviaE16:47             
+OL,19,V]DSevilla TransaviaE14:24              
 OL,20,T]FLas Palmas de Gran Canaria Transavia 
-OL,21,V]DSofia Ryanair   E13:15               
+OL,21,V]DKatowice Wizz AirE12:40              
 OL,22,T]FKrakow Ryanair  E13:45               
-OL,23,V]DWarsaw Wizz Air E14:10               
+OL,23,V]DKrakow BUZZ     E13:45               
 FL,0,0,0,0,0,100
 PN,47204
 SC,0004
 PS,C200
 CT,25,T
-OL,0,          G472BBMN1Gdo 26.11.26 10:56:50
+OL,0,          G472BBMN1Gdo 26.11.26 23:49:34
 OL,1,T]GEINDHOVEN AANKOMSTEN/ARRIVALS   1/5  
 OL,2,T]G                                     
-OL,3,V]DIasi Wizz Air MaltaE14:10            
-OL,4,T]FBergamo Ryanair E14:05               
-OL,5,V]DPorto Ryanair   E16:35               
-OL,6,T]FLondon Ryanair  E15:50               
-OL,7,V]DSal TUI fly NetherlandsE22:20        
-OL,8,T]FCluj-Napoca Wizz Air MaltaE15:30     
-OL,9,V]DFaro Ryanair    E18:00               
-OL,10,T]FMadrid Ryanair  E16:45               
-OL,11,V]DBudapest Wizz AirE16:45              
-OL,12,T]FSanta Cruz de Tenerife TransaviaE22: 
-OL,13,V]DVilnius Ryanair E19:00               
-OL,14,T]FAlicante RyanairE20:35               
-OL,15,V]DManises Ryanair E20:45               
-OL,16,T]FMalaga TransaviaE22:30               
-OL,17,V]DAlicante TransaviaE22:20             
-OL,18,T]FManises TransaviaE22:40              
+OL,3,V]DBergamo Ryanair E13:50               
+OL,4,T]FIasi Wizz Air MaltaE14:20            
+OL,5,V]DSofia Ryanair   E14:17               
+OL,6,T]FWarsaw Wizz Air E14:42               
+OL,7,V]DPorto Ryanair   E16:38               
+OL,8,T]FSal TUI fly NetherlandsE21:43        
+OL,9,V]DCluj-Napoca Wizz Air MaltaE15:11     
+OL,10,T]FLondon Ryanair  E15:41               
+OL,11,V]DFaro Ryanair    E18:00               
+OL,12,T]FMadrid Ryanair  E16:56               
+OL,13,V]DBudapest Wizz AirE16:33              
+OL,14,T]FSanta Cruz de Tenerife TransaviaE21: 
+OL,15,V]DVilnius Ryanair E19:00               
+OL,16,T]FVilnius BUZZ    E18:56               
+OL,17,V]DAlicante RyanairE21:00               
+OL,18,T]FManises Ryanair E20:50               
+OL,19,V]DBrussels Olympic AirE19:32           
+OL,20,T]FEindhoven Nomad AviationE19:53       
+OL,21,V]DMalaga TransaviaE22:30               
+OL,22,T]FAlicante TransaviaE22:23             
+OL,23,V]DManises TransaviaE22:30              
+FL,0,0,0,0,0,100
+PN,47205
+SC,0005
+PS,C200
+CT,25,T
+OL,0,          G472BBMN1Gdo 26.11.26 23:49:34
+OL,1,T]GEINDHOVEN AANKOMSTEN/ARRIVALS   1/5  
+OL,2,T]G                                     
+OL,3,V]DAmsterdam Nomad AviationE20:39       
+OL,4,T]FAmsterdam Nomad AviationE20:39       
+OL,5,V]DAmsterdam Nomad AviationE21:50       
+OL,6,T                                       
+OL,7,V                                       
+OL,8,T                                       
+OL,9,V                                       
+OL,10,T                                       
+OL,11,V                                       
+OL,12,T                                       
+OL,13,V                                       
+OL,14,T                                       
+OL,15,V                                       
+OL,16,T                                       
+OL,17,V                                       
+OL,18,T                                       
 OL,19,V                                       
 OL,20,T                                       
 OL,21,V                                       

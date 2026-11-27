@@ -3,22 +3,22 @@ PN,26601
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G266FNDR TEXT GDo 26.11.B05:26:17
+OL,0,       G266FNDR TEXT GFr 27.11.B01:30:39
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Landesliga HH 1             
-OL,6,BFreitag, 20. November                  
-OL,7, Bramfelder SV   - SV Altengamme    6:4 
-OL,8, VfL Lohbr}gge   - Dersimspor       3:2 
-OL,10, FC Voran Ohe    - Meiendorfer SV   4:1 
-OL,11, Barsb}tteler SV - ASV Hamburg      6:3 
-OL,13, Rahlstedter SC  - SC Wentorf       5:2 
-OL,14, SC Condor       - Curslack-Neu.    1:2 
-OL,16,BSamstag, 21. November                  
-OL,17, SC V. u. M.     - Hamm United      2:5 
-OL,19,BSonntag, 22. November                  
-OL,20, FC T}rkiye      - Barmbek-U. II    4:1 
+OL,6,BFreitag, 27. November                  
+OL,7, FC Voran Ohe    - Hamm UnitedB   19.30 
+OL,8, VfL Lohbr}gge   - SC WentorfB    19.30 
+OL,10, Rahlstedter SC  - Meiendorfer SVB20.00 
+OL,11, Barsb}tteler SV - Barmbek-U. IIB 20.00 
+OL,13, SC Condor       - Bramfelder SVB 20.00 
+OL,15,BSamstag, 28. November                  
+OL,16, ASV Hamburg     - SV AltengammeB 13.00 
+OL,17, SC V. u. M.     - Curslack-Neu.B 15.00 
+OL,19,BSonntag, 29. November                  
+OL,20, FC T}rkiye      - DersimsporB    15.00 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -26,7 +26,7 @@ PN,26602
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G266FNDR TEXT GDo 26.11.B05:26:17
+OL,0,       G266FNDR TEXT GFr 27.11.B01:30:39
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -54,22 +54,25 @@ PN,26603
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G266FNDR TEXT GDo 26.11.B05:26:17
+OL,0,       G266FNDR TEXT GFr 27.11.B01:30:39
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Landesliga HH 1             
-OL,6,BFreitag, 27. November                  
-OL,7, FC Voran Ohe    - Hamm UnitedB   19.30 
-OL,8, VfL Lohbr}gge   - SC WentorfB    19.30 
-OL,10, Rahlstedter SC  - Meiendorfer SVB20.00 
-OL,11, Barsb}tteler SV - Barmbek-U. IIB 20.00 
-OL,13, SC Condor       - Bramfelder SVB 20.00 
-OL,15,BSamstag, 28. November                  
-OL,16, ASV Hamburg     - SV AltengammeB 13.00 
-OL,17, SC V. u. M.     - Curslack-Neu.B 15.00 
-OL,19,BSonntag, 29. November                  
-OL,20, FC T}rkiye      - DersimsporB    15.00 
+OL,5,BFreitag, 4. Dezember                   
+OL,6, Bramfelder SV  - SC V. u. M.B    19.00 
+OL,7, SC Wentorf     - FC T}rkiyeB     19.30 
+OL,9, Hamm United    - Rahlstedter SCB 19.30 
+OL,10, Barmbek-U. II  - ASV HamburgB    19.30 
+OL,12,BSamstag, 5. Dezember                   
+OL,13, Meiendorfer SV - VfL Lohbr}ggeB  14.00 
+OL,14, Curslack-Neu.  - FC Voran OheB   15.00 
+OL,15, SV Altengamme  - SC CondorB      15.00 
+OL,17,BSonntag, 6. Dezember                   
+OL,18, Dersimspor     - Barsb}tteler SVB15.00 
+OL,20,BFreitag, 11. Dezember                  
+OL,21, Hamm United    - SC WentorfB     19.30 
+OL,22, FC Voran Ohe   - FC T}rkiyeB     19.30 
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

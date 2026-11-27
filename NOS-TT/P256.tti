@@ -1,21 +1,21 @@
 DE,NOS-TT 256
-PN,25600
-SC,0000
-PS,8208
+PN,25601
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       BNOS-TT  256Cdon 26 nov  05:09:44
-OL,1,GW(|$|l4|,h4 |h<$| |(|$|h<|h<,GNPO      
+OL,0,       BNOS-TT  256Cvri 27 nov  01:47:36
+OL,1,GW(|$|l4|,h4 |h<$| |(|$|h<|h<,GNPOG 1/2 
 OL,2,D]W j5,j5 j5 ,  j5j5lGRADIO 1  
 OL,3,G W/ /.%/,*-$/*-$/ / / /*%/*-.    G     
 OL,4,G                                       
-OL,5,B21.00-23.00Buur,NOS/EO:   LANGS DE LIJN
+OL,5,B18.30-23.00Buur,NOS/EO:   LANGS DE LIJN
 OL,6,F                       B   EN OMSTREKEN
 OL,7,G                                       
-OL,8,G            onderwerpen volgen         
-OL,9,G                                       
-OL,10,G                                       
-OL,11,G                                       
-OL,12,G                                       
+OL,8,Bvoetbal    FEuropees voetbal:          
+OL,9,G           G18.45: Ajax-FC Thun        
+OL,10,G           G21.00: NEC-Stade Rennais   
+OL,11,G           G21.00: Sparta Praag-AZ     
+OL,12,G           G21.00: Freiburg-FC Twente  
 OL,13,G                                       
 OL,14,G                                       
 OL,15,G                                       
@@ -27,5 +27,35 @@ OL,20,G
 OL,21,G                                       
 OL,22,G                                       
 OL,23,D]Gindex tv 200 radio 250        NOS-EO 
+OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
+FL,101,102,103,601,0,100
+PN,25602
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       BNOS-TT  256Cvri 27 nov  01:47:36
+OL,1,GW(|$|l4|,h4 |h<$| |(|$|h<|h<, NPOG 2/2 
+OL,2,D]W j5,j5 j5 ,  j5j5l RADIOG1  
+OL,3,G W/ /.%/,*-$/*-$/ / / /*%/*-.          
+OL,4,G F                                     
+OL,5,B23.02-00.00 uur,N O S:      MET HET OOG
+OL,6,G                           BOP MORGEN  
+OL,7,BMet onder meer                         
+OL,8,B                                       
+OL,9,B*FDe onrust in de VVD is nog niet over 
+OL,10,B*FAtoomklokken kunnen voor de exacte   
+OL,11,G Ftijd zorgen.Maar die zijn kwetsbaar  
+OL,12,BFFvoor invloeden van buitenaf          
+OL,13,B*FWat voor rol hadden vrouwen in het   
+OL,14,F  leven van Hemingway?                 
+OL,15,B*FDanspaleis:Tankstation van           
+OL,16,G Flevensvreugde                        
+OL,17,G                                       
+OL,18,G                                       
+OL,19,G                                       
+OL,20,BPresentatie:Pieter van de Wielen       
+OL,21,G                                       
+OL,22,B(onderwerpen onder voorbehoud)         
+OL,23,D]Gindex tv 200 radio 250               
 OL,24,Anieuws Bbinnenland Cbuitenland Fsport  
 FL,101,102,103,601,0,100

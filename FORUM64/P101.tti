@@ -3,66 +3,67 @@ PN,10101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GDo 26 Nov F01:02:23
+OL,0,         GFORUM64   GFr 27 Nov F00:22:33
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EErweiterter C-Compiler: KickC Enhanced 
-OL,4,CAntwort:  Bvon Blankenburg             
-OL,5,CComments: B3                           
+OL,2,ECommodore 64 Ultimate Firmware Updates 
+OL,4,CAntwort:  Bschorsch3000                
+OL,5,CComments: B600                         
 OL,6,F                                       
-OL,7,FHallo zusammen, es gibt ein neues      
-OL,8,FRelease KickC Enhanced v0.10.2 . Neben 
-OL,9,Feiner ganzen Reihe an Bugfixes und     
-OL,10,FThread-Safety-Verbesserungen aus der   
-OL,11,FPraxis sind auch noch etliche          
-OL,12,FOptimierungen in den Passes 0 5        
-OL,13,Fdazugekommen:                          
-OL,15,FOptimizer & Code-Gen (Pass 0 5):       
+OL,7,F( )                                    
+OL,9,FDas liegt u.a. daran das bei halbwegs  
+OL,10,Faktuellem stand die einfach            
+OL,11,Faustauschbar sind. bis auf die eine    
+OL,12,Fstelle bei der aktiv gepr}ft wird ob   
+OL,13,Fdas den jetzt wirklich ein c64u ist um 
+OL,14,Fassembly64 kaputt zu machen l{uft das  
+OL,15,Fin beliebigen kombinationen einfach.   
 OL,17,CErster Beitrag:                        
-OL,19,GHallo zusammen,                        
-OL,21,Gals kleines Beiprodukt eines gr|~eren, 
-OL,22,Gnoch geheimen Projektes, an dem ich    
-OL,23,Gseit Januar arbeite, musste ich den    
+OL,19,GDie neue Firmware ist drau~en, tr{gt   
+OL,20,Gdie Nummer 1.1.0                       
+OL,22,Ghttps://www.commodore.net/downloads?cur
+OL,23,Grency=EUR                              
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,10102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GDo 26 Nov F01:02:23
+OL,0,         GFORUM64   GFr 27 Nov F00:22:33
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GKickC-Compiler von Jesper Balman       
-OL,4,GGravgaard massiv aufbohren, da ein     
-OL,5,GCompilerlauf zwischenzeitlich eine     
-OL,6,Gdreiviertel Stunde gedauert hat.       
-OL,7,GMittelfristig ist der Plan, sofern     
-OL,8,GJesper das m|chte, die beiden St{nde   
-OL,9,Gwieder zusammenzuf}hren. Im Rahmen des 
-OL,10,GRapid Developments habe ich das Projekt
-OL,11,Gjedoch vorerst unter dem Namen KickC   
-OL,12,GEnhanced auf Github geforkt. Wer das   
-OL,13,GGrundprojekt noch nicht kennt: Es      
-OL,14,Ghandelt sich um einen vollwertigen     
-OL,15,GC-Compiler, der zun{chst               
-OL,16,GKickAssembler-Code erzeugt, der dann   
-OL,17,Gwiederum in C64-Assembler umgesetzt    
-OL,18,Gwird.                                  
-OL,20,GIch will hier gar nicht so sehr auf die
-OL,21,GOriginalfeatures eingehen, da diese    
-OL,22,Gonline sehr gut dokumentiert sind. Ich 
-OL,23,Gm|chte allerdings ein paar Schlagworte 
+OL,3,GDas ist das Changelog                  
+OL,5,G( )                                    
+OL,7,GEin paar Sachen, die mir beim Flashen  
+OL,8,Gaufgefallen sind:                      
+OL,10,G- Das Update fragt als erstes, ob das  
+OL,11,GFlashdrive neu formatiert werden muss, 
+OL,12,Gich habe hier "Nein" angew{hlt und     
+OL,13,Gw}rde es - wenn es keine Probleme mit  
+OL,14,Gdem Flashdrive gibt auch nicht         
+OL,15,Gempfehlen zu machen, weil sonst alle   
+OL,16,GRoms, etc. die man dorthin kopiert hat 
+OL,17,Gweg sind                               
+OL,19,G- Das ESP Modul wird w{hrend der       
+OL,20,GFlashens mit aktualisiert              
+OL,22,G- Ich habe die Frage, ob ich die       
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,10103
 SC,0003
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GDo 26 Nov F01:02:23
+OL,0,         GFORUM64   GFr 27 Nov F00:22:33
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gerw{hnen, was ich daran verbessert und 
-OL,4,Gerweitert habe:                        
-OL,6,GMassiver Performance-Boost &           
-OL,7,GMulti-Threading: Build-Zeiten bei      
-OL,8,Ggro~en Multi-Bank-Projekten von }ber 45
-OL,9,GMinuten auf rund eine                  
+OL,3,GKonifguration resetten m|chte mit "Ja" 
+OL,4,Gbeantwortet, hier muss man vorsichtig  
+OL,5,Gsein, der C64U bootet dann, wenn er    
+OL,6,Gvorher }ber RGB lief wieder }ber CVBS, 
+OL,7,Gmein Monitor macht beides, das Bild war
+OL,8,Gdann nur monochrom, aber evtl. kann das
+OL,9,GProbleme bereiten. Ich vermute, dass es
+OL,10,Gbei HDMI egal ist, wei~ es aber nicht. 
+OL,12,G- Das Laden der alten Dolphin DOS      
+OL,13,GKonfiguration klappte nicht auf Anhieb,
+OL,14,Gich musste die Roms neu setzen und auch
+OL,15,Gdas Parallelkabel wieder aktivieren,   
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

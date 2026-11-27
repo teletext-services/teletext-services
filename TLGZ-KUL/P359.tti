@@ -4,7 +4,7 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:11
+OL,0,      BKULTURA  359Cpi@ 27 lis  06:17:48
 OL,1, D]MCPlanowane przerwy konserwacyjne    
 OL,4,  W zwi@zku z pracami konserwacyjnymi   
 OL,5,  urz@dze$ nadawczych oraz wymaganymi   
@@ -12,36 +12,37 @@ OL,6,  pracami utrzymania sieci emisyjnej
 OL,7,  przez TP Emitel sp. z o.o. w najbli{- 
 OL,8,  szym czasie planowane s@ nast`puj@ce  
 OL,9,  przerwy w emisji program_w TVP S.A.   
-OL,11, C26.11.2026                            
-OL,12, FRTCN Gda$sk/Chwaszczyno               
-OL,13, A03:00-05:30 GMUX3                     
+OL,11, C27.11.2026                            
+OL,12, FRTCN D`blin/Ryki                      
+OL,13, A00:15-03:30 GMUX3                     
 OL,14,               MUX6                     
-OL,16, FRTON Gda$sk/Ja|kowa Kopa              
-OL,17, A00:15-03:30 GMUX3                     
-OL,19, FTSR Jab}onka/g. Oskwarkowa            
-OL,20, A00:00-06:00 GMUX3                     
+OL,15, A01:00-06:00 GMUX3                     
+OL,16,               MUX6                     
+OL,18, FTSR K`trzyn/ul. ]okietka              
+OL,19, A01:00-06:00 GMUX3                     
+OL,21, FRON Mr@gowo/ul. Spacerowa             
+OL,22, A01:00-06:00 GMUX3                     
 FL,358,420,450,450,0,100
 PN,35902
 SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:11
+OL,0,      BKULTURA  359Cpi@ 27 lis  06:17:48
 OL,1, D]MCPlanowane przerwy konserwacyjne    
-OL,4, C26.11.2026                            
-OL,5, FRTCN Kielce/\wi`ty Krzy{              
-OL,6, A00:15-03:30 GMUX3                     
+OL,4, C27.11.2026                            
+OL,5, FRTCN Olsztyn/Pieczewo                 
+OL,6, A01:00-06:00 GMUX3                     
 OL,7,               MUX6                     
-OL,8, A01:00-06:00 GMUX3                     
-OL,9,               MUX6                     
-OL,11, FRTCN Le{ajsk/Giedlarowa               
-OL,12, A00:00-06:00 GMUX3                     
-OL,13,               MUX6                     
-OL,14, A00:15-03:30 GMUX3                     
-OL,15,               MUX6                     
-OL,17, FRTON Luba$/Nowa Karczma               
-OL,18, A00:15-03:30 GMUX3                     
-OL,20, FTSR Pruchnik/wzn. Na Zadach           
+OL,9, C01.12.2026                            
+OL,10, FTON Cz`stochowa/B}eszno               
+OL,11, A00:00-06:00 GMUX3                     
+OL,13, C02.12.2026                            
+OL,14, FTSR Baligr_d/g. Kiczera               
+OL,15, A00:00-06:00 GMUX3                     
+OL,17, FTSR Bircza/g. Kamienna                
+OL,18, A00:00-06:00 GMUX3                     
+OL,20, FTSR Dyn_w/g. Winnica                  
 OL,21, A00:00-06:00 GMUX3                     
 FL,358,420,450,450,0,100
 PN,35903
@@ -49,239 +50,180 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:11
+OL,0,      BKULTURA  359Cpi@ 27 lis  06:17:48
 OL,1, D]MCPlanowane przerwy konserwacyjne    
-OL,4, C26.11.2026                            
-OL,5, FTSR Starachowice/ul. Martenowska      
-OL,6, A01:00-06:00 GMUX3                     
-OL,8, FRTON Zakopane/Guba}_wka               
+OL,4, C02.12.2026                            
+OL,5, FTSR Hoczew/g. Czekaj                  
+OL,6, A00:00-06:00 GMUX3                     
+OL,8, FTSR Iwonicz-Zdr_j/Excelsior           
 OL,9, A00:00-06:00 GMUX3                     
-OL,10,               MUX6                     
-OL,11, A00:15-05:30 GMUX3                     
-OL,12,               MUX6                     
-OL,14, FTSR ]apsze Wy{ne/g. Grandeus          
-OL,15, A00:00-06:00 GMUX3                     
-OL,17, C27.11.2026                            
-OL,18, FRTCN D`blin/Ryki                      
-OL,19, A00:15-03:30 GMUX3                     
-OL,20,               MUX6                     
-OL,21, A01:00-06:00 GMUX3                     
-OL,22,               MUX6                     
+OL,11, FTSR Krzemienna/g. Ma}y Dzia}          
+OL,12, A00:00-06:00 GMUX3                     
+OL,14, FTON Lipsk/ul. Jermakowicza            
+OL,15, A01:00-06:00 GMUX3                     
+OL,17, FRTCN Opole/Chrzelice                  
+OL,18, A00:00-06:00 GMUX3                     
+OL,19,               MUX6                     
+OL,20, A00:15-03:30 GMUX3                     
+OL,21,               MUX6                     
 FL,358,420,450,450,0,100
 PN,35904
 SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:11
+OL,0,      BKULTURA  359Cpi@ 27 lis  06:17:49
 OL,1, D]MCPlanowane przerwy konserwacyjne    
-OL,4, C27.11.2026                            
-OL,5, FTSR K`trzyn/ul. ]okietka              
+OL,4, C02.12.2026                            
+OL,5, FTSR Ostr_w Mazowiecka/Podborze        
 OL,6, A01:00-06:00 GMUX3                     
-OL,8, FRON Mr@gowo/ul. Spacerowa             
-OL,9, A01:00-06:00 GMUX3                     
-OL,11, FRTCN Olsztyn/Pieczewo                 
-OL,12, A01:00-06:00 GMUX3                     
+OL,8, FTSR Posada Ja|liska                   
+OL,9, A00:00-06:00 GMUX3                     
+OL,11, FRTCN Pozna$/\rem                      
+OL,12, A00:15-03:30 GMUX3                     
 OL,13,               MUX6                     
-OL,15, C01.12.2026                            
-OL,16, FTON Cz`stochowa/B}eszno               
-OL,17, A00:00-06:00 GMUX3                     
-OL,19, C02.12.2026                            
-OL,20, FTSR Baligr_d/g. Kiczera               
+OL,14, A01:00-06:00 GMUX3                     
+OL,15,               MUX6                     
+OL,17, FTSR Ryman_w-Zdr_j/wzn. Zamczyska      
+OL,18, A00:00-06:00 GMUX3                     
+OL,20, FRTCN Rzesz_w/Sucha G_ra               
 OL,21, A00:00-06:00 GMUX3                     
+OL,22,               MUX6                     
 FL,358,420,450,450,0,100
 PN,35905
 SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:11
+OL,0,      BKULTURA  359Cpi@ 27 lis  06:17:49
 OL,1, D]MCPlanowane przerwy konserwacyjne    
 OL,4, C02.12.2026                            
-OL,5, FTSR Bircza/g. Kamienna                
-OL,6, A00:00-06:00 GMUX3                     
-OL,8, FTSR Dyn_w/g. Winnica                  
-OL,9, A00:00-06:00 GMUX3                     
-OL,11, FTSR Hoczew/g. Czekaj                  
-OL,12, A00:00-06:00 GMUX3                     
-OL,14, FTSR Iwonicz-Zdr_j/Excelsior           
-OL,15, A00:00-06:00 GMUX3                     
-OL,17, FTSR Krzemienna/g. Ma}y Dzia}          
-OL,18, A00:00-06:00 GMUX3                     
-OL,20, FTON Lipsk/ul. Jermakowicza            
-OL,21, A01:00-06:00 GMUX3                     
+OL,5, FRTCN Rzesz_w/Sucha G_ra               
+OL,6, A00:15-03:30 GMUX3                     
+OL,7,               MUX6                     
+OL,9, FSLR R_{an                             
+OL,10, A00:15-03:30 GMUX3                     
+OL,11,               MUX6                     
+OL,12, A01:00-06:00 GMUX3                     
+OL,13,               MUX6                     
+OL,15, FTSR Sanok/g. Parkowa                  
+OL,16, A00:00-06:00 GMUX3                     
+OL,18, FTSR Strzy{_w/Dzia}y                   
+OL,19, A00:00-06:00 GMUX3                     
+OL,21, FTSR Tarnawa/g. Mak_wka                
+OL,22, A00:00-06:00 GMUX3                     
 FL,358,420,450,450,0,100
 PN,35906
 SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:12
+OL,0,      BKULTURA  359Cpi@ 27 lis  06:17:49
 OL,1, D]MCPlanowane przerwy konserwacyjne    
 OL,4, C02.12.2026                            
-OL,5, FRTCN Opole/Chrzelice                  
+OL,5, FTSR Teodor_wka/Dukla                  
 OL,6, A00:00-06:00 GMUX3                     
-OL,7,               MUX6                     
-OL,8, A00:15-03:30 GMUX3                     
-OL,9,               MUX6                     
-OL,11, FTSR Ostr_w Mazowiecka/Podborze        
-OL,12, A01:00-06:00 GMUX3                     
-OL,14, FTSR Posada Ja|liska                   
-OL,15, A00:00-06:00 GMUX3                     
-OL,17, FRTCN Pozna$/\rem                      
-OL,18, A00:15-03:30 GMUX3                     
-OL,19,               MUX6                     
-OL,20, A01:00-06:00 GMUX3                     
-OL,21,               MUX6                     
+OL,8, FTSR Tr_jca/g. Jawor_w                 
+OL,9, A00:00-06:00 GMUX3                     
+OL,11, FTSR Tylawa/g. Dzia}                   
+OL,12, A00:00-06:00 GMUX3                     
+OL,14, FRTON Wroc}aw/[_rawina                 
+OL,15, A01:00-06:00 GMUX3                     
+OL,17, C03.12.2026                            
+OL,18, FRTCN Gniezno/Chojna                   
+OL,19, A00:15-03:30 GMUX3                     
+OL,20,               MUX6                     
+OL,21, A01:00-06:00 GMUX3                     
+OL,22,               MUX6                     
 FL,358,420,450,450,0,100
 PN,35907
 SC,0007
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:12
+OL,0,      BKULTURA  359Cpi@ 27 lis  06:17:49
 OL,1, D]MCPlanowane przerwy konserwacyjne    
-OL,4, C02.12.2026                            
-OL,5, FTSR Ryman_w-Zdr_j/wzn. Zamczyska      
-OL,6, A00:00-06:00 GMUX3                     
-OL,8, FRTCN Rzesz_w/Sucha G_ra               
-OL,9, A00:00-06:00 GMUX3                     
-OL,10,               MUX6                     
-OL,11, A00:15-03:30 GMUX3                     
-OL,12,               MUX6                     
-OL,14, FSLR R_{an                             
-OL,15, A00:15-03:30 GMUX3                     
-OL,16,               MUX6                     
-OL,17, A01:00-06:00 GMUX3                     
-OL,18,               MUX6                     
-OL,20, FTSR Sanok/g. Parkowa                  
-OL,21, A00:00-06:00 GMUX3                     
+OL,4, C03.12.2026                            
+OL,5, FRTON Jelenia G_ra/\nie{ne Kot}y       
+OL,6, A00:15-03:30 GMUX3                     
+OL,7,               MUX6                     
+OL,9, FRTCN Krak_w/Chor@gwica                
+OL,10, A00:00-06:00 GMUX3                     
+OL,11,               MUX6                     
+OL,12, A00:15-05:30 GMUX3                     
+OL,13,               MUX6                     
+OL,15, FTSR Stryszawa/g. Wojew_dka            
+OL,16, A00:00-06:00 GMUX3                     
+OL,18, FRTCN Szczecin/Ko}owo                  
+OL,19, A00:15-03:30 GMUX3                     
+OL,20,               MUX6                     
+OL,21, A01:00-06:00 GMUX3                     
+OL,22,               MUX6                     
 FL,358,420,450,450,0,100
 PN,35908
 SC,0008
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:12
+OL,0,      BKULTURA  359Cpi@ 27 lis  06:17:49
 OL,1, D]MCPlanowane przerwy konserwacyjne    
-OL,4, C02.12.2026                            
-OL,5, FTSR Strzy{_w/Dzia}y                   
-OL,6, A00:00-06:00 GMUX3                     
-OL,8, FTSR Tarnawa/g. Mak_wka                
-OL,9, A00:00-06:00 GMUX3                     
-OL,11, FTSR Teodor_wka/Dukla                  
-OL,12, A00:00-06:00 GMUX3                     
-OL,14, FTSR Tr_jca/g. Jawor_w                 
-OL,15, A00:00-06:00 GMUX3                     
-OL,17, FTSR Tylawa/g. Dzia}                   
-OL,18, A00:00-06:00 GMUX3                     
-OL,20, FRTON Wroc}aw/[_rawina                 
-OL,21, A01:00-06:00 GMUX3                     
+OL,4, C03.12.2026                            
+OL,5, FTSR W@growiec/ul. Mickiewicza 13a     
+OL,6, A01:00-06:00 GMUX3                     
+OL,8, C08.12.2026                            
+OL,9, FTSR Gromnik                           
+OL,10, A00:00-06:00 GMUX3                     
+OL,12, FTSR Gryb_w/g. Kamienna                
+OL,13, A00:00-06:00 GMUX3                     
+OL,15, FRTON Tarn_w/g. \w. Marcina            
+OL,16, A00:00-06:00 GMUX3                     
+OL,17,               MUX6                     
+OL,18, A00:15-05:30 GMUX3                     
+OL,19,               MUX6                     
+OL,21, C09.12.2026                            
+OL,22, FTSR Soko}owsko/Polana                 
+OL,23, A01:00-06:00 GMUX3                     
 FL,358,420,450,450,0,100
 PN,35909
 SC,0009
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:12
+OL,0,      BKULTURA  359Cpi@ 27 lis  06:17:49
 OL,1, D]MCPlanowane przerwy konserwacyjne    
-OL,4, C03.12.2026                            
-OL,5, FRTCN Gniezno/Chojna                   
-OL,6, A00:15-03:30 GMUX3                     
-OL,7,               MUX6                     
-OL,8, A01:00-06:00 GMUX3                     
-OL,9,               MUX6                     
-OL,11, FRTON Jelenia G_ra/\nie{ne Kot}y       
-OL,12, A00:15-03:30 GMUX3                     
-OL,13,               MUX6                     
-OL,15, FRTCN Krak_w/Chor@gwica                
-OL,16, A00:00-06:00 GMUX3                     
-OL,17,               MUX6                     
-OL,18, A00:15-05:30 GMUX3                     
-OL,19,               MUX6                     
-OL,21, FTSR Stryszawa/g. Wojew_dka            
-OL,22, A00:00-06:00 GMUX3                     
+OL,4, C09.12.2026                            
+OL,5, FTSR Walim/g. Ostra                    
+OL,6, A01:00-06:00 GMUX3                     
+OL,8, FRTON Wa}brzych/Che}miec               
+OL,9, A01:00-06:00 GMUX3                     
+OL,10,               MUX6                     
+OL,12, FRTCN Zamo|^/Tarnawatka                
+OL,13, A00:00-06:00 GMUX3                     
+OL,14,               MUX6                     
+OL,15, A00:15-03:30 GMUX3                     
+OL,16,               MUX6                     
+OL,18, FTON Zaskrodzie                        
+OL,19, A00:15-03:30 GMUX3                     
+OL,20, A01:00-06:00 GMUX3                     
 FL,358,420,450,450,0,100
 PN,35910
 SC,0010
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:12
+OL,0,      BKULTURA  359Cpi@ 27 lis  06:17:49
 OL,1, D]MCPlanowane przerwy konserwacyjne    
-OL,4, C03.12.2026                            
-OL,5, FRTCN Szczecin/Ko}owo                  
-OL,6, A00:15-03:30 GMUX3                     
-OL,7,               MUX6                     
-OL,8, A01:00-06:00 GMUX3                     
-OL,9,               MUX6                     
-OL,11, FTSR W@growiec/ul. Mickiewicza 13a     
-OL,12, A01:00-06:00 GMUX3                     
-OL,14, C08.12.2026                            
-OL,15, FTSR Gromnik                           
-OL,16, A00:00-06:00 GMUX3                     
-OL,18, FTSR Gryb_w/g. Kamienna                
-OL,19, A00:00-06:00 GMUX3                     
-OL,21, FRTON Tarn_w/g. \w. Marcina            
-OL,22, A00:00-06:00 GMUX3                     
-OL,23,               MUX6                     
-FL,358,420,450,450,0,100
-PN,35911
-SC,0011
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:12
-OL,1, D]MCPlanowane przerwy konserwacyjne    
-OL,4, C08.12.2026                            
-OL,5, FRTON Tarn_w/g. \w. Marcina            
-OL,6, A00:15-05:30 GMUX3                     
-OL,7,               MUX6                     
-OL,9, C09.12.2026                            
-OL,10, FTSR Soko}owsko/Polana                 
-OL,11, A01:00-06:00 GMUX3                     
-OL,13, FTSR Walim/g. Ostra                    
-OL,14, A01:00-06:00 GMUX3                     
-OL,16, FRTON Wa}brzych/Che}miec               
-OL,17, A01:00-06:00 GMUX3                     
-OL,18,               MUX6                     
-OL,20, FRTCN Zamo|^/Tarnawatka                
-OL,21, A00:00-06:00 GMUX3                     
-OL,22,               MUX6                     
-FL,358,420,450,450,0,100
-PN,35912
-SC,0012
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:12
-OL,1, D]MCPlanowane przerwy konserwacyjne    
-OL,4, C09.12.2026                            
-OL,5, FRTCN Zamo|^/Tarnawatka                
-OL,6, A00:15-03:30 GMUX3                     
-OL,7,               MUX6                     
-OL,9, FTON Zaskrodzie                        
+OL,4, C10.12.2026                            
+OL,5, FSLR Krak_w/Krzemionki                 
+OL,6, A00:00-06:00 GMUX3                     
+OL,7, A00:15-05:30 GMUX3                     
+OL,9, FRTCN Wroc}aw/\l`{a                    
 OL,10, A00:15-03:30 GMUX3                     
-OL,11, A01:00-06:00 GMUX3                     
-OL,13, C10.12.2026                            
-OL,14, FSLR Krak_w/Krzemionki                 
-OL,15, A00:00-06:00 GMUX3                     
-OL,16, A00:15-05:30 GMUX3                     
-OL,18, FRTCN Wroc}aw/\l`{a                    
-OL,19, A00:15-03:30 GMUX3                     
-OL,20,               MUX6                     
-FL,358,420,450,450,0,100
-PN,35913
-SC,0013
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BKULTURA  359Cczw 26 lis  07:56:12
-OL,1, D]MCPlanowane przerwy konserwacyjne    
-OL,4, C16.12.2026                            
-OL,5, FRTCN Bia}ystok/Krynice                
-OL,6, A01:00-06:00 GMUX3                     
-OL,7,               MUX6                     
-OL,9, FTON Plech_w                           
-OL,10, A00:00-06:00 GMUX3                     
+OL,11,               MUX6                     
+OL,13, C16.12.2026                            
+OL,14, FRTCN Bia}ystok/Krynice                
+OL,15, A01:00-06:00 GMUX3                     
+OL,16,               MUX6                     
+OL,18, FTON Plech_w                           
+OL,19, A00:00-06:00 GMUX3                     
 FL,358,420,450,450,0,100

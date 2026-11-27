@@ -3,29 +3,29 @@ PN,66501
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G665 YLE TEKSTI-TV 26.03.16:06:21
-OL,1,B]DEUROOPPA-LIIGA        D]G26.11.  1/2 
+OL,0,       G665 YLE TEKSTI-TV 27.03.05:56:21
+OL,1,B]DEUROOPPA-LIIGA        D]G26.11.  1/4 
 OL,2,K                                       
-OL,3, Olympiakos    - Milan        G19.45    
-OL,4,K                                       
-OL,5, Marseille     - Levski       G19.45    
-OL,6,K                                       
-OL,7, Plzen         - Benfica      G19.45    
+OL,3, Olympiakos    - Milan        B2-4 (1-0)
+OL,4,FMaignan    om31FHutchinson   56        
+OL,5,FSilva        49FCiss         63        
+OL,6,                FPulisic      71        
+OL,7,                FMoreira      90+5      
 OL,8,K                                       
-OL,9, St.Gilloise   - Lech Poznan  G19.45    
-OL,10,K                                       
-OL,11, Dinamo Zagreb - Leverkusen   G19.45    
+OL,9, Marseille     - Levski       B1-0 (1-0)
+OL,10,FGouiri     rp29                        
+OL,11,GGouiri    erp51                        
 OL,12,K                                       
-OL,13, Salzburg      - Ararat A     G19.45    
-OL,14,K                                       
-OL,15, Celta Vigo    - Bournemouth  G19.45    
-OL,16,K                                       
-OL,17, Besiktas      - Hapoel B     G19.45    
+OL,13, Plzen         - Benfica      B4-0 (3-0)
+OL,14,FHrosovsky    30                        
+OL,15,FAdu          43                        
+OL,16,FKabongo      44                        
+OL,17,FKabongo      46                        
 OL,18,K                                       
-OL,19, Juventus      - Omonia       G22.00    
-OL,20,K                                       
-OL,21, Lyon          - Lillestr m   G22.00    
-OL,22,K                                       
+OL,19, St.Gilloise   - Lech Poznan  B2-2 (0-2)
+OL,20,GFlorucz   erp29FAgnero       15        
+OL,21,FFlorucz      54FPalma        18        
+OL,22,FRodriguez    66                        
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -33,29 +33,89 @@ PN,66502
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G665 YLE TEKSTI-TV 26.03.16:06:21
-OL,1,B]DEUROOPPA-LIIGA        D]G26.11.  2/2 
+OL,0,       G665 YLE TEKSTI-TV 27.03.05:56:21
+OL,1,B]DEUROOPPA-LIIGA        D]G26.11.  2/4 
 OL,2,K                                       
-OL,3, Ferencvaros   - NK Celje     G22.00    
-OL,4,K                                       
-OL,5, Sparta Praha  - AZ Alkmaar   G22.00    
+OL,3, Dinamo Zagreb - Leverkusen   B0-2 (0-2)
+OL,4,                FTillman      10        
+OL,5,                FQuansah      45+1      
 OL,6,K                                       
-OL,7, Crystal P     - Real SociedadG22.00    
-OL,8,K                                       
-OL,9, Sunderland    - Jagiellonia BG22.00    
-OL,10,K                                       
-OL,11, Hoffenheim    - Sturm Graz   G22.00    
-OL,12,K                                       
-OL,13, Torreense     - Celtic       G22.00    
-OL,14,K                                       
-OL,15, NEC Nijmegen  - Rennes       G22.00    
+OL,7, Salzburg      - Ararat A     B2-0 (0-0)
+OL,8,FMazurek      48                        
+OL,9,FCarlier    om51                        
+OL,10,GKonate  erp90+1                        
+OL,11,K                                       
+OL,12, Celta Vigo    - Bournemouth  B1-2 (1-0)
+OL,13,FAspas        19ADiakit`    # 23        
+OL,14,                FRodriguez    47        
+OL,15,                FRayan        78        
 OL,16,K                                       
-OL,17, OFI Crete     - Anderlecht   G22.00    
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
+OL,17, Besiktas      - Hapoel B     B2-1 (0-0)
+OL,18,GK|kc    erp45+4FEast         90+4      
+OL,19,FOlaitan      75                        
+OL,20,FK|kc         90                        
 OL,21,K                                       
 OL,22,K                                       
 OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,66503
+SC,0003
+PS,C100
+CT,15,T
+OL,0,       G665 YLE TEKSTI-TV 27.03.05:56:21
+OL,1,B]DEUROOPPA-LIIGA        D]G26.11.  3/4 
+OL,2,K                                       
+OL,3, Juventus      - Omonia       B4-1 (2-1)
+OL,4,FCambiaso     37FSatka        16        
+OL,5,FEkhator      43                        
+OL,6,FConceicao    68                        
+OL,7,FBoga         72                        
+OL,8,K                                       
+OL,9, Lyon          - Lillestr m   B0-0      
+OL,10,K                                       
+OL,11, Ferencvaros   - NK Celje     B0-0      
+OL,12,K                                       
+OL,13, Sparta Praha  - AZ Alkmaar   B2-4 (2-0)
+OL,14,FBrunes       04FKoopmeiners  52        
+OL,15,FVydra        27FDaal         68        
+OL,16,                FOufkir       73        
+OL,17,                FOufkir       84        
+OL,18,K                                       
+OL,19, Crystal P     - Real SociedadB2-1 (0-0)
+OL,20,FMateta     rp73FSarr         66        
+OL,21,FMcNeil       82AMartin     # 72        
+OL,22,GPino    erp90+3                        
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,66504
+SC,0004
+PS,C100
+CT,15,T
+OL,0,       G665 YLE TEKSTI-TV 27.03.05:56:21
+OL,1,B]DEUROOPPA-LIIGA        D]G26.11.  4/4 
+OL,2,K                                       
+OL,3, Sunderland    - Jagiellonia BB1-1 (0-0)
+OL,4,FTuterov      47FJozwiak      52        
+OL,5,K                                       
+OL,6, Hoffenheim    - Sturm Graz   B3-1 (0-1)
+OL,7,FHlozek       72FDiakit`      43        
+OL,8,FConte        80                        
+OL,9,FMoerstedt    90                        
+OL,10,K                                       
+OL,11, Torreense     - Celtic       B1-2 (1-1)
+OL,12,FJean         19FV zquez    om09        
+OL,13,                FDuran        85        
+OL,14,K                                       
+OL,15, NEC Nijmegen  - Rennes       B3-1 (1-1)
+OL,16,FLinssen      29FThomasson    36        
+OL,17,FChery      rp81                        
+OL,18,FBischoff     89                        
+OL,19,K                                       
+OL,20, OFI Crete     - Anderlecht   B1-3 (0-2)
+OL,21,FFountas    rp54FBentayeb     20        
+OL,22,                FAasgaard     39        
+OL,23,                FBertaccini   90+6      
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

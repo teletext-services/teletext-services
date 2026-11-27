@@ -3,27 +3,32 @@ PN,26001
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G260FNDR TEXT GDo 26.11.B05:16:59
+OL,0,       G260FNDR TEXT GFr 27.11.B01:30:27
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Verbandsliga S-H S}d        
-OL,8,BSamstag, 21. November                  
-OL,9, SV Hamberge     - Reinfeld/Kr.     1:0 
-OL,10, MTV Ahrensb|k   - Schackendorf     6:3 
-OL,12, Sereetzer SV    - TSV Pansdorf II  3:3 
-OL,14,BSonntag, 22. November                  
-OL,15, Ahrensburg II   - SV Eichede II    2:3 
-OL,16, B}chen-Sieben.  - SIG Elmenh.      1:1 
-OL,18, Gro~ Gr|nau     - Ratzeburg        2:6 
+OL,5,BSamstag, 28. November                  
+OL,6, Ratzeburg       - SIG Elmenh.B   16.30 
+OL,7, TSV Pansdorf II - Ahrensburg IIB 16.30 
+OL,9, SV Eichede II   - MTV Ahrensb|kB 16.45 
+OL,11,BSonntag, 29. November                  
+OL,12, Reinfeld/Kr.    - SSV G}sterB    14.00 
+OL,13, Schackendorf    - SV HambergeB   14.00 
+OL,15, B}chen-Sieben.  - Sereetzer SVB  14.30 
+OL,16, TSV Trittau     - Elmenh./Tr.B   15.00 
+OL,18,BSonntag, 6. Dezember                   
+OL,19, SSV G}ster      - TSV TrittauB   14.00 
+OL,20, Schackendorf    - Gro~ Gr|nauB   14.00 
+OL,22, Elmenh./Tr.     - SIG Elmenh.B   15.00 
 OL,23,B]D250<                       TABELLE >>
-OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
+OL,24,AInhalt BSport CFernsehen FWetter G(1/4)
 FL,101,200,300,650,0,100
 PN,26002
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G260FNDR TEXT GDo 26.11.B05:16:59
+OL,0,       G260FNDR TEXT GFr 27.11.B01:30:27
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -45,30 +50,49 @@ OL,19, 14.Hagen Ahrensburg II   18   24:45  13
 OL,20, 15.SV Schackendorf       17   26:80  12
 OL,21, 16.Elmenhorst/Tremsb.    14   21:40  10
 OL,23,B]D250<                      VORSCHAU >>
-OL,24,AInhalt BSport CFernsehen FWetter G(2/3)
+OL,24,AInhalt BSport CFernsehen FWetter G(2/4)
 FL,101,200,300,650,0,100
 PN,26003
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G260FNDR TEXT GDo 26.11.B05:16:59
+OL,0,       G260FNDR TEXT GFr 27.11.B01:30:27
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Verbandsliga S-H S}d        
-OL,5,BSamstag, 28. November                  
-OL,6, Ratzeburg       - SIG Elmenh.B   16.30 
-OL,7, TSV Pansdorf II - Ahrensburg IIB 16.30 
-OL,9, SV Eichede II   - MTV Ahrensb|kB 16.45 
-OL,11,BSonntag, 29. November                  
-OL,12, Reinfeld/Kr.    - SSV G}sterB    14.00 
-OL,13, Schackendorf    - SV HambergeB   14.00 
-OL,15, B}chen-Sieben.  - Sereetzer SVB  14.30 
-OL,16, TSV Trittau     - Elmenh./Tr.B   15.00 
-OL,18,BSonntag, 6. Dezember                   
-OL,19, SSV G}ster      - TSV TrittauB   14.00 
-OL,20, Schackendorf    - Gro~ Gr|nauB   14.00 
-OL,22, Elmenh./Tr.     - SIG Elmenh.B   15.00 
+OL,5,BSonntag, 21. Februar                   
+OL,6, Elmenh./Tr.     - FC AhrensburgB 14.00 
+OL,8,BSamstag, 27. Februar                   
+OL,9, Sereetzer SV    - Elmenh./Tr.B   14.00 
+OL,11,BSonntag, 28. Februar                   
+OL,12, TSV Trittau     - SIG Elmenh.B   12.00 
+OL,14,BFreitag, 5. M{rz                       
+OL,15, SV Eichede II   - SSV G}sterB    19.45 
+OL,16, FC Ahrensburg   - SIG Elmenh.B   20.00 
+OL,18,BSamstag, 6. M{rz                       
+OL,19, TSV Pansdorf II - SV HambergeB   16.30 
+OL,21,BSonntag, 7. M{rz                       
+OL,22, Ratzeburg       - Ahrensburg IIB 14.00 
 OL,23,B]D250<                    ERGEBNISSE >>
-OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
+OL,24,AInhalt BSport CFernsehen FWetter G(3/4)
+FL,101,200,300,650,0,100
+PN,26004
+SC,0004
+PS,C200
+CT,15,T
+OL,0,       G260FNDR TEXT GFr 27.11.B01:30:27
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD FUSSBALL                    
+OL,4,F]T  %D     Verbandsliga S-H S}d        
+OL,9,BSonntag, 7. M{rz                       
+OL,10, Reinfeld/Kr.    - TSV TrittauB   14.00 
+OL,11, Schackendorf    - Elmenh./Tr.B   14.00 
+OL,13, B}chen-Sieben.  - MTV Ahrensb|kB 14.30 
+OL,14, Gro~ Gr|nau     - Sereetzer SVB  15.00 
+OL,16,BDienstag, 9. M{rz                      
+OL,17, FC Ahrensburg   - Reinfeld/Kr.B  20.00 
+OL,23,B]D250<                    ERGEBNISSE >>
+OL,24,AInhalt BSport CFernsehen FWetter G(4/4)
 FL,101,200,300,650,0,100

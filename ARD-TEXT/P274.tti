@@ -3,37 +3,7 @@ PN,27401
 SC,0001
 PS,C200
 CT,15,T
-OL,0,      BARD-TEXT 274CDon 26 Nov  05:38:41
-OL,1,RppppppppTpppppppppppppppppppppppppppppp
-OL,2,RD]G        Fu~ball:FBundesliga 
-OL,3,R########T##############################
-OL,4,FSaison 2026/2027: 11.Spieltag          
-OL,5,G                                       
-OL,6,FFreitag, 27.November          20.30 Uhr
-OL,7,GW.Bremen - M|nchengladbach .. -:- (-:-)
-OL,8,FSamstag, 28.November          15.30 Uhr
-OL,9,GFSV Mainz 05 - Union Berlin . -:- (-:-)
-OL,10,GHamburger SV - Bay.M}nchen .. -:- (-:-)
-OL,11,G1.FC K|ln - SV Elversberg ... -:- (-:-)
-OL,12,GSC Paderborn - FC Schalke 04  -:- (-:-)
-OL,13,G                             F18.30 Uhr
-OL,14,GVfB Stuttgart - E.Frankfurt . -:- (-:-)
-OL,15,FSonntag, 29.November          15.30 Uhr
-OL,16,GSC Freiburg - RB Leipzig .... -:- (-:-)
-OL,17,G                             F17.30 Uhr
-OL,18,GTSG Hoffenheim - FC Augsburg  -:- (-:-)
-OL,19,G                             F19.30 Uhr
-OL,20,GB.Dortmund - Bayer Leverkusen -:- (-:-)
-OL,21,G                                       
-OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,23,F250G<<           1/4             mehr >
-OL,24,AStartseite   BSport    CWetter   FB|rse
-FL,100,200,171,710,0,100
-PN,27402
-SC,0002
-PS,C200
-CT,15,T
-OL,0,      BARD-TEXT 274CDon 26 Nov  05:38:41
+OL,0,      BARD-TEXT 274CDon 26 Nov  23:33:06
 OL,1,RppppppppTpppppppppppppppppppppppppppppp
 OL,2,RD]G        Fu~ball:FBundesliga 
 OL,3,R########T##############################
@@ -56,14 +26,14 @@ OL,19,GSV Elversberg - VfB Stuttgart -:- (-:-)
 OL,20,G                                       
 OL,21,G                                       
 OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,23,F250G<<           2/4             mehr >
+OL,23,F250G<<           1/4             mehr >
 OL,24,AStartseite   BSport    CWetter   FB|rse
 FL,100,200,171,710,0,100
-PN,27403
-SC,0003
+PN,27402
+SC,0002
 PS,C200
 CT,15,T
-OL,0,      BARD-TEXT 274CDon 26 Nov  05:38:41
+OL,0,      BARD-TEXT 274CDon 26 Nov  23:33:06
 OL,1,RppppppppTpppppppppppppppppppppppppppppp
 OL,2,RD]G        Fu~ball:FBundesliga 
 OL,3,R########T##############################
@@ -86,14 +56,14 @@ OL,19,G                             F19.30 Uhr
 OL,20,GWerder Bremen - B.Leverkusen  -:- (-:-)
 OL,21,G                                       
 OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,23,F250G<<           3/4             mehr >
+OL,23,F250G<<           2/4             mehr >
 OL,24,AStartseite   BSport    CWetter   FB|rse
 FL,100,200,171,710,0,100
-PN,27404
-SC,0004
+PN,27403
+SC,0003
 PS,C200
 CT,15,T
-OL,0,      BARD-TEXT 274CDon 26 Nov  05:38:41
+OL,0,      BARD-TEXT 274CDon 26 Nov  23:33:06
 OL,1,RppppppppTpppppppppppppppppppppppppppppp
 OL,2,RD]G        Fu~ball:FBundesliga 
 OL,3,R########T##############################
@@ -115,6 +85,36 @@ OL,18,G                             F17.30 Uhr
 OL,19,GUnion Berlin - Hoffenheim ... -:- (-:-)
 OL,20,G                             F19.30 Uhr
 OL,21,GFC Schalke 04 - B.M'gladbach  -:- (-:-)
+OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,23,F250G<<           3/4             mehr >
+OL,24,AStartseite   BSport    CWetter   FB|rse
+FL,100,200,171,710,0,100
+PN,27404
+SC,0004
+PS,C200
+CT,15,T
+OL,0,      BARD-TEXT 274CDon 26 Nov  23:33:06
+OL,1,RppppppppTpppppppppppppppppppppppppppppp
+OL,2,RD]G        Fu~ball:FBundesliga 
+OL,3,R########T##############################
+OL,4,FSaison 2026/2027: 15.Spieltag          
+OL,5,G                                       
+OL,6,FFreitag, 08.Januar            20.30 Uhr
+OL,7,GBor.Dortmund - FSV Mainz 05 . -:- (-:-)
+OL,8,G                                       
+OL,9,FSamstag, 09.Januar            15.30 Uhr
+OL,10,GVfB Stuttgart - FC Augsburg . -:- (-:-)
+OL,11,GHoffenheim - SV Elversberg .. -:- (-:-)
+OL,12,GEin.Frankfurt - FC Schalke 04 -:- (-:-)
+OL,13,G1.FC K|ln - SC Freiburg ..... -:- (-:-)
+OL,14,GSC Paderborn - RB Leipzig ... -:- (-:-)
+OL,15,G                             F18.30 Uhr
+OL,16,GB.M'gladbach - Bay.M}nchen .. -:- (-:-)
+OL,17,G                                       
+OL,18,FSonntag, 10.Januar            15.30 Uhr
+OL,19,GWerder Bremen - Union Berlin  -:- (-:-)
+OL,20,G                             F17.30 Uhr
+OL,21,GHamburger SV - B.Leverkusen . -:- (-:-)
 OL,22,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,23,F250G<<           4/4              >F275
 OL,24,AStartseite   BSport    CWetter   FB|rse

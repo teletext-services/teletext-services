@@ -3,24 +3,23 @@ PN,28901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G289FNDR TEXT GDo 26.11.B06:03:08
+OL,0,       G289FNDR TEXT GFr 27.11.B01:32:05
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     U19-DFB-Nachwuchsliga       
-OL,6,BSamstag, 21. November                  
-OL,7, Magdeburg     - Holstein Kiel      2:1 
-OL,9,BSonntag, 22. November                  
-OL,10, Berliner AK   - Werder Bremen      0:3 
-OL,11, Hamburger SV  - Hansa Rostock      6:3 
-OL,13,CU19 Vorrunde Gruppe A                  
-OL,15,C1.SV Werder Bremen    11    31:12    28
-OL,16,C2.Hamburger SV        10    30:21    21
-OL,17,C3.FC St. Pauli        10    20:16    17
-OL,18,F4.1. FC Magdeburg     10    18:19    17
-OL,19,F5.Berliner AK 07      10    14:25     9
-OL,20,F6.Holstein Kiel       10    18:28     7
-OL,21,F7.Hansa Rostock       11    25:35     5
+OL,6,BSamstag, 28. November                  
+OL,7, Hamburger SV  - MagdeburgB       11.30 
+OL,8, Werder Bremen - FC St. PauliB    13.00 
+OL,10, Holstein Kiel - Berliner AKB     14.00 
+OL,12,CU19 Vorrunde Gruppe A                  
+OL,14,C1.SV Werder Bremen    11    31:12    28
+OL,15,C2.Hamburger SV        10    30:21    21
+OL,16,C3.FC St. Pauli        10    20:16    17
+OL,17,F4.1. FC Magdeburg     10    18:19    17
+OL,18,F5.Berliner AK 07      10    14:25     9
+OL,19,F6.Holstein Kiel       10    18:28     7
+OL,20,F7.Hansa Rostock       11    25:35     5
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/4)
 FL,101,200,300,650,0,100
@@ -28,17 +27,17 @@ PN,28902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G289FNDR TEXT GDo 26.11.B06:03:08
+OL,0,       G289FNDR TEXT GFr 27.11.B01:32:05
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     U19-DFB-Nachwuchsliga       
-OL,5,BSamstag, 21. November                  
-OL,6, Energ.Cottbus  - E.Braunschweig    1:2 
-OL,7, Babelsberg 03  - Hallescher FC     2:2 
-OL,8, Union Berlin   - Hertha BSC        3:2 
-OL,10,BSonntag, 22. November                  
-OL,11, Chemnitzer FC  - Carl Z. Jena      1:2 
+OL,5,BSamstag, 28. November                  
+OL,6, Hertha BSC     - Babelsberg 03B  11.00 
+OL,7, Chemnitzer FC  - Energ.CottbusB  12.30 
+OL,9,BSonntag, 29. November                  
+OL,10, Carl Z. Jena   - Hallescher FCB  11.00 
+OL,11, E.Braunschweig - Union BerlinB   14.00 
 OL,13,CU19 Vorrunde Gruppe B                  
 OL,15,C1.1.FC Union Berlin    12    38:14   34
 OL,16,C2.Hertha BSC           12    32:20   18
@@ -55,15 +54,15 @@ PN,28903
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G289FNDR TEXT GDo 26.11.B06:03:08
+OL,0,       G289FNDR TEXT GFr 27.11.B01:32:05
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     U19-DFB-Nachwuchsliga       
-OL,6,BSamstag, 21. November                  
-OL,7, F. D}sseldorf   - MSV Duisburg     1:2 
-OL,8, Rot-Weiss Essen - B. Dortmund      4:3 
-OL,10, VfL Osnabr}ck   - FC Schalke 04    0:1 
+OL,6,BSonntag, 29. November                  
+OL,7, B. Dortmund   - F. D}sseldorfB   11.00 
+OL,8, FC Schalke 04 - RW OberhausenB   11.00 
+OL,10, MSV Duisburg  - VfL Osnabr}ckB   13.00 
 OL,12,CU19 Vorrunde Gruppe H                  
 OL,14,C1.Borussia Dortmund    11    28:14   24
 OL,15,C2.MSV Duisburg         10    20:7    23
@@ -79,25 +78,23 @@ PN,28904
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G289FNDR TEXT GDo 26.11.B06:03:08
+OL,0,       G289FNDR TEXT GFr 27.11.B01:32:05
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     U19-DFB-Nachwuchsliga       
-OL,5,BSamstag, 21. November                  
-OL,6, SC Paderborn  - SV Meppen          5:1 
-OL,7, Arm.Bielefeld - Hannover 96        6:2 
-OL,9, Preu~.M}nster - TSV Havelse        6:0 
-OL,11,BMittwoch, 25. November                 
-OL,12, Preu~.M}nster - Hannover 96        3:3 
-OL,14,CU19 Vorrunde Gruppe I                  
-OL,16,C1.Arm.Bielefeld       10    31:11    24
-OL,17,C2.Hannover 96         11    35:20    23
-OL,18,C3.Preu~.M}nster       11    30:14    22
-OL,19,F4.VfL Wolfsburg       10    29:12    19
-OL,20,F5.SC Paderborn 07     10    17:30     9
-OL,21,F6.SV Meppen           10    12:28     9
-OL,22,F7.TSV Havelse         10     2:41     0
+OL,6,BSamstag, 28. November                  
+OL,7, Arm.Bielefeld - VfL WolfsburgB   13.00 
+OL,8, SV Meppen     - Hannover 96B     13.00 
+OL,10, TSV Havelse   - SC PaderbornB    13.00 
+OL,12,CU19 Vorrunde Gruppe I                  
+OL,14,C1.Arm.Bielefeld       10    31:11    24
+OL,15,C2.Hannover 96         11    35:20    23
+OL,16,C3.Preu~.M}nster       11    30:14    22
+OL,17,F4.VfL Wolfsburg       10    29:12    19
+OL,18,F5.SC Paderborn 07     10    17:30     9
+OL,19,F6.SV Meppen           10    12:28     9
+OL,20,F7.TSV Havelse         10     2:41     0
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(4/4)
 FL,101,200,300,650,0,100

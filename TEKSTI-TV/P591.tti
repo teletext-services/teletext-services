@@ -3,7 +3,7 @@ PN,59101
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G591 YLE TEKSTI-TV 26.03.14:07:44
+OL,0,       G591 YLE TEKSTI-TV 27.03.05:55:09
 OL,1,C]A      D X - K U U N T E L U      1/7 
 OL,2,C]D        Suomen DX-Liitto ry          
 OL,3,K                                       
@@ -33,7 +33,7 @@ PN,59102
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G591 YLE TEKSTI-TV 26.03.14:07:44
+OL,0,       G591 YLE TEKSTI-TV 27.03.05:55:09
 OL,1,F]A   D X - K U U N T E L U         2/7 
 OL,2,G31.8.                                  
 OL,3,K                                       
@@ -63,7 +63,7 @@ PN,59103
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G591 YLE TEKSTI-TV 26.03.14:07:44
+OL,0,       G591 YLE TEKSTI-TV 27.03.05:55:09
 OL,1,C]   AD X  -  K U U N T E L U       3/7 
 OL,2,G]DRADIOMAAILMAN UUTISIA (UTC= SA -2 h) 
 OL,3,K                                       
@@ -93,7 +93,7 @@ PN,59104
 SC,0004
 PS,C100
 CT,15,T
-OL,0,       G591 YLE TEKSTI-TV 26.03.14:07:44
+OL,0,       G591 YLE TEKSTI-TV 27.03.05:55:09
 OL,1,C]   AD X  -  K U U N T E L U       4/7 
 OL,2,G] DKUUNTELUVIHJEIT[   (UTC = SA -2 h)  
 OL,3,FUTC     kHz asema, l{hetinpaikkakunta  
@@ -123,7 +123,7 @@ PN,59105
 SC,0005
 PS,C100
 CT,15,T
-OL,0,       G591 YLE TEKSTI-TV 26.03.14:07:44
+OL,0,       G591 YLE TEKSTI-TV 27.03.05:55:09
 OL,1,C]     AD X - K U U N T E L U       5/7 
 OL,2,G]DKAUKOKUUNTELIJOIDEN KOKOONTUMISIA    
 OL,3,CLAHTI:GPaikallistoiminnasta infoa      
@@ -153,29 +153,29 @@ PN,59106
 SC,0006
 PS,C100
 CT,15,T
-OL,0,       G591 YLE TEKSTI-TV 26.03.14:07:44
-OL,1,COLL LOKAUKSIA 26/11/2026 1305 UTC      
-OL,2,G1110 26 1030 USA: KFAB Omaha NE        
-OL,3,G1170 26 1006 USA: WWVA Wheeling WV     
-OL,4,G1460 26 0944 USA: KKOY Chanute KS      
-OL,5,G 880 26 0928 USA: WHSQ New York NY     
-OL,6,G1300 26 0900 USA: WXRL Lancaster NY    
-OL,7,G1280 26 0900 USA: WHTK Rochester NY    
-OL,8,G1410 26 0859 USA: WNGL Mobile AL       
-OL,9,G1460 26 0800 USA: WHIC Rochester NY    
-OL,10,A1320 26 0605 USA: WJAS Pittsburgh PA   
-OL,11,G1560 26 0602 USA: WFME New York NY     
-OL,12,G 680 26 0545 USA: WRKO Boston MA       
-OL,13,A1080 26 0501 USA: WTIC Hartford CT     
-OL,14,G1290 26 0500 USA: WKBK Keene NH        
-OL,15,G1420 26 0500 USA: WLIS Old Saybrook CT 
-OL,16,A1290 26 0500 USA: WDZY Colonial Heights
-OL,17,G1650 26 0100 CAN: CKZW Montreal QC     
-OL,18,G 990 26 0059 CAN: CBY Corner Brook NL  
-OL,19,G1090 26 0000 USA: WBAL Baltimore MD    
-OL,20,G1638 25 2110 HOL: R Moonlight          
-OL,21,G1008 25 1801 HOL: R Babylona, Musselkan
-OL,22,CTnx! ARK MSO JLN MDK Vhj               
+OL,0,       G591 YLE TEKSTI-TV 27.03.05:55:09
+OL,1,COLL LOKAUKSIA 27/11/2026 0450 UTC      
+OL,2,A1670 27 0422 MEX: XEFCR Focus R, Reynos
+OL,3,A1160 27 0400 ATG: Caribbean R Lighthous
+OL,4,A 730 27 0342 CAN: CKAC Montreal QC     
+OL,5,A 710 27 0335 CAN: CKVO Clarenville NL  
+OL,6,G1130 26 2324 USA: KTLK Minneapolis MN  
+OL,7,G1150 26 2316 USA: WHBY Kimberly WI     
+OL,8,G1520 26 2300 USA: WWKB Buffalo NY.     
+OL,9,G1110 26 1030 USA: KFAB Omaha NE        
+OL,10,G1170 26 1006 USA: WWVA Wheeling WV     
+OL,11,G1460 26 0944 USA: KKOY Chanute KS      
+OL,12,G 880 26 0928 USA: WHSQ New York NY     
+OL,13,G1300 26 0900 USA: WXRL Lancaster NY    
+OL,14,G1280 26 0900 USA: WHTK Rochester NY    
+OL,15,G1410 26 0859 USA: WNGL Mobile AL       
+OL,16,G1460 26 0800 USA: WHIC Rochester NY    
+OL,17,G1310 26 0800 USA: WDTW Dearborn MI     
+OL,18,G1380 26 0759 USA: WKJG Fort Wayne IN   
+OL,19,G1260 26 0758 USA: WBIX Boston MA       
+OL,20,G 840 26 0758 USA: WHAS Louisville KY   
+OL,21,G1460 26 0735 CAN: CJOY Guelph ON       
+OL,22,CTnx! ARK MSO JYT                       
 OL,23,CL{hde https://log.hard-core-dx.com     
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -183,8 +183,8 @@ PN,59107
 SC,0007
 PS,C100
 CT,15,T
-OL,0,       G591 YLE TEKSTI-TV 26.03.14:07:44
-OL,1,COLL LOKAUKSIA 26/11/2026 1305 UTC      
+OL,0,       G591 YLE TEKSTI-TV 27.03.05:55:09
+OL,1,COLL LOKAUKSIA 27/11/2026 0450 UTC      
 OL,2,G 98.6 14 0748 ROU: Romantic FM         
 OL,3,G 99.3 13 1155 D: rbb Reins Belzig (brb)
 OL,4,G106.2 28 1610 S: R Aftonbladet         

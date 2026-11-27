@@ -3,25 +3,27 @@ PN,70600
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G706  RSI LA 2  26.11.26 17:12:46
+OL,0,       G706  RSI LA 2  27.11.26 03:12:53
 OL,1,A]GRSI   ]@LA2      VENERDI 27 novembre 
 OL,2,G                                       
-OL,3, G04:45  GTG Notte                      
-OL,4, F05:05  FMeteoCR                       
-OL,5, G05:15  GMeteoCST                      
-OL,6, F05:20  FCalcio: La partita            
-OL,7, G05:30  GAlbachiara in TVCST           
-OL,8, F07:00  FRadiogiornale e lanci     CST 
-OL,9,         Fsport                         
-OL,10, G07:20  GSetteventi in TVCST           
-OL,11, F08:30  FModemCST                      
-OL,12, G09:00  GRadiogiornaleCST              
-OL,13, F09:10  FCasa SvizzeraCST              
-OL,14, G10:00  GTataki                        
-OL,15, F10:25  FSci di fondo: Coppa del CI/II 
-OL,16,         FMondo 2026/2027               
-OL,17,         F10km individuale femminile    
-OL,18, G11:45  GControcorrente in TVCST       
-OL,19, F12:35  FZeroveroCST                   
+OL,3, G05:00  GTG Notte                      
+OL,4, F05:15  FMeteoCST                      
+OL,5, G05:20  GCalcio: La partita            
+OL,6, F05:30  FAlbachiara in TVCST           
+OL,7, G07:00  GRadiogiornale e lanci     CST 
+OL,8,         Gsport                         
+OL,9, F07:20  FSetteventi in TVCST           
+OL,10, G08:30  GModemCST                      
+OL,11, F09:00  FRadiogiornaleCST              
+OL,12, G09:10  GCasa SvizzeraCST              
+OL,13, F10:00  FTataki                        
+OL,14, G10:25  GSci di fondo: Coppa del CI/II 
+OL,15,         GMondo 2026/2027               
+OL,16,         G10km individuale femminile    
+OL,17, F11:45  FControcorrente in TVCST       
+OL,18, G12:35  GZeroveroCST                   
+OL,19, F12:55  FSci di fondo: Coppa  CSTCI/II 
+OL,20,         Fdel Mondo 2026/2027           
+OL,21,         F10km individuale maschile     
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

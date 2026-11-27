@@ -1,47 +1,25 @@
 DE,SWR-RP 510
-PN,51001
-SC,0001
-PS,C200
+PN,51000
+SC,0000
+PS,8208
 CT,15,T
-OL,0,       BSWR RLPC   Do, 26.11.26G11:57:17
+OL,0,       BSWR RLPC   Fr, 27.11.26G05:22:28
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
 OL,3,T#########"######################"######
-OL,4,          Autobahn A8,A81,A861          
-OL,6,CA8FM}nchen Richtung Stuttgart          
-OL,7, in H|he Esslingen Gefahr durch         
-OL,8, defektes Fahrzeug auf dem Standstreifen
-OL,10,CA8FStuttgart Richtung Karlsruhe        
-OL,11, zwischen Pforzheim-S}d und             
-OL,12, Pforzheim-Ost Gro~baustelle            
-OL,14,CA8FStuttgart Richtung M}nchen          
-OL,15, zwischen Aichelberg und Hohenstadt 6 km
-OL,16, Stau streckenweise, Zeitverlust von bis
-OL,17, zu 25 Minuten                          
-OL,23,D]GStand:26.11. 11:54   ]bersicht 501 >>
-OL,24,A]berblick  BNachrichten CWetter  FSport
-FL,101,112,151,200,0,100
-PN,51002
-SC,0002
-PS,C200
-CT,15,T
-OL,0,       BSWR RLPC   Do, 26.11.26G11:57:17
-OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
-OL,2,D]GSWR >>P5GVERKEHRSINFORMATION P5      
-OL,3,T#########"######################"######
-OL,4,          Autobahn A8,A81,A861          
+OL,4,            Autobahn A8,A861            
 OL,6,CA8FKarlsruhe Richtung Stuttgart        
-OL,7, zwischen Pforzheim-West und            
-OL,8, Pforzheim-Ost Gro~baustelle,           
-OL,9, stockender Verkehr                     
-OL,11,CA81FStuttgart Richtung W}rzburg        
-OL,12, zwischen Heilbronn/Untergruppenbach und
-OL,13, Kreuz Weinsberg stockender Verkehr     
-OL,15,CA861FDreieck Hochrhein Richtung        
-OL,16,FGrenz}bergang Rheinfelden              
-OL,17, zwischen Rheinfelden-Mitte und         
-OL,18, Grenz}bergang Rheinfelden 2 km Stau    
-OL,19, f}r LKW auf dem rechten Fahrstreifen   
-OL,23,D]GStand:26.11. 11:54   ]bersicht 501 >>
+OL,7, in H|he Pforzheim-West bis auf         
+OL,8, weiteres Richtungsfahrbahn gesperrt,   
+OL,9, Unfall mit Gefahrguttransporter,       
+OL,10, Bergungsarbeiten, Reinigungsarbeiten,  
+OL,11, Ausfahrt gesperrt, eine |rtliche       
+OL,12, Umleitung ist eingerichtet             
+OL,14,CA861FDreieck Hochrhein Richtung        
+OL,15,FGrenz}bergang Rheinfelden              
+OL,16, zwischen Rheinfelden-Mitte und         
+OL,17, Grenz}bergang Rheinfelden 1 km Stau    
+OL,18, f}r LKW auf dem rechten Fahrstreifen   
+OL,23,D]GStand:27.11. 05:21   ]bersicht 501 >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
 FL,101,112,151,200,0,100

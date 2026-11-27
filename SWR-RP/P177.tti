@@ -3,25 +3,25 @@ PN,17701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Do, 26.11.26G03:04:02
+OL,0,       BSWR RLPC   Fr, 27.11.26G05:11:18
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GOZONWERTE BW        P5      
 OL,3,T#########"######################"######
-OL,4, F                 26.11.2026 02:00 Uhr 
+OL,4, F                 27.11.2026 04:00 Uhr 
 OL,5,                                   Max. 
-OL,6, Station/Uhrzeit     00   01   02  Heute
+OL,6, Station/Uhrzeit     02   03   04  Heute
 OL,7, ---------------------------------------
-OL,8,FAalen               31    37           
-OL,9, Baden-Baden          1    10           
-OL,10,FBernhausen          25    26           
-OL,11, Biberach            18    22           
-OL,12,FEggenstein          34    35           
-OL,13, Friedrichshafen     12    18           
-OL,14,FFreiburg             6    10           
-OL,15, Heidelberg          44    41           
-OL,16,FG{rtringen          17    23           
-OL,17, Heilbronn           36    33           
-OL,18,FKA-Nordwest         32    34           
+OL,8,FAalen               13   --   16    26 
+OL,9, Baden-Baden          8   --    8    11 
+OL,10,FBernhausen           8   --    7    12 
+OL,11, Biberach            21   19   17    24 
+OL,12,FEggenstein          --   30   30    30 
+OL,13, Friedrichshafen     16   14   16    16 
+OL,14,FFreiburg             7   10    6    10 
+OL,15, Heidelberg          42   42   42    43 
+OL,16,FG{rtringen          17   15   13    18 
+OL,17, Heilbronn           37   38   --    38 
+OL,18,FKA-Nordwest         22   36   --    36 
 OL,22,D]G1h-Mittel in Mikrogr./Kubikmeter Luft
 OL,23,D]      Gohne Gew{hr / LUBW Karlsruhe >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
@@ -30,24 +30,24 @@ PN,17702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Do, 26.11.26G03:04:02
+OL,0,       BSWR RLPC   Fr, 27.11.26G05:11:18
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GOZONWERTE BW        P5      
 OL,3,T#########"######################"######
-OL,4, F                 26.11.2026 02:00 Uhr 
+OL,4, F                 27.11.2026 04:00 Uhr 
 OL,5,                                   Max. 
-OL,6, Station/Uhrzeit     00   01   02  Heute
+OL,6, Station/Uhrzeit     02   03   04  Heute
 OL,7, ---------------------------------------
-OL,8,FKonstanz            11    14           
-OL,9, Kehl                19    22           
-OL,10,FLudwigsburg         30    30           
-OL,11, Mannheim-Nord       26    32           
-OL,12,FNeuenburg            7     8           
-OL,13, Pforzheim           21    25           
-OL,14,FReutlingen          10    16           
-OL,15, Stuttgart-Bad Can   23    32           
-OL,16,FSchw{bisch Hall     33    35           
-OL,17, Schw{bische Alb     24    26           
+OL,8,FKonstanz            23   23   28    28 
+OL,9, Kehl                --   10    8    12 
+OL,10,FLudwigsburg         17   --   25    25 
+OL,11, Mannheim-Nord       --   31   31    31 
+OL,12,FNeuenburg           15   --   13    17 
+OL,13, Pforzheim           16   --   28    28 
+OL,14,FReutlingen           7    8    6    10 
+OL,15, Stuttgart-Bad Can   13   14   18    18 
+OL,16,FSchw{bisch Hall     31   --   32    32 
+OL,17, Schw{bische Alb     44   35   31    45 
 OL,22,D]G1h-Mittel in Mikrogr./Kubikmeter Luft
 OL,23,D]      Gohne Gew{hr / LUBW Karlsruhe >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
@@ -56,20 +56,20 @@ PN,17703
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR RLPC   Do, 26.11.26G03:04:02
+OL,0,       BSWR RLPC   Fr, 27.11.26G05:11:18
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GOZONWERTE BW        P5      
 OL,3,T#########"######################"######
-OL,4, F                 26.11.2026 02:00 Uhr 
+OL,4, F                 27.11.2026 04:00 Uhr 
 OL,5,                                   Max. 
-OL,6, Station/Uhrzeit     00   01   02  Heute
+OL,6, Station/Uhrzeit     02   03   04  Heute
 OL,7, ---------------------------------------
-OL,8,FSchwarzwald-S}d      2     4           
-OL,9, Tauberbischofsh.    24    25           
-OL,10,FUlm                 26    30           
-OL,11, Villingen-Schwen.    7     7           
-OL,12,FWeil am Rhein        4     5           
-OL,13, Wiesloch            37    36           
+OL,8,FSchwarzwald-S}d     43   45   --    45 
+OL,9, Tauberbischofsh.    40   --   40    41 
+OL,10,FUlm                 29   34   33    34 
+OL,11, Villingen-Schwen.   41   41   39    41 
+OL,12,FWeil am Rhein       11   11   --    12 
+OL,13, Wiesloch            36   --   35    36 
 OL,22,D]G1h-Mittel in Mikrogr./Kubikmeter Luft
 OL,23,D]      Gohne Gew{hr / LUBW Karlsruhe >>
 OL,24,A]berblick  BNachrichten CWetter  FSport

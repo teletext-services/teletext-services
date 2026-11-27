@@ -3,9 +3,9 @@ PN,48301
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G483 YLE TEKSTI-TV 26.03.11:13:58
-OL,1,D]G         VOITTAJAVETO 1         1/3  
-OL,2,FKertoimet 12.06, vaihto 319 E          
+OL,0,       G483 YLE TEKSTI-TV 27.03.05:52:24
+OL,1,D]G         VOITTAJAVETO 1         1/11 
+OL,2,FKertoimet 06.46, vaihto 319 E          
 OL,3,BSalibandyn MM-kisat 2026      Osal. 477
 OL,4,K                                       
 OL,5,G 1. 2 Ruotsi                     1.69  
@@ -33,38 +33,38 @@ PN,48302
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G483 YLE TEKSTI-TV 26.03.11:13:58
-OL,1,D]G         VOITTAJAVETO 2         2/3  
-OL,2,FKertoimet 12.06, vaihto 448 E          
-OL,3,BAmpumahiihto, miehet 20km normaalimatka
+OL,0,       G483 YLE TEKSTI-TV 27.03.05:52:24
+OL,1,D]G         VOITTAJAVETO 2         2/11 
+OL,2,FKertoimet 06.46, vaihto 172 E          
+OL,3,BAmpumahiihto, naiset 15km normaalimatka
 OL,4,K                                       
-OL,5,G 1. 1 Laegreid Sturla Holm       5.87  
-OL,6,G 2. 2 Perrot Eric                6.89  
-OL,7,G 3. 3 Botn Johan-Olav            9.28  
-OL,8,F 4. 4 Christiansen Vetle Sjaasta 9.85  
-OL,9,G 5.17 Muu voittaja               10.26 
-OL,10,G 6. 5 Samuelsson Sebastian       10.83 
-OL,11,G 7. 6 Giacomel Tommaso           11.96 
-OL,12,F 8. 8 Fillon Maillet Quentin     15.00 
-OL,13,G 9. 7 Uldal Martin               20.52 
-OL,14,G10.15 Hiidensalo Olli            22.94 
-OL,15,G11. 9 Nawrath Philipp            22.94 
-OL,16,F12.10 Dale Johannes              26.00 
-OL,17,G13.16 Strelow Justus             38.99 
-OL,18,G14.11 Frey Isak                  43.33 
-OL,19,G15.12 Wright Campbell            43.33 
-OL,20,F16.14 Claude Fabien              48.74 
-OL,21,G17.13 Hofer Lukas                55.70 
+OL,5,G 1.17 Muu voittaja               7.11  
+OL,6,G 2. 4 \berg Elvira               7.32  
+OL,7,G 3. 2 Vittozzi Lisa              8.58  
+OL,8,F 4. 1 Jeanmonnot Lou             9.10  
+OL,9,G 5. 3 Simon Julia                10.37 
+OL,10,G 6. 7 Kirkeeide Maren            14.93 
+OL,11,G 7. 5 Minkkinen Suvi             16.59 
+OL,12,F 8.11 Magnusson Anna             18.66 
+OL,13,G 9. 6 Bened Camille              18.66 
+OL,14,G10. 8 Braisaz Bouchet Justine    18.66 
+OL,15,G11. 9 Michelon Oceane            18.66 
+OL,16,F12.16 Knotten Karoline           24.88 
+OL,17,G13.10 Hettich Walz Janine        29.86 
+OL,18,G14.12 Voigt Vanessa              29.86 
+OL,19,G15.13 Halvarsson Ella            29.86 
+OL,20,F16.14 Vobornikova Tereza         29.86 
+OL,21,G17.15 Hristova Lora              29.86 
 OL,22,K                                       
-OL,23,BPeliaika p{{ttyy to 26.11. klo 17.15   
+OL,23,BPeliaika p{{ttyy pe 27.11. klo 17.15   
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,48303
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G483 YLE TEKSTI-TV 26.03.11:13:58
-OL,1,D]G         VOITTAJAVETO 2         3/3  
+OL,0,       G483 YLE TEKSTI-TV 27.03.05:52:24
+OL,1,D]G         VOITTAJAVETO 2         3/11 
 OL,2,K                                       
 OL,3,K                                       
 OL,4,K                                       
@@ -87,5 +87,245 @@ OL,20,K
 OL,21,K                                       
 OL,22,K                                       
 OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48304
+SC,0004
+PS,C100
+CT,15,T
+OL,0,       G483 YLE TEKSTI-TV 27.03.05:52:24
+OL,1,D]G         VOITTAJAVETO 2         4/11 
+OL,2,FKertoimet 06.46, vaihto 1902 E         
+OL,3,BAmpumahiihto, miehet 20km normaalimatka
+OL,4,K                                       
+OL,5,G 1. 1 Laegreid Sturla Holm       5.32  
+OL,6,G 2. 2 Perrot Eric                6.15  
+OL,7,G 3. 3 Botn Johan-Olav            6.30  
+OL,8,F 4.17 Muu voittaja               7.55  
+OL,9,G 5. 4 Christiansen Vetle Sjaasta 13.07 
+OL,10,G 6. 5 Samuelsson Sebastian       13.15 
+OL,11,G 7. 6 Giacomel Tommaso           15.01 
+OL,12,F 8. 7 Uldal Martin               21.66 
+OL,13,G 9. 8 Fillon Maillet Quentin     22.42 
+OL,14,G10.10 Dale Johannes              25.53 
+OL,15,G11. 9 Nawrath Philipp            28.23 
+OL,16,F12.11 Frey Isak                  40.55 
+OL,17,G13.16 Strelow Justus             42.21 
+OL,18,G14.12 Wright Campbell            45.96 
+OL,19,G15.15 Hiidensalo Olli            53.37 
+OL,20,F16.14 Claude Fabien              57.85 
+OL,21,G17.13 Hofer Lukas                59.09 
+OL,22,K                                       
+OL,23,C            KOHDE SULJETTU             
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48305
+SC,0005
+PS,C100
+CT,15,T
+OL,0,       G483 YLE TEKSTI-TV 27.03.05:52:24
+OL,1,D]G         VOITTAJAVETO 2         5/11 
+OL,2,K                                       
+OL,3,K                                       
+OL,4,K                                       
+OL,5,K                                       
+OL,6,K                                       
+OL,7,K                                       
+OL,8,K                                       
+OL,9,K                                       
+OL,10,K                                       
+OL,11,K                                       
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48306
+SC,0006
+PS,C100
+CT,15,T
+OL,0,       G483 YLE TEKSTI-TV 27.03.05:52:24
+OL,1,D]G         VOITTAJAVETO 3         6/11 
+OL,2,FKertoimet 06.46, vaihto 149 E          
+OL,3,BHiihto, naiset 10km (p) - Ruka Osal. 47
+OL,4,K                                       
+OL,5,G 1. 1 Karlsson Frida             3.09  
+OL,6,G 2. 2 Andersson Ebba             6.82  
+OL,7,G 3. 4 Svahn Linn                 7.20  
+OL,8,F 4. 3 Weng Heidi                 14.40 
+OL,9,G 5. 6 Matintalo Johanna          16.20 
+OL,10,G 6.17 Muu voittaja               18.52 
+OL,11,G 7.16 Groetting Karoline         21.61 
+OL,12,F 8. 5 Ilar Moa                   21.61 
+OL,13,G 9. 8 Fosnaes Kristin Austgulen  25.93 
+OL,14,G10.11 Hennig Dotzler Katharina   32.41 
+OL,15,G11.12 Nepryaeva Dariya           32.41 
+OL,16,F12.13 Terenteva Natalia          32.41 
+OL,17,G13.15 Kaelin Nadja               32.41 
+OL,18,G14. 7 Stadlober Teresa           32.41 
+OL,19,G15.10 Ribom Emma                 43.21 
+OL,20,F16.14 Andreassen Milla           43.21 
+OL,21,G17. 9 Joensuu Jasmi              43.21 
+OL,22,K                                       
+OL,23,BPeliaika p{{ttyy pe 27.11. klo 11.30   
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48307
+SC,0007
+PS,C100
+CT,15,T
+OL,0,       G483 YLE TEKSTI-TV 27.03.05:52:24
+OL,1,D]G         VOITTAJAVETO 3         7/11 
+OL,2,K                                       
+OL,3,K                                       
+OL,4,K                                       
+OL,5,K                                       
+OL,6,K                                       
+OL,7,K                                       
+OL,8,K                                       
+OL,9,K                                       
+OL,10,K                                       
+OL,11,K                                       
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48308
+SC,0008
+PS,C100
+CT,15,T
+OL,0,       G483 YLE TEKSTI-TV 27.03.05:52:24
+OL,1,D]G         VOITTAJAVETO 4         8/11 
+OL,2,FKertoimet 06.46, vaihto 160 E          
+OL,3,BHiihto, miehet 10km (p) - Ruka Osal. 47
+OL,4,K                                       
+OL,5,G 1. 2 Klaebo Johannes            4.44  
+OL,6,G 2. 1 Nyenget Martin             4.81  
+OL,7,G 3. 3 Ree Andreas                11.63 
+OL,8,F 4. 5 Niskanen Iivo              11.63 
+OL,9,G 5. 4 Stenshagen Mattis          17.44 
+OL,10,G 6. 9 Korostelev Savelii         17.44 
+OL,11,G 7. 7 Heggen Lars                19.94 
+OL,12,F 8.12 Poromaa William            23.26 
+OL,13,G 9. 6 Iversen Emil               23.26 
+OL,14,G10. 8 Hjelmeset Lars Agnar       23.26 
+OL,15,G11.10 Barp Elia                  27.91 
+OL,16,F12.11 Lapalus Hugo               27.91 
+OL,17,G13.13 Anger Edvin                27.91 
+OL,18,G14.14 Anttola Niko               27.91 
+OL,19,G15.15 Gisselman Truls            27.91 
+OL,20,F16.16 Musgrave Andrew            27.91 
+OL,21,G17.17 Muu voittaja               27.91 
+OL,22,K                                       
+OL,23,BPeliaika p{{ttyy pe 27.11. klo 14.00   
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48309
+SC,0009
+PS,C100
+CT,15,T
+OL,0,       G483 YLE TEKSTI-TV 27.03.05:52:24
+OL,1,D]G         VOITTAJAVETO 4         9/11 
+OL,2,K                                       
+OL,3,K                                       
+OL,4,K                                       
+OL,5,K                                       
+OL,6,K                                       
+OL,7,K                                       
+OL,8,K                                       
+OL,9,K                                       
+OL,10,K                                       
+OL,11,K                                       
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48310
+SC,0010
+PS,C100
+CT,15,T
+OL,0,       G483 YLE TEKSTI-TV 27.03.05:52:24
+OL,1,D]G         VOITTAJAVETO 5         10/11
+OL,2,FKertoimet 06.46, vaihto 0,00 E         
+OL,3,BF1, aika-ajot, Qatar          Osal. 477
+OL,4,K                                       
+OL,5,K                                       
+OL,6,F  Kertoimia ei ole saatavilla.         
+OL,7,K                                       
+OL,8,K                                       
+OL,9,K                                       
+OL,10,K                                       
+OL,11,K                                       
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPeliaika p{{ttyy la 28.11. klo 20.00   
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,48311
+SC,0011
+PS,C100
+CT,15,T
+OL,0,       G483 YLE TEKSTI-TV 27.03.05:52:24
+OL,1,D]G         VOITTAJAVETO 6         11/11
+OL,2,FKertoimet 06.46, vaihto 0,00 E         
+OL,3,BF1, aika-ajot, Qatar, Valtteri Bottakse
+OL,4,K                                       
+OL,5,K                                       
+OL,6,F  Kertoimia ei ole saatavilla.         
+OL,7,K                                       
+OL,8,K                                       
+OL,9,K                                       
+OL,10,K                                       
+OL,11,K                                       
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,BPeliaika p{{ttyy la 28.11. klo 20.00   
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

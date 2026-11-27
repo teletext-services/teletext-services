@@ -3,18 +3,27 @@ PN,25801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G258FNDR TEXT GDo 26.11.B05:13:18
+OL,0,       G258FNDR TEXT GFr 27.11.B01:30:23
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Verbandsliga S-H Nord       
-OL,9,BSamstag, 21. November                  
-OL,10, Schleswig 06   - SG Mitte NF       1:0 
-OL,11, DGF Flensborg  - Stj. Flensborg    2:1 
-OL,13, BW L|wenstedt  - SG Eiderstedt     0:1 
-OL,14, TSB Flensb. II - Obere Treene      5:2 
-OL,16,BSonntag, 22. November                  
-OL,17, Langenh./Enge  - Risum-L. II       3:0 
+OL,5,BSamstag, 28. November                  
+OL,6, Risum-L. II    - BW L|wenstedtB  14.00 
+OL,7, Obere Treene   - Eckernf|rde IIB 14.00 
+OL,8, Barkelsby      - DGF FlensborgB  14.00 
+OL,9, SG Mitte NF    - SG NordauB      14.00 
+OL,10, SG Eiderstedt  - TSB Flensb. IIB 14.00 
+OL,11, Stj. Flensborg - Schleswig 06B   15.30 
+OL,12, TSV RW Nieb}ll - Gr}n-Wei~ TolkB 16.00 
+OL,13, FSG Ostseek.   - Langenh./EngeB  16.00 
+OL,15,BMittwoch, 2. Dezember                  
+OL,16, SG Eiderstedt  - Langenh./EngeB  19.30 
+OL,18,BSamstag, 5. Dezember                   
+OL,19, SG Nordau      - TSV RW Nieb}llB 13.00 
+OL,20, Schleswig 06   - Langenh./EngeB  13.00 
+OL,21, Obere Treene   - BW L|wenstedtB  14.00 
+OL,22, Eckernf|rde II - Gr}n-Wei~ TolkB 14.00 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -22,7 +31,7 @@ PN,25802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G258FNDR TEXT GDo 26.11.B05:13:18
+OL,0,       G258FNDR TEXT GFr 27.11.B01:30:23
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -52,27 +61,23 @@ PN,25803
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G258FNDR TEXT GDo 26.11.B05:13:18
+OL,0,       G258FNDR TEXT GFr 27.11.B01:30:23
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Verbandsliga S-H Nord       
-OL,5,BSamstag, 28. November                  
-OL,6, Risum-L. II    - BW L|wenstedtB  14.00 
-OL,7, Obere Treene   - Eckernf|rde IIB 14.00 
-OL,8, Barkelsby      - DGF FlensborgB  14.00 
-OL,9, SG Mitte NF    - SG NordauB      14.00 
-OL,10, SG Eiderstedt  - TSB Flensb. IIB 14.00 
-OL,11, Stj. Flensborg - Schleswig 06B   15.30 
-OL,12, TSV RW Nieb}ll - Gr}n-Wei~ TolkB 16.00 
-OL,13, FSG Ostseek.   - Langenh./EngeB  16.00 
-OL,15,BMittwoch, 2. Dezember                  
-OL,16, SG Eiderstedt  - Langenh./EngeB  19.30 
-OL,18,BSamstag, 5. Dezember                   
-OL,19, SG Nordau      - TSV RW Nieb}llB 13.00 
-OL,20, Schleswig 06   - Langenh./EngeB  13.00 
-OL,21, Obere Treene   - BW L|wenstedtB  14.00 
-OL,22, Eckernf|rde II - Gr}n-Wei~ TolkB 14.00 
+OL,6,BSamstag, 27. Februar                   
+OL,7, DGF Flensborg  - Langenh./EngeB  13.00 
+OL,8, Eckernf|rde II - BarkelsbyB      14.00 
+OL,10,BSamstag, 6. M{rz                       
+OL,11, Schleswig 06   - Gr}n-Wei~ TolkB 13.00 
+OL,12, Obere Treene   - BarkelsbyB      14.00 
+OL,14, Risum-L. II    - Eckernf|rde IIB 14.00 
+OL,15, SG Mitte NF    - Langenh./EngeB  14.00 
+OL,17, Stj. Flensborg - SG NordauB      15.30 
+OL,18, TSV RW Nieb}ll - BW L|wenstedtB  16.00 
+OL,20, SG Eiderstedt  - DGF FlensborgB  16.00 
+OL,21, FSG Ostseek.   - TSB Flensb. IIB 16.00 
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

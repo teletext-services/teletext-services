@@ -3,27 +3,27 @@ PN,66501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G665FNDR TEXT GDo 26.11.B16:06:14
+OL,0,       G665FNDR TEXT GFr 27.11.B01:39:58
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD   AKTUELLE TEMPERATUREN     
 OL,4,F]T  %D       Niedersachsen             
-OL,5, Stand: 26.11.2026             14:00 Uhr
+OL,5, Stand: 27.11.2026             00:00 Uhr
 OL,6,SZ          ` `0                        
-OL,7,SZ   ,"!aqqR~S}G            A Aurich   
-OL,8,RZ  <`~~~S%p"u0G          B Bremen   
-OL,9,RZ   *oAt{Sup 0G       G G|ttingen
-OL,10,RZ    jS}|G     H Hannover 
-OL,11,RZ    jBSR}G    O Osnabr}ck
-OL,12,RZ    zSRS//               
-OL,13,RZ   hSR                  
-OL,14,RZ  |~4                 
-OL,15,VZ   k7kR' ?#5                 
-OL,16,VZ   *'  jO4R xHT    |G-4`C..-2`C
-OL,17,RZ       */%V *RV    |G-2`C..+0`C
-OL,18,VZ             o#!R    |G+0`C..+2`C
-OL,19,VZ              TS      |G+2`C..+4`C
-OL,20,RZ              oGT4Q     |G+4`C..+6`C
+OL,7,RZ   ,"!aqq ~S}G            A Aurich   
+OL,8,VZ  <`~T~VSp"Ru0G          B Bremen   
+OL,9,VZ   *oAt{RSup 0G       G G|ttingen
+OL,10,VZ    jR}|G     H Hannover 
+OL,11,VZ    jRBV}G    O Osnabr}ck
+OL,12,VZ    zTRV//               
+OL,13,VZ   hTRVT                  
+OL,14,TZ  |~VT4                 
+OL,15,TZ   k7kV' ?#TV5                 
+OL,16,TZ   *'V jO4  xHT    |G-5`C..-3`C
+OL,17,VZ       */%  *     |G-3`C..-1`C
+OL,18,VZ             o#!R    |G-1`C..+1`C
+OL,19,VZ              TS      |G+1`C..+3`C
+OL,20,RZ              oGT4Q     |G+3`C..+5`C
 OL,21,RZ               z? !                  
 OL,22,VZ               #!                     
 OL,23,D]G650<            Schleswig-Holstein >>
@@ -33,29 +33,29 @@ PN,66502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G665FNDR TEXT GDo 26.11.B16:06:14
+OL,0,       G665FNDR TEXT GFr 27.11.B01:39:58
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD   AKTUELLE TEMPERATUREN     
 OL,4,F]T  %D       Schleswig-Holstein        
-OL,5, Stand: 26.11.2026             14:00 Uhr
-OL,6,RZ   5 hS|p0  0                         
-OL,7,RZ  (!S F|4G            F Flensburg
-OL,8,SZ    / *Q0G          H Heide    
-OL,9,SZ       jQ!G          K Kiel     
-OL,10,RZ     %!&{SQ'`S     `|G  L L}beck   
-OL,11,RZ      pzSuQpS  0#!G M M|lln    
-OL,12,RZ     +/SKQ}p~               
-OL,13,RZ       HS?               
-OL,14,SZ /R    +S?'                
-OL,15,RZ       |S5                 
-OL,16,RZ       *SL%T   |G-4`C..-2`C
-OL,17,SZ          *5V    |G-2`C..+0`C
-OL,18,SZ           k?+uR    |G+0`C..+2`C
-OL,19,SZ            o/#  M    |G+2`C..+4`C
-OL,20,SZ                (Q    |G+4`C..+6`C
-OL,21,SZ                 +o7                  
-OL,22,SZ                   !                  
+OL,5, Stand: 27.11.2026             00:00 Uhr
+OL,6,SZ   5 hh|p0  0                         
+OL,7,SZ  (!  F|4G            F Flensburg
+OL,8,RZ    / *S0G          H Heide    
+OL,9,RZ       jS!G          K Kiel     
+OL,10,RZ     %!&{S'`      `|G  L L}beck   
+OL,11,RZ      pzSuQpS  0#!G M M|lln    
+OL,12,RZ     +/SKQ}p~               
+OL,13,SZ       HQ?               
+OL,14,QZ /S    +RQ?'                
+OL,15,SZ       |RS5                 
+OL,16,SZ       *RSL%T   |G-5`C..-3`C
+OL,17,SZ          *5V    |G-3`C..-1`C
+OL,18,SZ           k?+Ru     |G-1`C..+1`C
+OL,19,RZ            o/#  MS   |G+1`C..+3`C
+OL,20,RZ                (Q    |G+3`C..+5`C
+OL,21,RZ                 +o7                  
+OL,22,RZ                   !                  
 OL,23,D]G650<        Mecklenburg-Vorpommern >>
 OL,24,AInhalt BSport CFernsehen FWetter G(2/4)
 FL,101,200,300,650,0,100
@@ -63,29 +63,29 @@ PN,66503
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G665FNDR TEXT GDo 26.11.B16:06:14
+OL,0,       G665FNDR TEXT GFr 27.11.B01:39:58
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD   AKTUELLE TEMPERATUREN     
 OL,4,F]T  %D       Mecklenburg-Vorpommern    
-OL,5, Stand: 26.11.2026             15:00 Uhr
+OL,5, Stand: 27.11.2026             00:00 Uhr
 OL,6, G GreifswaldQZ     `|$                 
-OL,7, N NeubrandenburgQZ 6~5T   |G-5`C..-2`C
-OL,8, P Plau am SeeQZpp0ShpV   |G-2`C..+0`C
-OL,9, R RostockSZ   zz0ht|'+R   |G+0`C..+2`C
-OL,10, S SchwerinSZ `2-      |G+2`C..+4`C
-OL,11,SZ           hR00`00Q |G+4`C..+6`C
-OL,12,SZ        ||Gou              
-OL,13,SZ    00`z}"mt            
-OL,14,SZ  `}ppR?z/-            
-OL,15,SZ  ~RSRt0             
-OL,16,SZ  /R}            
-OL,17,SZ   SRNV?o5           
+OL,7, N NeubrandenburgSZ 6~5T   |G-5`C..-3`C
+OL,8, P Plau am SeeSZpp0RhpV   |G-3`C..-1`C
+OL,9, R RostockSZ   zR0ht|'+    |G-1`C..+1`C
+OL,10, S SchwerinSZ `R2-S     |G+1`C..+3`C
+OL,11,SZ           hRR0V`00Q |G+3`C..+5`C
+OL,12,SZ        ||RGVou              
+OL,13,SZ    00`zRV}"mt            
+OL,14,SZ  `}ppRV?z/-            
+OL,15,SZ  ~RVt0             
+OL,16,SZ  /RV}            
+OL,17,RZ   SNV?o5           
 OL,18,RZ  hPV%%o}           
-OL,19,RZ xV   j           
-OL,20,RZ +/o5#SoR?/V    %           
-OL,21,RZ   "?/!    "+//!                   
-OL,22,RZ    "o/                               
+OL,19,RZ xTRV    j           
+OL,20,RZ +/oT5#Vo?/     %           
+OL,21,VZ   "?/!    "+//!                   
+OL,22,VZ    "o/                               
 OL,23,D]G650<                       Hamburg >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/4)
 FL,101,200,300,650,0,100
@@ -93,26 +93,26 @@ PN,66504
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G665FNDR TEXT GDo 26.11.B16:06:15
+OL,0,       G665FNDR TEXT GFr 27.11.B01:39:58
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD   AKTUELLE TEMPERATUREN     
 OL,4,F]T  %D       Hamburg                   
-OL,5, Stand: 26.11.2026             15:00 Uhr
+OL,5, Stand: 27.11.2026             00:00 Uhr
 OL,7,SZ              `px7                    
 OL,8,SZ              j'G       A Altona     
-OL,9,SZ            ||~pG       B Bergedorf  
-OL,10,SZ         ppx}G      H Harburg    
-OL,11,SZ        jW$G     W Wandsbek   
-OL,12,SZ    |  `                    
-OL,13,SZ    }x?/                    
-OL,14,SZ   *oA}                     
-OL,15,SZ    j                     
-OL,16,SZ    *tpT      |G-5`C..-2`C
-OL,17,SZ     jH4V     |G-2`C..+0`C
-OL,18,SZ     *R0     |G+0`C..+2`C
-OL,19,SZ      +7 k' *BR0S   |G+2`C..+4`C
-OL,20,SZ         *+'   "oR?!Q   |G+4`C..+6`C
+OL,9,RZ            ||~pG       B Bergedorf  
+OL,10,RZ         ppx}G      H Harburg    
+OL,11,RZ        jW$G     W Wandsbek   
+OL,12,RZ    |  `                    
+OL,13,RZ    }x?/                    
+OL,14,RZ   *oASR}                     
+OL,15,SZ    jR                     
+OL,16,SZ    *RtpT      |G-5`C..-3`C
+OL,17,SZ     jHRSR4V     |G-3`C..-1`C
+OL,18,SZ     *RSR0     |G-1`C..+1`C
+OL,19,SZ      +7 kR' *BSR0S   |G+1`C..+3`C
+OL,20,SZ         *+'   "oR?!Q   |G+3`C..+5`C
 OL,21,RZ                 +/                  
 OL,23,D]G650<       Niederschlagsradar >666 >>
 OL,24,AInhalt BSport CFernsehen FWetter G(4/4)

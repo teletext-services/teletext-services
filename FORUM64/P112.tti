@@ -3,61 +3,62 @@ PN,11201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GDo 26 Nov F01:19:50
+OL,0,         GFORUM64   GFr 27 Nov F00:22:22
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,ECommodore 64 Ultimate Firmware Updates 
-OL,4,CAntwort:  BHe-Man1982                  
-OL,5,CComments: B584                         
-OL,6,F                                       
-OL,7,FGr|sse ist gleich... Aber schon V2.1   
-OL,8,Fbei der einen...?!                     
-OL,10,CErster Beitrag:                        
-OL,12,GDie neue Firmware ist drau~en, tr{gt   
-OL,13,Gdie Nummer 1.1.0                       
-OL,15,Ghttps://www.commodore.net/downloads?cur
-OL,16,Grency=EUR                              
-OL,18,GDas ist das Changelog                  
-OL,20,G( )                                    
-OL,22,GEin paar Sachen, die mir beim Flashen  
-OL,23,Gaufgefallen sind:                      
+OL,2,ESIDKick pico im 64Ultimate -           
+OL,3,EEinsteigerfragen                       
+OL,5,CAntwort:  Bcrackman                    
+OL,6,CComments: B13                          
+OL,7,F                                       
+OL,8,FAch die LED soll die Kerbe darstellen. 
+OL,9,FKein Wunder, dass ich den zuerst flasch
+OL,10,Frum im Ultimate stecken hatte.         
+OL,12,CErster Beitrag:                        
+OL,14,GDa momentan 500 SIDKick picos neuen    
+OL,15,GBesitzern zugestellt werden, landen    
+OL,16,Gbestimmt auch einige in noch           
+OL,17,Gunerfahrenen H{nden wie meinen.        
+OL,18,GZusammenstecken, einsetzen &           
+OL,19,Geinschalten ist am Ultimate unfallfrei 
+OL,20,Gverlaufen und Sound kommt auch         
+OL,22,GHabe auch den 64U-Adapter f}r den 2.   
+OL,23,GSID-Sockel angeschlossen und damit     
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GDo 26 Nov F01:19:50
+OL,0,         GFORUM64   GFr 27 Nov F00:22:22
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,G- Das Update fragt als erstes, ob das  
-OL,4,GFlashdrive neu formatiert werden muss, 
-OL,5,Gich habe hier "Nein" angew{hlt und     
-OL,6,Gw}rde es - wenn es keine Probleme mit  
-OL,7,Gdem Flashdrive gibt auch nicht         
-OL,8,Gempfehlen zu machen, weil sonst alle   
-OL,9,GRoms, etc. die man dorthin kopiert hat 
-OL,10,Gweg sind                               
-OL,12,G- Das ESP Modul wird w{hrend der       
-OL,13,GFlashens mit aktualisiert              
-OL,15,G- Ich habe die Frage, ob ich die       
-OL,16,GKonifguration resetten m|chte mit "Ja" 
-OL,17,Gbeantwortet, hier muss man vorsichtig  
-OL,18,Gsein, der C64U bootet dann, wenn er    
-OL,19,Gvorher }ber RGB lief wieder }ber CVBS, 
-OL,20,Gmein Monitor macht beides, das Bild war
-OL,21,Gdann nur monochrom, aber evtl. kann das
-OL,22,GProbleme bereiten. Ich vermute, dass es
+OL,3,Gbi~chen rumgespielt, was mir f}r den   
+OL,4,GAnfang aber noch zu kompliziert ist, so
+OL,5,Gdass ich nun den Pico im 1. und nen    
+OL,6,G8580 im 2. Sockel stecken habe.        
+OL,8,GIm Configmen} (}ber SYS54301) ist SID  
+OL,9,G#1 als 6581 eingestellt, SID #2 als    
+OL,10,G"none".                                
+OL,12,GWas sollte ich bei "Pot X/Y" einstellen
+OL,13,GWichtig w{re mir, dass ne USB-Maus     
+OL,14,Gm|glichst gut funktioniert, Paddles hab
+OL,15,Gich zwar, sind aber eher eingestaubt.  
+OL,17,GWenn ich im Ultimate-Men} in die SID   
+OL,18,GSockets Config. gehe, kann ich den     
+OL,19,GSKpico zwar einschalten, aber als 6581 
+OL,20,Gerkennen kann der Ultimate ihn nicht,  
+OL,21,Grichtig Gleiches gilt f}r den Ultimate 
+OL,22,GSID Player, da wird bei System:        
+OL,23,G"unknown" angezeigt. Isso oder kann man
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,11203
 SC,0003
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GDo 26 Nov F01:19:50
+OL,0,         GFORUM64   GFr 27 Nov F00:22:22
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Gbei HDMI egal ist, wei~ es aber nicht. 
-OL,5,G- Das Laden der alten Dolphin DOS      
-OL,6,GKonfiguration klappte nicht auf Anhieb,
-OL,7,Gich musste die Roms neu setzen und auch
-OL,8,Gdas Parallelkabel wieder aktivieren,   
+OL,3,Gdas doch }ber eine Einstellung sichtbar
+OL,4,Gmachen                                 
+OL,6,GDer                                    
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

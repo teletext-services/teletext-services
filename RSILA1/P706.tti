@@ -3,27 +3,26 @@ PN,70600
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G706  RSI LA 1  26.11.26 17:12:45
+OL,0,       G706  RSI LA 1  27.11.26 03:01:08
 OL,1,A]GRSI   ]@LA1      VENERDI 27 novembre 
 OL,2,G                                       
-OL,3, G05:00  GTG NotteCR                    
-OL,4, F05:20  FMeteoCST                      
-OL,5, G05:25  GIl QuotidianoCSTCR            
-OL,6, F05:55  FTG NotteCR                    
-OL,7, G06:15  GSiamo fuoriCSTCR              
-OL,8, F07:10  FMezz'ora per voiCST           
-OL,9, G07:40  GMezz'ora per voiCST           
-OL,10, F08:05  FEverywhere I go -         CST 
-OL,11,         FCoincidenze d'amore           
-OL,12,         FEpisodio 44                   
-OL,13, G08:50  GLa signora in gialloCSTCI/II  
-OL,14,         GIn arte Jessica Fox           
-OL,15, F09:35  FLa natura selvaggia degli CST 
-OL,16,         Fanimali domestici             
-OL,17,         FPiccoli segreti               
-OL,18, G10:30  GPrivate EyesCSTCI/II          
-OL,19,         GL'ultimo miglio               
-OL,20, F11:15  FWalker, Texas RangerCSTCI/II  
-OL,21,         FFuria cieca                   
+OL,3, G04:45  GIl QuotidianoCR               
+OL,4, F05:15  FTG Notte                      
+OL,5, G05:40  GMeteoCST                      
+OL,6, F05:40  FIl QuotidianoCST              
+OL,7, G06:15  GMeteoCST                      
+OL,8, F06:15  FSiamo fuoriCST                
+OL,9, G07:10  GMezz'ora per voiCST           
+OL,10, F07:40  FMezz'ora per voiCST           
+OL,11, G08:05  GEverywhere I go -         CST 
+OL,12,         GCoincidenze d'amore           
+OL,13,         GEpisodio 44                   
+OL,14, F08:50  FLa signora in gialloCSTCI/II  
+OL,15,         FIn arte Jessica Fox           
+OL,16, G09:35  GLa natura selvaggia degli CST 
+OL,17,         Ganimali domestici             
+OL,18,         GPiccoli segreti               
+OL,19, F10:30  FPrivate EyesCSTCI/II          
+OL,20,         FL'ultimo miglio               
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

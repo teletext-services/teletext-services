@@ -3,21 +3,21 @@ PN,46801
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G468 YLE TEKSTI-TV 26.03.10:50:26
-OL,1,D]G         POISJ[[NNIT 26.11.      1/5 
-OL,2,D]GVincennes (FR) (79)   14:55 klo 11:48
+OL,0,       G468 YLE TEKSTI-TV 27.03.05:52:05
+OL,1,D]G         POISJ[[NNIT 27.11.      1/8 
+OL,2,D]GTurku (05)            18:07 klo 06:50
 OL,3,K                                       
-OL,4,               G1. l{ht|A               
-OL,5,               G2. l{ht|A               
+OL,4,                G1. l{ht|A              
+OL,5,                G2. l{ht|A              
 OL,6,K                                       
-OL,7,               G3. l{ht|A               
-OL,8,               G4. l{ht|A               
+OL,7,                G3. l{ht|A4             
+OL,8,BT5-1           G4. l{ht|A              
 OL,9,K                                       
-OL,10,               G5. l{ht|A6              
-OL,11,               G6. l{ht|A               
+OL,10,BT5-2           G5. l{ht|A              
+OL,11,BT5-3           G6. l{ht|A8             
 OL,12,K                                       
-OL,13,               G7. l{ht|A               
-OL,14,               G8. l{ht|A               
+OL,13,BT5-4FDuo-1CTro G7. l{ht|A5,11          
+OL,14,BT5-5FDuo-2     G8. l{ht|A              
 OL,15,K                                       
 OL,16,K                                       
 OL,17,K                                       
@@ -33,22 +33,22 @@ PN,46802
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G468 YLE TEKSTI-TV 26.03.10:50:26
-OL,1,D]G         POISJ[[NNIT 26.11.      2/5 
-OL,2,D]GVincennes (47)        14:55 klo 11:48
+OL,0,       G468 YLE TEKSTI-TV 27.03.05:52:05
+OL,1,D]G         POISJ[[NNIT 27.11.      2/8 
+OL,2,D]GSein{joki (10)        18:15 klo 06:50
 OL,3,K                                       
-OL,4, 1:A                 G5:A6              
-OL,5, 2:A                 G6:A               
-OL,6, 3:A                 G7:A               
-OL,7, 4:A                 G8:A               
-OL,8,K                                       
-OL,9,D]GHalmstad (51)         19:20 klo 11:48
-OL,10,K                                       
-OL,11, 1:A                 G6:A7              
-OL,12, 2:A                 G7:A               
-OL,13, 3:A                 G8:A               
-OL,14, 4:A                 G9:A               
-OL,15, 5:A                G10:A               
+OL,4, 1:A                 G6:A               
+OL,5, 2:A                 G7:A               
+OL,6, 3:A4                G8:A6,13           
+OL,7, 4:A8                G9:A               
+OL,8, 5:A                G10:A               
+OL,9,K                                       
+OL,10,D]GVincennes (FR) (79)   19:23 klo 06:50
+OL,11,K                                       
+OL,12, 1:A                 G5:A               
+OL,13, 2:A                 G6:A1              
+OL,14, 3:A                 G7:A               
+OL,15, 4:A                 G8:A               
 OL,16,K                                       
 OL,17,K                                       
 OL,18,K                                       
@@ -63,17 +63,137 @@ PN,46803
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G468 YLE TEKSTI-TV 26.03.10:50:26
-OL,1,D]G         POISJ[[NNIT 26.11.      3/5 
-OL,2,D]GLignieres (76)        12:00 klo 11:48
+OL,0,       G468 YLE TEKSTI-TV 27.03.05:52:05
+OL,1,D]G         POISJ[[NNIT 27.11.      3/8 
+OL,2,D]GVincennes (47)        19:23 klo 06:50
+OL,3,K                                       
+OL,4, 1:A                 G5:A               
+OL,5, 2:A                 G6:A               
+OL,6, 3:A                 G7:A               
+OL,7, 4:A                 G8:A               
+OL,8,K                                       
+OL,9,D]GCompiegne (76)        13:50 klo 06:50
+OL,10,K                                       
+OL,11, 1:A                 G5:A               
+OL,12, 2:A                 G6:A               
+OL,13, 3:A                 G7:A               
+OL,14, 4:A                                    
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,D]G        460 RAVIEN OTSIKOT           
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46804
+SC,0004
+PS,C100
+CT,15,T
+OL,0,       G468 YLE TEKSTI-TV 27.03.05:52:05
+OL,1,D]G         POISJ[[NNIT 27.11.      4/8 
+OL,2,D]GPornichet (77)        14:08 klo 06:50
 OL,3,K                                       
 OL,4, 1:A                 G6:A               
-OL,5, 2:A                 G7:A1              
+OL,5, 2:A                 G7:A               
+OL,6, 3:A3                G8:A               
+OL,7, 4:A                 G9:A               
+OL,8, 5:A5                                   
+OL,9,K                                       
+OL,10,D]GPont De Vivaux (78)   17:55 klo 06:50
+OL,11,K                                       
+OL,12, 1:A                 G5:A               
+OL,13, 2:A                 G6:A               
+OL,14, 3:A                 G7:A               
+OL,15, 4:A                                    
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,D]G        460 RAVIEN OTSIKOT           
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46805
+SC,0005
+PS,C100
+CT,15,T
+OL,0,       G468 YLE TEKSTI-TV 27.03.05:52:05
+OL,1,D]G         POISJ[[NNIT 27.11.      5/8 
+OL,2,D]GToulouse (84)         19:30 klo 06:50
+OL,3,K                                       
+OL,4, 1:A                 G5:A               
+OL,5, 2:A                 G6:A               
+OL,6, 3:A                 G7:A               
+OL,7, 4:A                 G8:A               
+OL,8,K                                       
+OL,9,D]GWolvega (60)          12:13 klo 06:50
+OL,10,K                                       
+OL,11, 1:A                 G3:A               
+OL,12, 2:A                 G4:A               
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,D]G        460 RAVIEN OTSIKOT           
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46806
+SC,0006
+PS,C100
+CT,15,T
+OL,0,       G468 YLE TEKSTI-TV 27.03.05:52:05
+OL,1,D]G         POISJ[[NNIT 27.11.      6/8 
+OL,2,D]GG{vle (51)            19:20 klo 06:50
+OL,3,K                                       
+OL,4, 1:A                 G6:A               
+OL,5, 2:A                 G7:A               
+OL,6, 3:A                 G8:A               
+OL,7, 4:A                 G9:A               
+OL,8, 5:A                G10:A               
+OL,9,K                                       
+OL,10,D]GBoden (55)            13:20 klo 06:50
+OL,11,K                                       
+OL,12, 1:A                 G6:A               
+OL,13, 2:A                 G7:A8              
+OL,14, 3:A                 G8:A               
+OL,15, 4:A                 G9:A               
+OL,16, 5:A                                    
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
+OL,23,D]G        460 RAVIEN OTSIKOT           
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,46807
+SC,0007
+PS,C100
+CT,15,T
+OL,0,       G468 YLE TEKSTI-TV 27.03.05:52:05
+OL,1,D]G         POISJ[[NNIT 27.11.      7/8 
+OL,2,D]GKalmar (53)           19:30 klo 06:50
+OL,3,K                                       
+OL,4, 1:A                 G6:A               
+OL,5, 2:A                 G7:A               
 OL,6, 3:A                 G8:A               
 OL,7, 4:A                 G9:A               
 OL,8, 5:A                                    
 OL,9,K                                       
-OL,10,D]GChantilly (FR) (77)   13:17 klo 11:48
+OL,10,D]G]rhus (61)            16:45 klo 06:50
 OL,11,K                                       
 OL,12, 1:A                 G5:A               
 OL,13, 2:A                 G6:A               
@@ -89,55 +209,25 @@ OL,22,K
 OL,23,D]G        460 RAVIEN OTSIKOT           
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,46804
-SC,0004
+PN,46808
+SC,0008
 PS,C100
 CT,15,T
-OL,0,       G468 YLE TEKSTI-TV 26.03.10:50:26
-OL,1,D]G         POISJ[[NNIT 26.11.      4/5 
-OL,2,D]GMauquenchy (78)       18:07 klo 11:48
+OL,0,       G468 YLE TEKSTI-TV 27.03.05:52:05
+OL,1,D]G         POISJ[[NNIT 27.11.      8/8 
+OL,2,D]GUSA (58)              20:00 klo 06:50
 OL,3,K                                       
-OL,4, 1:A                 G5:A               
-OL,5, 2:A                 G6:A               
-OL,6, 3:A                 G7:A               
-OL,7, 4:A5                G8:A               
-OL,8,K                                       
-OL,9,D]GMons (84)             19:37 klo 11:48
+OL,4, 1:A                 G6:A               
+OL,5, 2:A                 G7:A               
+OL,6, 3:A                 G8:A               
+OL,7, 4:A                 G9:A               
+OL,8, 5:A                G10:A               
+OL,9,K                                       
 OL,10,K                                       
-OL,11, 1:A                 G4:A               
-OL,12, 2:A                 G5:A               
-OL,13, 3:A                                    
+OL,11,K                                       
+OL,12,K                                       
+OL,13,K                                       
 OL,14,K                                       
-OL,15,K                                       
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,D]G        460 RAVIEN OTSIKOT           
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,46805
-SC,0005
-PS,C100
-CT,15,T
-OL,0,       G468 YLE TEKSTI-TV 26.03.10:50:26
-OL,1,D]G         POISJ[[NNIT 26.11.      5/5 
-OL,2,D]GBolln{s (55)          13:20 klo 11:48
-OL,3,K                                       
-OL,4, 1:A2,11             G5:A               
-OL,5, 2:A7                G6:A5              
-OL,6, 3:A1                G7:A4,9            
-OL,7, 4:A6                G8:A8              
-OL,8,K                                       
-OL,9,D]GForus (67)            19:55 klo 11:48
-OL,10,K                                       
-OL,11, 1:A                 G5:A               
-OL,12, 2:A                 G6:A7              
-OL,13, 3:A                 G7:A               
-OL,14, 4:A                 G8:A               
 OL,15,K                                       
 OL,16,K                                       
 OL,17,K                                       

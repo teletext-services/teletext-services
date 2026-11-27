@@ -3,11 +3,11 @@ PN,19201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G192 WDR Text GDo 26.11.26 03:27:35
+OL,0,     G192 WDR Text GFr 27.11.26 07:36:01
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DAMTLICHE       ]          
 OL,3,]T5D     UNWETTERWARNUNGEN         
-OL,5, St{dte/KreiseCA-K  G(26.11., 03:25 Uhr)
+OL,5, St{dte/KreiseCA-K  G(27.11., 07:33 Uhr)
 OL,7, Aachen St{dtereg. FFrost               
 OL,8,BBielefeld         FFrost               
 OL,9, Bochum            FFrost               
@@ -31,22 +31,25 @@ PN,19202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G192 WDR Text GDo 26.11.26 03:27:35
+OL,0,     G192 WDR Text GFr 27.11.26 07:36:01
 OL,1,]D]        G]               @]   CWETTER
 OL,2,]D]GWDR     ]DAMTLICHE       ]          
 OL,3,]T5D     UNWETTERWARNUNGEN         
-OL,5, St{dte/KreiseCA-K  G(26.11., 03:25 Uhr)
+OL,5, St{dte/KreiseCA-K  G(27.11., 07:33 Uhr)
 OL,7,BG}tersloh, Kreis  FFrost               
 OL,8, Hagen             FFrost               
 OL,9,BHamm              FFrost               
-OL,10, Heinsberg, Kreis  FFrost               
-OL,11,BHerford, Kreis    FFrost               
-OL,12, Herne             FFrost               
-OL,13,BHochsauerlandkreisFFrost               
-OL,14, H|xter, Kreis     FFrost               
-OL,15,BKleve, Kreis      FFrost               
-OL,16, Krefeld           FFrost               
-OL,17,BK|ln              FFrost               
+OL,10,BHamm              FGl{tte              
+OL,11, Heinsberg, Kreis  FFrost               
+OL,12,BHerford, Kreis    FFrost               
+OL,13, Herne             FFrost               
+OL,14,BHochsauerlandkreisFFrost               
+OL,15,BHochsauerlandkreisFGl{tte              
+OL,16, H|xter, Kreis     FFrost               
+OL,17, H|xter, Kreis     FGl{tte              
+OL,18,BKleve, Kreis      FFrost               
+OL,19, Krefeld           FFrost               
+OL,20,BK|ln              FFrost               
 OL,22,C(Quelle: Deutscher Wetterdienst)       
 OL,23,]D180 < ]bersicht      Anleitungen > 194
 OL,24,A]G- 191B]G+ 193C]DUnwetter \     G(2/2)

@@ -3,7 +3,7 @@ PN,73401
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G734  RSI LA 1  26.11.26 17:57:24
+OL,0,       G734  RSI LA 1  27.11.26 03:02:02
 OL,1,A]GRSI   ]@LA2      GIOVEDI 26 novembre 
 OL,2,G                                   1/3 
 OL,3, G04:40  GTelegiornaleCR                
@@ -31,7 +31,7 @@ PN,73402
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G734  RSI LA 1  26.11.26 17:57:24
+OL,0,       G734  RSI LA 1  27.11.26 03:02:02
 OL,1,A]GRSI   ]@LA2      GIOVEDI 26 novembre 
 OL,2,G                                   2/3 
 OL,3, G16:10  GBiathlon: Coppa del  CSTCI/II 
@@ -45,24 +45,26 @@ OL,10,         GLeague 2026/2027
 OL,11,         GAjax - Thun                   
 OL,12, F21:20  FDinastia KnieCSTCI/II.....C710
 OL,13, G23:05  GCalcio: La partita            
-OL,14, F23:25  FBasket: Pre Qualificazioni    
-OL,15,         FEuropei 2029                  
-OL,16,         FSlovacchia - Svizzera         
-OL,17, G01:10  GTelesguardCST                 
-OL,18, F01:25  FCalcio: Conference League CST 
-OL,19,         F2026/2027                     
-OL,20,         FAjax - Thun                   
+OL,14,         GJablonec - Lugano             
+OL,15, F23:25  FBasket: Pre Qualificazioni    
+OL,16,         FEuropei 2029                  
+OL,17,         FSlovacchia - Svizzera         
+OL,18, G01:10  GTelesguardCST                 
+OL,19, F01:25  FCalcio: Conference League CST 
+OL,20,         F2026/2027                     
+OL,21,         FAjax - Thun                   
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73403
 SC,0003
 PS,C300
 CT,8,T
-OL,0,       G734  RSI LA 1  26.11.26 17:57:24
+OL,0,       G734  RSI LA 1  27.11.26 03:02:02
 OL,1,A]GRSI   ]@LA2      GIOVEDI 26 novembre 
 OL,2,G                                   3/3 
 OL,3, G03:05  GBiathlon: Coppa del Mondo CST 
 OL,4,         G2026/2027                     
 OL,5,         G20km individuale maschile     
+OL,6, F04:45  FMeteoCST                      
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

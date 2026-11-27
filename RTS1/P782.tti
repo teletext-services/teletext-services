@@ -3,28 +3,28 @@ PN,78201
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G782  RTS 1     26.11.26 19:14:30
+OL,0,       G782  RTS 1     27.11.26 03:31:41
 OL,1,A]GRTS LA PREMIERE G]@demain            
 OL,2,\                                       
 OL,3,G                                   1/4 
 OL,4,C00:00GLe Journal horaire               
 OL,5,      FLe Journal horaire de 00h00      
 OL,6,C00:03GVacarme                          
-OL,7,      FTaxis 4/5 - Les petites courses  
-OL,8,C00:30GTribu                            
-OL,9,C01:00GLe Journal horaire               
-OL,10,      FLe Journal horaire de 1h00       
-OL,11,C01:03GDr|le d'#poque                   
-OL,12,C02:00GLe Journal horaire               
-OL,13,      FLe Journal horaire de 2h00       
-OL,14,C03:00GLe Journal horaire               
-OL,15,      FLe Journal horaire de 3h00       
-OL,16,C03:03GVertigo                          
-OL,17,C04:00GLe Journal horaire               
-OL,18,      FLe Journal horaire de 4h00       
-OL,19,C04:03GCQFD                             
-OL,20,C05:00GLe Journal horaire               
-OL,21,      FLe Journal horaire de 5h00       
+OL,7,C00:30GTribu                            
+OL,8,C01:00GLe Journal horaire               
+OL,9,      FLe Journal horaire de 1h00       
+OL,10,C01:03GDr|le d'#poque                   
+OL,11,C02:00GLe Journal horaire               
+OL,12,      FLe Journal horaire de 2h00       
+OL,13,C03:00GLe Journal horaire               
+OL,14,      FLe Journal horaire de 3h00       
+OL,15,C03:03GVertigo                          
+OL,16,C04:00GLe Journal horaire               
+OL,17,      FLe Journal horaire de 4h00       
+OL,18,C04:03GCQFD                             
+OL,19,C05:00GLe Journal horaire               
+OL,20,      FLe Journal horaire de 5h00       
+OL,21,C05:03GQuartier livre                   
 OL,23,G]AFr#quences RTS    > 780 sur RTS 2    
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -32,27 +32,29 @@ PN,78202
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G782  RTS 1     26.11.26 19:14:30
+OL,0,       G782  RTS 1     27.11.26 03:31:41
 OL,1,A]GRTS LA PREMIERE G]@demain            
 OL,2,\                                       
 OL,3,G                                   2/4 
-OL,4,C05:03GLes dicodeurs                    
-OL,5,      FLes Dicodeurs @ Fribourg avec    
-OL,6,      FBlaise Curtenaz (5/5)            
-OL,7,C06:00GLa Matinale                      
-OL,8,C08:10GTout un monde                    
-OL,9,C08:32GOn en parle                      
-OL,10,      FOn en parle - additifs dans les  
-OL,11,      Fpains, f\tes de No[l solidaires  
-OL,12,      Fet sauces                        
-OL,13,C09:00GLe Journal horaire               
-OL,14,      FLe Journal horaire de 9h00       
-OL,15,C10:00GLe Journal horaire               
-OL,16,      FLe Journal horaire de 10h00      
-OL,17,C10:04GCQFD                             
-OL,18,C11:00GLe Journal horaire               
-OL,19,      FLe Journal horaire de 11h00      
-OL,20,C11:04GTribu                            
+OL,4,C06:03G6-10 le samedi                   
+OL,5,C07:00GLe Journal de 7h                 
+OL,6,C08:00GLe Journal de 8h                 
+OL,7,C09:00GLe Journal horaire               
+OL,8,      FLe Journal horaire de 9h00       
+OL,9,C09:00GLe Journal de 9h                 
+OL,10,C09:06GOn en parle                      
+OL,11,C10:00GLe Journal horaire               
+OL,12,      FLe Journal horaire de 10h00      
+OL,13,C10:03GGare @ vous                      
+OL,14,C11:00GLe Journal horaire               
+OL,15,      FLe Journal horaire de 11h00      
+OL,16,C11:03GLe kiosque @ musiques            
+OL,17,      FCirque de No[l, Neuch{tel        
+OL,18,C12:00GLe Journal horaire               
+OL,19,      FLe Journal horaire de 12h00      
+OL,20,C12:30GLe 12h30                         
+OL,21,C13:00GLe Journal horaire               
+OL,22,      FLe Journal horaire de 13h00      
 OL,23,G]AFr#quences RTS    > 780 sur RTS 2    
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -60,28 +62,28 @@ PN,78203
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G782  RTS 1     26.11.26 19:14:30
+OL,0,       G782  RTS 1     27.11.26 03:31:41
 OL,1,A]GRTS LA PREMIERE G]@demain            
 OL,2,\                                       
 OL,3,G                                   3/4 
-OL,4,C11:30GLes dicodeurs                    
-OL,5,      FLes Dicodeurs @ Fribourg avec    
-OL,6,      FBlaise Curtenaz (5/5)            
-OL,7,C12:00GLe Journal horaire               
-OL,8,      FLe Journal horaire de 12h00      
-OL,9,C12:30GLe 12h30                         
-OL,10,C13:00GLe Journal horaire               
-OL,11,      FLe Journal horaire de 13h00      
-OL,12,C13:04GVacarme                          
-OL,13,      FTaxis 5/5 - HEP ! Uber           
-OL,14,C13:30GHistoire vivante                 
-OL,15,C14:00GLe Journal horaire               
-OL,16,      FLe Journal horaire de 14h00      
-OL,17,C14:04GDis, pourquoi?                   
-OL,18,      FDemain, pourrons-nous enregistrer
-OL,19,      Fnos r\ves? (r\ve 5/5             
-OL,20,C15:00GLe Journal horaire               
-OL,21,      FLe Journal horaire de 15h00      
+OL,4,C13:03GEgosyst`me                       
+OL,5,      FSommes-nous tous les m\mes ?     
+OL,6,C14:00GLe Journal horaire               
+OL,7,      FLe Journal horaire de 14h00      
+OL,8,C14:03GMonumental                       
+OL,9,      FParis, des origines @ nos jours  
+OL,10,      F2/2                              
+OL,11,C15:00GLe Journal horaire               
+OL,12,      FLe Journal horaire de 15h00      
+OL,13,C15:03GPlaylist                         
+OL,14,C16:00GLe Journal horaire               
+OL,15,      FLe Journal horaire de 16h00      
+OL,16,C16:03GL'Effet papillon                 
+OL,17,      FPlastique, on est accro          
+OL,18,C17:00GLe Journal horaire               
+OL,19,      FLe Journal horaire de 17h00      
+OL,20,C17:03GLa librairie francophone         
+OL,21,C18:00GForum                            
 OL,23,G]AFr#quences RTS    > 780 sur RTS 2    
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -89,28 +91,24 @@ PN,78204
 SC,0004
 PS,C080
 CT,8,T
-OL,0,       G782  RTS 1     26.11.26 19:14:30
+OL,0,       G782  RTS 1     27.11.26 03:31:41
 OL,1,A]GRTS LA PREMIERE G]@demain            
 OL,2,\                                       
 OL,3,G                                   4/4 
-OL,4,C15:04GDr|le d'#poque                   
-OL,5,      FJeanne Chassot, autrice, cher-   
-OL,6,      Fcheuse et praticienne narrative  
-OL,7,C16:00GLe Journal horaire               
-OL,8,      FLe Journal horaire de 16h00      
-OL,9,C17:00GLe Journal horaire               
-OL,10,      FLe Journal horaire de 17h00      
-OL,11,C17:04GVertigo                          
-OL,12,C18:00GForum                            
-OL,13,C19:00GLe Journal horaire               
-OL,14,      FLe Journal horaire de 19h00      
-OL,15,C19:04GPlaylist                         
-OL,16,C20:00GLe Journal horaire               
-OL,17,      FLe Journal horaire de 20h00      
-OL,18,C20:03GPremi`re, live !                 
-OL,19,      FMeimuna                          
-OL,20,C21:00GLe Journal horaire               
-OL,21,      FLe Journal horaire de 21h00      
+OL,4,C19:00GUne vie en vinyls                
+OL,5,C19:00GLe Journal horaire               
+OL,6,      FLe Journal horaire de 19h00      
+OL,7,C20:00GLe Journal horaire               
+OL,8,      FLe Journal horaire de 20h00      
+OL,9,C20:03GSalade de fruits                 
+OL,10,C21:00GLe Journal horaire               
+OL,11,      FLe Journal horaire de 21h00      
+OL,12,C21:03GSalade de fruits                 
+OL,13,C22:00GLe Journal horaire               
+OL,14,      FLe Journal horaire de 22h00      
+OL,15,C22:03GJuste mesure                     
+OL,16,C23:00GLe Journal horaire               
+OL,17,      FLe Journal horaire de 23h00      
 OL,23,G]AFr#quences RTS    > 780 sur RTS 2    
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

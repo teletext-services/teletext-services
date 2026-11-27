@@ -3,7 +3,7 @@ PN,19201
 SC,0001
 PS,C100
 CT,15,T
-OL,0,        C192BMTVA    G2026.11.26. C03:28
+OL,0,        C192BMTVA    G2026.11.27. C01:18
 OL,1,A]        GBUDAPEST AIRPORT ZRT.        
 OL,2,A]   GK|zponti telefonszam: 296-9696    
 OL,3,A]MGFERIHEGY 2A  Indulas/Departure B>>> 
@@ -21,14 +21,14 @@ OL,15,FTP7451   Brussels BRU    06:20
 OL,16, UA9970   Brussels BRU    06:20         
 OL,17,FKL1362   Amsterdam       06:30         
 OL,19,B]DFelszallt/Departed A]GK`sik/Delayed  
-OL,21,  http://www.bud.hu   FAdat ideje:02:27 
+OL,21,  http://www.bud.hu   FAdat ideje:00:17 
 OL,22,D]CMai indulas 2B .................. 193
 FL,101,175,200,300,0,100
 PN,19202
 SC,0002
 PS,C100
 CT,15,T
-OL,0,        C192BMTVA    G2026.11.26. C03:28
+OL,0,        C192BMTVA    G2026.11.27. C01:18
 OL,1,A]        GBUDAPEST AIRPORT ZRT.        
 OL,2,A]   GK|zponti telefonszam: 296-9696    
 OL,3,A]MGFERIHEGY 2A  Indulas/Departure B>>> 
@@ -46,14 +46,14 @@ OL,15,FTP7505   Frankfurt       06:40
 OL,16, UA9023   Frankfurt       06:40         
 OL,17,FLH1683   Munich          07:50         
 OL,19,B]DFelszallt/Departed A]GK`sik/Delayed  
-OL,21,  http://www.bud.hu   FAdat ideje:02:27 
+OL,21,  http://www.bud.hu   FAdat ideje:00:17 
 OL,22,D]CMai indulas 2B .................. 193
 FL,101,175,200,300,0,100
 PN,19203
 SC,0003
 PS,C100
 CT,15,T
-OL,0,        C192BMTVA    G2026.11.26. C03:28
+OL,0,        C192BMTVA    G2026.11.27. C01:18
 OL,1,A]        GBUDAPEST AIRPORT ZRT.        
 OL,2,A]   GK|zponti telefonszam: 296-9696    
 OL,3,A]MGFERIHEGY 2A  Indulas/Departure B>>> 
@@ -63,22 +63,22 @@ OL,7,FNH5862   Munich          07:50
 OL,8, TP7977   Munich          07:50         
 OL,9,FUA9143   Munich          07:50         
 OL,10, OS640    Vienna          07:50         
-OL,11,FAC6197   Vienna          07:50         
-OL,12, LG1780   Vienna          07:50         
-OL,13,FTP8706   Vienna          07:50         
-OL,14, UA9824   Vienna          07:50         
-OL,15,FTK1036   Istanbul IST    09:10         
-OL,16, TG9165   Istanbul IST    09:10         
+OL,11,FLG1780   Vienna          07:50         
+OL,12, NH6312   Vienna          07:50         
+OL,13,FUA9824   Vienna          07:50         
+OL,14, TK1036   Istanbul IST    09:10         
+OL,15,FTG9165   Istanbul IST    09:10         
+OL,16, AY1252   Helsinki HEL    09:20         
 OL,17,FLX2251   Zurich          09:40         
 OL,19,B]DFelszallt/Departed A]GK`sik/Delayed  
-OL,21,  http://www.bud.hu   FAdat ideje:02:27 
+OL,21,  http://www.bud.hu   FAdat ideje:00:17 
 OL,22,D]CMai indulas 2B .................. 193
 FL,101,175,200,300,0,100
 PN,19204
 SC,0004
 PS,C100
 CT,15,T
-OL,0,        C192BMTVA    G2026.11.26. C03:28
+OL,0,        C192BMTVA    G2026.11.27. C01:18
 OL,1,A]        GBUDAPEST AIRPORT ZRT.        
 OL,2,A]   GK|zponti telefonszam: 296-9696    
 OL,3,A]MGFERIHEGY 2A  Indulas/Departure B>>> 
@@ -86,165 +86,185 @@ OL,5,CJARAT    HOVA            MIKOR VALTOZAS
 OL,6, AC6831   Zurich          09:40         
 OL,7,FTP8199   Zurich          09:40         
 OL,8, UA9795   Zurich          09:40         
-OL,9,FLO534    Warsaw WAW      09:45         
-OL,10, LH1675   Munich          09:55         
-OL,11,FAC9175   Munich          09:55         
-OL,12, TP7981   Munich          09:55         
-OL,13,FUA8824   Munich          09:55         
-OL,14, LH1333   Frankfurt       10:00         
-OL,15,FAC9039   Frankfurt       10:00         
-OL,16, SN7140   Frankfurt       10:00         
-OL,17,FTG7667   Frankfurt       10:00         
+OL,9,FLH1675   Munich          09:55         
+OL,10, AC9175   Munich          09:55         
+OL,11,FTP7981   Munich          09:55         
+OL,12, UA8824   Munich          09:55         
+OL,13,FLH1333   Frankfurt       10:00         
+OL,14, AC9039   Frankfurt       10:00         
+OL,15,FSN7140   Frankfurt       10:00         
+OL,16, TG7667   Frankfurt       10:00         
+OL,17,FTP7507   Frankfurt       10:00         
 OL,19,B]DFelszallt/Departed A]GK`sik/Delayed  
-OL,21,  http://www.bud.hu   FAdat ideje:02:27 
+OL,21,  http://www.bud.hu   FAdat ideje:00:17 
 OL,22,D]CMai indulas 2B .................. 193
 FL,101,175,200,300,0,100
 PN,19205
 SC,0005
 PS,C100
 CT,15,T
-OL,0,        C192BMTVA    G2026.11.26. C03:28
+OL,0,        C192BMTVA    G2026.11.27. C01:18
 OL,1,A]        GBUDAPEST AIRPORT ZRT.        
 OL,2,A]   GK|zponti telefonszam: 296-9696    
 OL,3,A]MGFERIHEGY 2A  Indulas/Departure B>>> 
 OL,5,CJARAT    HOVA            MIKOR VALTOZAS
-OL,6, TP7507   Frankfurt       10:00         
-OL,7,FUA9065   Frankfurt       10:00         
-OL,8, SK780    Copenhagen      10:25         
-OL,9,FLG5808   Luxembourg      11:25         
-OL,10, FM870    Shanghai PVG    11:30         
-OL,11,FMU8640   Shanghai PVG    11:30         
-OL,12, LH1335   Frankfurt       11:40         
-OL,13,FUA9221   Frankfurt       11:40         
-OL,14, SN7142   Frankfurt       11:40         
-OL,15,FCZ650    Guangzhou       11:45         
-OL,16, RO232    Bucharest OTP   11:50         
-OL,17,FKL1364   Amsterdam       12:25         
+OL,6, UA9065   Frankfurt       10:00         
+OL,7,FSK780    Copenhagen      10:25         
+OL,8, EZY8732  London LGW      10:40         
+OL,9,FRO232    Bucharest OTP   10:50         
+OL,10, EZY5738  London SEN      10:55         
+OL,11,FIB870    Madrid MAD      11:10         
+OL,12, AA8834   Madrid MAD      11:10         
+OL,13,FVY5508   Madrid MAD      11:10         
+OL,14, FM870    Shanghai PVG    11:30         
+OL,15,FMU8640   Shanghai PVG    11:30         
+OL,16, LH1335   Frankfurt       11:40         
+OL,17,FUA9221   Frankfurt       11:40         
 OL,19,B]DFelszallt/Departed A]GK`sik/Delayed  
-OL,21,  http://www.bud.hu   FAdat ideje:02:27 
+OL,21,  http://www.bud.hu   FAdat ideje:00:17 
 OL,22,D]CMai indulas 2B .................. 193
 FL,101,175,200,300,0,100
 PN,19206
 SC,0006
 PS,C100
 CT,15,T
-OL,0,        C192BMTVA    G2026.11.26. C03:28
+OL,0,        C192BMTVA    G2026.11.27. C01:18
 OL,1,A]        GBUDAPEST AIRPORT ZRT.        
 OL,2,A]   GK|zponti telefonszam: 296-9696    
 OL,3,A]MGFERIHEGY 2A  Indulas/Departure B>>> 
 OL,5,CJARAT    HOVA            MIKOR VALTOZAS
-OL,6, AF1395   Paris CDG       12:40         
-OL,7,FDL8454   Paris CDG       12:40         
-OL,8, UU8395   Paris CDG       12:40         
-OL,9,FSK9720   Paris CDG       12:40         
-OL,10, MU1888   Paris CDG       12:40         
-OL,11,FLO536    Warsaw WAW      12:55         
-OL,12, LH1677   Munich          13:30         
-OL,13,FTP7979   Munich          13:30         
-OL,14, UA9037   Munich          13:30         
-OL,15,FKL1368   Amsterdam       13:55         
-OL,16, DL9488   Amsterdam       13:55         
-OL,17,FMU1856   Amsterdam       13:55         
+OL,6, SN7142   Frankfurt       11:40         
+OL,7,FKL1364   Amsterdam       12:25         
+OL,8, AF1395   Paris CDG       12:40         
+OL,9,FDL8454   Paris CDG       12:40         
+OL,10, UU8395   Paris CDG       12:40         
+OL,11,FSK9720   Paris CDG       12:40         
+OL,12, MU1888   Paris CDG       12:40         
+OL,13,FLO536    Warsaw WAW      12:55         
+OL,14, LH1677   Munich          13:30         
+OL,15,FTP7979   Munich          13:30         
+OL,16, UA9037   Munich          13:30         
+OL,17,FKL1368   Amsterdam       13:55         
 OL,19,B]DFelszallt/Departed A]GK`sik/Delayed  
-OL,21,  http://www.bud.hu   FAdat ideje:02:27 
+OL,21,  http://www.bud.hu   FAdat ideje:00:17 
 OL,22,D]CMai indulas 2B .................. 193
 FL,101,175,200,300,0,100
 PN,19207
 SC,0007
 PS,C100
 CT,15,T
-OL,0,        C192BMTVA    G2026.11.26. C03:28
+OL,0,        C192BMTVA    G2026.11.27. C01:18
 OL,1,A]        GBUDAPEST AIRPORT ZRT.        
 OL,2,A]   GK|zponti telefonszam: 296-9696    
 OL,3,A]MGFERIHEGY 2A  Indulas/Departure B>>> 
 OL,5,CJARAT    HOVA            MIKOR VALTOZAS
-OL,6, SK6735   Amsterdam       13:55         
-OL,7,FGA9519   Amsterdam       13:55         
-OL,8, TK1034   Istanbul IST    13:55         
-OL,9,FTG9163   Istanbul IST    13:55         
-OL,10, RJ3737   Istanbul IST    13:55         
-OL,11,FLH1337   Frankfurt       14:25         
-OL,12, AC9664   Frankfurt       14:25         
-OL,13,FEY3764   Frankfurt       14:25         
-OL,14, NH5468   Frankfurt       14:25         
-OL,15,FSN7144   Frankfurt       14:25         
-OL,16, UA9537   Frankfurt       14:25         
-OL,17,FVF110    Istanbul SAW    14:35         
+OL,6, DL9488   Amsterdam       13:55         
+OL,7,FMU1856   Amsterdam       13:55         
+OL,8, SK6735   Amsterdam       13:55         
+OL,9,FGA9519   Amsterdam       13:55         
+OL,10, TK1034   Istanbul IST    13:55         
+OL,11,FTG9163   Istanbul IST    13:55         
+OL,12, RJ3737   Istanbul IST    13:55         
+OL,13,FLH1337   Frankfurt       14:25         
+OL,14, AC9664   Frankfurt       14:25         
+OL,15,FEY3764   Frankfurt       14:25         
+OL,16, NH5468   Frankfurt       14:25         
+OL,17,FSN7144   Frankfurt       14:25         
 OL,19,B]DFelszallt/Departed A]GK`sik/Delayed  
-OL,21,  http://www.bud.hu   FAdat ideje:02:27 
+OL,21,  http://www.bud.hu   FAdat ideje:00:17 
 OL,22,D]CMai indulas 2B .................. 193
 FL,101,175,200,300,0,100
 PN,19208
 SC,0008
 PS,C100
 CT,15,T
-OL,0,        C192BMTVA    G2026.11.26. C03:28
+OL,0,        C192BMTVA    G2026.11.27. C01:18
 OL,1,A]        GBUDAPEST AIRPORT ZRT.        
 OL,2,A]   GK|zponti telefonszam: 296-9696    
 OL,3,A]MGFERIHEGY 2A  Indulas/Departure B>>> 
 OL,5,CJARAT    HOVA            MIKOR VALTOZAS
-OL,6, BZ441    Tel Aviv TLV    14:35         
-OL,7,FOS634    Vienna          14:55         
-OL,8, LG1786   Vienna          14:55         
-OL,9,FLX2255   Zurich          14:55         
-OL,10, TP8197   Zurich          14:55         
-OL,11,FPC332    Istanbul SAW    15:40         
-OL,12, LH1679   Munich          17:10         
-OL,13,FEY4176   Munich          17:10         
-OL,14, TP7975   Munich          17:10         
-OL,15,FKL1370   Amsterdam       17:20         
-OL,16, SK6739   Amsterdam       17:20         
-OL,17,FGA9239   Amsterdam       17:20         
+OL,6, TP7511   Frankfurt       14:25         
+OL,7,FUA9537   Frankfurt       14:25         
+OL,8, OS634    Vienna          14:55         
+OL,9,FLG1786   Vienna          14:55         
+OL,10, LX2255   Zurich          14:55         
+OL,11,FTP8197   Zurich          14:55         
+OL,12, PC332    Istanbul SAW    15:10         
+OL,13,FMS752    Cairo           16:00         
+OL,14, SM8752   Cairo           16:00         
+OL,15,FET1456   Cairo           16:00         
+OL,16, LO5297   Cairo           16:00         
+OL,17,FWB3220   Cairo           16:00         
 OL,19,B]DFelszallt/Departed A]GK`sik/Delayed  
-OL,21,  http://www.bud.hu   FAdat ideje:02:27 
+OL,21,  http://www.bud.hu   FAdat ideje:00:17 
 OL,22,D]CMai indulas 2B .................. 193
 FL,101,175,200,300,0,100
 PN,19209
 SC,0009
 PS,C100
 CT,15,T
-OL,0,        C192BMTVA    G2026.11.26. C03:28
+OL,0,        C192BMTVA    G2026.11.27. C01:18
 OL,1,A]        GBUDAPEST AIRPORT ZRT.        
 OL,2,A]   GK|zponti telefonszam: 296-9696    
 OL,3,A]MGFERIHEGY 2A  Indulas/Departure B>>> 
 OL,5,CJARAT    HOVA            MIKOR VALTOZAS
-OL,6, SN2826   Brussels BRU    17:50         
-OL,7,FEY7254   Brussels BRU    17:50         
-OL,8, AF1295   Paris CDG       18:00         
-OL,9,FUU8295   Paris CDG       18:00         
-OL,10, SK9882   Paris CDG       18:00         
-OL,11,FKQ3803   Paris CDG       18:00         
-OL,12, LO538    Warsaw WAW      18:00         
-OL,13,FLH1339   Frankfurt       18:35         
-OL,14, ET1554   Frankfurt       18:35         
-OL,15,FSN7146   Frankfurt       18:35         
-OL,16, SQ2147   Frankfurt       18:35         
-OL,17,FAY1256   Helsinki HEL    19:15         
+OL,6, A3877    Athens          16:20         
+OL,7,FLH1679   Munich          17:10         
+OL,8, EY4176   Munich          17:10         
+OL,9,FTP7975   Munich          17:10         
+OL,10, KL1370   Amsterdam       17:20         
+OL,11,FSK6739   Amsterdam       17:20         
+OL,12, GA9239   Amsterdam       17:20         
+OL,13,FSN2826   Brussels BRU    17:50         
+OL,14, EY7254   Brussels BRU    17:50         
+OL,15,FAF1295   Paris CDG       18:00         
+OL,16, UU8295   Paris CDG       18:00         
+OL,17,FSK9882   Paris CDG       18:00         
 OL,19,B]DFelszallt/Departed A]GK`sik/Delayed  
-OL,21,  http://www.bud.hu   FAdat ideje:02:27 
+OL,21,  http://www.bud.hu   FAdat ideje:00:17 
 OL,22,D]CMai indulas 2B .................. 193
 FL,101,175,200,300,0,100
 PN,19210
 SC,0010
 PS,C100
 CT,15,T
-OL,0,        C192BMTVA    G2026.11.26. C03:28
+OL,0,        C192BMTVA    G2026.11.27. C01:18
 OL,1,A]        GBUDAPEST AIRPORT ZRT.        
 OL,2,A]   GK|zponti telefonszam: 296-9696    
 OL,3,A]MGFERIHEGY 2A  Indulas/Departure B>>> 
 OL,5,CJARAT    HOVA            MIKOR VALTOZAS
-OL,6, SK762    Copenhagen      19:50         
-OL,7,FEJU4698  Paris CDG       20:00         
-OL,8, LX2259   Zurich          20:00         
-OL,9,FTK1038   Istanbul IST    20:05         
-OL,10, TG9194   Istanbul IST    20:05         
-OL,11,FEW2785   Stuttgart       20:10         
-OL,12, EW9785   Dusseldorf DUS  20:25         
-OL,13,FEZS1568  Geneva          20:25         
-OL,14, LO532    Warsaw WAW      20:25         
-OL,15,FEZS1214  Basel           20:30         
-OL,16, EZY8734  London LGW      20:45         
+OL,6, KQ3803   Paris CDG       18:00         
+OL,7,FLO538    Warsaw WAW      18:00         
+OL,8, RO238    Bucharest OTP   18:20         
+OL,9,FLH1339   Frankfurt       18:35         
+OL,10, ET1554   Frankfurt       18:35         
+OL,11,FSN7146   Frankfurt       18:35         
+OL,12, SQ2147   Frankfurt       18:35         
+OL,13,FSK762    Copenhagen      19:50         
+OL,14, LX2259   Zurich          20:00         
+OL,15,FTK1038   Istanbul IST    20:05         
+OL,16, TG9194   Istanbul IST    20:05         
+OL,17,FNP7502   Hurghada        20:15         
 OL,19,B]DFelszallt/Departed A]GK`sik/Delayed  
-OL,21,  http://www.bud.hu   FAdat ideje:02:27 
+OL,21,  http://www.bud.hu   FAdat ideje:00:17 
+OL,22,D]CMai indulas 2B .................. 193
+FL,101,175,200,300,0,100
+PN,19211
+SC,0011
+PS,C100
+CT,15,T
+OL,0,        C192BMTVA    G2026.11.27. C01:18
+OL,1,A]        GBUDAPEST AIRPORT ZRT.        
+OL,2,A]   GK|zponti telefonszam: 296-9696    
+OL,3,A]MGFERIHEGY 2A  Indulas/Departure B>>> 
+OL,5,CJARAT    HOVA            MIKOR VALTOZAS
+OL,6, LO532    Warsaw WAW      20:20         
+OL,7,FEW9785   Dusseldorf DUS  20:25         
+OL,8, EW2785   Stuttgart       20:25         
+OL,9,FEW7781   Hamburg         20:45         
+OL,10, FZ1406   Dubai DXB       22:20         
+OL,11,FEK2453   Dubai DXB       22:20         
+OL,19,B]DFelszallt/Departed A]GK`sik/Delayed  
+OL,21,  http://www.bud.hu   FAdat ideje:00:17 
 OL,22,D]CMai indulas 2B .................. 193
 FL,101,175,200,300,0,100

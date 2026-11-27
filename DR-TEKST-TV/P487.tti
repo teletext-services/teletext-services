@@ -3,29 +3,29 @@ PN,48701
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       GDR   S487  tor 26 nov   09:52:56
+OL,0,       GDR   S487  tor 26 nov   19:58:20
 OL,1,D]G                                     
 OL,2,D]G        AARHUS   INDENRIGS/UDENRIGS  
 OL,3,D]G        AIRPORT              AFGANG  
 OL,4,T#######################################
 OL,5,CTID  FORV FLY    TIL         BEMARK    
-OL,6,   -------  2026-11-26  -------         
-OL,7, 1405      SK1258 Kobenhavn             
-OL,8, 1405      AF3842 Kobenhavn             
-OL,9, 1405      KL2957 Kobenhavn             
-OL,10, 1405      TP5511 Kobenhavn             
-OL,11, 1650      SK1246 Kobenhavn             
-OL,12, 1650      KL2959 Kobenhavn             
-OL,13, 1650      TP5511 Kobenhavn             
-OL,14, 1655      FR713  London                
-OL,15, 1835      FR4694 Malaga                
-OL,16, 1845      SK1260 Kobenhavn             
-OL,17,   -------  2026-11-27  -------         
-OL,18, 0630      SK1240 Kobenhavn             
-OL,19, 0630      AF3843 Kobenhavn             
-OL,20, 0630      EY3903 Kobenhavn             
-OL,21, 0630      KL2953 Kobenhavn             
-OL,22, 0630      UX3249 Kobenhavn             
+OL,6,   -------  2026-11-27  -------         
+OL,7, 0630      SK1240 Kobenhavn             
+OL,8, 0630      AF3843 Kobenhavn             
+OL,9, 0630      EY3903 Kobenhavn             
+OL,10, 0630      KL2953 Kobenhavn             
+OL,11, 0630      UX3249 Kobenhavn             
+OL,12, 0945      SK1244 Kobenhavn             
+OL,13, 0945      AF3844 Kobenhavn             
+OL,14, 0945      KL2955 Kobenhavn             
+OL,15, 0945      SQ2666 Kobenhavn             
+OL,16, 0945      TP5509 Kobenhavn             
+OL,17, 0945      UX3300 Kobenhavn             
+OL,18, 1405      SK1258 Kobenhavn             
+OL,19, 1405      AF3842 Kobenhavn             
+OL,20, 1405      KL2957 Kobenhavn             
+OL,21, 1625      FR4971 Gdansk                
+OL,22, 1635      FR737  London                
 OL,23, ]A488@ANKOMST     P5A480@FLY       1/2 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100
@@ -33,28 +33,19 @@ PN,48702
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       GDR   S487  tor 26 nov   09:52:26
+OL,0,       GDR   S487  tor 26 nov   19:57:50
 OL,1,D]G                                     
 OL,2,D]G        AARHUS   INDENRIGS/UDENRIGS  
 OL,3,D]G        AIRPORT              AFGANG  
 OL,4,T#######################################
 OL,5,CTID  FORV FLY    TIL         BEMARK    
-OL,6, 0945      SK1244 Kobenhavn             
-OL,7, 0945      AF3844 Kobenhavn             
-OL,8, 0945      KL2955 Kobenhavn             
-OL,9, 0945      SQ2666 Kobenhavn             
-OL,10, 0945      TP5509 Kobenhavn             
-OL,11, 0945      UX3300 Kobenhavn             
-OL,12, 1405      SK1258 Kobenhavn             
-OL,13, 1405      AF3842 Kobenhavn             
-OL,14, 1405      KL2957 Kobenhavn             
-OL,15, 1625      FR4971 Gdansk                
-OL,16, 1635      FR737  London                
-OL,17, 1650      SK1246 Kobenhavn             
-OL,18, 1650      KL2959 Kobenhavn             
-OL,19, 1845      SK1260 Kobenhavn             
-OL,20, 2110      FR4694 Malaga                
-OL,21, 2240      FR713  London                
+OL,6, 1650      SK1246 Kobenhavn             
+OL,7, 1650      KL2959 Kobenhavn             
+OL,8, 1845      SK1260 Kobenhavn             
+OL,9, 2110      FR4694 Malaga                
+OL,10, 2240      FR713  London                
+OL,11,   -------  2026-11-28  -------         
+OL,12, 1200      ZZ1880 LSZM                  
 OL,22, ]                                      
 OL,23, ]A488@ANKOMST     P5A480@FLY       2/2 
 OL,24,  ANyheder    BSport    CTV    FVejret  

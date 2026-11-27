@@ -3,20 +3,22 @@ PN,26701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G267FNDR TEXT GDo 26.11.B05:28:13
+OL,0,       G267FNDR TEXT GFr 27.11.B01:30:06
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Landesliga HH 2             
-OL,8,BFreitag, 20. November                  
-OL,9, Barmbek-Uhl.    - Germ. Schnelsen  1:1 
-OL,10, TuS Osdorf      - FC Alsterbr}der  1:2 
-OL,12,BSonntag, 22. November                  
-OL,13, Eintr.Lokstedt  - St. Pauli III    4:1 
-OL,14, Hal.-Rellingen  - USC Paloma II    1:0 
-OL,16, SSV Rantzau     - FC Elmshorn      1:0 
-OL,17, Un. Tornesch    - Altona 93 II     3:1 
-OL,19, ETV II          - SV Rugenbergen   0:0 
+OL,6,BFreitag, 27. November                  
+OL,7, Barmbek-Uhl.   - TuS OsdorfB     19.30 
+OL,8, St. Pauli III  - FC Alsterbr}derB20.00 
+OL,10, Eintr.Lokstedt - USC Paloma IIB  20.00 
+OL,12,BSamstag, 28. November                  
+OL,13, SSV Rantzau    - Altona 93 IIB   11.00 
+OL,15,BSonntag, 29. November                  
+OL,16, Hetlingen      - Germ. SchnelsenB14.00 
+OL,17, Hal.-Rellingen - FC ElmshornB    14.00 
+OL,19, Un. Tornesch   - SV RugenbergenB 14.00 
+OL,20, ETV II         - SC NienstedtenB 14.30 
 OL,23,B]D250<                       TABELLE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
 FL,101,200,300,650,0,100
@@ -24,7 +26,7 @@ PN,26702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G267FNDR TEXT GDo 26.11.B05:28:13
+OL,0,       G267FNDR TEXT GFr 27.11.B01:30:06
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
@@ -52,22 +54,26 @@ PN,26703
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G267FNDR TEXT GDo 26.11.B05:28:13
+OL,0,       G267FNDR TEXT GFr 27.11.B01:30:06
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD FUSSBALL                    
 OL,4,F]T  %D     Landesliga HH 2             
-OL,6,BFreitag, 27. November                  
-OL,7, Barmbek-Uhl.   - TuS OsdorfB     19.30 
-OL,8, St. Pauli III  - FC Alsterbr}derB20.00 
-OL,10, Eintr.Lokstedt - USC Paloma IIB  20.00 
-OL,12,BSamstag, 28. November                  
-OL,13, SSV Rantzau    - Altona 93 IIB   11.00 
-OL,15,BSonntag, 29. November                  
-OL,16, Hetlingen      - Germ. SchnelsenB14.00 
-OL,17, Hal.-Rellingen - FC ElmshornB    14.00 
-OL,19, Un. Tornesch   - SV RugenbergenB 14.00 
-OL,20, ETV II         - SC NienstedtenB 14.30 
+OL,5,BFreitag, 4. Dezember                   
+OL,6, FC Elmshorn     - Eintr.LokstedtB19.30 
+OL,7, Germ. Schnelsen - ETV IIB        19.30 
+OL,8, TuS Osdorf      - HetlingenB     19.30 
+OL,9, SC Nienstedten  - Un. TorneschB  20.00 
+OL,11,BSamstag, 5. Dezember                   
+OL,12, SV Rugenbergen  - SSV RantzauB   13.00 
+OL,13, FC Alsterbr}der - Barmbek-Uhl.B  15.30 
+OL,15,BSonntag, 6. Dezember                   
+OL,16, Altona 93 II    - Hal.-RellingenB12.00 
+OL,17, USC Paloma II   - St. Pauli IIIB 13.00 
+OL,19,BFreitag, 11. Dezember                  
+OL,20, Germ. Schnelsen - FC ElmshornB   19.30 
+OL,21,BSonntag, 13. Dezember                  
+OL,22, Hetlingen       - FC Alsterbr}deB15.00 
 OL,23,B]D250<                    ERGEBNISSE >>
 OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

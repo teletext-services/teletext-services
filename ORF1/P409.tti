@@ -3,23 +3,24 @@ PN,40901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:04
+OL,0,       G409FORF1   GFr 27.11.26 02:15:50
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G               1/17  
+OL,3,Q#################G               1/14  
 OL,4,FSo 22.11. bis So 29.11.               P
 OL,6,FSankt P|lten:                          
 OL,8,FLandestheater, Tel: 02742/90 80 80-600 
-OL,9, Faust Gretchen Margarete  FMi/Sa 19.30h
-OL,10, Das Sache mit dem GruselwuselFDo 10.30h
-OL,11, Sanatorium zur G{nsehaut               
-OL,12,                         ProbeFFr 18.00h
-OL,13, Morgen, Findus, wird's was geben       
-OL,14,                              FSa 13.00h
-OL,16,FFestspielhaus, Tel: 02742/90 80 80-600 
-OL,17, Rotk{ppchen                  FSa 20.00h
-OL,19,FB}hne im Hof, Tel: 02742/90 80 80-580  
-OL,20, Erz{hlcafe                   FMi 17.00h
+OL,9, Sanatorium zur G{nsehaut               
+OL,10,                         ProbeFFr 18.00h
+OL,11, Morgen, Findus, wird's was geben       
+OL,12,                              FSa 13.00h
+OL,13, Faust Gretchen Margarete     FSa 19.30h
+OL,15,FFestspielhaus, Tel: 02742/90 80 80-600 
+OL,16, Rotk{ppchen                  FSa 20.00h
+OL,18,FBaden:                                 
+OL,20,FStadttheater, Tel: 02252/22522         
+OL,21, The Addams Family         FFr/Sa 19.30h
+OL,22, Das Veilchen vom Montmatre   FSo 19.30h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -27,21 +28,22 @@ PN,40902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:04
+OL,0,       G409FORF1   GFr 27.11.26 02:15:50
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G               2/17  
+OL,3,Q#################G               2/14  
 OL,4,FSo 22.11. bis So 29.11.               P
-OL,6,FBaden:                                 
-OL,8,FStadttheater, Tel: 02252/22522         
-OL,9, Das Veilchen vom Montmatre   FMi 19.30h
-OL,10, The Addams Family         FFr/Sa 19.30h
-OL,11, Das Veilchen vom Montmatre   FSo 19.30h
-OL,13,FP}rbach:                               
-OL,15,FWald4tler Hoftheater, Tel: 02853/78469 
-OL,16, Match Me If You Can       FFr/Sa 19.30h
-OL,17, Katharina Grabner-Hayden:              
-OL,18, Mehr Lametta, Schatz!        FSo 16.00h
+OL,6,FP}rbach:                               
+OL,8,FWald4tler Hoftheater, Tel: 02853/78469 
+OL,9, Match Me If You Can       FFr/Sa 19.30h
+OL,10, Katharina Grabner-Hayden:              
+OL,11, Mehr Lametta, Schatz!        FSo 16.00h
+OL,13,FSchwechat:                             
+OL,15,FTheater Forum, Tel: 01/707 82 72       
+OL,16, Der Revisor    FDo/Fr 20.00h,FSo 16.00h
+OL,18,FWiener Neustadt:                       
+OL,20,FStadttheater, Tel: 02622/34000         
+OL,21, Ghostwalk            FDo 18.30 & 20.30h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -49,17 +51,25 @@ PN,40903
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:04
+OL,0,       G409FORF1   GFr 27.11.26 02:15:50
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G               3/17  
+OL,3,Q#################G               3/14  
 OL,4,FSo 22.11. bis So 29.11.               P
-OL,6,FSchwechat:                             
-OL,8,FTheater Forum, Tel: 01/707 82 72       
-OL,9, Der Revisor FMi/Do/Fr 20.00h,FSo 16.00h
-OL,11,FWiener Neustadt:                       
-OL,13,FStadttheater, Tel: 02622/34000         
-OL,14, Ghostwalk            FDo 18.30 & 20.30h
+OL,6,FLinz:                                  
+OL,8,FLandestheater, Tel: 0732/7611-400      
+OL,10,FMusiktheater, Gro~er Saal              
+OL,11, Jagged Little Pill           FDo 19.30h
+OL,12, Matilda - Das Musical                  
+OL,13,        FFr 17.00h,FSa 19.00h,FSo 15.00h
+OL,14,FMusiktheater, Orchestersaal            
+OL,15, Au~erirdische zu Besuch                
+OL,16,           FSa 11.00 & 15.00h,FSo 15.00h
+OL,17,FMusiktheater, Black Box                
+OL,18, AgrippinaF(Georg Friedrich H{ndel)     
+OL,19,                      PremiereFSa 19.00h
+OL,20,FMuseum Francisco Carolinum             
+OL,21, Kunst                        FDo 19.30h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -67,25 +77,25 @@ PN,40904
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
+OL,0,       G409FORF1   GFr 27.11.26 02:15:50
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G               4/17  
+OL,3,Q#################G               4/14  
 OL,4,FSo 22.11. bis So 29.11.               P
 OL,6,FLinz:                                  
 OL,8,FLandestheater, Tel: 0732/7611-400      
-OL,10,FMusiktheater, Gro~er Saal              
-OL,11, Filzmaier & Wolf:                      
-OL,12, Der Professor und der Wolf   FMi 19.30h
-OL,13, Jagged Little Pill           FDo 19.30h
-OL,14, Matilda - Das Musical                  
-OL,15,        FFr 17.00h,FSa 19.00h,FSo 15.00h
-OL,16,FMusiktheater, Orchestersaal            
-OL,17, Au~erirdische zu Besuch                
-OL,18,           FSa 11.00 & 15.00h,FSo 15.00h
-OL,19,FMusiktheater, Black Box                
-OL,20, AgrippinaF(Georg Friedrich H{ndel)     
-OL,21,                      PremiereFSa 19.00h
+OL,9,FSchauspielhaus                         
+OL,10, Romeo und Julia              FFr 19.30h
+OL,11,FKammerspiele                           
+OL,12, Der Menschenfeind            FSa 19.30h
+OL,13,FStudiob}hne                            
+OL,14, Werther/Wilhelm       FSo 29.11. 18.00h
+OL,16,FTheater des Kindes, Tel: 0732/50 52 55 
+OL,17, Wenn zwei sich streiten      FFr 10.00h
+OL,18, Ein St}ck Weihnachten        FSa 16.00h
+OL,19, Oh, wie sch|n ist Panama     FSo 16.00h
+OL,21,FPosthof, Tel: 0732/78 18 00            
+OL,22, Starbugs Comedy: Showtime!   FFr 20.00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -93,22 +103,27 @@ PN,40905
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
+OL,0,       G409FORF1   GFr 27.11.26 02:15:51
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G               5/17  
+OL,3,Q#################G               5/14  
 OL,4,FSo 22.11. bis So 29.11.               P
-OL,6,FLinz:                                  
-OL,8,FLandestheater, Tel: 0732/7611-400      
-OL,10,FMuseum Francisco Carolinum             
-OL,11, Kunst                        FDo 19.30h
-OL,13,FSchauspielhaus                         
-OL,14, Romeo und Julia              FFr 19.30h
-OL,16,FKammerspiele                           
-OL,17, Elisabeth II.                FMi 19.30h
-OL,18, Der Menschenfeind            FSa 19.30h
-OL,20,FStudiob}hne                            
-OL,21, Werther/Wilhelm       FSo 29.11. 18.00h
+OL,6,FGraz:                                  
+OL,8,FB}hnen Graz, Tel: 0316/8008            
+OL,9,FOper                                   
+OL,10, Tom Sawyer           FFr 10.30 & 16.00h
+OL,11, La BohemeF(Giacomo Puccini)            
+OL,12,                      PremiereFSa 19.30h
+OL,13, Romeo und Julia              FSo 15.00h
+OL,14,FSchauspielhaus, Konsole                
+OL,15, Radio Unfertig               FFr 22.00h
+OL,16,FSchauspielhaus, Schauraum              
+OL,17, OtherlandF(Chris Bush)                 
+OL,18,                      PremiereFSa 20.00h
+OL,19,FSchauspielhaus                         
+OL,20, Ein ]bertritt (alles auf Ende)         
+OL,21,                              FDo 19.30h
+OL,22, Der j}ngste Tag              FFr 18.30h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -116,19 +131,22 @@ PN,40906
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
+OL,0,       G409FORF1   GFr 27.11.26 02:15:51
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G               6/17  
+OL,3,Q#################G               6/14  
 OL,4,FSo 22.11. bis So 29.11.               P
-OL,6,FLinz:                                  
-OL,8,FTheater des Kindes, Tel: 0732/50 52 55 
-OL,9, Wenn zwei sich streitenFMi/Do/Fr 10.00h
-OL,10, Ein St}ck Weihnachten        FSa 16.00h
-OL,11, Oh, wie sch|n ist Panama     FSo 16.00h
-OL,13,FPosthof, Tel: 0732/78 18 00            
-OL,14, Heidelbeerhugo: 10-Meter-TurmFMi 19.30h
-OL,15, Starbugs Comedy: Showtime!   FFr 20.00h
+OL,6,FGraz:                                  
+OL,8,FB}hnen Graz, Tel: 0316/8008            
+OL,9,FStudiob}hne                            
+OL,10, Ballett Inside            FFr/Sa 20.00h
+OL,11,Fnext liberty                           
+OL,12, Merlin & Merlinchen                    
+OL,13,   FFr 10.30 & 17.00h,FSa 11.00 & 17.00h
+OL,16,FTheater Lechthaler-Belic,              
+OL,17,FTel: 0316/68 03 15                     
+OL,18, Kleine Verbrechen unter Liebenden      
+OL,19,                   FFr 19.30h,FSo 15.30h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -136,23 +154,25 @@ PN,40907
 SC,0007
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
+OL,0,       G409FORF1   GFr 27.11.26 02:15:51
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G               7/17  
+OL,3,Q#################G               7/14  
 OL,4,FSo 22.11. bis So 29.11.               P
 OL,6,FGraz:                                  
-OL,8,FB}hnen Graz, Tel: 0316/8008            
-OL,10,FOper                                   
-OL,11, Tom Sawyer           FFr 10.30 & 16.00h
-OL,12, La BohemeF(Giacomo Puccini)            
-OL,13,                      PremiereFSa 19.30h
-OL,14, Romeo und Julia              FSo 15.00h
-OL,16,FSchauspielhaus, Konsole                
-OL,17, Radio Unfertig               FFr 22.00h
-OL,19,FSchauspielhaus, Schauraum              
-OL,20, OtherlandF(Chris Bush)                 
-OL,21,                      PremiereFSa 20.00h
+OL,8,FOrpheum, Tel: 0316/8000                
+OL,9, Sitzfleisch Podcast Live     FDo 20.00h
+OL,10, Starbugs Comedy: Showtime!   FSo 20.00h
+OL,11,FOrpheum Extra                          
+OL,12, Elli Bauer: fAngst?          FDo 20.00h
+OL,13, Kasperl sucht den Nikolaus             
+OL,14,              FSo 11.00 & 15.00 & 16.30h
+OL,16,FTheatercafe, Tel: 0316/82 53 65        
+OL,17, Irmgard Knef:                          
+OL,18, Noch da! 100 Jahr, blondes Haar        
+OL,19,                           FDo/Fr 20.00h
+OL,20, Martin Kosch:                          
+OL,21, Bauchfleck ins Fettn{pfchen  FSa 20.00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -160,80 +180,10 @@ PN,40908
 SC,0008
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
+OL,0,       G409FORF1   GFr 27.11.26 02:15:51
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G               8/17  
-OL,4,FSo 22.11. bis So 29.11.               P
-OL,6,FGraz:                                  
-OL,8,FB}hnen Graz, Tel: 0316/8008            
-OL,10,FSchauspielhaus                         
-OL,11, Ein ]bertritt (alles auf Ende)         
-OL,12,                           FMi/Do 19.30h
-OL,13, Der j}ngste Tag              FFr 18.30h
-OL,15,FStudiob}hne                            
-OL,16, Ballett Inside            FFr/Sa 20.00h
-OL,18,Fnext liberty                           
-OL,19, Der Koffer der Adele Kurzweil          
-OL,20,                   FMi 17.00h,FDo 10.30h
-OL,21, Merlin & Merlinchen                    
-OL,22,   FFr 10.30 & 17.00h,FSa 11.00 & 17.00h
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,40909
-SC,0009
-PS,C200
-CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
-OL,1,A]G                             TheaterP
-OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G               9/17  
-OL,4,FSo 22.11. bis So 29.11.               P
-OL,6,FGraz:                                  
-OL,8,FTheater Lechthaler-Belic,              
-OL,9,FTel: 0316/68 03 15                     
-OL,10, Kleine Verbrechen unter Liebenden      
-OL,11,                FMi/Fr 19.30h,FSo 15.30h
-OL,13,FOrpheum, Tel: 0316/8000                
-OL,14, Miss Ivanka T.: Chef*in live FMi 20.00h
-OL,15, Sitzfleisch Podcast Live     FDo 20.00h
-OL,16, Starbugs Comedy: Showtime!   FSo 20.00h
-OL,17,FOrpheum Extra                          
-OL,18, Elli Bauer: fAngst?          FDo 20.00h
-OL,19, Kasperl sucht den Nikolaus             
-OL,20,              FSo 11.00 & 15.00 & 16.30h
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,40910
-SC,0010
-PS,C200
-CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
-OL,1,A]G                             TheaterP
-OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G              10/17  
-OL,4,FSo 22.11. bis So 29.11.               P
-OL,6,FGraz:                                  
-OL,8,FTheatercafe, Tel: 0316/82 53 65        
-OL,10, Blonder Engel: Lieder...     FMi 20.00h
-OL,12, Irmgard Knef:                          
-OL,13, Noch da! 100 Jahr, blondes Haar        
-OL,14,                           FDo/Fr 20.00h
-OL,15, Martin Kosch:                          
-OL,16, Bauchfleck ins Fettn{pfchen  FSa 20.00h
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,40911
-SC,0011
-PS,C200
-CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
-OL,1,A]G                             TheaterP
-OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G              11/17  
+OL,3,Q#################G               8/14  
 OL,4,FSo 22.11. bis So 29.11.               P
 OL,6,FSalzburg:                              
 OL,8,FLandestheater, Tel: 0662/87 15 12-222  
@@ -242,7 +192,7 @@ OL,10, (Diskussion)                 FDo 18.00h
 OL,11, Schachnovelle     FDo 19.30h,FSo 15.00h
 OL,12, Fridas Welt                  FSa 19.00h
 OL,14,FKammerspiele                           
-OL,15, Animal Farm    FMi/Do 19.30h,FSa 19.00h
+OL,15, Animal Farm       FDo 19.30h,FSa 19.00h
 OL,17,FSchloss Leopoldskron                   
 OL,18, Declaracao:                            
 OL,19,GIch habe das Leben zu sehrGgeliebt     
@@ -251,38 +201,37 @@ OL,21,           PremiereFFr 19.30h,FSo 19.00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,40912
-SC,0012
+PN,40909
+SC,0009
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
+OL,0,       G409FORF1   GFr 27.11.26 02:15:51
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G              12/17  
+OL,3,Q#################G               9/14  
 OL,4,FSo 22.11. bis So 29.11.               P
 OL,6,FSalzburg:                              
 OL,8,FARGEkultur, Tel: 0662/84 87 84         
-OL,9, Kaleidoskopio        FMi 17.00 & 19.00h
-OL,10, Holidai - Endlich echter Urlaub        
-OL,11,                FDo/Fr/Sa 18.00 & 21.00h
-OL,13,FKleines Theater, Tel: 0662/87 21 54    
-OL,14, Die Banane                FMi/Do 19.30h
-OL,15, Songs f}r Nobodies           FFr 19.30h
-OL,16, Monsieur Ibrahim                       
-OL,17, und die Blumen desGKoran     FSa 19.30h
-OL,18, Jimmy Schlager: Bethlehem Baby         
-OL,19,                              FSo 19.30h
+OL,9, Holidai - Endlich echter Urlaub        
+OL,10,                FDo/Fr/Sa 18.00 & 21.00h
+OL,12,FKleines Theater, Tel: 0662/87 21 54    
+OL,13, Die Banane                   FDo 19.30h
+OL,14, Songs f}r Nobodies           FFr 19.30h
+OL,15, Monsieur Ibrahim                       
+OL,16, und die Blumen desGKoran     FSa 19.30h
+OL,17, Jimmy Schlager: Bethlehem Baby         
+OL,18,                              FSo 19.30h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,40913
-SC,0013
+PN,40910
+SC,0010
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
+OL,0,       G409FORF1   GFr 27.11.26 02:15:51
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G              13/17  
+OL,3,Q#################G              10/14  
 OL,4,FSo 22.11. bis So 29.11.               P
 OL,6,FSalzburg:                              
 OL,8,FMarionettentheater, Tel: 0662/87 24 06 
@@ -298,35 +247,35 @@ OL,18, der geheimnisvolleGDudelsack FFr 15.00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,40914
-SC,0014
+PN,40911
+SC,0011
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
+OL,0,       G409FORF1   GFr 27.11.26 02:15:51
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G              14/17  
+OL,3,Q#################G              11/14  
 OL,4,FSo 22.11. bis So 29.11.               P
 OL,6,FSalzburg:                              
 OL,8,FSchauspielhaus, Tel: 0662/80 85 85     
-OL,9, Der blinde Passagier                   
-OL,10,                FMi/Fr 19.30h, Sa 19.00h
-OL,11, Alex, die Piratenratte                 
-OL,12,        FDo/Fr 09.00 & 11.00h,FSo 14.00h
+OL,9, Alex, die Piratenratte                 
+OL,10,           FFr 09.00 & 11.00h,FSo 14.00h
+OL,11, Der blinde Passagier                   
+OL,12,                   FFr 19.30h, Sa 19.00h
 OL,14,FSzene, Tel: 0662/84 34 48              
 OL,15, Queen - The Legend Of Mercury          
 OL,16,                           FFr/Sa 19.00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,40915
-SC,0015
+PN,40912
+SC,0012
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
+OL,0,       G409FORF1   GFr 27.11.26 02:15:51
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G              15/17  
+OL,3,Q#################G              12/14  
 OL,4,FSo 22.11. bis So 29.11.               P
 OL,6,FKlagenfurt:                            
 OL,8,FStadttheater, Tel: 0463/52266          
@@ -342,55 +291,47 @@ OL,19,                      PremiereFFr 20.00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,40916
-SC,0016
+PN,40913
+SC,0013
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:05
+OL,0,       G409FORF1   GFr 27.11.26 02:15:51
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G              16/17  
+OL,3,Q#################G              13/14  
 OL,4,FSo 22.11. bis So 29.11.               P
 OL,6,FInnsbruck:                             
 OL,8,FLandestheater, Tel: 0512/52074         
-OL,9,FGro~es Haus                            
-OL,10, Don Quichotte                FDo 19.30h
-OL,11, A Christmas Surprise         FSa 17.00h
-OL,12, Matinee: Troublemakers       FSo 11.00h
-OL,13, Ball im Savoy                FSo 19.00h
-OL,15,FKammerspiele                           
-OL,16, Das doppelte Lottchen                  
-OL,17,           FMi 15.00h,FDo 11.00 & 15.00h
+OL,10,FGro~es Haus                            
+OL,11, Don Quichotte                FDo 19.30h
+OL,12, A Christmas Surprise         FSa 17.00h
+OL,13, Matinee: Troublemakers       FSo 11.00h
+OL,14, Ball im Savoy                FSo 19.00h
+OL,16,FKammerspiele                           
+OL,17, Das doppelte Lottchen        FDo 15.00h
 OL,18,   FFr 09.00 & 11.00h,FSa 11.00 & 14.30h
-OL,19, Maria Stuart                 FMi 20.00h
-OL,20, Der Sturm                    FSo 19.30h
+OL,19, Der Sturm                    FSo 19.30h
 OL,21,FSchwurgerichtsaal                      
-OL,22, Prima Facie               FMi/Do 19.30h
+OL,22, Prima Facie                  FDo 19.30h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
-PN,40917
-SC,0017
+PN,40914
+SC,0014
 PS,C200
 CT,15,T
-OL,0,       G409FORF1   GDo 26.11.26 09:15:06
+OL,0,       G409FORF1   GFr 27.11.26 02:15:51
 OL,1,A]G                             TheaterP
 OL,2,A]GKULTUR + SHOW G]A      Bundesl{nderP\
-OL,3,Q#################G              17/17  
+OL,3,Q#################G              14/14  
 OL,4,FSo 22.11. bis So 29.11.               P
 OL,6,FInnsbruck:                             
 OL,8,FInnsTanz, Tel: 0664/730 09 085         
 OL,9, Der Zauberer von Oz                    
 OL,10, - Wicked war gestern!        FSa 17.00h
 OL,12,FTreibhaus, Tel: 0512/57 20 00          
-OL,13, Eine kurze Geschichte                  
-OL,14, der TirolerGMenschheit       FMi 19.30h
-OL,15, Herbert & Mimi: Ochs & Esel  FSo 16.00h
-OL,17,FRankweil:                              
-OL,19,FAltes Kino, Tel: 0664/446 54 96        
-OL,20, Vorarlberger Volkstheater:             
-OL,21, Schaffa, schaffe, H}sle baua - Teil 3  
-OL,22,                              FMi 20.00h
+OL,13, Herbert & Mimi: Ochs & Esel            
+OL,14,                       FSo 29.11. 16.00h
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

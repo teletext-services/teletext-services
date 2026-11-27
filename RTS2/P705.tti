@@ -3,24 +3,17 @@ PN,70500
 SC,0000
 PS,8088
 CT,15,T
-OL,0,       G705  RTS 2     26.11.26 17:11:19
-OL,1,A]GRTS 2     ]@jeudi 26 novembre        
-OL,4,G20:55 GHumour......................C708
-OL,5,E 2050 GNathana[l Rochat Y'a moyen      
-OL,6,       CS-T                             
-OL,7,F22:30 FZap RTS Sport                   
-OL,8,E 2240 CS-T                             
-OL,9,G22:40 GChicago Police..............C709
-OL,10,E 2235 GRoute glissanteCI/IICS-T        
-OL,11,F23:20 FChicago Police..............C710
-OL,12,E 2305 FCercueil ouvertCI/IICS-T        
-OL,13,G00:00 GMeurtres @ Font Romeu.......C711
-OL,14,E 2355 CS-T                             
-OL,15,F01:35 F19h30 - Sign#                   
-OL,16,E 1930 CS-TCLS                          
-OL,17,G02:05 GCouleurs locales                
-OL,18,E 0130 CS-TC(R)                         
-OL,19,F02:25 F19h30 - Sign#                   
-OL,20,E 0150 CS-TCLSC(R)                      
+OL,0,       G705  RTS 2     27.11.26 03:42:00
+OL,1,A]GRTS 2     ]@vendredi 27 novembre     
+OL,4,G02:10 G19h30 - Sign#                   
+OL,5,E 1930 CS-TCLS                          
+OL,6,F02:40 FCouleurs locales                
+OL,7,E 0130 CS-TC(R)                         
+OL,8,G03:00 G19h30 - Sign#                   
+OL,9,E 0150 CS-TCLSC(R)                      
+OL,10,F05:55 FRTS Info                        
+OL,11,       FL'actualit# en continuCS-T      
+OL,12,G07:00 GRTS Info                        
+OL,13,       GL'actualit# en continuCS-T      
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

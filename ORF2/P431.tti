@@ -3,26 +3,26 @@ PN,43101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G431FORF2   GDo 26.11.26 09:50:31
+OL,0,       G431FORF2   GFr 27.11.26 02:32:05
 OL,1,A]G              ARB\-Verkehrsmeldungen 
-OL,2,A]GMOTOR  ]A            26.11., 09:49h \
-OL,3,Q#########G                       1/10  
+OL,2,A]GMOTOR  ]A            27.11., 02:29h \
+OL,3,Q#########G                        1/5  
 OL,4,FKettenpflicht f}r alle Fzg.:           
 OL,5,G* B90, Nassfeld Str., zw. Nassfeldjoch 
 OL,6,G  u. Tr|polach                         
-OL,7,G* B99, Katschberg Str., St. Michael im 
-OL,8,G  Lungau Katschberg                    
-OL,9,G* B100, Drautalstr., zw. Tassenbach u. 
-OL,10,G  Abfaltersbach                        
-OL,11,G* B110, Pl|ckenpass Str., zw.          
-OL,12,G  Pl|ckenpass u. Mauthen               
-OL,13,G* B164, Hochk|nigstr., zw. Salzburg /  
-OL,14,G  Tirol u. Leogang                     
-OL,15,G* B164, Hochk|nigstr., zw. Fieberbrunn 
-OL,16,G  u. Hochfilzen                        
-OL,18,FKettenpflicht f}r Fzg. }ber 3,5 t:     
-OL,19,G* B161, Pass-Thurn-Str., zw. Jochberg  
-OL,20,G  u. Pass Thurn                        
+OL,7,G* B179, Fernpassstr., zw.              
+OL,8,G  Nassereithtunnel u. Lermooser Tunnel 
+OL,9,G* B197, Arlbergstr., zw. St. Jakob am  
+OL,10,G  Arlberg u. St. Christoph             
+OL,12,FKettenpflicht f}r Fzg. }ber 3,5 t:     
+OL,13,G* B15, Mannersdorfer Str., zw.         
+OL,14,G  Donnerskirchen u. Hof                
+OL,15,G* B16, \denburger Str., zw. A3 -       
+OL,16,G  Siegendorf u. Klingenbach            
+OL,17,G* B61, G}nser Str., zw. Mannersdorf u. 
+OL,18,G  B61a                                 
+OL,19,G* B164, Hochk|nigstr., zw. Dientner    
+OL,20,G  Sattel u. Maria Alm                  
 OL,21,A]GKeine Reise ohne ARB\-Sicherheits-   
 OL,22,A]GPass - dem Rundum-Schutz f}r Auto    
 OL,23,A]Gund Familie!C>>arboe.at              
@@ -32,13 +32,13 @@ PN,43102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G431FORF2   GDo 26.11.26 09:50:31
+OL,0,       G431FORF2   GFr 27.11.26 02:32:05
 OL,1,A]G              ARB\-Verkehrsmeldungen 
-OL,2,A]GMOTOR  ]A            26.11., 09:49h \
-OL,3,Q#########G                       2/10  
+OL,2,A]GMOTOR  ]A            27.11., 02:29h \
+OL,3,Q#########G                        2/5  
 OL,4,FKettenpflicht f}r Fzg. }ber 3,5 t:     
-OL,5,G* B164, Hochk|nigstr., zw. Dientner    
-OL,6,G  Sattel u. Maria Alm                  
+OL,5,G* B173, Eibergstr., zw. Egerbach u.    
+OL,6,G  S|ll                                 
 OL,7,G* B197, Arlbergstr., zw. Pass}r Tunnel 
 OL,8,G  u. Arlbergpass                       
 OL,9,G* B197, Arlbergstr., zw. Stuben u.     
@@ -47,11 +47,8 @@ OL,11,G* B198, Lechtalstr., zw. Alpe Rauz u.
 OL,12,G  Lech                                 
 OL,13,G* L109, Gro~arler Landesstr., zw. St.  
 OL,14,G  Johann im Pongau u. Gro~arl          
-OL,16,FKettenpflicht f}r Fzg. }ber 7,5 t:     
-OL,17,G* B162, Lammertal Str., zw. Golling u. 
-OL,18,G  Voglau                               
-OL,19,G* B162, Lammertal Str., zw.            
-OL,20,G  Oberscheffau u. Abtenau              
+OL,16,GS6, Semmering SStr. Bruck FR Semmering 
+OL,17,GTanzenbergtunnel, Sperre (Bauarbeiten) 
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -59,25 +56,28 @@ PN,43103
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G431FORF2   GDo 26.11.26 09:50:31
+OL,0,       G431FORF2   GFr 27.11.26 02:32:05
 OL,1,A]G              ARB\-Verkehrsmeldungen 
-OL,2,A]GMOTOR  ]A            26.11., 09:49h \
-OL,3,Q#########G                       3/10  
-OL,4,G!!! Aufgrund der aktuellen             
-OL,5,GWettersituation kommt es im ganzen     
-OL,6,GBundesgebiet zu Behinderungen u. Staus 
-OL,7,G!!!                                    
-OL,9,GA2, S}d-AB, in beiden FR, zw. Pinkafeld
-OL,10,Gu. Kn. V|sendorf, abschnittsweise z{her
-OL,11,GVerkehr u. bis zu 60 min Zeitverlust   
-OL,12,G(Witterung)                            
-OL,14,GA2, S}d-AB, FR Italien, zw. Sch{ffern  
-OL,15,Gu. Friedberg-Pinggau, Sperre           
-OL,16,G(h{ngengebliebene Lkw)                 
-OL,18,GA2, S}d-AB, FR Italien, zw.            
-OL,19,GKrumpendorf-West u. Arnoldstein, Stau  
-OL,20,Gu. bis zu 100 min Zeitverlust          
-OL,21,G(Witterung)                            
+OL,2,A]GMOTOR  ]A            27.11., 02:29h \
+OL,3,Q#########G                        3/5  
+OL,4,GS10 - M}hlviertler SStr. FR Wullowitz :
+OL,5,G In Ober|sterreich in FR Wullowitz zw. 
+OL,6,GKilometer 20 u. Kilometer 21.521       
+OL,7,GVerkehrsbehinderung Fahren Sie bitte   
+OL,8,Gvorsichtig f}r den motorisierten       
+OL,9,GVerkehr von Donnerstag, 26. November   
+OL,10,G2026, 20.21 Uhr bis Freitag, 27.       
+OL,11,GNovember 2026, 02.30 Uhr.              
+OL,12,G Sattelkraftfahrzeuge stehen auf der   
+OL,13,GSchneefahrbahn am Pannenstreifen       
+OL,15,GB21 - Gutensteiner Str. (Ochssattel):  
+OL,16,G Zw. Gemeinde Kleinzell u. St. Aegyd am
+OL,17,GNeuwalde in beide FR zw. Kilometer 55  
+OL,18,Gu. Kilometer 86 Schneefahrbahn         
+OL,19,GSchneekettenpflicht f}r Fzg.e }ber 3,5 
+OL,20,GTonnen von Donnerstag, 26. November    
+OL,21,G2026, 19.36 Uhr bis Samstag, 28.       
+OL,22,GNovember 2026, 08.00 Uhr.              
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -85,24 +85,25 @@ PN,43104
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G431FORF2   GDo 26.11.26 09:50:32
+OL,0,       G431FORF2   GFr 27.11.26 02:32:05
 OL,1,A]G              ARB\-Verkehrsmeldungen 
-OL,2,A]GMOTOR  ]A            26.11., 09:49h \
-OL,3,Q#########G                       4/10  
-OL,4,GA10, Tauern-AB, FR Salzburg, zw.       
-OL,5,GRastplatz Lansch}tz u. Einhausung      
-OL,6,GZederhaus, Sperre (h{ngengebliebene    
-OL,7,GLkw)                                   
-OL,9,GA11, Karawanken-AB, FR Slowenien, im   
-OL,10,GSt. Niklas Tunnel, Sperre (defekter    
-OL,11,GLkw)                                   
-OL,13,GA11, Karawanken-AB, FR Slowenien, zw.  
-OL,14,GMautstelle Rosenbach - Karawankentunnel
-OL,15,Gu. Karawankentunnel, Sperre            
-OL,16,G(Aufr{umarbeiten)                      
-OL,18,GA13, Westast - Verbindung A12-A13, FR  
-OL,19,GInnsbruck Innsbruck-Wilten             
-OL,20,GInnsbruck-Bergisel, Sperre (Witterung) 
+OL,2,A]GMOTOR  ]A            27.11., 02:29h \
+OL,3,Q#########G                        4/5  
+OL,4,GGoggerwenig B82 - Seeberg Str. von     
+OL,5,GBr}ckl FR St. Veit an der Glan:        
+OL,6,G Im Gemeindegebiet von St. Georgen am  
+OL,7,GL{ngsee zw. St Veit UND Goggerwenig    
+OL,8,GSchneefahrbahn gesperrt f}r Lkw f}r    
+OL,9,GFzg.e }ber 7,5 Tonnen ab Donnerstag,   
+OL,10,G26. November 2026, 22.07 Uhr.          
+OL,12,GB310 - M}hlviertler Str. Freistadt     
+OL,13,GGrenz}bergang Wullowitz:               
+OL,14,G Im Gemeindegebiet von Leopoldschlag in
+OL,15,Gbeide FR zw. Kilometer 51,0 u.         
+OL,16,GKilometer 55,2 Verkehrsbehinderung     
+OL,17,Ggesperrt von Donnerstag, 26. November  
+OL,18,G2026, 21.06 Uhr bis Freitag, 27.       
+OL,19,GNovember 2026, 08.00 Uhr. Totalsperre. 
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -110,144 +111,25 @@ PN,43105
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       G431FORF2   GDo 26.11.26 09:50:32
+OL,0,       G431FORF2   GFr 27.11.26 02:32:05
 OL,1,A]G              ARB\-Verkehrsmeldungen 
-OL,2,A]GMOTOR  ]A            26.11., 09:49h \
-OL,3,Q#########G                       5/10  
-OL,4,GA21, Wiener Au~enring-AB, in beiden FR,
-OL,5,Gzw. Gie~h}bl u. Parkplatz Sparbach,    
-OL,6,GSperre (h{ngengebliebene Lkw)          
-OL,8,GA22, Donauufer-AB, FR Tangente, zw.    
-OL,9,GReichsbr}cke u. Kn. Kaiserm}hlen, Stau 
-OL,10,Gu. bis zu 10 min Zeitverlust           
-OL,11,G(]berlastung)                          
-OL,13,GA23, S}dostt., FR Inzersdorf, zw. Kn.  
-OL,14,GHirschstetten u. Kn. Prater, Stau u.   
-OL,15,Gbis zu 30 min Zeitverlust (]berlastung)
-OL,17,GS31, Burgenland SStr., zw. Parkplatz   
-OL,18,GForchtenstein u. Weppersdorf-St.       
-OL,19,GMartin, Kettenpflicht (f}r Fzg. ab 3,5 
-OL,20,Gt)                                     
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,43106
-SC,0006
-PS,C200
-CT,15,T
-OL,0,       G431FORF2   GDo 26.11.26 09:50:32
-OL,1,A]G              ARB\-Verkehrsmeldungen 
-OL,2,A]GMOTOR  ]A            26.11., 09:49h \
-OL,3,Q#########G                       6/10  
-OL,4,GS36, Murtal SStr., FR Judenburg, bei   
-OL,5,GAbfahrt Zeltweg-West, Sperre           
-OL,6,G(h{ngengebliebene Lkw)                 
-OL,8,GB10, Budapester Str., beide FR, zw.    
-OL,9,GSchwechat-Ost u. Schwadorf, Stau u. bis
-OL,10,Gzu 20 min Zeitverlust (Unfall)         
-OL,12,GB15, Mannersdorfer Str., zw.           
-OL,13,GDonnerskirchen u. Hof, Kettenpflicht   
-OL,14,G(f}r Fzg. ab 3,5 t)                    
-OL,16,GB16, \denburger Str., zw. A3 -         
-OL,17,GSiegendorf u. Klingenbach,             
-OL,18,GKettenpflicht (f}r Fzg. ab 3,5 t)      
-OL,20,GB66, Gleichenberger Str., in beiden FR,
-OL,21,Gzw. Feldbach u. Bad Gleichenberg,      
-OL,22,GSperre (h{ngengebliebene Lkw)          
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,43107
-SC,0007
-PS,C200
-CT,15,T
-OL,0,       G431FORF2   GDo 26.11.26 09:50:32
-OL,1,A]G              ARB\-Verkehrsmeldungen 
-OL,2,A]GMOTOR  ]A            26.11., 09:49h \
-OL,3,Q#########G                       7/10  
-OL,4,GB66, Gleichenberger Str., in beiden FR,
-OL,5,Gzw. Riegersburg u. Neustift, Sperre    
-OL,6,G(h{ngengebliebene Lkw)                 
-OL,8,GB122, Voralpenstr., beide FR, zw.      
-OL,9,GNieder|sterreich / Ober|sterreich u.   
-OL,10,GWanzen|d, Sperre (Unfall)              
-OL,12,GB122a, Voralpenstr. Abzweigung Steyr,  
-OL,13,Gin beiden FR, zw. M}nichholz u.        
-OL,14,GWachtberg, Sperre (Unfall)             
-OL,16,GB161, Pass-Thurn-Str., zw. Mittersill  
-OL,17,Gu. Pass Thurn, Kettenpflicht (f}r Fzg. 
-OL,18,Gab 3,5 t)                              
-OL,20,GB162, Lammertal Str., beide FR, zw.    
-OL,21,GOberscheffau u. Voglau, Behinderungen  
-OL,22,G(Unfall)                               
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,43108
-SC,0008
-PS,C200
-CT,15,T
-OL,0,       G431FORF2   GDo 26.11.26 09:50:32
-OL,1,A]G              ARB\-Verkehrsmeldungen 
-OL,2,A]GMOTOR  ]A            26.11., 09:49h \
-OL,3,Q#########G                       8/10  
-OL,4,GB169, Zillertalstr., in beiden FR, zw. 
-OL,5,GUderns u. F}gen, Sperre (Unfall)       
-OL,7,GB169, Zillertalstr., FR Strass im      
-OL,8,GZillertal, zw. Schlitters u.           
-OL,9,GBrettfalltunnel, Blockabfertigung      
-OL,10,G(]berlastung)                          
-OL,12,GB178, Loferer Str., zw. W|rgl-Ost u.   
-OL,13,GS|ll, Kettenpflicht (f}r Fzg. ab 3,5 t)
-OL,15,GB178, Loferer Str., FR St. Johann in   
-OL,16,GTirol, zw. W|rgl-Ost u. Tunnel         
-OL,17,GBruckh{usl, Blockabfertigung           
-OL,18,G(]berlastung)                          
-OL,20,GB178, Loferer Str., zw. B170 u. S|ll,  
-OL,21,GKettenpflicht (f}r alle Fzg.)          
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,43109
-SC,0009
-PS,C200
-CT,15,T
-OL,0,       G431FORF2   GDo 26.11.26 09:50:32
-OL,1,A]G              ARB\-Verkehrsmeldungen 
-OL,2,A]GMOTOR  ]A            26.11., 09:49h \
-OL,3,Q#########G                       9/10  
-OL,4,GB186, \tztalstr., FR Hochgurgl, zw.    
-OL,5,GOetz u. Tumpen, Sperre (Unfall)        
-OL,7,GB311, Pinzgauer Str., in beiden FR, zw.
-OL,8,GSchwarzach-Ost u. Lend, Behinderungen  
-OL,9,G(Unfall)                               
-OL,11,GB311, Pinzgauer Str., FR Bischofshofen,
-OL,12,Gzw. Lend u. Sch|nbergtunnel,           
-OL,13,GBlockabfertigung (]berlastung)         
-OL,15,GB317, Friesacher Str., in beiden FR,   
-OL,16,Gzw. Althofen u. M|lbling, Sperre       
-OL,17,G(Witterung)                            
-OL,19,GWien: Nordbr}cke,stadteinw{rts, zw.    
-OL,20,GA22/Nordbr}cke u. Nordbr}cke - B14,    
-OL,21,GStau u. bis zu 20 min Zeitverlust      
-OL,22,G(]berlastung)                          
-OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-OL,24,A]bersicht BSchlagzeilen CSport  FWetter
-FL,100,111,200,600,0,100
-PN,43110
-SC,0010
-PS,C200
-CT,15,T
-OL,0,       G431FORF2   GDo 26.11.26 09:50:32
-OL,1,A]G              ARB\-Verkehrsmeldungen 
-OL,2,A]GMOTOR  ]A            26.11., 09:49h \
-OL,3,Q#########G                      10/10  
-OL,4,GWien: Westeinfahrt, zw. Umspannwerk u. 
-OL,5,GStampfergasse, Stau u. bis zu 15 min   
-OL,6,GZeitverlust (]berlastung)              
-OL,8,GZubringer Velden-West, FR A2 -         
-OL,9,GVelden-West, zw. B83 u. A2 -           
-OL,10,GVelden-West, Sperre                    
+OL,2,A]GMOTOR  ]A            27.11., 02:29h \
+OL,3,Q#########G                        5/5  
+OL,4,GB310 - M}hlviertler Str. von Freistadt 
+OL,5,GFR Grenz}bergang Wullowitz:            
+OL,6,G Zw. Gemeinde Freistadt u.             
+OL,7,GLeopoldschlag in FR Leopoldschlag zw.  
+OL,8,GKilometer 40,155 u. Kilometer 55,380   
+OL,9,GVerkehrsbehinderung Fahren Sie bitte   
+OL,10,Gvorsichtig u. Stau zu erwarten von     
+OL,11,GDonnerstag, 26. November 2026, 20.07   
+OL,12,GUhr bis Freitag, 27. November 2026,    
+OL,13,G02.15 Uhr.                             
+OL,14,G Verkehrsbehinderung durch festh{ngende
+OL,15,GFzg.e                                  
+OL,17,GAuf den Hauptverbindungen herrscht     
+OL,18,Gderzeit st|rungsfreies                 
+OL,19,GVerkehrsaufkommen.                     
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

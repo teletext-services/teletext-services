@@ -1,39 +1,9 @@
 DE,DR-TEKST-TV 601
-PN,60101
-SC,0001
-PS,C100
+PN,60100
+SC,0000
+PS,8108
 CT,15,T
-OL,0,       GDR   S601  tor 26 nov   12:15:29
-OL,1,T################]GSENDER P] FM   
-OL,2,D]GP1  \TORSDAG 26.NOVD]GKL.06-18 SEC638
-OL,3,T#######################################
-OL,4,    F05:00GRadioavisenA>                
-OL,5,    F05:03GVerdens navle: RitualerA>    
-OL,6,    F     G                             
-OL,7,    F06:05GP1 MorgenA>                  
-OL,8,    F     G                             
-OL,9,C609F09:05GMagten:Mette F.i soloulykkeA>
-OL,10,    F     G                             
-OL,11,C610F10:03GPrompt: Huang more time      
-OL,12,    F     Gog ChatGPT DotsA>            
-OL,13,    F     G                             
-OL,14,C611F11:03GBibelen Leth fortaltA>       
-OL,15,    F     GJudas' brev                  
-OL,16,    F     G                             
-OL,17,    F     G                             
-OL,18,    F     G                             
-OL,19,    F     G                             
-OL,20,    F     G                             
-OL,21,    F     G                             
-OL,22,    F     G                             
-OL,23, ]A600@RADIO     P5A639@NETRADIO    1/3 
-OL,24,  ANyheder    BSport    CTV    FVejret  
-FL,110,200,300,400,0,100
-PN,60102
-SC,0002
-PS,C100
-CT,15,T
-OL,0,       GDR   S601  tor 26 nov   12:15:00
+OL,0,       GDR   S601  tor 26 nov   20:10:19
 OL,1,T################]GSENDER P] FM   
 OL,2,D]GP1  \TORSDAG 26.NOVD]GKL.06-18 SEC638
 OL,3,T#######################################
@@ -49,13 +19,13 @@ OL,12,    F     G
 OL,13,C616F22:03GP1 OrienteringA>             
 OL,14,C609F00:03GMagten:Mette F.i soloulykkeA>
 OL,15,    F     G                             
-OL,16,C614F01:03GK-LiveA>                     
-OL,17,C615F02:03GK-LiveA>                     
-OL,18,    F     G                             
-OL,19,C616F03:03GP1 OrienteringA>             
+OL,16,C614F01:03GK-Live: Hvem laver falsk     
+OL,17,    F     GAI-indhold om Bornholm?A>    
+OL,18,C615F02:03GK-Live: En stor suppedas af  
+OL,19,    F     Galverdens misinformationerA> 
 OL,20,    F     G                             
-OL,21,    F     G                             
+OL,21,C616F03:03GP1 OrienteringA>             
 OL,22,    F     G                             
-OL,23, ]A600@RADIO     P5A639@NETRADIO    3/3 
+OL,23, ]A600@RADIO     P5A639@NETRADIO        
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100

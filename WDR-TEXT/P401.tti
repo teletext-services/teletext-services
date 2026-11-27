@@ -1,51 +1,28 @@
 DE,WDR-TEXT 401
-PN,40101
-SC,0001
-PS,C200
+PN,40100
+SC,0000
+PS,8208
 CT,15,T
-OL,0,     G401 WDR Text GDo 26.11.26 09:02:39
+OL,0,     G401 WDR Text GFr 27.11.26 07:42:15
 OL,1,]D]        G]               @]    CRADIO
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     1LIVE                     
-OL,4,         CDonnerstag, 26.11.26          
+OL,4,          CFreitag, 27.11.26            
 OL,5,B00.00 Die junge Nacht der ARD          
-OL,6,       Mit Kotaro D}rr                  
-OL,7,       Darin:                           
-OL,8,       zur vollen Stunde WDR aktuell    
-OL,9,B05.00 1LIVE                            
-OL,10,       Die t{gliche, aktuelle Morgen-   
-OL,11,       Show in 1LIVE                    
-OL,12,       Mit Celina Pegel und Jule Blaase 
-OL,13,B10.00 1LIVE                            
-OL,14,       Der Vormittag in 1LIVE           
-OL,15,       Mit Simon Beeck                  
-OL,16,B14.00 1LIVE                            
-OL,17,       Der Nachmittag in 1LIVE          
-OL,18,       Mit Julian Ferber und Mitja Rybi-
-OL,19,       enski                            
-OL,20,B18.00 1LIVE                            
-OL,21,       Die Themen des Tages im Sektor   
-OL,22,       Mit Benni Bauerdick              
+OL,6,       Darin: zur vollen Stunde WDR ak- 
+OL,7,       tuell                            
+OL,8,B05.00 1LIVE                            
+OL,9,       Die t{gliche, aktuelle Morgen-   
+OL,10,       Show in 1LIVE                    
+OL,11,       Mit Celina Pegel und Jule Blaase 
+OL,12,B10.00 1LIVE                            
+OL,13,       Der Vormittag in 1LIVE           
+OL,14,       Mit Simon Beeck                  
+OL,15,B14.00 1LIVE                            
+OL,16,       Mit Dennis und Benni Wolter      
+OL,17,B18.00 1LIVE Go                         
+OL,18,       Mit Markus Fr|hle und Madeleine  
+OL,19,       Sabel                            
 OL,23,]D400 < ]bersicht            WDR 2 > 402
-OL,24,A]G- 400B]G+ 402C]DEins Live \    G(1/2)
-FL,400,402,0,0,0,100
-PN,40102
-SC,0002
-PS,C200
-CT,15,T
-OL,0,     G401 WDR Text GDo 26.11.26 09:02:39
-OL,1,]D]        G]               @]    CRADIO
-OL,2,]D]GWDR     ]DPROGRAMM       ]          
-OL,3,]T5D     1LIVE                     
-OL,4,         CDonnerstag, 26.11.26          
-OL,5,B20.00 1LIVE Plan B                     
-OL,6,       Der Abend in 1LIVE - im Zeichen  
-OL,7,       der Popkultur                    
-OL,8,       Mit Franziska Niesar             
-OL,9,B23.00 1LIVE Krimi                      
-OL,10,       Die Verratenen                   
-OL,11,       Regie: Leonhard Koppelmann       
-OL,12,       Produktion: MDR 2006             
-OL,23,]D400 < ]bersicht            WDR 2 > 402
-OL,24,A]G- 400B]G+ 402C]DEins Live \    G(2/2)
+OL,24,A]G- 400B]G+ 402C]DEins Live \          
 FL,400,402,0,0,0,100

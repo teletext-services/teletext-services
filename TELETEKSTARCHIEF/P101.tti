@@ -234,7 +234,7 @@ OL,1,  S||,l| s1h|<,,|4h|4 h| || | |4h|<,l|
 OL,2,D]S j 5j=,,/%j5 j   5*/-,l|  
 OL,3,D]S j 5jupp|4jupz pp5jupz  
 OL,4,T//-,./,.-,/,,,,,,/,,,,,.-,,,,,,/,,,,,./
-OL,5,T,,,,,,,,,,Fprinsesje geborenT,,,,,,,,,,
+OL,5,T,,,,,,,,,,Cprinsesje geborenT,,,,,,,,,,
 OL,6,FPrins toont dochter op televisie...C104
 OL,7,FNog geen naam voor prinsesje.......C105
 OL,9,FMaxima bevalt van gezonde dochter..C103
@@ -290,12 +290,37 @@ OL,15,FVeel belangstelling voor Harley-DagC120
 OL,17,FNoodweer Mallorca en Costa Brava...C123
 OL,19,FTerreur in Afghanistan neemt toe...C124
 OL,21,FDodelijke mishandeling van baby....C103
-OL,22,D]Gvolledig nieuwsoverzicht op pag.102  
-OL,23,D]             Gwww.nos.nl              
+OL,22,D]Cvolledig nieuwsoverzicht op pag.102  
+OL,23,D]             Cwww.nos.nl              
 OL,24,E2005G/Edigitalekabeltelevisie.nl       
 FL,0,0,0,0,0,100
 PN,10114
 SC,0014
+PS,C200
+CT,10,T
+OL,0,  P101  BNOS-TT  101Cma 26 jan  16:00:00
+OL,1, W|,|Q|,|W|,,T,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2, W Q W/,|D]GJ  O  U  R  N  A  A L   
+OL,3, W/ /Q/,/W,,/T|,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,4,T##############                         
+OL,5,T,,,Contslagen bij ING,Philips,CorusT,,,
+OL,6,FBedenking SP en VVD bij steun ING..C105
+OL,7,FStaat schiet ING opnieuw te hulp...C104
+OL,8,FING schrapt 7000 banen;topman weg..C103
+OL,10,FPhilips op verlies,6000 banen weg..C106
+OL,11,FCorus schrapt wereldwijd 3500 banenC107
+OL,12,T,,,,,,,,,,,,Coverig nieuwsT,,,,,,,,,,,,
+OL,13,FTNO: miner ziekmeldingen fietsers..C116
+OL,15,FLubanga houdt voor hof onschuld volC115
+OL,17,FHelft van Vlamingen bang voor islamC114
+OL,19,FVerdachte bedreiging ambulance vrijC113
+OL,21,FMeer verdenkingen man Dendermonde..C109
+OL,22,D]Cvolledig nieuwsoverzicht op pag.102  
+OL,23,D]             Cwww.nos.nl              
+OL,24,E2009G/Eforum.fok.nl                    
+FL,0,0,0,0,0,100
+PN,10115
+SC,0015
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cdo 01 apr  16.51:36
@@ -318,8 +343,8 @@ OL,21,FNOS Teletekst bestaat 30 jaar..C111,112
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2010G/Efok.nl                          
 FL,0,0,0,0,0,100
-PN,10115
-SC,0015
+PN,10116
+SC,0016
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Czo 01 jan  00:00:04
@@ -343,8 +368,8 @@ OL,22,            F*            C*          *
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2012G-EYouTube: NOS teletekst          
 FL,0,0,0,0,0,100
-PN,10116
-SC,0016
+PN,10117
+SC,0017
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cwo 1 jan   00:45:01
@@ -369,8 +394,8 @@ OL,22, U"  Wbf,19ffA.V!&$!D.U&:2$B.Q!&$!S!R&:2
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2014G/Ex.com: @trbrtc                  
 FL,0,0,0,0,0,100
-PN,10117
-SC,0017
+PN,10118
+SC,0018
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cdo 25 dec  14:00:00
@@ -395,8 +420,8 @@ OL,22,R"?Q9R+mwd0                   `v-/Q9Ro!
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2014G/Enos.nl                          
 FL,0,0,0,0,0,100
-PN,10118
-SC,0018
+PN,10119
+SC,0019
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cwo 26 dec  10.00:00
@@ -425,8 +450,8 @@ OL,22,Sx~}||||~t
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2016G/Evolkskrant.nl                   
 FL,0,0,0,0,0,100
-PN,10119
-SC,0019
+PN,10120
+SC,0020
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cma 25 dec  09.00:00
@@ -454,8 +479,8 @@ OL,22,W*% *% Q"/'  W//// Cfeestdagen     G*
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2017G/EFacebook: NOS                   
 FL,0,0,0,0,0,100
-PN,10120
-SC,0020
+PN,10121
+SC,0021
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cma 24 dec  19.10:42
@@ -480,8 +505,8 @@ OL,22, *   *    R,     G*    *    *     *
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2018G/EFacebook: NOS                   
 FL,0,0,0,0,0,100
-PN,10121
-SC,0021
+PN,10122
+SC,0022
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cdi 24 dec  15.45:00
@@ -508,8 +533,8 @@ OL,22,Wt<t|ltlt|?'                      Rs
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2019G/EFacebook: NOS                   
 FL,0,0,0,0,0,100
-PN,10122
-SC,0022
+PN,10123
+SC,0023
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cdo 24 dec  19.10:00
@@ -538,8 +563,34 @@ OL,22,Wqpp  m=w?{;9w?  zxppp||ppp|}ppppppp
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2020G/Enos.nlG-EDeze pagina vereist Tel
 FL,0,0,0,0,0,100
-PN,10123
-SC,0023
+PN,10124
+SC,0024
+PS,C200
+CT,10,T
+OL,0,  P101  BNOS-TT  101Cvr 01 jan  00:01:00
+OL,1, W|,|Q|,|W|,,T,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2, W Q W/,|D]GJ  O  U  R  N  A  A  L  
+OL,3, W/ /Q/,/W,,/T|,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,4,T##############                         
+OL,5,FEU-vissers welkom in Britse waterenC110
+OL,7,FOverlast in Den Bosch en Volendam..C113
+OL,9,FPaus mist vieringen om gezondheid..C136
+OL,10,T,,,,,,,,,,,,CcoronacrisisT,,,,,,,,,,,,,
+OL,11,FDuitsland prikt minder dan gepland.C137
+OL,12,FBritse variant bij verpleegkundigenC121
+OL,13,FRIVM:vaccineren in zorg kan eerder.C106
+OL,15,T$` 0         FDeGNAOGSFwenst           
+OL,16,  Ux T`~t      Fu een gezond   S(! !&   
+OL,17,U`x}pTka      Fen gelukkig    W4 45 5  
+OL,18, U"o'T&  " Sh|||0`|||0h|||0 `|4 7575  
+OL,19, U$"Q`t !     Sj5j5 j5   j5h?k5R5555  
+OL,20, T`&Q+?!`  Sh?//!j5 j5h?//!  j5Ro}%+?!  
+OL,21, T:U5Q4  ) Sj5   j5 j5j5     j5 W5  5   
+OL,22,T(!U*Q"$   S"///%"///!"///%  *%W,)$#"!  
+OL,24,E2021G/Einstagram.com: teletekst_101    
+FL,0,0,0,0,0,100
+PN,10125
+SC,0025
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cza 25 dec  13.30:00
@@ -567,8 +618,35 @@ OL,22, ]                    Sjk Qjj  h}
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2021G/Enos.nl                          
 FL,0,0,0,0,0,100
-PN,10124
-SC,0024
+PN,10126
+SC,0026
+PS,C200
+CT,10,T
+OL,0,  P101  BNOS-TT  101Cza 01 jan  02:00:00
+OL,1, W|,|Q|,|W|,,T,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2, W Q W/,|D]GJ  O  U  R  N  A  A  L  
+OL,3, W/ /Q/,/W,,/T|,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,4,T##############                         
+OL,5,FHulpverleners bekogeld,druk op Dam.C109
+OL,6,FNederland viert start nieuwe jaar..C122
+OL,8,F'Golden Girl' Betty White overledenC130
+OL,9,FProces aanslagen Parijs vertraagd..C136
+OL,11,FWarmste Oudjaarsdag ooit gemeten...C104
+OL,12,FDode (12) door klaphamerongeluk....C106
+OL,13,FDode en vermisten explosie TurnhoutC127
+OL,15, D*    *    Rdia$ FDeGNAOGSFwenst u een 
+OL,16, Udia$   D*Rb,19f  Fgezond en gelukkig  
+OL,17,Ub,19fV"de& R&:2$                       
+OL,18, U&:2$V"9=3D*S(D*  S|||t x||t |||t |||t 
+OL,19, S(( $V" 5" S(b $                  
+OL,20,S"`b " $!$2( $b (`  ~//'    ~//' ~//' 
+OL,21,S$`b !  $1(`("b(`(                 
+OL,22,  Sb  !$ 1  $ b  $  +/// +//' +/// +/// 
+OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
+OL,24,E2022G/Ex.com: @teletextmonitor         
+FL,0,0,0,0,0,100
+PN,10127
+SC,0027
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cza 24 dec  18.45:00
@@ -594,8 +672,34 @@ OL,22,               Qx?x|tot
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2022G/Enos.nl                          
 FL,0,0,0,0,0,100
-PN,10125
-SC,0025
+PN,10128
+SC,0028
+PS,C200
+CT,10,T
+OL,0,  P101  BNOS-TT  101Czo 1 jan   09.55:17
+OL,1, W|,|Q|,|W|,,T,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2, W Q W/,|D]GJ  O  U  R  N  A  A  L  
+OL,3, W/ /Q/,/W,,/T|,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,4,T##############                         
+OL,5,FPointer Sister Anita (74) overledenC128
+OL,7,F17 slachtoffers in Oogziekenhuis...C106
+OL,9,FNieuwe jaar ingeluid met vuurwerk..C104
+OL,11,FBrand in leeg kerkgebouw Veghel....C105
+OL,13,F2023 begint in Kiev met luchtalarm.C136
+OL,14,   A*  B*       E*                      
+OL,15,F*    D* Udia$B*  FDeGNAOGSFwenst u een 
+OL,16, R"2 "0 Ub,19f C*D*Agelukkig en gezond  
+OL,17, S4 45 5 U&:2$F* E* Sp0  p0  p0  p0  B* 
+OL,18, R7575C*  D*  G* S>#+4>#+4>#+4>#+4E*  
+OL,19, R5555 A*V80A* B*  S`55  5  `5 `>!  C*
+OL,20, Rm%+?!Q`dV"R80Uf$ Sx' 5  5 x'  "m0 A* 
+OL,21,  R5 pe0 Q!  R"Q`  S>! 0mpx%>! 0mpx%D*  
+OL,22, R#"!    Uf$Vf$Q)! S###! #! ###! #!   E*
+OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
+OL,24,E2023G/Enos.nl                          
+FL,0,0,0,0,0,100
+PN,10129
+SC,0029
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cdi 26 dec  09.30:00
@@ -621,8 +725,32 @@ OL,22,                             Rhw{4 Sk5
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2023G/Enos.nl                          
 FL,0,0,0,0,0,100
-PN,10126
-SC,0026
+PN,10130
+SC,0030
+PS,C200
+CT,10,T
+OL,0,  P101  BNOS-TT  101Cma 1 jan   10.26:05
+OL,1, W|,|Q|,|W|,,T,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2, W Q W/,|D]GJ  O  U  R  N  A  A L   
+OL,3, W/ /Q/,/W,,/T|,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,4,T##############                         
+OL,5,FTsunamiwaarschuwing na beving JapanC128
+OL,7,FMan doodgeschoten in Capelle.......C121
+OL,9,FWeer "horrornacht" Oogziekenhuis...C106
+OL,11,FPolitie bekogeld met vuurwerk......C121
+OL,13,FDodo bij vuurwerkincident Haarlem..C105
+OL,15,FDeense koningin doet troonsafstand.C127
+OL,17,E]S28 `(     A*D*  G* B*   G* A*T0R`dD* 
+OL,18,E]S|| qr Tw5B*Sdia$A* Th#4F*Tp 5`R! G*
+OL,19,E]R5 5 V5x 5 Sb,19f D*T`f08d*`%"i Sf$ 
+OL,20,E]Rj5 i7 V5j 5D*S&:2$B* Q0 Te:()$V`dB*  
+OL,21,E]S## .- V-,,% G* A*F* Q"& C* B*  V! C* 
+OL,22,B]DDeGNAOGSDwenst u een gelukkig 2024   
+OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
+OL,24,E2024G/Enos.nl                          
+FL,0,0,0,0,0,100
+PN,10131
+SC,0031
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cwo 25 dec  01.00:00
@@ -649,8 +777,8 @@ OL,22,T          C*      kerstdagen       T
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2024G/Enos.nl                          
 FL,0,0,0,0,0,100
-PN,10127
-SC,0027
+PN,10132
+SC,0032
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cwo  1 jan  01:44:43
@@ -678,8 +806,8 @@ OL,22,T(!S*U"$S) W###  Q##! W"##! "#! S(&,"!#
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2025G/Enos.nl                          
 FL,0,0,0,0,0,100
-PN,10128
-SC,0028
+PN,10133
+SC,0033
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cdo 25 dec  00.07:00
@@ -705,8 +833,8 @@ OL,22,T      G*        T     U         T
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
 OL,24,E2025G/Espreekbuis.nl                   
 FL,0,0,0,0,0,100
-PN,10129
-SC,0029
+PN,10134
+SC,0034
 PS,C200
 CT,10,T
 OL,0,  P101  BNOS-TT  101Cdo 1 jan   13.00:00
@@ -733,5 +861,5 @@ OL,20, ADeGNAOGS  S`% 6 "4  `% jp0 Awenst u
 OL,21, Fgelukkig R8!0 i h! 8!0 j j Fnieuwjaar 
 OL,22,           S##!  #!  ##!  #!            
 OL,23,D]Gnieuwsoverzicht 102,103 - www.nos.nl 
-OL,24,E2026G/Ebsky.app: @rutgerdequay.nl      
+OL,24,E2026G/Ex.com                           
 FL,0,0,0,0,0,100

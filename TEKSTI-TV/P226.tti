@@ -3,7 +3,7 @@ PN,22601
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G226 YLE TEKSTI-TV 26.03.04:22:31
+OL,0,       G226 YLE TEKSTI-TV 27.03.05:47:08
 OL,1,B]DJ[[KIEKKO  ] G     MESTIS        1/3 
 OL,2,T#######################################
 OL,3,K                                       
@@ -13,10 +13,10 @@ OL,6, IPK        18  9  4  3  2  58- 41  38
 OL,7, RoKi       18  7  4  1  6  66- 47  30  
 OL,8, JoKP       19  8  1  3  7  61- 56  29  
 OL,9,FK-Vantaa   17  7  3  2  5  41- 41  29  
-OL,10,FHermes     19  6  1  4  8  45- 58  24  
-OL,11,FPyry       20  6  2  2 10  57- 71  24  
+OL,10,FPyry       21  7  2  2 10  60- 73  27  
+OL,11,FHermes     19  6  1  4  8  45- 58  24  
 OL,12,FKeuPa HT   20  5  2  4  9  52- 68  23  
-OL,13,GKetter{    20  5  1  2 12  38- 64  19  
+OL,13,GKetter{    21  5  1  2 13  40- 67  19  
 OL,14,K                                       
 OL,15,K                                       
 OL,16,K                                       
@@ -33,48 +33,48 @@ PN,22602
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G226 YLE TEKSTI-TV 26.03.04:22:31
+OL,0,       G226 YLE TEKSTI-TV 27.03.05:47:08
 OL,1,B]DJ[[KIEKKO  ] G     MESTIS        2/3 
 OL,2,T#######################################
-OL,3,B26.11.                                 
-OL,4, Pyry         - Ketter{     F18.30      
-OL,5,K                                       
-OL,6,B27.11.                                 
-OL,7, RoKi         - K-Vantaa    F18.30      
-OL,8, TUTO Hockey  - JoKP        F18.30      
-OL,9, Ketter{      - IPK         F18.30      
-OL,10, KeuPa HT     - Hermes      F18.30      
-OL,11,K                                       
-OL,12,B28.11.                                 
-OL,13, IPK          - RoKi        F17.00      
-OL,14, Pyry         - JoKP        F17.00      
-OL,15, Hermes       - K-Vantaa    F17.00      
+OL,3,B27.11.                                 
+OL,4, RoKi         - K-Vantaa    F18.30      
+OL,5, TUTO Hockey  - JoKP        F18.30      
+OL,6, Ketter{      - IPK         F18.30      
+OL,7, KeuPa HT     - Hermes      F18.30      
+OL,8,K                                       
+OL,9,B28.11.                                 
+OL,10, IPK          - RoKi        F17.00      
+OL,11, Pyry         - JoKP        F17.00      
+OL,12, Hermes       - K-Vantaa    F17.00      
+OL,13,K                                       
+OL,14,B2.12.                                  
+OL,15, K-Vantaa     - KeuPa HT    F18.30      
 OL,16,K                                       
-OL,17,B2.12.                                  
-OL,18, K-Vantaa     - KeuPa HT    F18.30      
+OL,17,B3.12.                                  
+OL,18, JoKP         - Ketter{     F18.30      
 OL,19,K                                       
-OL,20,B3.12.                                  
-OL,21, JoKP         - Ketter{     F18.30      
-OL,22,K                                       
-OL,23,K                                       
+OL,20,B4.12.                                  
+OL,21, RoKi         - Pyry        F18.30      
+OL,22, IPK          - TUTO Hockey F18.30      
+OL,23, Ketter{      - K-Vantaa    F18.30      
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,22603
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G226 YLE TEKSTI-TV 26.03.04:22:31
+OL,0,       G226 YLE TEKSTI-TV 27.03.05:47:08
 OL,1,D]G  MESTIS PISTEP\RSSI             3/3 
 OL,2,                       Bot  m  s    +-  
 OL,3,GValtteri Karnarant TUT 19  4+21=25  12 
-OL,4,FJoni Virolainen    Pyr 20  6+17=23  -3 
+OL,4,FJoni Virolainen    Pyr 21  6+17=23  -3 
 OL,5,GTomi Alanko        RoK 17  8+13=21   6 
 OL,6,GTuomas \rn         RoK 18  2+19=21   5 
 OL,7,FValtteri Savolaine RoK 18 11+ 8=19  -1 
 OL,8,FJani Taskula       JoK 19 10+ 9=19  11 
 OL,9,FSamu Markkula      TUT 16  5+14=19  15 
 OL,10,GEmil V{lil{        TUT 18 13+ 4=17  11 
-OL,11,GTuukka Hietam{ki   Pyr 20  8+ 9=17  -3 
+OL,11,GTuukka Hietam{ki   Pyr 21  8+ 9=17  -3 
 OL,12,GHenry Karjalainen  JoK 19  8+ 9=17   6 
 OL,13,GTatu Kokkola       JoK 19  6+11=17   8 
 OL,14,FArttu Lausniemi    IPK 18  8+ 8=16   5 
@@ -82,7 +82,7 @@ OL,15,FRoope Turunen      TUT 19  7+ 9=16  15
 OL,16,FJulius Janhonen    JoK 18  7+ 9=16  -3 
 OL,17,FEetu M{ki          Her 19  6+10=16  -3 
 OL,18,FVenni Tolppola     IPK 18  5+11=16  13 
-OL,19,GLenni Tiihonen     Ket 20  8+ 7=15  -1 
+OL,19,GLenni Tiihonen     Ket 21  8+ 7=15  -2 
 OL,20,GRiku Sihvonen      JoK 19  4+11=15  -5 
 OL,21,FJami Virtanen      IPK 18 11+ 3=14   5 
 OL,22,FOtto Jaatinen      IPK 11  4+10=14  11 

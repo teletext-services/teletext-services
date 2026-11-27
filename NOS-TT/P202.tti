@@ -3,13 +3,13 @@ PN,20201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  202Cdon 26 nov  03:43:42
+OL,0,       BNOS-TT  202Cvri 27 nov  01:45:46
 OL,1,V  |<,,| |<,,| |<,,| (,,,| F      F 1/3 
 OL,2,D]V5   7### upp jwsss B donderdag  
 OL,3,Tupuzupuppppzppppz]B           
 OL,4,G                                       
 OL,5,B07.00F journaal met gebarentaal     NOS
-OL,6,B07.13F tijd voor max hhC229   F     MAX
+OL,6,B07.13F tijd voor max hhC      F     MAX
 OL,7,B08.00F binnenstebuitenC237F   FKRO-NCRV
 OL,8,B08.39FFgeheugentrainer            F MAX
 OL,9,B                                       
@@ -22,7 +22,7 @@ OL,15,B10.45F noord-zuid-oost-westC239F    MAX
 OL,16,B11.20FFbinnenstebuitenC237F    KRO-NCRV
 OL,17,B11.48 Fleger des heils         SOCUTERA
 OL,18,B                                       
-OL,19,B12.00F journaalC                   FNOS
+OL,19,B12.00F journaalC225                FNOS
 OL,20,B12.15 Fkook mee met maxC235F  F     MAX
 OL,21,B12.32F max maakt mogelijkC240F         
 OL,22,B13.00                                  
@@ -33,7 +33,7 @@ PN,20202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  202Cdon 26 nov  03:43:42
+OL,0,       BNOS-TT  202Cvri 27 nov  01:45:46
 OL,1,V  |<,,| |<,,| |<,,| (,,,| F      F 2/3 
 OL,2,D]V5   7### upp jwsss B donderdag  
 OL,3,Tupuzupuppppzppppz]B           
@@ -52,7 +52,7 @@ OL,15,B16.30F per seconde wijzer       BNNVARA
 OL,16,B16.56 Fuitzending                    PP
 OL,17,B17.05F planet earthC228F             EO
 OL,18,B                                       
-OL,19,B18.00 Fjournaal                    FNOS
+OL,19,B18.00 Fjournaal C225               FNOS
 OL,20,B18.15 Fjournaal regio               NOS
 OL,21,B18.30F noord-zuid-oost-westC239F    MAX
 OL,22,B19.10                                  
@@ -63,7 +63,7 @@ PN,20203
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BNOS-TT  202Cdon 26 nov  03:43:42
+OL,0,       BNOS-TT  202Cvri 27 nov  01:45:46
 OL,1,V  |<,,| |<,,| |<,,| (,,,| F      F 3/3 
 OL,2,D]V5   7### upp jwsss B donderdag  
 OL,3,Tupuzupuppppzppppz]B           
@@ -73,8 +73,8 @@ OL,6,B19.50F met het mes op taafel       FMAX
 OL,7,B20.25F pointerC243F           FKRO-NCRV
 OL,8,B20.50 Fpointer checkC244F              
 OL,9,B21.15 FschuldenvrijC245F          HUMAN
-OL,10,B22.00F nieuwsuur               FNTR-NOS
-OL,11,G       met journaal               B    
+OL,10,B22.00F nieuwsuur C221          FNTR-NOS
+OL,11,G       met journaal C225          B    
 OL,12,B22.45F de joodse wereldC228F        FEO
 OL,13,B23.15F adieu! volgende kaartC233F      
 OL,14,B23.50 Fde joodse wereldC228F           
@@ -82,7 +82,7 @@ OL,15,B      Gdienstregeling van de dood
 OL,16,B00.30 Fhh npo radio 5 evergreen        
 OL,17,GG     Ftop 1000                     MAX
 OL,18,B01.45FFde nachtzoen                 FEO
-OL,19,B02.00FFhh nieuwsuur         F   NTR-NOS
+OL,19,B02.00FFhh nieuwsuurC221     F   NTR-NOS
 OL,20,B02.40F hh ongehoord nieuws         FOON
 OL,21,B03.20F nachtcarrouselB     F           
 OL,22,B06.00                                  

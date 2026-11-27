@@ -3,11 +3,11 @@ PN,35901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G359 WDR Text GDo 26.11.26 07:55:04
+OL,0,     G359 WDR Text GFr 27.11.26 07:41:39
 OL,1,]D]        G]               @]CFERNSEHEN
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     7-Tage-Vorschau           
-OL,4,          CDienstag, 01.12.26           
+OL,4,          CMittwoch, 02.12.26           
 OL,5,B04.25 Lokalzeit aus DortmundCHD        
 OL,7,B04.55 Lokalzeit M}nsterlandCHD         
 OL,9,B05.25 Lokalzeit OWLCHD                 
@@ -15,102 +15,134 @@ OL,11,B05.50 Lokalzeit S}dwestfalenCHD
 OL,13,B06.20 Lokalzeit aus BonnCHD            
 OL,15,B06.50 Lokalzeit aus DuisburgCHD        
 OL,17,B07.20 ErlebnisreisenCHD, UT            
-OL,19,B07.35 In aller FreundschaftCHD, UT     
-OL,20,       1057. Verdachtsf{lle             
-OL,21,       Fernsehserie, D 2024             
 OL,23,]D300 < ]bersicht           weiter > 360
-OL,24,A]G- 358B]G+ 360  \               G(1/5)
+OL,24,A]G- 358B]G+ 360  \               G(1/6)
 FL,358,360,0,0,0,100
 PN,35902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G359 WDR Text GDo 26.11.26 07:55:04
+OL,0,     G359 WDR Text GFr 27.11.26 07:41:39
 OL,1,]D]        G]               @]CFERNSEHEN
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     7-Tage-Vorschau           
-OL,4,          CDienstag, 01.12.26           
-OL,5,B08.20 In aller FreundschaftCHD, UT     
-OL,6,       1058. Besuche aus der Vergan-    
-OL,7,       genheit                          
-OL,8,       Fernsehserie, D 2024             
-OL,9,B09.05 LokalzeitCHD                     
-OL,11,B09.35 Gefragt - GejagtCHD, UT          
-OL,12,       mit Alexander Bommes             
-OL,13,B10.20 Mittendrin - Flughafen Frank-    
-OL,14,      BfurtCHD, UT                      
-OL,15,       79. Neue Feuerwehr-Giganten      
-OL,16,       am Flughafen                     
-OL,17,B11.05 Die Haustierprofis (8)CHD, UT    
-OL,19,B11.55 Elefant, Tiger & Co.CHD, UT      
-OL,21,B12.45 WDR aktuellCHD, UT               
+OL,4,          CMittwoch, 02.12.26           
+OL,5,B07.35 In aller Freundschaft - 1059.    
+OL,6,      BRealit{tenCHD, UT                
+OL,7,       Fernsehserie, Deutschland        
+OL,8,       2024                             
+OL,9,       (mit Audiodeskription)           
+OL,10,B08.20 In aller Freundschaft - 1060.    
+OL,11,      BMeister der Verdr{ngungCHD       
+OL,12,       Fernsehserie, Deutschland        
+OL,13,       2024                             
+OL,14,       (mit Audiodeskription)           
+OL,15,B09.05 LokalzeitCHD                     
+OL,17,B09.35 Gefragt - GejagtCHD, UT          
+OL,18,       mit Alexander Bommes             
+OL,19,B10.20 Mittendrin - Flughafen Frank-    
+OL,20,      BfurtCHD, UT                      
+OL,21,       92. Neues Terminal 3 in Ac-      
+OL,22,       tion                             
 OL,23,]D300 < ]bersicht           weiter > 360
-OL,24,A]G- 358B]G+ 360  \               G(2/5)
+OL,24,A]G- 358B]G+ 360  \               G(2/6)
 FL,358,360,0,0,0,100
 PN,35903
 SC,0003
 PS,C200
 CT,15,T
-OL,0,     G359 WDR Text GDo 26.11.26 07:55:04
+OL,0,     G359 WDR Text GFr 27.11.26 07:41:39
 OL,1,]D]        G]               @]CFERNSEHEN
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     7-Tage-Vorschau           
-OL,4,          CDienstag, 01.12.26           
-OL,5,B13.00 Seehund, Puma & Co.CHD, UT       
-OL,7,B13.50 Panda, Gorilla & Co.CHD, UT      
-OL,9,B14.20 Watzmann ermitteltCAD, HD, UT    
-OL,10,       32. Verbissen                    
-OL,11,       Fernsehserie, D 2022             
-OL,12,B15.10 Watzmann ermitteltCAD, HD, UT    
-OL,13,       33. Bienenstich                  
-OL,14,       Fernsehserie, D 2022             
-OL,15,B16.00 WDR aktuellCHD, UT               
-OL,17,B16.15 Hier und heuteCHD, UT            
-OL,19,B18.00 WDR aktuell / LokalzeitCHD       
-OL,21,B18.15 ServicezeitCHD, UT               
-OL,22,       Servicetel. 0221 56789 999       
+OL,4,          CMittwoch, 02.12.26           
+OL,5,B11.05 Die Haustierprofis (9)CHD, UT    
+OL,7,B11.55 Elefant, Tiger & Co.CHD, UT      
+OL,8,       Geschichten aus dem Leipziger    
+OL,9,       Zoo                              
+OL,10,       Im Dunkeln munkeln               
+OL,11,B12.45 WDR aktuellCHD, UT               
+OL,12,       Moderation Tobias H{usler        
+OL,13,B13.00 Seehund, Puma & Co.CHD, UT       
+OL,15,B13.50 Panda, Gorilla & Co.CHD, UT      
+OL,17,B14.20 Watzmann ermitteltCHD, UT        
+OL,18,       34. Rache ist bitter             
+OL,19,       Fernsehserie, D 2022             
+OL,20,B15.10 Watzmann ermitteltCHD, UT        
+OL,21,       35. Freier Fall                  
+OL,22,       Fernsehserie, D 2022             
 OL,23,]D300 < ]bersicht           weiter > 360
-OL,24,A]G- 358B]G+ 360  \               G(3/5)
+OL,24,A]G- 358B]G+ 360  \               G(3/6)
 FL,358,360,0,0,0,100
 PN,35904
 SC,0004
 PS,C200
 CT,15,T
-OL,0,     G359 WDR Text GDo 26.11.26 07:55:04
+OL,0,     G359 WDR Text GFr 27.11.26 07:41:39
 OL,1,]D]        G]               @]CFERNSEHEN
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     7-Tage-Vorschau           
-OL,4,          CDienstag, 01.12.26           
-OL,5,B18.45 Aktuelle StundeCHD, UT           
-OL,7,B19.30 LokalzeitCHD                     
-OL,9,B20.00 TagesschauCHD, UT                
-OL,11,B20.15 Tatort - FeierstundeCAD, HD      
-OL,12,       Fernsehfilm, Deutschland 2016    
-OL,13,B21.45 WDR aktuellCHD, UT               
-OL,15,B22.15 Tatort - MartinsfeuerCHD, UT     
-OL,16,       Fernsehfilm, Deutschland 1999    
-OL,17,B23.40 Tatort - KinderliebCUT           
-OL,18,       Fernsehfilm, Deutschland 1991    
-OL,19,B01.10 Watzmann ermitteltCAD, HD, UT    
-OL,20,       33. Bienenstich                  
-OL,21,       Fernsehserie, D 2022             
+OL,4,          CMittwoch, 02.12.26           
+OL,5,B16.00 WDR aktuellCHD, UT               
+OL,6,       Moderation Tobias H{usler        
+OL,7,B16.15 Hier und heuteCHD, UT            
+OL,9,B18.00 WDR aktuell / LokalzeitCHD       
+OL,11,B18.15 ServicezeitCHD, UT               
+OL,12,       Servicetelefon 0221 56789 999    
+OL,13,       - www.servicezeit.de             
+OL,14,B18.45 Aktuelle StundeCHD, UT           
+OL,15,       Moderation Susanne Wieseler      
+OL,16,       und Andreas Bursche              
+OL,17,       Zuschauertelefon 0800 / 5678-    
+OL,18,       100                              
+OL,19,B19.30 LokalzeitCHD                     
+OL,21,B20.00 TagesschauCHD, UT                
 OL,23,]D300 < ]bersicht           weiter > 360
-OL,24,A]G- 358B]G+ 360  \               G(4/5)
+OL,24,A]G- 358B]G+ 360  \               G(4/6)
 FL,358,360,0,0,0,100
 PN,35905
 SC,0005
 PS,C200
 CT,15,T
-OL,0,     G359 WDR Text GDo 26.11.26 07:55:04
+OL,0,     G359 WDR Text GFr 27.11.26 07:41:39
 OL,1,]D]        G]               @]CFERNSEHEN
 OL,2,]D]GWDR     ]DPROGRAMM       ]          
 OL,3,]T5D     7-Tage-Vorschau           
-OL,4,          CDienstag, 01.12.26           
-OL,5,B02.00 Lokalzeit aus K|lnCHD            
-OL,7,B02.30 Lokalzeit aus AachenCHD          
-OL,9,B03.00 Lokalzeit aus D}sseldorfCHD      
-OL,11,B03.25 Lokalzeit Bergisches LandCHD     
-OL,13,B03.55 Lokalzeit RuhrCHD                
+OL,4,          CMittwoch, 02.12.26           
+OL,5,B20.15 MarktCHD, UT                     
+OL,6,       www.markt.wdr.de                 
+OL,7,B21.00 Der Haushalts-Check mit Yvon-    
+OL,8,      Bne WillicksCHD, UT               
+OL,9,       Siebtr{germaschinen - K|nigs-    
+OL,10,       klasse oder teurer Status?       
+OL,11,B21.45 WDR aktuellCHD, UT               
+OL,12,       Moderation Andreas Bursche       
+OL,13,B22.15 Die Wahrheit }ber GoogleCHD      
+OL,14,       Ein Film von J|rg Hommer         
+OL,15,B23.00 Millionencoup im Gr}nen Ge-      
+OL,16,      Bw|lbeCHD, UT                     
+OL,17,       Ein Film von Heike R|mer-Men-    
+OL,18,       schel und Sandro Gerber          
+OL,19,       ARD Crime Time                   
+OL,20,B00.30 Millionen FakeCHD, UT            
+OL,21,       Jagd auf die Kunstf{lscher       
 OL,23,]D300 < ]bersicht           weiter > 360
-OL,24,A]G- 358B]G+ 360  \               G(5/5)
+OL,24,A]G- 358B]G+ 360  \               G(5/6)
+FL,358,360,0,0,0,100
+PN,35906
+SC,0006
+PS,C200
+CT,15,T
+OL,0,     G359 WDR Text GFr 27.11.26 07:41:39
+OL,1,]D]        G]               @]CFERNSEHEN
+OL,2,]D]GWDR     ]DPROGRAMM       ]          
+OL,3,]T5D     7-Tage-Vorschau           
+OL,4,          CMittwoch, 02.12.26           
+OL,5,B02.05 ErlebnisreisenCHD                
+OL,7,B02.30 Lokalzeit aus K|lnCHD            
+OL,9,B03.00 Lokalzeit aus AachenCHD          
+OL,11,B03.25 Lokalzeit aus D}sseldorfCHD      
+OL,13,B03.55 Lokalzeit Bergisches LandCHD     
+OL,23,]D300 < ]bersicht           weiter > 360
+OL,24,A]G- 358B]G+ 360  \               G(6/6)
 FL,358,360,0,0,0,100

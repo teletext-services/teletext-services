@@ -3,24 +3,26 @@ PN,70800
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G708  RSI LA 1  26.11.26 17:16:09
+OL,0,       G708  RSI LA 1  27.11.26 03:01:10
 OL,1,A]GRSI   ]@LA1      VENERDI 27 novembre 
 OL,2,G                                       
-OL,3, F19:35  FZeroveroCST                   
-OL,4, G19:55  GMeteo regionaleCST            
-OL,5, F20:00  FTelegiornaleCST               
-OL,6, G20:35  GMeteoCST                      
-OL,7, F20:40  FPatti ChiariCST               
-OL,8, G22:00  GLa mafia corsaCSTC1TVA...C711
-OL,9,         GIl colpo del secolo           
-OL,10, F23:05  FTG Notte                      
-OL,11, G23:30  GMeteoCST                      
-OL,12, F23:35  FL'erba del vicinoCSTCI/II.C716
-OL,13, G01:15  GSiamo fuoriCSTCR              
-OL,14, F02:15  FTG NotteCR                    
-OL,15, G02:35  GMeteoCST                      
-OL,16, F02:40  FPrima OraCSTCR                
-OL,17, G03:35  GIl QuotidianoCSTCR            
-OL,18, F04:05  FTelegiornaleCST               
+OL,3, G18:00  GPrima OraCST                  
+OL,4, F19:00  FIl QuotidianoCST              
+OL,5, G19:35  GZeroveroCST                   
+OL,6, F19:55  FMeteo regionaleCST            
+OL,7, G20:00  GTelegiornaleCST               
+OL,8, F20:35  FMeteoCST                      
+OL,9, G20:40  GPatti ChiariCST               
+OL,10, F22:00  FLa mafia corsaCSTC1TV.....C710
+OL,11,         FIl colpo del secolo           
+OL,12, G23:05  GTG Notte                      
+OL,13, F23:30  FMeteoCST                      
+OL,14, G23:35  GL'erba del vicinoCSTCI/II.C716
+OL,15, F01:15  FSiamo fuoriCST                
+OL,16, G02:15  GTG Notte                      
+OL,17, F02:35  FMeteoCST                      
+OL,18, G02:40  GPrima OraCST                  
+OL,19, F03:35  FIl QuotidianoCST              
+OL,20, G04:05  GTelegiornaleCST               
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

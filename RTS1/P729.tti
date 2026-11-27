@@ -3,7 +3,7 @@ PN,72901
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 1     26.11.26 17:50:31
+OL,0,       G729  RTS 1     27.11.26 03:31:05
 OL,1,A]GRTS 2     ]@jeudi 26 novembre        
 OL,2,                                    1/3 
 OL,4,F14:50 FInfrarouge                      
@@ -28,21 +28,21 @@ PN,72902
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 1     26.11.26 17:50:31
+OL,0,       G729  RTS 1     27.11.26 03:31:05
 OL,1,A]GRTS 2     ]@jeudi 26 novembre        
 OL,2,                                    2/3 
-OL,4,F20:50 FPMU                             
+OL,4,F20:45 FPMU                             
 OL,5,E 2000                                  
 OL,6,G20:55 GHumour                          
 OL,7,E 2050 GNathana[l Rochat Y'a moyen      
 OL,8,       CS-T                             
 OL,9,F22:30 FZap RTS Sport                   
 OL,10,E 2240 CS-T                             
-OL,11,G22:40 GChicago Police..............C707
-OL,12,E 2235 GRoute glissanteCI/IICS-T        
-OL,13,F23:20 FChicago Police..............C709
+OL,11,G22:35 GChicago Police                  
+OL,12,       GRoute glissanteCI/IICS-T        
+OL,13,F23:20 FChicago Police                  
 OL,14,E 2305 FCercueil ouvertCI/IICS-T        
-OL,15,G00:00 GMeurtres @ Font Romeu.......C711
+OL,15,G00:00 GMeurtres @ Font Romeu           
 OL,16,E 2355 CS-T                             
 OL,17,F01:35 F19h30 - Sign#                   
 OL,18,E 1930 CS-TCLS                          
@@ -54,7 +54,7 @@ PN,72903
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 1     26.11.26 17:50:31
+OL,0,       G729  RTS 1     27.11.26 03:31:05
 OL,1,A]GRTS 2     ]@jeudi 26 novembre        
 OL,2,                                    3/3 
 OL,4,F02:25 F19h30 - Sign#                   
@@ -65,13 +65,13 @@ OL,8,F03:10 F19h30 - Sign#
 OL,9,E 0245 CS-TCLSC(R)                      
 OL,10,G03:45 GCouleurs locales                
 OL,11,E 0244 CS-TC(R)                         
-OL,12,F03:55 F19h30 - Sign#                   
+OL,12,F04:00 F19h30 - Sign#                   
 OL,13,E 0250 CS-TCLSC(R)                      
 OL,14,G04:30 GCouleurs locales                
 OL,15,E 0249 CS-TC(R)                         
-OL,16,F04:45 F19h30 - Sign#                   
+OL,16,F04:50 F19h30 - Sign#                   
 OL,17,E 0255 CS-TCLSC(R)                      
-OL,18,G05:15 GCouleurs locales                
+OL,18,G05:20 GCouleurs locales                
 OL,19,E 0500 CS-TC(R)                         
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

@@ -4,22 +4,22 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     128Cczw 26 lis  01:45:49
+OL,0,      BTVP3     128Cpi@ 27 lis  06:22:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
-OL,4,E26.11.2026  1:00    GStany:            
+OL,4,E27.11.2026  6:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FBiebrza                         
 OL,8,FSztabin         B151   F270    290    =
-OL,9, D`bowo          B116   G270    300    =
-OL,10,FOsowiec         B277   F400    430    =
-OL,11, Burzyn          B184   G380    400    =
+OL,9, D`bowo          B120   G270    300    =
+OL,10,FOsowiec         B280   F400    430    +
+OL,11, Burzyn          B185   G380    400    =
 OL,13, Rzeka:FBug                             
 OL,14,FFrankopol        B48   F250    350    =
 OL,16, Rzeka:FE}k                             
-OL,17,FPrzechody       B194   F330    360    =
-OL,18, Osowiec         B360   G460    490    +
+OL,17,FPrzechody       B192   F330    360    =
+OL,18, Osowiec         B358   G460    490    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,127,129,100,100,0,100
 PN,12802
@@ -27,23 +27,23 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     128Cczw 26 lis  01:45:49
+OL,0,      BTVP3     128Cpi@ 27 lis  06:22:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
-OL,4,E26.11.2026  1:00    GStany:            
+OL,4,E27.11.2026  6:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FLega                            
-OL,8,FRajgr_d         B106   F140    160    =
+OL,8,FRajgr_d         B105   F140    160    =
 OL,10, Rzeka:FNarew                           
-OL,11,FNarew           B133   F170    200    =
-OL,12, Sura{           B118   G320    340    =
-OL,13,FStr`kowa G_ra   B136   F420    440    +
-OL,14, Wizna           B185   G440    470    =
-OL,15,FPi@tnica - ]om{aB102   F410    460    =
-OL,16, Nowogr_d        B156   G360    400    =
+OL,11,FNarew           B134   F170    200    =
+OL,12, Sura{           B119   G320    340    =
+OL,13,FStr`kowa G_ra   B141   F420    440    =
+OL,14, Wizna           B190   G440    470    =
+OL,15,FPi@tnica - ]om{aB101   F410    460    =
+OL,16, Nowogr_d        B155   G360    400    =
 OL,18, Rzeka:FNurzec                          
-OL,19,FBra$sk           B77   F250    300    =
+OL,19,FBra$sk           B81   F250    300    =
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,127,129,100,100,0,100
 PN,12803
@@ -51,19 +51,19 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     128Cczw 26 lis  01:45:49
+OL,0,      BTVP3     128Cpi@ 27 lis  06:22:44
 OL,1,A]  GInformacje Urz`du Wojew_dzkiego    
 OL,2,A]G]   @Informacja o stanie w_d      Q
 OL,3,Q##!     Cwojew_dztwo podlaskie     Q"##
-OL,4,E26.11.2026  1:00    GStany:            
+OL,4,E27.11.2026  6:00    GStany:            
 OL,5, Miejscowo|^     wody ostrzeg. alarm.zm.
 OL,7, Rzeka:FPisa                            
-OL,8,FPtaki            B59   F210    240    =
+OL,8,FPtaki            B58   F210    240    =
 OL,9, Dobrylas         B86   G250    290    =
 OL,11, Rzeka:FSoko}da                         
-OL,12,FSoko}da         B197   F250    300    =
+OL,12,FSoko}da         B196   F250    300    =
 OL,14, Rzeka:FSupra|l                         
-OL,15,FSupra|l         B106   F220    260    +
-OL,16, Fasty           B118   G220    250    =
+OL,15,FSupra|l         B106   F220    260    =
+OL,16, Fasty           B110   G220    250    -
 OL,23,                        ~r_d}o: IMGW-PIB
 FL,127,129,100,100,0,100

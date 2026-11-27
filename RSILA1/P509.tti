@@ -3,37 +3,12 @@ PN,50901
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G509  RSI LA 1  26.11.26 11:56:21
+OL,0,       G509  RSI LA 1  27.11.26 02:59:50
 OL,1,D]GTENDENZA                     A]GRSI  
 OL,2,G                                   1/2 
 OL,3,CM      Sud delle Alpi e Insubria       
 OL,4,G                                       
-OL,5,CLuned~      CMarted~     CMercoled~    
-OL,6,C------------C------------C------------ 
-OL,7,S  0  h   0  S  0  h   0  S  0  h   0   
-OL,8,S   d p0`$   S   d p0`$   S   d p0`$    
-OL,9,S   `u    S   `u    S   `u     
-OL,10,S  !*? !  S  !*? !  S  !*? !   
-OL,11,S   8#/')0   S   8#/')0   S   8#/')0    
-OL,12,S  $  (   $  S  $  (   $  S  $  (   $   
-OL,13,G            G            G             
-OL,14,GSoleggiato  GSoleggiato  GSoleggiato   
-OL,15,G            G            G             
-OL,16,C------------C------------C------------ 
-OL,17,CMax:     8[CCMax:     8[CCMax:     8[C 
-OL,21,FFonte: MeteoSvizzera                   
-OL,24,AIndice    BSport    CMeteo    FTV&Radio
-FL,101,180,500,700,0,100
-PN,50902
-SC,0002
-PS,C300
-CT,8,T
-OL,0,       G509  RSI LA 1  26.11.26 11:56:21
-OL,1,D]GTENDENZA                     A]GRSI  
-OL,2,G                                   2/2 
-OL,3,CM           Nord delle Alpi            
-OL,4,G                                       
-OL,5,CLuned~      CMarted~     CMercoled~    
+OL,5,CMarted~     CMercoled~   CGioved~      
 OL,6,C------------C------------C------------ 
 OL,7,S   (        S  0  h   0  S  0  h   0   
 OL,8,S )0r08!     S   d p0`$   S   d p0`$    
@@ -45,7 +20,32 @@ OL,13,G            G            G
 OL,14,GAbbastanza  GSoleggiato  GSoleggiato   
 OL,15,Gsoleggiato  G            G             
 OL,16,C------------C------------C------------ 
-OL,17,CMax:     3[CCMax:     3[CCMax:     4[C 
+OL,17,CMax:     8[CCMax:     8[CCMax:     8[C 
+OL,21,FFonte: MeteoSvizzera                   
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,50902
+SC,0002
+PS,C300
+CT,8,T
+OL,0,       G509  RSI LA 1  27.11.26 02:59:50
+OL,1,D]GTENDENZA                     A]GRSI  
+OL,2,G                                   2/2 
+OL,3,CM           Nord delle Alpi            
+OL,4,G                                       
+OL,5,CMarted~     CMercoled~   CGioved~      
+OL,6,C------------C------------C------------ 
+OL,7,S       (    S   (        S       (     
+OL,8,V   `p0Sr08! S )0r08!     V   `p0Sr08!  
+OL,9,V  ~S400S00~400    V  ~S400 
+OL,10,V ~v|||||4S ^;?Vx|t,t0 V ~v|||||4 
+OL,11,V +o/# S & V~v|;4V +o/#  
+OL,12,V   "###!    S   V+o/# V   "###!     
+OL,13,G            G            G             
+OL,14,GParzialmenteGAbbastanza  GParzialmente 
+OL,15,Gsoleggiato  Gsoleggiato  Gsoleggiato   
+OL,16,C------------C------------C------------ 
+OL,17,CMax:     3[CCMax:     4[CCMax:     3[C 
 OL,21,FFonte: MeteoSvizzera                   
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
