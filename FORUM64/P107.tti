@@ -3,60 +3,62 @@ PN,10701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GFr 27 Nov F10:22:43
+OL,0,         GFORUM64   GFr 27 Nov F20:22:10
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,E"UCALC" - eine Tabellenkalkulation f}r 
-OL,3,Eden C64 mit CSV-Import/Export (UTF-8)  
-OL,4,Eund PDF-Ausgabe                        
-OL,6,CAntwort:  BSnoopy                      
-OL,7,CComments: B133                         
-OL,8,F                                       
-OL,9,F( )                                    
-OL,11,FEs wird ... nach Datum sortieren klappt
-OL,12,Fschon.                                 
+OL,2,EBMX (Bare Metal X) VICE 3.10 und vAmiga
+OL,3,E4.4 f}r Raspberry Pi 4/5               
+OL,5,CAntwort:  Bkdre76                      
+OL,6,CComments: B964                         
+OL,7,F                                       
+OL,8,FFalls noch jemand einen Raspberry Pi   
+OL,9,F500 sucht: Bei A....n gibt es gerade   
+OL,10,Fwelche f}r 159.53 Euro. Immernoch      
+OL,11,Fteuer, aber ca. 30 Euro g}nstiger als  
+OL,12,Fanderswo.                              
 OL,14,CErster Beitrag:                        
-OL,16,GAufbauend auf UTEXT hatte ich damals   
-OL,17,Gauch eine Tabellenkalkulation          
-OL,18,Gentwickelt, damit ich quasi meine      
-OL,19,G"Officearbeiten" am C64 vornehmen kann.
-OL,20,GF}r kleinere Texte (UTEXT) und Tabellen
-OL,21,G(UCALC) mache ich das mittlerweile     
-OL,22,Gtats{chlich auch hin und wieder damit. 
+OL,16,G*** edit cp2, 08.11.2026 *** Die       
+OL,17,Gaktuelle URL zum Projekt lautet:       
+OL,18,Ghttps://baremetalx.de/ Hallo Leute,    
+OL,20,GIch habe vorgestern die erste Version  
+OL,21,Gvon BMX (Bare Metal X) ver|ffentlicht. 
+OL,22,GEs setzt da an, wo BMC64 aufgeh|rt hat.
+OL,23,GD.h. es zielt vorallem auf Pi4/5 ab.   
 OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,10702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GFr 27 Nov F10:22:43
+OL,0,         GFORUM64   GFr 27 Nov F20:22:10
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GZu einer Ver|ffentlichung konnte ich   
-OL,4,Gmich jedoch nie so richtig aufraffen,  
-OL,5,Gweil es ohne Anleitung eher wenig Sinn 
-OL,6,Gmacht und Anleitungen schreiben nicht  
-OL,7,Gunbedingt mein Lieblingshobby ist. Es  
-OL,8,Glag irgendwie, wie so manches andere,  
-OL,9,Gin der virtuellen Schublade.           
-OL,11,GDa UTEXT ja doch gut ankam, habe ich   
-OL,12,Gmich dieses Wochenende dann doch mal an
-OL,13,Geine Anleitung gesetzt und sie         
-OL,14,Ghoffentlich einigerma~en verst{ndlich  
-OL,15,Gformuliert. Da ist mir erst wieder so  
-OL,16,Grichtig aufgefallen, wie viel bei der  
-OL,17,GTabellenkalkulation doch beschrieben   
-OL,18,Gwerden muss. Wer UCALC benutzen will,  
-OL,19,Gsollte tats{chlich mal in die Anleitung
-OL,20,Gschauen, es ist nicht alles            
-OL,21,Gselbsterkl{rend, auch wenn ich darauf -
-OL,22,Gso gut es ging - geachtet habe.        
+OL,3,GF}r mich war die Motivation            
+OL,4,Ghaupts{chlich PI 400 und PI 500 als    
+OL,5,GZielplattform zu nutzen, da ich die    
+OL,6,Gbeiden Ger{te eh hier habe.            
+OL,8,GDer Rest aus der Readme auf Englisch:  
+OL,10,GBMX is a bare-metal Commodore emulator 
+OL,11,Gfor the Raspberry PI 4/5 family derived
+OL,12,Gfrom BMC64. The current focus of this  
+OL,13,Gproject is to provide a smooth user    
+OL,14,Gexperience on the Raspberry Pi 400 and 
+OL,15,G500. It should kinda feel like a modern
+OL,16,Gbreadbin. Support for Raspberry Pi <= 3
+OL,17,Gis removed and left to the original    
+OL,18,GBMC64 project.                         
+OL,20,GThese are the main features of BMX:    
+OL,22,G* Based on VICE 3.10 (C64, C128, VIC20,
+OL,23,GPlus/4 and PET machines are supported) 
 OL,24,D]FForum64.de RSS feed            (2/3) 
 FL,0,0,0,0,0,100
 PN,10703
 SC,0003
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GFr 27 Nov F10:22:43
+OL,0,         GFORUM64   GFr 27 Nov F20:22:10
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,GBitte                                  
+OL,3,G* Circle v20, Step 51 to support the   
+OL,4,GRaspberry Pi4/5 family * Pi5/Pi500 HDMI
+OL,5,Gmodesetting with RGB565 framebuffer and
+OL,6,Ghardware scaling, providing            
 OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

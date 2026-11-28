@@ -3,26 +3,26 @@ PN,70200
 SC,0000
 PS,8208
 CT,15,T
-OL,0,       G702  SRF info  27.11.26 14:25:17
+OL,0,       G702  SRF info  28.11.26 00:25:27
 OL,1,A]GSRF info G]@Freitag, 27. November    
 OL,2,G                                       
-OL,3,G14:00 GSRF DOK (W).................C723
-OL,4,       GAkris - Mode mit TraditionCUT   
-OL,5,F14:50 FTagesschau kompakt (W)......C   
-OL,6,       FMittagsausgabeCDDCUT            
-OL,7,G14:55 GMeteo (W)...................C   
-OL,8,       GMittagsausgabeCDDCUT            
-OL,9,F15:00 FReporter (W)................C724
-OL,10,       FZur}ck hinter Gittern - Normales
-OL,11,       FLeben unm|glich? (Teil 2)CHFCUT 
-OL,12,G15:30 GTagesschau kompakt (W)......C   
-OL,13,       GMittagsausgabeCDDCUT            
-OL,14,F15:35 FMeteo (W)...................C   
-OL,15,       FMittagsausgabeCDDCUT            
-OL,16,G15:40 GRundschau (W)...............C725
-OL,17,       GAtomkraft: Ja gerne oder nein   
-OL,18,       Gdanke?CUT                       
-OL,19,F16:35 FTagesschau kompakt (W)......C   
-OL,20,       FMittagsausgabeCDDCUT            
+OL,3,G00:10 G10 vor 10 (W)CDDCUT.........C767
+OL,4,F00:35 FMeteo (W)...................C   
+OL,5,       FSp{tausgabeCDDCUT               
+OL,6,G00:36 GSportflash (W)..............C725
+OL,7,       GDie Sportnews des TagesCDD      
+OL,8,F00:45 FNewsflash SRF 1 (W)CDDCUT...C   
+OL,9,G00:55 G10 vor 10 (W)CDDCUT.........C726
+OL,10,F01:20 FMeteo (W)...................C   
+OL,11,       FSp{tausgabeCDDCUT               
+OL,12,G01:25 GSportflash (W)..............C727
+OL,13,       GDie Sportnews des TagesCDD      
+OL,14,F01:30 FNewsflash SRF 1 (W)CDDCUT...C   
+OL,15,G01:35 G10 vor 10 (W)CDDCUT.........C728
+OL,16,F02:05 FMeteo (W)...................C   
+OL,17,       FSp{tausgabeCDDCUT               
+OL,18,G02:06 GSportflash (W)..............C729
+OL,19,       GDie Sportnews des TagesCDD      
+OL,20,F02:15 FNewsflash SRF 1 (W)CDDCUT...C   
 OL,24,AKurz]bersicht  BSport  CMeteo FTV&Radio
 FL,101,180,500,700,0,100

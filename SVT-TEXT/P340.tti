@@ -3,26 +3,26 @@ PN,34001
 SC,0001
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 340  Fre 27 novC00:07:14
+OL,0,      GSVT Text 340  L|r 28 novC00:07:15
 OL,1,D]GFOTBOLL Franska ligan                
-OL,3,C20/11FTroyes      - Le Havre      3-1  
-OL,4,C21/11FNice        - Paris SG      2-3  
-OL,5,      FLens        - Toulouse      1-1  
-OL,6,      FLille       - Lyon          0-1  
-OL,7,      FMonaco      - Auxerre       1-1  
-OL,8,      FStrasbourg  - Brest         0-1  
-OL,9,C22/11FParis FC    - Angers        4-0  
-OL,10,      FLorient     - Rennes        1-1  
-OL,11,      FMarseille   - Le Mans       2-3  
-OL,12,C27/11GBrest       - Paris FC           
-OL,13,C28/11GAngers      - Lens               
-OL,14,      GLe Havre    - Strasbourg         
-OL,15,      GLe Mans     - Lille              
-OL,16,      GNice        - Troyes             
-OL,17,      GParis SG    - Lorient            
-OL,18,C29/11GAuxerre     - Marseille          
-OL,19,      GToulouse    - Rennes             
-OL,20,      GLyon        - Monaco             
+OL,3,C21/11FNice        - Paris SG      2-3  
+OL,4,      FLens        - Toulouse      1-1  
+OL,5,      FLille       - Lyon          0-1  
+OL,6,      FMonaco      - Auxerre       1-1  
+OL,7,      FStrasbourg  - Brest         0-1  
+OL,8,C22/11FParis FC    - Angers        4-0  
+OL,9,      FLorient     - Rennes        1-1  
+OL,10,      FMarseille   - Le Mans       2-3  
+OL,11,C27/11FBrest       - Paris FC      1-0  
+OL,12,C28/11GAngers      - Lens               
+OL,13,      GLe Havre    - Strasbourg         
+OL,14,      GLe Mans     - Lille              
+OL,15,      GNice        - Troyes             
+OL,16,      GParis SG    - Lorient            
+OL,17,C29/11GAuxerre     - Marseille          
+OL,18,      GToulouse    - Rennes             
+OL,19,      GLyon        - Monaco             
+OL,20,C4/12 GToulouse    - Paris SG           
 OL,23,D]G          Tabell f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/6)
 FL,100,300,400,700,0,100
@@ -30,14 +30,14 @@ PN,34002
 SC,0002
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 340  Fre 27 novC00:07:14
+OL,0,      GSVT Text 340  L|r 28 novC00:07:15
 OL,1,D]GFOTBOLL Franska ligan                
 OL,3, B1 Paris SG      11  8  2  1  25-12  26
-OL,4, G2 Paris FC      11  7  2  2  21-10  23
-OL,5, G3 Lille         11  6  3  2  14-8   21
-OL,6, G4 Lyon          11  6  2  3  16-9   20
-OL,7, G5 Marseille     11  6  0  5  24-17  18
-OL,8, G6 Brest         11  5  3  3  19-12  18
+OL,4, G2 Paris FC      12  7  2  3  21-11  23
+OL,5, G3 Brest         12  6  3  3  20-12  21
+OL,6, G4 Lille         11  6  3  2  14-8   21
+OL,7, G5 Lyon          11  6  2  3  16-9   20
+OL,8, G6 Marseille     11  6  0  5  24-17  18
 OL,9, G7 Nice          11  5  2  4  17-15  17
 OL,10, G8 Monaco        11  4  5  2  14-12  17
 OL,11, G9 Rennes        11  5  2  4  22-22  17
@@ -57,26 +57,26 @@ PN,34003
 SC,0003
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 340  Fre 27 novC00:07:14
+OL,0,      GSVT Text 340  L|r 28 novC00:07:15
 OL,1,D]GFOTBOLL Tyska ligan                  
-OL,3,C20/11FB M nchen   - K|ln          1-1  
-OL,4,C21/11FLeverkusen  - Paderborn     4-0  
-OL,5,      FM|nchenglad - Dortmund      0-1  
-OL,6,      FFrankfurt   - Hoffenheim    1-0  
-OL,7,      FElversberg  - Freiburg      0-1  
-OL,8,      FU Berlin    - RB Leipzig    1-5  
-OL,9,      FSchalke 04  - Stuttgart     0-0  
-OL,10,C22/11FAugsburg    - Mainz         3-1  
-OL,11,      FW Bremen    - Hamburg       4-0  
-OL,12,C27/11GW Bremen    - M|nchenglad        
-OL,13,C28/11GK|ln        - Elversberg         
-OL,14,      GHamburg     - B M nchen          
-OL,15,      GMainz       - U Berlin           
-OL,16,      GPaderborn   - Schalke 04         
-OL,17,      GStuttgart   - Frankfurt          
-OL,18,C29/11GFreiburg    - RB Leipzig         
-OL,19,      GHoffenheim  - Augsburg           
-OL,20,      GDortmund    - Leverkusen         
+OL,3,C21/11FLeverkusen  - Paderborn     4-0  
+OL,4,      FM|nchenglad - Dortmund      0-1  
+OL,5,      FFrankfurt   - Hoffenheim    1-0  
+OL,6,      FElversberg  - Freiburg      0-1  
+OL,7,      FU Berlin    - RB Leipzig    1-5  
+OL,8,      FSchalke 04  - Stuttgart     0-0  
+OL,9,C22/11FAugsburg    - Mainz         3-1  
+OL,10,      FW Bremen    - Hamburg       4-0  
+OL,11,C27/11FW Bremen    - M|nchenglad   3-3  
+OL,12,C28/11GK|ln        - Elversberg         
+OL,13,      GHamburg     - B M nchen          
+OL,14,      GMainz       - U Berlin           
+OL,15,      GPaderborn   - Schalke 04         
+OL,16,      GStuttgart   - Frankfurt          
+OL,17,C29/11GFreiburg    - RB Leipzig         
+OL,18,      GHoffenheim  - Augsburg           
+OL,19,      GDortmund    - Leverkusen         
+OL,20,C4/12 GB M nchen   - Paderborn          
 OL,23,D]G          Tabell f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (3/6)
 FL,100,300,400,700,0,100
@@ -84,14 +84,14 @@ PN,34004
 SC,0004
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 340  Fre 27 novC00:07:14
+OL,0,      GSVT Text 340  L|r 28 novC00:07:15
 OL,1,D]GFOTBOLL Tyska ligan                  
 OL,3, B1 Dortmund      10  7  3  0  17-7   24
 OL,4, G2 B M nchen     10  6  4  0  30-10  22
 OL,5, G3 Freiburg      10  7  1  2  21-10  22
 OL,6, G4 RB Leipzig    10  7  0  3  32-14  21
 OL,7, G5 Leverkusen    10  6  1  3  24-17  19
-OL,8, G6 W Bremen      10  5  3  2  21-15  18
+OL,8, G6 W Bremen      11  5  4  2  24-18  19
 OL,9, G7 Frankfurt     10  4  3  3  16-20  15
 OL,10, G8 Stuttgart     10  4  1  5  15-15  13
 OL,11, G9 Elversberg    10  4  1  5  17-19  13
@@ -103,7 +103,7 @@ OL,16,G14 K|ln          10  2  4  4  11-15  10
 OL,17,G15 Paderborn     10  2  4  4   8-15  10
 OL,18,C16 Schalke 04    10  1  4  5   5-11   7
 OL,19,F17 U Berlin      10  1  4  5   8-26   7
-OL,20,F18 M|nchengladba 10  1  1  8  12-26   4
+OL,20,F18 M|nchengladba 11  1  2  8  15-29   5
 OL,23,D]G    Nederl{ndska ligan f|ljer >>>    
 OL,24,ANyheter BSport CV{der FInneh}llG  (4/6)
 FL,100,300,400,700,0,100
@@ -111,26 +111,26 @@ PN,34005
 SC,0005
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 340  Fre 27 novC00:07:14
+OL,0,      GSVT Text 340  L|r 28 novC00:07:15
 OL,1,D]GFOTBOLL Nederl{ndska ligan           
-OL,3,C21/11FNEC         - PSV Eindhov   1-4  
+OL,3,C21/11FUtrecht     - Cambuur       2-3  
 OL,4,      FFeyenoord   - Excelsior     2-3  
-OL,5,      FUtrecht     - Cambuur       2-3  
+OL,5,      FGroningen   - Heerenveen    1-3  
 OL,6,      FTelstar     - Zwolle        1-3  
-OL,7,      FGroningen   - Heerenveen    1-3  
-OL,8,C22/11FTwente      - Willem        2-1  
-OL,9,      FAjax        - ADO Den Haa   3-0  
-OL,10,      FSparta Rott - AZ            1-5  
-OL,11,      FGA Eagles   - For Sittard   0-1  
-OL,12,C27/11GGroningen   - Willem             
-OL,13,C28/11GExcelsior   - Telstar            
-OL,14,      GPSV Eindhov - GA Eagles          
-OL,15,      GCambuur     - Sparta Rott        
-OL,16,C29/11GADO Den Haa - Utrecht            
-OL,17,      GFor Sittard - Heerenveen         
-OL,18,      GFeyenoord   - Ajax               
-OL,19,      GZwolle      - AZ                 
-OL,20,      GNEC         - Twente             
+OL,7,C22/11FTwente      - Willem        2-1  
+OL,8,      FAjax        - ADO Den Haa   3-0  
+OL,9,      FSparta Rott - AZ            1-5  
+OL,10,      FGA Eagles   - For Sittard   0-1  
+OL,11,C27/11FGroningen   - Willem        1-1  
+OL,12,C28/11GExcelsior   - Telstar            
+OL,13,      GPSV Eindhov - GA Eagles          
+OL,14,      GCambuur     - Sparta Rott        
+OL,15,C29/11GADO Den Haa - Utrecht            
+OL,16,      GFor Sittard - Heerenveen         
+OL,17,      GFeyenoord   - Ajax               
+OL,18,      GZwolle      - AZ                 
+OL,19,      GNEC         - Twente             
+OL,20,C4/12 GTelstar     - Groningen          
 OL,23,D]G          Tabell f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (5/6)
 FL,100,300,400,700,0,100
@@ -138,7 +138,7 @@ PN,34006
 SC,0006
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 340  Fre 27 novC00:07:14
+OL,0,      GSVT Text 340  L|r 28 novC00:07:15
 OL,1,D]GFOTBOLL Nederl{ndska ligan           
 OL,3, B1 PSV Eindhoven 13  9  2  2  44-16  29
 OL,4, G2 Ajax          13  8  4  1  35-15  28
@@ -149,7 +149,7 @@ OL,8, G6 Heerenveen    13  7  3  3  27-17  24
 OL,9, G7 For Sittard   13  6  5  2  21-20  23
 OL,10, G8 Cambuur       13  5  3  5  28-29  18
 OL,11, G9 GA Eagles     13  4  5  4  24-28  17
-OL,12,G10 Groningen     13  4  3  6  30-31  15
+OL,12,G10 Groningen     14  4  4  6  31-32  16
 OL,13,G11 Zwolle        13  4  3  6  16-25  15
 OL,14,G12 NEC           13  3  5  5  21-25  14
 OL,15,G13 Excelsior     13  4  2  7  19-31  14
@@ -157,7 +157,7 @@ OL,16,G14 Sparta Rotter 13  3  3  7  22-34  12
 OL,17,G15 Utrecht       13  3  3  7  23-37  12
 OL,18,C16 Telstar       13  2  4  7  19-28  10
 OL,19,F17 ADO Den Haag  13  2  3  8  16-28   9
-OL,20,F18 Willem        13  0  3 10  12-42   3
+OL,20,F18 Willem        14  0  4 10  13-43   4
 OL,23,D]G            Kval f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (6/6)
 FL,100,300,400,700,0,100

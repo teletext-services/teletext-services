@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  169Cpi@ 27 lis  16:14:02
+OL,0,      BKULTURA  169Csob 28 lis  02:14:24
 OL,1,D]GPROGNOZA POGODY        ]D27/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FBIA]YSTOK                       ZV,,,, 
 OL,4, pi@.   B-2  C0 Gdu{e  F10E G1007       
 OL,5, sob.   B-2  C0 Gdu{e  F10E G1019       
-OL,6, nie.   B-3 C-1 Gma}e  F10SEG1021       
-OL,7, pon.                                   
+OL,6, nie.   B-3 C-1 Gumiar F10SEG1020       
+OL,7, pon.   B-5 C-1 Gumiar F14SEG1018       
 OL,8, wt.                                    
 OL,9,FAUGUSTOW                        ZV,,,, 
 OL,10, pi@.   B-2  C0 Gdu{e  F10NEG1013       
-OL,11, sob.   B-1  C0 Gdu{e  F10E G1025       
-OL,12, nie.   B-3  C0 Gumiar F10SEG1026       
-OL,13, pon.                                   
+OL,11, sob.   B-1  C0 Gdu{e   F7E G1025       
+OL,12, nie.   B-3 C-1 Gumiar F10SEG1025       
+OL,13, pon.   B-4 C-1 Gumiar F10S G1023       
 OL,14, wt.                                    
 FL,168,170,200,200,0,100
 PN,16902
@@ -25,13 +25,13 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BKULTURA  169Cpi@ 27 lis  16:14:03
+OL,0,      BKULTURA  169Csob 28 lis  02:14:24
 OL,1,D]GPROGNOZA POGODY        ]D27/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FSUWA]KI                         ZV,,,, 
 OL,4, pi@.   B-2  C0 Gdu{e  F10NEG1008       
-OL,5, sob.   B-2  C0 Gumiar F10E G1019       
-OL,6, nie.   B-3 C-1 Gumiar F10S G1020       
-OL,7, pon.                                   
+OL,5, sob.   B-2  C0 Gdu{e  F10E G1020       
+OL,6, nie.   B-3 C-2 Gumiar F10SEG1020       
+OL,7, pon.   B-5 C-1 Gumiar F14S G1017       
 OL,8, wt.                                    
 FL,168,170,200,200,0,100

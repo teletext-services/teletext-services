@@ -3,24 +3,23 @@ PN,70200
 SC,0000
 PS,8088
 CT,15,T
-OL,0,       G702  RTS 1     27.11.26 13:29:41
+OL,0,       G702  RTS 1     27.11.26 23:29:48
 OL,1,D]GRTS 1     ]@vendredi 27 novembre     
 OL,4,G00:40 GCouleurs locales                
 OL,5,E 0000 CS-TC(R)                         
-OL,6,F06:00 FPompon Ours                     
-OL,7,E 0559 FLa terreur des mersCS-TB       
-OL,8,G06:00 GJeunesse                        
-OL,10,F06:05 FPompon Ours                     
-OL,11,       FLe chant de la grenouille       
-OL,12,       CS-TB                           
-OL,13,G06:10 GPompon Ours                     
-OL,14,       GLe parfum des souvenirsCS-T     
-OL,15,       B                               
-OL,16,F06:20 FLes Schtroumpfs                 
-OL,17,       FDans la peau d'une              
-OL,18,       FSchtroumpfCS-TB                
-OL,19,G06:30 GLes Schtroumpfs                 
-OL,20,       GLe Schtroumpf invisibleCS-T     
-OL,21,       B                               
+OL,6,F05:55 FJeunesse                        
+OL,7,E 0600                                  
+OL,8,G06:05 GPompon Ours                     
+OL,9,       GLe chant de la grenouille       
+OL,10,       CS-TB                           
+OL,11,F06:10 FPompon Ours                     
+OL,12,       FLe parfum des souvenirsCS-T     
+OL,13,       B                               
+OL,14,G06:20 GLes Schtroumpfs                 
+OL,15,       GDans la peau d'une              
+OL,16,       GSchtroumpfCS-TB                
+OL,17,F06:30 FLes Schtroumpfs                 
+OL,18,       FLe Schtroumpf invisibleCS-T     
+OL,19,       B                               
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

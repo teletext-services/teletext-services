@@ -1,9 +1,9 @@
 DE,NDR 334
-PN,33400
-SC,0000
-PS,8208
+PN,33401
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G334FNDR TEXT GFr 27.11.B11:32:36
+OL,0,       G334FNDR TEXT GFr 27.11.B21:33:29
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD    FERNSEHTIPPS DER WOCHE   
@@ -19,6 +19,41 @@ OL,17,FSonntag 29.11.2026
 OL,19, 20:15 Die sch|nsten                    
 OL,20,       Weihnachtsm{rkte:                
 OL,21,       Lichterglanz und Budenzauber     
-OL,23,F]D300<       TV-PROGRAMM HEUTE >301-305
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,23,F]D300<    TV-PROGRAMM HEUTE >301-305 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(1/3)
+FL,101,200,300,650,0,100
+PN,33402
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G334FNDR TEXT GFr 27.11.B21:33:29
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    FERNSEHTIPPS DER WOCHE   
+OL,4,F]T  %                                  
+OL,6,FMontag 30.11.2026                      
+OL,8, 23:15 Der Krieger und die Kaiserin     
+OL,10,FDienstag 01.12.2026                    
+OL,12, 22:05 Tatort: Taxi nach Leipzig        
+OL,14,FMittwoch 02.12.2026                    
+OL,16, 20:15 Expeditionen ins Tierreich: Die  
+OL,17,       Kanarischen Inseln - Nebelwald   
+OL,18,       und W}sten                       
+OL,23,F]D300<    TV-PROGRAMM HEUTE >301-305 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(2/3)
+FL,101,200,300,650,0,100
+PN,33403
+SC,0003
+PS,C200
+CT,15,T
+OL,0,       G334FNDR TEXT GFr 27.11.B21:33:30
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    FERNSEHTIPPS DER WOCHE   
+OL,4,F]T  %                                  
+OL,6,FDonnerstag 03.12.2026                  
+OL,8, 20:15 mareTV: Malta - Gro~es Kino im   
+OL,9,       Mittelmeer                       
+OL,23,F]D300<    TV-PROGRAMM HEUTE >301-305 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(3/3)
 FL,101,200,300,650,0,100

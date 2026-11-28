@@ -3,26 +3,27 @@ PN,70600
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G706  RSI LA 1  27.11.26 03:01:08
-OL,1,A]GRSI   ]@LA1      VENERDI 27 novembre 
+OL,0,       G706  RSI LA 1  27.11.26 23:01:13
+OL,1,A]GRSI   ]@LA1       SABATO 28 novembre 
 OL,2,G                                       
-OL,3, G04:45  GIl QuotidianoCR               
-OL,4, F05:15  FTG Notte                      
-OL,5, G05:40  GMeteoCST                      
-OL,6, F05:40  FIl QuotidianoCST              
-OL,7, G06:15  GMeteoCST                      
-OL,8, F06:15  FSiamo fuoriCST                
-OL,9, G07:10  GMezz'ora per voiCST           
-OL,10, F07:40  FMezz'ora per voiCST           
-OL,11, G08:05  GEverywhere I go -         CST 
-OL,12,         GCoincidenze d'amore           
-OL,13,         GEpisodio 44                   
-OL,14, F08:50  FLa signora in gialloCSTCI/II  
-OL,15,         FIn arte Jessica Fox           
-OL,16, G09:35  GLa natura selvaggia degli CST 
-OL,17,         Ganimali domestici             
-OL,18,         GPiccoli segreti               
-OL,19, F10:30  FPrivate EyesCSTCI/II          
-OL,20,         FL'ultimo miglio               
+OL,3, G05:00  GTG Notte                      
+OL,4, F05:20  FMeteoCST                      
+OL,5, G05:25  GPrima OraCST                  
+OL,6, F06:15  FIl QuotidianoCST              
+OL,7, G07:00  GSiamo fuoriCST                
+OL,8, F08:00  FColazione con PeoCST          
+OL,9, G08:25  GPiotta la marmottaCST         
+OL,10,         GFesta a sorpresa              
+OL,11, F08:30  FMinieroi della foresta -  CST 
+OL,12,         Fstagione 2                    
+OL,13,         FConsegne a domicilio          
+OL,14, G08:35  GI perch@ di ElinorCST         
+OL,15,         GLa casa costruita dalle       
+OL,16,         Gformiche                      
+OL,17, F08:50  FPocoyoCST                     
+OL,18,         FIl coniglietto birichino -    
+OL,19,         Fprima parte                   
+OL,20, G09:00  GMojo CambiotopCST             
+OL,21,         GUfo                           
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

@@ -1,28 +1,40 @@
 DE,RTS1 784
-PN,78400
-SC,0000
-PS,8088
-CT,15,T
-OL,0,       G784  RTS 1     27.11.26 13:32:02
+PN,78401
+SC,0001
+PS,C080
+CT,8,T
+OL,0,       G784  RTS 1     27.11.26 23:31:37
 OL,1,A]GRTS ESPACE 2    G]@demain            
-OL,3,G                                       
+OL,3,G                                   1/2 
 OL,4,C00:03GLes Nuits d'Espace 2             
 OL,5,C06:03GEn douceur                       
 OL,6,C07:06GDu bon pied                      
 OL,7,C10:03GL'Echo des pavanes               
-OL,8,C11:30GLa Voix du standard              
-OL,9,      FNorma Winstone : une voix claire 
-OL,10,      Fet inclassable 2/3 + John Taylor 
-OL,11,      FTrio Live.                       
-OL,12,C13:00GLe 12h30                         
-OL,13,C13:30GTourn#e romande                  
-OL,14,C15:30GQWERTZ                           
-OL,15,C16:03GL'Oreille d'abord                
-OL,16,      FLe piano de Clara                
-OL,17,C17:30GBazar                            
-OL,18,C19:30GConcert du soir                  
-OL,19,      FA l op#ra.                       
-OL,20,C23:03GZone bleue                       
+OL,8,      FCe qu'inspirent les anthologies  
+OL,9,      Fmusicales                        
+OL,10,C11:30GLa Voix du standard              
+OL,11,      FNorma Winstone : une voix claire 
+OL,12,      Fet inclassable 2/3 + John Taylor 
+OL,13,      FTrio Live.                       
+OL,14,C13:00GLe 12h30                         
+OL,15,C13:30GTourn#e romande                  
+OL,16,C15:30GQWERTZ                           
+OL,17,C16:03GL'Oreille d'abord                
+OL,18,      FLe piano de Clara                
+OL,19,C17:30GBazar                            
+OL,20,C19:30GConcert du soir                  
+OL,21,      FA l op#ra.                       
+OL,23,G]AFr#quences RTS    > 780 sur RTS 2    
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,78402
+SC,0002
+PS,C080
+CT,8,T
+OL,0,       G784  RTS 1     27.11.26 23:31:37
+OL,1,A]GRTS ESPACE 2    G]@demain            
+OL,3,G                                   2/2 
+OL,4,C23:03GZone bleue                       
 OL,23,G]AFr#quences RTS    > 780 sur RTS 2    
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

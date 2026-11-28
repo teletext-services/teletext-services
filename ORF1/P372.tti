@@ -3,11 +3,11 @@ PN,37201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G372FORF1   GFr 27.11.26 12:14:22
+OL,0,       G372FORF1   GFr 27.11.26 22:14:32
 OL,1,A]G                         ORF2 Europe 
 OL,2,A]GFERNSEHEN  ]A       Samstag, 28.11. \
 OL,3,Q#############                  G  1/6  
-OL,4,F06.18 FFText Aktuell                   
+OL,4,F06.20 FFText Aktuell                   
 OL,5,G07.15 GGWetter-Panorama                
 OL,6,F09.00 FFZIBEUT                         
 OL,7,G09.06 GGDer Sagenj{ger - Max M}ller auf
@@ -22,7 +22,7 @@ OL,15,F13.00 FFZIBEUT
 OL,16,G13.14 GGWetterEUT                      
 OL,17,F13.18 FFAdventzeit - Traditionen und   
 OL,18,       FFBr{uche in \sterreichEUT       
-OL,19,G13.43 GGSeitenblicke WeekendEUT        
+OL,19,G13.44 GGSeitenblicke WeekendEUT        
 OL,20,F14.02 FFkeine ORF2E-Rechte             
 OL,21,G16.17 GGLand und LeuteEUT              
 OL,22,F16.44 FFPrismaEUT                      
@@ -33,7 +33,7 @@ PN,37202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G372FORF1   GFr 27.11.26 12:14:23
+OL,0,       G372FORF1   GFr 27.11.26 22:14:32
 OL,1,A]G                         ORF2 Europe 
 OL,2,A]GFERNSEHEN  ]ASa, 28.11.& So, 29.11. \
 OL,3,Q#############                  G  2/6  
@@ -48,7 +48,7 @@ OL,11,F19.30 FFZeit im BildE\GSEUT
 OL,12,G19.50 GGWetterE\GSEUT                  
 OL,13,F19.55 FFSport AktuellE\GSEUT           
 OL,14,G20.03 GGSeitenblickeEUT                
-OL,15,F20.14 FFkeine ORF2E-Rechte             
+OL,15,F20.15 FFkeine ORF2E-Rechte             
 OL,16,G23.42 GGZIB                            
 OL,17,F23.53 FFkeine ORF2E-Rechte             
 OL,18,G02.55 GGSeitenblickeEUT                
@@ -59,7 +59,7 @@ PN,37203
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G372FORF1   GFr 27.11.26 12:14:23
+OL,0,       G372FORF1   GFr 27.11.26 22:14:32
 OL,1,A]G                         ORF2 Europe 
 OL,2,A]GFERNSEHEN  ]A       Sonntag, 29.11. \
 OL,3,Q#############                  G  3/6  
@@ -74,14 +74,14 @@ OL,11,       FF"Auf, werde Licht"EUT
 OL,12,G10.15 GGUniversum: Arlberg - Wild und  
 OL,13,       GGWeltber}hmtEHFEDDEUT           
 OL,14,F11.00 FFZIBEUT                         
-OL,15,G11.05 GGPressestundeEUT                
-OL,16,F12.00 FFHohes Haus Spezial: 40 Jahre   
-OL,17,       FFGr}ne im ParlamentEUT          
-OL,18,G12.30 GGkreuz & quer nah dran: Da sein 
-OL,19,       GG- im Lachen und WeinenEUT      
-OL,20,F13.00 FFZIBEUT                         
-OL,21,G13.17 GGWetterEUT                      
-OL,22,F13.20 FFSeitenblicke WeekendEUT        
+OL,15,G11.05 GGPressestunde: mit Hans Peter   
+OL,16,       GGDoskozil, Landeshauptmann      
+OL,17,       GGBurgenland, SP\EUT             
+OL,18,F12.00 FFHohes Haus Spezial: 40 Jahre   
+OL,19,       FFGr}ne im ParlamentEUT          
+OL,20,G12.30 GGkreuz & quer nah dran: Da sein 
+OL,21,       GG- im Lachen und WeinenEUT      
+OL,22,F13.00 FFZIBEUT                         
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -89,26 +89,28 @@ PN,37204
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G372FORF1   GFr 27.11.26 12:14:23
+OL,0,       G372FORF1   GFr 27.11.26 22:14:32
 OL,1,A]G                         ORF2 Europe 
 OL,2,A]GFERNSEHEN  ]A       Sonntag, 29.11. \
 OL,3,Q#############                  G  4/6  
-OL,4,F13.35 FFDaheim - das                   
-OL,5,       FFVolksgruppenmagazinEUT         
-OL,6,G14.05 GGAndi & AlexEUT                 
-OL,7,F14.30 FFkeine ORF2E-Rechte             
-OL,8,G16.00 GGHereinspaziert! Zu Besuch bei  
-OL,9,       GGMaya Hakvoort und Rudolf       
-OL,10,       GGBuchbinderEUT                  
-OL,11,F16.30 FFErlebnis \sterreich: Im Klang  
-OL,12,       FFvereint - Ch|re in SalzburgEUT 
-OL,13,G16.55 GGWas ich glaubeEUT              
-OL,14,F17.00 FFZIBEUT                         
-OL,15,G17.05 GGAktuell nach f}nfEUT           
-OL,16,F17.30 FFReisezeit - \sterreich: WienEUT
-OL,17,G17.55 GGDer Sagenj{ger - Max M}ller auf
-OL,18,       GGSpurensuche: Die Wassergeister 
-OL,19,       GGvon der TraisenEUT             
+OL,4,F13.17 FFWetterEUT                      
+OL,5,G13.20 GGSeitenblicke WeekendEUT        
+OL,6,F13.35 FFDaheim - das                   
+OL,7,       FFVolksgruppenmagazinEUT         
+OL,8,G14.05 GGAndi & AlexEUT                 
+OL,9,F14.30 FFkeine ORF2E-Rechte             
+OL,10,G16.00 GGHereinspaziert! Zu Besuch bei  
+OL,11,       GGMaya Hakvoort und Rudolf       
+OL,12,       GGBuchbinderEUT                  
+OL,13,F16.30 FFErlebnis \sterreich: Im Klang  
+OL,14,       FFvereint - Ch|re in SalzburgEUT 
+OL,15,G16.55 GGWas ich glaubeEUT              
+OL,16,F17.00 FFZIBEUT                         
+OL,17,G17.05 GGAktuell nach f}nfEUT           
+OL,18,F17.30 FFReisezeit - \sterreich: WienEUT
+OL,19,G17.55 GGDer Sagenj{ger - Max M}ller auf
+OL,20,       GGSpurensuche: Die Wassergeister 
+OL,21,       GGvon der TraisenEUT             
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -116,9 +118,9 @@ PN,37205
 SC,0005
 PS,C200
 CT,15,T
-OL,0,       G372FORF1   GFr 27.11.26 12:14:23
+OL,0,       G372FORF1   GFr 27.11.26 22:14:32
 OL,1,A]G                         ORF2 Europe 
-OL,2,A]GFERNSEHEN  ]ASo, 29.11.& Mo, 30.11. \
+OL,2,A]GFERNSEHEN  ]A       Sonntag, 29.11. \
 OL,3,Q#############                  G  5/6  
 OL,4,F18.25 FF'Zum Internationalen Tag gegen 
 OL,5,       FFGewalt an Frauen' \sterreich-  
@@ -135,10 +137,10 @@ OL,15,F20.05 FFSeitenblickeEUT
 OL,16,G20.15 GGkeine ORF2E-Rechte             
 OL,17,F21.50 FFZIB 2EUT                       
 OL,18,G22.10 GGDAS GESPR[CH mit Susanne       
-OL,19,       GGSchnablEUT                     
-OL,20,F23.05 FFkeine ORF2E-Rechte             
-OL,21,G02.05 GGTatort: GrenzfallEHFE12+EUT    
-OL,22,F03.35 FFSeitenblickeEUT                
+OL,19,       GGSchnabl: Kein Sex ohne "Ja" -  
+OL,20,       GGSch}tzt ein strengeres Gesetz  
+OL,21,       GGFrauen?EUT                     
+OL,22,F23.05 FFkeine ORF2E-Rechte             
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -146,17 +148,19 @@ PN,37206
 SC,0006
 PS,C200
 CT,15,T
-OL,0,       G372FORF1   GFr 27.11.26 12:14:23
+OL,0,       G372FORF1   GFr 27.11.26 22:14:32
 OL,1,A]G                         ORF2 Europe 
 OL,2,A]GFERNSEHEN  ]A        Montag, 30.11. \
 OL,3,Q#############                  G  6/6  
-OL,4,F03.40 FFDobar dan Hrvati               
-OL,5,G04.10 GGDober dan, Koroska             
-OL,6,F04.40 FFkreuz & quer nah dran: Da sein 
-OL,7,       FF- im Lachen und WeinenEUT      
-OL,8,G05.10 GGReisezeit - \sterreich: WienEUT
-OL,9,F05.35 FFErlebnis \sterreich: Im Klang  
-OL,10,       FFvereint - Ch|re in SalzburgEUT 
+OL,4,F02.00 FFTatort: GrenzfallEHFE12+EUT    
+OL,5,G03.30 GGSeitenblickeEUT                
+OL,6,F03.35 FFDobar dan Hrvati               
+OL,7,G04.05 GGDober dan, Koroska             
+OL,8,F04.35 FFkreuz & quer nah dran: Da sein 
+OL,9,       FF- im Lachen und WeinenEUT      
+OL,10,G05.05 GGReisezeit - \sterreich: WienEUT
+OL,11,F05.35 FFErlebnis \sterreich: Im Klang  
+OL,12,       FFvereint - Ch|re in SalzburgEUT 
 OL,23,Q,,,,,,,,,,,,,,,,GZeichenerkl{rung >873 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

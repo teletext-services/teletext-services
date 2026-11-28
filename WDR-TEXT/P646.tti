@@ -1,29 +1,47 @@
 DE,WDR-TEXT 646
-PN,64600
-SC,0000
-PS,8208
+PN,64601
+SC,0001
+PS,C200
 CT,15,T
-OL,0,     G646 WDR Text GFr 27.11.26 17:46:22
+OL,0,     G646 WDR Text GSa 28.11.26 03:46:23
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: 2. Bundesliga/M  
-OL,5,CHeidenheim : N}rnberg              -:- 
-OL,6, 0. Der 1. FC Heidenheim 1846 kommt     
-OL,7, einfach nicht vom Fleck. Nachdem der   
-OL,8, Bundesligaabsteiger vier seiner        
-OL,9, ersten f}nf Ligapartien gewonnen       
-OL,10, hatte, gelang ihm in den folgenden     
-OL,11, sieben Matches bei vier Unentschieden  
-OL,12, und drei Niederlagen kein einziger     
-OL,13, Sieg mehr. Hatten sich die             
-OL,14, Blau-Rot-Wei~en mit einem              
-OL,15, 2:2-Heimunentschieden gegen Hannover   
-OL,16, 96 in die letzte L{nderspielpause des  
-OL,17, Kalenderjahres verabschiedet, mussten  
-OL,18, sie sich am vergangenen Freitag beim   
-OL,19, Tabellen-16. SV Darmstadt nach         
-OL,20, F}hrung mit 1:3 geschlagen geben.      
-OL,21, 0. Hallo und herzlich willkommen zum   
+OL,5,CHeidenheim : N}rnberg         3:1 (1:1)
+OL,7,CTore:                                  
+OL,8, 1:0 Mainka (13.) 1:1 Costly (39.)      
+OL,9, 2:1 Zivzivadze (61.)                   
+OL,10, 3:1 Sch|ppner (65.)                    
+OL,12,CStrafen:                               
+OL,13,S|GKalogeropoulos (6.) S|GZivzivadze    
+OL,14,(44.)                                   
+OL,15,S|GMhamdi (75.)                         
+OL,17,CZuschauer: G15.000                     
+OL,19,CSR: GFelix Weller                      
 OL,23,]D600 < ]bersicht      Live-Ticker > 647
-OL,24,A]G- 645B]G+ 647  \                     
+OL,24,A]G- 645B]G+ 647  \               G(1/2)
+FL,645,647,0,0,0,100
+PN,64602
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G646 WDR Text GSa 28.11.26 03:46:23
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: 2. Bundesliga/M  
+OL,6,CHeidenheim : N}rnberg         3:1 (1:1)
+OL,8,CAustellungen:                          
+OL,10,CHeidenheim                             
+OL,11, Feller Heule Siersleben Mainka         
+OL,12, Busch (61. Mhamdi) Sch|ppner           
+OL,13, Zrili  (37. Niehues)  (74. Conteh)     
+OL,14, Costly (74. Pacarada) Zivzivadze       
+OL,15, Hennrich (74. Conteh)                  
+OL,16,CN}rnberg                               
+OL,17, Reichert Porstner Otto Kalogeropoulos  
+OL,18, Janisch Javier Fern ndez (70. Haugen)  
+OL,19, Markhiev Lubach (78. Moustfa)          
+OL,20, B ving (70. Ghrieb) Justvan Scobel     
+OL,23,]D600 < ]bersicht      Live-Ticker > 647
+OL,24,A]G- 645B]G+ 647  \               G(2/2)
 FL,645,647,0,0,0,100

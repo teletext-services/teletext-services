@@ -3,28 +3,28 @@ PN,36101
 SC,0001
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 361  Fre 27 novC00:07:39
+OL,0,      GSVT Text 361  L|r 28 novC00:07:42
 OL,1,D]GISHOCKEY SDHL                        
-OL,3,C20/11FLule}      - Djurg}rden  1-4     
-OL,4,C22/11FLink|ping  - SDE         2-3  CSD
-OL,5,      FFr|lunda   - Modo        3-1     
-OL,6,      FLule}      - HV71        4-3     
-OL,7,      FSkellefte} - Djurg}rden  3-2 CSTR
-OL,8,      FF{rjestad  - Bryn{s      1-3     
-OL,9,C24/11FLink|ping  - Lule}       0-4     
-OL,10,C26/11FModo       - Link|ping   2-1     
-OL,11,      FDjurg}rden - F{rjestad   5-1     
-OL,12,      FSDE        - Lule}       2-3     
-OL,13,C27/11GHV71       - Skellefte}          
-OL,14,      GBryn{s     - Fr|lunda            
-OL,15,C28/11GModo       - SDE                 
-OL,16,C29/11GFr|lunda   - Skellefte}          
-OL,17,      GHV71       - F{rjestad           
-OL,18,      GBryn{s     - Djurg}rden          
-OL,19,C30/11GModo       - SDE                 
-OL,20,C3/12 GDjurg}rden - SDE                 
-OL,21,C4/12 GLink|ping  - Modo                
-OL,22,      GHV71       - Bryn{s              
+OL,3,C22/11FFr|lunda   - Modo        3-1     
+OL,4,      FLule}      - HV71        4-3     
+OL,5,      FSkellefte} - Djurg}rden  3-2 CSTR
+OL,6,      FF{rjestad  - Bryn{s      1-3     
+OL,7,C24/11FLink|ping  - Lule}       0-4     
+OL,8,C26/11FModo       - Link|ping   2-1     
+OL,9,      FDjurg}rden - F{rjestad   5-1     
+OL,10,      FSDE        - Lule}       2-3     
+OL,11,C27/11FHV71       - Skellefte}  3-2 CSTR
+OL,12,      FBryn{s     - Fr|lunda    1-4     
+OL,13,C28/11GModo       - SDE                 
+OL,14,C29/11GFr|lunda   - Skellefte}          
+OL,15,      GHV71       - F{rjestad           
+OL,16,      GBryn{s     - Djurg}rden          
+OL,17,C30/11GModo       - SDE                 
+OL,18,C3/12 GDjurg}rden - SDE                 
+OL,19,C4/12 GLink|ping  - Modo                
+OL,20,      GHV71       - Bryn{s              
+OL,21,      GF{rjestad  - Skellefte}          
+OL,22,      GFr|lunda   - Lule}               
 OL,23,D]G          Tabbel f|ljer >>>          
 OL,24,ANyheter BSport CV{der FInneh}llG  (1/2)
 FL,100,300,400,700,0,100
@@ -32,17 +32,17 @@ PN,36102
 SC,0002
 PS,C100
 CT,15,T
-OL,0,      GSVT Text 361  Fre 27 novC00:07:39
+OL,0,      GSVT Text 361  L|r 28 novC00:07:42
 OL,1,D]GISHOCKEY SDHL, 36 omg.               
 OL,3,              FS  V  F V\ F\  GM-IM    P
-OL,4, B1 Bryn{s    11 11  0  0  0  42-8    33
-OL,5, B2 Lule}     12  7  3  1  1  30-31   24
-OL,6, B3 Fr|lunda  11  7  3  1  0  34-20   23
+OL,4, B1 Bryn{s    12 11  1  0  0  43-12   33
+OL,5, B2 Fr|lunda  12  8  3  1  0  38-21   26
+OL,6, B3 Lule}     12  7  3  1  1  30-31   24
 OL,7, B4 Djurg}rde 11  5  5  0  1  29-29   16
-OL,8, B5 Modo      11  5  6  0  0  25-26   15
-OL,9, B6 SDE       11  3  5  3  0  19-20   15
-OL,10, B7 HV71      11  3  5  1  2  25-25   13
-OL,11, B8 Skellefte 11  3  6  1  1  20-30   12
+OL,8, B5 HV71      12  3  5  2  2  28-27   15
+OL,9, B6 Modo      11  5  6  0  0  25-26   15
+OL,10, B7 SDE       11  3  5  3  0  19-20   15
+OL,11, B8 Skellefte 12  3  6  1  2  22-33   13
 OL,12, C9 F{rjestad 11  3  8  0  0  20-33    9
 OL,13,C10 Link|ping 12  1  7  1  3  13-35    8
 OL,23,D]G         Matcher f|ljer >>>          

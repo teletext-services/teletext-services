@@ -3,7 +3,7 @@ PN,19501
 SC,0001
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -29,7 +29,7 @@ PN,19502
 SC,0002
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -55,7 +55,7 @@ PN,19503
 SC,0003
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -81,7 +81,7 @@ PN,19504
 SC,0004
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -107,7 +107,7 @@ PN,19505
 SC,0005
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -133,7 +133,7 @@ PN,19506
 SC,0006
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -159,7 +159,7 @@ PN,19507
 SC,0007
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -185,7 +185,7 @@ PN,19508
 SC,0008
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -211,7 +211,7 @@ PN,19509
 SC,0009
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -237,7 +237,7 @@ PN,19510
 SC,0010
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -245,9 +245,9 @@ OL,5,D]GJARAT  HOVA            MIKOR TERMINAL
 OL,6, MU1888   Paris CDG       12:40     2A  
 OL,7,FA3877    Athens          12:50     2A  
 OL,8, W62203   London LTN      12:50     2B  
-OL,9,FW62437   Istanbul IST    12:55     2B  
-OL,10, LO536    Warsaw WAW      12:55     2A  
-OL,11,FW62291   Dortmund        13:00     2B  
+OL,9,FW62291   Dortmund        12:55     2B  
+OL,10, W62437   Istanbul IST    12:55     2B  
+OL,11,FLO536    Warsaw WAW      12:55     2A  
 OL,12, W62483   Brasov          13:05     2B  
 OL,13,FFR7604   Stockholm ARN   13:05     2B  
 OL,14, W62361   Bari            13:15     2B  
@@ -263,7 +263,7 @@ PN,19511
 SC,0011
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -289,7 +289,7 @@ PN,19512
 SC,0012
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -315,7 +315,7 @@ PN,19513
 SC,0013
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -341,7 +341,7 @@ PN,19514
 SC,0014
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -367,7 +367,7 @@ PN,19515
 SC,0015
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -379,7 +379,7 @@ OL,9,FLH1679   Munich          17:10     2A
 OL,10, EY4176   Munich          17:10     2A  
 OL,11,FTP7975   Munich          17:10     2A  
 OL,12, W62307   Cairo Giza SPX  17:20     2B  
-OL,13,FEZY8732  London LGW      17:20     2B  
+OL,13,FEZY8732  London LGW      17:20     2A  
 OL,14, W62377   Barcelona       17:25     2B  
 OL,15,FW62205   London LTN      17:30     2B  
 OL,16, FR1422   Barcelona       17:35     2B  
@@ -393,7 +393,7 @@ PN,19516
 SC,0016
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -419,7 +419,7 @@ PN,19517
 SC,0017
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -429,7 +429,7 @@ OL,7,FFR4229   Paris BVA       18:55     2B
 OL,8, W62343   Rome FCO        19:00     2B  
 OL,9,FFR1618   Torino          19:00     2B  
 OL,10, FR8374   Manchester      19:10     2B  
-OL,11,FAY1256   Helsinki HEL    19:15     2B  
+OL,11,FAY1256   Helsinki HEL    19:15     2A  
 OL,12, FR3165   Milan BGY       19:20     2B  
 OL,13,FKE964    Seoul ICN       19:30     2B  
 OL,14, OZ9814   Seoul ICN       19:30     2B  
@@ -445,7 +445,7 @@ PN,19518
 SC,0018
 PS,C100
 CT,15,T
-OL,0,        C195BMTVA    G2026.11.27. C11:18
+OL,0,        C195BMTVA    G2026.11.27. C21:18
 OL,1, ]        DBUDAPEST AIRPORT ZRT.        
 OL,2, ]   DK|zponti telefonszam: 296-9696    
 OL,3, ]MDHOLNAPI Indulas/Departure 2026.11.28
@@ -455,9 +455,9 @@ OL,7,FTK1038   Istanbul IST    20:05     2A
 OL,8, TG9194   Istanbul IST    20:05     2A  
 OL,9,FLY2360   Tel Aviv TLV    20:20     2B  
 OL,10, FR2273   Malaga          20:40     2B  
-OL,11,FW61840   Wroclaw         21:30     2B  
-OL,12, FR1646   Liverpool       21:55     2B  
-OL,13,FIZ294    Tel Aviv TLV    22:00     2B  
+OL,11,FFR1646   Liverpool       21:55     2B  
+OL,12, IZ294    Tel Aviv TLV    22:00     2B  
+OL,13,FW61840   Wroclaw         22:00     2B  
 OL,14, FZ1406   Dubai DXB       22:20     2A  
 OL,15,FEK2453   Dubai DXB       22:20     2A  
 OL,16, 6H728    Tel Aviv TLV    22:30     2B  

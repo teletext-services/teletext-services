@@ -3,14 +3,14 @@ PN,25101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G251FORF2   GFr 27.11.26 12:26:57
+OL,0,       G251FORF2   GFr 27.11.26 22:26:21
 OL,1,A]G                            Handball 
 OL,2,A]GSPORT  ]                    AHerren \
 OL,3,Q#########G                        1/4  
 OL,4, -FHLA-Meisterliga, 12.Runde            
 OL,6,CFreitag                                
-OL,7, Krems      - Graz         19.00h       
-OL,8, Hard       - Bruck        19.00h       
+OL,7,FKrems      - Graz         28:31 (16:17)
+OL,8,FHard       - Bruck        35:28 (21:14)
 OL,10,CSamstag                                
 OL,11, Linz       - Ferlach      19.00h       
 OL,12, B{rnbach   - Atzgersdorf  19.00h       
@@ -28,23 +28,23 @@ PN,25102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G251FORF2   GFr 27.11.26 12:26:57
+OL,0,       G251FORF2   GFr 27.11.26 22:26:21
 OL,1,A]G                            Handball 
 OL,2,A]GSPORT  ]           AHLA-Meisterliga \
 OL,3,Q#########G                        2/4  
 OL,4,FTabelle                                
 OL,5,  1.SC Ferlach        11  6 5 0  + 27 17
 OL,6,  2.roomz JAGS V|slau 12  7 1 4  + 21 15
-OL,7,  3.Fivers Margareten 11  7 0 4  + 25 14
-OL,8,  4.Sparkasse Schwaz  12  7 0 5  + 23 14
-OL,9,  5.HC Alpla Hard     11  6 0 5  + 19 12
+OL,7,  3.HC Alpla Hard     12  7 0 5  + 26 14
+OL,8,  4.Fivers Margareten 11  7 0 4  + 25 14
+OL,9,  5.Sparkasse Schwaz  12  7 0 5  + 23 14
 OL,10,  6.Bregenz Handball  11  5 1 5  +  6 11
-OL,11,  7.Bruck/Trofaiach   11  5 1 5  -  6 11
+OL,11,  7.Bruck/Trofaiach   12  5 1 6  - 13 11
 OL,12,  8.XeNTiS B{rnbach   11  4 2 5  +  7 10
 OL,13,F---------------------------------------
-OL,14,  9.F|rthof UHK Krems 11  4 2 5  +  2 10
+OL,14,  9.F|rthof UHK Krems 12  4 2 6  -  1 10
 OL,15, 10.HC Linz AG        11  5 0 6  -  7 10
-OL,16, 11.HSG Graz          11  4 0 7  - 26  8
+OL,16, 11.HSG Graz          12  5 0 7  - 23 10
 OL,17, 12.WAT Atzgersdorf   11  0 2 9  - 91  2
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
@@ -53,26 +53,32 @@ PN,25103
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G251FORF2   GFr 27.11.26 12:26:58
+OL,0,       G251FORF2   GFr 27.11.26 22:26:21
 OL,1,A]G                            Handball 
 OL,2,A]GSPORT  ]A                     Damen \
 OL,3,Q#########G                        3/4  
 OL,4, -F3-Nationen-Turnier in Tatabanya (HUN)
 OL,6,CFreitag                                
-OL,7, Ungarn     - \sterreich   18.00h *     
-OL,9,CSamstag                                
-OL,10, \sterreich - Slowakei     16.00h       
-OL,13, -FWHA-Meisterliga, Nachtrag            
-OL,15,CDienstag, 1.Dezember                   
-OL,16, Bruck      - Atzgersdorf  19.45h       
-OL,23,Q,,,,,,,,,,,,,,,,,G* live in ORF Sport+ 
+OL,7,FUngarn     - \sterreichF  33:29 (15:15)
+OL,8, \HB-Tore: Reichert 7, A.Pandza 6,      
+OL,9, K.Pandza 5, Baljak 5, Ivancok-Soltic 2,
+OL,10, Egger 2, Dramac, Neunteufel            
+OL,12,FMonique Tijsterman (Teamchefin):G"Wir  
+OL,13, haben das gegen diese Topnation gut    
+OL,14, gemacht. Ich bin stolz auf das Team."  
+OL,16,CSamstag                                
+OL,17, \sterreich - Slowakei     16.00h       
+OL,19, -FWHA-Meisterliga, Nachtrag            
+OL,21,CDienstag, 1.Dezember                   
+OL,22, Bruck      - Atzgersdorf  19.45h       
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,25104
 SC,0004
 PS,C200
 CT,15,T
-OL,0,       G251FORF2   GFr 27.11.26 12:26:58
+OL,0,       G251FORF2   GFr 27.11.26 22:26:21
 OL,1,A]G                            Handball 
 OL,2,A]GSPORT  ] A          WHA-Meisterliga \
 OL,3,Q#########G                        4/4  

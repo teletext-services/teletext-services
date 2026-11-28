@@ -3,7 +3,7 @@ PN,61801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G618FORF IIIGFr 27.11.26 12:43:31
+OL,0,       G618FORF IIIGFr 27.11.26 22:43:45
 OL,1,A]G                         Donau-Pegel 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       1/2  
@@ -31,14 +31,14 @@ PN,61802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G618FORF IIIGFr 27.11.26 12:43:31
+OL,0,       G618FORF IIIGFr 27.11.26 22:43:45
 OL,1,A]G                         Donau-Pegel 
 OL,2,A]GWETTER  ]A                          \
 OL,3,Q##########G                       2/2  
 OL,4,GDie Donau f}hrt        Niederwasser    
 OL,5,GDie Zubringer f}hren   Niederwasser    
 OL,7,CWerte vom        26.11.  27.11.  27.11.
-OL,8,C                 07:00h  07:00h  12:00h
+OL,8,C                 07:00h  07:00h  22:00h
 OL,9,FRegensburg/Schw. 294      289          
 OL,10,GPfelling ....... 302      304          
 OL,11,FPassau ......... 413      417          
@@ -46,9 +46,9 @@ OL,12,GEngelhartszell . 381      386
 OL,13,FLinz ........... 350      352          
 OL,14,GMauthausen/Br}c. 425      427          
 OL,15,FGrein .......... 715      709          
-OL,16,GYbbs ........... 222      224      226 
-OL,17,FKienstock ...... 165      171      165 
-OL,18,GKorneuburg ..... 204      202      205 
+OL,16,GYbbs ........... 222      224      218 
+OL,17,FKienstock ...... 165      171      162 
+OL,18,GKorneuburg ..... 204      202      203 
 OL,19,FWildungsmauer .. 141      141      145 
 OL,20,GHainburg ....... 109      108          
 OL,21,FHohenau/March .. 141      136          

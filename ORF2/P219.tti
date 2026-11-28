@@ -3,22 +3,23 @@ PN,21901
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G219FORF2   GFr 27.11.26 12:25:57
+OL,0,       G219FORF2   GFr 27.11.26 22:26:51
 OL,1,A]G                             Fu~ball 
 OL,2,A]GSPORT  ]A      Frankreich, 12.Runde \
 OL,3,Q#########G                        1/2  
 OL,4,CFreitag, 20.45h                        
-OL,5,FBrest         - Paris FC     F-:- (-:-)
-OL,7,CSamstag                                
-OL,8,GAngers        - Lens         G17.15h   
-OL,9,GLe Havre      - Strasbourg   G20.45h   
-OL,10,GLe Mans       - Lille        G20.45h   
-OL,11,GNizza         - Troyes       G20.45h   
-OL,12,GParis SG      - Lorient      G20.45h   
-OL,14,CSonntag                                
-OL,15,GAuxerre       - Marseille    G15.00h   
-OL,16,GToulouse      - Rennes       G17.15h   
-OL,17,GLyon          - Monaco       G20.45h   
+OL,5,FBrest         - Paris FC     A1:0F(1:0)
+OL,6, Zogbe 21.                              
+OL,8,CSamstag                                
+OL,9,GAngers        - Lens         G17.15h   
+OL,10,GParis SG      - Lorient      G20.45h   
+OL,11,GLe Mans       - Lille        G20.45h   
+OL,12,GNizza         - Troyes       G20.45h   
+OL,13,GLe Havre      - Strasbourg   G20.45h   
+OL,15,CSonntag                                
+OL,16,GAuxerre       - Marseille    G15.00h   
+OL,17,GToulouse      - Rennes       G17.15h   
+OL,18,GLyon          - Monaco       G20.45h   
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
@@ -26,16 +27,16 @@ PN,21902
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G219FORF2   GFr 27.11.26 12:25:57
+OL,0,       G219FORF2   GFr 27.11.26 22:26:51
 OL,1,A]G                             Fu~ball 
-OL,2,A]GSPORT  ]A      AFrankreich, Tabelle \
+OL,2,A]GSPORT  ]ELIVE! AFrankreich, Tabelle \
 OL,3,Q#########G                        2/2  
 OL,4,G 1 Paris SG        11  8  2  1 25:12 26
-OL,5,G 2 Paris FC        11  7  2  2 21:10 23
-OL,6,G 3 OSC Lille       11  6  3  2 14:8  21
-OL,7,G 4 Olympique Lyon  11  6  2  3 16:9  20
-OL,8,F 5 Olymp.Marseille 11  6  0  5 24:17 18
-OL,9,F 6 Stade Brest     11  5  3  3 19:12 18
+OL,5,G 2 Paris FC        12  7  2  3 21:11 23
+OL,6,G 3 Stade Brest     12  6  3  3 20:12 21
+OL,7,G 4 OSC Lille       11  6  3  2 14:8  21
+OL,8,F 5 Olympique Lyon  11  6  2  3 16:9  20
+OL,9,F 6 Olymp.Marseille 11  6  0  5 24:17 18
 OL,10,G 7 OGC Nizza       11  5  2  4 17:15 17
 OL,11,G 8 AS Monaco       11  4  5  2 14:12 17
 OL,12,G 9 Stade Rennes    11  5  2  4 22:22 17

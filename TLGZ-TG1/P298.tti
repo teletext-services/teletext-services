@@ -4,10 +4,10 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:30
+OL,0,      BTVP1     298Csob 28 lis  03:07:22
 OL,1,F]DEKSTRAKLASA        16. kolejkaG]DEX  
-OL,2, Rak_w        - Piast        27.11 18:00
-OL,3, G_rnik       - Wis}a P}ock        20:30
+OL,2, Rak_w        - Piast          1-2 (0-2)
+OL,3, G_rnik       - Wis}a P}ock    3-2 (2-0)
 OL,4,FWidzew       - Zag}`bie     28.11 14:45
 OL,5,F\l@sk        - GKS Katowice       17:30
 OL,6,FWis}a Krak_w - Motor              20:15
@@ -16,17 +16,17 @@ OL,8, Legia        - Wieczysta          17:30
 OL,9, Jagiellonia  - Radomiak           20:15
 OL,10,FKorona       - Cracovia     30.11 19:00
 OL,11,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
-OL,12,               D? ? ? ? ? ? ? ? ?  Fpkt.
+OL,12,               F2 1D? ? ? ? ? ? ?  Fpkt.
 OL,13,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
-OL,14,FCiekawski                           71 
-OL,15,FUndertaker    G1 1 1 1 1 1 1 1 1   F71 
-OL,16,F55adrian      G1 1 X 2 1 1 1 1 X   F69 
-OL,17,FREKS          G1 1 1 1 1 1 1 1 1   F69 
-OL,18,FRESOVIAK      G1 1 1 2 1 1 1 1 1   F69 
-OL,19,FJulia         G1 1 1 X 1 1 1 1 1   F66 
-OL,20,FAgencik       G1 1 1 1 1 1 1 1 1   F65 
-OL,21,FBysee         G1 1 1 X 1 1 1 1 1   F65 
-OL,22,FEkrudyDref    G1 1 1 X 1 1 1 1 1   F65 
+OL,14,FCiekawski     D1F1G1 X 1 1 1 1 1   F71 
+OL,15,FUndertaker    D1F1G1 1 1 1 1 1 1   F71 
+OL,16,F55adrian      D1F1GX 2 1 1 1 1 X   F69 
+OL,17,FREKS          D1F1G1 1 1 1 1 1 1   F69 
+OL,18,FRESOVIAK      D1F1G1 2 1 1 1 1 1   F69 
+OL,19,FJulia         D1F1G1 X 1 1 1 1 1   F66 
+OL,20,FAgencik       D1F1G1 1 1 1 1 1 1   F65 
+OL,21,FBysee         D1F1G1 X 1 1 1 1 1   F65 
+OL,22,FEkrudyDref    D1F1G1 X 1 1 1 1 1   F65 
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
 OL,24,   A295      B296      C297      F299   
 FL,295,296,297,299,0,100
@@ -35,29 +35,29 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:30
+OL,0,      BTVP1     298Csob 28 lis  03:07:22
 OL,1,F]DEKSTRAKLASA        16. kolejkaG]DEX  
 OL,2,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
-OL,3,               D? ? ? ? ? ? ? ? ?  Fpkt.
+OL,3,               F2 1D? ? ? ? ? ? ?  Fpkt.
 OL,4,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
-OL,5,FRITA          G1 1 1 X 1 1 1 1 1   F65 
+OL,5,FRITA          D1F1G1 X 1 1 1 1 1   F65 
 OL,6,FSPEKTRO                             65 
-OL,7,FGo|^1z92      G1 1 1 2 1 1 1 1 2   F64 
+OL,7,FGo|^1z92      D1F1G1 2 1 1 1 1 2   F64 
 OL,8,FMIRO                                64 
-OL,9,FKiam          G1 1 2 1 1 1 1 1 1   F62 
-OL,10,FKri69                               62 
-OL,11,FEjaj          GX 1 2 X 1 1 1 1 X   F61 
-OL,12,FTORSJAN       G1 1 1 X 1 1 1 1 X   F61 
-OL,13,FGo|^5z36      G1 1 2 2 1 1 1 1 2   F60 
-OL,14,FLapi63        G1 1 1 1 1 1 1 1 1   F60 
+OL,9,FKiam          D1F1G2 1 1 1 1 1 1   F62 
+OL,10,FKri69         D1F1GX 2 1 X 1 1 X   F62 
+OL,11,FEjaj          DXF1G2 X 1 1 1 1 X   F61 
+OL,12,FTORSJAN       D1F1G1 X 1 1 1 1 X   F61 
+OL,13,FGo|^5z36      D1F1G2 2 1 1 1 1 2   F60 
+OL,14,FLapi63        D1F1G1 1 1 1 1 1 1   F60 
 OL,15,FPiotr82                             60 
-OL,16,FRobson        G2 1 2 X 1 1 X 1 2   F60 
+OL,16,FRobson         2 1G2 X 1 1 X 1 2   F60 
 OL,17,FFrancoLoco                          58 
-OL,18,FBadboy        G2 1 1 2 1 1 1 1 2   F57 
-OL,19,FKajrys74      G1 1 1 1 1 1 1 X X   F56 
-OL,20,FMarysia                             56 
+OL,18,FBadboy         2 1G1 2 1 1 1 1 2   F57 
+OL,19,FKajrys74      D1F1G1 1 1 1 1 X X   F56 
+OL,20,FMarysia       D1F1GX X 1 1 1 1 1   F56 
 OL,21,FSocratis                            55 
-OL,22,FStrzelba      G1 1 1 1 1 1 1 1 2   F54 
+OL,22,FStrzelba      D1F1G1 1 1 1 1 1 2   F54 
 OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
 OL,24,   A295      B296      C297      F299   
 FL,295,296,297,299,0,100
@@ -66,19 +66,19 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:31
+OL,0,      BTVP1     298Csob 28 lis  03:07:22
 OL,1,F]DEKSTRAKLASA        16. kolejkaG]DEX  
 OL,2,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
-OL,3,               D? ? ? ? ? ? ? ? ?  Fpkt.
+OL,3,               F2 1D? ? ? ? ? ? ?  Fpkt.
 OL,4,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,
-OL,5,FTygrys        G1 1 X X 1 1 1 1 1   F54 
-OL,6,FHegemon01     G2 1 2 2 1 1 1 1 1   F51 
-OL,7,FFRAK          G1 1 1 X 1 1 X 1 1   F51 
-OL,8,FWaldek        G1 1 2 2 1 2 X X 2   F51 
-OL,9,FGo|^0c68      G1 1 2 2 1 1 1 1 X   F50 
-OL,10,FSpawacz       G2 1 X X 2 1 1 1 X   F48 
-OL,11,FEvertonian    G1 1 1 2 X X X 1 X   F45 
-OL,12,FAdi87         G1 1 1 1 1 1 1 1 1   F41 
+OL,5,FTygrys        D1F1GX X 1 1 1 1 1   F54 
+OL,6,FHegemon01      2 1G2 2 1 1 1 1 1   F51 
+OL,7,FFRAK          D1F1G1 X 1 1 X 1 1   F51 
+OL,8,FWaldek        D1F1G2 2 1 2 X X 2   F51 
+OL,9,FGo|^0c68      D1F1G2 2 1 1 1 1 X   F50 
+OL,10,FSpawacz        2 1GX X 2 1 1 1 X   F48 
+OL,11,FEvertonian    D1F1G1 2 X X X 1 X   F45 
+OL,12,FAdi87         D1F1G1 1 1 1 1 1 1   F41 
 OL,13,FMaras                               34 
 OL,14,FPjablo                              24 
 OL,15,FJAGArysKLIM                          9 
@@ -91,7 +91,7 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:31
+OL,0,      BTVP1     298Csob 28 lis  03:07:22
 OL,1,F]DEKSTRAKLASA        17. kolejkaG]DEX  
 OL,2, Wieczysta    - Korona       04.12 18:00
 OL,3, Zag}`bie     - Wis}a Krak_w       20:30
@@ -117,7 +117,7 @@ SC,0005
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:31
+OL,0,      BTVP1     298Csob 28 lis  03:07:22
 OL,1,F]DEKSTRAKLASA    18.+ 4. kolejkaG]DEX  
 OL,2,FCracovia     - Lech         13.12 14:45
 OL,3,FGKS Katowice - Wis}a Krak_w 13.12 17:30
@@ -144,7 +144,7 @@ SC,0006
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:31
+OL,0,      BTVP1     298Csob 28 lis  03:07:22
 OL,1,F]DEKSTRAKLASA        19. kolejkaG]DEX  
 OL,2, G_rnik       - Korona        30.01.2027
 OL,3, Jagiellonia  - Motor                   
@@ -167,10 +167,10 @@ SC,0007
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:31
+OL,0,      BTVP1     298Csob 28 lis  03:07:22
 OL,1,C]DI LIGA           16. kolejka G]DLP1  
-OL,2, Warta        - Pogo$ S.     27.11 18:00
-OL,3, Chrobry      - Unia S.            20:30
+OL,2, Warta        - Pogo$ S.       2-0 (1-0)
+OL,3, Chrobry      - Unia S.        0-2 (0-0)
 OL,4,CBruk-Bet     - Stal Rz.     28.11 15:30
 OL,5,COdra         - Polonia W.         15:30
 OL,6,CPodbeskidzie - Pogo$ GM           15:30
@@ -179,17 +179,17 @@ OL,8, ]KS          - Lechia       29.11 14:30
 OL,9, Puszcza      - Stal M.            17:00
 OL,10,CMied~ L.     - Polonia B.   30.11 17:15
 OL,11,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
-OL,12,               D? ? ? ? ? ? ? ? ?  Cpkt.
+OL,12,               C1 2D? ? ? ? ? ? ?  Cpkt.
 OL,13,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
-OL,14,CRobson        G1 X 1 X 1 1 X 1 1   C54 
-OL,15,CBadboy        G1 1 1 2 2 2 1 1 2   C53 
-OL,16,CEvertonian    G1 1                 C53 
+OL,14,CRobson         1DXG1 X 1 1 X 1 1   C54 
+OL,15,CBadboy         1D1G1 2 2 2 1 1 2   C53 
+OL,16,CEvertonian     1D1G1 1 2 1 X X 1   C53 
 OL,17,CGo|^5z36                            53 
-OL,18,CCiekawski                           52 
+OL,18,CCiekawski      1 2G1 2 2 1 1 1 2   C52 
 OL,19,CFRAK                                52 
-OL,20,CTORSJAN       G1 1 1 2 X 2 1 X 1   C52 
-OL,21,CRESOVIAK      G1 1 1 2 2 2 2 1 2   C51 
-OL,22,CTygrys        G1 1 1 2 2 1 2 2 2   C51 
+OL,20,CTORSJAN        1D1G1 2 X 2 1 X 1   C52 
+OL,21,CRESOVIAK       1D1G1 2 2 2 2 1 2   C51 
+OL,22,CTygrys         1D1G1 2 2 1 2 2 2   C51 
 OL,23,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
 OL,24,   A295      B296      C297      F299   
 FL,295,296,297,299,0,100
@@ -198,24 +198,24 @@ SC,0008
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:32
+OL,0,      BTVP1     298Csob 28 lis  03:07:22
 OL,1,C]DI LIGA           16. kolejka G]DLP1  
 OL,2,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
-OL,3,               D? ? ? ? ? ? ? ? ?  Cpkt.
+OL,3,               C1 2D? ? ? ? ? ? ?  Cpkt.
 OL,4,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
-OL,5,CGambler       GX 1 1 X X 1 1 X X   C48 
-OL,6,CGo|^1z92      G1 1 2 2 X 1 X 1 2   C48 
-OL,7,CHegemon01     G1 2 1 2 2 1 1 1 1   C48 
+OL,5,CGambler       DX 1G1 X X 1 1 X X   C48 
+OL,6,CGo|^1z92       1D1G2 2 X 1 X 1 2   C48 
+OL,7,CHegemon01      1 2G1 2 2 1 1 1 1   C48 
 OL,8,CSocratis                            47 
-OL,9,CStrzelba      G1 1 1 2 2 2 2 1 1   C47 
-OL,10,CBysee         G1 1 1 2 2 1 2 1 1   C45 
-OL,11,CMarysia                             44 
-OL,12,CKajrys74      GX X X 2 1 1 X X 1   C44 
+OL,9,CStrzelba       1D1G1 2 2 2 2 1 1   C47 
+OL,10,CBysee          1D1G1 2 2 1 2 1 1   C45 
+OL,11,CMarysia       DX XG1 2 1 1 1 X 1   C44 
+OL,12,CKajrys74      DX XGX 2 1 1 X X 1   C44 
 OL,13,CSPEKTRO                             43 
-OL,14,CEkrudyDref    G1 X 1 2 1 1 1 1 X   C42 
-OL,15,CAgencik       G1 1 1 2 1 1 1 1 1   C41 
-OL,16,CWaldek        G1 1 2 1 2 2 2 1 1   C41 
-OL,17,CMalaja        G1 1 1 2 2 1 X X 1   C23 
+OL,14,CEkrudyDref     1DXG1 2 1 1 1 1 X   C42 
+OL,15,CAgencik        1D1G1 2 1 1 1 1 1   C41 
+OL,16,CWaldek         1D1G2 1 2 2 2 1 1   C41 
+OL,17,CMalaja         1D1G1 2 2 1 X X 1   C23 
 OL,18,CPjablo                              18 
 OL,23,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
 OL,24,   A295      B296      C297      F299   
@@ -225,7 +225,7 @@ SC,0009
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:32
+OL,0,      BTVP1     298Csob 28 lis  03:07:23
 OL,1,C]DI LIGA           17. kolejka G]DLP1  
 OL,2, Pogo$ S.     - Mied~ L.     04.12 18:00
 OL,3, Stal M.      - Arka               20:30
@@ -250,7 +250,7 @@ SC,0010
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:32
+OL,0,      BTVP1     298Csob 28 lis  03:07:23
 OL,1,C]DI LIGA           18. kolejka G]DLP1  
 OL,2,CArka         - Odra         11.12 20:30
 OL,3, Chrobry      - Stal Rz.     14.12 18:00
@@ -275,7 +275,7 @@ SC,0011
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:32
+OL,0,      BTVP1     298Csob 28 lis  03:07:23
 OL,1,C]DI LIGA           19. kolejka G]DLP1  
 OL,2, Bruk-Bet     - Pogo$ S.      06.02.2027
 OL,3, Mied~ L.     - Ruch                    
@@ -298,11 +298,11 @@ SC,0012
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:32
+OL,0,      BTVP1     298Csob 28 lis  03:07:23
 OL,1,B]DII LIGA     18. kolejka + 16.G]DLP2  
-OL,2, Stal          - Legia II    27.11 17:30
+OL,2, Stal          - Legia II      3-2 (0-2)
 OL,3,B\l@sk II      - Podhale     28.11 12:30
-OL,4, GKS Tychy     - Chojniczanka27.11 18:00
+OL,4, GKS Tychy     - Chojniczanka  0-2 (0-1)
 OL,5,BG_rnik        - \wit        28.11 12:00
 OL,6, Hutnik        - Sandecja    29.11 12:00
 OL,7,BOlimpia       - Avia        28.11 17:00
@@ -310,17 +310,17 @@ OL,8,BRekord        - Lechia            17:00
 OL,9, Resovia       - Znicz       29.12 15:30
 OL,10, Sok_}         - Zawisza     29.12 17:00
 OL,11,FLegia II      - Sandecja    02.12 12:00
-OL,12,               D? ? ? ? ? ? ? ? ? ?Bpkt.
+OL,12,               B1D?B2D? ? ? ? ? ? ?Bpkt.
 OL,13,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
-OL,14,BHegemon01     G1 2 1 1 2 1 2 2 2 2 B75 
-OL,15,BAgencik       G1 2 1 1 2 1 X 2 2 2 B74 
-OL,16,BMarysia                             71 
-OL,17,BGo|^1z92      G2 X 1 1 1 1 X 2 2 1 B68 
-OL,18,BRESOVIAK      G1 2 1 1 2 1 1 2 2 2 B67 
-OL,19,BTygrys        G2 X 1 1 1 1 X 2 2 1 B67 
-OL,20,BEkrudyDref    G1 2 1 1 1 1 X 2 X 2 B66 
+OL,14,BHegemon01      1G2D1G1 2 1 2 2 2 2 B75 
+OL,15,BAgencik        1G2D1G1 2 1 X 2 2 2 B74 
+OL,16,BMarysia        1G2D1G1 X 1 1 2 2 2 B71 
+OL,17,BGo|^1z92      D2GXD1G1 1 1 X 2 2 1 B68 
+OL,18,BRESOVIAK       1G2D1G1 2 1 1 2 2 2 B67 
+OL,19,BTygrys        D2GXD1G1 1 1 X 2 2 1 B67 
+OL,20,BEkrudyDref     1G2D1G1 1 1 X 2 X 2 B66 
 OL,21,BSPEKTRO                             66 
-OL,22,BCiekawski                           65 
+OL,22,BCiekawski      1G2D1G1 2 1 2 2 2 2 B65 
 OL,23,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
 OL,24,   A295      B296      C297      F299   
 FL,295,296,297,299,0,100
@@ -329,22 +329,22 @@ SC,0013
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:32
+OL,0,      BTVP1     298Csob 28 lis  03:07:23
 OL,1,B]DII LIGA     18. kolejka + 16.G]DLP2  
 OL,2,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
-OL,3,               D? ? ? ? ? ? ? ? ? ?Bpkt.
+OL,3,               B1D?B2D? ? ? ? ? ? ?Bpkt.
 OL,4,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
-OL,5,BKajrys74      G1 2 X 1 X X 2 X X 1 B64 
-OL,6,BTORSJAN       G1 2 1 1 X 1 X 2 2 2 B64 
-OL,7,BBadboy        G2 2 1 1 2 2 2 2 1   B62 
-OL,8,BGo|^5z36      G2 2 1 1 X 2 2 2 2 2 B61 
-OL,9,BRobson        G1 2 1 1 X 1 X 2 2 2 B61 
-OL,10,BBysee         G1 2 1 1 2 1 1 2 2 2 B57 
+OL,5,BKajrys74       1G2DXG1 X X 2 X X 1 B64 
+OL,6,BTORSJAN        1G2D1G1 X 1 X 2 2 2 B64 
+OL,7,BBadboy        D2G2D1G1 2 2 2 2 1   B62 
+OL,8,BGo|^5z36      D2G2D1G1 X 2 2 2 2 2 B61 
+OL,9,BRobson         1G2D1G1 X 1 X 2 2 2 B61 
+OL,10,BBysee          1G2D1G1 2 1 1 2 2 2 B57 
 OL,11,BFRAK                            G2 B57 
-OL,12,BStrzelba      G1 1 1 1 1 1 1 1 1 1 B57 
-OL,13,BEvertonian    G1   1               B56 
+OL,12,BStrzelba       1G1D1G1 1 1 1 1 1 1 B57 
+OL,13,BEvertonian     1GXD1G1 X 1 1 X X X B56 
 OL,14,BSocratis                            54 
-OL,15,BGambler       GX 2 1 1 X X X 2 2 X B53 
+OL,15,BGambler       DXG2D1G1 X X X 2 2 X B53 
 OL,16,BPjablo                              23 
 OL,23,R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,W,,,,,,
 OL,24,   A295      B296      C297      F299   
@@ -354,7 +354,7 @@ SC,0014
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:32
+OL,0,      BTVP1     298Csob 28 lis  03:07:23
 OL,1,B]DII LIGA          19. kolejka G]DLP2  
 OL,2,BLegia II      - Znicz       05.12 12:00
 OL,3,BOlimpia       - Lechia            17:00
@@ -383,7 +383,7 @@ SC,0015
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     298Cpi@ 27 lis  17:07:32
+OL,0,      BTVP1     298Csob 28 lis  03:07:23
 OL,1,B]DII LIGA          20. kolejka G]DLP2  
 OL,2, G_rnik        - \l@sk II     20.02.2027
 OL,3, Hutnik        - Podhale                

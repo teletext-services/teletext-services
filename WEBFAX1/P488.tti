@@ -3,11 +3,11 @@ PN,48801
 SC,0001
 PS,C000
 CT,8,T
-OL,0,       GCEEFAX 1 488 Fri 27 NovC07:19/54
+OL,0,       GCEEFAX 1 488 Sat 28 NovC02:18/02
 OL,1,V7c#####5Ww;"k#js1 u:jj#4ws   5w;       
 OL,2,V5!     5W%* * *,$ %***,!,. (,%%*V(,,,,,
 OL,3,Vupppppp5CSaturday                      
-OL,5,G1900 Programmes Start at 07:00         
+OL,5,G0000 Programmes Start at 07:00         
 OL,6,G0700 Atom Town                         
 OL,7,G0705 Yakka Dee!                        
 OL,8,G0710 Peek Zoo                          
@@ -32,7 +32,7 @@ PN,48802
 SC,0002
 PS,C000
 CT,8,T
-OL,0,       GCEEFAX 1 488 Fri 27 NovC07:19/54
+OL,0,       GCEEFAX 1 488 Sat 28 NovC02:18/02
 OL,1,V7c#####5Ww;"k#js1 u:jj#4ws   5w;       
 OL,2,V5!     5W%* * *,$ %***,!,. (,%%*V(,,,,,
 OL,3,Vupppppp5CSaturday                      
@@ -60,7 +60,7 @@ PN,48803
 SC,0003
 PS,C000
 CT,8,T
-OL,0,       GCEEFAX 1 488 Fri 27 NovC07:19/54
+OL,0,       GCEEFAX 1 488 Sat 28 NovC02:18/02
 OL,1,V7c#####5Ww;"k#js1 u:jj#4ws   5w;       
 OL,2,V5!     5W%* * *,$ %***,!,. (,%%*V(,,,,,
 OL,3,Vupppppp5CSaturday                      
@@ -89,7 +89,7 @@ PN,48804
 SC,0004
 PS,C000
 CT,8,T
-OL,0,       GCEEFAX 1 488 Fri 27 NovC07:19/54
+OL,0,       GCEEFAX 1 488 Sat 28 NovC02:18/02
 OL,1,V7c#####5Ww;"k#js1 u:jj#4ws   5w;       
 OL,2,V5!     5W%* * *,$ %***,!,. (,%%*V(,,,,,
 OL,3,Vupppppp5CSaturday                      
@@ -118,7 +118,7 @@ PN,48805
 SC,0005
 PS,C000
 CT,8,T
-OL,0,       GCEEFAX 1 488 Fri 27 NovC07:19/54
+OL,0,       GCEEFAX 1 488 Sat 28 NovC02:18/02
 OL,1,V7c#####5Ww;"k#js1 u:jj#4ws   5w;       
 OL,2,V5!     5W%* * *,$ %***,!,. (,%%*V(,,,,,
 OL,3,Vupppppp5CSaturday                      
@@ -132,8 +132,9 @@ OL,11,G1750 Tales From Dun Draiochta
 OL,12,G1800 Let's Find Out                    
 OL,13,G1815 Dizzy Deliveries                  
 OL,14,G1830 Body Brothers                     
-OL,15,G1845 Programmes Start at 07:00         
-OL,16,G0000 Programmes Start at 07:00         
+OL,15,G1845 Beddybyes                         
+OL,16,G1900 Programmes Start at 07:00         
+OL,17,G0000 Programmes Start at 07:00         
 OL,23,VppppppppppppppppppppppppppppppppppG5/5 
 OL,24,ANext Page  BNat TV CClean Feed  FReg TV
 FL,489,200,140,260,0,100

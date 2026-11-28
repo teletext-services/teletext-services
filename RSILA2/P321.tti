@@ -1,16 +1,17 @@
 DE,RSILA2 321
-PN,32100
-SC,0000
-PS,8308
-CT,15,T
-OL,0,       G321  RSI LA 2  27.11.26 13:09:27
-OL,1,C]@HOCKEY           G]@27.11.26 08:16GBO
+PN,32101
+SC,0001
+PS,C300
+CT,8,T
+OL,0,       G321  RSI LA 2  27.11.26 23:08:52
+OL,1,C]@HOCKEY           G]@27.11.26 22:40GBO
 OL,2,A                                       
+OL,3,                                    1/2 
 OL,4,CHOCKEY: NHL, programma e risultati     
-OL,5,GBoston Bruins  - Toronto Leafs   C27.11
-OL,6,GN.J.Devils     - Calgary Flames  C27.11
-OL,7,GNashville Preds- Utah Mammoth    C27.11
-OL,8,GSt.Louis Blues - Dallas Stars    C27.11
+OL,5,GBoston Bruins  - Toronto Leafs     G1-3
+OL,6,GN.J.Devils     - Calgary Flames    G5-3
+OL,7,GNashville Preds- Utah Mammoth   BdrG5-6
+OL,8,GSt.Louis Blues - Dallas Stars      G5-3
 OL,9,GColumbus B.J.  - Detroit Red W.  C27.11
 OL,10,GPhil. Flyers   - Vancouver Can.  C27.11
 OL,11,GTampa Bay L.   - Ottawa Sens     C27.11
@@ -22,5 +23,32 @@ OL,16,GChicago Blackh.- N.Y.Rangers     C27.11
 OL,17,GN.Y.Islanders  - Winnipeg Jets   C28.11
 OL,18,GBuffalo Sabres - Pittsburgh P.   C28.11
 OL,19,GEdmonton Oil.  - Seattle Kraken  C28.11
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,32102
+SC,0002
+PS,C300
+CT,8,T
+OL,0,       G321  RSI LA 2  27.11.26 23:08:52
+OL,1,C]@HOCKEY           G]@27.11.26 22:34GBO
+OL,2,A                                       
+OL,3,CHOCKEY: NHL, gli svizzeri      J   2/2 
+OL,4,@                                       
+OL,5,GN.J.Devils     - Calgary Flames    G5-3
+OL,6,BHischier/NJD un assist in 18'45" (+1), 
+OL,7,BMeier/NJD un gol e un assist in 16'37" 
+OL,8,B(+3), Siegenthaler/NJD sul ghiaccio per
+OL,9,B19'23" (+2).                           
+OL,10,G                                       
+OL,11,GNashville Preds- Utah Mammoth   BdrG5-6
+OL,12,BJosi/NSH una rete in 23'56" (-1).      
+OL,13,G                                       
+OL,15,G                                       
+OL,16,G                                       
+OL,17,G                                       
+OL,18,G                                       
+OL,19,G                                       
+OL,20,G                                       
+OL,21,G                                       
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

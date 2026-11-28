@@ -1,10 +1,10 @@
 DE,TEKSTI-TV 207
-PN,20700
-SC,0000
-PS,8108
+PN,20701
+SC,0001
+PS,C100
 CT,15,T
-OL,0,       G207 YLE TEKSTI-TV 27.03.15:45:21
-OL,1,D]G F1 QATARD]G1. HARJOITUKSET      1/1 
+OL,0,       G207 YLE TEKSTI-TV 28.03.01:45:01
+OL,1,D]G F1 QATARD]G1. HARJOITUKSET      1/2 
 OL,2, 1.GKimi Antonelli    Mercedes  1.23,217
 OL,3, 2.GGeorge Russell    Mercedes  1.23,724
 OL,4, 3.GIsack Hadjar      Red Bull  1.23,878
@@ -27,5 +27,35 @@ OL,20,19.GJak Crawford      Aston M   1.26,306
 OL,21,20.GLance Stroll      Aston M   1.26,416
 OL,22,21.GSergio P`rez      Cadillac  1.26,686
 OL,23,22.FValtteri Bottas   Cadillac  1.26,909
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,20702
+SC,0002
+PS,C100
+CT,15,T
+OL,0,       G207 YLE TEKSTI-TV 28.03.01:45:01
+OL,1,D]G F1 QATARD]G2. HARJOITUKSET      2/2 
+OL,2, 1.GKimi Antonelli    Mercedes  1.23,077
+OL,3, 2.GGeorge Russell    Mercedes  1.23,204
+OL,4, 3.GLando Norris      McLaren   1.23,522
+OL,5, 4.GOscar Piastri     McLaren   1.23,549
+OL,6, 5.GMax Verstappen    Red Bull  1.23,576
+OL,7, 6.GIsack Hadjar      Red Bull  1.23,583
+OL,8, 7.GCharles Leclerc   Ferrari   1.24,099
+OL,9, 8.GLewis Hamilton    Ferrari   1.24,216
+OL,10, 9.GLiam Lawson       Racing B  1.24,425
+OL,11,10.GArvid Lindblad    Racing B  1.24,547
+OL,12,11.GGabriel Bortoleto Audi      1.24,614
+OL,13,12.GPierre Gasly      Alpine    1.24,764
+OL,14,13.GNico H lkenberg   Audi      1.24,871
+OL,15,14.GAlexander Albon   Williams  1.25,276
+OL,16,15.GFranco Colapinto  Alpine    1.25,733
+OL,17,16.GCarlos Sainz Jr.  Williams  1.25,839
+OL,18,17.GRafael Camara     Haas      1.25,962
+OL,19,18.GOliver Bearman    Haas      1.25,996
+OL,20,19.GFernando Alonso   Aston M   1.26,046
+OL,21,20.GLance Stroll      Aston M   1.26,648
+OL,22,21.FValtteri Bottas   Cadillac  1.27,394
+OL,23,22.GSergio P`rez      Cadillac  1.27,511
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

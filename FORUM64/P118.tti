@@ -3,49 +3,64 @@ PN,11801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GFr 27 Nov F10:22:33
+OL,0,         GFORUM64   GFr 27 Nov F20:22:24
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,E(WIP) Fabu Writer / Lettermaker        
-OL,4,CAntwort:  Bherrfabu                    
-OL,5,CComments: B26                          
+OL,2,EWic64 dringende Fragen                 
+OL,4,CAntwort:  BJammet                      
+OL,5,CComments: B5                           
 OL,6,F                                       
-OL,7,FUpdate V1.1:                           
-OL,8,Fhttps://csdb.dk/release/?id=266230     
-OL,10,F( )                                    
-OL,12,CErster Beitrag:                        
-OL,14,GAhoi!                                  
-OL,16,GSooooo, ich sitze an einem neuen       
-OL,17,GProjekt. Ihr erinnert euch ja sicher   
-OL,18,Gnoch an die Lettermaker von fr}her, die
-OL,19,GEingaben mit den exakten               
-OL,20,GCursorbewegungen wiedergegeben haben in
-OL,21,Geinem eigenen PRG. Ich selbst nutzte   
-OL,22,Gsehr h{ufig den "Superwriter+" (1986). 
-OL,23,GAuch wenn vermutlich niemand darauf    
-OL,24,D]FForum64.de RSS feed            (1/2) 
+OL,7,FDie Verbindung ist schon deutlich      
+OL,8,Fbesser als zur vorherigen version. Aber
+OL,9,Fja, wenn ihr irgendwie noch Antworten  
+OL,10,Fauf die Details habt, f}gt sie         
+OL,11,Fvielleicht in die github               
+OL,12,FDokumentationen mit ein. Und bitte um  
+OL,13,FEntschuldigung wenn diese Fragen       
+OL,14,Feinfach                                
+OL,16,CErster Beitrag:                        
+OL,18,GBitte entschuldigt, dass der Post hier 
+OL,19,Gist, falls er falsch hier ist. Ich     
+OL,20,Gliebe ja das Forum, aber ]bersicht }ber
+OL,21,Gwas wo hingeh|rt ... ich schaff's      
+OL,22,Gnicht. Es gibt hier zwei Dinge die f}r 
+OL,23,Gmich konsistent nicht funktionieren:   
+OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GFr 27 Nov F10:22:33
+OL,0,         GFORUM64   GFr 27 Nov F20:22:24
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Ggewartet hat und der heutige Nutzwert  
-OL,4,Getwas fragw}rdig ist, m|chte ich eine  
-OL,5,Geigene Variante ver|ffentlichen, die   
-OL,6,Galte mit neuen Features kombiniert und 
-OL,7,Gin der Bedienung komfortabler ist.     
-OL,8,GSobald der Prototyp lauff{hig und etwas
-OL,9,Gnachgeschliffen ist, lade in ihn hier  
-OL,10,Ggerne zum Testen hoch.                 
-OL,12,GFalls ihr euch bestimmte Features      
-OL,13,G(unlimtiertes Undo gibt's bereits) oder
-OL,14,Gvisuelle Gimmicks w}nscht, lasst es    
-OL,15,Gmich gerne wissen.                     
-OL,17,GIn der fertigen Version m|chte ich     
-OL,18,Ggerne eigene Fonts nutzen, die ich noch
-OL,19,Gpixel. Exklusive Tunes w{ren nat}rlich 
-OL,20,Gnice, aber da ich kein Musiker bin,    
-OL,21,Gw{re ich da auf Dritte angewiesen.     
-OL,24,D]FForum64.de RSS feed            (2/2) 
+OL,3,GNavigation und Suche. Was ich finde,   
+OL,4,Gfinde ich weil es Aktuell ist, oder    
+OL,5,GGl}ck, oder durch Antworten darauf...  
+OL,6,G^^' ich bin halt ein bischen schlecht  
+OL,7,Gbei sowas.                             
+OL,9,GZum Wic64! Es geht also um Firmware    
+OL,10,G2.1.1 mit meinem IRC client port 6667  
+OL,11,Gverbunden mit einem IRC server.        
+OL,13,GDer Verbindungsqualit{t ist jetzt Okay,
+OL,14,Gaber es sind immer noch Fragen offen,  
+OL,15,Gund ich w}rde mich freuen wenn mir     
+OL,16,Gdabei wer helfen k|nnte. Ich hoffe ich 
+OL,17,Gnerve damit nicht. Es geht also um     
+OL,18,GFirmware 2.1.1 mit meinem IRC client   
+OL,19,Gport 6667 verbunden mit einem IRC      
+OL,20,Gserver. Ich verwende die Befehle $21   
+OL,21,G(open), $30 (verf}gbar), $22 (lesen),  
+OL,22,G$23 (schreiben), $2E (close), $2A      
+OL,23,G(Fehlertext) und $2D (Timeout).        
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,11803
+SC,0003
+PS,C200
+CT,15,T
+OL,0,         GFORUM64   GFr 27 Nov F20:22:24
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,GAb und zu bricht die Verbindung nach   
+OL,4,GStunden still weg. Dier client bekommt 
+OL,5,Gdann weder einen Fehlerstatus noch     
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

@@ -1,20 +1,45 @@
 DE,ORF2 284
-PN,28400
-SC,0000
-PS,8208
+PN,28401
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G284FORF2   GFr 27.11.26 12:27:30
+OL,0,       G284FORF2   GFr 27.11.26 22:28:00
 OL,1,A]G                            Skeleton 
 OL,2,A]GSPORT  ]A                           \
-OL,3,Q#########G                             
-OL,4,FWeltcup in Altenberg, Programm         
-OL,6,CFreitag                                
-OL,7, Herren             13.00h * + 14.30hF* 
-OL,9,CSamstag                                
-OL,10, Damen              10.00h * + 11.30h * 
-OL,11, Mixed                         18.00h   
-OL,13,F\BSV-Kader:GSamuel Maier, Alexander    
-OL,14,GSchlintner; Julia Erlacher             
-OL,23,Q,,,,,,F* live ORF1Q,G* live ORF Sport+ 
+OL,3,Q#########G                        1/2  
+OL,4,FWeltcup in Altenberg, Freitag          
+OL,6,FHerren, Endstand nach 2 L{ufen         
+OL,7,  1. Felix Keisinger        GER 1:52,96 
+OL,8,F 2. Samuel Maier           AUT  + 0,11 
+OL,9,  3. Lukas David Nydegger   GER    0,15 
+OL,10,  4. Axel Jungk             GER    0,60 
+OL,11,  5. Rasmus Johansen        DEN    0,79 
+OL,12,  6. Amedeo Begnis          ITA    0,85 
+OL,13,Fweiters                                
+OL,14, 10. Alexander Schlintner   AUT    1,67 
+OL,16,CSamstag                                
+OL,17, Damen              10.00h * + 11.30h * 
+OL,18, Mixed                         18.00h   
+OL,20,F\BSV-Kader:GSamuel Maier, Alexander    
+OL,21,GSchlintner; Julia Erlacher             
+OL,23,Q,,,,,,,,,,,,,,,,,G* live in ORF Sport+ 
+OL,24,A]bersicht BSchlagzeilen CSport  FWetter
+FL,100,111,200,600,0,100
+PN,28402
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G284FORF2   GFr 27.11.26 22:28:00
+OL,1,A]G                            Skeleton 
+OL,2,A]GSPORT  ]A                           \
+OL,3,Q#########G                        2/2  
+OL,4,FWeltcup                                
+OL,6,FHerren, nach 1 von 8 Bewerben          
+OL,7,  1. Felix Keisinger          GER   225 
+OL,8,  2. Samuel Maier             AUT   210 
+OL,9,  3. Lukas David Nydegger     GER   200 
+OL,10,Fweiters                                
+OL,11, 10. Alexander Schlintner     AUT   144 
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

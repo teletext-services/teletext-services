@@ -1,30 +1,56 @@
 DE,ORFSPORT 288
-PN,28800
-SC,0000
-PS,8208
+PN,28801
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G288CORF SPORT+G27.11.26 12:47:36
+OL,0,       G288CORF SPORT+G27.11.26 22:47:54
 OL,1,A]G                           Eishockey 
-OL,2,A]GSPORT  ]Awin2day ICE Liga,24.+25.R. \
-OL,3,Q#########G                             
-OL,4,CFreitag, 19.15h                        
-OL,5,FKAC        - Ljubljana  -:-G-:- -:- -:-
-OL,6,FSalzburg   - Graz       -:-G-:- -:- -:-
-OL,7,FLinz       - Vorarlberg -:-G-:- -:- -:-
-OL,8,FCapitals   - Budapest   -:-G-:- -:- -:-
-OL,9,C19.45h                                 
-OL,10,FPustertal  - VSV        -:-G-:- -:- -:-
-OL,11,FBozen      - Milano     -:-G-:- -:- -:-
-OL,13,CSamstag                                
-OL,14, Fehervar   - Innsbruck  17.30h         
-OL,15,CSonntag                                
-OL,16, VSV          KAC        15.00h         
-OL,17, Capitals   - Salzburg   16.00h         
-OL,18, Vorarlberg - Ljubljana  17.00h         
-OL,19, Milano     - Linz       17.00h         
-OL,20, Budapest   - Innsbruck  17.30h         
-OL,21, Graz       - Fehervar   17.30h         
-OL,22, Pustertal  - Bozen      18.00h         
+OL,2,A]GSPORT  ]Awin2day ICE Liga, 24.Runde \
+OL,3,Q#########G                        1/2  
+OL,4,CFreitag                                
+OL,6,FSalzburg   - GrazF      1:4G0:0 0:2 1:2
+OL,7, 2.800; Auer 60./SH; Hanus 22., Schiechl
+OL,8, 40., Huber 41./PP2, Ganahl 53.         
+OL,9, Strafminuten: 12 bzw. 6                
+OL,11,FLinz       - Vorarlberg 6:2G1:1 2:0 3:1
+OL,12, 3.800; Bliss 9./PP, Lebler 24., St-    
+OL,13, Amant 37., Topping 50., Neubauer 52.,  
+OL,14, Knott 58./EN; Murray 12., Serdachny 52.
+OL,15, /PP; Strafminuten: 4 bzw. 10           
+OL,17,FCapitals   - BudapestF  3:9G1:1 2:5 0:3
+OL,18, 4.000; Komarek 19./PP2, Vey 35., Lilja 
+OL,19, 39.; Silye 15., Savoie 26./PP2, Laskawy
+OL,20, 27./PP,32.,54., Dobos 32., Molnar 38., 
+OL,21, Tammela 49.,60.                        
+OL,22, Strafminuten: 4 bzw. 8                 
+OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,A]bersicht  BSport   CFernsehen  FWetter
+FL,100,200,300,600,0,100
+PN,28802
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G288CORF SPORT+G27.11.26 22:47:54
+OL,1,A]G                           Eishockey 
+OL,2,A]GSPORT  ]Awin2day ICE Liga, 24.Runde \
+OL,3,Q#########G                        2/2  
+OL,4,CFreitag                                
+OL,5,FKAC        - LjubljanaF 2:3 n.P.       
+OL,6,                     0:1 0:1 2:0/0:0 0:1
+OL,7, 3.600; Drozg 52./PP, Obersteiner 57.;  
+OL,8, Quince 8., Lawrence 22.; entsch.       
+OL,9, Penalty: Boychuk                       
+OL,10, Strafminuten: 8 bzw. 8                 
+OL,12,FPustertal  - VSV F      4:2G1:1 2:1 1:0
+OL,13, 2.300; Purdeller 1., Glira 24.,        
+OL,14, Bardreau 31./SH, Bowlby 55./PP;        
+OL,15, Rebernig 8., Wallenta 38./PP           
+OL,16, Strafminuten: 4 bzw. 6                 
+OL,18,FBozen      - MilanoF    7:4G3:3 3:0 1:1
+OL,19, 5.000; Ticar 1., Gazley 12.,14., Digia-
+OL,20, cinto 23., McClure 28.,36., Frigo 53./ 
+OL,21, SH; McLaughlin 6., Finoro 8./PP, McKegg
+OL,22, 12., Houde 46.; Strafminuten: 12 / 16  
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

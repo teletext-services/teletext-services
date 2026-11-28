@@ -3,24 +3,24 @@ PN,72901
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 2     27.11.26 13:42:29
+OL,0,       G729  RTS 2     27.11.26 23:42:22
 OL,1,D]GRTS 1     ]@vendredi 27 novembre     
 OL,2,                                    1/3 
-OL,4,F20:00 FM#t#o                           
-OL,5,E 1955 FsoirCS-T                        
-OL,6,G20:10 GPasse-moi les jumelles......C745
-OL,7,       GLa vall#e des longs hivers      
+OL,4,G20:00 GM#t#o                           
+OL,5,E 1955 GsoirCS-T                        
+OL,6,F20:10 FPasse-moi les jumelles......C745
+OL,7,       FLa vall#e des longs hivers      
 OL,8,       CS-T                             
-OL,9,F21:05 FLa Comtesse de Monte-Cristo     
-OL,10,E 2100 FHayd#eCS-T                      
-OL,11,G21:55 GLa Comtesse de Monte-Cristo     
-OL,12,E 2145 GFernandCS-T                     
-OL,13,F22:50 FEsprits criminels...........C708
-OL,14,E 0000 FPure jalousieCI/IICS-TA        
-OL,15,G23:45 GEsprits criminels...........C710
-OL,16,E 2235 GMalleus MaleficarumCI/IICS-     
-OL,17,       GTA                             
-OL,18,F04:59 FM#t#o                           
+OL,9,G21:00 GLa Comtesse de Monte-Cristo     
+OL,10,       GHayd#eCS-T                      
+OL,11,F21:55 FLa Comtesse de Monte-Cristo     
+OL,12,E 2145 FFernandCS-T                     
+OL,13,G22:50 GEsprits criminels...........C707
+OL,14,E 0000 GPure jalousieCI/IICS-TA        
+OL,15,F23:45 FEsprits criminels...........C709
+OL,16,E 2235 FMalleus MaleficarumCI/IICS-     
+OL,17,       FTA                             
+OL,18,G04:58 GM#t#o                           
 OL,19,E 0218 CS-TC(R)                         
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -28,20 +28,20 @@ PN,72902
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 2     27.11.26 13:42:29
+OL,0,       G729  RTS 2     27.11.26 23:42:22
 OL,1,D]GRTS 1     ]@vendredi 27 novembre     
 OL,2,                                    2/3 
-OL,4,G05:00 G19h30                           
+OL,4,F04:59 F19h30                           
 OL,5,E 0235 CS-TC(R)                         
-OL,6,F05:30 FLa suisse vue du ciel           
-OL,7,       CS-T                             
+OL,6,G05:25 GLa suisse vue du ciel           
+OL,7,E 0530 CS-T                             
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,72903
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 2     27.11.26 13:42:29
+OL,0,       G729  RTS 2     27.11.26 23:42:22
 OL,1,D]GRTS 1     ]@jeudi 26 novembre        
 OL,2,                                    3/3 
 OL,4,G04:18 GM#t#o                           

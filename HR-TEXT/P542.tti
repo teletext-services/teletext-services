@@ -3,57 +3,34 @@ PN,54201
 SC,0001
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGFr 27.11.26F10:43:17
+OL,0,           Fhr-textGFr 27.11.26F20:43:20
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]ARMV    A]         GAktuelle St|rungen
 OL,3,W#######################################
 OL,4,FS1 Wiesbaden Hbf <-> Ober<->Roden      
 OL,5,FS2 Niedernhausen <-> Dietzenbach Bhf   
 OL,6,CBeginn:   27.11.26 01:30               
-OL,7,CEnde ca:  27.11.26 13:00               
+OL,7,CEnde ca:  27.11.26 23:59               
 OL,9, Aufgrund einer Weichenst|rung          
 OL,10, verkehren die S-Bahnen im              
 OL,11, 30-Minuten-Takt. Der Halt              
 OL,12, "Frankfurt-Griesheim" entf{llt in      
 OL,13, Richtung Frankfurter Innenstadt.       
 OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 10:01 ohne Gew{hr             
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
 PN,54202
 SC,0002
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGFr 27.11.26F10:43:17
-OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]ARMV    A]         GAktuelle St|rungen
-OL,3,W#######################################
-OL,4,FS8 Wiesbaden Hbf <-> Hanau Hbf         
-OL,5,FS9 Wiesbaden Hbf <-> Hanau Hbf         
-OL,6,FS1 Wiesbaden Hbf <-> Ober<->Roden      
-OL,7,CBeginn:   27.11.26 04:09               
-OL,8,CEnde ca:  27.11.26 12:00               
-OL,10, Bei den Z}gen der Linien S1, S9 und    
-OL,11, folgebedingt S8 kommt es zu            
-OL,12, Versp{tungen und kurzfristigen         
-OL,13, Teilausf{llen/Umleitungen. Grund daf}r 
-OL,14, ist ein Gleislagefehler im Bereich     
-OL,15, Mainz Kastel.                          
-OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 10:01 ohne Gew{hr             
-OL,24,AInhalt A-Z BNachrichten  CWetter FSport
-FL,102,112,170,200,0,100
-PN,54203
-SC,0003
-PS,C200
-CT,15,T
-OL,0,           Fhr-textGFr 27.11.26F10:43:17
+OL,0,           Fhr-textGFr 27.11.26F20:43:20
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]ARMV    A]         GAktuelle St|rungen
 OL,3,W#######################################
 OL,4,FS1 Wiesbaden Hbf <-> Ober<->Roden      
 OL,5,CBeginn:   27.11.26 05:00               
-OL,6,CEnde ca:  27.11.26 23:59               
+OL,6,CEnde ca:  27.11.26 20:00               
 OL,8, Aufgrund einer Weichenst|rung zwischen 
 OL,9, "R|dermark-Ober Roden" und "Rollwald"  
 OL,10, entfallen die zus{tzlichen Fahrten der 
@@ -63,59 +40,90 @@ OL,13, im 30-Minuten-Takt. Bitte planen Sie
 OL,14, mehr Reisezeit ein und beachten Sie    
 OL,15, die aktuellen Fahrgastinformationen.   
 OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 10:01 ohne Gew{hr             
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,54203
+SC,0003
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGFr 27.11.26F20:43:20
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]ARMV    A]         GAktuelle St|rungen
+OL,3,W#######################################
+OL,4,FRB58: einzelne Fahrtausf{lle am 27.11. 
+OL,5,CBeginn:   27.11.26 13:00               
+OL,6,CEnde ca:  27.11.26 21:00               
+OL,8, Es kommt zum Entfall einzelner Fahrten 
+OL,9, aufgrund kurzfristiger                 
+OL,10, Personalausf{lle.                      
+OL,22,BQuelle: RMV          Zusatzverkehr 542 
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
 PN,54204
 SC,0004
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGFr 27.11.26F10:43:17
+OL,0,           Fhr-textGFr 27.11.26F20:43:20
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]ARMV    A]         GAktuelle St|rungen
 OL,3,W#######################################
-OL,4,FPohlheim: Busse 372, 375, 376, 377 /   
-OL,5,FErsatzverkehr RB46 - aktuelle St|rung  
-OL,6,F(Stand 27.11., 07:15 Uhr)              
-OL,7,CBeginn:   27.11.26 07:00               
-OL,8,CEnde ca:  27.11.26 11:00               
-OL,10, Aufgrund eines Verkehrsunfalls in der  
-OL,11, Schiffenbergstra~e in                  
-OL,12, Pohlheim-Garbenteich kommt es auf den  
-OL,13, Buslinien 372, 375, 376, 377 sowie     
-OL,14, beim Schienenersatzverkehr der Linie   
-OL,15, RB46 zu Versp{tungen. Die Busse k|nnen 
-OL,16, die Unfallstelle derzeit nicht         
-OL,17, passieren.                             
+OL,4,FRB 75 Wiesbaden Hbf <-> Aschaffenbg.   
+OL,5,CBeginn:   27.11.26 16:30               
+OL,6,CEnde ca:  28.11.26 08:00               
+OL,8, Es kommt zu einzelnen Ausf{llen        
+OL,9, aufgrund von kurzfristig erkranktem    
+OL,10, Personal.                              
 OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 10:01 ohne Gew{hr             
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
 PN,54205
 SC,0005
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGFr 27.11.26F10:43:17
+OL,0,           Fhr-textGFr 27.11.26F20:43:20
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]ARMV    A]         GAktuelle St|rungen
 OL,3,W#######################################
-OL,4,FDarmstadt: Tram 4 - St|rung beendet    
-OL,5,F(Stand 27.11., 09:35 Uhr)              
-OL,6,CBeginn:   27.11.26 08:30               
-OL,7,CEnde ca:  27.11.26 10:30               
-OL,9, Die Fahrzeugst|rung im Bereich der     
-OL,10, Haltestelle "Kranichstein Bahnhof" ist 
-OL,11, behoben. Auf der Stra~enbahnlinie 4    
-OL,12, kann es noch zu Versp{tungen kommen.   
+OL,4,FRB 21 Wiesbaden Hbf <-> Limburg        
+OL,5,CBeginn:   27.11.26 17:30               
+OL,6,CEnde ca:  27.11.26 20:00               
+OL,8, Es kommt zu einzelnen Ausf{llen        
+OL,9, aufgrund von Verz|gerungen im          
+OL,10, Betriebsablauf.                        
 OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 10:01 ohne Gew{hr             
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100
 PN,54206
 SC,0006
 PS,C200
 CT,15,T
-OL,0,           Fhr-textGFr 27.11.26F10:43:17
+OL,0,           Fhr-textGFr 27.11.26F20:43:20
+OL,1,Wppppppppppppppppppppppppppppppppppppppp
+OL,2,G]ARMV    A]         GAktuelle St|rungen
+OL,3,W#######################################
+OL,4,FS3 Bad Soden <-> Darmstadt Hbf         
+OL,5,FS4 Kronberg <-> Darmstadt              
+OL,6,FS5 Friedrichsdorf <-> Frankfurt Sued   
+OL,7,FS6 Friedberg <-> Frankfurt Sued        
+OL,8,CBeginn:   27.11.26 18:30               
+OL,9,CEnde ca:  27.11.26 22:00               
+OL,11, Es kommt zu Versp{tungen und kann zu   
+OL,12, Teilausf{llen kommen aufgrund einer    
+OL,13, Stellwerkst|rung zwischen Eschersheim  
+OL,14, und Frankfurter Westbahnhof.           
+OL,22,BQuelle: RMV          Zusatzverkehr 542 
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
+OL,24,AInhalt A-Z BNachrichten  CWetter FSport
+FL,102,112,170,200,0,100
+PN,54207
+SC,0007
+PS,C200
+CT,15,T
+OL,0,           Fhr-textGFr 27.11.26F20:43:20
 OL,1,Wppppppppppppppppppppppppppppppppppppppp
 OL,2,G]ARMV    A]         GAktuelle St|rungen
 OL,3,W#######################################
@@ -133,24 +141,6 @@ OL,15, Ersatzbusse haben eine l{ngere
 OL,16, Fahrzeit. Bitte planen Sie             
 OL,17, entsprechend mehr Zeit ein.            
 OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 10:01 ohne Gew{hr             
-OL,24,AInhalt A-Z BNachrichten  CWetter FSport
-FL,102,112,170,200,0,100
-PN,54207
-SC,0007
-PS,C200
-CT,15,T
-OL,0,           Fhr-textGFr 27.11.26F10:43:17
-OL,1,Wppppppppppppppppppppppppppppppppppppppp
-OL,2,G]ARMV    A]         GAktuelle St|rungen
-OL,3,W#######################################
-OL,4,FWiesbaden: Busse 3, 27, 33 - Umleitung 
-OL,5,Fund Haltestellen entfallen             
-OL,6,CBeginn:   25.11.26 15:00               
-OL,7,CEnde ca:  04.12.26 23:59               
-OL,9, Wiesbaden: Busse 3, 27, 33 - Umleitung 
-OL,10, und Haltestellen entfallen             
-OL,22,BQuelle: RMV          Zusatzverkehr 542 
-OL,23,G]@Stand: 10:01 ohne Gew{hr             
+OL,23,G]@Stand: 20:01 ohne Gew{hr             
 OL,24,AInhalt A-Z BNachrichten  CWetter FSport
 FL,102,112,170,200,0,100

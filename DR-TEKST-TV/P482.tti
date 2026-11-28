@@ -3,28 +3,28 @@ PN,48201
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       GDR   S482  fre 27 nov   10:13:12
+OL,0,       GDR   S482  fre 27 nov   20:13:31
 OL,1,D]G                                     
 OL,2,D]G        KOBENHAVNS          INDENRIGS
 OL,3,D]G        LUFTHAVN            ANKOMST  
 OL,4,T#######################################
 OL,5,CTID  FORV  FLY    FRA            BEMARK
-OL,6, 0930 0933 6I113  Sonderborg    Landed  
-OL,7, 1025 1016 SK1244 Aarhus                
-OL,8, 1125      SK1208 Aalborg               
-OL,9, 1145      SK1282 Billund               
-OL,10, 1240      D83087 Aalborg               
-OL,11, 1400      DX041  Bornholm              
-OL,12, 1440      SK1258 Aarhus                
-OL,13, 1520      SK1214 Aalborg               
-OL,14, 1605      D83089 Aalborg               
-OL,15, 1625      SK1286 Billund               
-OL,16, 1650      6I375  Midtjylland           
-OL,17, 1730      6I107  Sonderborg            
-OL,18, 1730      SK1246 Aarhus                
-OL,19, 1745      DX049  Bornholm              
-OL,20, 1825      SK1218 Aalborg               
-OL,21, 1830      D83091 Aalborg               
+OL,6,   -------  2026-11-27  -------         
+OL,7, 1940 1950 D83093 Aalborg       Landed  
+OL,8, 2000 2005 6I109  Sonderborg    Landed  
+OL,9, 2005 2002 DX053  Bornholm      Landed  
+OL,10, 2055 2102 D83095 Aalborg               
+OL,11, 2205      SK1288 Billund               
+OL,12,   -------  2026-11-28  -------         
+OL,13, 0705      SK1280 Billund               
+OL,14, 0710      SK1228 Aalborg               
+OL,15, 0710      SK1240 Aarhus                
+OL,16, 0930      D83083 Aalborg               
+OL,17, 0945      6I115  Sonderborg            
+OL,18, 1025      SK1244 Aarhus                
+OL,19, 1035      SK1208 Aalborg               
+OL,20, 1040      DX035  Bornholm              
+OL,21, 1130      D83087 Aalborg               
 OL,22, ]A483@UDENRIGS AFG P5A481@INDENRIGS AFG
 OL,23, ]A484@UDENRIGS ANK                 1/2 
 OL,24,  ANyheder    BSport    CTV    FVejret  
@@ -33,27 +33,28 @@ PN,48202
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       GDR   S482  fre 27 nov   10:12:42
+OL,0,       GDR   S482  fre 27 nov   20:13:02
 OL,1,D]G                                     
 OL,2,D]G        KOBENHAVNS          INDENRIGS
 OL,3,D]G        LUFTHAVN            ANKOMST  
 OL,4,T#######################################
 OL,5,CTID  FORV  FLY    FRA            BEMARK
-OL,6, 1925      SK1260 Aarhus                
-OL,7, 1935      SK1204 Aalborg               
-OL,8, 1940      D83093 Aalborg               
-OL,9, 2000      6I109  Sonderborg            
-OL,10, 2005      DX053  Bornholm              
-OL,11, 2055      D83095 Aalborg               
-OL,12, 2205      SK1288 Billund               
-OL,13,   -------  2026-11-28  -------         
+OL,6, 1145      SK1282 Billund               
+OL,7, 1435      DX041  Bornholm              
+OL,8, 1520      SK1214 Aalborg               
+OL,9, 1600      SK1258 Aarhus                
+OL,10, 1630      SK1286 Billund               
+OL,11, 1905      SK1260 Aarhus                
+OL,12, 1950      SK1204 Aalborg               
+OL,13,   -------  2026-11-29  -------         
 OL,14, 0705      SK1280 Billund               
-OL,15, 0710      SK1228 Aalborg               
-OL,16, 0710      SK1240 Aarhus                
-OL,17, 0930      D83083 Aalborg               
-OL,18, 0945      6I115  Sonderborg            
-OL,19, 1025      SK1244 Aarhus                
-OL,20, 1035      SK1208 Aalborg               
+OL,15, 0710      SK1240 Aarhus                
+OL,16, 1025      SK1244 Aarhus                
+OL,17, 1040      DX035  Bornholm              
+OL,18, 1045      D83085 Aalborg               
+OL,19, 1045      SK1208 Aalborg               
+OL,20, 1435      D83087 Aalborg               
+OL,21, 1645      6I121  Sonderborg            
 OL,22, ]A483@UDENRIGS AFG P5A481@INDENRIGS AFG
 OL,23, ]A484@UDENRIGS ANK                 2/2 
 OL,24,  ANyheder    BSport    CTV    FVejret  

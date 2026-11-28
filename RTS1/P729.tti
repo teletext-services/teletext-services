@@ -3,24 +3,24 @@ PN,72901
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 1     27.11.26 13:31:07
+OL,0,       G729  RTS 1     27.11.26 23:30:51
 OL,1,A]GRTS 2     ]@vendredi 27 novembre     
 OL,2,                                    1/2 
 OL,4,G18:40 GFreestyle                       
 OL,5,E 1826 GCoupe du mondeCS-T              
-OL,6,F20:20 FSuisse en sc`ne                 
+OL,6,F20:25 FSuisse en sc`ne                 
 OL,7,E 2005 FJulie ContiCS-TC(R)             
-OL,8,G20:50 GLes SEGPA au ski                
+OL,8,G21:00 GLes SEGPA au ski                
 OL,9,E 2035 CS-T                             
-OL,10,F22:35 FPMU                             
+OL,10,F22:46 FPMU                             
 OL,11,E 2000                                  
-OL,12,G22:40 GZap RTS Sport                   
-OL,13,       CS-T                             
-OL,14,F22:45 FBabylon Berlin..............C707
+OL,12,G22:51 GZap RTS Sport                   
+OL,13,E 2240 CS-T                             
+OL,14,F22:55 FBabylon Berlin..............C708
 OL,15,E 2235 FEpisode 5CI/IICS-TA            
-OL,16,G23:40 GBabylon Berlin..............C709
+OL,16,G23:45 GBabylon Berlin..............C710
 OL,17,E 2330 GEpisode 6CI/IICS-TA            
-OL,18,F00:25 FEn m\me temps...............C711
+OL,18,F00:35 FEn m\me temps...............C711
 OL,19,E 0015 CS-T                             
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -28,14 +28,24 @@ PN,72902
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G729  RTS 1     27.11.26 13:31:07
+OL,0,       G729  RTS 1     27.11.26 23:30:51
 OL,1,A]GRTS 2     ]@vendredi 27 novembre     
 OL,2,                                    2/2 
-OL,4,G02:10 G19h30 - Sign#                   
+OL,4,G02:20 G19h30 - Sign#                   
 OL,5,E 1930 CS-TCLS                          
-OL,6,F02:40 FCouleurs locales                
+OL,6,F02:50 FCouleurs locales                
 OL,7,E 0130 CS-TC(R)                         
-OL,8,G03:00 G19h30 - Sign#                   
+OL,8,G03:05 G19h30 - Sign#                   
 OL,9,E 0150 CS-TCLSC(R)                      
+OL,10,F03:55 F19h30 - Sign#                   
+OL,11,E 0350 CS-TCLSC(R)                      
+OL,12,G04:25 GCouleurs locales                
+OL,13,       CS-TC(R)                         
+OL,14,F04:40 F19h30 - Sign#                   
+OL,15,E 0445 CS-TCLSC(R)                      
+OL,16,G05:10 GCouleurs locales                
+OL,17,E 0515 CS-TC(R)                         
+OL,18,F05:25 F19h30 - Sign#                   
+OL,19,E 0540 CS-TCLSC(R)                      
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

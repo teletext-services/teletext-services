@@ -3,68 +3,90 @@ PN,73401
 SC,0001
 PS,C300
 CT,8,T
-OL,0,       G734  RSI LA 1  27.11.26 03:02:02
-OL,1,A]GRSI   ]@LA2      GIOVEDI 26 novembre 
-OL,2,G                                   1/3 
-OL,3, G04:40  GTelegiornaleCR                
-OL,4, F05:10  FTG Notte                      
-OL,5, G05:30  GAlbachiara in TVCST           
-OL,6, F07:00  FRadiogiornale e lanci     CST 
-OL,7,         Fsport                         
-OL,8, G07:20  GSetteventi in TVCST           
-OL,9, F08:30  FModemCST                      
-OL,10, G09:00  GRadiogiornaleCST              
-OL,11, F09:10  FCasa SvizzeraCST              
-OL,12, G10:00  GMillevoci in TVCST            
-OL,13, F11:00  FMillestorieCST                
-OL,14, G11:45  GControcorrente in TVCST       
-OL,15, F12:35  FSiamo fuoriCST                
-OL,16, G13:40  GEverywhere I go -         CST 
-OL,17,         GCoincidenze d'amore           
-OL,18,         GEpisodio 43                   
-OL,19, F14:25  FCalcio: Champions League  CST 
-OL,20,         F2026/2027                     
-OL,21,         FInter - Stoccarda             
+OL,0,       G734  RSI LA 1  27.11.26 23:01:38
+OL,1,A]GRSI   ]@LA2      VENERDI 27 novembre 
+OL,2,G                                   1/4 
+OL,3, G05:00  GTG Notte                      
+OL,4, F05:15  FMeteoCST                      
+OL,5, G05:20  GCalcio: La partita            
+OL,6, F05:30  FAlbachiara in TVCST           
+OL,7, G07:00  GRadiogiornale e lanci     CST 
+OL,8,         Gsport                         
+OL,9, F07:20  FSetteventi in TVCST           
+OL,10, G08:30  GModemCST                      
+OL,11, F09:00  FRadiogiornaleCST              
+OL,12, G09:10  GCasa SvizzeraCST              
+OL,13, F10:00  FTataki                        
+OL,14, G10:25  GSci di fondo: Coppa del CI/II 
+OL,15,         GMondo 2026/2027               
+OL,16,         G10km individuale femminile    
+OL,17, F11:45  FControcorrente in TVCST       
+OL,18, G12:35  GZeroveroCST                   
+OL,19, F12:55  FSci di fondo: Coppa  CSTCI/II 
+OL,20,         Fdel Mondo 2026/2027           
+OL,21,         F10km individuale maschile     
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73402
 SC,0002
 PS,C300
 CT,8,T
-OL,0,       G734  RSI LA 1  27.11.26 03:02:02
-OL,1,A]GRSI   ]@LA2      GIOVEDI 26 novembre 
-OL,2,G                                   2/3 
-OL,3, G16:10  GBiathlon: Coppa del  CSTCI/II 
-OL,4,         GMondo 2026/2027               
-OL,5,         G20km individuale maschile     
-OL,6, F17:55  FBASKET: PREQUALIFICAZIONI     
-OL,7,         FEUROPEI 2029: SLOVACCHIA -    
-OL,8,         FSVIZZERA                      
-OL,9, G18:25  GCalcio: Conference   CSTCI/II 
-OL,10,         GLeague 2026/2027              
-OL,11,         GAjax - Thun                   
-OL,12, F21:20  FDinastia KnieCSTCI/II.....C710
-OL,13, G23:05  GCalcio: La partita            
-OL,14,         GJablonec - Lugano             
-OL,15, F23:25  FBasket: Pre Qualificazioni    
-OL,16,         FEuropei 2029                  
-OL,17,         FSlovacchia - Svizzera         
-OL,18, G01:10  GTelesguardCST                 
-OL,19, F01:25  FCalcio: Conference League CST 
-OL,20,         F2026/2027                     
-OL,21,         FAjax - Thun                   
+OL,0,       G734  RSI LA 1  27.11.26 23:01:38
+OL,1,A]GRSI   ]@LA2      VENERDI 27 novembre 
+OL,2,G                                   2/4 
+OL,3, G14:10  GCuntrasts                     
+OL,4, F14:45  FGrandi ventiCSTC1TV           
+OL,5,         FAlisei                        
+OL,6, G15:35  GLa signora in gialloCSTCI/II  
+OL,7,         GIn arte Jessica Fox           
+OL,8, F16:30  FLa natura selvaggia degli CST 
+OL,9,         Fanimali domestici             
+OL,10,         FPiccoli segreti               
+OL,11, G17:25  GPrivate EyesCSTCI/II          
+OL,12,         GL'ultimo miglio               
+OL,13, F18:10  FWalker, Texas RangerCSTCI/II  
+OL,14,         FFuria cieca                   
+OL,15, G19:00  GLe sorelle McLeodCSTCI/II     
+OL,16,         GChiamatemi Kate               
+OL,17, F19:50  FModern FamilyCSTCI/II         
+OL,18,         FIl colloquio di lavoro        
+OL,19, G20:15  GTelesguardCST                 
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,73403
 SC,0003
 PS,C300
 CT,8,T
-OL,0,       G734  RSI LA 1  27.11.26 03:02:02
-OL,1,A]GRSI   ]@LA2      GIOVEDI 26 novembre 
-OL,2,G                                   3/3 
-OL,3, G03:05  GBiathlon: Coppa del Mondo CST 
-OL,4,         G2026/2027                     
-OL,5,         G20km individuale maschile     
-OL,6, F04:45  FMeteoCST                      
+OL,0,       G734  RSI LA 1  27.11.26 23:01:38
+OL,1,A]GRSI   ]@LA2      VENERDI 27 novembre 
+OL,2,G                                   3/4 
+OL,3, F20:35  FIl piacere } tuttoCSTCI/IIC710
+OL,4,         Fmio                           
+OL,5, G22:20  GQualcosa di dolceCST          
+OL,6, F23:00  FA tutto hockey                
+OL,7, G23:25  GMaidCSTCI/II                  
+OL,8,         GVetro di mare                 
+OL,9, F00:10  FMaidCSTCI/II                  
+OL,10,         FCashmere                      
+OL,11, G00:55  GTelesguardCST                 
+OL,12, F01:05  FA tutto hockey                
+OL,13, G01:30  GSci di fondo: Coppa del   CST 
+OL,14,         GMondo 2026/2027               
+OL,15,         G10km individuale femminile    
+OL,16, F02:40  FSci di fondo: Coppa del   CST 
+OL,17,         FMondo 2026/2027               
+OL,18,         F10km individuale maschile     
+OL,19, G03:50  GTG Notte                      
+OL,20, F04:10  FMeteoCST                      
+OL,24,AIndice    BSport    CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,73404
+SC,0004
+PS,C300
+CT,8,T
+OL,0,       G734  RSI LA 1  27.11.26 23:01:38
+OL,1,A]GRSI   ]@LA2      VENERDI 27 novembre 
+OL,2,G                                   4/4 
+OL,3, G04:15  GIl QuotidianoCST              
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

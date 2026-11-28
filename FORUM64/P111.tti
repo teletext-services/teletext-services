@@ -3,33 +3,67 @@ PN,11101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GFr 27 Nov F10:22:15
+OL,0,         GFORUM64   GFr 27 Nov F20:22:14
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,2,EVICE 3.10 ver|ffentlicht               
-OL,4,CAntwort:  BJoystick                    
-OL,5,CComments: B106                         
-OL,6,F                                       
-OL,7,FHilft das weiter? *                    
-OL,8,Fhttps://github.com/VICE-Team/svn-mirror
-OL,9,F/releases *                            
-OL,10,Fhttps://svn.code.sf.net/p/vice-emu/code
-OL,11,F/trunk/                                
-OL,13,FGoogle Gemini meint dazu: <KI Meinung> 
-OL,14,FDas SVN-Repository des VICE-Emulators  
-OL,15,Fauf SourceForge besteht weiterhin (    
-OL,17,CErster Beitrag:                        
-OL,19,GHallo,                                 
-OL,21,Gp}nktlich zum Heiligabend wurde die    
-OL,22,Gneue stable VICE Version 3.10          
-OL,23,Gver|ffentlicht.                        
-OL,24,D]FForum64.de RSS feed            (1/2) 
+OL,2,EMinutenlange DIGI Samples aus den C64  
+OL,3,ERAM spielen - VQ Digi Looper           
+OL,5,CAntwort:  BivettaB                     
+OL,6,CComments: B0                           
+OL,7,F                                       
+OL,8,FHabe vor kurzem vom VQ encoder gelesen 
+OL,9,Fund bemerkt das man damit 47 sec Audio 
+OL,10,Fin die Brotdose quetschen kann... nicht
+OL,11,Fschlecht.                              
+OL,13,FDann }berlegte ich mir wie man einen   
+OL,14,FSample Slicer bauen kann der {hnliche  
+OL,15,FTeile aus einem Song (am besten mit    
+OL,16,FInstrumental                           
+OL,18,CErster Beitrag:                        
+OL,20,GHabe vor kurzem vom VQ encoder gelesen 
+OL,21,Gund bemerkt das man damit 47 sec Audio 
+OL,22,Gin die Brotdose quetschen kann... nicht
+OL,23,Gschlecht.                              
+OL,24,D]FForum64.de RSS feed            (1/3) 
 FL,0,0,0,0,0,100
 PN,11102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,         GFORUM64   GFr 27 Nov F10:22:15
+OL,0,         GFORUM64   GFr 27 Nov F20:22:14
 OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,Ghttps://vice-emu.sourceforge.io/       
-OL,24,D]FForum64.de RSS feed            (2/2) 
+OL,3,GDann }berlegte ich mir wie man einen   
+OL,4,GSample Slicer bauen kann der {hnliche  
+OL,5,GTeile aus einem Song (am besten mit    
+OL,6,GInstrumental Musik) heraus schneiden   
+OL,7,Gkann und in einer Segmentliste die die 
+OL,8,GSong Struktur beschreibt, das Lied     
+OL,9,Gdaraus wieder rekonstruiert....        
+OL,10,GBedeutet 3-5 Minuten D418 Digi Sound am
+OL,11,GC64 aus dem eingebauten RAM....        
+OL,13,Gkrass aber es geht.... PC tools im ZIP 
+OL,15,Gman braucht acme assembler um das      
+OL,16,GPlayerfile in ein C64 Programm zu      
+OL,17,Gwandeln, oder wie ich es gerne mache im
+OL,18,GC64 Studio, meinem Lieblings Editor    
+OL,20,GWie verwenden: ein Wav File aus seinem 
+OL,21,GLieblingssong erzeugen (audacity oder  
+OL,22,GVLC Player mit Konvertieren -> CD Audio
+OL,24,D]FForum64.de RSS feed            (2/3) 
+FL,0,0,0,0,0,100
+PN,11103
+SC,0003
+PS,C200
+CT,15,T
+OL,0,         GFORUM64   GFr 27 Nov F20:22:14
+OL,1,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,G-> ausgabepfad , Play)                 
+OL,5,GOder einfach MP3 flac oder sonstige    
+OL,6,Gaudiofiles anlegen und                 
+OL,8,Gpython c64song.py                      
+OL,10,Gaufrufen in der console.               
+OL,12,Gdas wandelt (solange FFMPEG installiert
+OL,13,Gund im Path bei Windows als            
+OL,14,Gumgebungsvariable hinterlegt ist) das  
+OL,15,Gin WAV in einen                        
+OL,24,D]FForum64.de RSS feed            (3/3) 
 FL,0,0,0,0,0,100

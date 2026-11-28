@@ -3,50 +3,49 @@ PN,72801
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G728  RTS 2     27.11.26 13:42:44
+OL,0,       G728  RTS 2     27.11.26 23:42:18
 OL,1,D]GRTS 1     ]@vendredi 27 novembre     
 OL,2,                                    1/2 
-OL,4,G06:00 GJeunesse                        
-OL,6,F09:35 FQuel temps fait-il ?            
-OL,7,E 0930 CS-T                             
-OL,8,G09:40 GBaltic crimes                   
-OL,9,E 0945 GBateau fant|meCI/IICS-T         
-OL,10,F11:15 FTop ModelsCI/IICS-T             
-OL,11,E 1125                                  
-OL,12,G11:40 GPlus belle la vie, encore       
-OL,13,E 1145 Gplus belleCS-T                  
-OL,15,F12:10 FDemain nous appartientCS-T      
-OL,16,E 1205                                  
-OL,17,G12:45 G12h45                           
-OL,18,       CS-T                             
-OL,19,F13:10 FM#t#o                           
-OL,20,E 1305 CS-T                             
+OL,4,G09:35 GQuel temps fait-il ?            
+OL,5,E 0930 CS-T                             
+OL,6,F09:40 FBaltic crimes                   
+OL,7,E 0945 FBateau fant|meCI/IICS-T         
+OL,8,G11:15 GTop ModelsCI/IICS-T             
+OL,9,E 1125                                  
+OL,10,F11:40 FPlus belle la vie, encore       
+OL,11,E 1145 Fplus belleCS-T                  
+OL,13,G12:10 GDemain nous appartientCS-T      
+OL,14,E 1205                                  
+OL,15,F12:45 F12h45                           
+OL,16,       CS-T                             
+OL,17,G13:10 GM#t#o                           
+OL,18,E 1305 CS-T                             
+OL,19,F13:20 FMonsieur No[l et moi            
+OL,20,E 1315 CI/IICS-T                        
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,72802
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G728  RTS 2     27.11.26 13:42:44
+OL,0,       G728  RTS 2     27.11.26 23:42:18
 OL,1,D]GRTS 1     ]@vendredi 27 novembre     
 OL,2,                                    2/2 
-OL,4,G13:20 GMonsieur No[l et moi            
-OL,5,E 1315 CI/IICS-T                        
-OL,6,F14:55 FLe vignoble de No[l             
-OL,7,       CI/IICS-T                        
-OL,8,G16:45 GHPI                             
-OL,9,E 1700 GRecto-VersoCS-T                 
-OL,10,F17:50 FIci tout commenceCS-T           
-OL,11,E 1810                                  
-OL,12,G18:25 GC'est ma question               
-OL,13,E 1820 CS-T                             
-OL,14,F18:55 FM#t#o r#gionale                 
-OL,15,E 1850 CS-T                             
-OL,16,G19:00 GCouleurs locales                
-OL,17,       CS-T                             
-OL,18,F19:20 FM#t#o                           
-OL,19,E 1915 CS-T                             
-OL,20,G19:30 G19h30                           
-OL,21,       CS-T                             
+OL,4,G15:00 GLe vignoble de No[l             
+OL,5,E 1455 CI/IICS-T                        
+OL,6,F16:45 FHPI                             
+OL,7,E 1700 FRecto-VersoCS-T                 
+OL,8,G17:50 GIci tout commenceCS-T           
+OL,9,E 1810                                  
+OL,10,F18:25 FC'est ma question               
+OL,11,E 1820 CS-T                             
+OL,12,G18:55 GM#t#o r#gionale                 
+OL,13,E 1850 CS-T                             
+OL,14,F19:00 FCouleurs locales                
+OL,15,       CS-T                             
+OL,16,G19:20 GM#t#o                           
+OL,17,E 1915 CS-T                             
+OL,18,F19:30 F19h30                           
+OL,19,       CS-T                             
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

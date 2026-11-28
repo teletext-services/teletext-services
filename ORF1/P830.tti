@@ -3,53 +3,41 @@ PN,83001
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G830FORF1   GFr 27.11.26 12:21:12
+OL,0,       G830FORF1   GFr 27.11.26 22:21:10
 OL,1,A]G                      Flughafen Graz 
 OL,2,A]GFLUGHAFEN  ]A               Ankunft \
 OL,3,Q#############G                    1/2  
 OL,4,CFlug    von          Plan aktuell      
-OL,5,FEW 7756 Hamburg      1210C1230Versp{tet
-OL,6,GLH 2342 M}nchen      1305B             
-OL,7,FENT534  Karlsruhe    1320C    Versp{tet
-OL,8,GLH 1252 Frankfurt    1355B             
-OL,9,FEW 8346 Berlin       1405B             
-OL,10,GEW 9724 D}sseldorf   1535B             
-OL,11,FBA 2632 London LGW   1755B             
-OL,12,GLX 1512 Z}rich       1800B             
-OL,13,FLH 2348 M}nchen      2235B             
-OL,14,GLH 1256 Frankfurt    2240B             
-OL,15,FEN 2340 M}nchen      0910B      28.11  
-OL,16,GLX 1512 Z}rich       0955B      28.11  
-OL,17,FLH 1252 Frankfurt    1355B      28.11  
-OL,18,GLH 2344 M}nchen      1545B      28.11  
-OL,19,FLH 1256 Frankfurt    2240B      28.11  
-OL,23,Q,,,,F12:19hGFlughafen GrazF0316/2902-0 
+OL,5,FLH 2348 M}nchen      2235B2232         
+OL,6,GLH 1256 Frankfurt    2240B2236         
+OL,7,FEN 2340 M}nchen      0910B      28.11  
+OL,8,GLX 1512 Z}rich       0955B      28.11  
+OL,9,FLH 1252 Frankfurt    1355B      28.11  
+OL,10,GLH 2344 M}nchen      1545B      28.11  
+OL,11,FLH 1256 Frankfurt    2240B      28.11  
+OL,12,GEN 2340 M}nchen      0910B      29.11  
+OL,13,FLH 1250 Frankfurt    0940B      29.11  
+OL,23,Q,,,,F21:59hGFlughafen GrazF0316/2902-0 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100
 PN,83002
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G830FORF1   GFr 27.11.26 12:21:13
+OL,0,       G830FORF1   GFr 27.11.26 22:21:10
 OL,1,A]G                      Flughafen Graz 
 OL,2,A]GFLUGHAFEN  ]A                Abflug \
 OL,3,Q#############G                    2/2  
 OL,4,CFlug    nach         Plan aktuell      
-OL,5,FEW 7757 Hamburg      1255C1315Versp{tet
-OL,6,GLH 2343 M}nchen      1350B             
-OL,7,FENT534P Linz         1410B    ]berstell
-OL,8,GLH 1253 Frankfurt    1435B             
-OL,9,FEW 8347 Berlin       1450B             
-OL,10,GEW 9725 D}sseldorf   1620B             
-OL,11,FLX 1513 Z}rich       1845B             
-OL,12,GBA 2633 London LGW   1855B             
-OL,13,FLH 1257 Frankfurt    0600B      28.11  
-OL,14,GLH 2349 M}nchen      0605B      28.11  
-OL,15,FEN 2341 M}nchen      0950B      28.11  
-OL,16,GLX 1513 Z}rich       1040B      28.11  
-OL,17,FLH 1253 Frankfurt    1435B      28.11  
-OL,18,GLH 2345 M}nchen      1625B      28.11  
-OL,19,FCC 4043 Liege        2200B      28.11  
-OL,23,Q,,,,F12:19hGFlughafen GrazF0316/2902-0 
+OL,5,FLH 1257 Frankfurt    0600B      28.11  
+OL,6,GLH 2349 M}nchen      0605B      28.11  
+OL,7,FEN 2341 M}nchen      0950B      28.11  
+OL,8,GLX 1513 Z}rich       1040B      28.11  
+OL,9,FLH 1253 Frankfurt    1435B      28.11  
+OL,10,GLH 2345 M}nchen      1625B      28.11  
+OL,11,FLH 1257 Frankfurt    0600B      29.11  
+OL,12,GEN 2341 M}nchen      0950B      29.11  
+OL,13,FLH 1251 Frankfurt    1020B      29.11  
+OL,23,Q,,,,F21:59hGFlughafen GrazF0316/2902-0 
 OL,24,A]bersicht BSchlagzeilen CSport  FWetter
 FL,100,111,200,600,0,100

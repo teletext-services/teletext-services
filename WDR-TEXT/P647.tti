@@ -1,29 +1,45 @@
 DE,WDR-TEXT 647
-PN,64700
-SC,0000
-PS,8208
+PN,64701
+SC,0001
+PS,C200
 CT,15,T
-OL,0,     G647 WDR Text GFr 27.11.26 17:46:45
+OL,0,     G647 WDR Text GSa 28.11.26 03:46:24
 OL,1,]D]        G]               @]    CSPORT
 OL,2,]D]GWDR     ]DLive-Ticker    ]          
 OL,3,]T5D     Fu~ball: 2. Bundesliga/M  
-OL,5,CBochum : Darmstadt                 -:- 
-OL,6, 0. Beim VfL Bochum ist die Lage trotz  
-OL,7, eines zwischenzeitlichen               
-OL,8, Aufw{rtstrends weiterhin angespannt.   
-OL,9, Nach vier Pflichtspielen ohne          
-OL,10, Niederlage mussten die Westfalen       
-OL,11, zuletzt beim FC St. Pauli mit einem    
-OL,12, 0:2 wieder einen R}ckschlag            
-OL,13, hinnehmen. Mit 14 Punkten aus zw|lf    
-OL,14, Spieltagen steht der VfL auf Rang elf  
-OL,15,   der Blick auf die Heimtabelle f{llt  
-OL,16, allerdings noch ern}chternder aus.     
-OL,17, Dort belegen die Bochumer mit gerade   
-OL,18, einmal f}nf Punkten aus sechs Partien  
-OL,19, den vorletzten Platz. Der Vorsprung    
-OL,20, auf den Relegationsrang 16 betr{gt     
-OL,21, zudem nur zwei Z{hler. Die Situation   
+OL,5,CBochum : Darmstadt            2:0 (0:0)
+OL,7,CTore:                                  
+OL,8, 1:0 Hofmann (81.) 2:0 Taz (90.)        
+OL,10,CStrafen:                               
+OL,11,S|GL}hrs (21.)                          
+OL,13,CZuschauer: G20.239                     
+OL,15,CSR: GTom Bauer                         
 OL,23,]D600 < ]bersicht      Live-Ticker > 648
-OL,24,A]G- 646B]G+ 648  \                     
+OL,24,A]G- 646B]G+ 648  \               G(1/2)
+FL,646,648,0,0,0,100
+PN,64702
+SC,0002
+PS,C200
+CT,15,T
+OL,0,     G647 WDR Text GSa 28.11.26 03:46:24
+OL,1,]D]        G]               @]    CSPORT
+OL,2,]D]GWDR     ]DLive-Ticker    ]          
+OL,3,]T5D     Fu~ball: 2. Bundesliga/M  
+OL,5,CBochum : Darmstadt            2:0 (0:0)
+OL,7,CAustellungen:                          
+OL,9,CBochum                                 
+OL,10, Horn Wittek Mets Steinwender           
+OL,11, Klaiber (76. Olsen)                    
+OL,12, Pannewig (82. Mbom)                    
+OL,13,  okaj (62. Pati o)                     
+OL,14, Miyoshi (75. Ouro-Tagba)               
+OL,15, Steuckers (62. Taz) Rasmussen Hofmann  
+OL,16,CDarmstadt                              
+OL,17, Schuhen Petretta Vukoti  L}hrs         
+OL,18, Akiyama (79. Papela)                   
+OL,19, Wei~haupt (79. El Kadiri) Richter      
+OL,20, Klefisch Bader (62. Mikelbrencis)      
+OL,21, Smit Kehl (62. Lee)                    
+OL,23,]D600 < ]bersicht      Live-Ticker > 648
+OL,24,A]G- 646B]G+ 648  \               G(2/2)
 FL,646,648,0,0,0,100

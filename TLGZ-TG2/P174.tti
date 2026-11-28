@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     174Cpi@ 27 lis  17:21:33
+OL,0,      BTVP2     174Csob 28 lis  03:21:27
 OL,1,D]GPROGNOZA POGODY        ]D27/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FKRAKOW                          ZV,,,, 
 OL,4, pi@.   B-1  C0 Gca}k. F14NE G995       
-OL,5, sob.   B-3 C-1 Gca}k. F18E G1008       
-OL,6, nie.   B-5 C-3 Gdu{e  F14E G1011       
-OL,7, pon.                                   
+OL,5, sob.   B-3  C0 Gca}k. F14E G1008       
+OL,6, nie.   B-4 C-2 Gumiar F14E G1010       
+OL,7, pon.   B-6 C-2 Gumiar  F7NEG1009       
 OL,8, wt.                                    
 OL,9,FZAKOPANE                        ZV,,,, 
 OL,10, pi@.   B-4 C-3 Gca}k.  F7NE G905       
-OL,11, sob.  B-10 C-4 Gdu{e  F10NE G916       
-OL,12, nie.  B-12 C-5 Gma}e   F7N  G919       
-OL,13, pon.                                   
+OL,11, sob.  B-10 C-5 Gdu{e  F10NE G916       
+OL,12, nie.  B-12 C-5 Gbrak   F7NW G918       
+OL,13, pon.  B-10 C-4 Gma}e   F7NW G919       
 OL,14, wt.                                    
 FL,173,175,180,180,0,100
 PN,17402
@@ -25,20 +25,20 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     174Cpi@ 27 lis  17:21:33
+OL,0,      BTVP2     174Csob 28 lis  03:21:27
 OL,1,D]GPROGNOZA POGODY        ]D27/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FKASPROWY WIERCH                 ZV,,,, 
 OL,4, pi@.   B-5 C-1 Gca}k.  F3NW G831       
-OL,5, sob.  B-11 C-4 Gumiar  F7NE G840       
-OL,6, nie.  B-14 C-8 Gbrak   F7SE G844       
-OL,7, pon.                                   
+OL,5, sob.  B-11 C-5 Gumiar  F7NE G841       
+OL,6, nie.  B-15 C-7 Gbrak   F7S  G844       
+OL,7, pon.  B-14 C-8 Gma}e  F10S  G845       
 OL,8, wt.                                    
 OL,9,FTARNOW                          ZV,,,, 
 OL,10, pi@.   B-1  C0 Gca}k. F14NE G994       
-OL,11, sob.   B-3 C-1 Gca}k. F14E G1007       
-OL,12, nie.   B-6 C-3 Gdu{e  F14E G1010       
-OL,13, pon.                                   
+OL,11, sob.   B-2 C-1 Gca}k. F14E G1007       
+OL,12, nie.   B-5 C-1 Gumiar F14E G1009       
+OL,13, pon.   B-5 C-1 Gma}e   F7SEG1008       
 OL,14, wt.                                    
 FL,173,175,180,180,0,100
 PN,17403
@@ -46,20 +46,20 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     174Cpi@ 27 lis  17:21:33
+OL,0,      BTVP2     174Csob 28 lis  03:21:27
 OL,1,D]GPROGNOZA POGODY        ]D27/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FNOWY SACZ                       ZV,,,, 
 OL,4, pi@.   B-1  C0 Gca}k.  F7NE G982       
-OL,5, sob.   B-4 C-1 Gca}k. F10NE G994       
-OL,6, nie.   B-6 C-4 Gdu{e   F3NE G998       
-OL,7, pon.                                   
+OL,5, sob.   B-4 C-1 Gca}k. F10NE G995       
+OL,6, nie.   B-6 C-3 Gumiar  F3E  G997       
+OL,7, pon.   B-8 C-2 Gumiar  F3SE G996       
 OL,8, wt.                                    
 OL,9,FKRYNICA-ZDROJ                   ZV,,,, 
 OL,10, pi@.   B-4 C-3 Gca}k. F14NE G925       
-OL,11, sob.   B-8 C-4 Gca}k. F18NE G936       
-OL,12, nie.  B-10 C-7 Gumiar  F7NE G940       
-OL,13, pon.                                   
+OL,11, sob.   B-8 C-5 Gca}k. F18NE G937       
+OL,12, nie.   B-9 C-6 Gumiar  F7E  G939       
+OL,13, pon.   B-8 C-3 Gma}e  F10SW G939       
 OL,14, wt.                                    
 FL,173,175,180,180,0,100
 PN,17404
@@ -67,13 +67,13 @@ SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     174Cpi@ 27 lis  17:21:33
+OL,0,      BTVP2     174Csob 28 lis  03:21:27
 OL,1,D]GPROGNOZA POGODY        ]D27/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FSZCZAWNICA                      ZV,,,, 
 OL,4, pi@.   B-3 C-2 Gca}k.  F7N  G937       
-OL,5, sob.   B-8 C-3 Gdu{e   F7NE G948       
-OL,6, nie.  B-12 C-5 Gma}e   F3N  G951       
-OL,7, pon.                                   
+OL,5, sob.   B-8 C-4 Gdu{e   F7NE G949       
+OL,6, nie.  B-11 C-4 Gma}e   F3NE G951       
+OL,7, pon.   B-8 C-1 Gma}e   F7S  G950       
 OL,8, wt.                                    
 FL,173,175,180,180,0,100

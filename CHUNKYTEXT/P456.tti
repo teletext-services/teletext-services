@@ -28,7 +28,7 @@ OL,21,ield~w~h~bSelect channel (1-4): 1~q~\\G~
 OL,22,7~Z~q~]`I~[~7~Z~q~]`I~[!~[~q~]\G!~[~q~]\
 OL,23,G~7~Z~q~\\G_~[~q~]`I~[_~[~q~]`I~[`I~[~q~
 OL,24,]\G`I~[~q~]\G_~[~oG~^~wGGGGGG~n~_|c     
-FL,412,413,414,411,0,100
+FL,450,460,106,101,0,100
 PN,45602
 SC,0002
 PS,C000
@@ -58,7 +58,7 @@ OL,21,ppears onLleftZs though lookingZtZGtKsig
 OL,22,nal onZ television screen.GGNext,Loperat
 OL,23,ing system's IRQ1 vector is redirected v
 OL,24,iaZ new interruptGservice routine to han
-FL,412,413,414,411,0,100
+FL,450,460,106,101,0,100
 PN,45603
 SC,0003
 PS,C000
@@ -88,7 +88,7 @@ OL,21,re detection ofLoddZnd evenGtelevision f
 OL,22,ield, but consistently displaying them i
 OL,23,nLdifferent boxesGisZ desirable feature,
 OL,24,Zs it permitsLstudy of tKservices usingG
-FL,412,413,414,411,0,100
+FL,450,460,106,101,0,100
 PN,45604
 SC,0004
 PS,C000
@@ -118,7 +118,7 @@ OL,21, It gave meGan interesting but small pro
 OL,22,ject to tackle to stimulate learningZ ne
 OL,23,w CPUGarchitecture.GGThe secondary objec
 OL,24,tive was to exerciseLAcorn tKhardwareZtZ
-FL,412,413,414,411,0,100
+FL,450,460,106,101,0,100
 PN,45605
 SC,0005
 PS,C000
@@ -135,4 +135,4 @@ OL,8,BBC micro's display modes, VDUGdriver,Zn
 OL,9,d operating system internals - though I 
 OL,10,still haveZ lot more toGlearn.GGGGGGGGGG
 OL,11,GGGGGGGGGGGGGGJJJJJJJJ  Page 2GGGGG|c   
-FL,412,413,414,411,0,100
+FL,450,460,106,101,0,100

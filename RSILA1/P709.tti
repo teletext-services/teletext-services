@@ -3,14 +3,26 @@ PN,70900
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G709  RSI LA 1  23.11.26 04:59:37
-OL,1,A]GRSI   ]@LA1       LUNEDI 23 novembre 
+OL,0,       G709  RSI LA 1  27.11.26 23:01:18
+OL,1,A]GRSI   ]@LA1       SABATO 28 novembre 
 OL,2,G                                       
-OL,3, F02:40  FMeteoCST                      
-OL,4, G02:45  GPrima OraCST                  
-OL,5, F03:40  FIl QuotidianoCST              
-OL,6, G04:10  GTelegiornaleCST               
-OL,7, F04:35  FTG Notte                      
-OL,8, G04:55  GMeteoCST                      
+OL,3, F15:20  FUn amore di       CSTCI/IIC717
+OL,4,         Ftestimone                     
+OL,5, G17:00  GIl giardino di AlbertCST..C724
+OL,6,         GL'agguato del web             
+OL,7, F18:00  FTelegiornale flashCST         
+OL,8, G18:10  GScacciapensieriCSTCI/II       
+OL,9, F18:35  FStrada reginaCST              
+OL,10, G19:00  GIl QuotidianoCST              
+OL,11, F19:15  Fneo.CST                       
+OL,12, G19:40  GInsiemeCST                    
+OL,13, F19:50  FLotto Svizzero                
+OL,14, G19:55  GMeteo regionaleCST            
+OL,15, F20:00  FTelegiornaleCST               
+OL,16, G20:35  GMeteoCST                      
+OL,17, F20:40  FBlackoutCST                   
+OL,18, G21:50  GTower Heist -     CSTCI/IIC718
+OL,19,         GColpo ad alto                 
+OL,20,         Glivello                       
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

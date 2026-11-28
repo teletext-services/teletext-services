@@ -3,7 +3,7 @@ PN,42501
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G425 YLE TEKSTI-TV 27.03.15:50:46
+OL,0,       G425 YLE TEKSTI-TV 28.03.01:51:07
 OL,1,D]G         TAMPERE-PIRKKALA        1/6 
 OL,2,D]G       L{htev{t/Departures           
 OL,3,F]D06:00 Helsinki   AY270               
@@ -33,12 +33,12 @@ PN,42502
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G425 YLE TEKSTI-TV 27.03.15:50:46
+OL,0,       G425 YLE TEKSTI-TV 28.03.01:51:07
 OL,1,D]G         TAMPERE-PIRKKALA        2/6 
 OL,2,F]D        Saapuvat/Arrivals            
-OL,3,D]G00:20 Helsinki   AY269               
-OL,4,F]D00:55 Riika      BT357               
-OL,5,F]D11:55 Oulu       AY644               
+OL,3,D]G11:55 Oulu       AY644               
+OL,4,F]D17:35 Malaga     BT526               
+OL,5,F]D00:20 Helsinki   AY269               
 OL,6,D]G                                     
 OL,7,D]G                                     
 OL,8,F]D                                     
@@ -63,14 +63,14 @@ PN,42503
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G425 YLE TEKSTI-TV 27.03.15:50:46
+OL,0,       G425 YLE TEKSTI-TV 28.03.01:51:07
 OL,1,D]G         TURKU                   3/6 
 OL,2,D]G       L{htev{t/Departures           
-OL,3,F]D17:20 Tukholma   SK2727              
-OL,4,D]G05:25 Riika      BT360               
-OL,5,D]G06:00 Helsinki   AY230               
-OL,6,F]D09:15 Gdansk     W61752              
-OL,7,F]D11:55 Helsinki   AY654               
+OL,3,F]D05:25 Riika      BT360               
+OL,4,D]G06:00 Helsinki   AY230               
+OL,5,D]G09:15 Gdansk     W61752              
+OL,6,F]D11:55 Helsinki   AY654               
+OL,7,F]D                                     
 OL,8,D]G                                     
 OL,9,D]G                                     
 OL,10,F]D                                     
@@ -93,14 +93,14 @@ PN,42504
 SC,0004
 PS,C100
 CT,15,T
-OL,0,       G425 YLE TEKSTI-TV 27.03.15:50:46
+OL,0,       G425 YLE TEKSTI-TV 28.03.01:51:07
 OL,1,D]G         TURKU                   4/6 
 OL,2,F]D        Saapuvat/Arrivals            
-OL,3,D]G16:50 Tukholma   SK2728 LaskeutE16:41
-OL,4,F]D00:20 Helsinki   AY229               
-OL,5,F]D00:50 Riika      BT359               
-OL,6,D]G08:40 Gdansk     W61751              
-OL,7,D]G11:30 Tukholma   AY654               
+OL,3,D]G08:40 Gdansk     W61751              
+OL,4,F]D11:30 Tukholma   AY654               
+OL,5,F]D00:20 Helsinki   AY229               
+OL,6,D]G                                     
+OL,7,D]G                                     
 OL,8,F]D                                     
 OL,9,F]D                                     
 OL,10,D]G                                     
@@ -123,18 +123,18 @@ PN,42505
 SC,0005
 PS,C100
 CT,15,T
-OL,0,       G425 YLE TEKSTI-TV 27.03.15:50:46
+OL,0,       G425 YLE TEKSTI-TV 28.03.01:51:07
 OL,1,D]G         OULU                    5/6 
 OL,2,D]G       L{htev{t/Departures           
-OL,3,F]D15:55 Helsinki   AY440  Portill 17:00
-OL,4,D]G16:45 Helsinki   AY442  Peruttu      
-OL,5,D]G17:45 Helsinki   AY444  Arvioit 18:00
-OL,6,F]D22:15 Helsinki   AY456               
-OL,7,F]D22:40 Helsinki   AY446               
-OL,8,D]G05:35 Helsinki   AY450               
-OL,9,D]G08:55 Helsinki   AY434               
-OL,10,F]D10:55 Tampere    AY644               
-OL,11,F]D14:20 Helsinki   AY438               
+OL,3,F]D16:45 Helsinki   AY442  Peruttu      
+OL,4,D]G05:35 Helsinki   AY450               
+OL,5,D]G08:55 Helsinki   AY434               
+OL,6,F]D10:55 Tampere    AY644               
+OL,7,F]D14:20 Helsinki   AY438               
+OL,8,D]G17:45 Helsinki   AY444               
+OL,9,D]G22:40 Helsinki   AY446               
+OL,10,F]D                                     
+OL,11,F]D                                     
 OL,12,D]G                                     
 OL,13,D]G                                     
 OL,14,F]D                                     
@@ -153,18 +153,18 @@ PN,42506
 SC,0006
 PS,C100
 CT,15,T
-OL,0,       G425 YLE TEKSTI-TV 27.03.15:50:46
+OL,0,       G425 YLE TEKSTI-TV 28.03.01:51:07
 OL,1,D]G         OULU                    6/6 
 OL,2,F]D        Saapuvat/Arrivals            
-OL,3,D]G15:15 Helsinki   AY439  LaskeutE16:26
-OL,4,F]D16:05 Helsinki   AY441  Peruttu      
-OL,5,F]D17:05 Helsinki   AY443  Arvioit 17:26
-OL,6,D]G21:35 Helsinki   AY455               
-OL,7,D]G22:00 Helsinki   AY445               
-OL,8,F]D01:05 Helsinki   AY449               
-OL,9,F]D08:15 Helsinki   AY433               
-OL,10,D]G10:30 Helsinki   AY435               
-OL,11,D]G13:40 Helsinki   AY437               
+OL,3,D]G16:05 Helsinki   AY441  Peruttu      
+OL,4,F]D08:15 Helsinki   AY433               
+OL,5,F]D10:30 Helsinki   AY435               
+OL,6,D]G13:40 Helsinki   AY437               
+OL,7,D]G17:05 Helsinki   AY443               
+OL,8,F]D22:00 Helsinki   AY445               
+OL,9,F]D01:05 Helsinki   AY449               
+OL,10,D]G                                     
+OL,11,D]G                                     
 OL,12,F]D                                     
 OL,13,F]D                                     
 OL,14,D]G                                     

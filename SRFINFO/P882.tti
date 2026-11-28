@@ -3,25 +3,25 @@ PN,88201
 SC,0001
 PS,C200
 CT,8,T
-OL,0,       G882  SRF info  27.11.26 14:29:47
-OL,1,D]GPC-Date 27/11/2026  GDOG4 AT 14:25:57
+OL,0,       G882  SRF info  28.11.26 00:28:45
+OL,1,D]GPC-Date 28/11/2026  GDOG4 AT 00:27:52
 OL,2,G]                                      
 OL,3,G]                                      
 OL,4,G]                                      
-OL,5,F]D14:10 SRDRS              D14:25 TICKX
-OL,6,G]D14:24 TVSF1 D14:15 TVSFi D14:21 WDPRO
-OL,7,G]D14:14 TVSF2                          
+OL,5,F]G00:10 SRDRS              G00:26 TICKX
+OL,6,G]F00:27 TVSF1 F00:11 TVSFi F00:23 WDPRO
+OL,7,G]F00:25 TVSF2                          
 OL,8,F]                                      
 OL,9,G]                                      
 OL,10,G]              0                       
-OL,11,F]F27/14 WISPDGF27/14 WISPFGF27/14 WISPI
+OL,11,F]F27/19 WISPDGF27/19 WISPFGF27/19 WISPI
 OL,12,G]                                      
-OL,13,G]                          D12.00 METSF
+OL,13,G]                          F18.00 METSF
 OL,14,F]                                      
 OL,15,G]                                      
-OL,16,G]             D12:01 METSIG            
-OL,17,F]             D27SR1D27SR2GD27SI1D27SI2
-OL,18,G]             G  !0  AGTICGD14:25 PRZCH
+OL,16,G]             F00:01 METSIG            
+OL,17,F]             GnaSR1GnaSR2GGnaSI1GnaSI2
+OL,18,G]             G  /0  AGTICGF00:25 PRZCH
 OL,19,G]             G22!07GSECO2             
 OL,20,F] 0            0                       
 OL,21,G]                                      
@@ -33,25 +33,25 @@ PN,88202
 SC,0002
 PS,C200
 CT,8,T
-OL,0,       G882  SRF info  27.11.26 14:29:47
-OL,1,D]GSTXTS0 D]GF27.11. 14:00 /G   14:25:49
+OL,0,       G882  SRF info  28.11.26 00:28:45
+OL,1,D]GSTXTS0 D]GF28.11. 00:00 /G   00:27:39
 OL,2,D]GDSK Us/Te IntmLk PLnk1 Plnk2 Dog Time
-OL,3,C1G425G 7/ 7GOKG   G 0000G 0000G 0G14:25
-OL,4,C2G265G 0/ 0GOKG   G    0G    0G 0G14:25
+OL,3,C1G424G 4/ 4GOKG   G 0000G 0000G 0G00:27
+OL,4,C2G265G 0/ 0GOKG   G    0G    0G 0G00:27
 OL,5,CDG584G  /  GOKG OKG     G     F 1F07:08
 OL,6,D]GDK0 Que  Max SQue Sts PmemST DogGADMN
 OL,7,Z1E   G   0G   1G  0G   G      F  F     
 OL,8,Z2E   G    G    G   E   G      F  F     
-OL,9,G1E   G   0G   3G  0G   G      F  F     
+OL,9,G1E   G   0G   0G  0G   G      F  F     
 OL,10,G2E   G    G    G   E   G      F  F     
-OL,11,L1E   G   0G   3G  0G   G      F  F     
+OL,11,L1E   G   0G   0G  0G   G      F  F     
 OL,12,L2E   G    G    G   E   G      F  F     
 OL,13,P1E   G    G   0G   G   G      F  F     
 OL,14,P2E   G    G    G   E   G      F  F     
 OL,15,TxE   G    G   0G   GA  G      F  F     
 OL,16,ZoE   G    G   0G   GA  G      F  F     
 OL,17,D]G    Que  Max SQue Sts PmemST    GASRC
-OL,18,41G       0G   2G  0G   G      G  G     
+OL,18,41G       0G   1G  0G   G      G  G     
 OL,19,42G       0G   1G  0G   G      G  G     
 OL,20,  G        G    G   G   G      G  G     
 OL,21,  G        G    G   G   G      G  G     

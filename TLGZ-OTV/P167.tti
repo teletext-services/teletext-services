@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     167Cpi@ 27 lis  16:22:47
+OL,0,      BTVP3     167Csob 28 lis  02:23:26
 OL,1,D]GPROGNOZA POGODY        ]D27/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,F]ODZ                            ZV,,,, 
 OL,4, pi@.   B-1  C0 Gca}k. F14E G1001       
-OL,5, sob.   B-2  C0 Gumiar F14E G1012       
-OL,6, nie.   B-4 C-2 Gumiar F14SEG1013       
-OL,7, pon.                                   
+OL,5, sob.   B-2 C-1 Gdu{e  F14E G1013       
+OL,6, nie.   B-4 C-2 Gumiar F18SEG1013       
+OL,7, pon.   B-5  C0 Gumiar F10SEG1011       
 OL,8, wt.                                    
 OL,9,F]ASK                            ZV,,,, 
 OL,10, pi@.   B-1  C0 Gca}k. F18NEG1003       
-OL,11, sob.   B-2  C0 Gumiar F18E G1015       
-OL,12, nie.   B-4 C-1 Gumiar F18SEG1016       
-OL,13, pon.                                   
+OL,11, sob.   B-2  C0 Gdu{e  F14E G1015       
+OL,12, nie.   B-3 C-1 Gumiar F18SEG1015       
+OL,13, pon.   B-5  C0 Gumiar F14SEG1013       
 OL,14, wt.                                    
 FL,166,168,100,100,0,100
 PN,16702
@@ -25,20 +25,20 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     167Cpi@ 27 lis  16:22:48
+OL,0,      BTVP3     167Csob 28 lis  02:23:26
 OL,1,D]GPROGNOZA POGODY        ]D27/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,F]ECZYCA                         ZV,,,, 
 OL,4, pi@.   B-1  C0 Gca}k. F18E G1015       
-OL,5, sob.   B-1  C0 Gumiar F18E G1027       
-OL,6, nie.   B-3 C-1 Gumiar F14SEG1027       
-OL,7, pon.                                   
+OL,5, sob.   B-2  C0 Gdu{e  F18E G1027       
+OL,6, nie.   B-3 C-1 Gumiar F14SEG1026       
+OL,7, pon.   B-5  C0 Gumiar F10SEG1024       
 OL,8, wt.                                    
 OL,9,FSULEJOW                         ZV,,,, 
 OL,10, pi@.   B-1  C0 Gca}k. F18E G1001       
 OL,11, sob.   B-2 C-1 Gdu{e  F18E G1014       
-OL,12, nie.   B-4 C-1 Gumiar F18SEG1015       
-OL,13, pon.                                   
+OL,12, nie.   B-4 C-1 Gumiar F14SEG1014       
+OL,13, pon.   B-5  C0 Gumiar F10SEG1012       
 OL,14, wt.                                    
 FL,166,168,100,100,0,100
 PN,16703
@@ -46,19 +46,19 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP3     167Cpi@ 27 lis  16:22:48
+OL,0,      BTVP3     167Csob 28 lis  02:23:26
 OL,1,D]GPROGNOZA POGODY        ]D27/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FTOMASZOW MAZOWIECKI             ZV,,,, 
 OL,4, pi@.   B-1  C0 Gca}k. F14NEG1004       
-OL,5, sob.   B-2  C0 Gdu{e  F14E G1016       
+OL,5, sob.   B-2 C-1 Gdu{e  F14E G1016       
 OL,6, nie.   B-3 C-1 Gumiar F14SEG1017       
-OL,7, pon.                                   
+OL,7, pon.   B-5  C0 Gumiar  F7SEG1015       
 OL,8, wt.                                    
 OL,9,FWIELUN                          ZV,,,, 
 OL,10, pi@.   B-1  C0 Gca}k. F18NEG1000       
 OL,11, sob.   B-2  C0 Gdu{e  F18E G1012       
-OL,12, nie.   B-4 C-1 Gumiar F21SEG1013       
-OL,13, pon.                                   
+OL,12, nie.   B-4 C-1 Gma}e  F21SEG1012       
+OL,13, pon.   B-5  C1 Gumiar F14SEG1010       
 OL,14, wt.                                    
 FL,166,168,100,100,0,100

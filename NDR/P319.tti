@@ -1,9 +1,9 @@
 DE,NDR 319
-PN,31900
-SC,0000
-PS,8208
+PN,31901
+SC,0001
+PS,C200
 CT,15,T
-OL,0,       G319FNDR TEXT GFr 27.11.B11:32:27
+OL,0,       G319FNDR TEXT GFr 27.11.B21:31:58
 OL,1, ]T  5                                  
 OL,2, ]Tthi,0<d                              
 OL,3, ]T5kjp%7iD    NDR FERNSEHEN            
@@ -11,12 +11,41 @@ OL,4,F]T  %
 OL,5, Freitag    27.11.26   19:30 - 20:00 Uhr
 OL,6, Samstag    28.11.26   09:00 - 09:30 Uhr
 OL,7, NORDMAGAZIN                            
-OL,9,F30 Minuten regionale Informationen und 
-OL,10,FHintergr}nde: Wor}ber spricht das Land 
-OL,11, - was bewegt die Menschen in Mecklen-  
-OL,12, burg-Vorpommern? Mehr Nachrichten aus  
-OL,13, Mecklenburg-Vorpommern ab NDR Text Sei-
-OL,14, te 160 und im Internet: www.ndr.de/mv  
-OL,23,F]D300<       TV-PROGRAMM HEUTE >301-305
-OL,24,AInhalt    BSport   CFernsehen   FWetter
+OL,9,F- Nach Entscheidung: Reaktionen auf    
+OL,10,F  Warnowbr}cke sind kontrovers         
+OL,11, - Grippeschutz-Impfungen nicht in allen
+OL,12,   Apotheken im Land m|glich            
+OL,13,F- Abschiebung nach Honduras - Fall     
+OL,14,F  einer Familie aus Rostock            
+OL,15, - Programmhinweis: Die Nordstory - Ein 
+OL,16,   Herz f}r Holz                        
+OL,17,F- Portrait - Das Weihnachtshaus in     
+OL,18,F  Schwerin                             
+OL,19, - HiH: Spenden sammeln beim SSC        
+OL,20,   Palmberg Schwerin                    
+OL,21,F- Zwei Bands. Ein Abend. So war das NDR
+OL,22,F  MV Funkhauskonzert                   
+OL,23,F]D300<    TV-PROGRAMM HEUTE >301-305 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(1/2)
+FL,101,200,300,650,0,100
+PN,31902
+SC,0002
+PS,C200
+CT,15,T
+OL,0,       G319FNDR TEXT GFr 27.11.B21:31:58
+OL,1, ]T  5                                  
+OL,2, ]Tthi,0<d                              
+OL,3, ]T5kjp%7iD    NDR FERNSEHEN            
+OL,4,F]T  %                                  
+OL,5, Freitag    27.11.26   19:30 - 20:00 Uhr
+OL,6, Samstag    28.11.26   09:00 - 09:30 Uhr
+OL,7, NORDMAGAZIN                            
+OL,9,F- Nachrichten & Wetter                 
+OL,11, Moderation: Stefan Leyh                
+OL,12, Nachrichten: Martina Scheller          
+OL,14,FMehr Nachrichten aus Mecklenburg-Vor-  
+OL,15,Fpommern ab NDR Text Seite 160 und im   
+OL,16,FInternet: www.ndr.de/mv                
+OL,23,F]D300<    TV-PROGRAMM HEUTE >301-305 >>
+OL,24,AInhalt BSport CFernsehen FWetter G(2/2)
 FL,101,200,300,650,0,100

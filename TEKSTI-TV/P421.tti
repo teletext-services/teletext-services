@@ -3,8 +3,8 @@ PN,42101
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G421 YLE TEKSTI-TV 27.03.15:50:40
-OL,1,D]GRINNETIEDOT POHJOIS-SUOMI        1/2 
+OL,0,       G421 YLE TEKSTI-TV 28.03.01:50:58
+OL,1,D]GRINNETIEDOT POHJOIS-SUOMI        1/3 
 OL,2,K                                       
 OL,3,CIso-Sy|te                              
 OL,4,GRomekievarintie 126, 93280 Sy|te       
@@ -20,12 +20,12 @@ OL,13,FRinteetG2
 OL,14,FHissitG7                               
 OL,15,FLatuja aukiG4 km                       
 OL,16,K                                       
-OL,17,COunasvaara                             
-OL,18,GTaunontie 14, 96600 Rovaniemi          
+OL,17,CLuosto                                 
+OL,18,GOffpiste 4, 99555 Luosto               
 OL,19,Fp{ivitettyG27.11.                      
-OL,20,FRinteetG3                              
-OL,21,FHissitG3                               
-OL,22,FLatuja aukiG2 km                       
+OL,20,FRinteetG1                              
+OL,21,FHissitG2                               
+OL,22,FLatuja aukiG19 km                      
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
@@ -33,29 +33,59 @@ PN,42102
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G421 YLE TEKSTI-TV 27.03.15:50:40
-OL,1,D]GRINNETIEDOT POHJOIS-SUOMI        2/2 
+OL,0,       G421 YLE TEKSTI-TV 28.03.01:50:58
+OL,1,D]GRINNETIEDOT POHJOIS-SUOMI        2/3 
 OL,2,K                                       
-OL,3,CRuka                                   
-OL,4,GRukatunturintie 9, 93830 Ruka          
-OL,5,Fp{ivitettyG20.11.                      
-OL,6,FRinteetG7                              
-OL,7,FHissitG4                               
-OL,8,FLatuja aukiG1 km                       
+OL,3,COunasvaara                             
+OL,4,GTaunontie 14, 96600 Rovaniemi          
+OL,5,Fp{ivitettyG27.11.                      
+OL,6,FRinteetG3                              
+OL,7,FHissitG3                               
+OL,8,FLatuja aukiG2 km                       
 OL,9,K                                       
-OL,10,CSaariselk{ Ski & Sport Resort          
-OL,11,GKullanhuuhtojantie, 99830 Saariselk{   
+OL,10,CRuka                                   
+OL,11,GRukatunturintie 9, 93830 Ruka          
 OL,12,Fp{ivitettyG20.11.                      
-OL,13,FRinteetG5                              
-OL,14,FHissitG3                               
-OL,15,FLatuja aukiG24 km                      
+OL,13,FRinteetG7                              
+OL,14,FHissitG4                               
+OL,15,FLatuja aukiG1 km                       
 OL,16,K                                       
-OL,17,CVuokatti                               
-OL,18,GVeikontie 3, 88610 Vuokatti            
-OL,19,Fp{ivitettyG27.11.                      
-OL,20,FRinteetG0                              
-OL,21,FHissitG0                               
-OL,22,FLatuja aukiG5 km                       
+OL,17,CSaariselk{ Ski & Sport Resort          
+OL,18,GKullanhuuhtojantie, 99830 Saariselk{   
+OL,19,Fp{ivitettyG20.11.                      
+OL,20,FRinteetG5                              
+OL,21,FHissitG3                               
+OL,22,FLatuja aukiG24 km                      
+OL,23,K                                       
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,42103
+SC,0003
+PS,C100
+CT,15,T
+OL,0,       G421 YLE TEKSTI-TV 28.03.01:50:58
+OL,1,D]GRINNETIEDOT POHJOIS-SUOMI        3/3 
+OL,2,K                                       
+OL,3,CVuokatti                               
+OL,4,GVeikontie 3, 88610 Vuokatti            
+OL,5,Fp{ivitettyG27.11.                      
+OL,6,FRinteetG0                              
+OL,7,FHissitG0                               
+OL,8,FLatuja aukiG5 km                       
+OL,9,K                                       
+OL,10,K                                       
+OL,11,K                                       
+OL,12,K                                       
+OL,13,K                                       
+OL,14,K                                       
+OL,15,K                                       
+OL,16,K                                       
+OL,17,K                                       
+OL,18,K                                       
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
+OL,22,K                                       
 OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

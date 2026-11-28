@@ -4,27 +4,28 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     809Cpi@ 27 lis  17:32:21
-OL,1,C]      @S i a t k _ w k a         17:05
+OL,0,      BTVP2     809Csob 28 lis  03:31:57
+OL,1,C]      @S i a t k _ w k a         03:22
 OL,2,C] @Mecze wed}ug kategorii rozgrywek    
 OL,3,C-------- Brazylia - Superliga ---------
-OL,4, Sesi Bauru - Sao Jose dos Campos B22:30
-OL,5, Norde Volei - Goias Volei        B22:30
-OL,6, Sada Cruzeiro - Itambe Minas     B01:00
-OL,7,C------ Brazylia - Superliga (K) -------
-OL,8, Praia Clube - Osasco/Audax       B01:00
-OL,9,C--------- Japonia - SV.League ---------
-OL,10, Osaka Blazers SakaiF1:3CFC Tokyo       
-OL,11,                        C:20 20: 22: 21:
-OL,12, Suntory Sunbirds-Wolf Dogs NagoyaB05:05
-OL,13, Voreas Hokkaido - Osaka Bluteon  B05:05
-OL,14,C--- Japonia - V Premier League (K) ----
-OL,15, Ageo Medics - Green Wings (W)    B05:05
-OL,16, Okayama Seagulls - Hisamitsu     B05:05
-OL,17, Osaka Marvelous (W)-Toray Arrows B05:05
-OL,18, Aleeza Aichi (W)-Himeji VictorinaB05:05
-OL,19,C------- Polska - TAURON 1. Liga -------
-OL,20, BBTS Bielsko-Bia}a - UKS Sparta  B18:00
+OL,4,CNorde VoleiF3:1GGoias Volei            
+OL,5,                        C21: :28 :22 :18
+OL,6,CSesi BauruF3:0GSao Jose dos Campos     
+OL,7,                            C:19 :20 :22
+OL,8,CSada CruzeiroE2:1GItambe Minas         
+OL,9,                      C:22 17: :23E21:24
+OL,10,C------ Brazylia - Superliga (K) -------
+OL,11,CPraia ClubeF3:0GOsasco/Audax           
+OL,12,                            C:26 :20 :20
+OL,13,C--------- Japonia - SV.League ---------
+OL,14, Suntory Sunbirds-Wolf Dogs NagoyaB05:05
+OL,15, Voreas Hokkaido - Osaka Bluteon  B05:05
+OL,16, JTEKT Stings - Hokkaido          B06:05
+OL,17, Shinshu - Fragolad Kagoshima     B06:05
+OL,18, Toray Arrows - JT Thunders       B06:05
+OL,19,C--- Japonia - V Premier League (K) ----
+OL,20, Ageo Medics - Green Wings (W)    B05:05
+OL,21, Okayama Seagulls - Hisamitsu     B05:05
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C802      F803   
@@ -34,14 +35,41 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP2     809Cpi@ 27 lis  17:32:21
-OL,1,C]      @S i a t k _ w k a         17:05
+OL,0,      BTVP2     809Csob 28 lis  03:31:57
+OL,1,C]      @S i a t k _ w k a         03:22
 OL,2,C] @Mecze wed}ug kategorii rozgrywek    
-OL,3,C------- Polska - TAURON 1. Liga -------
-OL,4, Mickiewicz Klucz-Lechia Tomasz_w B18:00
-OL,6, Stal Nysa - Czarni Radom         B18:00
-OL,7,C----- Polska - TAURON Liga Kobiet -----
-OL,8, ITA TOOLS Stal M. - MKS Kalisz   B17:30
+OL,3,C--- Japonia - V Premier League (K) ----
+OL,4, Osaka Marvelous (W)-Toray Arrows B05:05
+OL,5, Aleeza Aichi (W)-Himeji VictorinaB05:05
+OL,6, Aqua Fairies - Hitachi Rivale    B06:05
+OL,7, NEC Red Rockets - PFU Blue Cats  B06:05
+OL,8, Aranmare (W) - Denso Airybees    B06:05
+OL,9,C------- Polska - TAURON 1. Liga -------
+OL,10, SMS PZPS Spa}a - Fort Pozna$     B12:00
+OL,11,C--- Polska - TAURON 1. Liga Kobiet ----
+OL,12, LOS Nowy Dw_r Ma-S`dzisz_w Ma}op.B12:00
+OL,13,C-------- Polska - TAURON Liga ---------
+OL,14, \lepsk Malow Suw-PGE GiEK Skra B.B12:00
+OL,15, Norwid Cz-wa-ZAKSA K`dzierzyn-K. B15:00
+OL,16,C-------- Turcja - Efeler Ligi ---------
+OL,17, Gebze Belediyesi - Alanya Bld    B12:00
+OL,18, Sungurlu Bld - Sultanbeyli Bld   B12:00
+OL,19, Halkbank - Fenerbahce            B12:00
+OL,20, IBB Spor Kulubu - Altekma SK     B14:30
+OL,22,S
+OL,23,S
+OL,24,   A800      B801      C802      F803   
+FL,800,801,802,803,0,100
+PN,80903
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP2     809Csob 28 lis  03:31:57
+OL,1,C]      @S i a t k _ w k a         03:22
+OL,2,C] @Mecze wed}ug kategorii rozgrywek    
+OL,3,C----- Turcja - Sultanlar Ligi (K) -----
+OL,4, Kuzeyboru (W) - VakifBank        B12:00
 OL,22,S
 OL,23,S
 OL,24,   A800      B801      C802      F803   

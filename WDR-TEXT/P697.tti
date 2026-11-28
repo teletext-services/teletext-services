@@ -3,12 +3,12 @@ PN,69701
 SC,0001
 PS,C200
 CT,15,T
-OL,0,     G697 WDR Text GFr 27.11.26 17:47:40
+OL,0,     G697 WDR Text GSa 28.11.26 03:47:41
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, f}r A44,A45,A46                        
-OL,5, Stand: 27.11.2026 17:43 Uhr            
+OL,5, Stand: 28.11.2026 00:03 Uhr            
 OL,7, Auf der A44 Kassel Richtung Dortmund   
 OL,8, ist die Anschlussstelle B}ren wegen    
 OL,9, Bauarbeiten f}r mehrere Monate         
@@ -24,53 +24,27 @@ OL,20, Auf der A44 Kassel Richtung Dortmund
 OL,21, ist im Kreuz Dortmund/Unna die         
 OL,22, Verbindung zur A1 Richtung K|ln        
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 696B]G+ 698  \               G(1/3)
+OL,24,A]G- 696B]G+ 698  \               G(1/2)
 FL,696,698,0,0,0,100
 PN,69702
 SC,0002
 PS,C200
 CT,15,T
-OL,0,     G697 WDR Text GFr 27.11.26 17:47:40
+OL,0,     G697 WDR Text GSa 28.11.26 03:47:41
 OL,1,]D]        G]               @]  CVERKEHR
 OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
 OL,3,]T5                                
 OL,4, voraussichtlich bis zum 7. Dezember    
 OL,5, gesperrt.                              
-OL,7, A45 Gie~en Richtung Dortmund zwischen  
-OL,8, Hagen-S}d und Westhofener Kreuz etwa 15
-OL,9, Minuten plus, 7 km stockender Verkehr  
-OL,11, A46 Heinsberg Richtung D}sseldorf      
-OL,12, zwischen Grevenbroich und Kreuz        
-OL,13, Neuss-West etwa 10 Minuten plus, 4 km  
-OL,14, stockender Verkehr                     
-OL,16, Auf der A46 D}sseldorf Richtung        
-OL,17, Wuppertal ist die Anschlussstelle      
-OL,18, Wuppertal-Varresbeck wegen Bauarbeiten 
-OL,19, bis Mitte Dezember gesperrt.           
-OL,21, A46 D}sseldorf Richtung Wuppertal      
-OL,22, zwischen Wuppertal-Varresbeck und      
-OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 696B]G+ 698  \               G(2/3)
-FL,696,698,0,0,0,100
-PN,69703
-SC,0003
-PS,C200
-CT,15,T
-OL,0,     G697 WDR Text GFr 27.11.26 17:47:40
-OL,1,]D]        G]               @]  CVERKEHR
-OL,2,]D]GWDR     ]DVERKEHRS-INFO  ]          
-OL,3,]T5                                
-OL,4, Wuppertal-Oberbarmen etwa 10 Minuten   
-OL,5, plus, 5 km stockender Verkehr          
-OL,7, A46 Wuppertal Richtung D}sseldorf      
-OL,8, zwischen Wuppertal-Oberbarmen und      
-OL,9, Wuppertal-Katernberg 4 km stockender   
-OL,10, Verkehr                                
+OL,7, Auf der A46 D}sseldorf Richtung        
+OL,8, Wuppertal ist die Anschlussstelle      
+OL,9, Wuppertal-Varresbeck wegen Bauarbeiten 
+OL,10, bis Mitte Dezember gesperrt.           
 OL,12, Auf der A46 Wuppertal Richtung         
 OL,13, D}sseldorf ist die Anschlussstelle     
 OL,14, Wuppertal-Wichlinghausen               
 OL,15, voraussichtlich bis Herbst 2027        
 OL,16, gesperrt.                              
 OL,23,T,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,24,A]G- 696B]G+ 698  \               G(3/3)
+OL,24,A]G- 696B]G+ 698  \               G(2/2)
 FL,696,698,0,0,0,100

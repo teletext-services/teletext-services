@@ -3,17 +3,17 @@ PN,68501
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G685 YLE TEKSTI-TV 27.03.15:56:15
+OL,0,       G685 YLE TEKSTI-TV 28.03.01:55:56
 OL,1,A]GSAKSAN 2. BUNDESLIIGA C]D27.11.  1/3 
 OL,2,K                                       
-OL,3, VfL Bochum    - Darmstadt    G19.30    
-OL,4,K                                       
-OL,5, Heidenheim    - N rnberg     G19.30    
+OL,3, VfL Bochum    - Darmstadt    B2-0 (0-0)
+OL,4,FHofmann      81                        
+OL,5,FTaz        90+4                        
 OL,6,K                                       
-OL,7,K                                       
-OL,8,K                                       
-OL,9,K                                       
-OL,10,K                                       
+OL,7, Heidenheim    - N rnberg     B3-1 (1-1)
+OL,8,FMainka       13FCostly     om39        
+OL,9,FZivzivadze   61                        
+OL,10,FSch|ppner    65                        
 OL,11,K                                       
 OL,12,K                                       
 OL,13,K                                       
@@ -33,25 +33,25 @@ PN,68502
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G685 YLE TEKSTI-TV 27.03.15:56:15
+OL,0,       G685 YLE TEKSTI-TV 28.03.01:55:56
 OL,1,A]GSAKSAN 2. BUNDESLIIGA C]D        2/3 
 OL,2,K                                       
 OL,3,BHertha Berlin 12 11  1  0  29- 9   34  
-OL,4,BN rnberg      12  7  3  2  27-15   24  
+OL,4,BN rnberg      13  7  3  3  28-18   24  
 OL,5,FMagdeburg     12  7  2  3  27-15   23  
 OL,6,GWolfsburg     12  6  4  2  29-16   22  
 OL,7,GKaiserslauter 12  6  4  2  12- 9   22  
-OL,8,GA. Bielefeld  12  5  2  5  19-18   17  
-OL,9,GHeidenheim    12  4  4  4  20-23   16  
-OL,10,GSt. Pauli     12  3  6  3  15-16   15  
-OL,11,GHannover 96   12  4  3  5  14-19   15  
-OL,12,GBraunschweig  12  4  2  6  18-19   14  
-OL,13,GVfL Bochum    12  4  2  6  11-15   14  
+OL,8,GHeidenheim    13  5  4  4  23-24   19  
+OL,9,GA. Bielefeld  12  5  2  5  19-18   17  
+OL,10,GVfL Bochum    13  5  2  6  13-15   17  
+OL,11,GSt. Pauli     12  3  6  3  15-16   15  
+OL,12,GHannover 96   12  4  3  5  14-19   15  
+OL,13,GBraunschweig  12  4  2  6  18-19   14  
 OL,14,GVfL Osnabr ck 12  3  3  6  14-18   12  
 OL,15,GDyn. Dresden  12  3  3  6  17-22   12  
 OL,16,GG. F rth      12  3  3  6  14-21   12  
 OL,17,GKarlsruhe     12  3  3  6  15-24   12  
-OL,18,BDarmstadt     12  3  3  6  12-22   12  
+OL,18,BDarmstadt     13  3  3  7  12-24   12  
 OL,19,FCottbus       12  2  5  5  18-24   11  
 OL,20,FHolstein Kiel 12  1  5  6  11-17    8  
 OL,21,K                                       
@@ -63,29 +63,29 @@ PN,68503
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G685 YLE TEKSTI-TV 27.03.15:56:15
+OL,0,       G685 YLE TEKSTI-TV 28.03.01:55:56
 OL,1,A]GSAKSAN 2. BUNDESLIIGA C]D        3/3 
 OL,2,K                                       
-OL,3,B27.11.                                 
-OL,4, VfL Bochum    - Darmstadt    F19.30    
-OL,5, Heidenheim    - N rnberg     F19.30    
-OL,6,K                                       
-OL,7,B28.11.                                 
-OL,8, Hertha Berlin - Karlsruhe    F14.00    
-OL,9, Holstein Kiel - KaiserslauterF14.00    
-OL,10, Dyn. Dresden  - St. Pauli    F14.00    
-OL,11, VfL Osnabr ck - Hannover 96  F21.30    
-OL,12,K                                       
-OL,13,B29.11.                                 
-OL,14, Braunschweig  - Wolfsburg    F14.30    
-OL,15, G. F rth      - A. Bielefeld F14.30    
-OL,16, Magdeburg     - Cottbus      F14.30    
+OL,3,B28.11.                                 
+OL,4, Hertha Berlin - Karlsruhe    F14.00    
+OL,5, Holstein Kiel - KaiserslauterF14.00    
+OL,6, Dyn. Dresden  - St. Pauli    F14.00    
+OL,7, VfL Osnabr ck - Hannover 96  F21.30    
+OL,8,K                                       
+OL,9,B29.11.                                 
+OL,10, Braunschweig  - Wolfsburg    F14.30    
+OL,11, G. F rth      - A. Bielefeld F14.30    
+OL,12, Magdeburg     - Cottbus      F14.30    
+OL,13,K                                       
+OL,14,B04.12.                                 
+OL,15, A. Bielefeld  - Dyn. Dresden F19.30    
+OL,16, Cottbus       - VfL Osnabr ckF19.30    
 OL,17,K                                       
-OL,18,B04.12.                                 
-OL,19, A. Bielefeld  - Dyn. Dresden F19.30    
-OL,20, Cottbus       - VfL Osnabr ckF19.30    
-OL,21,K                                       
-OL,22,B05.12.                                 
-OL,23, Kaiserslauter - G. F rth     F14.00    
+OL,18,B05.12.                                 
+OL,19, Kaiserslauter - G. F rth     F14.00    
+OL,20, Karlsruhe     - Holstein KielF14.00    
+OL,21, N rnberg      - VfL Bochum   F14.00    
+OL,22, Hannover 96   - Hertha BerlinF21.30    
+OL,23,K                                       
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100

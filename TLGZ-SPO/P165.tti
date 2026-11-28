@@ -4,20 +4,20 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    165Cpi@ 27 lis  16:52:53
+OL,0,      BSPORT    165Csob 28 lis  02:53:17
 OL,1,D]GPROGNOZA POGODY        ]D27/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FPOZNAN                          ZV,,,, 
 OL,4, pi@.    B0  C0 Gca}k. F14E G1019       
 OL,5, sob.   B-1  C0 Gdu{e  F14E G1030       
-OL,6, nie.   B-3 C-1 Gdu{e  F14SEG1028       
-OL,7, pon.                                   
+OL,6, nie.   B-3 C-1 Gumiar F14SEG1028       
+OL,7, pon.   B-2  C0 Gumiar  F7SEG1025       
 OL,8, wt.                                    
 OL,9,FLESZNO                          ZV,,,, 
 OL,10, pi@.    B0  C0 Gca}k. F14NEG1014       
 OL,11, sob.   B-2  C0 Gdu{e  F14E G1025       
-OL,12, nie.   B-3 C-1 Gdu{e  F18SEG1023       
-OL,13, pon.                                   
+OL,12, nie.   B-3 C-1 Gumiar F18SEG1022       
+OL,13, pon.   B-2  C1 Gdu{e  F10SEG1020       
 OL,14, wt.                                    
 FL,164,166,200,200,0,100
 PN,16502
@@ -25,20 +25,20 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    165Cpi@ 27 lis  16:52:53
+OL,0,      BSPORT    165Csob 28 lis  02:53:17
 OL,1,D]GPROGNOZA POGODY        ]D27/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FPI]A                            ZV,,,, 
 OL,4, pi@.    B0  C0 Gca}k. F10E G1019       
-OL,5, sob.   B-2  C0 Gdu{e  F10E G1030       
-OL,6, nie.   B-3 C-1 Gdu{e  F14SEG1027       
-OL,7, pon.                                   
+OL,5, sob.   B-2  C0 Gdu{e  F14E G1030       
+OL,6, nie.   B-3 C-2 Gumiar F14SEG1027       
+OL,7, pon.   B-3  C0 Gumiar  F7SEG1024       
 OL,8, wt.                                    
 OL,9,FKALISZ                          ZV,,,, 
 OL,10, pi@.   B-1  C0 Gca}k. F18NEG1008       
-OL,11, sob.   B-2  C0 Gumiar F14E G1020       
-OL,12, nie.   B-4 C-1 Gumiar F18SEG1020       
-OL,13, pon.                                   
+OL,11, sob.   B-2  C0 Gdu{e  F14E G1020       
+OL,12, nie.   B-3 C-1 Gumiar F18SEG1019       
+OL,13, pon.   B-4  C0 Gumiar F14SEG1017       
 OL,14, wt.                                    
 FL,164,166,200,200,0,100
 PN,16503
@@ -46,19 +46,19 @@ SC,0003
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BSPORT    165Cpi@ 27 lis  16:52:54
+OL,0,      BSPORT    165Csob 28 lis  02:53:17
 OL,1,D]GPROGNOZA POGODY        ]D27/11/2026  
 OL,2,       T.min.max. zach. wiatr ci|. opady
 OL,3,FKO]O                            ZV,,,, 
 OL,4, pi@.   B-1  C0 Gca}k. F18E G1014       
 OL,5, sob.   B-2  C0 Gdu{e  F14E G1026       
-OL,6, nie.   B-3 C-1 Gumiar F18SEG1026       
-OL,7, pon.                                   
+OL,6, nie.   B-3 C-1 Gumiar F18SEG1025       
+OL,7, pon.   B-4  C0 Gumiar F14SEG1023       
 OL,8, wt.                                    
 OL,9,FKRZESINY                        ZV,,,, 
 OL,10, pi@.    B0  C0 Gca}k. F14E G1019       
-OL,11, sob.   B-2  C0 Gdu{e  F14E G1030       
-OL,12, nie.   B-3  C0 Gdu{e  F18SEG1028       
-OL,13, pon.                                   
+OL,11, sob.   B-1  C0 Gdu{e  F14E G1030       
+OL,12, nie.   B-3 C-1 Gumiar F18SEG1028       
+OL,13, pon.   B-3  C0 Gumiar F10SEG1025       
 OL,14, wt.                                    
 FL,164,166,200,200,0,100

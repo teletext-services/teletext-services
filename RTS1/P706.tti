@@ -3,50 +3,50 @@ PN,70601
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G706  RTS 1     27.11.26 13:30:03
+OL,0,       G706  RTS 1     27.11.26 23:30:19
 OL,1,D]GRTS 1     ]@vendredi 27 novembre     
 OL,2,                                    1/3 
-OL,4,G11:15 GTop ModelsCI/IICS-T             
+OL,4,F11:15 FTop ModelsCI/IICS-T             
 OL,5,E 1125                                  
-OL,6,F11:40 FPlus belle la vie, encore       
-OL,7,E 1145 Fplus belleCS-T                  
-OL,9,G12:10 GDemain nous appartientCS-T      
+OL,6,G11:40 GPlus belle la vie, encore       
+OL,7,E 1145 Gplus belleCS-T                  
+OL,9,F12:10 FDemain nous appartientCS-T      
 OL,10,E 1205                                  
-OL,11,F12:45 F12h45                           
+OL,11,G12:45 G12h45                           
 OL,12,       CS-T                             
-OL,13,G13:10 GM#t#o                           
+OL,13,F13:10 FM#t#o                           
 OL,14,E 1305 CS-T                             
-OL,15,F13:20 FMonsieur No[l et moi            
+OL,15,G13:20 GMonsieur No[l et moi            
 OL,16,E 1315 CI/IICS-T                        
-OL,17,G14:55 GLe vignoble de No[l             
-OL,18,       CI/IICS-T                        
-OL,19,F16:45 FHPI                             
-OL,20,E 1700 FRecto-VersoCS-T                 
+OL,17,F15:00 FLe vignoble de No[l             
+OL,18,E 1455 CI/IICS-T                        
+OL,19,G16:45 GHPI                             
+OL,20,E 1700 GRecto-VersoCS-T                 
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,70602
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G706  RTS 1     27.11.26 13:30:03
+OL,0,       G706  RTS 1     27.11.26 23:30:19
 OL,1,D]GRTS 1     ]@vendredi 27 novembre     
 OL,2,                                    2/3 
-OL,4,G17:50 GIci tout commenceCS-T           
+OL,4,F17:50 FIci tout commenceCS-T           
 OL,5,E 1810                                  
-OL,6,F18:25 FC'est ma question...........C707
+OL,6,G18:25 GC'est ma question...........C707
 OL,7,E 1820 CS-T                             
-OL,8,G18:55 GM#t#o r#gionale                 
+OL,8,F18:55 FM#t#o r#gionale                 
 OL,9,E 1850 CS-T                             
-OL,10,F19:00 FCouleurs locales                
+OL,10,G19:00 GCouleurs locales                
 OL,11,       CS-T                             
-OL,12,G19:20 GM#t#o                           
+OL,12,F19:20 FM#t#o                           
 OL,13,E 1915 CS-T                             
-OL,14,F19:30 F19h30                           
+OL,14,G19:30 G19h30                           
 OL,15,       CS-T                             
-OL,16,G20:00 GM#t#o                           
-OL,17,E 1955 GsoirCS-T                        
-OL,18,F20:10 FPasse-moi les jumelles......C745
-OL,19,       FLa vall#e des longs hivers      
+OL,16,F20:00 FM#t#o                           
+OL,17,E 1955 FsoirCS-T                        
+OL,18,G20:10 GPasse-moi les jumelles......C745
+OL,19,       GLa vall#e des longs hivers      
 OL,20,       CS-T                             
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
@@ -54,25 +54,25 @@ PN,70603
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G706  RTS 1     27.11.26 13:30:03
+OL,0,       G706  RTS 1     27.11.26 23:30:19
 OL,1,D]GRTS 1     ]@vendredi 27 novembre     
 OL,2,                                    3/3 
-OL,4,G21:05 GLa Comtesse de Monte-Cristo.C708
-OL,5,E 2100 GHayd#eCS-T                      
-OL,6,F21:55 FLa Comtesse de Monte-Cristo.C709
-OL,7,E 2145 FFernandCS-T                     
-OL,8,G22:50 GEsprits criminels...........C710
-OL,9,E 0000 GPure jalousieCI/IICS-TA        
-OL,10,F23:45 FEsprits criminels...........C711
-OL,11,E 2235 FMalleus MaleficarumCI/IICS-     
-OL,12,       FTA                             
-OL,13,G04:40 GCouleurs locales                
+OL,4,F21:00 FLa Comtesse de Monte-Cristo.C708
+OL,5,       FHayd#eCS-T                      
+OL,6,G21:55 GLa Comtesse de Monte-Cristo.C709
+OL,7,E 2145 GFernandCS-T                     
+OL,8,F22:50 FEsprits criminels...........C710
+OL,9,E 0000 FPure jalousieCI/IICS-TA        
+OL,10,G23:45 GEsprits criminels...........C711
+OL,11,E 2235 GMalleus MaleficarumCI/IICS-     
+OL,12,       GTA                             
+OL,13,F04:40 FCouleurs locales                
 OL,14,E 0000 CS-TC(R)                         
-OL,15,F04:59 FM#t#o                           
+OL,15,G04:58 GM#t#o                           
 OL,16,E 0218 CS-TC(R)                         
-OL,17,G05:00 G19h30                           
+OL,17,F04:59 F19h30                           
 OL,18,E 0235 CS-TC(R)                         
-OL,19,F05:30 FLa suisse vue du ciel           
-OL,20,       CS-T                             
+OL,19,G05:25 GLa suisse vue du ciel           
+OL,20,E 0530 CS-T                             
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

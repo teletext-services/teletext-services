@@ -3,37 +3,37 @@ PN,48501
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       GDR   S485  fre 27 nov   10:13:42
+OL,0,       GDR   S485  fre 27 nov   20:13:02
 OL,1,D]G                                     
 OL,2,D]G        BILLUND   INDENRIGS/UDENRIGS 
 OL,3,D]G        LUFTHAVN              AFGANG 
 OL,4,T#######################################
 OL,5,CTID  FORV FLY    TIL          BEMARK   
 OL,6,   -------  2026-11-27  -------         
-OL,7, 1025 1055 KL1292 Amsterdam             
-OL,8, 1030      LH837  Frankfurt     Boarding
-OL,9, 1045      SK2498 Stockholm     Gate Ope
-OL,10, 1050 1100 DY999  Oslo          Gate Ope
-OL,11, 1055      SK1282 Copenhagen            
-OL,12, 1215      KL1294 Amsterdam             
-OL,13, 1230      BA821  London LHR            
-OL,14, 1300      WF283  Bergen                
-OL,15, 1325      W61098 Katowice              
-OL,16, 1430      KL1296 Amsterdam             
-OL,17, 1445      W43696 Iasi                  
-OL,18, 1505      AF1265 Paris CDG             
-OL,19, 1535      SK1286 Copenhagen            
-OL,20, 1635      PC5024 Antalya               
-OL,21, 1900      LH841  Frankfurt             
-OL,22, 1905      KL1300 Amsterdam             
-OL,23, ]A486@ANKOMST     P5A480@FLY       1/3 
+OL,7, 2000 2015 LO468  Warsaw        Closed  
+OL,8, 2050      BA823  London LHR    Boarding
+OL,9, 2115      SK1288 Copenhagen            
+OL,10,   -------  2026-11-28  -------         
+OL,11, 0600      KL1290 Amsterdam             
+OL,12, 0615      SK1280 Copenhagen            
+OL,13, 0630      CAT743 Gran Canaria          
+OL,14, 0635      LH843  Frankfurt             
+OL,15, 0650      CAT711 Gran Canaria          
+OL,16, 0705      AF1765 Paris CDG             
+OL,17, 0715      DK1218 Gran Canaria          
+OL,18, 0830      JTD501 Tenerife              
+OL,19, 0830      RC7180 Gran Canaria          
+OL,20, 0830      W43212 Bukarest OTP          
+OL,21, 0925      W62320 Budapest              
+OL,22, 1030      LH837  Frankfurt             
+OL,23, ]A486@ANKOMST     P5A480@FLY       1/2 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100
 PN,48502
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       GDR   S485  fre 27 nov   10:13:12
+OL,0,       GDR   S485  fre 27 nov   20:12:32
 OL,1,D]G                                     
 OL,2,D]G        BILLUND   INDENRIGS/UDENRIGS 
 OL,3,D]G        LUFTHAVN              AFGANG 
@@ -51,6 +51,6 @@ OL,14, 1540      SK1286 Copenhagen
 OL,15, 1905      KL1300 Amsterdam             
 OL,16, 2125      D85085 Malaga                
 OL,22, ]                                      
-OL,23, ]A486@ANKOMST     P5A480@FLY       3/3 
+OL,23, ]A486@ANKOMST     P5A480@FLY       2/2 
 OL,24,  ANyheder    BSport    CTV    FVejret  
 FL,110,200,300,400,0,100

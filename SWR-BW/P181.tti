@@ -3,19 +3,18 @@ PN,18101
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G14:45:16
+OL,0,       BSWR BW C   Sa, 28.11.26G00:44:49
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GSCHWEFELDIOXID RLP  P5      
 OL,3,T#########"######################"######
-OL,4, F                27.11.2026 14:00 Uhr  
-OL,5,                                   Max. 
-OL,6, Station/Uhrzeit      12   13   14 heute
+OL,4, F                27.11.2026 24:00 Uhr  
+OL,6, Station/Uhrzeit      22   23           
 OL,7, ---------------------------------------
-OL,8, LU-Oppau              1    1    1     4
-OL,9,FMZ-Mombach            1    1    1     8
-OL,10, NR-Hafenstr.          1    1    1     5
-OL,11,FTR-Ostallee           3    3    2     3
-OL,12, Worms                 1    1    1     6
+OL,8, LU-Oppau              1    1         1 
+OL,9,FMZ-Mombach            1    1         1 
+OL,10, NR-Hafenstr.          1    1         1 
+OL,11,FTR-Ostallee           1    1         1 
+OL,12, Worms                 1    1         1 
 OL,22,D]G1h-Mittel in Mikrogr./Kubikmeter Luft
 OL,23,D]           Gohne Gew{hr / LfU Mainz >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
@@ -24,18 +23,18 @@ PN,18102
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G14:45:16
+OL,0,       BSWR BW C   Sa, 28.11.26G00:44:49
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GSCHWEFELDIOXID RLP  P5      
 OL,3,T#########"######################"######
-OL,4,FWaldgebiete      27.11.2026 14:00 Uhr  
-OL,5,                                   Max  
-OL,6, Messort              12   13   14 1h-MW
+OL,4,FWaldgebiete      27.11.2026 24:00 Uhr  
+OL,5,                              1h-MW     
+OL,6, Messort              22   23 1h-MW     
 OL,7, ---------------------------------------
-OL,8, Hunsr}ck              2    2    1     3
-OL,9,FPf{lzerwald           1    1    1     3
-OL,10, Westeifel             2    1    1     4
-OL,11,FWestpfalz             1    1    1     5
+OL,8, Hunsr}ck              1    1         1 
+OL,9,FPf{lzerwald           1    1         1 
+OL,10, Westeifel             1    1         1 
+OL,11,FWestpfalz             1    1         1 
 OL,22,D]G1h-Mittel in Mikrogr./Kubikmeter Luft
 OL,23,D]           Gohne Gew{hr / LfU Mainz >>
 OL,24,A]berblick  BNachrichten CWetter  FSport

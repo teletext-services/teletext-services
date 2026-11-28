@@ -3,17 +3,23 @@ PN,70500
 SC,0000
 PS,8088
 CT,15,T
-OL,0,       G705  RTS 2     27.11.26 13:41:26
+OL,0,       G705  RTS 2     27.11.26 23:42:02
 OL,1,A]GRTS 2     ]@vendredi 27 novembre     
-OL,4,G02:10 G19h30 - Sign#                   
+OL,4,G02:20 G19h30 - Sign#                   
 OL,5,E 1930 CS-TCLS                          
-OL,6,F02:40 FCouleurs locales                
+OL,6,F02:50 FCouleurs locales                
 OL,7,E 0130 CS-TC(R)                         
-OL,8,G03:00 G19h30 - Sign#                   
+OL,8,G03:05 G19h30 - Sign#                   
 OL,9,E 0150 CS-TCLSC(R)                      
-OL,10,F05:55 FRTS Info                        
-OL,11,       FL'actualit# en continuCS-T      
-OL,12,G07:00 GRTS Info                        
-OL,13,       GL'actualit# en continuCS-T      
+OL,10,F03:35 FCouleurs locales                
+OL,11,E 1215 CS-TC(R)                         
+OL,12,G03:55 G19h30 - Sign#                   
+OL,13,E 0350 CS-TCLSC(R)                      
+OL,14,F04:25 FCouleurs locales                
+OL,15,       CS-TC(R)                         
+OL,16,G04:40 G19h30 - Sign#                   
+OL,17,E 0445 CS-TCLSC(R)                      
+OL,18,F05:10 FCouleurs locales                
+OL,19,E 0515 CS-TC(R)                         
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

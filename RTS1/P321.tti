@@ -1,16 +1,17 @@
 DE,RTS1 321
-PN,32100
-SC,0000
-PS,8088
-CT,15,T
-OL,0,       G321  RTS 1     27.11.26 13:26:28
-OL,1,C]@HOCKEY           G]@26.11.26 23:10GBO
+PN,32101
+SC,0001
+PS,C080
+CT,8,T
+OL,0,       G321  RTS 1     27.11.26 23:26:41
+OL,1,C]@HOCKEY           G]@27.11.26 22:40GBO
 OL,2,A                                       
+OL,3,                                    1/2 
 OL,4,CHOCKEY: NHL, les r#sultats             
-OL,5,GBoston Bruins  - Toronto Leafs   C27.11
-OL,6,GN.J. Devils    - Calgary Flames  C27.11
-OL,7,GNashville Preds- Utah Mammoth    C27.11
-OL,8,GSt.Louis Blues - Dallas Stars    C27.11
+OL,5,GBoston Bruins  - Toronto Leafs     G1-3
+OL,6,GN.J. Devils    - Calgary Flames    G5-3
+OL,7,GNashville Preds- Utah Mammoth   BtbG5-6
+OL,8,GSt.Louis Blues - Dallas Stars      G5-3
 OL,9,GColumbus B.J.  - Detroit Red W.  C27.11
 OL,10,GPhil. Flyers   - Vancouver Can.  C27.11
 OL,11,GTampa Bay L.   - Ottawa Sens     C27.11
@@ -22,5 +23,26 @@ OL,16,GChicago Blackh.- N.Y. Rangers    C27.11
 OL,17,GN.Y. Islanders - Winnipeg Jets   C28.11
 OL,18,GBuffalo Sabres - Pittsburgh P.   C28.11
 OL,19,GEdmonton Oil.  - Seattle Kraken  C28.11
+OL,24,AIndex    BSport     CMeteo    FTV&Radio
+FL,101,180,500,700,0,100
+PN,32102
+SC,0002
+PS,C080
+CT,8,T
+OL,0,       G321  RTS 1     27.11.26 23:26:41
+OL,1,C]@HOCKEY           G]@27.11.26 22:47GBO
+OL,2,A                                       
+OL,3,CHOCKEY: NHL, les Suisses           2/2 
+OL,5,GN.J. Devils    - Calgary Flames    G5-3
+OL,6,BHischier/N: 18'46 (+1), 1 assist.      
+OL,7,BMeier/N: 16'37 (+3), 1 but, 1 assist.  
+OL,8,BSiegenthaler/N: 19'24 (+2).            
+OL,10,GNashville Preds- Utah Mammoth   BtbG5-6
+OL,11,BJosi/N: 23'56 (-1), 1 but.             
+OL,13,GSt.Louis Blues - Dallas Stars      G5-3
+OL,14,BSuter/S: 15'26 (0).                    
+OL,15,BBichsel/D: bless#.                     
+OL,22,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@J   J
+OL,23,A                                       
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

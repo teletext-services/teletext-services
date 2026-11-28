@@ -3,25 +3,28 @@ PN,17801
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G14:44:53
+OL,0,       BSWR BW C   Sa, 28.11.26G00:45:10
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFEINSTAUB BW (PM10) P5      
 OL,3,T#########"######################"######
-OL,4, F                 27.11.2026 14:00 Uhr 
+OL,4, F                 28.11.2026 00:00 Uhr 
 OL,5,                                 7 Tage 
-OL,6, Station/Tag         24.  25.  26.  Max 
+OL,6, Station/Tag         25.  26.  27.  Max 
 OL,7, ---------------------------------------
-OL,8,FAalen               28   27   27    28 
-OL,9, Baden-Baden         --   --   --    21 
-OL,10,FBernhausen          18   21   24    24 
-OL,11, Biberach            11   13   22    22 
-OL,12,FEggenstein          12   12   23    23 
-OL,13, Friedrichshafen     11   15   27    27 
-OL,14,FFreiburg            20   18   25    25 
-OL,15, Heidelberg          11   17   28    28 
-OL,16,FG{rtringen          10   12   17    17 
-OL,17, Heilbronn           16   14   24    24 
-OL,18,FKA-Nordwest         14   13   24    24 
+OL,8,FAalen               --   --   --   36  
+OL,9,   28                                   
+OL,10, Baden-Baden         --   --   --    21 
+OL,11,FBernhausen          --   --   --   30  
+OL,12,   24                                   
+OL,13, Biberach            --   --   --   23  
+OL,14,   22                                   
+OL,15,FEggenstein          --   --   --   23  
+OL,16,   23                                   
+OL,17, Friedrichshafen     --   --   --   21  
+OL,18,   27                                   
+OL,19,FFreiburg            --   --   --   30  
+OL,20,   25                                   
+OL,21, Heidelberg          --   --   --   24  
 OL,22,D]GTagesmittel Mikrogr./Kubikmeter Luft 
 OL,23,D]      Gohne Gew{hr / LUBW Karlsruhe >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
@@ -30,24 +33,28 @@ PN,17802
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G14:44:53
+OL,0,       BSWR BW C   Sa, 28.11.26G00:45:10
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFEINSTAUB BW (PM10) P5      
 OL,3,T#########"######################"######
-OL,4, F                 27.11.2026 14:00 Uhr 
+OL,4, F                 28.11.2026 00:00 Uhr 
 OL,5,                                 7 Tage 
-OL,6, Station/Tag         24.  25.  26.  Max 
+OL,6, Station/Tag         25.  26.  27.  Max 
 OL,7, ---------------------------------------
-OL,8,FKonstanz            11   17   28    28 
-OL,9, Kehl                19   16   25    25 
-OL,10,FLudwigsburg         13   15   25    25 
-OL,11, Mannheim-Nord       14   12   21    21 
-OL,12,FNeuenburg           19   18   25    25 
-OL,13, Pforzheim           16   20   26    26 
-OL,14,FReutlingen          14   21   24    24 
-OL,15, Schw{bisch Hall     18   14   23    23 
-OL,16,FSchw{bische Alb      9   14   20    20 
-OL,17, Stuttgart-Bad Can   13   15   23    23 
+OL,8,FKonstanz            --   --   --   22  
+OL,9,   28                                   
+OL,10, Kehl                --   --   --   27  
+OL,11,   25                                   
+OL,12,FLudwigsburg         --   --   --   27  
+OL,13,   25                                   
+OL,14, Mannheim-Nord       --   --   --   21  
+OL,15,   21                                   
+OL,16,FNeuenburg           --   --   --   33  
+OL,17,   25                                   
+OL,18, Pforzheim           --   --   --   27  
+OL,19,   26                                   
+OL,20,FReutlingen          --   --   --   32  
+OL,21,   24                                   
 OL,22,D]GTagesmittel Mikrogr./Kubikmeter Luft 
 OL,23,D]      Gohne Gew{hr / LUBW Karlsruhe >>
 OL,24,A]berblick  BNachrichten CWetter  FSport
@@ -56,20 +63,16 @@ PN,17803
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       BSWR BW C   Fr, 27.11.26G14:44:53
+OL,0,       BSWR BW C   Sa, 28.11.26G00:45:10
 OL,1,Tppppppppp`pppppppppppppppppppppp`pppppp
 OL,2,D]GSWR >>P5GFEINSTAUB BW (PM10) P5      
 OL,3,T#########"######################"######
-OL,4, F                 27.11.2026 14:00 Uhr 
-OL,5,                                 7 Tage 
-OL,6, Station/Tag         24.  25.  26.  Max 
-OL,7, ---------------------------------------
-OL,8,FSchwarzwald-S}d      3    3   16    16 
-OL,9, Tauberbischofsh.    17   17   19    19 
-OL,10,FUlm                 15   16   27    27 
-OL,11, Villingen-Schwen.   14   20   23    23 
-OL,12,FWeil am Rhein       12   18   27    27 
-OL,13, Wiesloch             9   11   23    23 
+OL,4, Schw{bisch Hall     --   --   --   24  
+OL,5,   23                                   
+OL,6,FSchw{bische Alb     --   --   --   23  
+OL,7,   20                                   
+OL,8, Stuttgart-Bad Can   --   --   --   28  
+OL,9,   23                                   
 OL,22,D]GTagesmittel Mikrogr./Kubikmeter Luft 
 OL,23,D]      Gohne Gew{hr / LUBW Karlsruhe >>
 OL,24,A]berblick  BNachrichten CWetter  FSport

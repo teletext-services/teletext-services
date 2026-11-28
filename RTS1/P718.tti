@@ -3,7 +3,7 @@ PN,71801
 SC,0001
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 1     27.11.26 13:30:26
+OL,0,       G718  RTS 1     27.11.26 23:30:17
 OL,1,D]GRTS 1     ]D@Le sport @ la RTS   1/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
@@ -25,7 +25,7 @@ PN,71802
 SC,0002
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 1     27.11.26 13:30:26
+OL,0,       G718  RTS 1     27.11.26 23:30:17
 OL,1,D]GRTS 1     ]D@Le sport @ la RTS   2/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
@@ -49,7 +49,7 @@ PN,71803
 SC,0003
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 1     27.11.26 13:30:26
+OL,0,       G718  RTS 1     27.11.26 23:30:17
 OL,1,D]GRTS 1     ]D@Le sport @ la RTS   3/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
@@ -71,7 +71,7 @@ PN,71804
 SC,0004
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 1     27.11.26 13:30:26
+OL,0,       G718  RTS 1     27.11.26 23:30:17
 OL,1,D]GRTS 1     ]D@Le sport @ la RTS   4/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
@@ -91,7 +91,7 @@ PN,71805
 SC,0005
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 1     27.11.26 13:30:26
+OL,0,       G718  RTS 1     27.11.26 23:30:17
 OL,1,D]GRTS 1     ]D@Le sport @ la RTS   5/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
@@ -112,7 +112,7 @@ PN,71806
 SC,0006
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 1     27.11.26 13:30:26
+OL,0,       G718  RTS 1     27.11.26 23:30:17
 OL,1,D]GRTS 1     ]D@Le sport @ la RTS   6/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
@@ -133,7 +133,7 @@ PN,71807
 SC,0007
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 1     27.11.26 13:30:26
+OL,0,       G718  RTS 1     27.11.26 23:30:17
 OL,1,D]GRTS 1     ]D@Le sport @ la RTS   7/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
@@ -144,75 +144,78 @@ OL,8,           GEn diff#r# de Lusail (QAT)
 OL,11,FRTS1C01:55GSport dimanche              
 OL,13,ARTS2C03:35GSport dimanche              
 OL,15,FRTS1C04:10GSport dimanche              
-OL,17,Cmardi 1 d#cembre                       
-OL,18,ARTS2C11:55GNatation                    
-OL,19,           GChampionnats du monde       
-OL,20,           GEn direct de P#kin (CHN)    
+OL,17,Clundi 30 novembre                      
+OL,18,ARTS2C12:20GSport dimanche              
+OL,20,ARTS2C23:15GZap RTS Sport               
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,71808
 SC,0008
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 1     27.11.26 13:30:26
+OL,0,       G718  RTS 1     27.11.26 23:30:17
 OL,1,D]GRTS 1     ]D@Le sport @ la RTS   8/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
-OL,5,ARTS2C18:45GFootball                    
-OL,6,           GQualifications Coupe du     
-OL,7,           GMonde FIFA 2027             
-OL,8,           GSuisse - Autriche           
-OL,9,           GEn direct de Berne          
-OL,11,ARTS2C21:10GFootball                    
-OL,12,           GCoupe de Suisse             
-OL,13,           GFC Lausanne-Sport - Gras-   
-OL,14,           Gshoppher Club Zurich        
-OL,15,           GEn direct de Lausanne       
-OL,17,ARTS2C00:15GZap RTS Sport               
-OL,19,Cmercredi 2 d#cembre                    
+OL,5,Cmardi 1 d#cembre                       
+OL,6,ARTS2C11:55GNatation                    
+OL,7,           GChampionnats du monde       
+OL,8,           GEn direct de P#kin (CHN)    
+OL,10,ARTS2C18:45GFootball                    
+OL,11,           GQualifications Coupe du     
+OL,12,           GMonde FIFA 2027             
+OL,13,           GSuisse - Autriche           
+OL,14,           GEn direct de Berne          
+OL,16,ARTS2C21:10GFootball                    
+OL,17,           GCoupe de Suisse             
+OL,18,           GFC Lausanne-Sport - Gras-   
+OL,19,           Gshoppher Club Zurich        
+OL,20,           GEn direct de Lausanne       
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,71809
 SC,0009
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 1     27.11.26 13:30:26
+OL,0,       G718  RTS 1     27.11.26 23:30:17
 OL,1,D]GRTS 1     ]D@Le sport @ la RTS   9/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
-OL,5,ARTS2C11:55GNatation                    
-OL,6,           GChampionnats du monde       
-OL,7,           GEn direct de P#kin (CHN)    
-OL,9,ARTS2C18:55GFootball                    
-OL,10,           GCoupe de Suisse             
-OL,11,           GStade Lausanne Ouchy - FC   
-OL,12,           GSion                        
-OL,13,           GEn direct de Lausanne       
-OL,15,ARTS2C22:50GZap RTS Sport               
-OL,17,Cjeudi 3 d#cembre                       
-OL,18,ARTS2C11:55GNatation                    
-OL,19,           GChampionnats du monde       
-OL,20,           GEn direct de P#kin (CHN)    
+OL,5,ARTS2C00:19GZap RTS Sport               
+OL,7,Cmercredi 2 d#cembre                    
+OL,8,ARTS2C11:55GNatation                    
+OL,9,           GChampionnats du monde       
+OL,10,           GEn direct de P#kin (CHN)    
+OL,12,ARTS2C18:55GFootball                    
+OL,13,           GCoupe de Suisse             
+OL,14,           GStade Lausanne Ouchy - FC   
+OL,15,           GSion                        
+OL,16,           GEn direct de Lausanne       
+OL,18,ARTS2C22:50GZap RTS Sport               
+OL,20,Cjeudi 3 d#cembre                       
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100
 PN,71810
 SC,0010
 PS,C080
 CT,8,T
-OL,0,       G718  RTS 1     27.11.26 13:30:26
+OL,0,       G718  RTS 1     27.11.26 23:30:17
 OL,1,D]GRTS 1     ]D@Le sport @ la RTS  10/10
 OL,2,A]GRTS 2     ] @                        
 OL,3,G]           ]A                         
-OL,5,ARTS2C18:50GSki alpin                   
-OL,6,           GCoupe du monde              
-OL,7,           GDescente Messieurs          
-OL,8,           GEn direct de Beaver Creek   
-OL,9,           G(USA)                       
-OL,11,ARTS2C20:25GFootball                    
-OL,12,           GCoupe de Suisse             
-OL,13,           GNeuch{tel Xamax - Servette  
-OL,14,           GFC                          
-OL,15,           GEn direct de Neuch{tel      
-OL,17,ARTS2C22:32GZap RTS Sport               
+OL,5,ARTS2C11:55GNatation                    
+OL,6,           GChampionnats du monde       
+OL,7,           GEn direct de P#kin (CHN)    
+OL,9,ARTS2C18:50GSki alpin                   
+OL,10,           GCoupe du monde              
+OL,11,           GDescente Messieurs          
+OL,12,           GEn direct de Beaver Creek   
+OL,13,           G(USA)                       
+OL,15,ARTS2C20:25GFootball                    
+OL,16,           GCoupe de Suisse             
+OL,17,           GNeuch{tel Xamax - Servette  
+OL,18,           GFC                          
+OL,19,           GEn direct de Neuch{tel      
+OL,21,ARTS2C22:32GZap RTS Sport               
 OL,24,AIndex    BSport     CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

@@ -3,27 +3,27 @@ PN,70200
 SC,0000
 PS,8308
 CT,15,T
-OL,0,       G702  RSI LA 1  27.11.26 03:01:03
-OL,1,A]GRSI   ]@LA1      GIOVEDI 26 novembre 
+OL,0,       G702  RSI LA 1  27.11.26 23:01:03
+OL,1,A]GRSI   ]@LA1      VENERDI 27 novembre 
 OL,2,G                                       
-OL,3, G05:00  GTG Notte                      
-OL,4, F05:20  FMeteoCST                      
-OL,5, G05:25  GIl QuotidianoCST              
-OL,6, F05:55  FTG Notte                      
-OL,7, G06:10  GMeteoCR                       
+OL,3, G04:45  GIl QuotidianoCR               
+OL,4, F05:15  FTG Notte                      
+OL,5, G05:40  GMeteoCST                      
+OL,6, F05:40  FIl QuotidianoCST              
+OL,7, G06:15  GMeteoCST                      
 OL,8, F06:15  FSiamo fuoriCST                
 OL,9, G07:10  GMezz'ora per voiCST           
 OL,10, F07:40  FMezz'ora per voiCST           
 OL,11, G08:05  GEverywhere I go -         CST 
 OL,12,         GCoincidenze d'amore           
-OL,13,         GEpisodio 43                   
+OL,13,         GEpisodio 44                   
 OL,14, F08:50  FLa signora in gialloCSTCI/II  
-OL,15,         FOmicidio in musica            
+OL,15,         FIn arte Jessica Fox           
 OL,16, G09:35  GLa natura selvaggia degli CST 
 OL,17,         Ganimali domestici             
-OL,18,         GIl gioco della vita           
+OL,18,         GPiccoli segreti               
 OL,19, F10:30  FPrivate EyesCSTCI/II          
-OL,20,         FLa vendetta } servita         
+OL,20,         FL'ultimo miglio               
 OL,23,@HTechnical problems, no data available 
 OL,24,AIndice    BSport    CMeteo    FTV&Radio
 FL,101,180,500,700,0,100

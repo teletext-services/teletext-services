@@ -4,21 +4,23 @@ SC,0001
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     238Cpi@ 27 lis  17:06:31
+OL,0,      BTVP1     238Csob 28 lis  03:05:58
 OL,1,C]DPI]KA NO[NA  ] GHISZPANIA - LaLiga   
-OL,3,                 C20.11                 
-OL,4,FAth. Bilbao    - Espanyol          0:1 
-OL,5,                  Fernandez 66          
-OL,8,                 C21.11                 
-OL,9,FAlaves         - Deportivo         3:1 
-OL,10, Perez 2,Boye 62,Suarez 90              
-OL,11,                      - Tenaglia 41-sam 
-OL,13,FVallecano      - Valencia          0:1 
-OL,14,                  Copete 41             
-OL,16,FSevilla        - Betis             1:1 
-OL,17, Salas 90+1       Antony 50             
-OL,19,FReal Madryt    - Celta Vigo        2:1 
-OL,20, Bellingham 66,Espi 85 - Duran 6        
+OL,2,                 C27.11                 
+OL,3,FLevante        - Santander         1:3 
+OL,4, Romero 42 - Garcia 66,90+5,Zabiri 81   
+OL,5,                 C28.11                 
+OL,6,FBetis          - Vallecano        14.00
+OL,8,FElche          - Atl. Madryt      18.30
+OL,10,FMalaga         - Ath. Bilbao      16.15
+OL,12,FReal Madryt    - Alaves           21.00
+OL,14,                 C29.11                 
+OL,15,FValencia       - Osasuna          14.00
+OL,17,FDeportivo      - Barcelona        16.15
+OL,19,FCelta Vigo     - Villarreal       18.30
+OL,21,FReal Sociedad  - Sevilla          21.00
+OL,22,                 C30.11                 
+OL,23,FEspanyol       - Getafe           21.00
 OL,24,   A237      B239      C240      F241   
 FL,237,239,240,241,0,100
 PN,23802
@@ -26,38 +28,15 @@ SC,0002
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     238Cpi@ 27 lis  17:06:31
-OL,1,C]DPI]KA NO[NA  ] GHISZPANIA - LaLiga   
-OL,3,                 C22.11                 
-OL,4,FBarcelona      - Villarreal        3:2 
-OL,5, Martin 57,Fermin 61,Navarro 67sam      
-OL,6,               - Buchanan 5,Oluwaseyi 7 
-OL,8,FSantander      - Real Sociedad     3:2 
-OL,9, Zabiri 6,8,Canales 68k                 
-OL,10,             - Oyarzabal 45+1,Guedes 60 
-OL,12,FOsasuna        - Malaga            1:0 
-OL,13, Budimir 20                             
-OL,15,FGetafe         - Atl. Madryt       0:3 
-OL,16,     Baena 10,Cardoso 30,Grimaldo 90+2k 
-OL,19,                 C23.11                 
-OL,20,FLevante        - Elche             1:1 
-OL,21, Requena 88       Revivo 62             
-OL,24,   A237      B239      C240      F241   
-FL,237,239,240,241,0,100
-PN,23803
-SC,0003
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BTVP1     238Cpi@ 27 lis  17:06:31
+OL,0,      BTVP1     238Csob 28 lis  03:05:59
 OL,1,C]DPI]KA NO[NA  ] GHISZPANIA - LaLiga   
 OL,2, B1.Barcelona (m)   13 12  0  1 51-15 36
 OL,3, B2.Real Madryt     13 11  0  2 33-11 33
 OL,4, B3.Atletico Madryt 13 10  1  2 26-10 31
 OL,5, B4.Betis           13  8  3  2 21-16 27
 OL,6, B5.Real Sociedad(p)13  7  1  5 23-23 22
-OL,7, C6.Sevilla         13  5  4  4 18-20 19
-OL,8, F7.Santander (b)   13  5  2  6 20-32 17
+OL,7, C6.Santander (b)   14  6  2  6 23-33 20
+OL,8, F7.Sevilla         13  5  4  4 18-20 19
 OL,9,  8.Ath. Bilbao     12  4  4  4 15-12 16
 OL,10,  9.Alaves          13  4  4  5 18-18 16
 OL,11, 10.Villarreal      13  4  3  6 19-18 15
@@ -65,7 +44,7 @@ OL,12, 11.Espanyol        13  4  3  6 14-14 15
 OL,13, 12.Deportivo (b)   13  3  6  4 16-17 15
 OL,14, 13.Osasuna         13  4  3  6 13-23 15
 OL,15, 14.Celta Vigo      13  2  7  4 11-12 13
-OL,16, 15.Levante         13  2  6  5 17-22 12
+OL,16, 15.Levante         14  2  6  6 18-25 12
 OL,17, 16.Vallecano       12  3  3  6 15-22 12
 OL,18, 17.Valencia        13  3  3  7  9-20 12
 OL,19,A18.Getafe          13  3  3  7  8-21 12
@@ -75,56 +54,35 @@ OL,22,B- LM C- L.EuropyF- L.Konferencji Europy
 OL,23,A- spadek                 D]GW]OCHY =>  
 OL,24,   A237      B239      C240      F241   
 FL,237,239,240,241,0,100
+PN,23803
+SC,0003
+PS,C000
+RE,1
+CT,15,T
+OL,0,      BTVP1     238Csob 28 lis  03:05:59
+OL,1,C]DPI]KA NO[NA  ]  GW]OCHY - Serie A    
+OL,2,                 C27.11                 
+OL,3,FVenezia        - Bologna           0:0 
+OL,4,                 C28.11                 
+OL,5,FFrosinone      - Parma            15.00
+OL,7,FTorino         - Lazio            18.00
+OL,9,FInter          - Genoa            20.45
+OL,11,                 C29.11                 
+OL,12,FUdinese        - Fiorentina       12.30
+OL,14,FSassuolo       - Napoli           15.00
+OL,16,FRoma           - Monza            18.00
+OL,18,FComo           - Juventus         20.45
+OL,20,                 C30.11                 
+OL,21,FLecce          - Atalanta         18.30
+OL,23,FCagliari       - Milan            20.45
+OL,24,   A237      B239      C240      F241   
+FL,237,239,240,241,0,100
 PN,23804
 SC,0004
 PS,C000
 RE,1
 CT,15,T
-OL,0,      BTVP1     238Cpi@ 27 lis  17:06:31
-OL,1,C]DPI]KA NO[NA  ]  GW]OCHY - Serie A    
-OL,5,                 C21.11                 
-OL,6,FComo           - Cagliari          2:0 
-OL,7, Ramon 24,Da Cunha 56                   
-OL,9,FLazio          - Lecce             3:0 
-OL,10, Noslin 25,68,Frattesi 90               
-OL,12,FParma          - Roma              1:5 
-OL,13, Elphege 54 - Malen 39,68,77,90,Mora 71 
-OL,15,FNapoli         - Torino            1:0 
-OL,16, McTominay 73                           
-OL,24,   A237      B239      C240      F241   
-FL,237,239,240,241,0,100
-PN,23805
-SC,0005
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BTVP1     238Cpi@ 27 lis  17:06:32
-OL,1,C]DPI]KA NO[NA  ]  GW]OCHY - Serie A    
-OL,3,                 C22.11                 
-OL,4,FJuventus       - Venezia           4:0 
-OL,5, Woltemade 53,Koopmeiners 59,Cabal 65,  
-OL,6, Kolo Muani 71-k                        
-OL,7,FBologna        - Udinese           1:1 
-OL,8, Zorlea 43        Zaniolo 67            
-OL,9,FSassuolo       - Genoa             0:2 
-OL,10,                  Osmaji^ 26,38         
-OL,11,FMilan          - Frosinone         5:1 
-OL,12, Calvani 4-sam,Ramos 19,Jashari 48,     
-OL,13,        Cisse 62,Pulisic 68 - Masini 25 
-OL,14,FAtalanta       - Inter             4:4 
-OL,15,Elmas 35,De Ketelaere 72,80,Kessie 90+1k
-OL,16,          - Esposito 16,32,52,Suci^ 75k 
-OL,19,                 C23.11                 
-OL,20,FMonza          - Fiorentina        3:0 
-OL,21, Varela 45k,51,Robinson 59              
-OL,24,   A237      B239      C240      F241   
-FL,237,239,240,241,0,100
-PN,23806
-SC,0006
-PS,C000
-RE,1
-CT,15,T
-OL,0,      BTVP1     238Cpi@ 27 lis  17:06:32
+OL,0,      BTVP1     238Csob 28 lis  03:05:59
 OL,1,C]DPI]KA NO[NA  ]  GW]OCHY - Serie A    
 OL,2, B1.Lazio           12 10  2  0 28-9  32
 OL,3, B2.AS Roma         12  9  3  0 36-11 30
@@ -133,8 +91,8 @@ OL,5, B4.AC Milan        12  8  3  1 28-14 27
 OL,6, C5.Como            12  8  2  2 20-10 26
 OL,7, C6.Juventus        12  6  3  3 19-12 21
 OL,8, F7.Frosinone (b)   12  6  2  4 25-20 20
-OL,9,  8.Napoli          12  5  3  4 19-14 18
-OL,10,  9.Bologna         12  5  3  4 17-15 18
+OL,9,  8.Bologna         13  5  4  4 17-15 19
+OL,10,  9.Napoli          12  5  3  4 19-14 18
 OL,11, 10.Genoa           12  5  1  6 13-16 16
 OL,12, 11.Cagliari        12  5  1  6 10-17 16
 OL,13, 12.Atalanta        12  4  3  5 21-24 15
@@ -144,7 +102,7 @@ OL,16, 15.Monza (b)       12  3  1  8 20-25 10
 OL,17, 16.Fiorentina      12  2  3  7 17-28  9
 OL,18, 17.Parma           12  2  2  8 10-22  8
 OL,19,A18.Sassuolo        12  2  2  8 16-31  8
-OL,20,A19.Venezia (b)     12  2  0 10  8-25  6
+OL,20,A19.Venezia (b)     13  2  1 10  8-25  7
 OL,21,A20.Udinese         12  1  3  8 13-26  6
 OL,22,B- LM  C- LE  F- LKE A- spadek          
 OL,23,                       D]GHISZPANIA =>  

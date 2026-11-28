@@ -3,7 +3,7 @@ PN,27501
 SC,0001
 PS,C200
 CT,15,T
-OL,0,       G275CORF SPORT+G27.11.26 12:47:26
+OL,0,       G275CORF SPORT+G27.11.26 22:47:16
 OL,1,A]G                            Langlauf 
 OL,2,A]GSPORT  ]A                           \
 OL,3,Q#########G                        1/3  
@@ -12,11 +12,19 @@ OL,6,FDamen, 10 km klassisch
 OL,7,  1. Ebba Andersson         SWE 25:19,4 
 OL,8,  2. Linn Svahn             SWE   + 9,1 
 OL,9,  3. Frida Karlsson         SWE    10,2 
-OL,10,  4. Natalja Terentewa      AIN    19,0 
+OL,10,  4. Natalja Terentjewa     AIN    19,0 
 OL,11,  5. Heidi Weng             NOR    23,0 
 OL,12,  6. Johanna Matintalo      FIN    31,9 
-OL,13,Fweiters                                
-OL,14, 10. Teresa Stadlober       AUT    42,8 
+OL,13,F10. Teresa Stadlober       AUT    42,8 
+OL,14,FHerren, 10 km klassisch                
+OL,15,  1. Martin Nyenget         NOR 22:09,0 
+OL,16,  2. Andreas Fjorden Ree    NOR  + 10,7 
+OL,17,  3. Johannes Kl{bo         NOR    13,0 
+OL,18,  4. Lars Heggen            NOR    14,8 
+OL,19,  5. Mattis Stenshagen      NOR    21,4 
+OL,20,  6. Emil Iversen           NOR    21,6 
+OL,21,F44. Mika Vermeulen         AUT  1:10,8 
+OL,22,F59. Tobias Ganner          AUT  1:39,2 
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -24,17 +32,23 @@ PN,27502
 SC,0002
 PS,C200
 CT,15,T
-OL,0,       G275CORF SPORT+G27.11.26 12:47:26
+OL,0,       G275CORF SPORT+G27.11.26 22:47:16
 OL,1,A]G                            Langlauf 
 OL,2,A]GSPORT  ]A                           \
 OL,3,Q#########G                        2/3  
-OL,4,FWeltcup                                
-OL,6,FDamen, nach 1 von 30 Bewerben          
+OL,4,FWeltcup, nach 1 von 30 Bewerben        
+OL,6,FDamen                                  
 OL,7,  1. Ebba Andersson           SWE   100 
 OL,8,  2. Linn Svahn               SWE    95 
 OL,9,  3. Frida Karlsson           SWE    90 
 OL,10,Fweiters                                
 OL,11, 10. Teresa Stadlober         AUT    63 
+OL,13,FHerren                                 
+OL,14,  1. Martin Nyenget           NOR   100 
+OL,15,  2. Andreas Fjorden Ree      NOR    95 
+OL,16,  3. Johannes Kl{bo           NOR    90 
+OL,17,Fweiters                                
+OL,18, 44. Mika Vermeulen           AUT     7 
 OL,23,Q,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100
@@ -42,22 +56,21 @@ PN,27503
 SC,0003
 PS,C200
 CT,15,T
-OL,0,       G275CORF SPORT+G27.11.26 12:47:26
+OL,0,       G275CORF SPORT+G27.11.26 22:47:16
 OL,1,A]G                            Langlauf 
 OL,2,A]GSPORT  ]A                           \
 OL,3,Q#########G                        3/3  
 OL,4,FWeltcup in Ruka, Programm              
-OL,6,CFreitag                                
-OL,7, Herren: 10 km klassisch       13.00hF* 
-OL,9,CSamstag                                
-OL,10, Sprint klassisch              11.15hF* 
-OL,12,CSonntag                                
-OL,13, Herren: 20 km MS Skating      10.00h   
-OL,14, Damen: 20 km MS Skating       11.55hF* 
-OL,16,F\SV-Aufgebot:GHeidi Bucher, Magdalena  
-OL,17,GScherz, Teresa Stadlober; Tobias Gan-  
-OL,18,Gner, Benjamin Moser, Lukas Mrkonjic,   
-OL,19,GMika Vermeulen                         
+OL,6,CSamstag                                
+OL,7, Sprint klassisch              11.15hF* 
+OL,9,CSonntag                                
+OL,10, Herren: 20 km MS Skating      10.00h   
+OL,11, Damen: 20 km MS Skating       11.55hF* 
+OL,13,F\SV-Aufgebot:GHeidi Bucher, Magdalena  
+OL,14,GScherz, Teresa Stadlober; Tobias Gan-  
+OL,15,Gner, Lukas Mrkonjic, Mika Vermeulen    
+OL,17,FBenjamin MoserGfehlt kurzfristig auf-  
+OL,18, grundFmuskul{rer Probleme in der Wade. 
 OL,23,Q,,,,,,F* live ORF1Q,G* live ORF Sport+ 
 OL,24,A]bersicht  BSport   CFernsehen  FWetter
 FL,100,200,300,600,0,100

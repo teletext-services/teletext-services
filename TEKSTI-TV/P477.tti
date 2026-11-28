@@ -3,7 +3,7 @@ PN,47701
 SC,0001
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:29
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
 OL,1,D]G         VOITTAJAVETO 1         1/20 
 OL,2,K                                       
 OL,3,BM       Salibandyn MM-kisat 2026       
@@ -32,37 +32,95 @@ PN,47702
 SC,0002
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:29
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
 OL,1,D]G         VOITTAJAVETO 2         2/20 
 OL,2,K                                       
-OL,3,BMAmpumahiihto, naiset 15km normaalimatk
+OL,3,BMAmpumahiihto, sekaviesti, Kontiolahti 
 OL,5,K                                       
 OL,6,K                                       
-OL,7,G 1 Jeanmonnot Lou   16 Knotten Karoline
-OL,8,G 2 Vittozzi Lisa    17 Muu voittaja    
-OL,9,G 3 Simon Julia                         
-OL,10,G 4 \berg Elvira                        
-OL,11,G 5 Minkkinen Suvi                      
-OL,12,G 6 Bened Camille                       
-OL,13,G 7 Kirkeeide Maren                     
-OL,14,G 8 Braisaz Bouchet                     
-OL,15,G 9 Michelon Oceane                     
-OL,16,G10 Hettich Walz Jan                    
-OL,17,G11 Magnusson Anna                      
-OL,18,G12 Voigt Vanessa                       
-OL,19,G13 Halvarsson Ella                     
-OL,20,G14 Vobornikova Tere                    
-OL,21,G15 Hristova Lora                       
+OL,7,G 1 Ranska                              
+OL,8,G 2 Norja                               
+OL,9,G 3 Saksa                               
+OL,10,G 4 Ruotsi                              
+OL,11,G 5 Italia                              
+OL,12,G 6 USA                                 
+OL,13,G 7 Suomi                               
+OL,14,G 8 Tshekki                             
+OL,15,G 9 Sveitsi                             
+OL,16,G10 Viro                                
+OL,17,G11 It{valta                            
+OL,18,G12 Muu voittaja                        
+OL,19,K                                       
+OL,20,K                                       
+OL,21,K                                       
 OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 27.11. klo 17.15.
+OL,23,BPelaaminen p{{ttyy la 28.11. klo 16.15.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,47703
 SC,0003
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:29
-OL,1,D]G         VOITTAJAVETO 5         3/20 
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         VOITTAJAVETO 3         3/20 
+OL,2,K                                       
+OL,3,BMAmpumahiihto, parisekaviesti, Kontiola
+OL,5,K                                       
+OL,6,K                                       
+OL,7,G 1 Norja            16 Muu voittaja    
+OL,8,G 2 Ruotsi                              
+OL,9,G 3 Suomi                               
+OL,10,G 4 Ranska                              
+OL,11,G 5 Sveitsi                             
+OL,12,G 6 Puola                               
+OL,13,G 7 It{valta                            
+OL,14,G 8 Tshekki                             
+OL,15,G 9 Ukraina                             
+OL,16,G10 Saksa                               
+OL,17,G11 Italia                              
+OL,18,G12 Slovenia                            
+OL,19,G13 Viro                                
+OL,20,G14 USA                                 
+OL,21,G15 Latvia                              
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 28.11. klo 14.10.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47704
+SC,0004
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         VOITTAJAVETO 4         4/20 
+OL,2,K                                       
+OL,3,BM  Hiihto, miehet sprintti (p) - Ruka  
+OL,5,K                                       
+OL,6,K                                       
+OL,7,G 1 Klaebo Johannes  16 Muu voittaja    
+OL,8,G 2 Valnes Erik                         
+OL,9,G 3 Evensen Ansgar                      
+OL,10,G 4 Vike Oskar Opsta                    
+OL,11,G 5 Heggen Lars                         
+OL,12,G 6 Kollerud Kristia                    
+OL,13,G 7 Vuorinen Lauri                      
+OL,14,G 8 Liekari Emil                        
+OL,15,G 9 Schumacher Gus                      
+OL,16,G10 Moilanen Niilo                      
+OL,17,G11 Stoelben Jan                        
+OL,18,G12 Grahn Anton                         
+OL,19,G13 Chappaz Jules                       
+OL,20,G14 Michelsen Even S                    
+OL,21,G15 Amundsen Harald                     
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 28.11. klo 12.35.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47705
+SC,0005
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         VOITTAJAVETO 5         5/20 
 OL,2,K                                       
 OL,3,BM         F1, aika-ajot, Qatar         
 OL,5,K                                       
@@ -86,12 +144,12 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy la 28.11. klo 20.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47704
-SC,0004
+PN,47706
+SC,0006
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:29
-OL,1,D]G         VOITTAJAVETO 6         4/20 
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         VOITTAJAVETO 6         6/20 
 OL,2,K                                       
 OL,3,BMF1, aika-ajot, Qatar, Valtteri Bottaks
 OL,5,K                                       
@@ -115,99 +173,215 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy la 28.11. klo 20.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47705
-SC,0005
-PS,C100
-CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
-OL,1,D]G         SUPERTRIPLA 1          5/20 
-OL,2,K                                       
-OL,3,BMAmpumahiihto, naiset 15km normaalimatk
-OL,5,K                                       
-OL,6,BVoittaja                               
-OL,7,K                                       
-OL,8,G 1 Jeanmonnot Lou   15 Hristova Lora   
-OL,9,G 2 Vittozzi Lisa    16 Muu voittaja    
-OL,10,G 3 Simon Julia                         
-OL,11,G 4 \berg Elvira                        
-OL,12,G 5 Minkkinen Suvi                      
-OL,13,G 6 Bened Camille                       
-OL,14,G 7 Kirkeeide Maren                     
-OL,15,G 8 Braisaz Bouchet                     
-OL,16,G 9 Michelon Oceane                     
-OL,17,G10 Hettich Walz Jan                    
-OL,18,G11 Magnusson Anna                      
-OL,19,G12 Voigt Vanessa                       
-OL,20,G13 Halvarsson Ella                     
-OL,21,G14 Vobornikova Tere                    
-OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 27.11. klo 17.15.
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,47706
-SC,0006
-PS,C100
-CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
-OL,1,D]G         SUPERTRIPLA 2          6/20 
-OL,2,K                                       
-OL,3,BM        F1, harjoitus 2, Qatar        
-OL,5,K                                       
-OL,6,BVoittaja                               
-OL,7,K                                       
-OL,8,G 1 Antonelli KimiI  15 Bottas ValtteriI
-OL,9,G 2 Verstappen MaxI  16 Muu voittaja    
-OL,10,G 3 Hamilton LewisI                     
-OL,11,G 4 Russell GeorgeI                     
-OL,12,G 5 Norris LandoI                       
-OL,13,G 6 Leclerc CharlesI                    
-OL,14,G 7 Piastri OscarI                      
-OL,15,G 8 Hadjar IsackI                       
-OL,16,G 9 Lawson LiamI                        
-OL,17,G10 Gasly PierreI                       
-OL,18,G11 Lindblad ArvidI                     
-OL,19,G12 Colapinto Franco                    
-OL,20,G13 Bearman Oliver I                    
-OL,21,G14 Bortoleto Gabrie                    
-OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 27.11. klo 19.00.
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
 PN,47707
 SC,0007
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
-OL,1,D]G         SUPERTRIPLA 6          7/20 
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         VOITTAJAVETO 7         7/20 
 OL,2,K                                       
-OL,3,BMAmpumahiihto, kokonaiskilpailu, naiste
+OL,3,BM  Hiihto, naiset sprintti (p) - Ruka  
 OL,5,K                                       
-OL,6,BVoittaja                               
-OL,7,K                                       
-OL,8,G 1 Jeanmonnot Lou   15 Grotian Selina  
-OL,9,G 2 Vittozzi Lisa    16 Muu voittaja    
-OL,10,G 3 \berg Elvira                        
-OL,11,G 4 Simon Julia                         
-OL,12,G 5 Minkkinen Suvi                      
-OL,13,G 6 Michelon Oceane                     
-OL,14,G 7 Kirkeeide Maren                     
-OL,15,G 8 Braisaz-Bouchet                     
-OL,16,G 9 Magnusson Anna                      
-OL,17,G10 Tandrevold Ingri                    
-OL,18,G11 Vobornikova Tere                    
-OL,19,G12 Bened Camille                       
-OL,20,G13 Halvarsson Ella                     
-OL,21,G14 Voigt Vanessa                       
+OL,6,K                                       
+OL,7,G 1 Svahn Linn       16 Muu voittaja    
+OL,8,G 2 Dahlqvist Maja                      
+OL,9,G 3 Skistad Kristine                    
+OL,10,G 4 Hagstr|m Johanna                    
+OL,11,G 5 Joensuu Jasmi                       
+OL,12,G 6 Gimmler Laura                       
+OL,13,G 7 Amundsen Hedda                      
+OL,14,G 8 Haugen Helene                       
+OL,15,G 9 Andreassen Milla                    
+OL,16,G10 Rydzek Coletta                      
+OL,17,G11 Matintalo Johann                    
+OL,18,G12 Aabrekk Ingrid                      
+OL,19,G13 Olkkonen Tiia                       
+OL,20,G14 Ilar Moa                            
+OL,21,G15 Karlsson Frida                      
 OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 27.11. klo 17.15.
+OL,23,BPelaaminen p{{ttyy la 28.11. klo 12.15.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
 PN,47708
 SC,0008
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
-OL,1,D]G         SUPERTRIPLA 7          8/20 
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         SUPERTRIPLA 1          8/20 
+OL,2,K                                       
+OL,3,BMAmpumahiihto, sekaviesti, Kontiolahti 
+OL,5,K                                       
+OL,6,BVoittaja                               
+OL,7,K                                       
+OL,8,G 1 Ranska           15 Bulgaria        
+OL,9,G 2 Norja            16 Muu voittaja    
+OL,10,G 3 Ruotsi                              
+OL,11,G 4 Italia                              
+OL,12,G 5 USA                                 
+OL,13,G 6 Tshekki                             
+OL,14,G 7 Saksa                               
+OL,15,G 8 Sveitsi                             
+OL,16,G 9 Suomi                               
+OL,17,G10 It{valta                            
+OL,18,G11 Slovenia                            
+OL,19,G12 Ukraina                             
+OL,20,G13 Viro                                
+OL,21,G14 Puola                               
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 28.11. klo 16.15.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47709
+SC,0009
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         SUPERTRIPLA 2          9/20 
+OL,2,K                                       
+OL,3,BM  Hiihto, miehet sprintti (p) - Ruka  
+OL,5,K                                       
+OL,6,BVoittaja                               
+OL,7,K                                       
+OL,8,G 1 Klaebo Johannes  15 Amundsen Harald 
+OL,9,G 2 Valnes Erik      16 Muu voittaja    
+OL,10,G 3 Evensen Ansgar                      
+OL,11,G 4 Vike Oskar Opsta                    
+OL,12,G 5 Heggen Lars                         
+OL,13,G 6 Kollerud Kristia                    
+OL,14,G 7 Vuorinen Lauri                      
+OL,15,G 8 Liekari Emil                        
+OL,16,G 9 Schumacher Gus                      
+OL,17,G10 Moilanen Niilo                      
+OL,18,G11 Stoelben Jan                        
+OL,19,G12 Grahn Anton                         
+OL,20,G13 Chappaz Jules                       
+OL,21,G14 Michelsen Even S                    
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 28.11. klo 12.35.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47710
+SC,0010
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         SUPERTRIPLA 3          10/20
+OL,2,K                                       
+OL,3,BMAmpumahiihto, parisekaviesti, Kontiola
+OL,5,K                                       
+OL,6,BVoittaja                               
+OL,7,K                                       
+OL,8,G 1 Norja            15 Latvia          
+OL,9,G 2 Ruotsi           16 Muu voittaja    
+OL,10,G 3 Suomi                               
+OL,11,G 4 Ranska                              
+OL,12,G 5 Sveitsi                             
+OL,13,G 6 Puola                               
+OL,14,G 7 It{valta                            
+OL,15,G 8 Tshekki                             
+OL,16,G 9 Ukraina                             
+OL,17,G10 Saksa                               
+OL,18,G11 Italia                              
+OL,19,G12 Slovenia                            
+OL,20,G13 Viro                                
+OL,21,G14 USA                                 
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 28.11. klo 14.10.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47711
+SC,0011
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         SUPERTRIPLA 4          11/20
+OL,2,K                                       
+OL,3,BM           Yhdistetty, Ruka           
+OL,5,K                                       
+OL,6,BVoittaja                               
+OL,7,K                                       
+OL,8,G 1 Oftebro Einar Lu 15 Hirvonen Eero   
+OL,9,G 2 Oftebro Jens Lur 16 Muu voittaja    
+OL,10,G 3 Flatla Kasper                       
+OL,11,G 4 Geiger Vinzenz                      
+OL,12,G 5 Rettenegger Stef                    
+OL,13,G 6 Ilves Kristjan                      
+OL,14,G 7 Lamparter Johann                    
+OL,15,G 8 Skoglund Andreas                    
+OL,16,G 9 Faisst Manuel                       
+OL,17,G10 Schmid Julian                       
+OL,18,G11 Herola Ilkka                        
+OL,19,G12 Mach David                          
+OL,20,G13 Baud Matteo                         
+OL,21,G14 Rettenegger Thom                    
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 28.11. klo 11.15.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47712
+SC,0012
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         SUPERTRIPLA 5          12/20
+OL,2,K                                       
+OL,3,BM  Hiihto, naiset sprintti (p) - Ruka  
+OL,5,K                                       
+OL,6,BVoittaja                               
+OL,7,K                                       
+OL,8,G 1 Svahn Linn       15 Karlsson Frida  
+OL,9,G 2 Dahlqvist Maja   16 Muu voittaja    
+OL,10,G 3 Skistad Kristine                    
+OL,11,G 4 Hagstr|m Johanna                    
+OL,12,G 5 Joensuu Jasmi                       
+OL,13,G 6 Gimmler Laura                       
+OL,14,G 7 Amundsen Hedda                      
+OL,15,G 8 Haugen Helene                       
+OL,16,G 9 Andreassen Milla                    
+OL,17,G10 Rydzek Coletta                      
+OL,18,G11 Matintalo Johann                    
+OL,19,G12 Aabrekk Ingrid                      
+OL,20,G13 Olkkonen Tiia                       
+OL,21,G14 Ilar Moa                            
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 28.11. klo 12.15.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47713
+SC,0013
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         SUPERTRIPLA 6          13/20
+OL,2,K                                       
+OL,3,BM        M{kihyppy, Ruka HS142         
+OL,5,K                                       
+OL,6,BVoittaja                               
+OL,7,K                                       
+OL,8,G 1 Lindvik Marius   15 Kraft Stefan    
+OL,9,G 2 Hauswirth Sandro 16 Prevc Domen     
+OL,10,G 3 Hoerl Jan        17 Muu voittaja    
+OL,11,G 4 Tschofenig Danie                    
+OL,12,G 5 Ortner Maximilia                    
+OL,13,G 6 Embacher Stephan                    
+OL,14,G 7 Sundal Eriksen K                    
+OL,15,G 8 Langmo Andreas                      
+OL,16,G 9 Lanisek Anze                        
+OL,17,G10 Tomasiak Kacper                     
+OL,18,G11 Raimund Philipp                     
+OL,19,G12 Aigner Clemens                      
+OL,20,G13 Kobayashi Ruoyu                     
+OL,21,G14 Deschwanden Greg                    
+OL,22,K                                       
+OL,23,BPelaaminen p{{ttyy la 28.11. klo 17.30.
+OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
+FL,100,200,300,400,0,100
+PN,47714
+SC,0014
+PS,C100
+CT,15,T
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         SUPERTRIPLA 7          14/20
 OL,2,K                                       
 OL,3,BM         F1, aika-ajot, Qatar         
 OL,5,K                                       
@@ -231,12 +405,12 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy la 28.11. klo 20.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47709
-SC,0009
+PN,47715
+SC,0015
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
-OL,1,D]G         SUPERTRIPLA 8          9/20 
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
+OL,1,D]G         SUPERTRIPLA 8          15/20
 OL,2,K                                       
 OL,3,BMF1, aika-ajot, Qatar, ilman k{rkitalle
 OL,5,K                                       
@@ -260,185 +434,11 @@ OL,22,K
 OL,23,BPelaaminen p{{ttyy la 28.11. klo 20.00.
 OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
 FL,100,200,300,400,0,100
-PN,47710
-SC,0010
-PS,C100
-CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
-OL,1,D]G         P[IV[N TRIO 1          10/20
-OL,2,K                                       
-OL,3,BMAmpumahiihto, naiset 15km normaalimatk
-OL,5,K                                       
-OL,6,Bkilpailu 1: Ryhm{n parhaiten sijoittuva
-OL,7,K                                       
-OL,8,G 1 Jeanmonnot Lou                      
-OL,9,G 2 Vittozzi Lisa                       
-OL,10,G 3 \berg Elvira                        
-OL,11,G 4 Minkkinen Suvi                      
-OL,12,G 5 Simon Julia                         
-OL,13,K                                       
-OL,14,K                                       
-OL,15,K                                       
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 27.11. klo 17.15.
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,47711
-SC,0011
-PS,C100
-CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
-OL,1,D]G         P[IV[N TRIO 1          11/20
-OL,2,K                                       
-OL,3,BMAmpumahiihto, naiset 15km normaalimatk
-OL,5,K                                       
-OL,6,Bkilpailu 2: Ryhm{n parhaiten sijoittuva
-OL,7,K                                       
-OL,8,G 1 Bened Camille                       
-OL,9,G 2 Voigt Vanessa                       
-OL,10,G 3 Michelon Oceane                     
-OL,11,G 4 Magnusson Anna                      
-OL,12,G 5 Vobornikova Tereza                  
-OL,13,K                                       
-OL,14,K                                       
-OL,15,K                                       
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 27.11. klo 17.15.
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,47712
-SC,0012
-PS,C100
-CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
-OL,1,D]G         P[IV[N TRIO 1          12/20
-OL,2,K                                       
-OL,3,BMAmpumahiihto, naiset 15km normaalimatk
-OL,5,K                                       
-OL,6,Bkilpailu 3: Ryhm{n parhaiten sijoittuva
-OL,7,K                                       
-OL,8,G 1 Zuk Kamila                          
-OL,9,G 2 Lehtonen Venla                      
-OL,10,G 3 Leinamo Sonja                       
-OL,11,G 4 Charvatova Lucie                    
-OL,12,G 5 Gandler Anna                        
-OL,13,K                                       
-OL,14,K                                       
-OL,15,K                                       
-OL,16,K                                       
-OL,17,K                                       
-OL,18,K                                       
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 27.11. klo 17.15.
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,47713
-SC,0013
-PS,C100
-CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
-OL,1,D]G         P[IV[N TRIO 2          13/20
-OL,2,K                                       
-OL,3,BM        Otteluiden maalim{{r{t        
-OL,5,K                                       
-OL,6,Bkilpailu 1: San Jose - Vegas           
-OL,7,Bkilpailu 2: Anaheim - Los Angeles      
-OL,8,Bkilpailu 3: Minnesota - Colorado       
-OL,9,K                                       
-OL,10,G 1 0-1 maalia                          
-OL,11,G 2 2 maalia                            
-OL,12,G 3 3 maalia                            
-OL,13,G 4 4 maalia                            
-OL,14,G 5 5 maalia                            
-OL,15,G 6 6 maalia                            
-OL,16,G 7 7 maalia                            
-OL,17,G 8 8 maalia                            
-OL,18,G 9 9 maalia                            
-OL,19,G10 10 maalia                           
-OL,20,G11 11 maalia                           
-OL,21,G12 12 maalia tai yli                   
-OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 27.11. klo 23.00.
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,47714
-SC,0014
-PS,C100
-CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
-OL,1,D]G         P[IV[N TRIO 3          14/20
-OL,2,K                                       
-OL,3,BM        Otteluiden maalim{{r{t        
-OL,5,K                                       
-OL,6,Bkilpailu 1: Tappara - K-Espoo          
-OL,7,Bkilpailu 2: KalPa - JYP                
-OL,8,Bkilpailu 3: KooKoo - HPK               
-OL,9,K                                       
-OL,10,G 1 0-1 maalia                          
-OL,11,G 2 2 maalia                            
-OL,12,G 3 3 maalia                            
-OL,13,G 4 4 maalia                            
-OL,14,G 5 5 maalia                            
-OL,15,G 6 6 maalia                            
-OL,16,G 7 7 maalia                            
-OL,17,G 8 8 maalia                            
-OL,18,G 9 9 maalia                            
-OL,19,G10 10 maalia                           
-OL,20,G11 11 maalia                           
-OL,21,G12 12 maalia tai yli                   
-OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 27.11. klo 18.30.
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
-PN,47715
-SC,0015
-PS,C100
-CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
-OL,1,D]G         P[IV[N TRIO 4          15/20
-OL,2,K                                       
-OL,3,BM         Puoliaika/lopputulos         
-OL,5,K                                       
-OL,6,Bkilpailu 1: Nottingham - Chelsea       
-OL,7,Bkilpailu 2: Werder Bremen - M|nchenglad
-OL,8,Bkilpailu 3: Southampton - Middlesbrough
-OL,9,K                                       
-OL,10,G 1 1/1                                 
-OL,11,G 2 1/X                                 
-OL,12,G 3 1/2                                 
-OL,13,G 4 X/1                                 
-OL,14,G 5 X/X                                 
-OL,15,G 6 X/2                                 
-OL,16,G 7 2/1                                 
-OL,17,G 8 2/X                                 
-OL,18,G 9 2/2                                 
-OL,19,K                                       
-OL,20,K                                       
-OL,21,K                                       
-OL,22,K                                       
-OL,23,BPelaaminen p{{ttyy pe 27.11. klo 21.30.
-OL,24,AEtusviBUrheiluCTV-ohjelmatFSaa ja liike
-FL,100,200,300,400,0,100
 PN,47716
 SC,0016
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
 OL,1,D]G         P[IV[N TRIO 6          16/20
 OL,2,K                                       
 OL,3,BM         F1, aika-ajot, Qatar         
@@ -467,7 +467,7 @@ PN,47717
 SC,0017
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
 OL,1,D]G         P[IV[N TRIO 6          17/20
 OL,2,K                                       
 OL,3,BM         F1, aika-ajot, Qatar         
@@ -496,7 +496,7 @@ PN,47718
 SC,0018
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
 OL,1,D]G         P[IV[N TRIO 6          18/20
 OL,2,K                                       
 OL,3,BM         F1, aika-ajot, Qatar         
@@ -525,7 +525,7 @@ PN,47719
 SC,0019
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
 OL,1,D]G         P[IV[N TRIO 8          19/20
 OL,2,K                                       
 OL,3,BM        Otteluiden maalim{{r{t        
@@ -554,7 +554,7 @@ PN,47720
 SC,0020
 PS,C100
 CT,15,T
-OL,0,       G477 YLE TEKSTI-TV 27.03.15:51:30
+OL,0,       G477 YLE TEKSTI-TV 28.03.01:51:32
 OL,1,D]G         P[IV[N TRIO 9          20/20
 OL,2,K                                       
 OL,3,BM         Puoliaika/lopputulos         
